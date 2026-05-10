@@ -1,0 +1,100 @@
+{
+  "vocal_isolator": {
+    "seo": {
+            "title": "Free Vocal Isolator - An AI Vocal Isolator tool | AIVoiceLab",
+            "description": "Instantly extract vocals from any music, audio and video with our free vocal isolator online - the best AI Vocal Isolator Tool for everyone.",
+            "keywords": "vocal isolator, ai vocal isolator, isolate vocals, vocal isolation, isolated vocals"
+    },
+    "title": "Best Vocal Isolator Online",
+    "subtitle": "Instantly extract vocals from a song, music, audio or video, anytime, anywhere",
+    "result_title": "Vocal",
+    "process_button": "Start Separation",
+    "upload": {
+      "title": "Upload Audio",
+      "drag_drop": "Drag and drop your audio file here",
+      "formats": "Supports MP3, WAV, M4A, etc. (Max 10MB)",
+      "original_audio": "Original Audio",
+      "original_video": "Original Video",
+      "reset": "Reset"
+    },
+    "messages": {
+      "upload_first": "Please upload an audio file first",
+      "system_initializing": "System is initializing, please try again later",
+      "separation_success": "Separation succeeded!",
+      "quota_exhausted": "Free quota exhausted, please upgrade to premium",
+      "separation_failed": "Separation failed, please try again",
+      "server_busy": "Server is busy, please try again later",
+      "download_failed": "Download failed, please try again later",
+      "upload_failed": "Upload failed, please try again later",
+      "file_too_large": "File size exceeds the limit",
+      "file_type_not_supported": "File type not supported, please upload (MP3, WAV, M4A, FLAC, AAC, OGG, MP4, AVI, WMV, FLV, MKV, WEBM, MOV) files",
+      "parse_failed": "Response parsing failed",
+      "http_error": "HTTP Error: {status}",
+      "network_error": "Network error",
+      "timeout": "Request timed out",
+      "upload_aborted": "Upload aborted",
+      "uploading": "Uploading...",
+      "processing": "Processing..."
+    },
+    "advantages": {
+      "title": "Why Choose Our AI Vocal Isolator?",
+      "items": [
+          {
+              "title": "Professional AI Vocal Isolation",
+              "description": "Experience studio-quality vocal isolation with our advanced AI technology. Our vocal isolator tool precisely separates vocals from instrumentals, delivering crystal-clear results perfect for music production, karaoke, and audio remixing.",
+              "icon": "SparklesIcon"
+          },
+          {
+              "title": "Advanced Audio Processing",
+              "description": "Our AI vocal isolator employs cutting-edge algorithms to maintain voice clarity while effectively removing background music. The result is a professional-grade isolated vocal track that preserves the original voice characteristics.",
+              "icon": "MusicalNoteIcon"
+          },
+          {
+              "title": "Real-time Processing",
+              "description": "Get your isolated vocals in seconds with our efficient AI vocal isolator. No need to wait for lengthy processing times - our cloud-based system delivers quick results without compromising quality.",
+              "icon": "CpuChipIcon"
+          },
+          {
+              "title": "High-Quality Output",
+              "description": "Export your isolated vocals in high-definition audio formats. Our vocal isolator ensures premium quality output suitable for professional use in music production, karaoke, and audio remixing projects.",
+              "icon": "ArrowDownTrayIcon"
+          },
+          {
+              "title": "Precise Control",
+              "description": "Fine-tune your vocal isolation with advanced controls. Adjust separation parameters to achieve the perfect balance between voice clarity and background removal for your specific needs.",
+              "icon": "AdjustmentsHorizontalIcon"
+          },
+          {
+              "title": "Multi-format Support",
+              "description": "Our AI vocal isolator supports various audio formats including MP3, WAV, and M4A. Process your audio files regardless of their format, making it versatile for all your vocal isolation needs.",
+              "icon": "WrenchScrewdriverIcon"
+          }
+      ]
+    },
+    "faqs": {
+            "title": "About AI Vocal Isolator",
+            "items": [
+                {
+                    "question": "What is an AI Vocal Isolator?",
+                    "answer": "An AI Vocal Isolator is an advanced tool that uses artificial intelligence to separate vocals from instrumentals in music tracks. Our vocal isolator employs sophisticated machine learning algorithms to identify and extract vocal elements while maintaining their original quality and characteristics."
+                },
+                {
+                    "question": "How does our AI Vocal Isolator work?",
+                    "answer": "Our AI Vocal Isolator uses state-of-the-art machine learning algorithms to analyze the frequency spectrum of your audio. The system identifies voice frequencies, separates them from instrumental elements, and creates two distinct tracks: one containing only the vocals and another with the instrumental parts."
+                },
+                {
+                    "question": "What types of audio files can I process?",
+                    "answer": "Our vocal isolator supports various audio formats including MP3, WAV, M4A, and more. You can process any music track, whether it's a professional recording or a casual audio file. The system works best with clear vocal recordings and can handle files up to 10MB in size."
+                },
+                {
+                    "question": "How can I get the best results with the vocal isolator?",
+                    "answer": "For optimal results with our vocal isolator, use high-quality audio files with clear voices. Avoid heavily processed or distorted tracks, as they may affect the separation quality. The clearer the original recording, the better the vocal isolation results will be."
+                },
+                {
+                    "question": "Can I use the isolated vocals commercially?",
+                    "answer": "Yes, you can use the isolated vocals for your personal and commercial projects. However, please ensure you have the necessary rights to use the original audio content. Our vocal isolator is perfect for music producers, karaoke enthusiasts, and audio remixers looking to create new content."
+                }
+            ]
+        }
+  }
+}

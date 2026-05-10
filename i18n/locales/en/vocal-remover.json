@@ -1,0 +1,97 @@
+{
+  "vocal_remover": {
+    "seo": {
+      "title": "Vocal Remover: Free remove vocals from song, audio or video",
+      "description": "Instantly remove vocals from any song, audio or video with our vocal remover tool. Create high-quality karaoke or instrumental tracks online with advanced AI.",
+      "keywords": "vocal remover, remove vocals, AI vocal remover, AI lead vocals remover, remove vocals from song"
+    },
+    "title": "Best AI Vocal Remover Online",
+    "subtitle": "Instantly remove vocals from a song, music, audio or video, anytime, anywhere",
+    "result_title": "Instrumental",
+    "process_button": "Remove Vocals",
+    "upload": {
+      "title": "Upload Audio",
+      "drag_drop": "Drag and drop your audio file here",
+      "formats": "Supports MP3, WAV, M4A, etc. (Max 10MB)",
+      "original_audio": "Original Audio",
+      "reset": "Reset"
+    },
+    "messages": {
+      "upload_first": "Please upload an audio file first",
+      "system_initializing": "System is initializing, please try again later",
+      "separation_success": "Vocal removal succeeded!",
+      "quota_exhausted": "Free quota exhausted, please upgrade to premium",
+      "separation_failed": "Vocal removal failed, please try again",
+      "server_busy": "Server is busy, please try again later",
+      "download_failed": "Download failed, please try again later",
+      "upload_failed": "Upload failed",
+      "file_too_large": "File size exceeds the limit",
+      "parse_failed": "Response parsing failed",
+      "http_error": "HTTP Error: {status}",
+      "network_error": "Network error",
+      "timeout": "Request timed out",
+      "upload_aborted": "Upload aborted",
+      "processing": "Processing..."
+    },
+    "advantages": {
+      "title": "Why Choose Our AI Vocal Remover?",
+      "items": [
+        {
+          "title": "Professional Vocal Remover",
+          "description": "Experience studio-quality voice removal with our advanced AI technology. Our tool precisely removes lead vocals from songs, delivering crystal-clear instrumental tracks perfect for karaoke, remixing, and music production.",
+          "icon": "SparklesIcon"
+        },
+        {
+          "title": "Advanced Audio Processing",
+          "description": "Our AI lead vocal remover employs cutting-edge algorithms to maintain instrumental clarity while effectively removing voices. The result is a professional-grade instrumental track that preserves the original music characteristics.",
+          "icon": "MusicalNoteIcon"
+        },
+        {
+          "title": "Real-time Processing",
+          "description": "Get your instrumental tracks in seconds with our efficient AI vocal remover. No need to wait for lengthy processing times - our cloud-based system delivers quick results without compromising quality.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "High-Quality Output",
+          "description": "Export your instrumental tracks in high-definition audio formats. Our vocal remover ensures premium quality output suitable for professional use in karaoke, remixing, and music production projects.",
+          "icon": "ArrowDownTrayIcon"
+        },
+        {
+          "title": "Precise Control",
+          "description": "Fine-tune your vocal removal with advanced controls. Adjust separation parameters to achieve the perfect balance between instrumental clarity and voice removal for your specific needs.",
+          "icon": "AdjustmentsHorizontalIcon"
+        },
+        {
+          "title": "Multi-format Support",
+          "description": "Our AI lead vocal remover supports various audio formats including MP3, WAV, and M4A. Process your audio files regardless of their format, making it versatile for all your voice removal needs.",
+          "icon": "WrenchScrewdriverIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "About AI Vocal Remover",
+      "items": [
+        {
+          "question": "What is a Vocal Remover?",
+          "answer": "A vocal remover is a tool that uses AI to remove vocals from a song, leaving only the instrumental parts. Our AI Vocal Remover makes it easy to create karaoke or backing tracks by removing vocals from songs."
+        },
+        {
+          "question": "How does the AI Vocal Remover work?",
+          "answer": "Our AI Vocal Remover analyzes your audio, detects voice frequencies, and removes vocals while keeping the instrumental clear. The process uses advanced machine learning for accurate vocal removal and high-quality results."
+        },
+        {
+          "question": "Which audio formats are supported?",
+          "answer": "You can use our vocal remover with MP3, WAV, M4A, and other popular formats. The AI Vocal Remover is designed to remove vocals from a wide range of audio files up to 10MB."
+        },
+        {
+          "question": "How can I get the best results when I remove vocals?",
+          "answer": "For the best results with our vocal remover, use high-quality audio files with clear separation between vocals and instruments. Clean recordings help the AI Vocal Remover achieve more accurate voice removal."
+        },
+        {
+          "question": "Can I use the instrumental tracks commercially?",
+          "answer": "Yes, you can use the instrumental tracks created by our vocal remover for personal or commercial projects. Please ensure you have the rights to the original audio before using the AI Vocal Remover for commercial purposes."
+        }
+      ]
+    }
+  }
+} 

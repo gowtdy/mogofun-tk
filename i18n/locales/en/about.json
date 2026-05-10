@@ -1,0 +1,51 @@
+{
+  "about": {
+    "title": "About Us",
+    "seo": {
+      "title": "About Us | AI Voice Lab - AI Cover & Voice Over Generator",
+      "description": "Learn about AIVoiceLab. Discover our mission, vision, and how we're revolutionizing AI voice technology.",
+      "keywords": "AI Voice Lab, AI voice technology, AI voice generator, about us"
+    },
+    "companyProfile": {
+      "title": "Who We Are",
+      "description1": "AIVoiceLab is an innovative platform specializing in AI-powered voice generation, voice cloning, and audio transformation technologies.",
+      "description2": "Founded by a team of passionate AI researchers and audio engineers, we're dedicated to pushing the boundaries of what's possible with artificial intelligence in the audio domain. Our team combines expertise in machine learning, signal processing, and user experience design to create tools that are both powerful and accessible.",
+      "description3": "At AIVoiceLab, we provide advanced AI voice generation services that allow users to create high-quality AI covers, voice overs, and custom voice clones with remarkable realism and emotional nuance."
+    },
+    "mission": {
+      "title": "Our Mission & Vision",
+      "missionTitle": "Our Mission",
+      "missionText": "To democratize access to advanced voice technology, enabling creators, businesses, and individuals to express themselves through high-quality AI-generated voice content in ways that were previously impossible or inaccessible.",
+      "visionTitle": "Our Vision",
+      "visionText": "To become the global leader in AI voice technology, building a future where anyone can unleash their creativity through voice, regardless of their natural vocal abilities or technical expertise."
+    },
+    "values": {
+      "title": "Our Core Values",
+      "innovation": {
+        "title": "Innovation",
+        "description": "We constantly push the boundaries of AI voice technology, investing in research and development to create the most natural and expressive voice models available."
+      },
+      "userCentric": {
+        "title": "User-Centric",
+        "description": "Our users' needs drive everything we do. We design our platform to be intuitive, accessible, and aligned with the creative goals of our diverse user base."
+      },
+      "excellence": {
+        "title": "Excellence",
+        "description": "We're committed to delivering the highest quality in everything we do, from our voice models and user interface to our customer support and company culture."
+      }
+    },
+    "team": {
+      "title": "Our Team",
+      "description": "AIVoiceLab brings together passionate experts in AI, audio engineering, and product development. Our diverse team works tirelessly to build and improve AIVoiceLab, constantly innovating to deliver the best AI voice technology to our users."
+    },
+    "contact": {
+      "title": "Contact Us",
+      "getInTouch": "Get in Touch",
+      "message": "Have questions about our company or our services? We'd love to hear from you. Reach out to our team using the contact information below.",
+      "companyInfo": "Company Information",
+      "company": "Company",
+      "website": "Website",
+      "email": "Email"
+    }
+  }
+}

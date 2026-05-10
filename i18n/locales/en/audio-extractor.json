@@ -1,0 +1,97 @@
+{
+  "audio_extractor": {
+    "seo": {
+      "title": "Free Audio Extractor: Extract Audio from Video | AIVoiceLab",
+      "description": "Free audio extractor tool to extract audio from video.Works for YouTube, TikTok, Instagram, and many more platforms.",
+      "keywords": "Audio Extractor, Extract Audio from video, get audio from video, extract sound from video"
+    },
+    "title": "Audio Extractor",
+    "subtitle": "Online audio extractor to extract audio from your uploaded video",
+    "result_title": "Extracted Audio",
+    "process_button": "Extract Audio",
+    "upload": {
+      "title": "Upload Video",
+      "drag_drop": "Drag and drop your video file here",
+      "formats": "Supports MP4, MOV, AVI, etc. (Max 10MB)",
+      "original_video": "Original Video",
+      "reset": "Reset"
+    },
+    "messages": {
+      "upload_first": "Please upload a video file first",
+      "system_initializing": "System is initializing, please try again later",
+      "extraction_success": "Audio extraction succeeded!",
+      "quota_exhausted": "Free quota exhausted, please upgrade to premium",
+      "extraction_failed": "Extraction failed, please try again",
+      "server_busy": "Server is busy, please try again later",
+      "download_failed": "Download failed, please try again later",
+      "upload_failed": "Upload failed",
+      "file_too_large": "File size exceeds the limit",
+      "parse_failed": "Response parsing failed",
+      "http_error": "HTTP Error: {status}",
+      "network_error": "Network error",
+      "timeout": "Request timed out",
+      "upload_aborted": "Upload aborted",
+      "processing": "Extracting..."
+    },
+    "advantages": {
+      "title": "Why Choose Our Professional Audio Extractor Tool?",
+      "items": [
+        {
+          "title": "High-Quality Sound Extraction from Videos",
+          "description": "Our advanced audio extractor technology ensures you get crystal-clear sound from your videos, preserving original sound quality with our specialized sound extraction algorithms.",
+          "icon": "SparklesIcon"
+        },
+        {
+          "title": "Fast & Efficient Sound Extraction Process",
+          "description": "Extract audio from video in seconds with our powerful cloud-based audio extractor. No software installation needed - just upload and extract sound instantly.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Extract Sound from Multiple Video Formats",
+          "description": "Our video to audio extraction tool supports all popular formats including MP4, MOV, AVI, and more. Get audio from video file with our versatile extraction technology.",
+          "icon": "WrenchScrewdriverIcon"
+        },
+        {
+          "title": "Simple Sound Download Options",
+          "description": "After extracting sound from video, download high-quality MP3 files with a single click. Our audio extractor makes it easy to get sound for your projects.",
+          "icon": "ArrowDownTrayIcon"
+        },
+        {
+          "title": "Secure Video to Audio Extraction",
+          "description": "We respect your privacy when you extract audio from video. All uploaded videos and extracted sound files are processed securely and deleted after extraction is complete.",
+          "icon": "ShieldCheckIcon"
+        },
+        {
+          "title": "Free Sound Extraction Service",
+          "description": "Our basic video to audio extractor is completely free to use. Extract audio from video without cost, with premium options available for advanced sound extraction needs.",
+          "icon": "CurrencyDollarIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Frequently Asked Questions About Our Audio Extractor",
+      "items": [
+        {
+          "question": "What is an Audio Extractor and how does it work?",
+          "answer": "An Audio Extractor is a specialized tool that separates and extracts the sound track from a video file. Our AI-powered audio extractor uses advanced algorithms to extract high-quality sound while preserving all original sound characteristics. Simply upload your video, and our system will extract the voice for you to download."
+        },
+        {
+          "question": "Which video formats can I use to extract sound?",
+          "answer": "Our audio extractor tool supports extracting sound from video formats including MP4, MOV, AVI, WMV, FLV, and more. You can extract sound from virtually any standard video file format with our versatile AI extraction technology."
+        },
+        {
+          "question": "What music format will I get after extracting music from video?",
+          "answer": "When you extract audio from video, you'll receive the extracted music in high-quality MP3 format. This format provides excellent sound quality while maintaining a reasonable file size after extraction. The MP3 music format is compatible with almost all devices and media players."
+        },
+        {
+          "question": "Is there a file size limit when extracting music from video?",
+          "answer": "Yes, our free audio extractor allows you to extract audio from video up to 10MB in size. For extracting sound from larger video files, you can upgrade to our premium sound extraction service which supports extracting sound from video up to 500MB."
+        },
+        {
+          "question": "How can I use the music extracted from video?",
+          "answer": "After extracting music from video, you can use the extracted music for various purposes such as creating podcasts, adding background music to presentations, music production, language learning materials, or any project that requires music extracted from video sources. Our audio extractor makes it easy to get the music you need."
+        }
+      ]
+    }
+  }
+} 

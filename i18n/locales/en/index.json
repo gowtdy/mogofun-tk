@@ -1,0 +1,617 @@
+{
+  "comm": {
+    "home": "Home",
+    "aicover": "AI Cover",
+    "voice": "Voice",
+    "characterVoice": "Character Voice",
+    "celebrityVoice": "Celebrity Voice",
+    "aiVoice": "AI Voice Generator",
+    "audio": "Audio Tools",
+    "soundEffects": "Sound Effects",
+    "vocalIsolation": "Vocal Isolator",
+    "pricing": "Pricing",
+    "login": "Login",
+    "settings": "Settings",
+    "logout": "Logout",
+    "privacyPolicy": "Privacy Policy",
+    "termsService": "Terms of Service",
+    "refundService": "Refund Policy",
+    "dmcaPolicy": "DMCA Policy",
+    "aboutUs": "About Us",
+    "footerDesc": "Create AI Cover and AI Voice Over with your favorite voices.",
+    "contact": "Contact: ",
+    "aiVoiceGenerator": "AI Voice Generator",
+    "aiCover": "AI Cover & AI Voice Over",
+    "quickLinks": "Quick Links",
+    "friendsLinks": "Friends Links",
+    "more": "More",
+    "selectCategory": "Select Category",
+    "loginModalIntro": "Login to access your AIVoiceLab account",
+    "loginModalService": "By signing in, you agree to our Terms of Service and Privacy Policy",
+    "loginModalUnlogged": "Unable to load Google login service",
+    "loginModalVPN": "Please ensure you can access Google services normally, or try using a VPN",
+    "company": "Company",
+    "vocalRemover": "Vocal Remover",
+    "video": "Video Tools",
+    "startUsing": "Start Using AIVoiceLab",
+    "audioExtraction": "Audio Extractor",
+    "upload":{
+      "uploading": "Uploading...",
+      "reset": "Reset"
+    },
+    "audioUpload": {
+      "title": "Upload Audio",
+      "drag_drop": "Drag & drop your audio file here",
+      "formats": "Supported formats: MP3, WAV, M4A, FLAC, AAC, OGG, MP4, MOV (max 20MB)",
+      "uploaded": "Uploaded Audio",
+      "unsupported": "Your browser does not support the audio element.",
+      "or": "or",
+      "browse": "Browse files",
+      "uploadAgain": "Upload again"
+    },
+    "videoUpload": {
+      "title": "Upload Video",
+      "drag_drop": "Drag and drop your video file here",
+      "formats": "Supports MP4, MOV, AVI, etc. (Max 20MB)",
+      "uploaded": "Uploaded Video",
+      "unsupported": "Your browser does not support the video tag."
+    },
+    "record": {
+      "start": "Click to start recording",
+      "stop": "Click to stop recording",
+      "recording": "Recording...",
+      "preview": "Preview recording",
+      "uploaded": "Recorded audio",
+      "rerecord": "Record again"
+    },
+    "messages": {
+      "upload_first": "Please upload a file first",
+      "upload_failed": "Upload failed, please try again later"
+    }
+  },
+  "seo": {
+    "title": "AI Cover: Generate AI Song Cover Free | AIVoiceLab",
+    "description": "Transform any song with our AI cover generator. Create AI song cover using over thousand of community uploaded AI voice models. Try free now!",
+    "keywords": "AI Cover, AI Cover Generator, AI Song Cover, AI Voice Cover, Cover AI"
+  },
+  "index": {
+    "mainDesc": {
+      "title": "Create AI Covers with Your Favorite Voices",
+      "content": "Ever dreamed of recording yourself singing a popular song but worry you don't have the voice of an artist, singer, kpop idol, or cartoon character? That's where our AI cover generator steps in! With cutting-edge AI technology, we can clone voices from your favorite artists and create flawless AI cover songs. You've got a treasure trove of celebrity voices to choose from, including Adele, Taylor Swift, The Weekend, Drake, Bieber, Blackpink, BTS, and many more. Just pick your preferred voice model, and let our AI cover generator work its magic. Sing your heart out and sound amazing!"
+    },
+    "howItWorks": {
+      "title": "How to Make AI Cover Songs Online Easily?",
+      "steps": [
+        {
+          "title": "Choose an AI Voice Model",
+          "desc": "Select from our extensive collection of AI voice models based on categories like artists, public figures, cartoons, animes, and more. Each model is carefully trained to deliver authentic-sounding AI covers."
+        },
+        {
+          "title": "Upload Your Audio or Video",
+          "desc": "Add an audio or video file you want to transform from your device. You can also include a face photo to create an amazing lip-sync music video with your AI cover."
+        },
+        {
+          "title": "Preview & Download",
+          "desc": "Once the model has finished processing, preview your AI cover song and make any adjustments. When satisfied, download your creation in high-quality audio formats or as a video for sharing."
+        }
+      ]
+    },
+    "useCases": {
+      "title": "Be the Superstar of Your Own AI Song Cover",
+      "cases": [
+        {
+          "title": "Be the Next-Generation Musical Legend",
+          "desc": "Are you inspired by famous music producers like Taylor Swift, The Weekend, or Michael Jackson? Our AI cover generator empowers you to be your own music producer without investing in expensive equipment or studios. Create impressive cover songs for practicing lyrics, composing fresh tracks and more!"
+        },
+        {
+          "title": "Wow Your Social Media Followers",
+          "desc": "Stand out on social media by sharing creative AI covers on YouTube, TikTok, Facebook, Instagram, and Spotify. Create entertaining content by transforming popular songs with unique voice combinations. Generate matched singing videos with dynamic animations to build your unique social media presence."
+        },
+        {
+          "title": "Reconnect with Your Music Heroes",
+          "desc": "Transform any song into the voice of your favorite artists. Whether you're a fan of Adele, Taylor Swift, or K-pop stars, our AI cover generator lets you enjoy familiar songs in new ways. Perfect for singing along while showering, cooking, driving, or working out."
+        }
+      ]
+    },
+    "trendingVoices": {
+      "title": "Popular AI Cover Voices",
+      "subtitle": "Discover trending AI voice models for your next cover song"
+    },
+    "usageLimit": {
+      "title": "Daily Usage Limit Reached",
+      "message": "You've reached the maximum daily usage limit. Please try again tomorrow or contact us for extended usage."
+    },
+    "nosupportMessage": "Your browser does not support the audio element.",
+    "errorMessage": "There is unknown error when generating, please try later!"
+  },
+  "advantages": {
+    "title": "Why Choose Our AI Cover Generator",
+    "items": [
+      {
+        "title": "Professional AI Cover Quality",
+        "description": "Create studio-quality AI song covers using advanced technology. Our sophisticated voice models ensure natural-sounding results that rival professional recordings. Perfect for music production, YouTube content, and social media sharing."
+      },
+      {
+        "title": "Extensive Voice Library",
+        "description": "Access 1000+ AI voice models to create unique AI covers. From chart-topping artists like Taylor Swift and Drake to viral personalities and anime characters. New voices added regularly to keep your covers fresh and engaging."
+      },
+      {
+        "title": "Easy AI Cover Creation",
+        "description": "Generate AI voice covers in minutes with our user-friendly interface. No technical expertise needed - simply upload your song, choose a voice, and create amazing AI covers instantly. Perfect for beginners and professionals alike."
+      },
+      {
+        "title": "Multiple Music Styles",
+        "description": "Create AI covers across various genres - pop, rock, hip-hop, country and more. Our AI cover generator adapts to any musical style while maintaining voice authenticity. Perfect for experimenting with different genres and styles."
+      },
+      {
+        "title": "High-Quality Output",
+        "description": "Download your AI covers in premium audio formats including MP3, WAV, and FLAC. Enjoy professional-grade sound quality with crystal-clear vocals and perfect mixing. Ideal for professional music production or social media content."
+      },
+      {
+        "title": "Advanced Enhancement Tools",
+        "description": "Fine-tune your AI covers with our built-in tools. Adjust voice clarity, add background music, trim audio, and create the perfect mix. Control pitch, tempo, and effects to achieve your desired sound."
+      },
+      {
+        "title": "AI Chorus & Duets",
+        "description": "Create stunning vocal harmonies and duets with our technology. Combine multiple AI voices for rich, layered performances. Perfect for creating complex musical arrangements and unique collaborations."
+      },
+      {
+        "title": "Custom Voice Training",
+        "description": "Train your own AI voice model for unique covers. Upload your voice samples and let our AI create a personalized voice model. Ideal for creating covers in your own voice or developing custom character voices."
+      }
+    ]
+  },
+  "faqs": {
+    "title": "AI Cover Generator FAQs",
+    "items": [
+      {
+        "question": "What is an AI cover generator?",
+        "answer": "An AI cover generator is a powerful tool that uses artificial intelligence to transform songs into new versions with different voices. Our AI cover generator lets you create professional song covers using various voice models, perfect for content creators, musicians, and music enthusiasts. It uses advanced machine learning to analyze and recreate songs while maintaining high audio quality."
+      },
+      {
+        "question": "How to create an AI cover song?",
+        "answer": "Creating an AI cover song is simple: 1) Upload your original song or instrumental track (supported formats include WAV, MP3, MP4, FLAC, etc.) 2) Choose from our collection of voice models 3) Generate your AI cover instantly 4) Preview and adjust settings if needed 5) Download your new AI voice cover. Our AI cover generator makes it easy to produce professional-quality covers in minutes."
+      },
+      {
+        "question": "What makes our AI cover generator unique?",
+        "answer": "Our AI cover generator stands out with superior voice quality, extensive voice library, and easy-to-use interface. We offer the latest AI technology for creating realistic song covers, supporting multiple music styles and genres. Features include voice customization, batch processing, video generation, and style transfer. Plus, we regularly update our voice models and provide comprehensive customer support."
+      },
+      {
+        "question": "Can I use AI covers for my content?",
+        "answer": "Yes! AI covers created with our generator are perfect for various uses including social media content, music projects, and personal enjoyment. Our AI voice cover technology helps you produce unique versions of your favorite songs while respecting original artists' work. Great for YouTube videos, TikTok content, background music, and more."
+      },
+      {
+        "question": "How does AI voice cover technology work?",
+        "answer": "Our AI cover generator uses advanced machine learning to analyze and recreate songs with new voices. The technology preserves the original music's quality while applying selected voice models to create professional covers. This enables creators to produce high-quality AI song covers quickly and easily. Analyze vocal patterns, pitch, timing, and style to create authentic-sounding covers."
+      },
+      {
+        "question": "What voice models are available?",
+        "answer": "We offer a vast library of voice models including popular artists (Taylor Swift, Drake, Michael Jackson), anime characters, cartoon voices, and more. New models are added regularly based on user requests and trending voices. You can also create custom voice models by training with your own voice samples."
+      },
+      {
+        "question": "Can I create AI duets and chorus effects?",
+        "answer": "Yes! Our AI cover generator supports creating duets and chorus effects by combining multiple AI voices. You can layer up to three different voice models to create rich harmonies and unique vocal arrangements. Perfect for creating complex musical pieces or experimenting with different vocal combinations."
+      },
+      {
+        "question": "What are the input file requirements?",
+        "answer": "We support various audio formats including WAV, MP3, MP4, WAVE, OGG, FLAC, M4A, AAC, AIFF, OPUS, and OGA. The maximum file size is 20MB. For best results, use high-quality audio files with clear vocals or instrumental tracks. You can also use YouTube links to generate covers from online videos."
+      },
+      {
+        "question": "Is there a free trial available?",
+        "answer": "Yes! New users can try our AI cover generator with 2 free generations using our basic voice models. This allows you to test the quality and features before upgrading to a paid plan. We also offer regular promotional discounts for new users."
+      },
+      {
+        "question": "How can I improve my AI covers?",
+        "answer": "To create better AI covers: 1) Use high-quality input audio 2) Choose appropriate voice models for your song style 3) Experiment with voice settings and effects 4) Use the built-in enhancement tools 5) Try different combinations of voices for duets and chorus effects 6) Take advantage of our video generation features for creating engaging content."
+      }
+    ]
+  },
+  "tts_generator": {
+    "input": {
+      "placeholder": "Enter text to convert to speech...",
+      "presets": {
+        "title": "Preset Text",
+        "categories": {
+          "greetings": "Greetings",
+          "emotions": "Emotions",
+          "actions": "Actions",
+          "stories": "Stories"
+        },
+        "texts": {
+          "greetings": [
+            "Hello, how are you today?",
+            "Good morning, everyone!",
+            "Welcome to my channel!"
+          ],
+          "emotions": [
+            "I'm so happy to see you!",
+            "That's really amazing!",
+            "This is absolutely incredible!"
+          ],
+          "actions": [
+            "Don't forget to like and subscribe!",
+            "Check out the link in description!",
+            "Follow me for more content!"
+          ],
+          "stories": [
+            "Once upon a time...",
+            "Let me tell you a story...",
+            "Here's something interesting..."
+          ]
+        }
+      }
+    },
+    "voice": {
+      "preview": "Preview"
+    },
+    "buttons": {
+      "generate": "Generate Speech",
+      "generating": "Generating...",
+      "download": "Download",
+      "downloading": "Downloading...",
+      "play": "Play",
+      "pause": "Pause"
+    },
+    "messages": {
+      "select_voice": "Please select a voice and enter text to generate"
+    }
+  },
+  "paymodal": {
+    "title": "Upgrade to get more benefits",
+    "btn": "Upgrade NOW",
+    "lowas": "As Low as",
+    "period": "/month",
+    "save": "You save $9.00. Time Limited!",
+    "features": {
+      "items": [
+        "10,000+ Premium Voice Models",
+        "Natural AI Voice Generation",
+        "Studio-Quality Cover Maker",
+        "Pro Sound Effects Library",
+        "Perfect Vocal Separation",
+        "Smart Audio Processing",
+        "Unlimited Downloads"
+      ]
+    },
+    "quotaExhausted": {
+      "tts": "Your Text-to-Speech quota has been exhausted",
+      "cover": "Your AI Cover generation quota has been exhausted",
+      "sound": "Your Sound Effect generation quota has been exhausted",
+      "vocalisolate": "Your Vocal Isolation quota has been exhausted",
+      "vocalremover": "Your Vocal Remover quota has been exhausted",
+      "audioextractor": "Your Audio Extractor quota has been exhausted",
+      "default": "Your quota has been exhausted",
+      "hint": "Upgrade your plan to unlock more usage and enjoy unlimited creativity"
+    }
+  },
+  "pricing": {
+    "title": "🚀 Choose Your Plan & Power Up Your Content",
+    "period": {
+      "monthly": "Monthly",
+      "annually": "Annually",
+      "save": "Save 40%"
+    },
+    "renew": "Renews at",
+    "after": "after the first month",
+    "monthbilled": "billed monthly",
+    "yearbilled": "billed annually",
+    "freebilled": "Free to try",
+    "loading": "PROCESSING...",
+    "plans": {
+      "business": {
+        "name": "Business",
+        "period": "/month",
+        "features": {
+          "items": [
+            "Able to use all voices",
+            "600000 characters text-to-speech per month",
+            "200 song covers per month",
+            "1200 AI Sound Effects per month",
+            "200 vocal isolator per month",
+            "200 vocal remover per month",
+            "200 audio extractor per month",
+            "Latest voice updates",
+            "Unlimited Downloads",
+            "All Advanced Voice Features",
+            "48h support by email"
+          ]
+        }
+      },
+      "pro": {
+        "name": "Pro",
+        "period": "/month",
+        "features": {
+          "items": [
+            "Able to use all voices",
+            "300000 characters text-to-speech per month",
+            "90 song covers per month",
+            "600 AI Sound Effects per month",
+            "100 vocal isolator per month",
+            "100 vocal remover per month",
+            "100 audio extractor per month",
+            "Latest voice updates",
+            "Unlimited Downloads",
+            "All Advanced Voice Features",
+            "48h support by email"
+          ]
+        }
+      },
+      "starter": {
+        "name": "Starter",
+        "period": "/month",
+        "features": {
+          "items": [
+            "Able to use all voices",
+            "100000 characters text-to-speech per month",
+            "30 song covers per month",
+            "200 AI Sound Effects per month",
+            "30 vocal isolator per month",
+            "30 vocal remover per month",
+            "30 audio extractor per month",
+            "Latest voice updates",
+            "Unlimited Downloads",
+            "All Advanced Voice Features",
+            "72h support by email"
+          ]
+        }
+      },
+      "free": {
+        "name": "Free",
+        "period": "/month",
+        "features": {
+          "items": [
+            "5 times text-to-speech per day limit",
+            "20 times text-to-speech per month limit",
+            "4 times AI Cover per day limit",
+            "10 times AI Cover per month limit"
+          ]
+        }
+      }
+    },
+    "cta": "GET STARTED",
+    "popular": "Popular",
+    "trybnt": "Try Now"
+  },
+  "features": {
+    "title": "Powerful Features for Creating Amazing AI Covers",
+    "items": [
+      {
+        "title": "Voice Customization",
+        "desc": "Fine-tune voice parameters to match your creative vision. Adjust pitch, tempo, and style to create the perfect AI cover."
+      },
+      {
+        "title": "Batch Processing",
+        "desc": "Convert multiple songs efficiently with our batch processing feature. Perfect for creating album covers or content series."
+      },
+      {
+        "title": "Video Generation",
+        "desc": "Create engaging music videos with AI-powered lip-sync technology. Transform still images into dynamic singing performances."
+      },
+      {
+        "title": "Style Transfer",
+        "desc": "Experiment with different musical styles and genres. Transform any song into various musical interpretations."
+      }
+    ]
+  },
+  "ai_cover": {
+    "seo": {
+      "title": "Free AI Cover| AIVoiceLab",
+      "description": "Instantly make your favorite AI cover with our AI Cover Generator.  Choose from thousands of singing voices, including characters, celebrities and more.",
+      "keywords": "AI Cover, Free AI Cover"
+    },
+    "meta": {
+      "og": {
+        "title": "Free AI Cover| AIVoiceLab",
+        "description": "Instantly make your favorite AI cover with our AI Cover Generator.  Choose from thousands of singing voices, including characters, celebrities and more."
+      },
+      "twitter": {
+        "title": "Free AI Cover| AIVoiceLab",
+        "description": "Instantly make your favorite AI cover with our AI Cover Generator.  Choose from thousands of singing voices, including characters, celebrities and more."
+      }
+    },
+    "hero": {
+      "title": "AI Cover",
+      "subtitle": "Instantly create AI cover with your favorite voices"
+    },
+    "converter": {
+      "title": "Listen & Pick an AI Voice",
+      "model": {
+        "selectError": "Please select a voice model!"
+      },
+      "input": {
+        "title": "Add Your Audio:",
+        "description": "You can use sample audio files, add YouTube songs, upload audio files, or record your voice."
+      },
+      "tabs": {
+        "main": {
+          "cover": "AI Song Cover",
+          "tts": "Text to Speech"
+        },
+        "sample": "Cover Demos",
+        "youtube": "Add from YouTube",
+        "upload": "Upload",
+        "record": "Record"
+      },
+      "gender": {
+        "title": "Mark the gender of the uploaded audio",
+        "female": "Female",
+        "male": "Male",
+        "duet": "Duet",
+        "selectError": "Please select the gender of the uploaded or recorded audio!"
+      },
+      "buttons": {
+        "create": "Generate",
+        "tryAgain": "Try Again",
+        "download": "Download",
+        "play": "Play",
+        "pause": "Pause",
+        "stop": "Stop",
+        "preview": "Preview"
+      },
+      "generate": {
+        "success": "Generate succeed!"
+      },
+      "upload": {
+        "drag": "Drag & drop your audio file here",
+        "or": "or",
+        "browse": "Browse files",
+        "formats": "Supported formats: MP3, WAV, M4A, FLAC, AAC, OGG, MP4, MOV (max 10MB)",
+        "uploadAgain": "Upload again",
+        "uploading": "Uploading..."
+      },
+      "record": {
+        "start": "Click to start recording",
+        "stop": "Click to stop recording",
+        "recording": "Recording...",
+        "preview": "Preview recording",
+        "rerecord": "Record again"
+      },
+      "download": {
+        "noAudio": "No audio to download",
+        "invalidAudio": "Invalid audio data, please try again later!",
+        "success": "Download successed!",
+        "failed": "Download failed, please try again later!"
+      },
+      "errors": {
+        "serverBusy": "The server is busy, please try again later!",
+        "convertFailed": "Convert song failed, please try again later!",
+        "inputText": "Please type or paste text!",
+        "fileFormat": "Please upload MP3, WAV, M4A, AAC, OGG, FLAC format audio file",
+        "fileSize": "File size exceeds 10MB limit",
+        "uploadTimeout": "Upload request timed out, please try later!",
+        "microphoneAccess": "Cannot access microphone. Please make sure microphone access is allowed!",
+        "selectSample": "Please select a sample audio!",
+        "uploadFile": "Please upload an audio file first!",
+        "recordAudio": "Please record an audio first!",
+        "youtubeLink": "Please enter a YouTube link!",
+        "invalidSubTab": "Invalid subTab type!",
+        "uploadFailed": "File upload failed, please try again later, or contact us!",
+        "tts": {
+          "failed": "Generation TTS failed",
+          "limitExceeded": "You have exceeded the usage limit for today."
+        }
+      }
+    },
+    "advantages": {
+      "title": "Why Choose Our AI Cover Generator",
+      "items": [
+        {
+          "title": "Professional AI Cover Quality",
+          "description": "Create studio-quality AI cover songs using our advanced AI cover technology. Our sophisticated voice models ensure natural-sounding cover results that rival professional recordings. Perfect for music production, YouTube content, and social media sharing with our generator."
+        },
+        {
+          "title": "Extensive AI Cover Voice Library",
+          "description": "Access thousands of voices models to create unique free AI cover. From chart-topping artists like Taylor Swift and Drake to viral personalities and anime characters. New voices added regularly to keep your free AI cover creations fresh and engaging."
+        },
+        {
+          "title": "Easy AI Cover Creation",
+          "description": "Generate AI cover songs in minutes with our user-friendly interface. No technical expertise needed - simply upload your song, choose a voice, and create amazing covers instantly. Perfect for beginners and professionals alike using our generator."
+        },
+        {
+          "title": "Multiple Music Styles for AI Covers",
+          "description": "Create AI cover songs across various genres - pop, rock, hip-hop, country and more. Our generator adapts to any musical style while maintaining voice authenticity. Perfect for experimenting with different genres and styles in your covers creations."
+        },
+        {
+          "title": "High-Quality AI Cover Output",
+          "description": "Download your AI cover songs in premium audio formats including MP3, WAV, and FLAC. Enjoy professional-grade sound quality with crystal-clear vocals and perfect mixing. Ideal for professional music production or social media content with our generator."
+        },
+        {
+          "title": "Advanced Free AI Cover Enhancement Tools",
+          "description": "Fine-tune your free AI cover songs with our built-in tools. Adjust voice clarity, add background music, trim audio, and create the perfect mix. Control pitch, tempo, and effects to achieve your desired sound in your AI cover creations."
+        },
+        {
+          "title": "Free AI Cover Chorus & Duets",
+          "description": "Create stunning vocal harmonies and duets with our cover technology. Combine multiple voices for rich, layered performances. Perfect for creating complex musical arrangements and unique collaborations in your cover songs."
+        },
+        {
+          "title": "Custom Voice Training for AI Covers",
+          "description": "Train your own voice model for unique free AI cover songs. Upload your voice samples and let our generator create a personalized voice model. Ideal for creating covers in your own voice or developing custom character voices with our generator."
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Free AI Cover Generator FAQs",
+      "items": [
+        {
+          "question": "What is a AI cover generator?",
+          "answer": "An AI cover generator is a powerful tool that uses artificial intelligence to transform songs into new versions with different voices. Our generator lets you create professional song covers using various voice models, perfect for content creators, musicians, and music enthusiasts. It uses advanced machine learning to analyze and recreate songs while maintaining high audio quality."
+        },
+        {
+          "question": "How to create an AI cover song?",
+          "answer": "Creating an AI cover song is simple: 1) Upload your original song or instrumental track (supported formats include WAV, MP3, MP4, FLAC, etc.) 2) Choose from our collection of voice models 3) Generate your AI cover instantly 4) Preview and adjust settings if needed 5) Download your new cover. Our generator makes it easy to produce professional-quality covers in minutes."
+        },
+        {
+          "question": "What makes our AI cover generator unique?",
+          "answer": "Our generator stands out with superior voice quality, extensive voice library, and easy-to-use interface. We offer the latest technology for creating realistic free AI cover songs, supporting multiple music styles and genres. Features include voice customization, batch processing, video generation, and style transfer. Plus, we regularly update our voice models and provide comprehensive customer support for your free AI cover needs."
+        },
+        {
+          "question": "Can I use AI cover for my content?",
+          "answer": "Yes! AI cover created with our generator are perfect for various uses including social media content, music projects, and personal enjoyment. Our free AI voice cover technology helps you produce unique versions of your favorite songs while respecting original artists' work. Great for YouTube videos, TikTok content, background music, and more with our generator."
+        },
+        {
+          "question": "How does free AI voice cover technology work?",
+          "answer": "Our generator uses advanced machine learning to analyze and recreate songs with new voices. The technology preserves the original music's quality while applying selected voice models to create professional free AI cover songs. This enables creators to produce high-quality AI cover songs quickly and easily. Analyze vocal patterns, pitch, timing, and style to create authentic-sounding covers."
+        },
+        {
+          "question": "What voice models are available for free AI cover?",
+          "answer": "We offer a vast library of voice models for creating free AI cover songs including popular artists (Taylor Swift, Drake, Michael Jackson), anime characters, cartoon voices, and more. New models are added regularly based on user requests and trending voices. You can also create custom voice models by training with your own voice samples for unique free AI cover creations."
+        },
+        {
+          "question": "Can I create AI cover duets and chorus effects?",
+          "answer": "Yes! Our generator supports creating duets and chorus effects by combining multiple voices. You can layer up to three different voice models to create rich harmonies and unique vocal arrangements in your free AI cover songs. Perfect for creating complex musical pieces or experimenting with different vocal combinations."
+        },
+        {
+          "question": "What are the input file requirements for AI cover?",
+          "answer": "We support various audio formats for creating AI cover songs including WAV, MP3, MP4, WAVE, OGG, FLAC, M4A, AAC, AIFF, OPUS, and OGA. The maximum file size is 10MB. For best results, use high-quality audio files with clear vocals or instrumental tracks. You can also use YouTube links to generate free AI cover from online videos."
+        },
+        {
+          "question": "Is there a free trial available for AI cover generation?",
+          "answer": "Yes! New users can try our generator with 2 free generations using our basic voice models. This allows you to test the quality and features of creating free AI cover songs before upgrading to a paid plan. We also offer regular promotional discounts for new users interested in free AI cover creation."
+        },
+        {
+          "question": "How can I improve my free AI cover songs?",
+          "answer": "To create better free AI cover songs: 1) Use high-quality input audio 2) Choose appropriate voice models for your song style 3) Experiment with voice settings and effects 4) Use the built-in enhancement tools 5) Try different combinations of voices for duets and chorus effects 6) Take advantage of our video generation features for creating engaging free AI cover content."
+        }
+      ]
+    }
+  },
+  "settings": {
+    "title": "Account Settings",
+    "subtitle": "Manage your account settings, subscription and usage statistics.",
+    "basicInfo": "Basic Information",
+    "loginRequired": "Please log in to view your account settings",
+    "backToHome": "Back to Home",
+    "subscription": "Subscription Plan",
+    "active": "Active",
+    "inactive": "Inactive",
+    "manageSubscription": "Manage Subscription",
+    "upgrade": "Upgrade Now",
+    "nextBilling": "Next Billing Date",
+    "viewPlans": "View Plans",
+    "usageStats": "Usage Statistics",
+    "voiceGeneration": "AI Voice Generation Usage",
+    "voiceGenerationCount": "AI Voice Generation Count",
+    "coverGeneration": "AICover Generation Usage",
+    "coverGenerationCount": "AI Cover Generation Count",
+    "soundGenerationCount": "AI Sound Effect Generation Count",
+    "vocalisolateCount": "Vocal Isolation Count",
+    "vocalremoverCount": "Vocal Remover Count",
+    "audioextractorCount": "Audio Extractor Count",
+    "today": "Today",
+    "thisMonth": "This Month",
+    "closeAccount": "Close Account",
+    "closeAccountDescription": "Permanently delete your account and all associated data. This action cannot be undone.",
+    "closeAccountWarning": "Warning: This action is irreversible. All your data will be permanently deleted.",
+    "closeAccountButton": "Close My Account",
+    "closeAccountConfirm": "Are you sure you want to close your account? This action cannot be undone.",
+    "cancelSubBeforeClose": "Please cancel your subscription before closing your account.",
+    "fetchSubscriptionFailed": "Unable to fetch account status. Please try again later.",
+    "closeAccountSuccess": "Account closed successfully.",
+    "closeAccountError": "Error closing account. Please try again later.",
+    "confirm": "Confirm",
+    "cancel": "Cancel"
+  },
+  "friends": {
+    "title": "Friends"
+  }
+}

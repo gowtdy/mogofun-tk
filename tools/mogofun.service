@@ -1,0 +1,32 @@
+[Unit]
+Description=MoGoFun Nuxt Application
+Documentation=https://nuxt.com/
+After=network.target
+
+[Service]
+Type=simple
+
+User=%SERVICE_USER%
+Group=%SERVICE_GROUP%
+Environment=CONFIG_FILE=%USER_HOME%/service/mogofun-tk/ecosystem.config.cjs
+Environment=PATH=%USER_HOME%/.nvm/versions/node/v22.12.0/bin:/usr/local/bin:/usr/bin:/bin
+ExecStart=/bin/sh -c 'pm2 start "$CONFIG_FILE" --no-daemon'
+ExecReload=/bin/sh -c 'pm2 reload "$CONFIG_FILE"'
+ExecStop=/bin/sh -c 'pm2 stop "$CONFIG_FILE"'
+Restart=always
+RestartSec=10
+StandardOutput=journal
+StandardError=journal
+Environment=NODE_ENV=production
+Environment=PORT=4202
+Environment=HOST=0.0.0.0
+
+# 安全设置
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=full
+ProtectHome=read-only
+ReadWritePaths=/home/aigc/service/voice/web_dist/mogofun_dist %USER_HOME%/.pm2
+
+[Install]
+WantedBy=multi-user.target

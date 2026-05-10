@@ -1,0 +1,1782 @@
+models:
+  english:
+    -
+     id: 0
+     name: voice-lady-female
+     display: Female-Jessie(Voice Lady)
+     catid: english
+     catname: English(US)
+     wavplay: /outimage/wavplay/common_models/english/voice-lady-female/voice-lady-female_audio_prompt.mp3
+     desc: voice-lady-female
+    -
+     id: 1
+     name: grannny-female
+     display: Female-Grannny
+     catid: english
+     catname: English(US)
+     wavplay: /outimage/wavplay/common_models/english/grannny-female/grannny-female_audio_prompt.mp3
+     desc: granny-female
+    -
+     id: 2
+     name: skye-female
+     display: Female-Sky
+     catid: english
+     catname: English(US)
+     wavplay: /outimage/wavplay/common_models/english/skye-female/skye-female_audio_prompt.mp3
+     desc: skye-female
+    -
+     id: 3
+     name: oraclee-female
+     display: Female-Oraclee
+     catid: english
+     catname: English(US)
+     wavplay: /outimage/wavplay/common_models/english/oraclee-female/oraclee-female_audio_prompt.mp3
+     desc: oracle-female
+    -
+     id: 4
+     name: story-teller-male
+     display: Male-Story Talker(Deep)
+     catid: english
+     catname: English(US)
+     wavplay: /outimage/wavplay/common_models/english/story-teller-male/story-teller-male_audio_prompt.mp3
+     desc: story-teller-male
+    -
+     id: 5
+     name: us-male-xmasmischief
+     display: Male-Xmas Mischief(Christmas)
+     catid: english
+     catname: English(US)
+     wavplay: /outimage/wavplay/common_models/english/us-male-xmasmischief/us-male-xmasmischief_audio_prompt.mp3
+     desc: us-male-xmasmischief
+    -
+     id: 6
+     name: us-male-snoopdogg
+     display: Male-SnoopDoogg
+     catid: english
+     catname: English(US)
+     wavplay: /outimage/wavplay/common_models/english/us-male-snoopdogg/us-male-snoopdogg_audio_prompt.mp3
+     desc: us-male-snoopdogg
+    -
+     id: 7
+     name: stitch-male
+     display: Male-Stitch(Lilo & Stitch)
+     catid: english
+     catname: English(US)
+     wavplay: /outimage/wavplay/common_models/english/stitch-male/stitch-male_audio_prompt.mp3
+     desc: stitch-male
+    -
+     id: 8
+     name: stormstrooper-male
+     display: Male-Stormtrooper(Star Wars)
+     catid: english
+     catname: English(US)
+     wavplay: /outimage/wavplay/common_models/english/stormstrooper-male/stormstrooper-male_audio_prompt.mp3
+     desc: stormstrooper-male
+    -
+     id: 9
+     name: cupidd-female
+     display: Female-Cupidd
+     catid: english
+     catname: English(US)
+     wavplay: /outimage/wavplay/common_models/english/cupidd-female/cupidd-female_audio_prompt.mp3
+     desc: cupid-female
+    -
+     id: 10
+     name: magiciann-male
+     display: Male-Magiciann
+     catid: english
+     catname: English(US)
+     wavplay: /outimage/wavplay/common_models/english/magiciann-male/magiciann-male_audio_prompt.mp3
+     desc: magician-male
+    -
+     id: 11
+     name: rubyy-male
+     display: Male-Rubyy
+     catid: english
+     catname: English(US)
+     wavplay: /outimage/wavplay/common_models/english/rubyy-male/rubyy-male_audio_prompt.mp3
+     desc: rubyy-male
+    -
+     id: 12
+     name: us-female-janise
+     display: Female-Janise
+     catid: english
+     catname: English(US)
+     wavplay: /outimage/wavplay/common_models/english/us-female-janise/us-female-janise_audio_prompt.mp3
+     desc: us-female-janise
+    -
+     id: 13
+     name: us-male-jigsaw
+     display: Male-Jigsaww
+     catid: english
+     catname: English(US)
+     wavplay: /outimage/wavplay/common_models/english/us-male-jigsaw/us-male-jigsaw_audio_prompt.mp3
+     desc: us-male-jigsaw
+    -
+     id: 14
+     name: us-male-holidytwist
+     display: Male-Holiday Twist(Christmas)
+     catid: english
+     catname: English(US)
+     wavplay: /outimage/wavplay/common_models/english/us-male-holidytwist/us-male-holidytwist_audio_prompt.mp3
+     desc: us-male-holidytwist
+    -
+     id: 15
+     name: siri-female
+     display: Female-Siri
+     catid: english
+     catname: English(US)
+     wavplay: /outimage/wavplay/common_models/english/siri-female/siri-female_audio_prompt.mp3
+     desc: siri-female
+    -
+     id: 16
+     name: hero-male
+     display: Male-Heroo(Chris Voice)
+     catid: english
+     catname: English(US)
+     wavplay: /outimage/wavplay/common_models/english/hero-male/hero-male_audio_prompt.mp3
+     desc: hero-male
+    -
+     id: 17
+     name: ghostface-male
+     display: Male-Ghostface(Scream)
+     catid: english
+     catname: English(US)
+     wavplay: /outimage/wavplay/common_models/english/ghostface-male/ghostface-male_audio_prompt.mp3
+     desc: ghostface-male
+    -
+     id: 18
+     name: wacky-male
+     display: Male-Wackyy
+     catid: english
+     catname: English(US)
+     wavplay: /outimage/wavplay/common_models/english/wacky-male/wacky-male_audio_prompt.mp3
+     desc: wacky-male
+    -
+     id: 19
+     name: us-male-santa
+     display: Male-Santaa
+     catid: english
+     catname: English(US)
+     wavplay: /outimage/wavplay/common_models/english/us-male-santa/us-male-santa_audio_prompt.mp3
+     desc: us-male-santa
+    -
+     id: 20
+     name: us-male-polarguide
+     display: Male-Polar Guide(Christmas)
+     catid: english
+     catname: English(US)
+     wavplay: /outimage/wavplay/common_models/english/us-male-polarguide/us-male-polarguide_audio_prompt.mp3
+     desc: us-male-polarguide
+    -
+     id: 21
+     name: cubb-female
+     display: Female-Cubb
+     catid: english
+     catname: English(US)
+     wavplay: /outimage/wavplay/common_models/english/cubb-female/cubb-female_audio_prompt.mp3
+     desc: cub-female
+    -
+     id: 22
+     name: us-male-blazer
+     display: Male-Blazer
+     catid: english
+     catname: English(US)
+     wavplay: /outimage/wavplay/common_models/english/us-male-blazer/us-male-blazer_audio_prompt.mp3
+     desc: us-male-blazer
+    -
+     id: 23
+     name: us-male-jerrygarcia
+     display: Male-JeryGarsia
+     catid: english
+     catname: English(US)
+     wavplay: /outimage/wavplay/common_models/english/us-male-jerrygarcia/us-male-jerrygarcia_audio_prompt.mp3
+     desc: us-male-jerrygarcia
+    -
+     id: 24
+     name: victoryy-female
+     display: Female-Victoryy
+     catid: english
+     catname: English(US)
+     wavplay: /outimage/wavplay/common_models/english/victoryy-female/victoryy-female_audio_prompt.mp3
+     desc: victory-female
+    -
+     id: 25
+     name: us-female-deena
+     display: Female-Deenaa
+     catid: english
+     catname: English(US)
+     wavplay: /outimage/wavplay/common_models/english/us-female-deena/us-female-deena_audio_prompt.mp3
+     desc: us-female-deena
+    -
+     id: 26
+     name: pigssy-male
+     display: Male-Pigssy
+     catid: english
+     catname: English(US)
+     wavplay: /outimage/wavplay/common_models/english/pigssy-male/pigssy-male_audio_prompt.mp3
+     desc: pigsy-male
+    -
+     id: 27
+     name: us-male-whisper
+     display: Male-Whisperr
+     catid: english
+     catname: English(US)
+     wavplay: /outimage/wavplay/common_models/english/us-male-whisper/us-male-whisper_audio_prompt.mp3
+     desc: us-male-whisper
+    -
+     id: 28
+     name: shadde-male
+     display: Male-Shadde
+     catid: english
+     catname: English(US)
+     wavplay: /outimage/wavplay/common_models/english/shadde-male/shadde-male_audio_prompt.mp3
+     desc: shadde-male
+    -
+     id: 29
+     name: serious-male
+     display: Male-Seriousy
+     catid: english
+     catname: English(US)
+     wavplay: /outimage/wavplay/common_models/english/serious-male/serious-male_audio_prompt.mp3
+     desc: serious-male
+    -
+     id: 30
+     name: popular2-male
+     display: Male-Popular2
+     catid: english
+     catname: English(US)
+     wavplay: /outimage/wavplay/common_models/english/popular2-male/popular2-male_audio_prompt.mp3
+     desc: popular2-male
+    -
+     id: 31
+     name: us-male-santa-christmas
+     display: Male-Santa(Christmas)
+     catid: english
+     catname: English(US)
+     wavplay: /outimage/wavplay/common_models/english/us-male-santa-christmas/us-male-santa-christmas_audio_prompt.mp3
+     desc: us-male-santa-christmas
+    -
+     id: 32
+     name: warm-male
+     display: Male-Warmth
+     catid: english
+     catname: English(US)
+     wavplay: /outimage/wavplay/common_models/english/warm-male/warm-male_audio_prompt.mp3
+     desc: warm-male
+    -
+     id: 33
+     name: biancaa-female
+     display: Female-Biancaa
+     catid: english
+     catname: English(US)
+     wavplay: /outimage/wavplay/common_models/english/biancaa-female/biancaa-female_audio_prompt.mp3
+     desc: bianca-female
+    -
+     id: 34
+     name: us-male-grinchycheer
+     display: Male-Grinchy Cheer(Christmas)
+     catid: english
+     catname: English(US)
+     wavplay: /outimage/wavplay/common_models/english/us-male-grinchycheer/us-male-grinchycheer_audio_prompt.mp3
+     desc: us-male-grinchycheer
+    -
+     id: 35
+     name: blackmythwukong-male
+     display: Male-WuKong(Black Myth) 
+     catid: english
+     catname: English(US)
+     wavplay: /outimage/wavplay/common_models/english/blackmythwukong-male/blackmythwukong-male_audio_prompt.mp3
+     desc: blackmythwukong-male
+    -
+     id: 36
+     name: rocket-male
+     display: Male-Rocket(Guardians of the Galaxy)
+     catid: english
+     catname: English(US)
+     wavplay: /outimage/wavplay/common_models/english/rocket-male/rocket-male_audio_prompt.mp3
+     desc: rocket-male
+    -
+     id: 37
+     name: us-female-siren
+     display: Female-Sirena
+     catid: english
+     catname: English(US)
+     wavplay: /outimage/wavplay/common_models/english/us-female-siren/us-female-siren_audio_prompt.mp3
+     desc: us-female-siren
+    -
+     id: 38
+     name: bcgeorge-female
+     display: Female-George
+     catid: english
+     catname: English(US)
+     wavplay: /outimage/wavplay/common_models/english/bcgeorge-female/bcgeorge-female_audio_prompt.mp3
+     desc: female-bbc-georgie
+    -
+     id: 39
+     name: narrrator-male
+     display: Male-Narrator
+     catid: english
+     catname: English(US)
+     wavplay: /outimage/wavplay/common_models/english/narrrator-male/narrrator-male_audio_prompt.mp3
+     desc: narrrator-male
+    -
+     id: 40
+     name: adamm-male
+     display: Male-Adamm
+     catid: english
+     catname: English(US)
+     wavplay: /outimage/wavplay/common_models/english/adamm-male/adamm-male_audio_prompt.mp3
+     desc: adamm-male
+    -
+     id: 41
+     name: c3po-starwars-male
+     display: Male-C3PO(Star Wars)
+     catid: english
+     catname: English(US)
+     wavplay: /outimage/wavplay/common_models/english/c3po-starwars-male/c3po-starwars-male_audio_prompt.mp3
+     desc: c3po-starwars-male
+    -
+     id: 42
+     name: pamm-female
+     display: Female-Pamm
+     catid: english
+     catname: English(US)
+     wavplay: /outimage/wavplay/common_models/english/pamm-female/pamm-female_audio_prompt.mp3
+     desc: pam-female
+    -
+     id: 43
+     name: bestie-female
+     display: Female-bestiee
+     catid: english
+     catname: English(US)
+     wavplay: /outimage/wavplay/common_models/english/bestie-female/bestie-female_audio_prompt.mp3
+     desc: bestie-female
+    -
+     id: 44
+     name: empathetic-female
+     display: Female-Empath
+     catid: english
+     catname: English(US)
+     wavplay: /outimage/wavplay/common_models/english/empathetic-female/empathetic-female_audio_prompt.mp3
+     desc: empathetic-female
+    -
+     id: 45
+     name: us-male-snowday
+     display: Male-Snowday Hero(Christmas)
+     catid: english
+     catname: English(US)
+     wavplay: /outimage/wavplay/common_models/english/us-male-snowday/us-male-snowday_audio_prompt.mp3
+     desc: us-male-snowday
+    -
+     id: 46
+     name: popular3-male
+     display: Male-Popular3
+     catid: english
+     catname: English(US)
+     wavplay: /outimage/wavplay/common_models/english/popular3-male/popular3-male_audio_prompt.mp3
+     desc: popular3-male
+    -
+     id: 47
+     name: popular1-male
+     display: Male-Popular1
+     catid: english
+     catname: English(US)
+     wavplay: /outimage/wavplay/common_models/english/popular1-male/popular1-male_audio_prompt.mp3
+     desc: popular1-male
+    -
+     id: 48
+     name: us-male-elf
+     display: Male-Elf(Christmas)
+     catid: english
+     catname: English(US)
+     wavplay: /outimage/wavplay/common_models/english/us-male-elf/us-male-elf_audio_prompt.mp3
+     desc: us-male-elf
+    -
+     id: 49
+     name: us-male-venom
+     display: Male-Venomm
+     catid: english
+     catname: English(US)
+     wavplay: /outimage/wavplay/common_models/english/us-male-venom/us-male-venom_audio_prompt.mp3
+     desc: us-male-venom
+    -
+     id: 50
+     name: us-male-slashdoll
+     display: Male-Slashdolll
+     catid: english
+     catname: English(US)
+     wavplay: /outimage/wavplay/common_models/english/us-male-slashdoll/us-male-slashdoll_audio_prompt.mp3
+     desc: us-male-slashdoll
+    -
+     id: 51
+     name: us-male-gingerchime
+     display: Male-Ginger Chime(Christmas)
+     catid: english
+     catname: English(US)
+     wavplay: /outimage/wavplay/common_models/english/us-male-gingerchime/us-male-gingerchime_audio_prompt.mp3
+     desc: us-male-gingerchime
+    -
+     id: 52
+     name: popular4-male
+     display: Male-Popular4
+     catid: english
+     catname: English(US)
+     wavplay: /outimage/wavplay/common_models/english/popular4-male/popular4-male_audio_prompt.mp3
+     desc: popular4-male
+  english_gb:
+    -
+     id: 0
+     name: uk-male1
+     display: Male-ukmale1
+     catid: english_uk
+     catname: English(UK)
+     wavplay: /outimage/wavplay/common_models/english_gb/uk-male1/uk-male1_audio_prompt.mp3
+     desc: uk-male1
+    -
+     id: 1
+     name: gb-male-frederick
+     display: Male-Frederike
+     catid: english_gb
+     catname: English(GB)
+     wavplay: /outimage/wavplay/common_models/english_gb/gb-male-frederick/gb-male-frederick_audio_prompt.mp3
+     desc: gb-male-frederick
+    -
+     id: 2
+     name: gb-male-archer
+     display: Male-Archeer
+     catid: english_gb
+     catname: English(GB)
+     wavplay: /outimage/wavplay/common_models/english_gb/gb-male-archer/gb-male-archer_audio_prompt.mp3
+     desc: gb-male-archer
+    -
+     id: 3
+     name: gb-male-nelson
+     display: Male-Nelson
+     catid: english_gb
+     catname: English(GB)
+     wavplay: /outimage/wavplay/common_models/english_gb/gb-male-nelson/gb-male-nelson_audio_prompt.mp3
+     desc: gb-male-nelson
+    -
+     id: 4
+     name: gb-male-adam
+     display: Male-Adamm
+     catid: english_gb
+     catname: English(GB)
+     wavplay: /outimage/wavplay/common_models/english_gb/gb-male-adam/gb-male-adam_audio_prompt.mp3
+     desc: gb-male-adam
+    -
+     id: 5
+     name: gb-female-emilee
+     display: Male-Emilee
+     catid: english_gb
+     catname: English(GB)
+     wavplay: /outimage/wavplay/common_models/english_gb/gb-female-emilee/gb-female-emilee_audio_prompt.mp3
+     desc: gb-male-emilee
+    -
+     id: 6
+     name: gb-male-raymond
+     display: Male-Raymon
+     catid: english_gb
+     catname: English(GB)
+     wavplay: /outimage/wavplay/common_models/english_gb/gb-male-raymond/gb-male-raymond_audio_prompt.mp3
+     desc: gb-male-raymond
+    -
+     id: 7
+     name: uk-male2
+     display: Male-ukmale2
+     catid: english_uk
+     catname: English(UK)
+     wavplay: /outimage/wavplay/common_models/english_gb/uk-male2/uk-male2_audio_prompt.mp3
+     desc: uk-male2
+    -
+     id: 8
+     name: gb-welsh-male-cery
+     display: Female-Cery(Welsh)
+     catid: english_gb
+     catname: English(GB)
+     wavplay: /outimage/wavplay/common_models/english_gb/gb-welsh-male-cery/gb-welsh-male-cery_audio_prompt.mp3
+     desc: gb-welsh-male-cery
+    -
+     id: 9
+     name: gb-scottish-female-shilly
+     display: Female-Shilly(Scottish)
+     catid: english_gb
+     catname: English(GB)
+     wavplay: /outimage/wavplay/common_models/english_gb/gb-scottish-female-shilly/gb-scottish-female-shilly_audio_prompt.mp3
+     desc: gb-welgb-scottish-female-shilly
+    -
+     id: 10
+     name: gb-female-beatrice
+     display: Female-Beatrise
+     catid: english_gb
+     catname: English(GB)
+     wavplay: /outimage/wavplay/common_models/english_gb/gb-female-beatrice/gb-female-beatrice_audio_prompt.mp3
+     desc: gb-female-beatrice
+    -
+     id: 11
+     name: gb-male-hugh
+     display: Male-Hughs
+     catid: english_gb
+     catname: English(GB)
+     wavplay: /outimage/wavplay/common_models/english_gb/gb-male-hugh/gb-male-hugh_audio_prompt.mp3
+     desc: gb-male-hugh
+    -
+     id: 12
+     name: gb-welsh-male-gary
+     display: Male-Gary(Welsh)
+     catid: english_gb
+     catname: English(GB)
+     wavplay: /outimage/wavplay/common_models/english_gb/gb-welsh-male-gary/gb-welsh-male-gary_audio_prompt.mp3
+     desc: gb-welsh-male-gary
+    -
+     id: 13
+     name: bcgeorge-female
+     display: Female-George
+     catid: english_uk
+     catname: English(UK)
+     wavplay: /outimage/wavplay/common_models/english_gb/bcgeorge-female/bcgeorge-female_audio_prompt.mp3
+     desc: female-bbc-georgie
+    -
+     id: 14
+     name: gb-scottish-male-marc
+     display: Male-Marc(Scottish)
+     catid: english_gb
+     catname: English(GB)
+     wavplay: /outimage/wavplay/common_models/english_gb/gb-scottish-male-marc/gb-scottish-male-marc_audio_prompt.mp3
+     desc: gb-welgb-scottish-male-marc
+    -
+     id: 15
+     name: gb-female-natalie
+     display: Female-Nataly
+     catid: english_gb
+     catname: English(GB)
+     wavplay: /outimage/wavplay/common_models/english_gb/gb-female-natalie/gb-female-natalie_audio_prompt.mp3
+     desc: gb-female-natalie
+  english_ca:
+    -
+     id: 0
+     name: ca-male-pairs
+     display: Female-Pairs
+     catid: english_ca
+     catname: English(CA)
+     wavplay: /outimage/wavplay/common_models/english_ca/ca-male-pairs/ca-male-pairs_audio_prompt.mp3
+     desc: ca-male-pairs
+    -
+     id: 1
+     name: ca-male-ray
+     display: Male-Ray
+     catid: english_ca
+     catname: English(CA)
+     wavplay: /outimage/wavplay/common_models/english_ca/ca-male-ray/ca-male-ray_audio_prompt.mp3
+     desc: ca-male-ray
+  english_au:
+    -
+     id: 0
+     name: au-female1
+     display: Female-aumale1
+     catid: english_au
+     catname: English(AU)
+     wavplay: /outimage/wavplay/common_models/english_au/au-female1/au-female1_audio_prompt.mp3
+     desc: au-female1
+    -
+     id: 1
+     name: au-male1
+     display: Male-aumale1
+     catid: english_au
+     catname: English(AU)
+     wavplay: /outimage/wavplay/common_models/english_au/au-male1/au-male1_audio_prompt.mp3
+     desc: au-male1
+  english_nz:
+    -
+     id: 0
+     name: nz-female-rose
+     display: Female-Rose
+     catid: english_nz
+     catname: English(NZ)
+     wavplay: /outimage/wavplay/common_models/english_nz/nz-female-rose/nz-female-rose_audio_prompt.mp3
+     desc: nz-female-rose
+    -
+     id: 1
+     name: nz-male-kieth
+     display: Male-Kieth
+     catid: english_nz
+     catname: English(NZ)
+     wavplay: /outimage/wavplay/common_models/english_nz/nz-male-kieth/nz-male-kieth_audio_prompt.mp3
+     desc: nz-male-kieth
+    -
+     id: 2
+     name: nz-female-brooke
+     display: Female-Brook
+     catid: english_nz
+     catname: English(NZ)
+     wavplay: /outimage/wavplay/common_models/english_nz/nz-female-brooke/nz-female-brooke_audio_prompt.mp3
+     desc: nz-female-brooke
+  english_ie:
+    -
+     id: 0
+     name: ie-male-zillian
+     display: Male-Zillian
+     catid: english_ie
+     catname: English(IE)
+     wavplay: /outimage/wavplay/common_models/english_ie/ie-male-zillian/ie-male-zillian_audio_prompt.mp3
+     desc: ie-male-zillian
+    -
+     id: 1
+     name: ie-female-betty
+     display: Female-Betty
+     catid: english_ie
+     catname: English(IE)
+     wavplay: /outimage/wavplay/common_models/english_ie/ie-female-betty/ie-female-betty_audio_prompt.mp3
+     desc: ie-female-betty
+  english_in:
+    -
+     id: 0
+     name: in-female-Neer
+     display: Female-Neer
+     catid: english_in
+     catname: English(IN)
+     wavplay: /outimage/wavplay/common_models/english_in/in-female-Neer/in-female-Neer_audio_prompt.mp3
+     desc: in-female-neer
+    -
+     id: 1
+     name: in-male-pra
+     display: Male-Pra
+     catid: english_in
+     catname: English(IN)
+     wavplay: /outimage/wavplay/common_models/english_in/in-male-pra/in-male-pra_audio_prompt.mp3
+     desc: in-male-pra
+  english_za:
+    -
+     id: 0
+     name: za-female-charlize
+     display: Female-Charlise
+     catid: english_za
+     catname: English(ZA)
+     wavplay: /outimage/wavplay/common_models/english_za/za-female-charlize/za-female-charlize_audio_prompt.mp3
+     desc: za-female-charlize
+    -
+     id: 1
+     name: za-female-alice
+     display: Female-Alice
+     catid: english_za
+     catname: English(ZA)
+     wavplay: /outimage/wavplay/common_models/english_za/za-female-alice/za-female-alice_audio_prompt.mp3
+     desc: za-female-alice
+    -
+     id: 2
+     name: za-male-piet
+     display: Male-Piet
+     catid: english_za
+     catname: English(ZA)
+     wavplay: /outimage/wavplay/common_models/english_za/za-male-piet/za-male-piet_audio_prompt.mp3
+     desc: za-male-piet
+  japan:
+    -
+     id: 0
+     name: riko-female
+     display: 女性-リゴ
+     catid: japan
+     catname: 日本語
+     wavplay: /outimage/wavplay/common_models/japan/riko-female/riko-female_audio_prompt.mp3
+     desc: riko-female
+    -
+     id: 1
+     name: mojyao-male
+     display: 男性-モじゃあ
+     catid: japan
+     catname: 日本語
+     wavplay: /outimage/wavplay/common_models/japan/mojyao-male/mojyao-male_audio_prompt.mp3
+     desc: mojyao-male
+    -
+     id: 2
+     name: jafemale3-female
+     display: 女性-女性の声3
+     catid: japan
+     catname: 日本語
+     wavplay: /outimage/wavplay/common_models/japan/jafemale3-female/jafemale3-female_audio_prompt.mp3
+     desc: jafemale3-female
+    -
+     id: 3
+     name: shitianzhang-male
+     display: 男性-いしだ あきる
+     catid: japan
+     catname: 日本語
+     wavplay: /outimage/wavplay/common_models/japan/shitianzhang-male/shitianzhang-male_audio_prompt.mp3
+     desc: (male)石田彰
+    -
+     id: 4
+     name: duolaameng-male
+     display: 男性-ドラえもん
+     catid: japan
+     catname: 日本語
+     wavplay: /outimage/wavplay/common_models/japan/duolaameng-male/duolaameng-male_audio_prompt.mp3
+     desc: duolaameng-male
+    -
+     id: 5
+     name: zechengmeixue-female
+     display: 女性-ざわしろ みえき
+     catid: japan
+     catname: 日本語
+     wavplay: /outimage/wavplay/common_models/japan/zechengmeixue-female/zechengmeixue-female_audio_prompt.mp3
+     desc: (female)泽城美雪
+    -
+     id: 6
+     name: labixiaoxin-female
+     display: 女性-しんちゃ
+     catid: japan
+     catname: 日本語
+     wavplay: /outimage/wavplay/common_models/japan/labixiaoxin-female/labixiaoxin-female_audio_prompt.mp3
+     desc: labixiaoxin-female
+    -
+     id: 7
+     name: hiro-male
+     display: 男性-ヒコ
+     catid: japan
+     catname: 日本語
+     wavplay: /outimage/wavplay/common_models/japan/hiro-male/hiro-male_audio_prompt.mp3
+     desc: hiro-male
+    -
+     id: 8
+     name: shiluoling-female
+     display: 女性-世羅銀
+     catid: japan
+     catname: 日本語
+     wavplay: /outimage/wavplay/common_models/japan/shiluoling-female/shiluoling-female_audio_prompt.mp3
+     desc: shiluoling-female
+    -
+     id: 9
+     name: hikakin-male
+     display: 男性-ヒカギン
+     catid: japan
+     catname: 日本語
+     wavplay: /outimage/wavplay/common_models/japan/hikakin-male/hikakin-male_audio_prompt.mp3
+     desc: hikakin-male
+    -
+     id: 10
+     name: jafemale2-female
+     display: 女性-女性の声2
+     catid: japan
+     catname: 日本語
+     wavplay: /outimage/wavplay/common_models/japan/jafemale2-female/jafemale2-female_audio_prompt.mp3
+     desc: jafemale2-female
+    -
+     id: 11
+     name: shenguhaoshi-male
+     display: 男性-かみや ひろ
+     catid: japan
+     catname: 日本語
+     wavplay: /outimage/wavplay/common_models/japan/shenguhaoshi-male/shenguhaoshi-male_audio_prompt.mp3
+     desc: (male)神谷浩史
+    -
+     id: 12
+     name: xiahuikoko-female
+     display: 女性-夏絵ごご
+     catid: japan
+     catname: 日本語
+     wavplay: /outimage/wavplay/common_models/japan/xiahuikoko-female/xiahuikoko-female_audio_prompt.mp3
+     desc: xiahuikoko-female
+    -
+     id: 13
+     name: jafemale1-female
+     display: 女性-女性の声1
+     catid: japan
+     catname: 日本語
+     wavplay: /outimage/wavplay/common_models/japan/jafemale1-female/jafemale1-female_audio_prompt.mp3
+     desc: jafemale1-female
+    -
+     id: 14
+     name: shiro-female
+     display: 女性-しろ
+     catid: japan
+     catname: 日本語
+     wavplay: /outimage/wavplay/common_models/japan/shiro-female/shiro-female_audio_prompt.mp3
+     desc: shiro-female
+    -
+     id: 15
+     name: machikori-female
+     display: 女性-まちこり
+     catid: japan
+     catname: 日本語
+     wavplay: /outimage/wavplay/common_models/japan/machikori-female/machikori-female_audio_prompt.mp3
+     desc: machikori-female
+    -
+     id: 16
+     name: gennta-male
+     display: 男性-ケンタ
+     catid: japan
+     catname: 日本語
+     wavplay: /outimage/wavplay/common_models/japan/gennta-male/gennta-male_audio_prompt.mp3
+     desc: gennta-male
+    -
+     id: 17
+     name: dinggonglihui-female
+     display: 女性-くぎみや  りき
+     catid: japan
+     catname: 日本語
+     wavplay: /outimage/wavplay/common_models/japan/dinggonglihui-female/dinggonglihui-female_audio_prompt.mp3
+     desc: (female)钉宫理惠
+    -
+     id: 18
+     name: nana-female
+     display: 女性-なら
+     catid: japan
+     catname: 日本語
+     wavplay: /outimage/wavplay/common_models/japan/nana-female/nana-female_audio_prompt.mp3
+     desc: nana-female
+    -
+     id: 19
+     name: miyuki-female
+     display: 女性-ミユギ
+     catid: japan
+     catname: 日本語
+     wavplay: /outimage/wavplay/common_models/japan/miyuki-female/miyuki-female_audio_prompt.mp3
+     desc: miyuki-female
+    -
+     id: 20
+     name: sakura-female
+     display: 女性-桜伊
+     catid: japan
+     catname: 日本語
+     wavplay: /outimage/wavplay/common_models/japan/sakura-female/sakura-female_audio_prompt.mp3
+     desc: sakura-female
+  china:
+    -
+     id: 0
+     name: sichuanputonghua-female
+     display: 女-四川普通话
+     catid: china
+     catname: 中文
+     wavplay: /outimage/wavplay/common_models/china/sichuanputonghua-female/sichuanputonghua-female_audio_prompt.mp3
+     desc: sichuanputonghua-female
+    -
+     id: 1
+     name: yulebamei-female
+     display: 女-娱乐扒妹
+     catid: china
+     catname: 中文
+     wavplay: /outimage/wavplay/common_models/china/yulebamei-female/yulebamei-female_audio_prompt.mp3
+     desc: yulebamei-female
+    -
+     id: 2
+     name: shaonv-female
+     display: 女-少女
+     catid: china
+     catname: 中文
+     wavplay: /outimage/wavplay/common_models/china/shaonv-female/shaonv-female_audio_prompt.mp3
+     desc: shaonv-female
+    -
+     id: 3
+     name: xianmeinv-female
+     display: 女-谄媚女
+     catid: china
+     catname: 中文
+     wavplay: /outimage/wavplay/common_models/china/xianmeinv-female/xianmeinv-female_audio_prompt.mp3
+     desc: xianmeinv-female
+    -
+     id: 4
+     name: wangwenjieshuo-female
+     display: 女-网文解说
+     catid: china
+     catname: 中文
+     wavplay: /outimage/wavplay/common_models/china/wangwenjieshuo-female/wangwenjieshuo-female_audio_prompt.mp3
+     desc: wangwenjieshuo-female
+    -
+     id: 5
+     name: wenqian-femalea
+     display: 女-情感生活1
+     catid: china
+     catname: 中文
+     wavplay: /outimage/wavplay/common_models/china/wenqian-femalea/wenqian-femalea_audio_prompt.mp3
+     desc: wenqian-female
+    -
+     id: 6
+     name: rongmomo-female
+     display: 女-容嬷嬷
+     catid: china
+     catname: 中文
+     wavplay: /outimage/wavplay/common_models/china/rongmomo-female/rongmomo-female_audio_prompt.mp3
+     desc: rongmomo-female
+    -
+     id: 7
+     name: taiwannvsheng-female
+     display: 女-台湾女生
+     catid: china
+     catname: 中文
+     wavplay: /outimage/wavplay/common_models/china/taiwannvsheng-female/taiwannvsheng-female_audio_prompt.mp3
+     desc: taiwannvsheng-female
+    -
+     id: 8
+     name: xiaoluoli-female
+     display: 女-小萝莉
+     catid: china
+     catname: 中文
+     wavplay: /outimage/wavplay/common_models/china/xiaoluoli-female/xiaoluoli-female_audio_prompt.mp3
+     desc: xiaoluoli-female
+    -
+     id: 9
+     name: silang-male
+     display: 男-四郎
+     catid: china
+     catname: 中文
+     wavplay: /outimage/wavplay/common_models/china/silang-male/silang-male_audio_prompt.mp3
+     desc: silang-male
+    -
+     id: 10
+     name: xiyouji-child
+     display: 男-儿童2
+     catid: china
+     catname: 中文
+     wavplay: /outimage/wavplay/common_models/china/xiyouji-child/xiyouji-child_audio_prompt.mp3
+     desc: xiyouji-child
+    -
+     id: 11
+     name: gongzhu-female
+     display: 女-公主
+     catid: china
+     catname: 中文
+     wavplay: /outimage/wavplay/common_models/china/gongzhu-female/gongzhu-female_audio_prompt.mp3
+     desc: gongzhu-female
+    -
+     id: 12
+     name: yizhipiannan-male
+     display: 男-译制片男
+     catid: china
+     catname: 中文
+     wavplay: /outimage/wavplay/common_models/china/yizhipiannan-male/yizhipiannan-male_audio_prompt.mp3
+     desc: yizhipiannan-male
+    -
+     id: 13
+     name: badaozongcai-male
+     display: 男-霸道总裁
+     catid: china
+     catname: 中文
+     wavplay: /outimage/wavplay/common_models/china/badaozongcai-male/badaozongcai-male_audio_prompt.mp3
+     desc: badaozongcai-male
+    -
+     id: 14
+     name: shuangshuang-female
+     display: 女-情感生活3
+     catid: china
+     catname: 中文
+     wavplay: /outimage/wavplay/common_models/china/shuangshuang-female/shuangshuang-female_audio_prompt.mp3
+     desc: shuangshuang-female
+    -
+     id: 15
+     name: heishenhuawukongmi-male
+     display: 男-黑神话悟空(糜道人)
+     catid: china
+     catname: 中文
+     wavplay: /outimage/wavplay/common_models/china/heishenhuawukongmi-male/heishenhuawukongmi-male_audio_prompt.mp3
+     desc: heishenhuawukongmi-male
+    -
+     id: 16
+     name: xuemei-female
+     display: 女-学妹
+     catid: china
+     catname: 中文
+     wavplay: /outimage/wavplay/common_models/china/xuemei-female/xuemei-female_audio_prompt.mp3
+     desc: xuemei-female
+    -
+     id: 17
+     name: naiyin-female
+     display: 女-奶音
+     catid: china
+     catname: 中文
+     wavplay: /outimage/wavplay/common_models/china/naiyin-female/naiyin-female_audio_prompt.mp3
+     desc: naiyin-female
+    -
+     id: 18
+     name: along-male
+     display: 男-经典讲解声1
+     catid: china
+     catname: 中文
+     wavplay: /outimage/wavplay/common_models/china/along-male/along-male_audio_prompt.mp3
+     desc: along-male
+    -
+     id: 19
+     name: xianggangputonghua-male
+     display: 男-香港普通话
+     catid: china
+     catname: 中文
+     wavplay: /outimage/wavplay/common_models/china/xianggangputonghua-male/xianggangputonghua-male_audio_prompt.mp3
+     desc: xianggangputonghua-male
+    -
+     id: 20
+     name: huafei-female
+     display: 女-华妃
+     catid: china
+     catname: 中文
+     wavplay: /outimage/wavplay/common_models/china/huafei-female/huafei-female_audio_prompt.mp3
+     desc: huafei-female
+    -
+     id: 21
+     name: paoxiaoge-male
+     display: 男-咆哮哥
+     catid: china
+     catname: 中文
+     wavplay: /outimage/wavplay/common_models/china/paoxiaoge-male/paoxiaoge-male_audio_prompt.mp3
+     desc: paoxiao-male
+    -
+     id: 22
+     name: houge-male
+     display: 男-猴哥
+     catid: china
+     catname: 中文
+     wavplay: /outimage/wavplay/common_models/china/houge-male/houge-male_audio_prompt.mp3
+     desc: houge-male
+    -
+     id: 23
+     name: shejianjieshuo-male
+     display: 男-舌尖解说
+     catid: china
+     catname: 中文
+     wavplay: /outimage/wavplay/common_models/china/shejianjieshuo-male/shejianjieshuo-male_audio_prompt.mp3
+     desc: shejianjieshuo-male
+    -
+     id: 24
+     name: chongqingputonghua-male
+     display: 男-重庆普通话
+     catid: china
+     catname: 中文
+     wavplay: /outimage/wavplay/common_models/china/chongqingputonghua-male/chongqingputonghua-male_audio_prompt.mp3
+     desc: chongqingputonghua-male
+    -
+     id: 25
+     name: roumeinvyou-female
+     display: 女-柔美女友
+     catid: china
+     catname: 中文
+     wavplay: /outimage/wavplay/common_models/china/roumeinvyou-female/roumeinvyou-female_audio_prompt.mp3
+     desc: roumeinvyou-female
+    -
+     id: 26
+     name: shangwuyinyu-male
+     display: 男-商务殷语
+     catid: china
+     catname: 中文
+     wavplay: /outimage/wavplay/common_models/china/shangwuyinyu-male/shangwuyinyu-male_audio_prompt.mp3
+     desc: shangwuyinyu-male
+    -
+     id: 27
+     name: dongbeiputonghua-male
+     display: 男-东北普通话
+     catid: china
+     catname: 中文
+     wavplay: /outimage/wavplay/common_models/china/dongbeiputonghua-male/dongbeiputonghua-male_audio_prompt.mp3
+     desc: dongbeiputonghua-male
+    -
+     id: 28
+     name: shangxinyujie-female
+     display: 女-伤心御姐
+     catid: china
+     catname: 中文
+     wavplay: /outimage/wavplay/common_models/china/shangxinyujie-female/shangxinyujie-female_audio_prompt.mp3
+     desc: shangxinyujie-female
+    -
+     id: 29
+     name: ziwei-female
+     display: 女-紫薇
+     catid: china
+     catname: 中文
+     wavplay: /outimage/wavplay/common_models/china/ziwei-female/ziwei-female_audio_prompt.mp3
+     desc: ziwei-female
+    -
+     id: 30
+     name: shuya-male
+     display: 男-经典说书声2
+     catid: china
+     catname: 中文
+     wavplay: /outimage/wavplay/common_models/china/shuya-male/shuya-male_audio_prompt.mp3
+     desc: shuya-male
+    -
+     id: 31
+     name: rishizhongwen-male
+     display: 男-日式中文
+     catid: china
+     catname: 中文
+     wavplay: /outimage/wavplay/common_models/china/rishizhongwen-male/rishizhongwen-male_audio_prompt.mp3
+     desc: rishizhongwen-male
+    -
+     id: 32
+     name: dongyuhui-male
+     display: 男-经典演讲男声1
+     catid: china
+     catname: 中文
+     wavplay: /outimage/wavplay/common_models/china/dongyuhui-male/dongyuhui-male_audio_prompt.mp3
+     desc: 经典演讲男声1
+    -
+     id: 33
+     name: hunanputonghua-male
+     display: 男-湖南普通话
+     catid: china
+     catname: 中文
+     wavplay: /outimage/wavplay/common_models/china/hunanputonghua-male/hunanputonghua-male_audio_prompt.mp3
+     desc: guangdongputonghua-male
+    -
+     id: 34
+     name: mixiaoquan-child
+     display: 男-儿童1
+     catid: china
+     catname: 中文
+     wavplay: /outimage/wavplay/common_models/china/mixiaoquan-child/mixiaoquan-child_audio_prompt.mp3
+     desc: mixiaoquan-child
+    -
+     id: 35
+     name: wenyinvsheng-female
+     display: 女-文艺女声
+     catid: china
+     catname: 中文
+     wavplay: /outimage/wavplay/common_models/china/wenyinvsheng-female/wenyinvsheng-female_audio_prompt.mp3
+     desc: wenyinvsheng-female
+    -
+     id: 36
+     name: xianzhanggui-female
+     display: 女-西安掌柜
+     catid: china
+     catname: 中文
+     wavplay: /outimage/wavplay/common_models/china/xianzhanggui-female/xianzhanggui-female_audio_prompt.mp3
+     desc: xianzhanggui-female
+    -
+     id: 37
+     name: xionger-male
+     display: 男-熊二
+     catid: china
+     catname: 中文
+     wavplay: /outimage/wavplay/common_models/china/xionger-male/xionger-male_audio_prompt.mp3
+     desc: xionger-male
+    -
+     id: 38
+     name: guangdongputonghua-male
+     display: 男-广东普通话
+     catid: china
+     catname: 中文
+     wavplay: /outimage/wavplay/common_models/china/guangdongputonghua-male/guangdongputonghua-male_audio_prompt.mp3
+     desc: guangdongputonghua-male
+    -
+     id: 39
+     name: xiaoshuai-male
+     display: 男-小帅
+     catid: china
+     catname: 中文
+     wavplay: /outimage/wavplay/common_models/china/xiaoshuai-male/xiaoshuai-male_audio_prompt.mp3
+     desc: xiaoshuai-male
+    -
+     id: 40
+     name: shengkongdidi-male
+     display: 男-声控弟弟
+     catid: china
+     catname: 中文
+     wavplay: /outimage/wavplay/common_models/china/shengkongdidi-male/shengkongdidi-male_audio_prompt.mp3
+     desc: shengkongdidi-male
+    -
+     id: 41
+     name: yuyan-female
+     display: 女-情感生活2
+     catid: china
+     catname: 中文
+     wavplay: /outimage/wavplay/common_models/china/yuyan-female/yuyan-female_audio_prompt.mp3
+     desc: yuyan-female
+    -
+     id: 42
+     name: taiwannansheng-male
+     display: 男-台湾男生
+     catid: china
+     catname: 中文
+     wavplay: /outimage/wavplay/common_models/china/taiwannansheng-male/taiwannansheng-male_audio_prompt.mp3
+     desc: taiwannansheng-male
+    -
+     id: 43
+     name: cixingnansheng-male
+     display: 男-磁性男声
+     catid: china
+     catname: 中文
+     wavplay: /outimage/wavplay/common_models/china/cixingnansheng-male/cixingnansheng-male_audio_prompt.mp3
+     desc: cixingnansheng-male
+    -
+     id: 44
+     name: fuheixiaoyi-female
+     display: 女-腹黑小姨
+     catid: china
+     catname: 中文
+     wavplay: /outimage/wavplay/common_models/china/fuheixiaoyi-female/fuheixiaoyi-female_audio_prompt.mp3
+     desc: fuheixiaoyi-female
+    -
+     id: 45
+     name: shantianfang-male
+     display: 男-经典说书声1
+     catid: china
+     catname: 中文
+     wavplay: /outimage/wavplay/common_models/china/shantianfang-male/shantianfang-male_audio_prompt.mp3
+     desc: shantianfang-male
+  china_yueyu:
+    -
+     id: 0
+     name: huashinai-female
+     display: 女-花師奶
+     catid: china_yueyu
+     catname: 粤语
+     wavplay: /outimage/wavplay/common_models/china_yueyu/huashinai-female/huashinai-female_audio_prompt.mp3
+     desc: huashinai-female
+    -
+     id: 1
+     name: yue-speaker1-male
+     display: 男-粤语1
+     catid: china_yueyu
+     catname: 粤语
+     wavplay: /outimage/wavplay/common_models/china_yueyu/yue-speaker1-male/yue-speaker1-male_audio_prompt.mp3
+     desc: yue-speaker1-female
+    -
+     id: 2
+     name: duolaameng-male
+     display: 男-多啦A夢
+     catid: china_yueyu
+     catname: 粤语
+     wavplay: /outimage/wavplay/common_models/china_yueyu/duolaameng-male/duolaameng-male_audio_prompt.mp3
+     desc: duolaameng-male
+    -
+     id: 3
+     name: yagushou-male
+     display: 男-亚古兽
+     catid: china_yueyu
+     catname: 粤语
+     wavplay: /outimage/wavplay/common_models/china_yueyu/yagushou-male/yagushou-male_audio_prompt.mp3
+     desc: yagushou-male
+  france:
+    -
+     id: 0
+     name: fr-female-marion
+     display: Female-Marion
+     catid: france
+     catname: Français
+     wavplay: /outimage/wavplay/common_models/france/fr-female-marion/fr-female-marion_audio_prompt.mp3
+     desc: fr-female-marion
+    -
+     id: 1
+     name: fr-female-audrey
+     display: Female-Audrey (canadienne)
+     catid: france
+     catname: Français
+     wavplay: /outimage/wavplay/common_models/france/fr-female-audrey/fr-female-audrey_audio_prompt.mp3
+     desc: fr-female-audrey
+    -
+     id: 2
+     name: fr-male-matthieu
+     display: Male-Matthieu (suisse)
+     catid: france
+     catname: Français
+     wavplay: /outimage/wavplay/common_models/france/fr-male-matthieu/fr-male-matthieu_audio_prompt.mp3
+     desc: fr-male-matthieu
+    -
+     id: 3
+     name: fr-male-fabrice
+     display: Male-Fabrice (belge)
+     catid: france
+     catname: Français
+     wavplay: /outimage/wavplay/common_models/france/fr-male-fabrice/fr-male-fabrice_audio_prompt.mp3
+     desc: fr-male-fabrice
+    -
+     id: 4
+     name: fr-male-vincent
+     display: Male-Vincent
+     catid: france
+     catname: Français
+     wavplay: /outimage/wavplay/common_models/france/fr-male-vincent/fr-male-vincent_audio_prompt.mp3
+     desc: fr-male-vincent
+    -
+     id: 5
+     name: fr-male-guillaume
+     display: Male-Guillaume
+     catid: france
+     catname: Français
+     wavplay: /outimage/wavplay/common_models/france/fr-male-guillaume/fr-male-guillaume_audio_prompt.mp3
+     desc: fr-male-guillaume
+    -
+     id: 6
+     name: fr-male-serge
+     display: Male-Serge (canadien)
+     catid: france
+     catname: Français
+     wavplay: /outimage/wavplay/common_models/france/fr-male-serge/fr-male-serge_audio_prompt.mp3
+     desc: fr-male-serge
+    -
+     id: 7
+     name: fr-female-laetitia
+     display: Female-Laetitia (belge)
+     catid: france
+     catname: Français
+     wavplay: /outimage/wavplay/common_models/france/fr-female-laetitia/fr-female-laetitia_audio_prompt.mp3
+     desc: fr-female-laetitia
+    -
+     id: 8
+     name: fr-female-ariane
+     display: Female-Ariane (suisse)
+     catid: france
+     catname: Français
+     wavplay: /outimage/wavplay/common_models/france/fr-female-ariane/fr-female-ariane_audio_prompt.mp3
+     desc: fr-female-ariane
+    -
+     id: 9
+     name: fr-female-yvette
+     display: Female-Yvette
+     catid: france
+     catname: Français
+     wavplay: /outimage/wavplay/common_models/france/fr-female-yvette/fr-female-yvette_audio_prompt.mp3
+     desc: fr-female-yvette
+  germany:
+    -
+     id: 0
+     name: de-female-fritzi
+     display: Female-Fritzi (Österreichisch)
+     catid: germany
+     catname: Deutsch
+     wavplay: /outimage/wavplay/common_models/germany/de-female-fritzi/de-female-fritzi_audio_prompt.mp3
+     desc: de-female-fritzi
+    -
+     id: 1
+     name: de-male-franz
+     display: Male-Franz (Österreichisch)
+     catid: germany
+     catname: Deutsch
+     wavplay: /outimage/wavplay/common_models/germany/de-male-franz/de-male-franz_audio_prompt.mp3
+     desc: de-male-franz
+    -
+     id: 2
+     name: de-female-ursina
+     display: Female-Ursina (Schweizer)
+     catid: germany
+     catname: Deutsch
+     wavplay: /outimage/wavplay/common_models/germany/de-female-ursina/de-female-ursina_audio_prompt.mp3
+     desc: de-female-ursina
+    -
+     id: 3
+     name: de-female-klara
+     display: Female-Klara
+     catid: germany
+     catname: Deutsch
+     wavplay: /outimage/wavplay/common_models/germany/de-female-klara/de-female-klara_audio_prompt.mp3
+     desc: de-female-klara
+    -
+     id: 4
+     name: de-male-andreas
+     display: Male-Andreas
+     catid: germany
+     catname: Deutsch
+     wavplay: /outimage/wavplay/common_models/germany/de-male-andreas/de-male-andreas_audio_prompt.mp3
+     desc: de-male-andreas
+    -
+     id: 5
+     name: de-female-martina
+     display: Female-Martina
+     catid: germany
+     catname: Deutsch
+     wavplay: /outimage/wavplay/common_models/germany/de-female-martina/de-female-martina_audio_prompt.mp3
+     desc: de-female-martina
+    -
+     id: 6
+     name: de-male-bruno
+     display: Male-Bruno
+     catid: germany
+     catname: Deutsch
+     wavplay: /outimage/wavplay/common_models/germany/de-male-bruno/de-male-bruno_audio_prompt.mp3
+     desc: de-male-bruno
+    -
+     id: 7
+     name: de-female-heidi
+     display: Female-Heidi (Schweizer)
+     catid: germany
+     catname: Deutsch
+     wavplay: /outimage/wavplay/common_models/germany/de-female-heidi/de-female-heidi_audio_prompt.mp3
+     desc: de-female-heidi
+  spain:
+    -
+     id: 0
+     name: es-male-hombreserio
+     display: Male-Hombre Serio
+     catid: spain
+     catname: Español
+     wavplay: /outimage/wavplay/common_models/spain/es-male-hombreserio/es-male-hombreserio_audio_prompt.mp3
+     desc: es-male-hombreserio
+    -
+     id: 1
+     name: es-male-hector
+     display: Male-Héctor (estadounidense)
+     catid: spain
+     catname: Español
+     wavplay: /outimage/wavplay/common_models/spain/es-male-hector/es-male-hector_audio_prompt.mp3
+     desc: es-male-hector
+    -
+     id: 2
+     name: es-male-javier
+     display: Male-Javier（mexicana）
+     catid: spain
+     catname: Español
+     wavplay: /outimage/wavplay/common_models/spain/es-male-javier/es-male-javier_audio_prompt.mp3
+     desc: es-male-javier
+    -
+     id: 3
+     name: es-female-alejandra
+     display: Female-Alejandra
+     catid: spain
+     catname: Español
+     wavplay: /outimage/wavplay/common_models/spain/es-female-alejandra/es-female-alejandra_audio_prompt.mp3
+     desc: es-female-alejandra
+    -
+     id: 4
+     name: es-female-alejandra2
+     display: Female-Alejandra2
+     catid: spain
+     catname: Español
+     wavplay: /outimage/wavplay/common_models/spain/es-female-alejandra2/es-female-alejandra2_audio_prompt.mp3
+     desc: es-female-alejandra2
+    -
+     id: 5
+     name: es-male-rafael
+     display: Male-Rafael
+     catid: spain
+     catname: Español
+     wavplay: /outimage/wavplay/common_models/spain/es-male-rafael/es-male-rafael_audio_prompt.mp3
+     desc: es-male-rafael
+    -
+     id: 6
+     name: es-female-ramona
+     display: Female-Ramona (mexicana）
+     catid: spain
+     catname: Español
+     wavplay: /outimage/wavplay/common_models/spain/es-female-ramona/es-female-ramona_audio_prompt.mp3
+     desc: es-female-ramona
+    -
+     id: 7
+     name: es-female-popular
+     display: Female-Popular(mexicana)
+     catid: spain
+     catname: Español
+     wavplay: /outimage/wavplay/common_models/spain/es-female-popular/es-female-popular_audio_prompt.mp3
+     desc: es-female-popular
+    -
+     id: 8
+     name: es-male-rodrigo
+     display: Male-Rodrigo（puertorriqueña）
+     catid: spain
+     catname: Español
+     wavplay: /outimage/wavplay/common_models/spain/es-male-rodrigo/es-male-rodrigo_audio_prompt.mp3
+     desc: es-male-rodrigo
+    -
+     id: 9
+     name: es-female-lola
+     display: Female-Lola (estadounidense)
+     catid: spain
+     catname: Español
+     wavplay: /outimage/wavplay/common_models/spain/es-female-lola/es-female-lola_audio_prompt.mp3
+     desc: es-female-lola
+    -
+     id: 10
+     name: es-male-warm
+     display: Male-Warm
+     catid: spain
+     catname: Español
+     wavplay: /outimage/wavplay/common_models/spain/es-male-warm/es-male-warm_audio_prompt.mp3
+     desc: es-male-warm
+    -
+     id: 11
+     name: es-female-supermama
+     display: Female-Super Mama
+     catid: spain
+     catname: Español
+     wavplay: /outimage/wavplay/common_models/spain/es-female-supermama/es-female-supermama_audio_prompt.mp3
+     desc: es-female-supermama
+    -
+     id: 12
+     name: es-female-latina
+     display: Female-Latina
+     catid: spain
+     catname: Español
+     wavplay: /outimage/wavplay/common_models/spain/es-female-latina/es-female-latina_audio_prompt.mp3
+     desc: es-female-latina
+    -
+     id: 13
+     name: es-male-julio
+     display: Male-Julio
+     catid: spain
+     catname: Español
+     wavplay: /outimage/wavplay/common_models/spain/es-male-julio/es-male-julio_audio_prompt.mp3
+     desc: es-male-julio
+    -
+     id: 14
+     name: es-female-margarita
+     display: Female-Margarita(puertorriqueña）
+     catid: spain
+     catname: Español
+     wavplay: /outimage/wavplay/common_models/spain/es-female-margarita/es-female-margarita_audio_prompt.mp3
+     desc: es-female-margarita
+  russia:
+    -
+     id: 0
+     name: ru-female-Vera
+     display: Female-Вера
+     catid: russia
+     catname: Русский
+     wavplay: /outimage/wavplay/common_models/russia/ru-female-Vera/ru-female-Vera_audio_prompt.mp3
+     desc: ru-female-Vera
+    -
+     id: 1
+     name: ru-male-ivan
+     display: Male-Иван
+     catid: russia
+     catname: Русский
+     wavplay: /outimage/wavplay/common_models/russia/ru-male-ivan/ru-male-ivan_audio_prompt.mp3
+     desc: ru-male-ivan
+    -
+     id: 2
+     name: ru-female-oksana
+     display: Female-Оксана
+     catid: russia
+     catname: Русский
+     wavplay: /outimage/wavplay/common_models/russia/ru-female-oksana/ru-female-oksana_audio_prompt.mp3
+     desc: ru-female-oksana
+    -
+     id: 3
+     name: ru-female-irina
+     display: Female-Ирина
+     catid: russia
+     catname: Русский
+     wavplay: /outimage/wavplay/common_models/russia/ru-female-irina/ru-female-irina_audio_prompt.mp3
+     desc: ru-female-irina
+    -
+     id: 4
+     name: ru-female-olga
+     display: Female-Ольга
+     catid: russia
+     catname: Русский
+     wavplay: /outimage/wavplay/common_models/russia/ru-female-olga/ru-female-olga_audio_prompt.mp3
+     desc: ru-female-olga
+    -
+     id: 5
+     name: ru-male-vladimir
+     display: Male-Владимир
+     catid: russia
+     catname: Русский
+     wavplay: /outimage/wavplay/common_models/russia/ru-male-vladimir/ru-male-vladimir_audio_prompt.mp3
+     desc: ru-male-vladimir
+  portugal:
+    -
+     id: 0
+     name: pt-male-luciano
+     display: Male-Luciano（Brasileiro）
+     catid: portugal
+     catname: Português
+     wavplay: /outimage/wavplay/common_models/portugal/pt-male-luciano/pt-male-luciano_audio_prompt.mp3
+     desc: pt-male-luciano
+    -
+     id: 1
+     name: pt-female-lourdes
+     display: Female-Lourdes
+     catid: portugal
+     catname: Português
+     wavplay: /outimage/wavplay/common_models/portugal/pt-female-lourdes/pt-female-lourdes_audio_prompt.mp3
+     desc: pt-female-lourdes
+    -
+     id: 2
+     name: pt-female-ines
+     display: Female-Inês
+     catid: portugal
+     catname: Português
+     wavplay: /outimage/wavplay/common_models/portugal/pt-female-ines/pt-female-ines_audio_prompt.mp3
+     desc: pt-female-ines
+    -
+     id: 3
+     name: pt-female-gisele
+     display: Female-Gisele（Brasileiro）
+     catid: portugal
+     catname: Português
+     wavplay: /outimage/wavplay/common_models/portugal/pt-female-gisele/pt-female-gisele_audio_prompt.mp3
+     desc: pt-female-gisele
+    -
+     id: 4
+     name: pt-male-arnaldo
+     display: Male-Arnaldo
+     catid: portugal
+     catname: Português
+     wavplay: /outimage/wavplay/common_models/portugal/pt-male-arnaldo/pt-male-arnaldo_audio_prompt.mp3
+     desc: pt-male-arnaldo
+    -
+     id: 5
+     name: pt-female-henriqueta
+     display: Female-Henriqueta
+     catid: portugal
+     catname: Português
+     wavplay: /outimage/wavplay/common_models/portugal/pt-female-henriqueta/pt-female-henriqueta_audio_prompt.mp3
+     desc: pt-female-henriqueta
+    -
+     id: 6
+     name: pt-male-vasco
+     display: Male-Vasco（Brasileiro）
+     catid: portugal
+     catname: Português
+     wavplay: /outimage/wavplay/common_models/portugal/pt-male-vasco/pt-male-vasco_audio_prompt.mp3
+     desc: pt-male-vasco
+    -
+     id: 7
+     name: pt-female-luz
+     display: Female-Luz（Brasileiro）
+     catid: portugal
+     catname: Português
+     wavplay: /outimage/wavplay/common_models/portugal/pt-female-luz/pt-female-luz_audio_prompt.mp3
+     desc: pt-female-luz
+  korea:
+    -
+     id: 0
+     name: komale2-male
+     display: 남성-남성 목소리 2
+     catid: korea
+     catname: 한국인
+     wavplay: /outimage/wavplay/common_models/korea/komale2-male/komale2-male_audio_prompt.mp3
+     desc: komale2-male
+    -
+     id: 1
+     name: kofemale1-female
+     display: 여성-여성 목소리 1
+     catid: korea
+     catname: 한국인
+     wavplay: /outimage/wavplay/common_models/korea/kofemale1-female/kofemale1-female_audio_prompt.mp3
+     desc: kofemale1-female
+    -
+     id: 2
+     name: kofemale4-female
+     display: 여성-여성 목소리 4
+     catid: korea
+     catname: 한국인
+     wavplay: /outimage/wavplay/common_models/korea/kofemale4-female/kofemale4-female_audio_prompt.mp3
+     desc: kofemale4-female
+    -
+     id: 3
+     name: kofemale5-female
+     display: 여성-여성 목소리 5
+     catid: korea
+     catname: 한국인
+     wavplay: /outimage/wavplay/common_models/korea/kofemale5-female/kofemale5-female_audio_prompt.mp3
+     desc: kofemale5-female
+    -
+     id: 4
+     name: kofemale2-female
+     display: 여성-여성 목소리 2
+     catid: korea
+     catname: 한국인
+     wavplay: /outimage/wavplay/common_models/korea/kofemale2-female/kofemale2-female_audio_prompt.mp3
+     desc: kofemale2-female
+    -
+     id: 5
+     name: kofemale3-female
+     display: 여성-여성 목소리 3
+     catid: korea
+     catname: 한국인
+     wavplay: /outimage/wavplay/common_models/korea/kofemale3-female/kofemale3-female_audio_prompt.mp3
+     desc: kofemale3-female
+    -
+     id: 6
+     name: komale1-male
+     display: 남성-남성 목소리 1
+     catid: korea
+     catname: 한국인
+     wavplay: /outimage/wavplay/common_models/korea/komale1-male/komale1-male_audio_prompt.mp3
+     desc: komale1-male
+  arab:
+    -
+     id: 0
+     name: ar-male-ali
+     display: Male-علي
+     catid: arab
+     catname: العربية
+     wavplay: /outimage/wavplay/common_models/arab/ar-male-ali/ar-male-ali_audio_prompt.mp3
+     desc: ar-male-ali
+    -
+     id: 1
+     name: ar-male-khaled
+     display: Male-خالد
+     catid: arab
+     catname: العربية
+     wavplay: /outimage/wavplay/common_models/arab/ar-male-khaled/ar-male-khaled_audio_prompt.mp3
+     desc: ar-male-khaled
+    -
+     id: 2
+     name: ar-female-farah
+     display: Female-فرح
+     catid: arab
+     catname: العربية
+     wavplay: /outimage/wavplay/common_models/arab/ar-female-farah/ar-female-farah_audio_prompt.mp3
+     desc: ar-female-farah
+    -
+     id: 3
+     name: ar-female-aisha
+     display: Female-عائشة
+     catid: arab
+     catname: العربية
+     wavplay: /outimage/wavplay/common_models/arab/ar-female-aisha/ar-female-aisha_audio_prompt.mp3
+     desc: ar-female-aisha
+    -
+     id: 4
+     name: ar-female-haifa
+     display: Female-هيفاء
+     catid: arab
+     catname: العربية
+     wavplay: /outimage/wavplay/common_models/arab/ar-female-haifa/ar-female-haifa_audio_prompt.mp3
+     desc: ar-female-haifa
+    -
+     id: 5
+     name: ar-male-daud
+     display: Male-داود
+     catid: arab
+     catname: العربية
+     wavplay: /outimage/wavplay/common_models/arab/ar-male-daud/ar-male-daud_audio_prompt.mp3
+     desc: ar-male-daud
+  italy:
+    -
+     id: 0
+     name: it-male-vittorio
+     display: Male-Vittorio
+     catid: italy
+     catname: Italiano
+     wavplay: /outimage/wavplay/common_models/italy/it-male-vittorio/it-male-vittorio_audio_prompt.mp3
+     desc: it-male-vittorio
+    -
+     id: 1
+     name: it-female-isabella
+     display: Female-Isabella
+     catid: italy
+     catname: Italiano
+     wavplay: /outimage/wavplay/common_models/italy/it-female-isabella/it-female-isabella_audio_prompt.mp3
+     desc: it-female-isabella
+  holland:
+    -
+     id: 0
+     name: nl-male-koen
+     display: Male-Koen
+     catid: holland
+     catname: Nederlands
+     wavplay: /outimage/wavplay/common_models/holland/nl-male-koen/nl-male-koen_audio_prompt.mp3
+     desc: nl-male-koen
+    -
+     id: 1
+     name: nl-female-veerle
+     display: Female-Veerle
+     catid: holland
+     catname: Nederlands
+     wavplay: /outimage/wavplay/common_models/holland/nl-female-veerle/nl-female-veerle_audio_prompt.mp3
+     desc: nl-female-veerle
+  poland:
+    -
+     id: 0
+     name: pl-female-danuta
+     display: Female-Danuta
+     catid: poland
+     catname: Polski
+     wavplay: /outimage/wavplay/common_models/poland/pl-female-danuta/pl-female-danuta_audio_prompt.mp3
+     desc: pl-female-danuta
+    -
+     id: 1
+     name: pl-male-tadeusz
+     display: Male-Tadeusz
+     catid: poland
+     catname: Polski
+     wavplay: /outimage/wavplay/common_models/poland/pl-male-tadeusz/pl-male-tadeusz_audio_prompt.mp3
+     desc: pl-male-tadeusz

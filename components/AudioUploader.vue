@@ -64,12 +64,16 @@ const uid = ref(getOrCreateUid())
 interface Props {
   uploadedFile: File | null;
   modelCategory: string;
-  modelName: string;
+  modelName?: string | null;
   type: 'audio' | 'video';
   actionType: Record<string, any>;
 }
 
-const props = defineProps<Props>()
+const props = withDefaults(defineProps<Props>(), {
+  modelName: ''
+})
+
+const safeModelName = computed(() => props.modelName ?? '')
 
 const emit = defineEmits<{
   (e: 'upload-success', response: any): void;
@@ -135,7 +139,7 @@ const onUploadSuccess = (response: any) => {
       action: props.actionType.upload,
       domain: 'aivoicelab.net',
       modelcat: props.modelCategory,
-      modelname: props.modelName,
+      modelname: safeModelName.value,
       uid: uid.value
     })
     emit('uploading', false)
@@ -149,7 +153,7 @@ const onUploadSuccess = (response: any) => {
     reportError(errorObj, {
       context: "upload failed",
       modelcat: props.modelCategory,
-      modelname: props.modelName,
+      modelname: safeModelName.value,
       ret: response.ret,
       msg: response.msg
     }, uid.value, userEmail.value)
@@ -172,7 +176,7 @@ const onUploadError = (msg: string) => {
   reportError(errorObj, {
     context: "upload error",
     modelcat: props.modelCategory,
-    modelname: props.modelName,
+    modelname: safeModelName.value,
     msg: errorMsg
   }, uid.value, userEmail.value)
   emit('uploading', false)

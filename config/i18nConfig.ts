@@ -118,8 +118,7 @@ function normalizeRoutePath(routePath: string): string {
  * 基础语言文件：对所有请求都必须加载
  * 这些文件在服务器端和客户端都需要显式加载
  */
-export const BASE_TRANSLATION_FILES: string[] = ['index.json', 'first-page.json', 'character-voice.json', 'celebrity-voice.json', 'ai-voice-generator.json',
-  'about.json', 'sound-effects.json', 'vocal-isolator.json', 'audio-extractor.json', 'vocal-remover.json'];
+export const BASE_TRANSLATION_FILES: string[] = ['index.json', 'first-page.json', 'about.json', 'sound-effects.json', 'vocal-isolator.json', 'audio-extractor.json', 'vocal-remover.json'];
 
 /**
  * 根据路由路径确定需要加载的具体翻译文件列表（不包含基础文件）

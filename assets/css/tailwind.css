@@ -1,0 +1,620 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 全局样式 */
+:root {
+  /* 定义全局 CSS 变量,可在整个应用中使用 */
+  --primary-color: #68D1FA; /* 主要颜色,用于重要元 */
+  --primary-dark: #4BBEF7; /* 主要颜色的深色版本,通常用于悬停状态 */
+  --text-color: #484848; /* 默认文本颜色 */
+}
+
+body {
+  /* 设置整个网站的默认字体和文本样式 */
+  font-family: 'Circular', -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  color: var(--text-color); /* 使用上面定义的文本颜色变量 */
+  line-height: 1.43; /* 设置行高,提高可读性 */
+  background-color: rgb(249 250 251); /* 设置默认背景颜色为 bg-gray-50 */
+  background-attachment: fixed;
+  min-height: 100vh;
+}
+
+.btn-primary {
+  /* 定义主要按钮的样式 */
+  background: linear-gradient(to right, #F1AC63, #D76FF4); /* 渐变色 */
+  color: white; /* 文本颜色 */
+  border: none; /* 去除边框 */
+  border-radius: 5px; /* 圆角 */
+  cursor: pointer; /* 鼠标指针样式 */
+  display: flex; /* 使用 flex 布局 */
+  justify-content: center; /* 水平居中 */
+  align-items: center; /* 垂直居中 */
+  text-align: center; /* 确保文本居中 */
+  font-weight: 600; /* 设置字体粗细 */
+  padding: 14px 0; /* 使用padding来控制高度 */
+  transition: transform 0.2s ease;
+}
+
+.btn-primary:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(241, 172, 99, 0.2);
+}
+
+.btn-pro {
+  background: linear-gradient(45deg, #000000, #1a1a1a 30%, #333333 50%, #1a1a1a 70%, #000000);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-weight: 600;
+  padding: 14px 0;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.btn-pro:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.text-primary {
+  /* 定义主要文本颜色类 */
+  color: var(--primary-color); /* 使用主要颜色 */
+}
+
+.router-link-active {
+  /* 当前活动路由链接的样式 */
+  font-weight: 600; /* 加粗字体 */
+}
+
+/* 添加以下样式 */
+select {
+  height: 2.5rem; /* 40px, 与h-10相同 */
+  display: flex;
+  align-items: center;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  text-indent: 1px;
+  text-overflow: '';
+  border: 1px solid transparent; /* 去除原来的边框样式 */
+  font-size: 0.875rem;
+}
+
+select:focus {
+  border-color: var(--primary-color); /* 使用主题的蓝色 */
+  outline: none; /* 移除默认的轮廓 */
+  box-shadow: 0 0 0 2px rgba(59, 130, 246, 0.5); /* 添加阴影效果 */
+}
+
+.min-w-\[120px\] {
+  min-width: 120px;
+}
+
+.container {
+  /* 保持现有的样式 */
+  border: 4px solid transparent; /* 设置一个透明的边框 */
+  border-radius: 20px; /* 保持圆角 */
+  background-clip: padding-box; /* 确保背景不会延伸到边框 */
+  position: relative; /* 为伪元素定位 */
+}
+
+.container::before {
+  content: '';
+  position: absolute;
+  top: -4px; /* 边框宽度的负值 */
+  left: -4px;
+  right: -4px;
+  bottom: -4px;
+  border-radius: 24px; /* 外边框的圆角稍大 */
+  z-index: -1;
+}
+
+/* 保持其他现有的样式不变 */
+
+/* Footer 特殊样式 */
+footer {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+footer a {
+  color: #ffffff;
+  transition: color 0.3s ease;
+}
+
+footer a:hover {
+  color: var(--primary-color);
+}
+
+footer .container::before {
+  background: none;
+}
+
+/* 为了确保内容可读性,可能需要调整主要内容区域的背景 */
+.main-content {
+  background-color: rgba(255, 255, 255, 0.9);
+  border-radius: 20px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  margin: 20px auto;
+  padding: 20px;
+  max-width: 1200px; /* 或者您希望的任何宽度 */
+}
+
+.gradient-border {
+  background: linear-gradient(45deg, var(--primary-color), var(--secondary-start), var(--secondary-end));
+  padding: 2px; /* 这决定了边框的宽度 */
+}
+
+.gradient-border > div {
+  background: white;
+  border-radius: 22px; /* 稍微小于外部的圆角 */
+}
+.gradient-shadow {
+  box-shadow:
+    0 0 20px 0 rgba(59, 130, 246, 0.3), /* 保持原有的主题蓝色 */
+    0 0 20px 0 rgba(104, 209, 250, 0.3); /* 使用新的蓝色 #68D1FA */
+}
+.voice-option {
+  transition: background-color 0.2s ease;
+}
+
+.voice-option.selected {
+  background-color: rgba(229, 231, 235, 0.5); /* 选中时的背景色 */
+  /* 去掉竖杠的样式 */
+  border-left: none; /* 确保没有左边的竖杠 */
+}
+
+.voice-option:hover {
+  background-color: rgba(229, 231, 235, 0.5); /* 悬停时的背景色与选中状态相同 */
+}
+
+.voice-option:hover span {
+  color: #3b82f6; /* 鼠标悬停时改变文字颜色为蓝色 */
+}
+
+/* 确保单选按钮在悬停状态下仍然可见 */
+.voice-option:hover input[type="radio"] {
+  border-color: #3b82f6;
+}
+
+.example-button {
+  padding: 0.25rem 0.5rem;
+  border-radius: 0.25rem;
+  background: #4bbef7d9;
+  color: white;
+  transition: all 0.3s ease;
+  height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  white-space: nowrap;
+  position: relative;
+  overflow: hidden;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* 默认屏幕尺寸的按钮宽度 */
+@media screen and (min-width: 768px) {
+  .example-button {
+    min-width: 80px;
+    max-width: 120px;
+  }
+}
+
+/* 移动端的按钮宽度 */
+@media screen and (max-width: 767px) {
+  .example-button {
+    min-width: unset;
+    max-width: unset;
+    padding: 0.25rem;
+  }
+  
+  /* 调整按钮容器的间距 */
+  .voice-list .flex.items-center.justify-between {
+    gap: 0.5rem !important;
+    padding: 0.75rem 0.5rem !important;
+  }
+}
+
+.example-button svg {
+  flex-shrink: 0;
+  transition: color 0.3s ease; /* 添加颜色过渡效果 */
+}
+
+.example-button:hover svg,
+.example-button:hover span,
+.example-button.loading svg,
+.example-button.loading span,
+.example-button.playing svg,
+.example-button.playing span {
+  color: white !important; /* 确保 hover 状态下图标和文字都是白色 */
+}
+
+.example-button:hover,
+.example-button.loading,
+.example-button.playing {
+  background: #4BBEF7 !important; /* 使用稍深的蓝色作为 hover 背景 */
+}
+
+/* 移除之前的 ::before 伪元素,因为我们现在直接改变背景色 */
+.example-button::before {
+  display: none;
+}
+
+.example-button:hover {
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.15);
+  transform: translateY(-1px);
+}
+
+/* 确保在所有状态下,按钮内的所有元素都是白色 */
+.voice-option .example-button *,
+.voice-option .example-button.loading *,
+.voice-option .example-button.playing *,
+.voice-option:hover .example-button *,
+.voice-option:hover .example-button.loading *,
+.voice-option:hover .example-button.playing * {
+  color: white !important;
+}
+
+.advantages-title {
+  margin-top: 4rem; /* 增加上边距 */
+}
+
+
+.generate-button {
+  background: linear-gradient(to right, var(--secondary-start), var(--secondary-end));
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 0.25rem;
+  font-weight: 600;
+  transition: opacity 0.3s ease;
+}
+
+.generate-button:hover {
+  opacity: 0.9;
+}
+
+.voice-option:last-child {
+  border-bottom: none; /* 移除最后一个选项的底部框 */
+}
+
+.flex-grow {
+  flex-grow: 1;
+  min-height: 0; /* 这保flex-grow不会导致元素超出其容器 */
+}
+
+.voice-list-container {
+  max-height: 40vh; /* 设置最大高度为 3 个半声音单元的高度 */
+  overflow-y: auto; /* 启用垂直滚动 */
+  overflow-x: hidden; /* 隐藏水平滚动 */
+}
+
+.voice-list {
+  height: 100%;
+  overflow-y: auto;
+  scrollbar-width: thin;
+  scrollbar-color: #cbd5e1 transparent;
+  scroll-behavior: auto !important;
+}
+
+.voice-list::-webkit-scrollbar {
+  width: 6px;
+}
+
+.voice-list::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.voice-list::-webkit-scrollbar-thumb {
+  background-color: #cbd5e1;
+  border-radius: 3px;
+}
+
+.voice-list::-webkit-scrollbar-thumb:hover {
+  background-color: #94a3b8;
+}
+
+.voice-option {
+  height: 56px; /* 固定每个声音选项的高度 */
+  transition: all 0.2s ease;
+}
+
+.voice-option:hover {
+  transform: translateX(2px);
+}
+
+.voice-option.selected {
+  position: relative;
+}
+
+.voice-option.selected::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 3px;
+  background: linear-gradient(to bottom, #F1AC63, #D76FF4);
+  border-radius: 0 2px 2px 0;
+}
+
+/* 如果需要,可以添加以下样式来确保渐变文本在所有浏览器中都能正确显示 */
+.bg-clip-text {
+  -webkit-background-clip: text;
+  background-clip: text;
+}
+
+.selected {
+  background-color: rgba(59, 130, 246, 0.2); /* 选中时的背景颜色 */
+  border-left: 4px solid #3b82f6; /* 选中时的左边框 */
+}
+
+.voice-option.selected:hover {
+  background-color: rgba(59, 130, 246, 0.2); /* 选中时的背景颜色，覆盖hover效果 */
+}
+
+.audio-container {
+  height: 360px;
+}
+
+/* 添加到样式中 */
+textarea:focus {
+  outline: none; /* 移除默认的轮廓 */
+}
+
+.result-container {
+  background-color: #f9fafb; /* 保持背景颜色 */
+  flex-grow: 1; /* 使 result-container 填充剩余空间 */
+  display: flex; /* 使用 Flexbox 布局 */
+  flex-direction: column; /* 垂直排列内容 */
+  justify-content: center; /* 垂直居中 */
+  padding: 20px; /* 增加内边距 */
+  padding-bottom: 40px; /* 调整底部内边距以与按钮底边对齐 */
+  margin: 20px; /* 可选：增加外边距 */
+}
+
+.btn {
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  display: flex; /* 使用 flex 布局 */
+  justify-content: center; /* 水平居中 */
+  align-items: center; /* 垂直居中 */
+  text-align: center; /* 确保文本居中 */
+  white-space: nowrap; /* 不换行 */
+  overflow: hidden; /* 隐藏溢出文本 */
+  text-overflow: ellipsis; /* 溢出文本显示省略号 */
+}
+
+.btn-secondary {
+  background-color: #e5e7eb; /* 灰色 */
+  color: black; /* 文本颜色 */
+  padding: 10px 20px; /* 内边距 */
+  border-radius: 5px; /* 圆角 */
+  cursor: pointer; /* 鼠标指针样式 */
+  display: flex; /* 使用 flex 布局 */
+  justify-content: center; /* 水平居中 */
+  align-items: center; /* 垂直居中 */
+  text-align: center; /* 确保文本居中 */
+  transition: background 0.3s ease; /* 添加过渡效果 */
+}
+
+.btn-secondary:hover {
+  background-color: #d1d5db; /* 深灰色 */
+}
+
+.parent-container {
+  display: flex;
+  flex-direction: column;
+  height: 100%; /* 或者使用 100vh */
+}
+
+.result-container {
+  background-color: #f9fafb; /* 保持背景颜色 */
+  flex-grow: 1; /* 使 result-container 填充剩余空间 */
+}
+
+/* 自定义 hover 放大比例 */
+.hover\:scale-102:hover {
+  transform: scale(1.02); /* 调整放大比例 */
+}
+
+/* 确保已选中状态下的 hover 样式 */
+.voice-option.selected:hover {
+  background-color: rgba(229, 231, 235, 0.5) !important; /* 使用 !important 保样式生效 */
+}
+
+/* 修改这个选择器 */
+.router-link-active {
+  /* 移除或注释掉这行 */
+  /* color: var(--primary-color); */
+  font-weight: 600; /* 保持字体加粗 */
+}
+
+/* 添加新的选择器专门针对 footer */
+footer .router-link-active {
+  color: white !important; /* 使用 !important 确保优先级 */
+}
+
+/* 如果需要,可以为 hover 状态添加特殊样式 */
+footer .router-link-active:hover {
+  opacity: 0.8; /* 或者其他想要的 hover 效果 */
+}
+
+/* 添加标准属性以实现兼容性 */
+.icon-gradient {
+  background: linear-gradient(135deg, #F1AC63, #D76FF4);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* 增加图标尺寸 */
+.advantages-icon {
+  width: 2rem;  /* 或 32px */
+  height: 2rem; /* 或 32px */
+}
+
+/* 增加标题字体大小 */
+.advantage-title {
+  font-size: 1.5rem; /* 或 24px */
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+/* 调整图标和标题的容器，以确保对齐 */
+.advantage-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+/* 可能需要调整图标和文字之间的间距 */
+.advantage-header .advantages-icon {
+  margin-right: 0.75rem;
+}
+
+/* 添加新的样式 */
+.text-input-area {
+  height: 150px; /* 默认高度 */
+}
+
+/* 在单栏状态下增加高度 */
+@media (max-width: 767px) {
+  .text-input-area {
+    height: 200px; /* 单栏状态下的高度,是默认高度的两倍 */
+  }
+}
+
+/* 修改图标渐变色 */
+.icon-gradient {
+  color: #F1AC63; /* 使用橘黄色 */
+}
+
+/* 调整图标尺寸 */
+.advantages-icon {
+  width: 1.5rem;  /* 从 1.75rem 减小到 1.5rem (24px) */
+  height: 1.5rem; /* 从 1.75rem 减小到 1.5rem (24px) */
+  transform: translateY(-2px);
+}
+
+/* 调整标题字体大小 */
+.advantage-title {
+  font-size: 1.125rem; /* 从 1.25rem 减小到 1.125rem (18px) */
+  font-weight: 600;
+  margin-bottom: 0.25rem; /* 减小底部边距 */
+  line-height: 1.5; /* 添加行高以改对齐 */
+}
+
+/* 调整图标和标题的容器，以确保对齐 */
+.advantage-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 0.5rem; /* 减小底部边距 */
+}
+
+/* 调整图标和文字之间的间距 */
+.advantage-header .advantages-icon {
+  margin-right: 0.5rem; /* 从 0.75rem 减小到 0.5rem */
+  flex-shrink: 0; /* 防止图标缩小 */
+}
+
+/* 添加新样式以改善文本对齐 */
+.advantage-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+@media (max-width: 767px) {
+  .example-button {
+    max-width: none;
+  }
+}
+
+/* 友情链接样式 */
+footer .text-gray-500 a {
+  color: #6b7280;
+  transition: color 0.2s ease;
+  font-size: 0.75rem;
+}
+
+footer .text-gray-500 a:hover {
+  color: #9ca3af;
+  text-decoration: none;
+}
+
+footer .text-gray-600 {
+  color: #4b5563;
+  margin: 0 0.25rem;
+}
+
+@media (max-width: 640px) {
+  footer .text-gray-500 {
+    line-height: 1.75;
+  }
+}
+
+/* Preview按钮样式优化 */
+.preview-button {
+  background: #1f2937;
+  color: white;
+  border-radius: 8px;
+  padding: 6px 12px;
+  font-size: 14px;
+  font-weight: 500;
+  transition: all 0.2s ease;
+}
+
+.preview-button:hover {
+  background: #111827;
+  transform: translateY(-1px);
+}
+
+.preview-button:active {
+  transform: translateY(0);
+}
+
+/* 输入框样式优化 */
+.text-input {
+  font-size: 16px;
+  line-height: 1.5;
+  color: #1f2937;
+  background: white;
+  transition: all 0.2s ease;
+}
+
+.text-input:focus {
+  outline: none;
+}
+
+/* 语言选择下拉框样式优化 */
+select.language-select {
+  background-color: white;
+  border-color: #e5e7eb;
+  transition: all 0.2s ease;
+}
+
+select.language-select:hover {
+  border-color: #d1d5db;
+}
+
+select.language-select:focus {
+  border-color: #F1AC63;
+  box-shadow: 0 0 0 2px rgba(241, 172, 99, 0.1);
+}
+
+.pricing-card {
+  transition: all 0.3s ease;
+}
+
+.pricing-card:hover {
+  transform: translateY(-4px) scale(1.02);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+}
+

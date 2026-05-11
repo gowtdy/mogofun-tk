@@ -1,0 +1,270 @@
+html, body {
+  height: 100%;
+  min-height: 100%;
+  width: 100%;
+  min-width: 100%;
+  display: block !important;
+  position: static !important;
+  overflow-x: hidden;
+  /* 移除平滑滚动效果 */
+  scroll-behavior: auto;
+}
+
+:root {
+  --gradient-angle: 120deg;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+    'Helvetica Neue', Arial, 'Noto Sans', sans-serif,
+    'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+  font-display: optional;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeSpeed;
+  /* content-visibility: auto; */
+} 
+
+/* 提前创建层，减少重排重绘 */
+h1, h2, img {
+  transform: translateZ(0);
+  backface-visibility: hidden;
+  will-change: transform;
+  content-visibility: auto;
+}
+
+/* 优先加载LCP关键元素 */
+.lcp-critical, .lcp-title {
+  content-visibility: visible;
+  contain-intrinsic-size: auto;
+  contain: style layout;
+  visibility: visible;
+  display: block;
+  paint-order: strict;
+  transform: translateZ(0);
+  backface-visibility: hidden;
+  will-change: transform;
+  z-index: 1;
+}
+
+.lcp-critical p {
+  content-visibility: visible;
+  contain: layout;
+  will-change: transform;
+  transform: translateZ(0);
+  display: block;
+}
+
+/* 标题渐变文字样式 - 优先渲染 */
+.gradient-text {
+  transform: translateZ(0);
+  will-change: transform;
+  contain: paint layout;
+  content-visibility: auto;
+  contain-intrinsic-size: auto 40px;
+  display: block;
+  visibility: visible;
+  font-display: swap;
+}
+
+/* 关键LCP元素样式 - 最高优先级优化 */
+.lcp-title-critical {
+  /* 强制立即可见，避免任何延迟 */
+  visibility: visible !important;
+  content-visibility: visible !important;
+  display: block !important;
+  
+  /* 基础样式，避免重排 */
+  color: #4B5563;
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+  font-weight: 500;
+  margin: 0.5rem auto;
+  text-align: center;
+  
+  /* 性能优化 */
+  contain: layout style paint;
+  will-change: auto;
+  transform: translateZ(0);
+  backface-visibility: hidden;
+  
+  /* 防止布局偏移 */
+  min-height: 32px;
+  max-width: 56rem;
+  contain-intrinsic-size: auto 32px;
+  
+  /* 字体渲染优化 */
+  font-display: optional;
+  text-rendering: optimizeSpeed;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
+  /* 避免重绘 */
+  overflow: hidden;
+  text-overflow: ellipsis;
+  word-wrap: break-word;
+}
+
+/* LCP关键元素样式 - 进一步优化 */
+.lcp-title {
+  font-display: optional;
+  opacity: 0.8;
+  color: #4B5563;
+  font-size: 1.25rem; /* 20px - 中等屏幕 */
+  line-height: 1.4;
+  margin: 0.5rem auto;
+  min-height: 32px;
+  max-width: 56rem; /* 896px - 限制最大宽度 */
+  text-align: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  word-wrap: break-word;
+  text-rendering: optimizeSpeed;
+  font-weight: 500;
+}
+
+/* 渲染已完成的状态标记 */
+html.lcp-rendered {
+  will-change: auto;
+  content-visibility: auto;
+  contain-intrinsic-size: auto 24px;
+}
+
+@media (min-width: 768px) {
+  .gradient-text {
+    color: transparent;
+    font-size: 2.0rem;
+    background-image: linear-gradient(to right, #D95E1F, #A31B99);
+    -webkit-background-clip: text;
+    background-clip: text;
+  }
+  
+  .lcp-title {
+    font-size: 1.5rem;
+    line-height: 2rem;
+    min-height: 32px; /* 防止布局偏移 */
+  }
+  
+  .lcp-title-critical {
+    font-size: 1.5rem;
+    line-height: 2rem;
+    min-height: 32px;
+    contain-intrinsic-size: auto 32px;
+  }
+}
+
+@media (max-width: 767px) {
+  .gradient-text {
+    color: #C13A17FF;
+    font-size: 1.6rem;
+  }
+
+  h2.loading-critical {
+    min-height: 24px;
+    height: auto;
+  }
+  
+  .lcp-title-critical {
+    font-size: 1.125rem;
+    line-height: 1.5rem;
+    min-height: 24px;
+    contain-intrinsic-size: auto 24px;
+  }
+}
+
+.text-visible {
+  content-visibility: visible;
+  visibility: visible;
+}
+
+/* 优化 LCP 元素性能 */
+.loading-critical {
+  content-visibility: auto;
+  visibility: visible !important;
+  display: block;
+}
+
+.contain-content {
+  contain: content;
+  content-visibility: visible;
+  paint-order: strict;
+}
+
+.will-change-auto {
+  will-change: auto;
+  transform: translateZ(0);
+}
+
+img.critical,
+img[fetchpriority="high"] {
+  content-visibility: visible;
+  will-change: transform;
+  transform: translateZ(0);
+}
+
+@supports (font-variation-settings: normal) {
+  body {
+    font-variation-settings: "wght" 400;
+    font-optical-sizing: auto;
+  }
+}
+
+/* 添加渲染优先级排序 */
+@layer {
+  :where(.lcp-critical) {
+    z-index: 1;
+  }
+  
+  :where(.loading-critical) {
+    z-index: 1;
+  }
+}
+
+/* 优化字体加载 */
+@font-face {
+  font-family: 'System';
+  font-style: normal;
+  font-weight: 400;
+  font-display: optional;
+  src: local("-apple-system"), local("BlinkMacSystemFont"), local("Segoe UI"), 
+       local("Roboto"), local("Helvetica Neue"), local("Arial"), sans-serif;
+  ascent-override: 90%;
+  descent-override: 10%;
+  size-adjust: 100%;
+}
+
+/* 确保弹出层正确定位 */
+.v-toast,
+.v-toast__container,
+.v-toast__item {
+  content-visibility: visible !important;
+  contain: none !important;
+  position: fixed !important;
+  z-index: 9999 !important;
+}
+
+/* 优化弹出层性能 */
+.v-toast__item {
+  will-change: transform;
+  transform: translateZ(0);
+  backface-visibility: hidden;
+}
+
+/* 添加骨架屏动画 */
+@keyframes pulse {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.5;
+  }
+}
+
+.animate-pulse {
+  animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
+
+/* 非关键元素可以使用swap */
+p, span, div:not(.lcp-title):not(.lcp-title-optimized) {
+  font-display: swap;
+}

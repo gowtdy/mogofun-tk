@@ -36,7 +36,7 @@ export default defineNitroPlugin(async (nitroApp) => {
     preloadPromise = (async () => {
       try {
         preloadedIndexVoiceModels = await getIndexVoiceModels()
-        console.log('init-voice-models, Voice models preloaded successfully')
+        console.log('init-voice-models, Index voice models preloaded successfully')
       } catch (error) {
         console.error('init-voice-models, Failed to preload voice models:', error)
       }
@@ -55,7 +55,13 @@ export default defineNitroPlugin(async (nitroApp) => {
         // 如果已经预加载，直接使用预加载的数据
         if (preloadedIndexVoiceModels) {
           event.context.indexVoiceModels = preloadedIndexVoiceModels
-        } 
+        } else {
+          // 否则按需加载（等待预加载完成或直接加载）
+          await preloadVoiceModels()
+          
+          // 使用预加载的数据
+          event.context.indexVoiceModels = preloadedIndexVoiceModels
+        }
       } catch (error) {
         console.error('init-voice-models, Failed to initialize voice models:', error)
       }

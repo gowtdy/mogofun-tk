@@ -103,7 +103,7 @@ function deepMergeReturn(target: Record<string, any>, source: Record<string, any
 function loadTranslationFilesSync(
   locale: string,
   routePath: string
-): { translations: Record<string, any>; loadedFiles: string[] } {
+): { translations: Record<string, any>; loadedFiles: string[]; projectRoot: string } {
   const translations: Record<string, any> = {}
   const loadedFileList: string[] = []
   
@@ -130,6 +130,9 @@ function loadTranslationFilesSync(
       
       // 检查文件是否存在
       if (!existsSync(filePath)) {
+        if (import.meta.dev && file === 'index.json') {
+          console.warn(`[i18n-nitro] Missing translation file (needed for comm.*): ${filePath}`)
+        }
         continue
       }
       
@@ -179,7 +182,27 @@ function loadTranslationFilesSync(
     }
   }
   
-  return { translations, loadedFiles: loadedFileList }
+  return { translations, loadedFiles: loadedFileList, projectRoot: root }
+}
+
+/**
+ * 仅跳过明确的静态资源请求；Nuxt 的 /_payload.json（及带语言前缀的路径）必须加载翻译，
+ * 否则 event.context.i18nTranslations 为空，SSR 与 Nuxt i18n 插件会报 comm.* 缺失。
+ */
+function shouldSkipTranslationLoad(pathname: string): boolean {
+  const p = (pathname || '').split('#')[0]
+  if (!p) return false
+
+  if (p.includes('/_payload.')) {
+    return false
+  }
+  if (p.endsWith('.html')) {
+    return false
+  }
+
+  return /\.(?:ico|png|jpe?g|gif|webp|svg|avif|css|js|mjs|map|woff2?|ttf|eot|txt|xml|json|webmanifest|wasm)$/i.test(
+    p
+  )
 }
 
 export default defineNitroPlugin((nitroApp) => {
@@ -191,15 +214,14 @@ export default defineNitroPlugin((nitroApp) => {
     const url = event.req.url || ''
     const routePath = url.split('?')[0] // 移除查询参数
     
-    // 跳过静态资源请求
-    if (routePath.includes('.') && !routePath.endsWith('.html')) {
+    if (shouldSkipTranslationLoad(routePath ?? '')) {
       return
     }
     
     // 直接从 URL 解析语言（不依赖 language-detector，确保执行顺序不影响）
     // 优先从 URL 路径解析语言，因为这是最可靠的来源
     let locale: string = 'en' // 默认语言
-    const urlLang = routePath.split('/')[1]
+    const urlLang = routePath ? routePath.split('/')[1] : ''
     if (urlLang && validLangs.includes(urlLang as any)) {
       locale = urlLang
     } else if (event.context.lang && validLangs.includes(event.context.lang as any)) {
@@ -211,10 +233,16 @@ export default defineNitroPlugin((nitroApp) => {
     event.context.lang = locale
     
     // 加载翻译文件（根据路由路径确定具体需要的文件）
-    const { translations, loadedFiles: loadedFileList } = loadTranslationFilesSync(
+    const { translations, loadedFiles: loadedFileList, projectRoot: resolvedRoot } = loadTranslationFilesSync(
       locale,
-      routePath
+      routePath || ''
     )
+
+    const topKeys = Object.keys(translations)
+    const hasComm = typeof translations.comm === 'object' && translations.comm !== null
+    if (!hasComm && routePath && !routePath.match(/\.(js|mjs|css|map|ico|png|jpg|jpeg|gif|webp|svg|woff2?|ttf|eot)$/i)) {
+      console.warn('[i18n-nitro] Loaded translations have no comm.* object — intlify will warn. route=', routePath, 'locale=', locale, 'loadedFiles=', loadedFileList, 'root=', resolvedRoot)
+    }
     
     // 将翻译数据添加到事件上下文，供 Nuxt 插件使用
     event.context.i18nTranslations = translations

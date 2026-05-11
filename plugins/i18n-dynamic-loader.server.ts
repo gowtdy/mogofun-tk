@@ -37,7 +37,9 @@ export default defineNuxtPlugin({
             }
           }
         } catch (error) {
-          // 静默处理错误
+          if (import.meta.dev) {
+            console.warn('[i18n-dynamic-loader.server] setupI18n error:', error)
+          }
         }
       }
 

@@ -47,7 +47,7 @@
 
         <section class="mb-8">
           <h2 class="text-xl font-semibold mb-4">7. Contact Information</h2>
-          <p>For any questions regarding these Terms, please contact us at: support@mogofun.net</p>
+          <p>For any questions regarding these Terms, please contact us at: support@mogofun.com</p>
         </section>
       </div>
     </div>

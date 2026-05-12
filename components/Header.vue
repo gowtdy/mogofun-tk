@@ -9,8 +9,8 @@
             class="flex items-center"
             title="Free AI Cover & AI Voice Over - home"
           >
-            <img :src="cdnHost + '/img/logo.svg'" alt="Free AI Cover Logo" width="55" height="50" class="h-12 w-auto mr-3" />
-            <img :src="cdnHost + '/img/title.svg'" alt="Free AI Voice Over Logo word" width="115" height="30" class="h-8 w-auto" />
+            <img :src="cdnHost + '/img/mogofun_logo.svg'" alt="Free AI Cover Logo" width="55" height="50" class="h-12 w-auto mr-3" />
+            <img :src="cdnHost + '/img/mogofun_word.svg'" alt="Free AI Voice Over Logo word" width="115" height="30" class="h-8 w-auto" />
             <span class="sr-only">Free AI Cover & AI Voice Over</span>
           </NuxtLink>
         </div>

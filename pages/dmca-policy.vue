@@ -6,7 +6,7 @@
         <p class="text-gray-600 mb-4">Last updated: {{ currentDate }}</p>
 
         <section class="mb-8">
-          <p class="text-gray-700">AI Voice Lab acts in accordance with the Digital Millennium Copyright Act of 1998. If you own a copyright or have authority to act on behalf of a copyright owner and want to report a claim that a third party is infringing that material on or through AI Voice Lab's services, please send a notice that meets the minimum requirements of the DMCA to support@gmail.com, and we will take appropriate action.</p>
+          <p class="text-gray-700">MoGoFun acts in accordance with the Digital Millennium Copyright Act of 1998. If you own a copyright or have authority to act on behalf of a copyright owner and want to report a claim that a third party is infringing that material on or through MoGoFun's services, please send a notice that meets the minimum requirements of the DMCA to support@gmail.com, and we will take appropriate action.</p>
         </section>
 
         <section class="mb-8">
@@ -36,7 +36,7 @@
 
         <section class="mb-8">
           <h2 class="text-xl font-semibold mb-4">Repeat Infringer Policy</h2>
-          <p class="text-gray-700">We will suspend or terminate accounts if the user is determined to be a "repeat infringer". In appropriate cases and at our sole discretion, we may limit access to the AI Voice Lab service and/or terminate accounts of users who blatantly infringe the intellectual property rights of others whether or not repeat infringement has occurred.</p>
+          <p class="text-gray-700">We will suspend or terminate accounts if the user is determined to be a "repeat infringer". In appropriate cases and at our sole discretion, we may limit access to the MoGoFun service and/or terminate accounts of users who blatantly infringe the intellectual property rights of others whether or not repeat infringement has occurred.</p>
         </section>
 
         <section class="mb-8">
@@ -56,7 +56,9 @@ import { useErrorReporter } from '~/composables/errorReporter'
 import { onMounted, onErrorCaptured } from 'vue'
 
 const { t, tm, locale } = useI18n()
-const host = 'https://aivoicelab.net'
+import { config } from '~/config/config'
+const host = config.host
+const cdnhost = config.cdnHost
 const error = useError()
 const { reportError } = useErrorReporter()
 
@@ -98,13 +100,13 @@ useHead({
     { property: 'og:type', content: 'website' },
     { property: 'og:title', content: t('seo.title') },
     { property: 'og:description', content: t('seo.description') },
-    { property: 'og:url', content: 'https://aivoicelab.net' },
-    { property: 'og:image', content: 'https://cdn.aivoicelab.net/img/fb-avl.jpg'},
+    { property: 'og:url', content: `${host}` },
+    { property: 'og:image', content: `${cdnhost}/img/fb-avl.jpg`},
     { name: 'twitter:card', content: 'summary_large_image' },
     { name: 'twitter:title', content: t('seo.title') },
     { name: 'twitter:description', content: t('seo.description') },
-    { name: 'twitter:site', content: 'https://aivoicelab.net' },
-    { name: 'twitter:image', content: 'https://cdn.aivoicelab.net/img/tw-avl.jpg' }
+    { name: 'twitter:site', content: `${host}` },
+    { name: 'twitter:image', content: `${cdnhost}/img/tw-avl.jpg` }
   ]
 })
 </script>

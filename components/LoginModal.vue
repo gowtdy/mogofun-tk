@@ -10,8 +10,8 @@
       
       <!-- Logo -->
       <div class="flex items-center justify-center mb-5 sm:mb-6 pt-2">
-        <img :src="cdnHost + '/img/logo.svg'" alt="AI Voice over" width="40" height="35" class="h-9 sm:h-10">
-        <img :src="cdnHost + '/img/title.svg'" alt="AI Voice over" width="90" height="20" class="h-9 sm:h-10">
+        <img :src="cdnHost + '/img/mogofun_logo.svg'" alt="AI Voice over" width="40" height="35" class="h-9 sm:h-10">
+        <img :src="cdnHost + '/img/mogofun_word.svg'" alt="AI Voice over" width="90" height="20" class="h-9 sm:h-10">
       </div>
       
       <!-- 标题 -->
@@ -30,10 +30,10 @@
       
       <!-- 服务条款信息 -->
       <div class="text-center mt-4 sm:mt-5 mb-2 text-[11px] sm:text-xs text-gray-500 px-2">
-        <span>{{ $t('comm.loginModalService').split('Terms of Service')[0] }}</span>
-        <NuxtLink class="text-blue-500 hover:underline" to="/terms">{{ $t('comm.termsService') }}</NuxtLink>
-        <span> {{ $t('comm.loginModalService').split('Terms of Service and Privacy Policy')[0].split('and')[1] || 'and' }} </span>
-        <NuxtLink class="text-blue-500 hover:underline" to="/privacy">{{ $t('comm.privacyPolicy') }}</NuxtLink>
+        <span>{{ $t('comm.loginModalAgree') }}</span>
+        <NuxtLink class="text-blue-500 hover:underline" to="/terms-service">{{ $t('comm.termsService') }}</NuxtLink>
+        <span> {{ $t('comm.loginModalAnd') }} </span>
+        <NuxtLink class="text-blue-500 hover:underline" to="/privacy-policy">{{ $t('comm.privacyPolicy') }}</NuxtLink>
       </div>
     </div>
   </div>
@@ -99,7 +99,7 @@ const initializeGoogleSignIn = async () => {
     }
 
     google.accounts.id.initialize({
-      client_id: '504160656010-hgapam8qrtolskdi50688k68r22ko5kq.apps.googleusercontent.com',
+      client_id: '1021876502754-56nksm1p2u4uhu254ts8odktv5vr5d81.apps.googleusercontent.com',
       callback: handleGoogleSignIn,
       ux_mode: 'popup',
       origin: window.location.origin,

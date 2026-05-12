@@ -22,50 +22,45 @@ const TOOL_PAGES = [
   'audio-extractor'
 ] as const;
 
-// 缓存配置模板
+// 缓存配置模板（仅 Cache-Control；不使用 Nitro isr/swr）
+// Nuxt 3.21+ 对 isr/swr 路由会单独请求 /path/_payload.json，PM2 cluster 无粘滞时易 404。
 const CACHE_TEMPLATES = {
   // 首页缓存 (5分钟)
   home: {
     maxAge: 300,
     sMaxAge: 300,
     staleWhileRevalidate: 600,
-    isr: true
   },
   // 角色页面缓存 (30分钟)
   character: {
     maxAge: 1800,
     sMaxAge: 1800,
     staleWhileRevalidate: 3600,
-    isr: true
   },
   // 功能页面缓存 (30分钟)
   feature: {
     maxAge: 1800,
     sMaxAge: 1800,
     staleWhileRevalidate: 3600,
-    isr: true
   },
   // 工具页面缓存 (15分钟，交互性强)
   tool: {
     maxAge: 900,
     sMaxAge: 900,
     staleWhileRevalidate: 1800,
-    isr: true
   },
   // 关于页面缓存 (2小时，减少内存占用)
   about: {
     maxAge: 7200,
     sMaxAge: 7200,
     staleWhileRevalidate: 14400,
-    isr: true
   },
   // 定价页面缓存 (1小时)
   pricing: {
     maxAge: 3600,
     sMaxAge: 3600,
     staleWhileRevalidate: 7200,
-    isr: true
-  }
+  },
 } as const;
 
 /**
@@ -83,7 +78,6 @@ function createCacheHeaders(template: typeof CACHE_TEMPLATES[keyof typeof CACHE_
 function createRouteRule(template: typeof CACHE_TEMPLATES[keyof typeof CACHE_TEMPLATES]) {
   return {
     headers: createCacheHeaders(template),
-    isr: template.isr
   };
 }
 

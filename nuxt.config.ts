@@ -254,9 +254,11 @@ export default defineNuxtConfig({
     '@pages': resolve(__dirname, './pages'),
   },
   experimental: {
-    payloadExtraction: true,
+    // PM2 cluster (ecosystem.config.cjs) has no sticky LB: /_payload.json can land on a
+    // different worker than the HTML render → 404. Re-enable with upstream sticky or single instance.
+    payloadExtraction: false,
     viewTransition: true,
-    renderJsonPayloads: true, // 减少初始负载
+    renderJsonPayloads: true, // smaller inline payload when not extracted
     componentIslands: false, // 禁用组件岛屿，确保页面级代码分割正常工作
   },
   image: {

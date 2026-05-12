@@ -43,7 +43,7 @@
         </div>
       </div>
       <div class="mt-8 pt-8 border-t border-gray-700 text-center">
-        <p>&copy; {{ currentYear }} AI Voice Lab. All rights reserved.</p>
+        <p>&copy; {{ currentYear }} MoGoFun. All rights reserved.</p>
       </div>
     </div>
   </footer>

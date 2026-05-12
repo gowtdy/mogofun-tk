@@ -2,15 +2,15 @@
   "about": {
     "title": "About Us",
     "seo": {
-      "title": "About Us | AI Voice Lab - AI Cover & Voice Over Generator",
-      "description": "Learn about AIVoiceLab. Discover our mission, vision, and how we're revolutionizing AI voice technology.",
-      "keywords": "AI Voice Lab, AI voice technology, AI voice generator, about us"
+      "title": "About Us | MoGoFun - AI Cover & Voice Over Generator",
+      "description": "Learn about MoGoFun. Discover our mission, vision, and how we're revolutionizing AI voice technology.",
+      "keywords": "MoGoFun, AI voice technology, about us"
     },
     "companyProfile": {
       "title": "Who We Are",
-      "description1": "AIVoiceLab is an innovative platform specializing in AI-powered voice generation, voice cloning, and audio transformation technologies.",
+      "description1": "MoGoFun is an innovative platform specializing in AI-powered voice generation, voice cloning, and audio transformation technologies.",
       "description2": "Founded by a team of passionate AI researchers and audio engineers, we're dedicated to pushing the boundaries of what's possible with artificial intelligence in the audio domain. Our team combines expertise in machine learning, signal processing, and user experience design to create tools that are both powerful and accessible.",
-      "description3": "At AIVoiceLab, we provide advanced AI voice generation services that allow users to create high-quality AI covers, voice overs, and custom voice clones with remarkable realism and emotional nuance."
+      "description3": "At MoGoFun, we provide advanced AI voice generation services that allow users to create high-quality AI covers, voice overs, and custom voice clones with remarkable realism and emotional nuance."
     },
     "mission": {
       "title": "Our Mission & Vision",
@@ -36,7 +36,7 @@
     },
     "team": {
       "title": "Our Team",
-      "description": "AIVoiceLab brings together passionate experts in AI, audio engineering, and product development. Our diverse team works tirelessly to build and improve AIVoiceLab, constantly innovating to deliver the best AI voice technology to our users."
+      "description": "MoGoFun brings together passionate experts in AI, audio engineering, and product development. Our diverse team works tirelessly to build and improve MoGoFun, constantly innovating to deliver the best AI voice technology to our users."
     },
     "contact": {
       "title": "Contact Us",

@@ -27,7 +27,7 @@ export default defineEventHandler(async (event) => {
   
   // 检查是否有对应的路由规则
   const routeRules = {
-    '/': { headers: { 'Cache-Control': 's-maxage=300' }, isr: true },
+    '/': { headers: { 'Cache-Control': 's-maxage=300' } },
     // 可以添加更多路由规则用于测试
   }
   
@@ -37,7 +37,6 @@ export default defineEventHandler(async (event) => {
     console.log(`🔍 [Cache Logger] ${method} ${url} (Request #${requestCount})`)
     console.log(`   - Route rule matched: ${!!matchedRule}`)
     if (matchedRule) {
-      console.log(`   - ISR enabled: ${matchedRule.isr}`)
       console.log(`   - Cache control: ${matchedRule.headers['Cache-Control']}`)
     }
   }

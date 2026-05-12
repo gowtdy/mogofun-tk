@@ -97,13 +97,13 @@
                 <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 text-gray-500 mr-3" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
                 </svg>
-                <a href="mailto:support@aivoicelab.net" class="text-primary hover:underline">support@aivoicelab.net</a>
+                <a href="mailto:support@mogofun.com" class="text-primary hover:underline">support@mogofun.com</a>
               </div>
               <div class="flex items-center">
                 <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 text-gray-500 mr-3" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 20.488V18a2 2 0 012-2h3.064M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
                 </svg>
-                <a href="https://aivoicelab.net" class="text-primary hover:underline">aivoicelab.net</a>
+                <a href="https://mogofun.com" class="text-primary hover:underline">mogofun.com</a>
               </div>
             </div>
           </div>
@@ -115,7 +115,9 @@
 
 <script setup>
 const { t, locale } = useI18n()
-const host = 'https://aivoicelab.net'
+import { config } from '~/config/config'
+const host = config.host
+const cdnhost = config.cdnHost
 
 // SEO Meta Tags
 useHead({
@@ -130,12 +132,12 @@ useHead({
     { property: 'og:title', content: t('about.seo.title') },
     { property: 'og:description', content: t('about.seo.description') },
     { property: 'og:url', content: `${host}/about-us` },
-    { property: 'og:image', content: 'https://cdn.aivoicelab.net/img/fb-avl.jpg'},
+    { property: 'og:image', content: `${cdnHost}/img/fb-avl.jpg`},
     { name: 'twitter:card', content: 'summary_large_image' },
     { name: 'twitter:title', content: t('about.seo.title') },
     { name: 'twitter:description', content: t('about.seo.description') },
     { name: 'twitter:site', content: `${host}/about-us` },
-    { name: 'twitter:image', content: 'https://cdn.aivoicelab.net/img/tw-avl.jpg' }
+    { name: 'twitter:image', content: `${cdnHost}/img/tw-avl.jpg` }
   ]
 })
 </script> 

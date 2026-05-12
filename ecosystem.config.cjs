@@ -6,7 +6,7 @@ module.exports = {
       instances: 2,
       exec_mode: 'cluster',
       env: {
-        PORT: 4100,
+        PORT: 4300,
         HOST: '0.0.0.0',
         NODE_PATH: '/home/aigc/service/voice/web_dist/mogofun_dist/server/node_modules'
       },

@@ -12,9 +12,9 @@
                 d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
             </svg>
             <span>{{ $t('comm.contact') }}</span>
-            <a href="mailto:support@aivoicelab.net" title="AIVoiceLab Contact"
+            <a href="mailto:support@mogofun.com" title="MoGoFun Contact"
               class="ml-1 hover:text-white transition-colors duration-200">
-              support@aivoicelab.net
+              support@mogofun.com
             </a>
           </div>
         </div>

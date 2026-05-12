@@ -7,7 +7,7 @@
         
         <section class="mb-8">
           <h2 class="text-xl font-semibold mb-4">1. Introduction</h2>
-          <p>Welcome to AI Voice Lab ("we," "our," or "us"). We are committed to protecting your privacy and personal information. This Privacy Policy explains how we collect, use, and protect your information when you use our website (https://aivoicelab.net) and services.</p>
+          <p>Welcome to MoGoFun ("we," "our," or "us"). We are committed to protecting your privacy and personal information. This Privacy Policy explains how we collect, use, and protect your information when you use our website (https://mogofun.com) and services.</p>
         </section>
 
         <section class="mb-8">
@@ -48,7 +48,7 @@
 
         <section class="mb-8">
           <h2 class="text-xl font-semibold mb-4">7. Contact Us</h2>
-          <p>If you have any questions about this Privacy Policy, please contact us at: support@gmail.com</p>
+          <p>If you have any questions about this Privacy Policy, please contact us at: support@mogofun.com</p>
         </section>
       </div>
     </div>
@@ -57,7 +57,7 @@
 
 <script setup>
 const { t, tm, locale } = useI18n()
-const host = 'https://aivoicelab.net'
+const host = 'https://mogofun.com'
 
 const currentDate = new Date().toLocaleDateString('en-US', {
   year: 'numeric',
@@ -77,13 +77,13 @@ useHead({
     { property: 'og:type', content: 'website' },
     { property: 'og:title', content: t('seo.title') },
     { property: 'og:description', content: t('seo.description') },
-    { property: 'og:url', content: 'https://aivoicelab.net' },
-    { property: 'og:image', content: 'https://cdn.aivoicelab.net/img/fb-avl.jpg'},
+    { property: 'og:url', content: 'https://mogofun.com' },
+    { property: 'og:image', content: 'https://cdn.mogofun.net/img/fb-avl.jpg'},
     { name: 'twitter:card', content: 'summary_large_image' },
     { name: 'twitter:title', content: t('seo.title') },
     { name: 'twitter:description', content: t('seo.description') },
-    { name: 'twitter:site', content: 'https://aivoicelab.net' },
-    { name: 'twitter:image', content: 'https://cdn.aivoicelab.net/img/tw-avl.jpg' }
+    { name: 'twitter:site', content: 'https://mogofun.com' },
+    { name: 'twitter:image', content: 'https://cdn.mogofun.com/img/tw-avl.jpg' }
   ]
 })
 </script>

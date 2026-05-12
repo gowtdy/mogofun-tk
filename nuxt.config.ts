@@ -254,11 +254,12 @@ export default defineNuxtConfig({
     '@pages': resolve(__dirname, './pages'),
   },
   experimental: {
-    // PM2 cluster (ecosystem.config.cjs) has no sticky LB: /_payload.json can land on a
-    // different worker than the HTML render → 404. Re-enable with upstream sticky or single instance.
+    // PM2 cluster: avoid split /_payload.json. Nuxt 3.21+ still emits per-route _payload for isr/swr
+    // routeRules — those flags are omitted in config/routeRules.ts (headers-only caching).
     payloadExtraction: false,
     viewTransition: true,
-    renderJsonPayloads: true, // smaller inline payload when not extracted
+    // renderPayloadJsonScript + devalue can hit Pinia shouldHydrate (obj.hasOwnProperty) on __nuxt_error.
+    renderJsonPayloads: false,
     componentIslands: false, // 禁用组件岛屿，确保页面级代码分割正常工作
   },
   image: {

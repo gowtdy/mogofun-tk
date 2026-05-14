@@ -91,9 +91,9 @@
           </div>
         </div>
 
-        <!-- Pro plan card in completely independent container -->
+        <!-- advance plan card in completely independent container -->
         <div class="relative z-10 rounded-2xl overflow-hidden lg:transform lg:translate-y-[-8px] lg:scale-[1.02]">
-          <div v-if="(isYearly ? yearlyPlans : monthlyPlans).find(p => p.type_name.includes('pro'))">
+          <div v-if="(isYearly ? yearlyPlans : monthlyPlans).find(p => p.type_name.includes('advance'))">
             <div class="rounded-2xl pricing-card shadow-xl hover:shadow-2xl transition-all duration-300 relative">
               <div class="bg-gradient-to-r from-amber-400 via-pink-500 to-purple-600 rounded-2xl p-[2px]">
                 <div class="h-full bg-white rounded-2xl p-6 sm:p-8 relative overflow-hidden">
@@ -104,22 +104,22 @@
                     {{ $t('pricing.popular') }}
                   </div>
                   <div class="relative">
-                    <h2 class="text-xl sm:text-2xl font-extrabold mb-4 bg-gradient-to-r from-amber-400 via-pink-500 to-purple-600 text-transparent bg-clip-text">{{ (isYearly ? yearlyPlans : monthlyPlans).find(p => p.type_name.includes('pro')).name }}</h2>
+                    <h2 class="text-xl sm:text-2xl font-extrabold mb-4 bg-gradient-to-r from-amber-400 via-pink-500 to-purple-600 text-transparent bg-clip-text">{{ (isYearly ? yearlyPlans : monthlyPlans).find(p => p.type_name.includes('advance')).name }}</h2>
                     <div class="text-3xl sm:text-5xl font-black mb-2 sm:mb-3 flex items-baseline justify-center">
-                      <!-- span class="text-xl text-slate-400 line-through font-semibold mr-2">${{ (isYearly ? yearlyPlans : monthlyPlans).find(p => p.type_name.includes('pro')).origPrice }}</span -->
-                      <span class="text-slate-900">${{ !isYearly && (isYearly ? yearlyPlans : monthlyPlans).find(p => p.type_name.includes('pro')).firstMonthPrice !== undefined ? (isYearly ? yearlyPlans : monthlyPlans).find(p => p.type_name.includes('pro')).firstMonthPrice : (isYearly ? yearlyPlans : monthlyPlans).find(p => p.type_name.includes('pro')).price }}</span>
-                      <span class="text-base text-slate-500 font-medium ml-2 whitespace-nowrap">{{ $t('pricing.plans.pro.period') }}</span>
+                      <!-- span class="text-xl text-slate-400 line-through font-semibold mr-2">${{ (isYearly ? yearlyPlans : monthlyPlans).find(p => p.type_name.includes('advance')).origPrice }}</span -->
+                      <span class="text-slate-900">${{ !isYearly && (isYearly ? yearlyPlans : monthlyPlans).find(p => p.type_name.includes('advance')).firstMonthPrice !== undefined ? (isYearly ? yearlyPlans : monthlyPlans).find(p => p.type_name.includes('advance')).firstMonthPrice : (isYearly ? yearlyPlans : monthlyPlans).find(p => p.type_name.includes('advance')).price }}</span>
+                      <span class="text-base text-slate-500 font-medium ml-2 whitespace-nowrap">{{ $t('pricing.plans.advance.period') }}</span>
                     </div>
                     <div class="text-sm text-slate-500 mb-8 font-medium text-center">
-                      {{ !isYearly && (isYearly ? yearlyPlans : monthlyPlans).find(p => p.type_name.includes('pro')).firstMonthPrice !== undefined ? `${$t('pricing.renew')} $${(isYearly ? yearlyPlans : monthlyPlans).find(p => p.type_name.includes('pro')).price}${$t('pricing.plans.pro.period')} ${$t('pricing.after')}` : `$${(isYearly ? yearlyPlans : monthlyPlans).find(p => p.type_name.includes('pro')).totalprice} ${$t('pricing.yearbilled')}` }}
+                      {{ !isYearly && (isYearly ? yearlyPlans : monthlyPlans).find(p => p.type_name.includes('advance')).firstMonthPrice !== undefined ? `${$t('pricing.renew')} $${(isYearly ? yearlyPlans : monthlyPlans).find(p => p.type_name.includes('advance')).price}${$t('pricing.plans.advance.period')} ${$t('pricing.after')}` : `$${(isYearly ? yearlyPlans : monthlyPlans).find(p => p.type_name.includes('advance')).totalprice} ${$t('pricing.yearbilled')}` }}
                     </div>
                     <button 
                       class="w-full mb-8 py-3.5 text-base font-bold rounded-xl transition-all hover:translate-y-[-2px] bg-gradient-to-r from-amber-400 via-pink-500 to-purple-600 text-white shadow-lg relative" 
-                      @click="handleButtonClick((isYearly ? yearlyPlans : monthlyPlans).find(p => p.type_name.includes('pro')).type_name)"
-                      :disabled="loadingPro"
-                      :class="{'opacity-75': loadingPro}"
+                      @click="handleButtonClick((isYearly ? yearlyPlans : monthlyPlans).find(p => p.type_name.includes('advance')).type_name)"
+                      :disabled="loadingAdvance"
+                      :class="{'opacity-75': loadingAdvance}"
                     >
-                      <span v-if="!loadingPro">{{ $t('pricing.cta') }}</span>
+                      <span v-if="!loadingAdvance">{{ $t('pricing.cta') }}</span>
                       <span v-else class="flex items-center justify-center">
                         <svg class="animate-spin -ml-1 mr-2 h-4 w-4 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
                           <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
@@ -130,7 +130,7 @@
                     </button>
                     <div class="border-t border-slate-100 pt-6 mb-4">
                       <ul class="space-y-4">
-                        <li class="flex items-start gap-3" v-for="(feature, index) in (isYearly ? yearlyPlans : monthlyPlans).find(p => p.type_name.includes('pro')).features" :key="index">
+                        <li class="flex items-start gap-3" v-for="(feature, index) in (isYearly ? yearlyPlans : monthlyPlans).find(p => p.type_name.includes('advance')).features" :key="index">
                           <span class="text-amber-500 text-lg flex-shrink-0 mt-0.5">
                             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>
                           </span>
@@ -145,31 +145,31 @@
           </div>
         </div>
 
-        <!-- Business plan card in completely independent container -->
+        <!-- Pro plan card in completely independent container -->
         <div class="relative z-10 rounded-2xl overflow-hidden">
-          <div v-if="(isYearly ? yearlyPlans : monthlyPlans).find(p => p.type_name.includes('business'))" 
+          <div v-if="(isYearly ? yearlyPlans : monthlyPlans).find(p => p.type_name.includes('pro'))" 
                class="rounded-2xl pricing-card shadow-xl hover:shadow-2xl transition-all duration-300 relative">
             <div class="h-full border border-indigo-100 rounded-2xl p-6 sm:p-8 bg-gradient-to-b from-white to-indigo-50 relative overflow-hidden">
               <!-- Background pattern for visual interest -->
               <div class="absolute -right-12 -top-12 w-44 h-44 bg-indigo-100 opacity-50 rounded-full"></div>
               
               <div class="relative">
-                <h2 class="text-xl sm:text-2xl font-extrabold mb-4 text-indigo-700">{{ (isYearly ? yearlyPlans : monthlyPlans).find(p => p.type_name.includes('business')).name }}</h2>
+                <h2 class="text-xl sm:text-2xl font-extrabold mb-4 text-indigo-700">{{ (isYearly ? yearlyPlans : monthlyPlans).find(p => p.type_name.includes('pro')).name }}</h2>
                 <div class="text-3xl sm:text-5xl font-black mb-2 sm:mb-3 flex items-baseline justify-center">
-                  <!-- span class="text-xl text-slate-400 line-through font-semibold mr-2">${{ (isYearly ? yearlyPlans : monthlyPlans).find(p => p.type_name.includes('business')).origPrice }}</span -->
-                  <span class="text-indigo-900">${{ !isYearly && (isYearly ? yearlyPlans : monthlyPlans).find(p => p.type_name.includes('business')).firstMonthPrice !== undefined ? (isYearly ? yearlyPlans : monthlyPlans).find(p => p.type_name.includes('business')).firstMonthPrice : (isYearly ? yearlyPlans : monthlyPlans).find(p => p.type_name.includes('business')).price }}</span>
-                  <span class="text-base text-slate-500 font-medium ml-2">{{ $t('pricing.plans.business.period') }}</span>
+                  <!-- span class="text-xl text-slate-400 line-through font-semibold mr-2">${{ (isYearly ? yearlyPlans : monthlyPlans).find(p => p.type_name.includes('pro')).origPrice }}</span -->
+                  <span class="text-indigo-900">${{ !isYearly && (isYearly ? yearlyPlans : monthlyPlans).find(p => p.type_name.includes('pro')).firstMonthPrice !== undefined ? (isYearly ? yearlyPlans : monthlyPlans).find(p => p.type_name.includes('pro')).firstMonthPrice : (isYearly ? yearlyPlans : monthlyPlans).find(p => p.type_name.includes('pro')).price }}</span>
+                  <span class="text-base text-slate-500 font-medium ml-2">{{ $t('pricing.plans.pro.period') }}</span>
                 </div>
                 <div class="text-sm text-slate-500 mb-8 font-medium text-center">
-                  {{ !isYearly && (isYearly ? yearlyPlans : monthlyPlans).find(p => p.type_name.includes('business')).firstMonthPrice !== undefined ? `${$t('pricing.renew')} $${(isYearly ? yearlyPlans : monthlyPlans).find(p => p.type_name.includes('business')).price}${$t('pricing.plans.business.period')} ${$t('pricing.after')}` : `$${(isYearly ? yearlyPlans : monthlyPlans).find(p => p.type_name.includes('business')).totalprice} ${$t('pricing.yearbilled')}` }}
+                  {{ !isYearly && (isYearly ? yearlyPlans : monthlyPlans).find(p => p.type_name.includes('pro')).firstMonthPrice !== undefined ? `${$t('pricing.renew')} $${(isYearly ? yearlyPlans : monthlyPlans).find(p => p.type_name.includes('pro')).price}${$t('pricing.plans.pro.period')} ${$t('pricing.after')}` : `$${(isYearly ? yearlyPlans : monthlyPlans).find(p => p.type_name.includes('pro')).totalprice} ${$t('pricing.yearbilled')}` }}
                 </div>
                 <button 
                   class="w-full mb-8 py-3.5 text-base font-bold rounded-xl transition-all hover:translate-y-[-2px] bg-indigo-600 hover:bg-indigo-700 text-white shadow-lg relative" 
-                  @click="handleButtonClick((isYearly ? yearlyPlans : monthlyPlans).find(p => p.type_name.includes('business')).type_name)"
-                  :disabled="loadingBusiness"
-                  :class="{'opacity-75': loadingBusiness}"
+                  @click="handleButtonClick((isYearly ? yearlyPlans : monthlyPlans).find(p => p.type_name.includes('pro')).type_name)"
+                  :disabled="loadingPro"
+                  :class="{'opacity-75': loadingPro}"
                 >
-                  <span v-if="!loadingBusiness">{{ $t('pricing.cta') }}</span>
+                  <span v-if="!loadingPro">{{ $t('pricing.cta') }}</span>
                   <span v-else class="flex items-center justify-center">
                     <svg class="animate-spin -ml-1 mr-2 h-4 w-4 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
                       <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
@@ -180,7 +180,7 @@
                 </button>
                 <div class="border-t border-indigo-100 pt-6 mb-4">
                   <ul class="space-y-4">
-                    <li class="flex items-start gap-3" v-for="(feature, index) in (isYearly ? yearlyPlans : monthlyPlans).find(p => p.type_name.includes('business')).features" :key="index">
+                    <li class="flex items-start gap-3" v-for="(feature, index) in (isYearly ? yearlyPlans : monthlyPlans).find(p => p.type_name.includes('pro')).features" :key="index">
                       <span class="text-indigo-500 text-lg flex-shrink-0 mt-0.5">
                         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>
                       </span>
@@ -216,15 +216,15 @@
 const isYearly = ref(true)
 const showLogin = ref(false)
 const loadingStarter = ref(false)
+const loadingAdvance = ref(false)
 const loadingPro = ref(false)
-const loadingBusiness = ref(false)
 const loadingFree = ref(false)
 const { t, tm, rt, locale } = useI18n()
 const host = 'https://aivoicelab.net'
 
 // 使用 tm 方法获取数组类型的翻译内容
-const businessFeatures = computed(() => tm('pricing.plans.business.features.items') || [])
 const proFeatures = computed(() => tm('pricing.plans.pro.features.items') || [])
+const advanceFeatures = computed(() => tm('pricing.plans.advance.features.items') || [])
 const starterFeatures = computed(() => tm('pricing.plans.starter.features.items') || [])
 const freeFeatures = computed(() => tm('pricing.plans.free.features.items') || [])
 
@@ -239,22 +239,22 @@ const monthlyPlans = computed(() => [
     features: starterFeatures.value
   },
   {
-    name: t('pricing.plans.pro.name'),
+    name: t('pricing.plans.advance.name'),
     firstMonthPrice: 8.99,
     price: 12.99,
     origPrice: 18.99,
     isPopular: true,
-    type_name: 'pro_month',
-    features: proFeatures.value
+    type_name: 'advance_month',
+    features: advanceFeatures.value
   },
   {
-    name: t('pricing.plans.business.name'),
+    name: t('pricing.plans.pro.name'),
     firstMonthPrice: 14.99,
     price: 21.99,
     origPrice: 24.99,
     isPopular: true,
-    type_name: 'business_month',
-    features: businessFeatures.value
+    type_name: 'pro_month',
+    features: proFeatures.value
   }
 ])
 
@@ -276,22 +276,22 @@ const yearlyPlans = computed(() => [
     features: starterFeatures.value
   },
   {
-    name: t('pricing.plans.pro.name'),
+    name: t('pricing.plans.advance.name'),
     price: 8.9,
     totalprice: 106.8,
     origPrice: 155.88,
     isPopular: true,
-    type_name: 'pro_year',
-    features: proFeatures.value
+    type_name: 'advance_year',
+    features: advanceFeatures.value
   },
   {
-    name: t('pricing.plans.business.name'),
+    name: t('pricing.plans.pro.name'),
     price: 14.9,
     totalprice: 178.8,
     origPrice: 263.88,
     isPopular: true,
-    type_name: 'business_year',
-    features: businessFeatures.value
+    type_name: 'pro_year',
+    features: proFeatures.value
   }
 ])
 
@@ -315,8 +315,8 @@ const showLoginModal = () => {
 // 重置所有loading状态的函数
 const resetAllLoadingStates = () => {
   loadingStarter.value = false
+  loadingAdvance.value = false
   loadingPro.value = false
-  loadingBusiness.value = false
   loadingFree.value = false
 }
 
@@ -324,10 +324,10 @@ const resetAllLoadingStates = () => {
 const resetLoadingStateByType = (type) => {
   if (type.includes('starter')) {
     loadingStarter.value = false
+  } else if (type.includes('advance')) {
+    loadingAdvance.value = false
   } else if (type.includes('pro')) {
     loadingPro.value = false
-  } else if (type.includes('business')) {
-    loadingBusiness.value = false
   } else if (type.includes('free')) {
     loadingFree.value = false
   }
@@ -361,10 +361,10 @@ const handleButtonClick = async (type) => {
   // 根据按钮类型设置对应的加载状态
   if (type.includes('starter')) {
     loadingStarter.value = true;
+  } else if (type.includes('advance')) {
+    loadingAdvance.value = true;
   } else if (type.includes('pro')) {
     loadingPro.value = true;
-  } else if (type.includes('business')) {
-    loadingBusiness.value = true;
   }
   
   // 处理已登录用户的逻辑

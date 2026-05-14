@@ -203,6 +203,7 @@
 <script setup>
   import { ref, computed, watchEffect, onErrorCaptured, onMounted, onUnmounted, onActivated, watch } from 'vue'
   import { useRoute, useRouter } from 'vue-router'
+  import { config } from '~/config/config'
   import AICoverConverter from '~/components/AICoverConverter.vue'
   import { useI18n } from 'vue-i18n'
   import { useUserStore } from '~/store/user'
@@ -220,7 +221,8 @@ const loadingAdvance = ref(false)
 const loadingPro = ref(false)
 const loadingFree = ref(false)
 const { t, tm, rt, locale } = useI18n()
-const host = 'https://aivoicelab.net'
+const host = config.host
+const domain = config.domain
 
 // 使用 tm 方法获取数组类型的翻译内容
 const proFeatures = computed(() => tm('pricing.plans.pro.features.items') || [])
@@ -232,7 +234,7 @@ const monthlyPlans = computed(() => [
   {
     name: t('pricing.plans.starter.name'),
     firstMonthPrice: 4.99,
-    price: 6.99,
+    price: 7.99,
     origPrice: 12.99,
     isPopular: false,
     type_name: 'starter_month',
@@ -240,7 +242,7 @@ const monthlyPlans = computed(() => [
   },
   {
     name: t('pricing.plans.advance.name'),
-    firstMonthPrice: 8.99,
+    firstMonthPrice: 9.99,
     price: 12.99,
     origPrice: 18.99,
     isPopular: true,
@@ -249,7 +251,7 @@ const monthlyPlans = computed(() => [
   },
   {
     name: t('pricing.plans.pro.name'),
-    firstMonthPrice: 14.99,
+    firstMonthPrice: 18.99,
     price: 21.99,
     origPrice: 24.99,
     isPopular: true,
@@ -268,8 +270,8 @@ const yearlyPlans = computed(() => [
   },
   {
     name: t('pricing.plans.starter.name'),
-    price: 3.9,
-    totalprice: 46.8,
+    price: 4.9,
+    totalprice: 58.8,
     origPrice: 71.88,
     isPopular: false,
     type_name: 'starter_year',
@@ -286,8 +288,8 @@ const yearlyPlans = computed(() => [
   },
   {
     name: t('pricing.plans.pro.name'),
-    price: 14.9,
-    totalprice: 178.8,
+    price: 12.9,
+    totalprice: 154.8,
     origPrice: 263.88,
     isPopular: true,
     type_name: 'pro_year',
@@ -342,15 +344,15 @@ const cancel_url = `/${currentLocale.value}/pricing`
 // 新增的点击处理方法
 const handleButtonClick = async (type) => {
   if (!type) {
-    alert('invalid invoke, Button type is required');
-    return;
+    alert(t('pricing.errors.buttonTypeRequired'))
+    return
   }
   if (!isLoggedIn.value) { // 检查用户是否登录
     showLoginModal(); // 显示登录弹窗
     trackAction({
       email: userEmail.value,
       action: ActionType.PRICING_POP_LOGIN,
-      domain: 'aivoicelab.net',
+      domain: domain,
       modelcat: 'pricing',
       modelname: 'pricing',
       uid: uid.value
@@ -368,7 +370,7 @@ const handleButtonClick = async (type) => {
   }
   
   // 处理已登录用户的逻辑
-  const url = `${host}/lapi/aivoicelab/cpaysess`
+  const url = `${host}/lapi/mogofun/cpaysess`
   
   try {
     const formData = new FormData()
@@ -388,7 +390,7 @@ const handleButtonClick = async (type) => {
       trackAction({
         email: userEmail.value,
         action: ActionType.PRICING_CHECKOUT_SUCCESS,
-        domain: 'aivoicelab.net',
+        domain: domain,
         modelcat: 'pricing',
         modelname: 'pricing',
         uid: uid.value,
@@ -402,7 +404,7 @@ const handleButtonClick = async (type) => {
       trackAction({
         email: userEmail.value,
         action: ActionType.PRICING_CHECKOUT_FAILED,
-        domain: 'aivoicelab.net',
+        domain: domain,
         modelcat: 'pricing',
         modelname: 'pricing',
         uid: uid.value
@@ -418,7 +420,7 @@ const handleButtonClick = async (type) => {
     trackAction({
       email: userEmail.value,
       action: ActionType.PRICING_CHECKOUT_FAILED,
-      domain: 'aivoicelab.net',
+      domain: domain,
       modelcat: 'pricing',
       modelname: 'pricing',
       uid: uid.value

@@ -13,40 +13,34 @@
     "freebilled": "Free to try",
     "loading": "PROCESSING...",
     "plans": {
-      "business": {
-        "name": "Business",
-        "period": "/month",
-        "features": {
-          "items": [
-            "Able to use all voices",
-            "600000 characters text-to-speech per month",
-            "200 song covers per month",
-            "1200 AI Sound Effects per month",
-            "200 vocal isolator per month",
-            "200 vocal remover per month",
-            "200 audio extractor per month",
-            "Latest voice updates",
-            "Unlimited Downloads",
-            "All Advanced Voice Features",
-            "48h support by email"
-          ]
-        }
-      },
       "pro": {
         "name": "Pro",
         "period": "/month",
         "features": {
           "items": [
             "Able to use all voices",
-            "300000 characters text-to-speech per month",
-            "90 song covers per month",
-            "600 AI Sound Effects per month",
-            "100 vocal isolator per month",
-            "100 vocal remover per month",
-            "100 audio extractor per month",
-            "Latest voice updates",
+            "1000000 characters per month limit (approximately 30hours of audio)",
+            "600 AI Sound effect generations per month",
+            "200 vocal isolator per month",
+            "200 vocal remover per month",
+            "200 audio extractor per month",
             "Unlimited Downloads",
-            "All Advanced Voice Features",
+            "48h support by email"
+          ]
+        }
+      },
+      "advance": {
+        "name": "Advance",
+        "period": "/month",
+        "features": {
+          "items": [
+            "Able to use all voices",
+            "400000 characters per month limit(approximately 12hours of audio)",
+            "400 AI Sound effect generations per month",
+            "90 vocal isolator per month",
+            "90 vocal remover per month",
+            "90 audio extractor per month",
+            "Unlimited Downloads",
             "48h support by email"
           ]
         }
@@ -57,15 +51,12 @@
         "features": {
           "items": [
             "Able to use all voices",
-            "100000 characters text-to-speech per month",
-            "30 song covers per month",
-            "200 AI Sound Effects per month",
+            "100000 characters per month limit(approximately 3hours of audio)",
+            "200 AI Sound effect generations per month",
             "30 vocal isolator per month",
             "30 vocal remover per month",
             "30 audio extractor per month",
-            "Latest voice updates",
             "Unlimited Downloads",
-            "All Advanced Voice Features",
             "72h support by email"
           ]
         }

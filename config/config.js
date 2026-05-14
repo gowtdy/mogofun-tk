@@ -9,6 +9,7 @@ export const config = {
       uploadSecretKey: 'ACpz51zjj2OAi/FqFeut0d9nq7XnTn63/mzQyOO8hgM=',
       coverSecretKey: 'l4AnBbVDNIardm33PyFP0Ki29uLAn9a6xrzNL/6FPuQ='
     },
+    domain: 'mogofun.com',
     host: 'https://mogofun.com',
     cdnHost: 'https://cdn.mogofun.com',
     apiHost: 'https://api.mogofun.com',

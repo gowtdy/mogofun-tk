@@ -76,6 +76,9 @@
     },
     "cta": "GET STARTED",
     "popular": "Popular",
-    "trybnt": "Try Now"
+    "trybnt": "Try Now",
+    "errors": {
+      "buttonTypeRequired": "invalid invoke, Button type is required"
+    }
   }
 }

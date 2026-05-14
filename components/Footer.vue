@@ -10,8 +10,8 @@
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
             </svg>
             <span>{{ $t('comm.contact') }}</span>
-            <a href="mailto:support@aivoicelab.net" title="AIVoiceLab Contact" class="ml-1 hover:text-white transition-colors duration-200">
-              support@aivoicelab.net
+            <a href="mailto:support@mogofun.com" title="MoGoFun Contact" class="ml-1 hover:text-white transition-colors duration-200">
+              support@mogofun.com
             </a>
           </div>
         </div>
@@ -38,7 +38,7 @@
         </div>
       </div>
       <div class="mt-8 pt-8 border-t border-gray-700 text-center">
-        <p>&copy; {{ currentYear }} AI Voice Lab. All rights reserved.</p>
+        <p>&copy; {{ currentYear }} MoGofun. All rights reserved.</p>
         
         <!-- 添加友情链接区域 -->
         <div class="mt-4 text-xs text-gray-500 flex flex-wrap justify-center gap-2">

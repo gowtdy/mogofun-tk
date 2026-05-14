@@ -1,12 +1,12 @@
 <template>
   <div class="min-h-screen bg-white py-12">
     <div class="container mx-auto px-4 max-w-4xl">
-      <h1 class="text-3xl font-bold mb-8">Refund Policy for AIVoiceLab</h1>
+      <h1 class="text-3xl font-bold mb-8">Refund Policy for MoGoFun</h1>
       <div class="prose max-w-none">
         <h2 class="text-2xl font-semibold mb-6">Refund Policy</h2>
         <p class="text-gray-600 mb-6">Last updated: October 05, 2025</p>
 
-        <p class="mb-6">Thank you for using AIVoiceLab's AI voice generation services.</p>
+        <p class="mb-6">Thank you for using MoGoFun's AI voice generation services.</p>
         <p class="mb-6">Due to the nature of digital products and services, we cannot offer refunds for change of mind. It is very important that you read the product page, title and description thoroughly before making a purchase.</p>
         <p class="mb-8">Because the services we offer are digital and cannot be returned, your purchase is only eligible for a refund in the following specific situations:</p>
 
@@ -51,7 +51,7 @@
 
         <section class="mb-8">
           <h2 class="text-xl font-semibold mb-4">Refund Process</h2>
-          <p class="mb-4">To request a refund, please contact us at <a href="mailto:support@aivoicelab.net" class="text-blue-600 hover:underline">support@aivoicelab.net</a> with the following information:</p>
+          <p class="mb-4">To request a refund, please contact us at <a href="mailto:support@mogofun.com" class="text-blue-600 hover:underline">support@mogofun.com</a> with the following information:</p>
           <ul class="list-disc pl-6 mb-4">
             <li>Your order number or transaction ID</li>
             <li>Detailed description of the issue (if applicable)</li>
@@ -74,14 +74,14 @@
 
         <section class="mb-8">
           <h2 class="text-xl font-semibold mb-4">Discretionary Refunds</h2>
-          <p class="mb-4"><strong>All refunds are at the sole discretion of AIVoiceLab.</strong> We reserve the right to refuse any refund request that does not meet our clearly defined criteria or that we believe to be fraudulent or abusive.</p>
+          <p class="mb-4"><strong>All refunds are at the sole discretion of MoGoFun.</strong> We reserve the right to refuse any refund request that does not meet our clearly defined criteria or that we believe to be fraudulent or abusive.</p>
         </section>
 
         <section class="mb-8">
           <h2 class="text-xl font-semibold mb-4">Contact Us</h2>
           <p class="mb-4">If you have any questions about our Refund Policy, please contact us:</p>
           <ul class="list-disc pl-6 mb-4">
-            <li>By email: <a href="mailto:support@aivoicelab.net" class="text-blue-600 hover:underline">support@aivoicelab.net</a></li>
+            <li>By email: <a href="mailto:support@mogofun.com" class="text-blue-600 hover:underline">support@mogofun.com</a></li>
             <li>Response time: We typically respond within 24-48 hours</li>
           </ul>
         </section>
@@ -92,7 +92,7 @@
 
 <script setup>
 const { t, tm, locale } = useI18n()
-const host = 'https://aivoicelab.net'
+const host = 'https://mogofun.com'
 
 const currentDate = 'October 05, 2025'
 
@@ -108,13 +108,13 @@ useHead({
     { property: 'og:type', content: 'website' },
     { property: 'og:title', content: t('seo.title') },
     { property: 'og:description', content: t('seo.description') },
-    { property: 'og:url', content: 'https://aivoicelab.net' },
-    { property: 'og:image', content: 'https://cdn.aivoicelab.net/img/fb-avl.jpg'},
+    { property: 'og:url', content: 'https://mogofun.com' },
+    { property: 'og:image', content: 'https://cdn.mogofun.com/img/fb-avl.jpg'},
     { name: 'twitter:card', content: 'summary_large_image' },
     { name: 'twitter:title', content: t('seo.title') },
     { name: 'twitter:description', content: t('seo.description') },
-    { name: 'twitter:site', content: 'https://aivoicelab.net' },
-    { name: 'twitter:image', content: 'https://cdn.aivoicelab.net/img/tw-avl.jpg' }
+    { name: 'twitter:site', content: 'https://mogofun.com' },
+    { name: 'twitter:image', content: 'https://cdn.mogofun.net/img/tw-avl.jpg' }
   ]
 })
 </script>

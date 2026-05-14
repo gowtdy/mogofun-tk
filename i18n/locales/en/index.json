@@ -26,14 +26,15 @@
     "friendsLinks": "Friends Links",
     "more": "More",
     "selectCategory": "Select Category",
-    "loginModalIntro": "Login to access your AIVoiceLab account",
-    "loginModalService": "By signing in, you agree to our Terms of Service and Privacy Policy",
+    "loginModalIntro": "Login to access your MoGoFun account",
+    "loginModalAgree": "By signing in, you agree to our ",
+    "loginModalAnd": " and ",
     "loginModalUnlogged": "Unable to load Google login service",
     "loginModalVPN": "Please ensure you can access Google services normally, or try using a VPN",
     "company": "Company",
     "vocalRemover": "Vocal Remover",
     "video": "Video Tools",
-    "startUsing": "Start Using AIVoiceLab",
+    "startUsing": "Start Using MoGoFun",
     "audioExtraction": "Audio Extractor",
     "upload":{
       "uploading": "Uploading...",
@@ -70,7 +71,7 @@
     }
   },
   "seo": {
-    "title": "AI Cover: Generate AI Song Cover Free | AIVoiceLab",
+    "title": "AI Cover: Generate AI Song Cover Free | MoGoFun",
     "description": "Transform any song with our AI cover generator. Create AI song cover using over thousand of community uploaded AI voice models. Try free now!",
     "keywords": "AI Cover, AI Cover Generator, AI Song Cover, AI Voice Cover, Cover AI"
   },
@@ -395,17 +396,17 @@
   },
   "ai_cover": {
     "seo": {
-      "title": "Free AI Cover| AIVoiceLab",
+      "title": "Free AI Cover| MoGoFun",
       "description": "Instantly make your favorite AI cover with our AI Cover Generator.  Choose from thousands of singing voices, including characters, celebrities and more.",
       "keywords": "AI Cover, Free AI Cover"
     },
     "meta": {
       "og": {
-        "title": "Free AI Cover| AIVoiceLab",
+        "title": "Free AI Cover| MoGoFun",
         "description": "Instantly make your favorite AI cover with our AI Cover Generator.  Choose from thousands of singing voices, including characters, celebrities and more."
       },
       "twitter": {
-        "title": "Free AI Cover| AIVoiceLab",
+        "title": "Free AI Cover| MoGoFun",
         "description": "Instantly make your favorite AI cover with our AI Cover Generator.  Choose from thousands of singing voices, including characters, celebrities and more."
       }
     },

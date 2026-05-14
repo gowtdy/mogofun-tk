@@ -23,7 +23,7 @@ export const useAuth = () => {
   const genUid = () => {
     const timestamp = new Date().getTime()
     const random = Math.floor(Math.random() * 10000)
-    return `av${timestamp}${random}`
+    return `mgf${timestamp}${random}`
   }
 
   /**
@@ -59,7 +59,7 @@ export const useAuth = () => {
     }
 
     try {
-      const response  = await $fetch(config.public.apiHost + '/lapi/aivoicelab/auth', {
+      const response  = await $fetch(config.public.apiHost + '/lapi/mogofun/auth', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -74,20 +74,20 @@ export const useAuth = () => {
         return false
       }
 
-      if (data.ret === 0) {
+      if ((data as any).ret === 0) {
         const userData = {
-          email: data.email,
-          name: data.full_name,
-          picture: data.picture,
+          email: (data as any).email,
+          name: (data as any).full_name,
+          picture: (data as any).picture,
         }
         await handleLoginSuccess(userData)
         return true
       }
 
       await handleLoginError('Backend authentication error', {
-        reqid: data.reqid,
-        ret: data.ret,
-        msg: data.msg
+        reqid: (data as any).reqid,
+        ret: (data as any).ret,
+        msg: (data as any).msg
       })
       return false
 
@@ -121,7 +121,7 @@ export const useAuth = () => {
     }
 
     try {
-      const response = await $fetch(config.public.apiHost + '/lapi/aivoicelab/userinfo', {
+      const response = await $fetch(config.public.apiHost + '/lapi/mogofun/userinfo', {
         method: 'GET',
         params: { email },
         headers: {
@@ -133,15 +133,15 @@ export const useAuth = () => {
 
       const data = response
       
-      if (data.ret === 0 && data.user_info) {
+      if ((data as any).ret === 0 && (data as any).user_info) {
         return {
           ret: 0,
-          userinfo: data.user_info
+          userinfo: (data as any).user_info
         }
       } else {
         return {
           ret: 1,
-          msg: data.msg
+          msg: (data as any).msg
         }
       }
     } catch (err) {
@@ -168,14 +168,14 @@ export const useAuth = () => {
       formData.append('action_type', actionType)  // 添加 action_type 参数
       formData.append('textlen', textlen.toString())
 
-      const response = await $fetch(config.public.apiHost + '/lapi/aivoicelab/counter', {
+      const response = await $fetch(config.public.apiHost + '/lapi/mogofun/counter', {
         method: 'POST',
         body: formData
       })
 
       const data = response
       
-      if (data.ret === 0) {
+      if ((data as any).ret === 0) {
         return {
           ret: 0,
           msg: 'Counter updated successfully'
@@ -183,7 +183,7 @@ export const useAuth = () => {
       } else {
         return {
           ret: 1,
-          msg: data.msg || 'Failed to update counter'
+          msg: (data as any).msg || 'Failed to update counter'
         }
       }
     } catch (err) {
@@ -212,14 +212,14 @@ export const useAuth = () => {
       formData.append('action_type', actionType)
       // 注意：其他功能不需要 textlen 参数
 
-      const response = await $fetch(config.public.apiHost + '/lapi/aivoicelab/counter', {
+      const response = await $fetch(config.public.apiHost + '/lapi/mogofun/counter', {
         method: 'POST',
         body: formData
       })
 
       const data = response
       
-      if (data.ret === 0) {
+      if ((data as any).ret === 0) {
         return {
           ret: 0,
           msg: 'Usage count updated successfully'
@@ -227,7 +227,7 @@ export const useAuth = () => {
       } else {
         return {
           ret: 1,
-          msg: data.msg || 'Failed to update usage count'
+          msg: (data as any).msg || 'Failed to update usage count'
         }
       }
     } catch (err) {

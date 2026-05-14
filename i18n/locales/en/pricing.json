@@ -1,0 +1,90 @@
+{
+  "pricing": {
+    "title": "🚀 Choose Your Plan & Power Up Your Content",
+    "period": {
+      "monthly": "Monthly",
+      "annually": "Annually",
+      "save": "Save 40%"
+    },
+    "renew": "Renews at",
+    "after": "after the first month",
+    "monthbilled": "billed monthly",
+    "yearbilled": "billed annually",
+    "freebilled": "Free to try",
+    "loading": "PROCESSING...",
+    "plans": {
+      "business": {
+        "name": "Business",
+        "period": "/month",
+        "features": {
+          "items": [
+            "Able to use all voices",
+            "600000 characters text-to-speech per month",
+            "200 song covers per month",
+            "1200 AI Sound Effects per month",
+            "200 vocal isolator per month",
+            "200 vocal remover per month",
+            "200 audio extractor per month",
+            "Latest voice updates",
+            "Unlimited Downloads",
+            "All Advanced Voice Features",
+            "48h support by email"
+          ]
+        }
+      },
+      "pro": {
+        "name": "Pro",
+        "period": "/month",
+        "features": {
+          "items": [
+            "Able to use all voices",
+            "300000 characters text-to-speech per month",
+            "90 song covers per month",
+            "600 AI Sound Effects per month",
+            "100 vocal isolator per month",
+            "100 vocal remover per month",
+            "100 audio extractor per month",
+            "Latest voice updates",
+            "Unlimited Downloads",
+            "All Advanced Voice Features",
+            "48h support by email"
+          ]
+        }
+      },
+      "starter": {
+        "name": "Starter",
+        "period": "/month",
+        "features": {
+          "items": [
+            "Able to use all voices",
+            "100000 characters text-to-speech per month",
+            "30 song covers per month",
+            "200 AI Sound Effects per month",
+            "30 vocal isolator per month",
+            "30 vocal remover per month",
+            "30 audio extractor per month",
+            "Latest voice updates",
+            "Unlimited Downloads",
+            "All Advanced Voice Features",
+            "72h support by email"
+          ]
+        }
+      },
+      "free": {
+        "name": "Free",
+        "period": "/month",
+        "features": {
+          "items": [
+            "5 times text-to-speech per day limit",
+            "20 times text-to-speech per month limit",
+            "4 times AI Cover per day limit",
+            "10 times AI Cover per month limit"
+          ]
+        }
+      }
+    },
+    "cta": "GET STARTED",
+    "popular": "Popular",
+    "trybnt": "Try Now"
+  }
+}

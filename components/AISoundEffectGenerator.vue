@@ -125,6 +125,7 @@ const { trackAction, actionCounts } = useActionReporter()
 const { generateSoundSignature } = useSignature()
 const toast = useToast()
 
+const domain = config.domain
 const host = config.host
 const apiHost = config.apiHost
 
@@ -372,7 +373,7 @@ async function generateSound() {
         email: userEmail.value,
         uid: uid.value,
         action: ActionType.SOUND_GENERATE,
-        domain: 'aivoicelab.net'
+        domain: domain
       })
     
     if (!isLoggedIn.value) {
@@ -383,7 +384,7 @@ async function generateSound() {
           trackAction({
             email: userEmail.value,
             action: ActionType.SOUND_GENPOP_LOGIN,
-            domain: 'aivoicelab.net',
+            domain: domain,
             modelcat: 'soundeffect',
             modelname: 'soundeffect',
             uid: uid.value
@@ -411,7 +412,7 @@ async function generateSound() {
             trackAction({
               email: userEmail.value,
               action: ActionType.SOUND_GENPOP_SUBSCRIPT,
-              domain: 'aivoicelab.net',
+              domain: domain,
               modelcat: 'soundeffect',
               modelname: 'soundeffect',
               uid: uid.value
@@ -431,7 +432,7 @@ async function generateSound() {
     formData.append('userid', uid.value);
     formData.append('email', userEmail.value);
     formData.append('subscript', String(user_subscript.value));
-    formData.append('domain', 'aivoicelab.net');
+    formData.append('domain', domain);
     formData.append('tstamp', String(tstamp));
     formData.append('snature', snature);
 
@@ -471,7 +472,7 @@ async function generateSound() {
       await trackAction({
         email: userEmail.value,
         action: ActionType.SOUND_GENERATE,
-        domain: 'aivoicelab.net',
+        domain: domain,
         modelcat: 'soundeffect',
         modelname: 'soundeffect',
         uid: uid.value
@@ -486,7 +487,7 @@ async function generateSound() {
       trackAction({
         email: userEmail.value,
         action: ActionType.SOUND_GENPOP_SUBSCRIPT,
-        domain: 'aivoicelab.net',
+        domain: domain,
         modelcat: 'soundeffect',
         modelname: 'soundeffect',
         uid: uid.value
@@ -526,7 +527,7 @@ async function downloadSound() {
     trackAction({
       email: userEmail.value,
       action: ActionType.SOUND_DOWNLOAD_LOGIN,
-      domain: 'aivoicelab.net',
+      domain: domain,
       modelcat: 'soundeffect',
       modelname: 'soundeffect',
       uid: uid.value
@@ -540,14 +541,14 @@ async function downloadSound() {
         email: userEmail.value,
         uid: uid.value,
         action: ActionType.SOUND_DOWNLOAD,
-        domain: 'aivoicelab.net',
+        domain: domain,
       })
       if (dayCount >= 1 || monthCount >= 3) {
         showPayModal.value = true
         trackAction({
           email: userEmail.value,
           action: ActionType.SOUND_DOWNPOP_SUBSCRIPT,
-          domain: 'aivoicelab.net',
+          domain: domain,
           modelcat: 'soundeffect',
           modelname: 'soundeffect',
           uid: uid.value
@@ -574,7 +575,7 @@ async function downloadSound() {
     await trackAction({
       email: userEmail.value,
       action: ActionType.SOUND_DOWNLOAD,
-      domain: 'aivoicelab.net',
+      domain: domain,
       modelcat: 'soundeffect',
       modelname: 'soundeffect',
       uid: uid.value

@@ -5,9 +5,11 @@
             "description": "Easily generate any sound effects from text descriptions with our free AI sound effect generator - the best AI Sound Generator for everyone.",
             "keywords": "AI sound effect generator, AI Sound Generator, text to sound effect"
         },
-        "title": "Best AI Sound Effect Generator",
-        "subtitle": "Transform your text descriptions into high-quality sound effects with our AI text to sound effect technology",
-        "generator_title": "Select from popular prompts below or write your own description to generate sound effects",
+        "hero": {
+            "title": "Best AI Sound Effect Generator",
+            "subtitle": "Transform your text descriptions into high-quality sound effects with our AI text to sound effect technology"
+        },
+        "generator_subtitle": "Select from popular prompts below or write your own description to generate sound effects",
         "advantages": {
             "title": "Why Choose Our AI Sound Effect Generator?",
             "items": [

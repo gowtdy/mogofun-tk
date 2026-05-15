@@ -2,9 +2,6 @@
   <div class="flex flex-col md:flex-row gap-8">
     <!-- 左侧声音列表容器 -->
     <div class="md:w-[40%] space-y-4 flex flex-col">
-      <div class="text-xl font-semibold bg-clip-text text-transparent bg-gradient-to-r from-[#F1AC63] to-[#D76FF4]">
-        {{ $t('ai_cover.converter.title') }}
-      </div>
 
       <!-- 模型列表容器 -->
       <div class="flex flex-col flex-1 bg-white overflow-hidden">
@@ -1113,10 +1110,10 @@ const getCharacterPresetsForModel = (modelId) => {
   
   // 兜底：如果找不到对应的预设，返回默认文案
   return [
-    { id: 'greetings', label: 'Greetings', text: " Hello, how are you today?\n Good morning, everyone!\n Welcome to my channel!" },
-    { id: 'emotions', label: 'Emotions', text: " I'm so happy to see you!\n That's really amazing!\n This is absolutely incredible!" },
-    { id: 'actions', label: 'Actions', text: " Don't forget to like and subscribe!\n Check out the link in description!\n Follow me for more content!" },
-    { id: 'stories', label: 'Stories', text: " Once upon a time...\n Let me tell you a story...\n Here's something interesting..." }
+    { id: 'greetings', label: 'TikTok Video', text: "Hey TikTok! Today I'm going to show you something amazing that will blow your mind.Follow along and don't forget to like and share..." },
+    { id: 'emotions', label: 'Game Ad', text: "Enter a world of endless possibilities! Experience epic battles, stunning graphics, and thrilling adventures in this groundbreaking new game..." },
+    { id: 'actions', label: 'AudioBook', text: "Chapter One: The morning sun cast long shadows across the quiet street, as Sarah stepped out of her house, unaware that this ordinary day would change everything..." },
+    { id: 'stories', label: 'Voicemail', text: "Hi, I'm currently unavailable to take your call. Please leave your name, number, and a brief message, and I'll get back to you as soon as possible. Thank you!" }
   ]
 }
 

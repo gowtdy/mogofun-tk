@@ -18,10 +18,10 @@
     "refundService": "Refund Policy",
     "dmcaPolicy": "DMCA Policy",
     "aboutUs": "About Us",
-    "footerDesc": "Create AI Cover and AI Voice Over with your favorite voices.",
+    "footerDesc": "Instantly generate unique voice for video, podcasts and more.",
     "contact": "Contact: ",
     "aiVoiceGenerator": "AI Voice Generator",
-    "aiCover": "AI Cover & AI Voice Over",
+    "aiCover": "TikTok Voice Generator",
     "quickLinks": "Quick Links",
     "friendsLinks": "Friends Links",
     "more": "More",
@@ -265,12 +265,11 @@
     "save": "You save $9.00. Time Limited!",
     "features": {
       "items": [
-        "10,000+ Premium Voice Models",
-        "Natural AI Voice Generation",
-        "Studio-Quality Cover Maker",
+        "300+ Voice across 10+ languages",
         "Pro Sound Effects Library",
         "Perfect Vocal Separation",
         "Smart Audio Processing",
+        "AI covers and rich media formats",
         "Unlimited Downloads"
       ]
     },

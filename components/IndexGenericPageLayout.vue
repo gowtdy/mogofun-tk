@@ -31,16 +31,10 @@
         />
       </div>
 
-      <!-- 优势介绍区域 -->
-      <AdvantagesSection
-        v-if="!isLoggedIn && advantages"
-        :title="advantagesTitle"
-        :advantages="advantages"
-      />
-
-      <!-- FAQ 区域 -->
+      <!-- FAQ 区域（与上方工具区拉开间距） -->
       <FAQSection
         v-if="!isLoggedIn && faqs"
+        class="mt-12 md:mt-16"
         :title="faqTitle"
         :faqs="faqs"
       />
@@ -52,7 +46,6 @@
 import { computed, defineAsyncComponent } from 'vue'
 import { useRoute } from 'vue-router'
 import FAQSection from '~/components/FAQSection.vue'
-import AdvantagesSection from '~/components/AdvantagesSection.vue'
 import { useWindowSize } from '@vueuse/core'
 
 const route = useRoute()
@@ -68,8 +61,6 @@ interface Props {
     subtitle: string
   }
   isLoggedIn: boolean
-  advantages?: any[]
-  advantagesTitle?: string
   faqs?: any[]
   faqTitle?: string
   voiceModels?: any[]
@@ -78,8 +69,6 @@ interface Props {
 }
 
 const props = withDefaults(defineProps<Props>(), {
-  advantages: undefined,
-  advantagesTitle: '',
   faqs: undefined,
   faqTitle: '',
   voiceModels: undefined

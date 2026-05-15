@@ -1,4 +1,5 @@
 import { ref } from 'vue'
+import { config } from '~/config/config'
 import { useErrorReporter } from './errorReporter'
 
 export function useAudioPlayer() {
@@ -24,7 +25,7 @@ export function useAudioPlayer() {
     return audioInstance
   }
 
-  const playAudio = async (audioUrl: string, audioId: string, host: string = 'https://mogofun.com') => {
+  const playAudio = async (audioUrl: string, audioId: string, host: string = config.host) => {
     const audio = getAudio()
     if (!audio) return
 
@@ -177,7 +178,7 @@ export function useAudioPlayer() {
     })
   }
 
-  const downloadAudio = async (audioUrl: string, filename?: string, host: string = 'https://mogofun.com') => {
+  const downloadAudio = async (audioUrl: string, filename?: string, host: string = config.host) => {
     if (state.isDownloading.value || typeof window === 'undefined') return
 
     // 添加参数验证

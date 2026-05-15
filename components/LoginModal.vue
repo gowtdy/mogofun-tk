@@ -10,8 +10,8 @@
       
       <!-- Logo -->
       <div class="flex items-center justify-center mb-5 sm:mb-6 pt-2">
-        <img :src="cdnHost + '/img/mogofun_logo.svg'" alt="AI Voice over" width="40" height="35" class="h-9 sm:h-10">
-        <img :src="cdnHost + '/img/mogofun_word.svg'" alt="AI Voice over" width="90" height="20" class="h-9 sm:h-10">
+        <img :src="cdnHost + logoImage" alt="AI Voice over" width="40" height="35" class="h-9 sm:h-10">
+        <img :src="cdnHost + wordImage" alt="AI Voice over" width="90" height="20" class="h-9 sm:h-10">
       </div>
       
       <!-- 标题 -->
@@ -46,6 +46,8 @@ import { useErrorReporter } from '~/composables/errorReporter'
 import { config } from '~/config/config'
 
 const cdnHost = config.cdnHost
+const logoImage = config.logoImage
+const wordImage = config.wordImage
 const { reportError } = useErrorReporter()
 
 const props = defineProps({

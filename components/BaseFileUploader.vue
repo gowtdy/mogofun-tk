@@ -30,6 +30,7 @@
 <script setup lang="ts">
 import { ref, computed } from 'vue'
 import { ArrowUpTrayIcon } from '@heroicons/vue/24/solid'
+import { config } from '~/config/config'
 import { useActionReporter, ActionType } from '~/composables/actionReporter'
 import { useUserStore } from '@/store/user'
 import { useAuth } from '~/composables/useAuth'
@@ -70,7 +71,7 @@ const {
     trackAction({
       email: userEmail.value,
       action: ActionType.UPLOAD_AUDIO,
-      domain: 'aivoicelab.net',
+      domain: config.domain,
       uid: uid.value
     })
     emit('success', response)

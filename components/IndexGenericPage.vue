@@ -2,8 +2,6 @@
   <IndexGenericPageLayout
     :page-title="pageTitle"
     :is-logged-in="isLoggedIn"
-    :advantages="advantages"
-    :advantages-title="advantagesTitle"
     :faqs="faqs"
     :faq-title="faqTitle"
     :voice-models="voiceModels"
@@ -40,12 +38,10 @@ if (!pageConfig) {
 const {
   pageTitle,
   voiceModels,
-  advantages,
   faqs,
   isLoggedIn,
   initPage,
   reportPageError,
-  advantagesTitle,
   faqTitle
 } = useIndexGenericPage({
   pageKey: props.pageSlug,

@@ -10,7 +10,7 @@ const pageConfigs: Record<string, PageConfig> = {
   "first-page": {
     pageKey: "first-page",
     defaultCategory: 'english',
-    defaultModel: 'adamm-male',
+    defaultModel: 'voice-lady-female',
     hrefPath: '/'
   }
 }

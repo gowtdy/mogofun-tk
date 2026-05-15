@@ -10,8 +10,8 @@
 
       <!-- Logo -->
       <div class="flex items-center justify-center mb-3 sm:mb-4">
-        <img :src="cdnHost + '/img/logo.svg'" alt="Free AI Cover Logo" width="40" height="35" class="h-7 sm:h-8" loading="lazy">
-        <img :src="cdnHost + '/img/title.svg'" alt="Free AI Voice Over Logo word" width="90" height="20" class="h-7 sm:h-8" loading="lazy">
+        <img :src="cdnHost + logoImage" alt="Free AI Cover Logo" width="40" height="35" class="h-7 sm:h-8" loading="lazy">
+        <img :src="cdnHost + wordImage" alt="Free AI Voice Over Logo word" width="90" height="20" class="h-7 sm:h-8" loading="lazy">
       </div>
 
       <h2 class="text-base sm:text-lg font-bold text-center mb-3 sm:mb-4 px-3 text-gray-800">{{ $t('paymodal.title') }}</h2>
@@ -23,8 +23,7 @@
              :class="{'sm:hover:bg-gray-50': !isMobile}">
           <div class="flex-shrink-0 w-5 h-5 sm:w-6 sm:h-6 bg-orange-100 rounded-lg flex items-center justify-center mr-2">
             <svg class="w-3 h-3 sm:w-3.5 sm:h-3.5 text-orange-500" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
-              <path :d="getFeatureIcon(feature.id)" :stroke="feature.id === 'check' ? undefined : 'currentColor'" 
-                    :fill="feature.id === 'check' ? 'currentColor' : 'none'" 
+              <path :d="getFeatureIcon(feature.id)" stroke="currentColor" fill="none"
                     stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
             </svg>
           </div>
@@ -38,7 +37,7 @@
       <div v-if="!quotaExhaustedComputed" class="rounded-xl p-3 sm:p-4 mb-3 sm:mb-4 text-center relative overflow-hidden bg-orange-50">
         <div class="text-base sm:text-xl font-extrabold text-orange-500 relative z-10">
           {{ $t('paymodal.lowas') }} 
-          <span class="text-red-500">$3.9</span> 
+          <span class="text-red-500">$4.9</span> 
           <span class="text-xs text-gray-500 font-medium">{{ $t('paymodal.period') }}</span>
         </div>
       </div>
@@ -105,6 +104,8 @@ import { useActionReporter, ActionType } from '~/composables/actionReporter'
 import { useErrorReporter } from '~/composables/errorReporter'
 
 const cdnHost = config.cdnHost
+const logoImage = config.logoImage
+const wordImage = config.wordImage
 const { t, tm, rt } = useI18n()
 const event = useRequestEvent()
 const lang = useState('lang', () => event?.context?.lang || 'en')
@@ -162,7 +163,7 @@ const handleUpgradeClick = () => {
     trackAction({
       email: currentEmail.value,
       action: ActionType.PAYMODAL_UPGRADE,
-      domain: 'aivoicelab.net',
+      domain: config.domain,
       modelcat: "paymodal",
       modelname: "paymodal",
       uid: currentUid.value
@@ -186,22 +187,30 @@ const handleUpgradeClick = () => {
   }
 }
 
-// 定义图标路径
+// 定义图标路径（viewBox 0 0 24 24，描边图标）
 const FEATURE_ICONS = {
-  character: "M19 11H5M19 11C20.1046 11 21 11.8954 21 13V19C21 20.1046 20.1046 21 19 21H5C3.89543 21 3 20.1046 3 19V13C3 11.8954 3.89543 11 5 11M19 11V9C19 7.89543 18.1046 7 17 7M5 11V9C5 7.89543 5.89543 7 7 7M7 7V5C7 3.89543 7.89543 3 9 3H15C16.1046 3 17 3.89543 17 5V7M7 7H17",
-  download: "M4 16V17C4 19.2091 5.79086 21 8 21H16C18.2091 21 20 19.2091 20 17V16M16 12L12 16M12 16L8 12M12 16V4",
-  check: "M19.7071 4.29289C20.0976 4.68342 20.0976 5.31658 19.7071 5.70711L9.70711 15.7071C9.31658 16.0976 8.68342 16.0976 8.29289 15.7071L4.29289 11.7071C3.90237 11.3166 3.90237 10.6834 4.29289 10.2929C4.68342 9.90237 5.31658 9.90237 5.70711 10.2929L9 13.5858L18.2929 4.29289C18.6834 3.90237 19.3166 3.90237 19.7071 4.29289Z"
+  // 文档 + 文本行：TTS
+  tts: "M7 3h8l4 4v14a2 2 0 01-2 2H7a2 2 0 01-2-2V5a2 2 0 012-2zM9 9h6M9 13h6M9 17h4",
+  // 扬声器 + 声波
+  sound: "M15.536 8.464a5 5 0 010 7.072m2.828-9.9a9 9 0 010 12.728M5.586 15H4a1 1 0 01-1-1v-4a1 1 0 011-1h1.586l4.707-4.707C10.923 3.663 12 4.109 12 5v14c0 .891-1.077 1.337-1.707.707L5.586 15z",
+  // 麦克风：人声 / vocal
+  vocal: "M19 11a7 7 0 01-7 7m0 0a7 7 0 01-7-7m7 7v4m0 0H8m4 0h4m-4-8a3 3 0 01-3-3V5a3 3 0 116 0v6a3 3 0 01-3 3z",
+  // 音符：乐器（Heroicons 风格单路径）
+  instrument: "M9 9h10.5a2.25 2.25 0 0 0 0-4.5H9V18a3 3 0 0 0 3 3h3a3 3 0 0 0 3-3v-1.5A2.25 2.25 0 0 0 15.75 12H9V9Z",
+  download: "M4 16V17C4 19.2091 5.79086 21 8 21H16C18.2091 21 20 19.2091 20 17V16M16 12L12 16M12 16L8 12M12 16V4"
 }
 
 const getFeatureIcon = (featureId) => {
-  return FEATURE_ICONS[featureId] || FEATURE_ICONS.check
+  return FEATURE_ICONS[featureId] || FEATURE_ICONS.tts
 }
 
-// 定义特性类型映射
+// 列表项索引 → 图标类型（与 paymodal.features.items 顺序对应）
 const FEATURE_TYPES = {
-  0: 'character',  // 第一个特性使用 character 图标
-  1: 'download',   // 第二个特性使用 download 图标
-  2: 'check'       // 第三个特性使用 check 图标
+  0: 'tts',
+  1: 'sound',
+  2: 'vocal',
+  3: 'instrument',
+  4: 'download'
 }
 
 // 修改 features 的计算属性
@@ -209,7 +218,7 @@ const features = computed(() => {
   const featureItems = tm('paymodal.features').items
   return featureItems.map((text, index) => {
     return {
-      id: FEATURE_TYPES[index] || 'check',  // 如果索引不存在则默认使用 check
+      id: FEATURE_TYPES[index] ?? 'tts',
       text
     }
   })
@@ -219,7 +228,6 @@ const features = computed(() => {
 const getQuotaExhaustedMessage = () => {
   const quotaMessages = {
     'tts': t('paymodal.quotaExhausted.tts'),
-    'cover': t('paymodal.quotaExhausted.cover'),
     'sound': t('paymodal.quotaExhausted.sound'),
     'vocalisolate': t('paymodal.quotaExhausted.vocalisolate'),
     'vocalremover': t('paymodal.quotaExhausted.vocalremover'),

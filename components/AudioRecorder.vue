@@ -245,7 +245,7 @@ const startRecording = async () => {
     trackAction({
       email: userEmail.value,
       action: props.actionType.record,
-      domain: 'aivoicelab.net',
+      domain: config.domain,
       modelcat: props.modelCategory,
       modelname: props.modelName,
       uid: uid.value

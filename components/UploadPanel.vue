@@ -130,6 +130,7 @@ const { getOrCreateUid, getUserInfo } = useAuth()
 const { generateCoverSignature } = useSignature()
 
 const host = config.host
+const domain = config.domain
 const userStore = useUserStore()
 
 const isLoggedIn = computed(() => !!userStore.user)
@@ -285,7 +286,7 @@ const processAudio = async () => {
       email: userEmail.value,
       uid: uid.value,
       action: props.actionType.extract,
-      domain: 'aivoicelab.net'
+      domain: domain
     })
 
     // Determine whether to continue based on user status and action counts
@@ -296,7 +297,7 @@ const processAudio = async () => {
         trackAction({
           email: userEmail.value,
           action: props.actionType.login,
-          domain: 'aivoicelab.net',
+          domain: domain,
           uid: uid.value
         })
         return
@@ -344,7 +345,7 @@ const processAudio = async () => {
           trackAction({
             email: userEmail.value,
             action: props.actionType.subscript,
-            domain: 'aivoicelab.net',
+            domain: domain,
             uid: uid.value
           })
           isProcessing.value = false
@@ -358,7 +359,7 @@ const processAudio = async () => {
     formData.append('uid', uid.value)
     formData.append('email', userEmail.value)
     formData.append('subscript', userSubscript.value)
-    formData.append('domain', 'aivoicelab.net')
+    formData.append('domain', domain)
     const tstamp = Math.floor(Date.now() / 1000)
     const snature = generateCoverSignature(upresurl.value, tstamp)
     formData.append('tstamp', tstamp)
@@ -393,7 +394,7 @@ const processAudio = async () => {
       await trackAction({
         email: userEmail.value,
         action: props.actionType.extract,
-        domain: 'aivoicelab.net',
+        domain: domain,
         uid: uid.value
       })
       toast.success(t('vocal_isolator.messages.separation_success'), { position: 'top-right', duration: 2000 })
@@ -403,7 +404,7 @@ const processAudio = async () => {
       trackAction({
         email: userEmail.value,
         action: props.actionType.subscript,
-        domain: 'aivoicelab.net',
+        domain: domain,
         modelcat: 'vocal-isolator',
         modelname: 'vocal-isolator',
         uid: uid.value
@@ -428,7 +429,7 @@ const downloadAudio = async () => {
     trackAction({
       email: userEmail.value,
       action: props.actionType.downloadLogin,
-      domain: 'aivoicelab.net',
+      domain: domain,
       modelcat: 'soundeffect',
       modelname: 'soundeffect',
       uid: uid.value
@@ -441,7 +442,7 @@ const downloadAudio = async () => {
       email: userEmail.value,
       uid: uid.value,
       action: props.actionType.download,
-      domain: 'aivoicelab.net'
+      domain: domain
     })
     // Check subscription status first
     if (userSubscript.value !== 1) {
@@ -451,7 +452,7 @@ const downloadAudio = async () => {
         trackAction({
           email: userEmail.value,
           action: props.actionType.downloadSubscript,
-          domain: 'aivoicelab.net',
+          domain: domain,
           uid: uid.value
         })
         return
@@ -472,7 +473,7 @@ const downloadAudio = async () => {
     await trackAction({
       email: userEmail.value,
       action: props.actionType.download,
-      domain: 'aivoicelab.net',
+      domain: domain,
       modelcat: 'vocal-extract',
       modelname: 'vocal-extract',
       uid: uid.value

@@ -15,6 +15,8 @@ import Uploader from 'simple-uploader.js'
 export interface ChunkedUploadOptions {
   maxSize?: number // 最大文件大小（字节）
   mediaType?: 'audio' | 'video' // 媒体类型
+  /** i18n root for upload messages, e.g. vocal-isolator */
+  messageNamespace?: string
   onProgress?: (progress: number) => void // 进度回调
   onSuccess?: (response: any) => void // 成功回调
   onError?: (error: string) => void // 错误回调
@@ -85,6 +87,7 @@ export function useChunkedUpload(options: ChunkedUploadOptions = {}): ChunkedUpl
   const {
     maxSize = 20 * 1024 * 1024,
     mediaType = 'audio',
+    messageNamespace = 'vocal-isolator',
     onProgress,
     onSuccess,
     onError,
@@ -97,6 +100,7 @@ export function useChunkedUpload(options: ChunkedUploadOptions = {}): ChunkedUpl
   const isLoggedIn = computed(() => !!userStore.user)
   const uid = ref(getOrCreateUid())
   const { t } = useI18n()
+  const msg = (suffix: string) => t(`${messageNamespace}.${suffix}`)
   const { reportError } = useErrorReporter()
 
   const isUploading = ref(false)
@@ -516,7 +520,7 @@ export function useChunkedUpload(options: ChunkedUploadOptions = {}): ChunkedUpl
       }
       
       isUploading.value = true
-      uploadStatus.value = t('vocal_isolator.messages.uploading') || 'Uploading...'
+      uploadStatus.value = msg('messages.uploading') || 'Uploading...'
       uploadProgress.value = 0
       onStatusChange?.(uploadStatus.value)
       
@@ -549,12 +553,12 @@ export function useChunkedUpload(options: ChunkedUploadOptions = {}): ChunkedUpl
         } else if (data.ret === 0) {
           // 分片上传成功，但还没有合并
         } else {
-          const errorMsg = data.msg || t('vocal_isolator.messages.upload_failed') || 'Upload failed'
+          const errorMsg = data.msg || msg('messages.upload_failed') || 'Upload failed'
           onError?.(errorMsg)
           reset()
         }
       } catch (err) {
-        const errorMsg = t('vocal_isolator.messages.parse_failed') || 'Parse failed'
+        const errorMsg = msg('messages.parse_failed') || 'Parse failed'
         onError?.(errorMsg)
         reset()
       }
@@ -564,10 +568,10 @@ export function useChunkedUpload(options: ChunkedUploadOptions = {}): ChunkedUpl
     uploader.value.on('fileError', (rootFile: any, file: any, message: string | any, chunk: any) => {
       try {
         const data = typeof message === 'string' ? JSON.parse(message) : message
-        const errorMsg = data.msg || t('vocal_isolator.messages.upload_failed') || 'Upload failed'
+        const errorMsg = data.msg || msg('messages.upload_failed') || 'Upload failed'
         onError?.(errorMsg)
       } catch {
-        const errorMsg = typeof message === 'string' ? message : (message?.msg || t('vocal_isolator.messages.upload_failed') || 'Upload failed')
+        const errorMsg = typeof message === 'string' ? message : (message?.msg || msg('messages.upload_failed') || 'Upload failed')
         onError?.(errorMsg)
       }
       reset()
@@ -593,7 +597,7 @@ export function useChunkedUpload(options: ChunkedUploadOptions = {}): ChunkedUpl
     uploader.value.on('uploadStart', () => {
       if (!isUploading.value) {
         isUploading.value = true
-        uploadStatus.value = t('vocal_isolator.messages.uploading') || 'Uploading...'
+        uploadStatus.value = msg('messages.uploading') || 'Uploading...'
         onStatusChange?.(uploadStatus.value)
       }
     })
@@ -632,7 +636,7 @@ export function useChunkedUpload(options: ChunkedUploadOptions = {}): ChunkedUpl
     
     // 文件大小检查
     if (f.size > maxSize) {
-      const errorMsg = t('vocal_isolator.messages.file_too_large') || 'File too large'
+      const errorMsg = msg('messages.file_too_large') || 'File too large'
       onError?.(errorMsg)
       reset()
       return
@@ -647,7 +651,7 @@ export function useChunkedUpload(options: ChunkedUploadOptions = {}): ChunkedUpl
       allowedTypes: allowedTypes.value
     })
     if (!isFileTypeAllowed(f.type, allowedTypes.value)) {
-      const errorMsg = t('vocal_isolator.messages.file_type_not_supported') || 'File type not supported'
+      const errorMsg = msg('messages.file_type_not_supported') || 'File type not supported'
       onError?.(errorMsg)
       reset()
       return
@@ -675,7 +679,7 @@ export function useChunkedUpload(options: ChunkedUploadOptions = {}): ChunkedUpl
       await nextTick()
       if (uploader.value && !isUploading.value) {
         isUploading.value = true
-        uploadStatus.value = t('vocal_isolator.messages.uploading') || 'Uploading...'
+        uploadStatus.value = msg('messages.uploading') || 'Uploading...'
         uploadProgress.value = 0
         onStatusChange?.(uploadStatus.value)
         uploader.value.upload()
@@ -683,7 +687,7 @@ export function useChunkedUpload(options: ChunkedUploadOptions = {}): ChunkedUpl
       
     } catch (err) {
       isUploading.value = false
-      const errorMsg = err instanceof Error ? err.message : (t('vocal_isolator.messages.upload_failed') || 'Upload failed')
+      const errorMsg = err instanceof Error ? err.message : (msg('messages.upload_failed') || 'Upload failed')
       onError?.(errorMsg)
       reset()
     }

@@ -45,7 +45,7 @@
               @mouseleave="handleAudioMenuLeave"
             >
               <NuxtLink 
-                :to="localizedPath('/sound-effects')" 
+                :to="localizedPath('/sound-effect')" 
                 class="block px-4 py-2 hover:bg-gray-100 text-gray-700"
                 title="AI Sound Effect Generator"
                 @click="showAudioMenu = false"
@@ -155,7 +155,7 @@
             <div class="space-y-2">
               <div class="font-medium text-gray-700">{{ $t('comm.audio') }}</div>
               <NuxtLink 
-                :to="localizedPath('/sound-effects')" 
+                :to="localizedPath('/sound-effect')" 
                 title="Sound Effects" 
                 class="block pl-4 text-gray-700 hover:text-primary transition duration-300"
                 @click="isMenuOpen = false"

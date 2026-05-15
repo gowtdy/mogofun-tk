@@ -40,7 +40,8 @@ const props = defineProps({
   maxSize: { type: Number, default: 20 * 1024 * 1024 }, // 默认 1GB，支持大文件
   accept: { type: String, default: 'audio/*' },
   action: { type: String, required: true },
-  mediaType: { type: String, default: 'audio' } // 'audio' or 'video'
+  mediaType: { type: String, default: 'audio' }, // 'audio' or 'video'
+  messageNamespace: { type: String, default: 'vocal-isolator' }
 })
 
 const emit = defineEmits(['uploading', 'progress', 'success', 'error', 'reset', 'file-change'])
@@ -64,6 +65,7 @@ const {
 } = useChunkedUpload({
   maxSize: props.maxSize,
   mediaType: props.mediaType as 'audio' | 'video',
+  messageNamespace: props.messageNamespace,
   onProgress: (progress) => {
     emit('progress', progress)
   },

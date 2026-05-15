@@ -14,7 +14,7 @@ export const translationFilesConfig: TranslationFileConfig[] = [
   { file: 'index.json', group: 'tools' },
   { file: 'first-page.json', group: 'tools' },
   { file: 'about.json', group: 'tools' },
-  { file: 'sound-effects.json', group: 'tools' },
+  { file: 'sound-effect.json', group: 'tools' },
   { file: 'vocal-isolator.json', group: 'tools' },
   { file: 'audio-extractor.json', group: 'tools' },
   { file: 'vocal-remover.json', group: 'tools' },
@@ -120,7 +120,7 @@ function normalizeRoutePath(routePath: string): string {
  * 基础语言文件：对所有请求都必须加载
  * 这些文件在服务器端和客户端都需要显式加载
  */
-export const BASE_TRANSLATION_FILES: string[] = ['index.json', 'first-page.json', 'about.json', 'sound-effects.json', 'vocal-isolator.json', 'audio-extractor.json', 'vocal-remover.json'];
+export const BASE_TRANSLATION_FILES: string[] = ['index.json', 'first-page.json', 'about.json', 'sound-effect.json', 'vocal-isolator.json', 'audio-extractor.json', 'vocal-remover.json'];
 
 /**
  * 根据路由路径确定需要加载的具体翻译文件列表（不包含基础文件）

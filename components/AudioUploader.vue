@@ -137,7 +137,7 @@ const onUploadSuccess = (response: any) => {
     trackAction({
       email: userEmail.value,
       action: props.actionType.upload,
-      domain: 'aivoicelab.net',
+      domain: config.domain,
       modelcat: props.modelCategory,
       modelname: safeModelName.value,
       uid: uid.value

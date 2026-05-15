@@ -4,12 +4,17 @@ import { computed } from 'vue'
 import { useI18n } from 'vue-i18n'
 import { useRoute } from 'vue-router'
 import { useErrorReporter } from './errorReporter'
+import { config } from '~/config/config'
+
+
 
 export function useCharacterSeoMeta(characterSlug: string, currentLocale: string, dir='') {
   const { t } = useI18n()
   const route = useRoute()
-  const host = 'https://mogofun.com'
-  const cdnHost = 'https://cdn.mogofun.com'
+  const host = config.host
+  const cdnHost = config.cdnHost
+  const ogImage = config.ogImage
+  const twitterImage = config.twitterImage
   const { reportError } = useErrorReporter()
 
   // 错误检查
@@ -40,12 +45,12 @@ export function useCharacterSeoMeta(characterSlug: string, currentLocale: string
       { property: 'og:title', content: t(`meta.${characterSlug}.og.title`) },
       { property: 'og:description', content: t(`meta.${characterSlug}.og.description`) },
       { property: 'og:url', content: `${host}` },
-      { property: 'og:image', content: `${cdnHost}/img/aivoicelab-fbtw.webp` },
+      { property: 'og:image', content: `${cdnHost}${ogImage}` },
       { name: 'twitter:card', content: 'summary_large_image' },
       { name: 'twitter:title', content: t(`meta.${characterSlug}.twitter.title`) },
       { name: 'twitter:description', content: t(`meta.${characterSlug}.twitter.description`) },
       { name: 'twitter:site', content: `${host}` },
-      { name: 'twitter:image', content: `${cdnHost}/img/aivoicelab-fbtw.webp` }
+      { name: 'twitter:image', content: `${cdnHost}${twitterImage}` }
     ],
     link: [
       { rel: 'canonical', href: buildUrl(currentLocale) },

@@ -117,174 +117,6 @@
 
         <!-- Tab 内容区域 -->
         <div class="bg-white p-6 border border-gray-200 rounded-b-xl flex-1">
-          <!-- AI Song Cover Tab -->
-          <div v-show="currentTab === 'cover'" class="h-full flex flex-col gap-4">
-            <!-- 子标签页导航 -->
-            <div class="border-b border-gray-200">
-              <div class="flex">
-                <button v-for="subTab in coverSubTabs" :key="subTab.id" @click="handleSubTabChange(subTab.id)"
-                  class="relative flex items-center justify-center px-4 py-3.5 pb-3 text-sm tab-button-optimized transition-optimized"
-                  :class="[
-                    currentSubTab === subTab.id
-                      ? 'text-transparent bg-clip-text bg-gradient-to-r from-[#E38B72] to-[#C44F98] font-semibold text-base'
-                      : 'text-gray-600 hover:text-gray-900 font-medium'
-                  ]">
-                  <component :is="subTab.icon" class="w-4 h-4 mr-1.5 inp-optimized" :class="[
-                    currentSubTab === subTab.id
-                      ? 'text-[#C44F98]'
-                      : 'text-gray-600'
-                  ]" aria-hidden="true" />
-                  {{ $t(`ai_cover.converter.tabs.${subTab.id}`) }}
-                  <!-- 底部划线 -->
-                  <div class="absolute bottom-[-1px] left-0 right-0 transition-all inp-optimized" :class="[
-                    currentSubTab === subTab.id
-                      ? 'h-[4px] bg-gradient-to-r from-[#E38B72] to-[#C44F98]'
-                      : 'h-0 bg-transparent'
-                  ]"></div>
-                </button>
-              </div>
-            </div>
-
-            <!-- 子标签页内容 -->
-            <div class="flex-1">
-              <!-- Sample Audio Tab -->
-              <div v-show="currentSubTab === 'sample'" class="h-full">
-                <div class="h-full">
-                  <div class="overflow-y-auto h-full">
-                    <div v-for="sample in sampleAudios" :key="sample.id" @click="selectSampleAudio(sample)"
-                      class="flex items-center p-3 transition-all duration-200 cursor-pointer border-t border-b border-transparent"
-                      :class="[
-                        selectedSample?.id === sample.id
-                          ? 'bg-pink-50/60 !border-t-pink-200 !border-b-pink-200'
-                          : 'bg-white hover:bg-gray-50'
-                      ]">
-                      <!-- 单选圆圈 -->
-                      <div
-                        class="w-4 h-4 rounded-full border-2 flex items-center justify-center transition-colors duration-200 mr-3"
-                        :class="[
-                          selectedSample?.id === sample.id
-                            ? 'border-pink-500'
-                            : 'border-gray-300'
-                        ]">
-                        <div v-if="selectedSample?.id === sample.id" class="w-2 h-2 rounded-full bg-pink-500"></div>
-                      </div>
-
-                      <!-- 文本内容 -->
-                      <div class="flex-1 min-w-0 mr-4">
-                        <div class="text-sm font-medium text-gray-900 truncate">{{ sample.name }}</div>
-                        <p class="text-xs text-gray-500">{{ sample.duration }}</p>
-                      </div>
-
-                      <!-- 播放按钮 -->
-                      <button @click.stop="(e) => playSampleAudio(sample, e)"
-                        :disabled="audioPlayer.isLoading.value && audioPlayer.audioId.value === `sample-${sample.id}`"
-                        class="w-8 h-8 rounded-full flex items-center justify-center transition-all duration-200"
-                        :class="[
-                          audioPlayer.isLoading.value && audioPlayer.audioId.value === `sample-${sample.id}`
-                            ? 'bg-black'
-                            : isPlayingSample(sample.id)
-                              ? 'bg-gradient-to-r from-[#E38B72] to-[#C44F98] text-white'
-                              : 'bg-black text-white hover:bg-gray-800'
-                        ]"
-                        :title="isPlayingSample(sample.id) ? $t('ai_cover.converter.buttons.stop') : $t('ai_cover.converter.buttons.preview')">
-                        <template
-                          v-if="audioPlayer.isLoading.value && audioPlayer.audioId.value === `sample-${sample.id}`">
-                          <svg class="animate-spin w-4 h-4 mx-auto text-white" xmlns="http://www.w3.org/2000/svg"
-                            fill="none" viewBox="0 0 24 24" aria-hidden="true">
-                            <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="3">
-                            </circle>
-                            <path class="opacity-75" fill="currentColor"
-                              d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z">
-                            </path>
-                          </svg>
-                        </template>
-                        <component v-else :is="isPlayingSample(sample.id) ? PauseIcon : PlayIcon" class="w-4 h-4" />
-                      </button>
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <!-- Upload Audio Tab -->
-              <div v-show="currentSubTab === 'upload'" class="h-full">
-                <div class="h-full p-4">
-                  <AudioUploader
-                    :uploaded-file="uploadedFile"
-                    :model-category="selectedCategory"
-                    :model-name="selectedModel"
-                    type="audio"
-                    :action-type="{ upload: ActionType.UPLOAD_AUDIO }"
-                    @upload-success="handleUploadSuccess"
-                    @upload-error="handleUploadError"
-                    @reset="handleUploadReset"
-                    @file-change="handleFileChange"
-                    @uploading="handleUploading"
-                    ref="audioUploaderRef"
-                  />
-                </div>
-              </div>
-
-              <!-- Record Audio Tab -->
-              <div v-show="currentSubTab === 'record'" class="h-full">
-                <div class="h-full p-4">
-                  <!-- 已录制的音频显示 -->
-                  <div v-if="uploadedFile && currentTab === 'cover'" class="h-full flex flex-col">
-                    <audio :src="uploadedFileUrl" class="w-full mb-3" controls></audio>
-                    <div class="flex items-center justify-between mt-auto">
-                      <div class="text-xs text-gray-500">
-                        {{ $t('ai_cover.converter.record.preview') }}
-                      </div>
-                      <button @click="resetUpload"
-                        class="flex items-center text-red-500 hover:text-red-600 transition-colors text-sm">
-                        <ArrowPathIcon class="w-4 h-4 mr-1" aria-hidden="true" />
-                        {{ $t('ai_cover.converter.record.rerecord') }}
-                      </button>
-                    </div>
-                  </div>
-
-                  <!-- 录音按钮和状态显示 -->
-                  <div v-else class="h-full flex flex-col items-center justify-center text-center">
-                    <!-- 录音进度显示 -->
-                    <div v-if="isUploading" class="w-full mb-4">
-                      <div class="bg-white rounded-xl border border-gray-200 p-4">
-                        <div class="mb-2 flex justify-between items-center">
-                          <span class="text-sm text-gray-600">{{ $t('ai_cover.converter.upload.uploading') }}</span>
-                        </div>
-                        <div class="w-full h-2 bg-gray-100 rounded-full overflow-hidden">
-                          <div class="h-full bg-red-500 transition-all duration-300 animate-pulse"></div>
-                        </div>
-                      </div>
-                    </div>
-
-                    <!-- 录音按钮 -->
-                    <div v-else>
-                      <div @click="toggleRecording" class="w-20 h-20 mx-auto mb-4 cursor-pointer group">
-                        <div
-                          class="w-full h-full rounded-full flex items-center justify-center transition-all duration-200"
-                          :class="[
-                            isRecording
-                              ? 'bg-red-500 animate-pulse'
-                              : 'bg-gradient-to-r from-orange-400/90 to-pink-400/90 group-hover:opacity-90'
-                          ]">
-                          <MicrophoneIcon
-                            class="w-8 h-8 text-white transition-transform duration-200 group-hover:scale-110 group-active:scale-95"
-                            aria-hidden="true" />
-                        </div>
-                      </div>
-                      <div class="text-base font-medium mb-2">
-                        {{ $t('ai_cover.converter.tabs.record') }}
-                      </div>
-                      <p class="text-sm text-gray-500">
-                        {{ isRecording ? $t('ai_cover.converter.record.recording') :
-                          $t('ai_cover.converter.record.start')
-                        }}
-                      </p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
 
           <!-- Text to Speech Tab -->
           <div v-show="currentTab === 'tts'" class="h-full flex flex-col gap-6">
@@ -313,86 +145,6 @@
                 ttsText.length >= MAX_TEXT_LENGTH ? 'text-red-600' : 'text-gray-600'
               ]">
                 {{ ttsText.length }}/{{ MAX_TEXT_LENGTH }}
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <!-- 性别选择器 -->
-        <div v-if="currentTab === 'cover'" class="mt-4 mb-6">
-          <div class="flex flex-col">
-            <label class="text-sm font-medium text-gray-700 mb-2">{{ $t('ai_cover.converter.gender.title') }}</label>
-            <div class="flex space-x-4">
-              <!-- Female 选项 -->
-              <div @click="selectedGender = 'female'"
-                class="flex-1 flex items-center p-3 border rounded-lg cursor-pointer transition-all duration-200"
-                :class="[
-                  selectedGender === 'female'
-                    ? 'border-pink-300 bg-pink-50/60 shadow-sm'
-                    : 'border-gray-200 hover:border-gray-300'
-                ]">
-                <div class="mr-3">
-                  <div
-                    class="w-5 h-5 rounded-full border-2 flex items-center justify-center transition-colors duration-200"
-                    :class="[
-                      selectedGender === 'female'
-                        ? 'border-pink-500'
-                        : 'border-gray-300'
-                    ]">
-                    <div v-if="selectedGender === 'female'" class="w-3 h-3 rounded-full bg-pink-500"></div>
-                  </div>
-                </div>
-                <div class="flex items-center">
-                  <span class="text-sm font-medium">{{ $t('ai_cover.converter.gender.female') }}</span>
-                </div>
-              </div>
-
-              <!-- Male 选项 -->
-              <div @click="selectedGender = 'male'"
-                class="flex-1 flex items-center p-3 border rounded-lg cursor-pointer transition-all duration-200"
-                :class="[
-                  selectedGender === 'male'
-                    ? 'border-blue-300 bg-blue-50/60 shadow-sm'
-                    : 'border-gray-200 hover:border-gray-300'
-                ]">
-                <div class="mr-3">
-                  <div
-                    class="w-5 h-5 rounded-full border-2 flex items-center justify-center transition-colors duration-200"
-                    :class="[
-                      selectedGender === 'male'
-                        ? 'border-blue-500'
-                        : 'border-gray-300'
-                    ]">
-                    <div v-if="selectedGender === 'male'" class="w-3 h-3 rounded-full bg-blue-500"></div>
-                  </div>
-                </div>
-                <div class="flex items-center">
-                  <span class="text-sm font-medium">{{ $t('ai_cover.converter.gender.male') }}</span>
-                </div>
-              </div>
-
-              <!-- Duet 选项 -->
-              <div @click="selectedGender = 'duet'"
-                class="flex-1 flex items-center p-3 border rounded-lg cursor-pointer transition-all duration-200"
-                :class="[
-                  selectedGender === 'duet'
-                    ? 'border-purple-300 bg-purple-50/60 shadow-sm'
-                    : 'border-gray-200 hover:border-gray-300'
-                ]">
-                <div class="mr-3">
-                  <div
-                    class="w-5 h-5 rounded-full border-2 flex items-center justify-center transition-colors duration-200"
-                    :class="[
-                      selectedGender === 'duet'
-                        ? 'border-purple-500'
-                        : 'border-gray-300'
-                    ]">
-                    <div v-if="selectedGender === 'duet'" class="w-3 h-3 rounded-full bg-purple-500"></div>
-                  </div>
-                </div>
-                <div class="flex items-center">
-                  <span class="text-sm font-medium">{{ $t('ai_cover.converter.gender.duet') }}</span>
-                </div>
               </div>
             </div>
           </div>
@@ -1245,149 +997,6 @@ const handleSubTabChange = (subTabid) => {
   }
 }
 
-const handleCover = async () => {
-  let ret = 0
-  let msg = t('ai_cover.converter.generate.success')
-
-  const selectedModelData = currentCatModels.value.find(m => m.modelid === selectedModel.value)
-  if (!selectedModelData || !selectedModelData.cover_modelname) {
-    ret = 1
-    msg = t('ai_cover.converter.model.selectError')
-    return [ret, msg]
-  }
-  if (!selectedGender.value || !['female', 'male', 'duet'].includes(selectedGender.value)) {
-    ret = 1
-    msg = t('ai_cover.converter.gender.selectError')
-    return [ret, msg]
-  }
-
-  const formData = new FormData()
-  let tmpConvertUrl = ''
-  // 根据不同类型设置 converturl
-  switch (currentSubTab.value) {
-    case 'sample':
-      if (!selectedSample.value) {
-        ret = 1
-        msg = t('ai_cover.converter.errors.selectSample')
-        return [ret, msg]
-      }
-      tmpConvertUrl = selectedSample.value.uploadedurl
-      formData.append('converturl', selectedSample.value.uploadedurl)
-      break
-
-    case 'upload':
-      if (!upresurl.value) {
-        ret = 1
-        msg = t('ai_cover.converter.errors.uploadFile')
-        return [ret, msg]
-      }
-      tmpConvertUrl = upresurl.value
-      formData.append('converturl', upresurl.value)
-      break
-
-    case 'record':
-      if (!upresurl.value) {
-        ret = 1
-        msg = t('ai_cover.converter.errors.recordAudio')
-        return [ret, msg]
-      }
-      tmpConvertUrl = upresurl.value
-      formData.append('converturl', upresurl.value)
-      break
-
-    default:
-      ret = 1
-      msg = t('ai_cover.converter.errors.invalidSubTab')
-      return [ret, msg]
-  }
-
-  // 生成 UTC 时间戳（精确到秒）
-  const tstamp = Math.floor(Date.now() / 1000)
-  const { generateCoverSignature } = useSignature()
-  const snature = generateCoverSignature(tmpConvertUrl, tstamp)
-
-  formData.append('modelname', selectedModelData.cover_modelname)
-  formData.append('modelcat', selectedModelData.cover_catid)
-  formData.append('modelgender', selectedModelData.gender)
-  formData.append('tabtype', currentSubTab.value)
-  formData.append('lang', selectedLanguage.value)
-  formData.append('email', userEmail.value)
-  formData.append('uid', uid.value)
-  formData.append('subscript', userSubscript.value)
-  formData.append('upgender', selectedGender.value) // 添加性别参数
-  formData.append('tstamp', tstamp)
-  formData.append('snature', snature)
-  formData.append('domain', 'aivoicelab.net')
-
-  const controller = new AbortController();
-  const timeoutId = setTimeout(() => controller.abort(), 180000)   // 3分钟超时
-  try {
-    // 发送转换请求
-    const response = await fetch(`${apiHost}/coverapi/cover`, {
-      method: 'POST',
-      body: formData,
-      signal: controller.signal
-    })
-    clearTimeout(timeoutId);
-
-    if (!response.ok) {
-      ret = 1
-      msg = t('ai_cover.converter.errors.serverBusy')
-      reportError(new Error(`HTTP error! status: ${response.status}`), `Cover Convert failed - pageUrl: ${pageUrl.value}`, uid.value, userEmail.value)
-      return [ret, msg]
-    }
-
-    const result = await response.json()
-
-    if (result.ret === 0) {
-      let action = ActionType.COVER_SONG_GENERATE
-      if (currentSubTab.value === 'sample') {
-        // sample的cover不计入cover次数
-        action = ActionType.COVER_SAMPLE_GENERATE
-      }
-      convertedAudio.value = result.uri
-      audioList.value.length = 0
-      audioList.value.push(host + result.uri)
-      
-      // 更新用户使用次数（仅在登录状态下，且不是sample模式）
-      if (currentSubTab.value !== 'sample' && isLoggedIn.value && userEmail.value) {
-        try {
-          updateUsageCount(userEmail.value, ActionType.COVER_SONG_GENERATE)
-        } catch (err) {
-          reportError(err, `Error updating cover usage count - pageUrl: ${pageUrl.value}`, uid.value, userEmail.value)
-        }
-      }
-      
-      // 记录行为
-      trackAction({
-        email: userEmail.value,
-        action: action,
-        domain: 'aivoicelab.net',
-        modelcat: selectedCategory.value,
-        modelname: selectedModel.value,
-        uid: uid.value
-      })
-    } else {
-      ret = result.ret
-      msg = result.msg
-      reportError(new Error(result.msg), `Cover song Convert failed - pageUrl: ${pageUrl.value}`, uid.value, userEmail.value)
-    }
-  } catch (err) {
-    ret = 1
-    msg = t('ai_cover.converter.errors.serverBusy')
-    reportError(
-      err,
-      `Cover Convert request failed - pageUrl: ${pageUrl.value}`,
-      uid.value,
-      userEmail.value
-    )
-    return [ret, msg]
-  } finally {
-    clearTimeout(timeoutId)  // 确保超时计时器被清除
-  }
-  return [ret, msg]
-}
-
 // 定义响应式文本长度限制
 const MAX_TEXT_LENGTH = ref(500)
 
@@ -1520,20 +1129,19 @@ const handleConvert = async () => {
     // 而是使用 cleanup 方法，它会重置所有音频状态
     audioPlayer.cleanup()
 
-    if (currentTab.value === 'cover') {
-      if (!selectedGender.value) {
-        toast.error(t('ai_cover.converter.gender.selectError'), {
-          position: 'top-right',
-          duration: 3000
-        })
-        return
-      }
-      // 翻唱转化时，必须登录, sample除外
-      if (!isLoggedIn.value && currentSubTab.value !== 'sample') {
+    const { dayCount, monthCount } = await actionCounts({
+      email: userEmail.value,
+      uid: uid.value,
+      action: ActionType.TTS_GENERATE,
+      domain: 'aivoicelab.net'
+    })
+    if (!isLoggedIn.value) {
+      // 当未登录时，当天生成4次，当月生成8次时，需要登录
+      if (dayCount >= 4 || monthCount >= 8) {
         showLoginModal()
         trackAction({
           email: userEmail.value,
-          action: ActionType.COVER_SONG_GENPOP_LOGIN,
+          action: ActionType.TTS_GENPOP_LOGIN,
           domain: 'aivoicelab.net',
           modelcat: selectedCategory.value,
           modelname: selectedModel.value,
@@ -1541,59 +1149,26 @@ const handleConvert = async () => {
         })
         return
       }
-      const { dayCount, monthCount } = await actionCounts({
-        email: userEmail.value,
-        uid: uid.value,
-        action: ActionType.COVER_SONG_GENERATE,
-        domain: 'aivoicelab.net'
-      })
-      // 需要先判断是否订阅， sample时不用判断了
-      if (currentSubTab.value !== 'sample') {
-        if (userSubscript.value === 1) {
-          // 订阅用户：检查剩余次数
-          const { checkQuota } = useQuotaCheck()
-          const quotaResult = await checkQuota(QuotaType.COVER, () => {
-            // 设置 quotaTypeForModal，watch 会自动触发显示弹窗
-            quotaTypeForModal.value = 'cover'
-          })
-          if (!quotaResult.canUse) {
-            showPayModal.value = true
-            return
-          }
-        } else {
-          // 未订阅用户：使用原有的次数限制逻辑
-          if (dayCount >= 1 || monthCount >= 3) {
-            showPayModal.value = true
-            trackAction({
-              email: userEmail.value,
-              action: ActionType.COVER_SONG_GENPOP_SUBSCRIPT,
-              domain: 'aivoicelab.net',
-              modelcat: selectedCategory.value,
-              modelname: selectedModel.value,
-              uid: uid.value
-            })
-            return
-          }
+    } else {
+      // 当已登录时, 检查剩余字符数（对于订阅用户）
+      if (userSubscript.value === 1) {
+        // 订阅用户：检查剩余字符数
+        const { checkQuota } = useQuotaCheck()
+        const quotaResult = await checkQuota(QuotaType.TTS, () => {
+          // 设置 quotaTypeForModal，watch 会自动触发显示弹窗
+          quotaTypeForModal.value = 'tts'
+        })
+        if (!quotaResult.canUse) {
+          showPayModal.value = true
+          return
         }
-      }
-
-      const result = await handleCover()
-      ret = result[0]
-      msg = result[1]
-    } else if (currentTab.value === 'tts') {
-      const { dayCount, monthCount } = await actionCounts({
-        email: userEmail.value,
-        uid: uid.value,
-        action: ActionType.TTS_GENERATE,
-        domain: 'aivoicelab.net'
-      })
-      if (!isLoggedIn.value) {
-        // 当未登录时，当天生成4次，当月生成8次时，需要登录
-        if (dayCount >= 4 || monthCount >= 8) {
-          showLoginModal()
+      } else {
+        // 未订阅用户：使用原有的次数限制逻辑
+        if (dayCount >= 5 || monthCount >= 10) {
+          showPayModal.value = true
           trackAction({
             email: userEmail.value,
-            action: ActionType.TTS_GENPOP_LOGIN,
+            action: ActionType.TTS_GENPOP_SUBSCRIPT,
             domain: 'aivoicelab.net',
             modelcat: selectedCategory.value,
             modelname: selectedModel.value,
@@ -1601,40 +1176,12 @@ const handleConvert = async () => {
           })
           return
         }
-      } else {
-        // 当已登录时, 检查剩余字符数（对于订阅用户）
-        if (userSubscript.value === 1) {
-          // 订阅用户：检查剩余字符数
-          const { checkQuota } = useQuotaCheck()
-          const quotaResult = await checkQuota(QuotaType.TTS, () => {
-            // 设置 quotaTypeForModal，watch 会自动触发显示弹窗
-            quotaTypeForModal.value = 'tts'
-          })
-          if (!quotaResult.canUse) {
-            showPayModal.value = true
-            return
-          }
-        } else {
-          // 未订阅用户：使用原有的次数限制逻辑
-          if (dayCount >= 5 || monthCount >= 10) {
-            showPayModal.value = true
-            trackAction({
-              email: userEmail.value,
-              action: ActionType.TTS_GENPOP_SUBSCRIPT,
-              domain: 'aivoicelab.net',
-              modelcat: selectedCategory.value,
-              modelname: selectedModel.value,
-              uid: uid.value
-            })
-            return
-          }
-        }
       }
-
-      const result = await handleTTS()
-      ret = result[0]
-      msg = result[1]
     }
+
+    const result = await handleTTS()
+    ret = result[0]
+    msg = result[1]
     if (ret === 0) {
       toast.success(msg, {
         position: 'top-right',

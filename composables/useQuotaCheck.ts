@@ -1,4 +1,5 @@
 import { computed } from 'vue'
+import { config } from '~/config/config'
 import { useAuth } from '~/composables/useAuth'
 import { useUserStore } from '~/store/user'
 import { useActionReporter, ActionType } from '~/composables/actionReporter'
@@ -168,7 +169,7 @@ export const useQuotaCheck = () => {
         trackAction({
           email: userEmail.value,
           action: actionType,
-          domain: 'aivoicelab.net',
+          domain: config.domain,
           modelcat: "quota-check",
           modelname: "quota-check",
           uid: ''

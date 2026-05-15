@@ -142,36 +142,36 @@ interface SoundEffectResponse {
 // 修改 promptExamples 数据结构以匹配新的样式需求
 const promptExamples = [
           // Combat & UI
-        { key: 'sword whoosh', display: 'soundeffect.prompt_combat.sword_whoosh' },
-        { key: 'sword whooshing through the air', display: 'soundeffect.prompt_combat.sword_through_air' },
-        { key: 'shotgun fire', display: 'soundeffect.prompt_combat.shotgun_fire' },
-        { key: 'futuristic laser gunshots', display: 'soundeffect.prompt_combat.laser_gunshot' },
-        { key: 'user interface success notifications', display: 'soundeffect.prompt_combat.ui_success' },
+        { key: 'sword whoosh', display: 'sound-effect.prompt_combat.sword_whoosh' },
+        { key: 'sword whooshing through the air', display: 'sound-effect.prompt_combat.sword_through_air' },
+        { key: 'shotgun fire', display: 'sound-effect.prompt_combat.shotgun_fire' },
+        { key: 'futuristic laser gunshots', display: 'sound-effect.prompt_combat.laser_gunshot' },
+        { key: 'user interface success notifications', display: 'sound-effect.prompt_combat.ui_success' },
 
         // Nature
-        { key: 'Rain', display: 'soundeffect.prompt_nature.rain' },
-        { key: 'ocean waves', display: 'soundeffect.prompt_nature.ocean_waves' },
-        { key: 'flowing water', display: 'soundeffect.prompt_nature.flowing_water' },
+        { key: 'Rain', display: 'sound-effect.prompt_nature.rain' },
+        { key: 'ocean waves', display: 'sound-effect.prompt_nature.ocean_waves' },
+        { key: 'flowing water', display: 'sound-effect.prompt_nature.flowing_water' },
 
         // Special Effects
-        { key: 'Fireworks', display: 'soundeffect.prompt_special.fireworks' },
-        { key: 'glass shattering', display: 'soundeffect.prompt_special.glass_shattering' },
-        { key: 'magic spell', display: 'soundeffect.prompt_special.magic_spell' },
+        { key: 'Fireworks', display: 'sound-effect.prompt_special.fireworks' },
+        { key: 'glass shattering', display: 'sound-effect.prompt_special.glass_shattering' },
+        { key: 'magic spell', display: 'sound-effect.prompt_special.magic_spell' },
 
         // Instruments
-        { key: 'Piano', display: 'soundeffect.prompt_instruments.piano' },
-        { key: 'electric guitar', display: 'soundeffect.prompt_instruments.electric_guitar' },
-        { key: 'Violin', display: 'soundeffect.prompt_instruments.violin' },
+        { key: 'Piano', display: 'sound-effect.prompt_instruments.piano' },
+        { key: 'electric guitar', display: 'sounde-ffect.prompt_instruments.electric_guitar' },
+        { key: 'Violin', display: 'sound-effect.prompt_instruments.violin' },
 
         // Human Sounds
-        { key: 'baby laughing', display: 'soundeffect.prompt_human.baby_laughing' },
-        { key: 'Clapping', display: 'soundeffect.prompt_human.clapping' },
-        { key: 'Celebrate', display: 'soundeffect.prompt_human.celebrate' },
+        { key: 'baby laughing', display: 'sound-effect.prompt_human.baby_laughing' },
+        { key: 'Clapping', display: 'sound-effect.prompt_human.clapping' },
+        { key: 'Celebrate', display: 'sound-effect.prompt_human.celebrate' },
 
         // Ambient
-        { key: 'Typing', display: 'soundeffect.prompt_ambient.typing' },
-        { key: 'noisy restaurant', display: 'soundeffect.prompt_ambient.noisy_restaurant' },
-        { key: 'doorbell ring', display: 'soundeffect.prompt_ambient.doorbell_ring' }
+        { key: 'Typing', display: 'sound-effect.prompt_ambient.typing' },
+        { key: 'noisy restaurant', display: 'sound-effect.prompt_ambient.noisy_restaurant' },
+        { key: 'doorbell ring', display: 'sound-effect.prompt_ambient.doorbell_ring' }
 ]
 const description = ref('')
 const isGenerating = ref(false)

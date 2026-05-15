@@ -490,7 +490,6 @@ export default defineNuxtConfig({
       // },
     },
     optimizeDeps: {
-      include: ['#app-manifest'],
       exclude: ['@nuxtjs/i18n'],
       // 确保 i18n JSON 文件被正确处理
       esbuildOptions: {

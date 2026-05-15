@@ -430,8 +430,8 @@ const downloadAudio = async () => {
       email: userEmail.value,
       action: props.actionType.downloadLogin,
       domain: domain,
-      modelcat: 'soundeffect',
-      modelname: 'soundeffect',
+      modelcat: 'sound-effect',
+      modelname: 'sound-effect',
       uid: uid.value
     })
     return

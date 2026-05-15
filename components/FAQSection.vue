@@ -27,7 +27,7 @@
             leave-to-class="transform scale-y-95 opacity-0">
             <div v-show="isExpanded[index]" class="px-4 pb-4"
               :style="{ 'content-visibility': isExpanded[index] ? 'visible' : 'hidden' }">
-              <p class="text-sm lg:text-base text-gray-600 leading-relaxed">{{ faq.answer }}</p>
+              <p class="whitespace-pre-line text-sm lg:text-base text-gray-600 leading-relaxed">{{ faq.answer }}</p>
             </div>
           </transition>
         </div>

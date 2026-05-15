@@ -21,7 +21,7 @@
     <div class="relative mb-6">
       <textarea
         v-model="description"
-        class="w-full p-4 bg-white border border-gray-200 rounded-xl resize-none focus:ring-2 focus:ring-[#F1AC63]/20 focus:border-[#F1AC63] outline-none transition-all duration-200 text-gray-800 placeholder-gray-700"
+        class="w-full p-4 bg-white border border-gray-200 rounded-xl resize-none focus:ring-2 focus:ring-[#F1AC63]/20 focus:border-[#F1AC63] outline-none transition-all duration-200 text-gray-800 placeholder-gray-400"
         maxlength="100"
         rows="3"
         :placeholder="$t('soundeffect_common.input_placeholder')"

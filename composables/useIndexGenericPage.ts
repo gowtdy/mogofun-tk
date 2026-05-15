@@ -7,7 +7,6 @@ import { useAuth } from '~/composables/useAuth'
 import { useAdvancedPageErrorHandler } from '~/composables/useAdvancedPageErrorHandler'
 import { useErrorReporter } from '~/composables/errorReporter'
 // import { usePageTitle } from '~/composables/usePageTitle'
-import { useAdvantages } from '~/composables/useAdvantages'
 import { useFAQs } from '~/composables/useFAQs'
 import { config } from '../config/config.js'
 import { useNuxtApp } from '#app'
@@ -27,6 +26,8 @@ export function useIndexGenericPage(options: UseIndexGenericPageOptions) {
   const host = config.host
   const cdnHost = config.cdnHost
   const route = useRoute()
+  const ogImage = config.ogImage
+  const twitterImage = config.twitterImage
 
   const { getOrCreateUid } = useAuth()
   const uid = ref(getOrCreateUid())
@@ -128,14 +129,9 @@ export function useIndexGenericPage(options: UseIndexGenericPageOptions) {
     }
   }, { immediate: true })
 
-  // 优势介绍
-  const { advantages } = useAdvantages(
-    `${options.pageKey}.advantages.items`,
-  )
-
   // FAQ
   const { faqs } = useFAQs(
-    `${options.pageKey}.faqs.items`,
+    `${options.pageKey}.faq.items`,
   )
 
   // 错误处理
@@ -152,21 +148,21 @@ export function useIndexGenericPage(options: UseIndexGenericPageOptions) {
       htmlAttrs: {
         lang: locale.value
       },
-      title: () => t(`${options.pageKey}.seo.title`),
+      title: () => t(`${options.pageKey}.meta.title`),
       meta: [
-        { name: 'description', content: () => t(`${options.pageKey}.seo.description`)},
-        { name: 'keywords', content: () => t(`${options.pageKey}.seo.keywords`)}, 
+        { name: 'description', content: () => t(`${options.pageKey}.meta.description`)},
+        { name: 'keywords', content: () => t(`${options.pageKey}.meta.keywords`)}, 
         { name: 'robots', content: 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'},
-        { property: 'og:title', content: () => t(`${options.pageKey}.seo.title`)},
-        { property: 'og:description', content: () => t(`${options.pageKey}.seo.description`)},
+        { property: 'og:title', content: () => t(`${options.pageKey}.meta.title`)},
+        { property: 'og:description', content: () => t(`${options.pageKey}.meta.description`)},
         { property: 'og:type', content: 'website'},
-        { property: 'og:url', content: 'https://mogofun.com' },
-        { property: 'og:image', content: `${cdnHost}/img/aivoicelab-fbtw.webp`},
+        { property: 'og:url', content: `${host}` },
+        { property: 'og:image', content: `${cdnHost}${ogImage}`},
         { name: 'twitter:card', content: 'summary_large_image'},
-        { name: 'twitter:title', content: () => t(`${options.pageKey}.seo.title`)},
-        { name: 'twitter:description', content: () => t(`${options.pageKey}.seo.description`)},
-        { name: 'twitter:site', content: 'https://mogofun.com' },
-        { name: 'twitter:image', content: `${cdnHost}/img/aivoicelab-fbtw.webp` },
+        { name: 'twitter:title', content: () => t(`${options.pageKey}.meta.title`)},
+        { name: 'twitter:description', content: () => t(`${options.pageKey}.meta.description`)},
+        { name: 'twitter:site', content: `${host}` },
+        { name: 'twitter:image', content: `${cdnHost}${twitterImage}` },
       ],
       link: (() => {
         const isHomePage = options.hrefPath === '/' || options.hrefPath === ''
@@ -219,7 +215,6 @@ export function useIndexGenericPage(options: UseIndexGenericPageOptions) {
     voiceModels,
     defaultCategory,
     defaultModel,
-    advantages,
     faqs,
     isLoggedIn,
     
@@ -228,7 +223,6 @@ export function useIndexGenericPage(options: UseIndexGenericPageOptions) {
     reportPageError,
     
     // 计算属性
-    advantagesTitle: computed(() => t(`${options.pageKey}.advantages.title`)),
-    faqTitle: computed(() => t(`${options.pageKey}.faqs.title`))
+    faqTitle: computed(() => t(`${options.pageKey}.faq.title`))
   }
 }

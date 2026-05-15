@@ -1,6 +1,7 @@
+import { config } from '~/config/config'
+
 export const useErrorReporter = () => {
-  const config = useRuntimeConfig()
-  const host = config.public.apiHost
+  const host = config.host
 
   const reportError = async (err: any, context: any, uid: string = '' , email: string = '') => {
     try {

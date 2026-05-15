@@ -176,6 +176,62 @@
       }
     }
   },
+  "soundeffect_common": {
+    "display_title": "Listen to realistic AI-generated sound effects below",
+    "input_placeholder": "Enter sound effect description",
+    "generating_button": "Generating...",
+    "generate_button": "Generate",
+    "msg_example_load_failed": "Sound sample load failed, please try again later!",
+    "msg_example_play_failed": "Sound sample play failed, please try again later!",
+    "msg_notext": "Please enter a description to generate a sound effect",
+    "prompt_combat": {
+            "sword_whoosh": "Sword whoosh",
+            "sword_through_air": "Sword through air",
+            "shotgun_fire": "Shotgun fire",
+            "laser_gunshot": "Laser gunshot",
+            "ui_success": "UI success"
+    },
+    "prompt_nature": {
+            "name": "Nature Sounds",
+            "rain": "Rain",
+            "ocean_waves": "Ocean waves",
+            "flowing_water": "Flowing water",
+            "thunder": "Thunder",
+            "insect_sounds": "Insect sounds"
+    },
+    "prompt_special": {
+            "name": "Special Sounds",
+            "fireworks": "Fireworks",
+            "glass_shattering": "Glass shattering",
+            "magic_spell": "Magic spell",
+            "spaceship": "Spaceship",
+            "action": "Action"
+    },
+    "prompt_instruments": {
+            "name": "Instruments Sounds",
+            "piano": "Piano",
+            "electric_guitar": "Electric guitar",
+            "violin": "Violin",
+            "keyboard": "Electronic keyboard",
+            "irish_pipes": "Irish pipes"
+    },
+    "prompt_human": {
+            "name": "Human Sounds",
+            "baby_laughing": "Baby laughing",
+            "clapping": "Clapping",
+            "celebrate": "Celebration",
+            "footsteps": "Footsteps",
+            "burp": "Burp"
+    },
+    "prompt_ambient": {
+            "name": "Ambient Sounds",
+            "typing": "Typing",
+            "noisy_restaurant": "Noisy restaurant",
+            "doorbell_ring": "Doorbell",
+            "tv_on": "TV on",
+            "cooking": "Cooking"
+    }
+  },
   "friends": {
     "title": "Friends"
   }

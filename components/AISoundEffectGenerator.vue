@@ -1,6 +1,6 @@
 <template>
   <div class="bg-white rounded-2xl border border-gray-100 shadow-sm p-6 mb-12" :class="$attrs.class">
-    <p class="text-gray-500 text-base mb-4">{{ $t('sound-effect.generator_title') }}</p>
+    <p class="text-gray-500 text-base mb-4">{{ generatorSubtitle }}</p>
     
     <!-- 标签示例 -->
     <div class="flex flex-wrap gap-2 mb-6">
@@ -24,7 +24,7 @@
         class="w-full p-4 bg-white border border-gray-200 rounded-xl resize-none focus:ring-2 focus:ring-[#F1AC63]/20 focus:border-[#F1AC63] outline-none transition-all duration-200 text-gray-800 placeholder-gray-700"
         maxlength="100"
         rows="3"
-        :placeholder="$t('sound-effect.input_placeholder')"
+        :placeholder="$t('soundeffect_common.input_placeholder')"
       ></textarea>
       <div class="absolute right-4 bottom-4 text-xs text-gray-700">
         {{ description.length }}/100
@@ -38,7 +38,7 @@
       class="max-w-md mx-auto py-3 px-8 rounded-xl bg-gradient-to-r from-[#F1AC63] to-[#D76FF4] text-white font-medium flex items-center justify-center hover:opacity-90 transition-all duration-200 shadow-sm"
     >
       <svg v-if="isGenerating" class="animate-spin mr-2 w-5 h-5" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M12,4V2A10,10 0 0,0 2,12H4A8,8 0 0,1 12,4Z"/></svg>
-      <span>{{ isGenerating ? $t('sound-effect.generating_button') : $t('sound-effect.generate_button') }}</span>
+      <span>{{ isGenerating ? $t('soundeffect_common.generating_button') : $t('soundeffect_common.generate_button') }}</span>
     </button>
 
     <!-- 音频播放器 -->
@@ -108,7 +108,17 @@ defineOptions({
   inheritAttrs: true
 })
 
+const props = defineProps<{
+  /** i18n prefix matching the page locale JSON root key (e.g. sound-effect) */
+  pageKey: string
+}>()
+
 const { t, tm, locale } = useI18n()
+
+const generatorSubtitle = computed(() => {
+  void locale.value
+  return t(`${props.pageKey}.generator_subtitle`)
+})
 const { getOrCreateUid, getUserInfo } = useAuth()
 const { reportError } = useErrorReporter()
 const { trackAction, actionCounts } = useActionReporter()
@@ -142,36 +152,36 @@ interface SoundEffectResponse {
 // 修改 promptExamples 数据结构以匹配新的样式需求
 const promptExamples = [
           // Combat & UI
-        { key: 'sword whoosh', display: 'sound-effect.prompt_combat.sword_whoosh' },
-        { key: 'sword whooshing through the air', display: 'sound-effect.prompt_combat.sword_through_air' },
-        { key: 'shotgun fire', display: 'sound-effect.prompt_combat.shotgun_fire' },
-        { key: 'futuristic laser gunshots', display: 'sound-effect.prompt_combat.laser_gunshot' },
-        { key: 'user interface success notifications', display: 'sound-effect.prompt_combat.ui_success' },
+        { key: 'sword whoosh', display: 'soundeffect_common.prompt_combat.sword_whoosh' },
+        { key: 'sword whooshing through the air', display: 'soundeffect_common.prompt_combat.sword_through_air' },
+        { key: 'shotgun fire', display: 'soundeffect_common.prompt_combat.shotgun_fire' },
+        { key: 'futuristic laser gunshots', display: 'soundeffect_common.prompt_combat.laser_gunshot' },
+        { key: 'user interface success notifications', display: 'soundeffect_common.prompt_combat.ui_success' },
 
         // Nature
-        { key: 'Rain', display: 'sound-effect.prompt_nature.rain' },
-        { key: 'ocean waves', display: 'sound-effect.prompt_nature.ocean_waves' },
-        { key: 'flowing water', display: 'sound-effect.prompt_nature.flowing_water' },
+        { key: 'Rain', display: 'soundeffect_common.prompt_nature.rain' },
+        { key: 'ocean waves', display: 'soundeffect_common.prompt_nature.ocean_waves' },
+        { key: 'flowing water', display: 'soundeffect_common.prompt_nature.flowing_water' },
 
         // Special Effects
-        { key: 'Fireworks', display: 'sound-effect.prompt_special.fireworks' },
-        { key: 'glass shattering', display: 'sound-effect.prompt_special.glass_shattering' },
-        { key: 'magic spell', display: 'sound-effect.prompt_special.magic_spell' },
+        { key: 'Fireworks', display: 'soundeffect_common.prompt_special.fireworks' },
+        { key: 'glass shattering', display: 'soundeffect_common.prompt_special.glass_shattering' },
+        { key: 'magic spell', display: 'soundeffect_common.prompt_special.magic_spell' },
 
         // Instruments
-        { key: 'Piano', display: 'sound-effect.prompt_instruments.piano' },
-        { key: 'electric guitar', display: 'sounde-ffect.prompt_instruments.electric_guitar' },
-        { key: 'Violin', display: 'sound-effect.prompt_instruments.violin' },
+        { key: 'Piano', display: 'soundeffect_common.prompt_instruments.piano' },
+        { key: 'electric guitar', display: 'soundeffect_common.prompt_instruments.electric_guitar' },
+        { key: 'Violin', display: 'soundeffect_common.prompt_instruments.violin' },
 
         // Human Sounds
-        { key: 'baby laughing', display: 'sound-effect.prompt_human.baby_laughing' },
-        { key: 'Clapping', display: 'sound-effect.prompt_human.clapping' },
-        { key: 'Celebrate', display: 'sound-effect.prompt_human.celebrate' },
+        { key: 'baby laughing', display: 'soundeffect_common.prompt_human.baby_laughing' },
+        { key: 'Clapping', display: 'soundeffect_common.prompt_human.clapping' },
+        { key: 'Celebrate', display: 'soundeffect_common.prompt_human.celebrate' },
 
         // Ambient
-        { key: 'Typing', display: 'sound-effect.prompt_ambient.typing' },
-        { key: 'noisy restaurant', display: 'sound-effect.prompt_ambient.noisy_restaurant' },
-        { key: 'doorbell ring', display: 'sound-effect.prompt_ambient.doorbell_ring' }
+        { key: 'Typing', display: 'soundeffect_common.prompt_ambient.typing' },
+        { key: 'noisy restaurant', display: 'soundeffect_common.prompt_ambient.noisy_restaurant' },
+        { key: 'doorbell ring', display: 'soundeffect_common.prompt_ambient.doorbell_ring' }
 ]
 const description = ref('')
 const isGenerating = ref(false)

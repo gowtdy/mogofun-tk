@@ -31,9 +31,10 @@
         />
       </div>
 
-      <!-- FAQ 区域 -->
+      <!-- FAQ 区域（与上方工具区拉开间距） -->
       <FAQSection
         v-if="!isLoggedIn && faqs"
+        class="mt-12 md:mt-16"
         :title="faqTitle"
         :faqs="faqs"
       />

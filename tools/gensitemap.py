@@ -52,7 +52,7 @@ CONFIG = SitemapConfig(
         # 功能页面 - 高优先级
         "features": {
             "paths": [
-                "sound-effects", "vocal-isolator", "vocal-remover","audio-extractor"
+                "sound-effect", "vocal-isolator", "vocal-remover","audio-extractor"
             ],
             "priority": PriorityLevel.CRITICAL.value,
             "changefreq": "daily",

@@ -21,6 +21,8 @@
     <UploadPanel
       :result-title="$t('vocal_remover.result_title')"
       :process-button-text="$t('vocal_remover.process_button')"
+      message-namespace="vocal_remover"
+      telemetry-model-slug="vocal-remover"
       model-category="vocal remover"
       model-name="vocal remover"
       api-endpoint="/coverapi/instrument"

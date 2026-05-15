@@ -28,6 +28,9 @@ export function useGenericPage(options: UseGenericPageOptions) {
   const cdnHost = config.cdnHost
   const route = useRoute()
 
+  const ogImage = config.ogImage
+  const twitterImage = config.twitterImage
+
   const { getOrCreateUid } = useAuth()
   const uid = ref(getOrCreateUid())
 
@@ -158,21 +161,21 @@ export function useGenericPage(options: UseGenericPageOptions) {
       htmlAttrs: {
         lang: locale.value
       },
-      title: () => t(`${options.pageKey}.seo.title`),
+      title: () => t(`${options.pageKey}.meta.title`),
       meta: [
-        { name: 'description', content: () => t(`${options.pageKey}.seo.description`)},
-        { name: 'keywords', content: () => t(`${options.pageKey}.seo.keywords`)}, 
+        { name: 'description', content: () => t(`${options.pageKey}.meta.description`)},
+        { name: 'keywords', content: () => t(`${options.pageKey}.meta.keywords`)}, 
         { name: 'robots', content: 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'},
-        { property: 'og:title', content: () => t(`${options.pageKey}.seo.title`)},
-        { property: 'og:description', content: () => t(`${options.pageKey}.seo.description`)},
+        { property: 'og:title', content: () => t(`${options.pageKey}.meta.title`)},
+        { property: 'og:description', content: () => t(`${options.pageKey}.meta.description`)},
         { property: 'og:type', content: 'website'},
-        { property: 'og:url', content: 'https://mogofun.com' },
-        { property: 'og:image', content: `${cdnHost}/img/aivoicelab-fbtw.webp`},
+        { property: 'og:url', content: host },
+        { property: 'og:image', content: `${cdnHost}${ogImage}`},
         { name: 'twitter:card', content: 'summary_large_image'},
-        { name: 'twitter:title', content: () => t(`${options.pageKey}.seo.title`)},
-        { name: 'twitter:description', content: () => t(`${options.pageKey}.seo.description`)},
-        { name: 'twitter:site', content: 'https://mogofun.com' },
-        { name: 'twitter:image', content: `${cdnHost}/img/aivoicelab-fbtw.webp` },
+        { name: 'twitter:title', content: () => t(`${options.pageKey}.meta.title`)},
+        { name: 'twitter:description', content: () => t(`${options.pageKey}.meta.description`)},
+        { name: 'twitter:site', content: host },
+        { name: 'twitter:image', content: `${cdnHost}${twitterImage}` },
       ],
       link: [
         { rel: 'canonical', href: buildUrl(lang.value) },

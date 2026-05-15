@@ -1,6 +1,24 @@
 <template>
   <div class="bg-white rounded-2xl border border-gray-100 shadow-sm p-6 mb-4">
     <!-- 音效卡片网格 -->
+    <h2 class="text-2xl font-medium mb-6 text-center bg-gradient-to-r from-[#F1AC63] to-[#D76FF4] bg-clip-text text-transparent">{{ $t('soundeffect_common.display_title') }}</h2>
+
+    <!-- 分类标签 -->
+    <div class="flex flex-wrap justify-center gap-2 mb-5">
+      <button
+        v-for="cat in categories"
+        :key="cat.id"
+        type="button"
+        class="px-5 py-1.5 rounded-full border text-sm transition-all duration-200 font-medium tracking-wide"
+        :class="currentCategory === cat.id
+          ? 'bg-gradient-to-r from-[#F1AC63] to-[#D76FF4] text-white border-transparent shadow-sm'
+          : 'border-gray-200 text-gray-500 bg-white hover:border-pink-200 hover:text-pink-500'"
+        @click="onCategoryClick(cat.id)"
+      >
+        {{ $t(cat.name) }}
+      </button>
+    </div>
+    
     <div class="grid grid-cols-2 sm:grid-cols-5 gap-3">
       <div
         v-for="sample in currentSamples"
@@ -40,24 +58,6 @@
         </button>
       </div>
     </div>
-
-    <h2 class="text-2xl font-medium mb-6 text-center bg-gradient-to-r from-[#F1AC63] to-[#D76FF4] bg-clip-text text-transparent">{{ $t('sound-effect.display_title') }}</h2>
-
-    <!-- 分类标签 -->
-    <div class="flex flex-wrap justify-center gap-2 mb-5">
-      <button
-        v-for="cat in categories"
-        :key="cat.id"
-        type="button"
-        class="px-5 py-1.5 rounded-full border text-sm transition-all duration-200 font-medium tracking-wide"
-        :class="currentCategory === cat.id
-          ? 'bg-gradient-to-r from-[#F1AC63] to-[#D76FF4] text-white border-transparent shadow-sm'
-          : 'border-gray-200 text-gray-500 bg-white hover:border-pink-200 hover:text-pink-500'"
-        @click="onCategoryClick(cat.id)"
-      >
-        {{ $t(cat.name) }}
-      </button>
-    </div>
   </div>
 </template>
 
@@ -87,48 +87,48 @@ const emit = defineEmits<{
 const cdnHost = config.cdnHost
 
 const categories = [
-  { id: 'nature' as SoundEffectCategoryId, name: 'sound-effect.prompt_nature.name' },
-  { id: 'special' as SoundEffectCategoryId, name: 'sound-effect.prompt_special.name' },
-  { id: 'instrument' as SoundEffectCategoryId, name: 'sound-effect.prompt_instruments.name' },
-  { id: 'human' as SoundEffectCategoryId, name: 'sound-effect.prompt_human.name' },
-  { id: 'ambient' as SoundEffectCategoryId, name: 'sound-effect.prompt_ambient.name' }
+  { id: 'nature' as SoundEffectCategoryId, name: 'soundeffect_common.prompt_nature.name' },
+  { id: 'special' as SoundEffectCategoryId, name: 'soundeffect_common.prompt_special.name' },
+  { id: 'instrument' as SoundEffectCategoryId, name: 'soundeffect_common.prompt_instruments.name' },
+  { id: 'human' as SoundEffectCategoryId, name: 'soundeffect_common.prompt_human.name' },
+  { id: 'ambient' as SoundEffectCategoryId, name: 'soundeffect_common.prompt_ambient.name' }
 ]
 
 const samples: Record<SoundEffectCategoryId, SoundEffectSampleItem[]> = {
   nature: [
-    { id: 'rain', emoji: '🌧️', url: `${cdnHost}/outimage/wavplay/sounds/nature/rain.mp3`, name: 'sound-effect.prompt_nature.rain' },
-    { id: 'ocean', emoji: '🌊', url: `${cdnHost}/outimage/wavplay/sounds/nature/ocean.mp3`, name: 'sound-effect.prompt_nature.ocean_waves' },
-    { id: 'water', emoji: '💧', url: `${cdnHost}/outimage/wavplay/sounds/nature/water.mp3`, name: 'sound-effect.prompt_nature.flowing_water' },
-    { id: 'thunder', emoji: '⚡', url: `${cdnHost}/outimage/wavplay/sounds/nature/thunder.mp3`, name: 'sound-effect.prompt_nature.thunder' },
-    { id: 'insect', emoji: '🦗', url: `${cdnHost}/outimage/wavplay/sounds/nature/insect.mp3`, name: 'sound-effect.prompt_nature.insect_sounds' }
+    { id: 'rain', emoji: '🌧️', url: `${cdnHost}/outimage/wavplay/sounds/nature/rain.mp3`, name: 'soundeffect_common.prompt_nature.rain' },
+    { id: 'ocean', emoji: '🌊', url: `${cdnHost}/outimage/wavplay/sounds/nature/ocean.mp3`, name: 'soundeffect_common.prompt_nature.ocean_waves' },
+    { id: 'water', emoji: '💧', url: `${cdnHost}/outimage/wavplay/sounds/nature/water.mp3`, name: 'soundeffect_common.prompt_nature.flowing_water' },
+    { id: 'thunder', emoji: '⚡', url: `${cdnHost}/outimage/wavplay/sounds/nature/thunder.mp3`, name: 'soundeffect_common.prompt_nature.thunder' },
+    { id: 'insect', emoji: '🦗', url: `${cdnHost}/outimage/wavplay/sounds/nature/insect.mp3`, name: 'soundeffect_common.prompt_nature.insect_sounds' }
   ],
   special: [
-    { id: 'fireworks', emoji: '🎆', url: `${cdnHost}/outimage/wavplay/sounds/special/fireworks.mp3`, name: 'sound-effect.prompt_special.fireworks' },
-    { id: 'glass', emoji: '💥', url: `${cdnHost}/outimage/wavplay/sounds/special/glass.mp3`, name: 'sound-effect.prompt_special.glass_shattering' },
-    { id: 'magic', emoji: '✨', url: `${cdnHost}/outimage/wavplay/sounds/special/magic.mp3`, name: 'sound-effect.prompt_special.magic_spell' },
-    { id: 'spaceship', emoji: '🚀', url: `${cdnHost}/outimage/wavplay/sounds/special/spaceship.mp3`, name: 'sound-effect.prompt_special.spaceship' },
-    { id: 'action', emoji: '💫', url: `${cdnHost}/outimage/wavplay/sounds/special/action.mp3`, name: 'sound-effect.prompt_special.action' }
+    { id: 'fireworks', emoji: '🎆', url: `${cdnHost}/outimage/wavplay/sounds/special/fireworks.mp3`, name: 'soundeffect_common.prompt_special.fireworks' },
+    { id: 'glass', emoji: '💥', url: `${cdnHost}/outimage/wavplay/sounds/special/glass.mp3`, name: 'soundeffect_common.prompt_special.glass_shattering' },
+    { id: 'magic', emoji: '✨', url: `${cdnHost}/outimage/wavplay/sounds/special/magic.mp3`, name: 'soundeffect_common.prompt_special.magic_spell' },
+    { id: 'spaceship', emoji: '🚀', url: `${cdnHost}/outimage/wavplay/sounds/special/spaceship.mp3`, name: 'soundeffect_common.prompt_special.spaceship' },
+    { id: 'action', emoji: '💫', url: `${cdnHost}/outimage/wavplay/sounds/special/action.mp3`, name: 'soundeffect_common.prompt_special.action' }
   ],
   instrument: [
-    { id: 'piano', emoji: '🎹', url: `${cdnHost}/outimage/wavplay/sounds/instrument/piano.mp3`, name: 'sound-effect.prompt_instruments.piano' },
-    { id: 'guitar', emoji: '🎸', url: `${cdnHost}/outimage/wavplay/sounds/instrument/guitar.mp3`, name: 'sound-effect.prompt_instruments.electric_guitar' },
-    { id: 'violin', emoji: '🎻', url: `${cdnHost}/outimage/wavplay/sounds/instrument/violin.mp3`, name: 'sound-effect.prompt_instruments.violin' },
-    { id: 'keyboard', emoji: '🎹', url: `${cdnHost}/outimage/wavplay/sounds/instrument/keyboard.mp3`, name: 'sound-effect.prompt_instruments.keyboard' },
-    { id: 'pipes', emoji: '🎵', url: `${cdnHost}/outimage/wavplay/sounds/instrument/pipes.mp3`, name: 'sound-effect.prompt_instruments.irish_pipes' }
+    { id: 'piano', emoji: '🎹', url: `${cdnHost}/outimage/wavplay/sounds/instrument/piano.mp3`, name: 'soundeffect_common.prompt_instruments.piano' },
+    { id: 'guitar', emoji: '🎸', url: `${cdnHost}/outimage/wavplay/sounds/instrument/guitar.mp3`, name: 'soundeffect_common.prompt_instruments.electric_guitar' },
+    { id: 'violin', emoji: '🎻', url: `${cdnHost}/outimage/wavplay/sounds/instrument/violin.mp3`, name: 'soundeffect_common.prompt_instruments.violin' },
+    { id: 'keyboard', emoji: '🎹', url: `${cdnHost}/outimage/wavplay/sounds/instrument/keyboard.mp3`, name: 'soundeffect_common.prompt_instruments.keyboard' },
+    { id: 'pipes', emoji: '🎵', url: `${cdnHost}/outimage/wavplay/sounds/instrument/pipes.mp3`, name: 'soundeffect_common.prompt_instruments.irish_pipes' }
   ],
   human: [
-    { id: 'baby', emoji: '👶', url: `${cdnHost}/outimage/wavplay/sounds/human/baby.mp3`, name: 'sound-effect.prompt_human.baby_laughing' },
-    { id: 'clap', emoji: '👏', url: `${cdnHost}/outimage/wavplay/sounds/human/clap.mp3`, name: 'sound-effect.prompt_human.clapping' },
-    { id: 'celebrate', emoji: '🎉', url: `${cdnHost}/outimage/wavplay/sounds/human/celebrate.mp3`, name: 'sound-effect.prompt_human.celebrate' },
-    { id: 'footsteps', emoji: '👣', url: `${cdnHost}/outimage/wavplay/sounds/human/footsteps.mp3`, name: 'sound-effect.prompt_human.footsteps' },
-    { id: 'burp', emoji: '😮', url: `${cdnHost}/outimage/wavplay/sounds/human/burp.mp3`, name: 'sound-effect.prompt_human.burp' }
+    { id: 'baby', emoji: '👶', url: `${cdnHost}/outimage/wavplay/sounds/human/baby.mp3`, name: 'soundeffect_common.prompt_human.baby_laughing' },
+    { id: 'clap', emoji: '👏', url: `${cdnHost}/outimage/wavplay/sounds/human/clap.mp3`, name: 'soundeffect_common.prompt_human.clapping' },
+    { id: 'celebrate', emoji: '🎉', url: `${cdnHost}/outimage/wavplay/sounds/human/celebrate.mp3`, name: 'soundeffect_common.prompt_human.celebrate' },
+    { id: 'footsteps', emoji: '👣', url: `${cdnHost}/outimage/wavplay/sounds/human/footsteps.mp3`, name: 'soundeffect_common.prompt_human.footsteps' },
+    { id: 'burp', emoji: '😮', url: `${cdnHost}/outimage/wavplay/sounds/human/burp.mp3`, name: 'soundeffect_common.prompt_human.burp' }
   ],
   ambient: [
-    { id: 'typing', emoji: '⌨️', url: `${cdnHost}/outimage/wavplay/sounds/ambient/typing.mp3`, name: 'sound-effect.prompt_ambient.typing' },
-    { id: 'restaurant', emoji: '🍽️', url: `${cdnHost}/outimage/wavplay/sounds/ambient/restaurant.mp3`, name: 'sound-effect.prompt_ambient.noisy_restaurant' },
-    { id: 'doorbell', emoji: '🔔', url: `${cdnHost}/outimage/wavplay/sounds/ambient/doorbell.mp3`, name: 'sound-effect.prompt_ambient.doorbell_ring' },
-    { id: 'tv', emoji: '📺', url: `${cdnHost}/outimage/wavplay/sounds/ambient/tv.mp3`, name: 'sound-effect.prompt_ambient.tv_on' },
-    { id: 'cooking', emoji: '🍳', url: `${cdnHost}/outimage/wavplay/sounds/ambient/cooking.mp3`, name: 'sound-effect.prompt_ambient.cooking' }
+    { id: 'typing', emoji: '⌨️', url: `${cdnHost}/outimage/wavplay/sounds/ambient/typing.mp3`, name: 'soundeffect_common.prompt_ambient.typing' },
+    { id: 'restaurant', emoji: '🍽️', url: `${cdnHost}/outimage/wavplay/sounds/ambient/restaurant.mp3`, name: 'soundeffect_common.prompt_ambient.noisy_restaurant' },
+    { id: 'doorbell', emoji: '🔔', url: `${cdnHost}/outimage/wavplay/sounds/ambient/doorbell.mp3`, name: 'soundeffect_common.prompt_ambient.doorbell_ring' },
+    { id: 'tv', emoji: '📺', url: `${cdnHost}/outimage/wavplay/sounds/ambient/tv.mp3`, name: 'soundeffect_common.prompt_ambient.tv_on' },
+    { id: 'cooking', emoji: '🍳', url: `${cdnHost}/outimage/wavplay/sounds/ambient/cooking.mp3`, name: 'soundeffect_common.prompt_ambient.cooking' }
   ]
 }
 

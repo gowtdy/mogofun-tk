@@ -21,6 +21,8 @@
     <UploadPanel
       :result-title="t('audio_extractor.result_title')"
       :process-button-text="t('audio_extractor.process_button')"
+      message-namespace="audio_extractor"
+      telemetry-model-slug="audio-extractor"
       mediaType="video"
       model-category="audio extractor"
       model-name="audio extractor"

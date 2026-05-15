@@ -151,7 +151,7 @@ export function useChunkedUpload(options: ChunkedUploadOptions = {}): ChunkedUpl
       }
 
       const requestData: any = {
-        domain: 'aivoicelab.net',
+        domain: config.domain,
         email: userEmail.value,
         uid: uid.value,
         subscript: userSubscript,

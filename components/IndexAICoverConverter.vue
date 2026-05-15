@@ -532,7 +532,6 @@ const currentSubTab = ref('upload')
 
 const defaultAudioTabs = [
   { id: 'tts', name: 'Text to Speech', icon: ChatBubbleLeftIcon },
-  { id: 'cover', name: 'AI Song Cover', icon: MusicalNoteIcon },
 ]
 
 const audioTabs = computed(() => {
@@ -565,215 +564,7 @@ const handleTabChange = (tabId) => {
   setTimeout(() => {
     convertedAudio.value = null;
     isConverting.value = false;
-    if (tabId === 'cover') {
-      currentSubTab.value = 'upload';
-      resetUpload();
-      if (audioPlayer.isPlaying.value) {
-        audioPlayer.pauseAudio();
-      }
-    }
   }, 0);
-}
-
-// sample audio
-const sampleAudios = ref([
-  {
-    id: 1,
-    name: 'Last Night - Morgan Wallen(Male)',
-    duration: '0:15',
-    url: `${cdnHost}/outimage/wavplay/cover/sampleaudio/en/lastnight-morgan-male.mp3`,
-    uploadedurl: '/uploads/samples/20250222161810_1.1.1.1_997.mp3',
-    gender: 'male'
-  },
-  {
-    id: 2,
-    name: 'Last Dance With Mary Jane - Snoop Dogg(Male)',
-    duration: '0:15',
-    url: `${cdnHost}/outimage/wavplay/cover/sampleaudio/en/lastdance-snoopdogg-male.mp3`,
-    uploadedurl: '/uploads/samples/20250222161810_1.1.1.1_996.mp3',
-    gender: 'male'
-  },
-  {
-    id: 3,
-    name: 'APT. - ROSÉ(Female)',
-    duration: '0:15',
-    url: `${cdnHost}/outimage/wavplay/cover/sampleaudio/en/apt-rose-female.mp3`,
-    uploadedurl: '/uploads/samples/20250222161810_1.1.1.1_998.mp3',
-    gender: 'female'
-  },
-  {
-    id: 4,
-    name: 'Cruel Summer - Taylor Swift(Female)',
-    duration: '0:15',
-    url: `${cdnHost}/outimage/wavplay/cover/sampleaudio/en/cruelsummer-taylor-female.mp3`,
-    uploadedurl: '/uploads/samples/20250222161810_1.1.1.1_999.mp3',
-    gender: 'female'
-  }
-])
-
-const selectedSample = ref<any>(null)
-// select sample audio
-const selectSampleAudio = (sample: any) => {
-  selectedSample.value = sample
-  if (sample && sample.gender) {
-    selectedGender.value = sample.gender
-  }
-}
-
-// watch currentTab 和 currentSubTab
-watch(
-  [() => currentTab.value, () => currentSubTab.value],
-  ([newTab, newSubTab]) => {
-    if (newTab === 'cover' && newSubTab === 'sample') {
-      if (!selectedSample.value && sampleAudios.value.length > 0) {
-        selectedSample.value = sampleAudios.value[0]
-      }
-
-      if (selectedSample.value) {
-        selectedGender.value = selectedSample.value.gender
-      }
-    } else if (newTab === 'cover' && newSubTab === 'upload') {
-      selectedGender.value = ''
-    } else if (newTab === 'cover' && newSubTab === 'record') {
-      selectedGender.value = ''
-    }
-  },
-  { immediate: true }
-)
-
-watch(() => selectedSample.value, () => {
-  convertedAudio.value = null
-  if (audioPlayer.isPlaying.value) {
-    audioPlayer.pauseAudio()
-  }
-})
-// play sample audio
-const playSampleAudio = async (sample: any, event: any) => {
-  if (event) {
-    event.preventDefault()
-    event.stopPropagation()
-  }
-
-  // 添加参数验证
-  if (!sample || !sample.url || typeof sample.url !== 'string') {
-    reportError(
-      new Error(`Invalid sample or sample.url: ${JSON.stringify(sample)}`),
-      'playSampleAudio parameter validation failed',
-      uid.value,
-      userEmail.value
-    )
-    return
-  }
-
-  if (!sample.id) {
-    reportError(
-      new Error(`Invalid sample.id: ${sample.id}`),
-      `Play sample audio failed - invalid sample.id - pageUrl: ${pageUrl.value}`,
-      uid.value,
-      userEmail.value
-    )
-    return
-  }
-
-  const audioId = `sample-${sample.id}`
-
-  // 使用 requestAnimationFrame 优化音频播放操作，减少 INP
-  requestAnimationFrame(async () => {
-    try {
-      // 如果当前正在播放这个音频，则停止播放
-      if (audioPlayer.audioId.value === audioId && audioPlayer.isPlaying.value) {
-        await audioPlayer.pauseAudio()
-        return
-      }
-
-      // 如果有其他音频在播放，先停止它
-      if (audioPlayer.isPlaying.value) {
-        await audioPlayer.pauseAudio()
-      }
-
-      // 延迟播放新音频，避免阻塞UI
-      requestAnimationFrame(async () => {
-        try {
-          await audioPlayer.playAudio(sample.url, audioId, cdnHost)
-        } catch (err) {
-          reportError(err, `Play sample audio failed - pageUrl: ${pageUrl.value}`, uid.value, userEmail.value)
-        }
-      })
-    } catch (err) {
-      reportError(err, `Play sample audio failed - pageUrl: ${pageUrl.value}`, uid.value, userEmail.value)
-    }
-  })
-}
-// play sample audio
-const isPlayingSample = (sampleId: any) => {
-  const audioId = `sample-${sampleId}`
-  return audioPlayer.audioId.value === audioId && audioPlayer.isPlaying.value
-}
-
-// upload audio
-const uploadedFile = ref(null)
-const uploadedFileUrl = ref(null)
-const upresurl = ref(null)
-const isUploading = ref(false)
-const audioUploaderRef = ref<InstanceType<typeof AudioUploader> | null>(null)
-
-// AudioUploader 事件处理函数
-const handleUploadSuccess = (response: any) => {
-  if (response && response.url) {
-    uploadedFile.value = response.file
-    upresurl.value = response.url
-    // uploadedAudioList 由 AudioUploader 内部管理，这里不需要设置
-    if (response.file) {
-      uploadedFileUrl.value = URL.createObjectURL(response.file)
-      uploadedAudioList.value.length = 0
-      uploadedAudioList.value.push(URL.createObjectURL(response.file))
-    }
-    // trackAction 已在 AudioUploader 内部调用，这里不需要重复调用
-  }
-}
-
-const handleUploadError = (msg: string) => {
-  toast.error(msg, {
-    position: 'top-right',
-    duration: 3000
-  })
-}
-
-const handleUploadReset = () => {
-  uploadedFile.value = null
-  uploadedFileUrl.value = null
-  upresurl.value = null
-  convertedAudio.value = null
-  if (uploadedFileUrl.value) {
-    URL.revokeObjectURL(uploadedFileUrl.value)
-    uploadedFileUrl.value = null
-  }
-  uploadedAudioList.value.length = 0
-}
-
-const handleFileChange = (file: File) => {
-  // 文件选择时的处理，可以在这里添加额外的逻辑
-}
-
-const handleUploading = (val: boolean) => {
-  isUploading.value = val
-}
-
-// reset upload
-const resetUpload = () => {
-  // 调用 AudioUploader 的 reset 方法
-  if (audioUploaderRef.value && typeof audioUploaderRef.value.onReset === 'function') {
-    audioUploaderRef.value.onReset()
-  }
-  uploadedFile.value = null
-  uploadedFileUrl.value = null
-  upresurl.value = null
-  convertedAudio.value = null
-  if (uploadedFileUrl.value) {
-    URL.revokeObjectURL(uploadedFileUrl.value)
-    uploadedFileUrl.value = null
-  }
-  uploadedAudioList.value.length = 0
 }
 
 // 新增 tts 相关的响应式变量
@@ -1324,7 +1115,6 @@ const handleUnhandledRejection = (event) => {
       currentTab: currentTab.value,
       currentSubTab: currentSubTab.value,
       isConverting: isConverting.value,
-      isUploading: isUploading.value,
     }
   }
 
@@ -1351,7 +1141,6 @@ const handleError = (event) => {
       currentTab: currentTab.value,
       currentSubTab: currentSubTab.value,
       isConverting: isConverting.value,
-      isUploading: isUploading.value,
     }
   }
 
@@ -1375,13 +1164,6 @@ onUnmounted(() => {
       audioPlayer.audioElement.load()
     }
 
-    // 清理 URL 对象
-    if (uploadedFileUrl.value) {
-      URL.revokeObjectURL(uploadedFileUrl.value)
-      uploadedFileUrl.value = null
-      uploadedAudioList.value.length = 0
-    }
-
     // 清理事件监听器
     if (process.client) {
       window.removeEventListener('unhandledrejection', handleUnhandledRejection)
@@ -1390,9 +1172,7 @@ onUnmounted(() => {
 
     // 重置所有状态
     isConverting.value = false
-    isUploading.value = false
     convertedAudio.value = null
-    uploadedFile.value = null
     audioList.value.length = 0
     uploadedAudioList.value.length = 0
 

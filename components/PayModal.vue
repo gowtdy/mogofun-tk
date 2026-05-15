@@ -163,7 +163,7 @@ const handleUpgradeClick = () => {
     trackAction({
       email: currentEmail.value,
       action: ActionType.PAYMODAL_UPGRADE,
-      domain: 'aivoicelab.net',
+      domain: config.domain,
       modelcat: "paymodal",
       modelname: "paymodal",
       uid: currentUid.value

@@ -14,6 +14,8 @@ export const config = {
     cdnHost: 'https://cdn.mogofun.com',
     apiHost: 'https://api.mogofun.com',
     localHost: 'http://localhost:3000',
+    logoImage: '/img/mogofun_logo.svg',
+    wordImage: '/img/mogofun_word.svg',
     ogImage: '/img/mogofun-fbtw.webp',
     twitterImage: '/img/mogofun-tw.webp'
   }

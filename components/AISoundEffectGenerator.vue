@@ -1,6 +1,6 @@
 <template>
   <div class="bg-white rounded-2xl border border-gray-100 shadow-sm p-6 mb-12" :class="$attrs.class">
-    <p class="text-gray-500 text-base mb-4">{{ $t('soundeffect.generator_title') }}</p>
+    <p class="text-gray-500 text-base mb-4">{{ $t('sound-effect.generator_title') }}</p>
     
     <!-- 标签示例 -->
     <div class="flex flex-wrap gap-2 mb-6">
@@ -24,7 +24,7 @@
         class="w-full p-4 bg-white border border-gray-200 rounded-xl resize-none focus:ring-2 focus:ring-[#F1AC63]/20 focus:border-[#F1AC63] outline-none transition-all duration-200 text-gray-800 placeholder-gray-700"
         maxlength="100"
         rows="3"
-        :placeholder="$t('soundeffect.input_placeholder')"
+        :placeholder="$t('sound-effect.input_placeholder')"
       ></textarea>
       <div class="absolute right-4 bottom-4 text-xs text-gray-700">
         {{ description.length }}/100
@@ -38,7 +38,7 @@
       class="max-w-md mx-auto py-3 px-8 rounded-xl bg-gradient-to-r from-[#F1AC63] to-[#D76FF4] text-white font-medium flex items-center justify-center hover:opacity-90 transition-all duration-200 shadow-sm"
     >
       <svg v-if="isGenerating" class="animate-spin mr-2 w-5 h-5" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M12,4V2A10,10 0 0,0 2,12H4A8,8 0 0,1 12,4Z"/></svg>
-      <span>{{ isGenerating ? $t('soundeffect.generating_button') : $t('soundeffect.generate_button') }}</span>
+      <span>{{ isGenerating ? $t('sound-effect.generating_button') : $t('sound-effect.generate_button') }}</span>
     </button>
 
     <!-- 音频播放器 -->

@@ -204,7 +204,6 @@
   import { ref, computed, watchEffect, onErrorCaptured, onMounted, onUnmounted, onActivated, watch } from 'vue'
   import { useRoute, useRouter } from 'vue-router'
   import { config } from '~/config/config'
-  import AICoverConverter from '~/components/AICoverConverter.vue'
   import { useI18n } from 'vue-i18n'
   import { useUserStore } from '~/store/user'
   import { useAuth } from '~/composables/useAuth'

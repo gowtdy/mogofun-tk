@@ -43,7 +43,7 @@
 <script setup lang="ts">
 import { ref, computed, onMounted, onUnmounted, onErrorCaptured } from 'vue'
 import { useToast } from 'vue-toastification/dist/index.mjs'
-import { config } from '~/config/config'
+import { usePageSeoMeta } from '~/composables/usePageSeoMeta'
 import AISoundEffectGenerator from '@/components/AISoundEffectGenerator.vue'
 import SoundEffectSamplesSection, { type SoundEffectSampleItem } from '@/components/SoundEffectSamplesSection.vue'
 import AdvantagesSection from '~/components/AdvantagesSection.vue'
@@ -65,8 +65,6 @@ import {
   UserGroupIcon,
   BeakerIcon
 } from '@heroicons/vue/24/outline'
-
-const host = config.host
 
 const props = defineProps<{
   /** 与翻译 JSON 根键、路由 path、SEO slug 一致，如 sound-effect */
@@ -100,45 +98,20 @@ const advantagesTitle = computed(() => t(`${pageNs.value}.advantages.title`))
 const faqsTitle = computed(() => t(`${pageNs.value}.faqs.title`))
 
 // SEO Meta Tags（随语言与 pageKey 绑定更新）
-useHead(
-  computed(() => {
-    void i18nLocale.value
-    const slug = pageNs.value
+usePageSeoMeta({
+  locale: lang,
+  pathSlug: pageNs,
+  watchDeps: i18nLocale,
+  prefetchHost: true,
+  getContent: () => {
     const p = pageNs.value
     return {
-      htmlAttrs: {
-        lang: lang.value
-      },
-      title: t(`${p}.seo.title`),
-      meta: [
-        { name: 'description', content: t(`${p}.seo.description`) },
-        { name: 'keywords', content: t(`${p}.seo.keywords`) },
-        { property: 'og:type', content: 'website' },
-        { property: 'og:title', content: t(`${p}.seo.title`) },
-        { property: 'og:description', content: t(`${p}.seo.description`) },
-        { property: 'og:url', content: 'https://aivoicelab.net' },
-        { property: 'og:image', content: 'https://cdn.aivoicelab.net/img/aivoicelab-fbtw.webp' },
-        { name: 'twitter:card', content: 'summary_large_image' },
-        { name: 'twitter:title', content: t(`${p}.seo.title`) },
-        { name: 'twitter:description', content: t(`${p}.seo.description`) },
-        { name: 'twitter:site', content: 'https://aivoicelab.net' },
-        { name: 'twitter:image', content: 'https://cdn.aivoicelab.net/img/aivoicelab-fbtw.webp' }
-      ],
-      link: [
-        { rel: 'preconnect', href: host },
-        { rel: 'dns-prefetch', href: host },
-        { rel: 'canonical', href: `${host}/${lang.value}/${slug}` },
-        { rel: 'alternate', hreflang: 'x-default', href: `${host}/en/${slug}` },
-        { rel: 'alternate', hreflang: 'en', href: `${host}/en/${slug}` },
-        { rel: 'alternate', hreflang: 'zh', href: `${host}/zh/${slug}` },
-        { rel: 'alternate', hreflang: 'zh-tw', href: `${host}/zh-tw/${slug}` },
-        { rel: 'alternate', hreflang: 'es', href: `${host}/es/${slug}` },
-        { rel: 'alternate', hreflang: 'ja', href: `${host}/ja/${slug}` },
-        { rel: 'alternate', hreflang: 'fr', href: `${host}/fr/${slug}` }
-      ]
+      title: t(`${p}.meta.title`),
+      description: t(`${p}.meta.description`),
+      keywords: t(`${p}.meta.keywords`)
     }
-  })
-)
+  }
+})
 
 const currentPlaying = ref('')
 const audio = ref<HTMLAudioElement | null>(null)

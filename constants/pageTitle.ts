@@ -98,44 +98,6 @@ export const ALL_PAGE_TITLES: PageTitles = {
         }
       ]
     },
-    'vocal-isolator': {
-      en: [
-        {
-          title: 'Best Vocal Isolator Online',
-          subtitle: 'Instantly extract vocals from a song, music, audio or video, anytime, anywhere'
-        }
-      ],
-      zh: [
-        {
-          title: '最佳在线人声分离工具',
-          subtitle: '从任何音乐、音频和视频中即时提取人声'
-        }
-      ],
-      'zh-tw': [
-        {
-          title: '最佳線上人聲分離工具',
-          subtitle: '從任何音樂、音頻和視頻中即時提取人聲'
-        }
-      ],
-      'ja': [
-        {
-          title: '最高のオンラインボーカル分離ツール',
-          subtitle: '音楽、オーディオ、ビデオから即座にボーカルを抽出'
-        }
-      ],
-      'fr': [
-        {
-          title: 'Meilleur Séparateur Vocal en Ligne',
-          subtitle: 'Extrayez instantanément les voix de toute musique, audio et vidéo'
-        }
-      ],
-      'es': [
-        {
-          title: 'Mejor Separador de Voces en Línea',
-          subtitle: 'Extrae voces instantáneamente de cualquier música, audio y video'
-        }
-      ]
-    },
     'vocal-remover': {
       en: [
         {

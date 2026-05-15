@@ -12,7 +12,7 @@ const CHARACTERS = [
 
 // 功能页面列表
 const FEATURE_PAGES = [
-  'sound-effect'
+  'sounds-effect'
 ] as const;
 
 // 工具页面列表

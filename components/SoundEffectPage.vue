@@ -11,7 +11,7 @@
     <!-- 音效展示区域 -->
     <div class="max-w-6xl mx-auto min-h-screen">
       <!-- AI音效生成器区域 -->
-      <AISoundEffectGenerator class="mt-6" />
+      <AISoundEffectGenerator class="mt-6" :page-key="pageKey" />
 
       <SoundEffectSamplesSection
         :current-playing="currentPlaying"
@@ -91,8 +91,8 @@ const pageHeading = computed(() => {
   void i18nLocale.value
   const k = pageNs.value
   return {
-    title: t(`${k}.title`),
-    subtitle: t(`${k}.subtitle`)
+    title: t(`${k}.hero.title`),
+    subtitle: t(`${k}.hero.subtitle`)
   }
 })
 

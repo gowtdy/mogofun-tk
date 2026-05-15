@@ -13,5 +13,7 @@ export const config = {
     host: 'https://mogofun.com',
     cdnHost: 'https://cdn.mogofun.com',
     apiHost: 'https://api.mogofun.com',
-    localHost: 'http://localhost:3000'
+    localHost: 'http://localhost:3000',
+    ogImage: '/img/mogofun-fbtw.webp',
+    twitterImage: '/img/mogofun-tw.webp'
   }

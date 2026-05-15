@@ -17,7 +17,9 @@ export const translationFilesConfig: TranslationFileConfig[] = [
   { file: 'sound-effects.json', group: 'tools' },
   { file: 'vocal-isolator.json', group: 'tools' },
   { file: 'audio-extractor.json', group: 'tools' },
-  { file: 'vocal-remover.json', group: 'tools' }
+  { file: 'vocal-remover.json', group: 'tools' },
+  { file: 'pricing.json', group: 'tools' },
+  { file: 'settings.json', group: 'tools' }
 ];
 
 // 导出翻译文件列表（用于 i18n 配置）

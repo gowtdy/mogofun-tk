@@ -1,0 +1,84 @@
+{
+  "pricing": {
+    "title": "🚀 Choose Your Plan & Power Up Your Content",
+    "period": {
+      "monthly": "Monthly",
+      "annually": "Annually",
+      "save": "Save 40%"
+    },
+    "renew": "Renews at",
+    "after": "after the first month",
+    "monthbilled": "billed monthly",
+    "yearbilled": "billed annually",
+    "freebilled": "Free to try",
+    "loading": "PROCESSING...",
+    "plans": {
+      "pro": {
+        "name": "Pro",
+        "period": "/month",
+        "features": {
+          "items": [
+            "Able to use all voices",
+            "1000000 characters per month limit (approximately 30hours of audio)",
+            "600 AI Sound effect generations per month",
+            "200 vocal isolator per month",
+            "200 vocal remover per month",
+            "200 audio extractor per month",
+            "Unlimited Downloads",
+            "48h support by email"
+          ]
+        }
+      },
+      "advance": {
+        "name": "Advance",
+        "period": "/month",
+        "features": {
+          "items": [
+            "Able to use all voices",
+            "400000 characters per month limit(approximately 12hours of audio)",
+            "400 AI Sound effect generations per month",
+            "90 vocal isolator per month",
+            "90 vocal remover per month",
+            "90 audio extractor per month",
+            "Unlimited Downloads",
+            "48h support by email"
+          ]
+        }
+      },
+      "starter": {
+        "name": "Starter",
+        "period": "/month",
+        "features": {
+          "items": [
+            "Able to use all voices",
+            "100000 characters per month limit(approximately 3hours of audio)",
+            "200 AI Sound effect generations per month",
+            "30 vocal isolator per month",
+            "30 vocal remover per month",
+            "30 audio extractor per month",
+            "Unlimited Downloads",
+            "72h support by email"
+          ]
+        }
+      },
+      "free": {
+        "name": "Free",
+        "period": "/month",
+        "features": {
+          "items": [
+            "5 times text-to-speech per day limit",
+            "20 times text-to-speech per month limit",
+            "4 times AI Cover per day limit",
+            "10 times AI Cover per month limit"
+          ]
+        }
+      }
+    },
+    "cta": "GET STARTED",
+    "popular": "Popular",
+    "trybnt": "Try Now",
+    "errors": {
+      "buttonTypeRequired": "invalid invoke, Button type is required"
+    }
+  }
+}

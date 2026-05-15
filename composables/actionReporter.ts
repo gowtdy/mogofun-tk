@@ -92,7 +92,7 @@ export const useActionReporter = () => {
   const trackAction = async ({
     email,
     action,
-    domain = 'aivoicelab.net',
+    domain = config.domain,
     modelcat = '',
     modelname = '',
     uid = '',
@@ -152,14 +152,14 @@ export const useActionReporter = () => {
    * @param {string} params.email - 用户邮箱
    * @param {string} params.uid - 用户ID
    * @param {ActionType} params.action - 行为类型，默认为 'download'
-   * @param {string} params.domain - 域名，默认为 'aivoicelab.net'
+   * @param {string} params.domain - 域名，默认为 'config.domain'
    * @returns {Promise<number>} 行为次数
    */
   const actionCounts = async ({
     email = '',
     uid = '',
     action = ActionType.TTS_DOWNLOAD,
-    domain = 'aivoicelab.net'
+    domain = config.domain
   }: {
     email?: string,
     uid?: string,

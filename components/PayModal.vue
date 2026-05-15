@@ -10,8 +10,8 @@
 
       <!-- Logo -->
       <div class="flex items-center justify-center mb-3 sm:mb-4">
-        <img :src="cdnHost + '/img/logo.svg'" alt="Free AI Cover Logo" width="40" height="35" class="h-7 sm:h-8" loading="lazy">
-        <img :src="cdnHost + '/img/title.svg'" alt="Free AI Voice Over Logo word" width="90" height="20" class="h-7 sm:h-8" loading="lazy">
+        <img :src="cdnHost + logoImage" alt="Free AI Cover Logo" width="40" height="35" class="h-7 sm:h-8" loading="lazy">
+        <img :src="cdnHost + wordImage" alt="Free AI Voice Over Logo word" width="90" height="20" class="h-7 sm:h-8" loading="lazy">
       </div>
 
       <h2 class="text-base sm:text-lg font-bold text-center mb-3 sm:mb-4 px-3 text-gray-800">{{ $t('paymodal.title') }}</h2>
@@ -38,7 +38,7 @@
       <div v-if="!quotaExhaustedComputed" class="rounded-xl p-3 sm:p-4 mb-3 sm:mb-4 text-center relative overflow-hidden bg-orange-50">
         <div class="text-base sm:text-xl font-extrabold text-orange-500 relative z-10">
           {{ $t('paymodal.lowas') }} 
-          <span class="text-red-500">$3.9</span> 
+          <span class="text-red-500">$4.9</span> 
           <span class="text-xs text-gray-500 font-medium">{{ $t('paymodal.period') }}</span>
         </div>
       </div>
@@ -105,6 +105,8 @@ import { useActionReporter, ActionType } from '~/composables/actionReporter'
 import { useErrorReporter } from '~/composables/errorReporter'
 
 const cdnHost = config.cdnHost
+const logoImage = config.logoImage
+const wordImage = config.wordImage
 const { t, tm, rt } = useI18n()
 const event = useRequestEvent()
 const lang = useState('lang', () => event?.context?.lang || 'en')
@@ -219,7 +221,6 @@ const features = computed(() => {
 const getQuotaExhaustedMessage = () => {
   const quotaMessages = {
     'tts': t('paymodal.quotaExhausted.tts'),
-    'cover': t('paymodal.quotaExhausted.cover'),
     'sound': t('paymodal.quotaExhausted.sound'),
     'vocalisolate': t('paymodal.quotaExhausted.vocalisolate'),
     'vocalremover': t('paymodal.quotaExhausted.vocalremover'),

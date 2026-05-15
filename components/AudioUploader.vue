@@ -3,7 +3,7 @@
     <!-- 上传中或未上传状态：显示上传组件和进度 -->
     <div v-if="!uploadedFile?.name || isUploading" class="h-full flex flex-col items-center justify-center text-center">
       <BaseFileUploader ref="baseFileUploaderRef" :max-size="20 * 1024 * 1024" :accept="acceptTypes" :action="uploadAction"
-        :media-type="props.type" @success="onUploadSuccess" @error="onUploadError" @reset="onReset"
+        :media-type="props.type" :message-namespace="messageNamespace" @success="onUploadSuccess" @error="onUploadError" @reset="onReset"
         @file-change="onFileChange" @uploading="onUploading" role="region" aria-label="Audio upload area">
         <h3 class="text-base font-medium mb-2">{{ type === 'video' ? t('comm.videoUpload.title') :
           t('comm.audioUpload.title') }}</h3>
@@ -67,10 +67,13 @@ interface Props {
   modelName?: string | null;
   type: 'audio' | 'video';
   actionType: Record<string, any>;
+  /** i18n root for chunked upload status messages */
+  messageNamespace?: string;
 }
 
 const props = withDefaults(defineProps<Props>(), {
-  modelName: ''
+  modelName: '',
+  messageNamespace: 'vocal-isolator'
 })
 
 const safeModelName = computed(() => props.modelName ?? '')

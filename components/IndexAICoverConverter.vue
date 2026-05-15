@@ -249,6 +249,7 @@ import { getCharacterPresets, VOICE_PRESETS } from '~/constants/voicePresets'
 
 const toast = useToast()
 const { t, rt, tm, locale } = useI18n()
+const domain = config.domain
 const host = config.host
 const cdnHost = config.cdnHost
 const apiHost = config.apiHost
@@ -775,77 +776,6 @@ const resetUpload = () => {
   uploadedAudioList.value.length = 0
 }
 
-// record audio
-const isRecording = ref(false)
-const mediaRecorder = ref(null)
-const audioChunks = ref([])
-// 删除未使用的 recordedAudioUrl
-// const recordedAudioUrl = ref(null) // 添加 recordedAudioUrl ref
-
-// toggle recording
-const toggleRecording = async () => {
-  if (!isRecording.value) {
-    try {
-      const stream = await navigator.mediaDevices.getUserMedia({ audio: true })
-      mediaRecorder.value = new MediaRecorder(stream)
-      audioChunks.value = []
-
-      mediaRecorder.value.ondataavailable = (event) => {
-        if (event.data.size > 0) {
-          audioChunks.value.push(event.data)
-        }
-      }
-
-      mediaRecorder.value.onstop = () => {
-        const audioBlob = new Blob(audioChunks.value, { type: 'audio/wav' })
-        // 创建录音文件并通过 AudioUploader 上传
-        const recordedFile = new File([audioBlob], 'recorded-audio.wav', { type: 'audio/wav' })
-        
-        // 通过 AudioUploader 的 ref 访问其内部的 BaseFileUploader 来上传文件
-        if (audioUploaderRef.value) {
-          const baseFileUploader = audioUploaderRef.value.$refs?.baseFileUploaderRef
-          if (baseFileUploader) {
-            // 触发 file-change 事件
-            handleFileChange(recordedFile)
-            // 通过 BaseFileUploader 的内部方法上传
-            if (baseFileUploader.handleFileUpload) {
-              const event = { target: { files: [recordedFile] } }
-              baseFileUploader.handleFileUpload(event)
-            }
-          }
-        }
-        
-        trackAction({
-          email: userEmail.value,
-          action: ActionType.RECORD_AUDIO,
-          domain: 'aivoicelab.net',
-          modelcat: selectedCategory.value,
-          modelname: selectedModel.value,
-          uid: uid.value
-        })
-      }
-      mediaRecorder.value.start()
-      isRecording.value = true
-    } catch (err) {
-      const msg = t('ai_cover.converter.errors.microphoneAccess')
-      toast.error(msg, {
-        position: 'top-right',
-        duration: 3000
-      })
-      reportError(err, `Recording audio failed - pageUrl: ${pageUrl.value}, msg: ${msg}`, uid.value, userEmail.value)
-    }
-  } else {
-    try {
-      mediaRecorder.value.stop()
-      // 停止所有音轨
-      mediaRecorder.value.stream.getTracks().forEach(track => track.stop())
-      isRecording.value = false
-    } catch (err) {
-      reportError(err, `Record audio stop failed - pageUrl: ${pageUrl.value}`, uid.value, userEmail.value)
-    }
-  }
-}
-
 // 新增 tts 相关的响应式变量
 const ttsText = ref('')
 
@@ -927,76 +857,6 @@ const handlePresetClick = (preset) => {
   }
 }
 
-// 添加子标签页配置
-const coverSubTabs = [
-  { id: 'sample', name: 'Sample' },
-  { id: 'upload', name: 'Upload' },
-  { id: 'record', name: 'Record' }
-]
-
-const handleSubTabChange = (subTabid) => {
-  // 立即更新关键状态
-  currentSubTab.value = subTabid
-
-  // 使用 scheduler.postTask 批处理其他状态更新
-  if (typeof scheduler !== 'undefined' && scheduler.postTask) {
-    scheduler.postTask(() => {
-      convertedAudio.value = null
-      isConverting.value = false
-
-      // 根据不同的子标签页进行相应的状态重置
-      switch (subTabid) {
-        case 'sample':
-          selectedSample.value = sampleAudios.value[0]
-          break
-        case 'upload':
-          resetUpload()
-          break
-        case 'record':
-          if (isRecording.value) {
-            toggleRecording()
-          }
-          resetUpload()
-          break
-      }
-
-      // 进一步延迟音频操作
-      scheduler.postTask(() => {
-        if (audioPlayer.isPlaying.value) {
-          audioPlayer.pauseAudio()
-        }
-      }, { priority: 'background' })
-    }, { priority: 'user-blocking' })
-  } else {
-    // 降级处理
-    requestAnimationFrame(() => {
-      convertedAudio.value = null
-      isConverting.value = false
-
-      switch (subTabid) {
-        case 'sample':
-          selectedSample.value = sampleAudios.value[0]
-          break
-        case 'upload':
-          resetUpload()
-          break
-        case 'record':
-          if (isRecording.value) {
-            toggleRecording()
-          }
-          resetUpload()
-          break
-      }
-
-      requestAnimationFrame(() => {
-        if (audioPlayer.isPlaying.value) {
-          audioPlayer.pauseAudio()
-        }
-      })
-    })
-  }
-}
-
 // 定义响应式文本长度限制
 const MAX_TEXT_LENGTH = ref(500)
 
@@ -1055,7 +915,7 @@ const handleTTS = async () => {
         t: 1,
         tstamp,
         snature,
-        domain: 'aivoicelab.net'
+        domain: domain
       }
     })
 
@@ -1078,7 +938,7 @@ const handleTTS = async () => {
       trackAction({
         email: userEmail.value,
         action: ActionType.TTS_GENERATE,
-        domain: 'aivoicelab.net',
+        domain: domain,
         modelcat: selectedCategory.value,
         modelname: selectedModel.value,
         uid: uid.value
@@ -1104,7 +964,6 @@ const handleTTS = async () => {
 
 // 修改 handleConvert 函数，确保生成后播放的是最新音频
 const handleConvert = async () => {
-
   if (!selectedModel.value || !selectedCategory.value) {
     toast.error(t('ai_cover.converter.model.selectError'), {
       position: 'top-right',
@@ -1133,7 +992,7 @@ const handleConvert = async () => {
       email: userEmail.value,
       uid: uid.value,
       action: ActionType.TTS_GENERATE,
-      domain: 'aivoicelab.net'
+      domain: domain
     })
     if (!isLoggedIn.value) {
       // 当未登录时，当天生成4次，当月生成8次时，需要登录
@@ -1142,7 +1001,7 @@ const handleConvert = async () => {
         trackAction({
           email: userEmail.value,
           action: ActionType.TTS_GENPOP_LOGIN,
-          domain: 'aivoicelab.net',
+          domain: domain,
           modelcat: selectedCategory.value,
           modelname: selectedModel.value,
           uid: uid.value
@@ -1169,7 +1028,7 @@ const handleConvert = async () => {
           trackAction({
             email: userEmail.value,
             action: ActionType.TTS_GENPOP_SUBSCRIPT,
-            domain: 'aivoicelab.net',
+            domain: domain,
             modelcat: selectedCategory.value,
             modelname: selectedModel.value,
             uid: uid.value
@@ -1196,7 +1055,7 @@ const handleConvert = async () => {
       trackAction({
         email: userEmail.value,
         action: action,
-        domain: 'aivoicelab.net',
+        domain: domain,
         modelcat: selectedCategory.value,
         modelname: selectedModel.value,
         uid: uid.value
@@ -1254,7 +1113,7 @@ const handleDownload = async () => {
     trackAction({
       email: userEmail.value,
       action: action,
-      domain: 'aivoicelab.net',
+      domain: domain,
       modelcat: selectedCategory.value,
       modelname: selectedModel.value,
       uid: uid.value
@@ -1270,7 +1129,7 @@ const handleDownload = async () => {
         trackAction({
           email: userEmail.value,
           action: ActionType.COVER_SONG_DOWNPOP_SUBSCRIPT,
-          domain: 'aivoicelab.net',
+          domain: domain,
           modelcat: selectedCategory.value,
           modelname: selectedModel.value,
           uid: uid.value
@@ -1281,7 +1140,7 @@ const handleDownload = async () => {
         email: userEmail.value,
         uid: uid.value,
         action: ActionType.TTS_DOWNLOAD,
-        domain: 'aivoicelab.net',
+        domain: domain,
       })
       // tts下载当天免费1次，当月免费2次
       if (dayCount >= 1 || monthCount >= 2) {
@@ -1289,7 +1148,7 @@ const handleDownload = async () => {
         trackAction({
           email: userEmail.value,
           action: ActionType.TTS_DOWNPOP_SUBSCRIPT,
-          domain: 'aivoicelab.net',
+          domain: domain,
           modelcat: selectedCategory.value,
           modelname: selectedModel.value,
           uid: uid.value
@@ -1317,7 +1176,7 @@ const handleDownload = async () => {
     await trackAction({
       email: userEmail.value,
       action: action,
-      domain: 'aivoicelab.net',
+      domain: domain,
       modelcat: selectedCategory.value,
       modelname: selectedModel.value,
       uid: uid.value
@@ -1466,7 +1325,6 @@ const handleUnhandledRejection = (event) => {
       currentSubTab: currentSubTab.value,
       isConverting: isConverting.value,
       isUploading: isUploading.value,
-      isRecording: isRecording.value
     }
   }
 
@@ -1494,7 +1352,6 @@ const handleError = (event) => {
       currentSubTab: currentSubTab.value,
       isConverting: isConverting.value,
       isUploading: isUploading.value,
-      isRecording: isRecording.value
     }
   }
 
@@ -1525,19 +1382,6 @@ onUnmounted(() => {
       uploadedAudioList.value.length = 0
     }
 
-    // 停止所有正在进行的操作
-    if (mediaRecorder.value) {
-      if (isRecording.value) {
-        try {
-          mediaRecorder.value.stop()
-          mediaRecorder.value.stream?.getTracks().forEach(track => track.stop())
-        } catch (err) {
-          reportError(err, `Stop media recorder failed - pageUrl: ${pageUrl.value}`, uid.value, userEmail.value)
-        }
-      }
-      mediaRecorder.value = null
-    }
-
     // 清理事件监听器
     if (process.client) {
       window.removeEventListener('unhandledrejection', handleUnhandledRejection)
@@ -1547,10 +1391,8 @@ onUnmounted(() => {
     // 重置所有状态
     isConverting.value = false
     isUploading.value = false
-    isRecording.value = false
     convertedAudio.value = null
     uploadedFile.value = null
-    audioChunks.value = []
     audioList.value.length = 0
     uploadedAudioList.value.length = 0
 

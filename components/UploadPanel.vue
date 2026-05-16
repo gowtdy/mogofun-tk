@@ -55,7 +55,7 @@
             </path>
           </svg>
           <ScissorsIcon v-else class="h-5 w-5 text-white" />
-          <span>{{ isProcessing ? msg('messages.processing') : processButtonText }}</span>
+          <span>{{ isProcessing ? t(`separation_common.messages.processing_${jobVariant}`) : processButtonText }}</span>
         </button>
         <!-- button @click="handleUploadReset"
           class="flex items-center justify-center gap-2 px-6 py-2 bg-gradient-to-r from-[#F1AC63] to-[#D76FF4] text-white rounded-full shadow hover:opacity-90 transition duration-300"
@@ -64,7 +64,7 @@
             <path stroke-linecap="round" stroke-linejoin="round"
               d="M4 4v5h.582M20 20v-5h-.581M5.635 19.364A9 9 0 104.582 9.582" />
           </svg>
-          <span>{{ msg('upload.reset') }}</span>
+          <span>{{ t('comm.upload.reset') }}</span>
         </button -->
       </template>
       <div v-else class="h-[50px]"><!-- placeholder --></div>
@@ -110,8 +110,6 @@ const props = defineProps({
   modelName: { type: String, default: 'upload' },
   mediaType: { type: String, default: 'audio' },
   apiEndpoint: { type: String, required: true },
-  /** i18n root key for page-specific messages (e.g. messages.processing) */
-  messageNamespace: { type: String, default: 'vocal-isolator' },
   /** slug for analytics modelcat/modelname (hyphenated path segment) */
   telemetryModelSlug: { type: String, default: 'vocal-isolator' },
   /** which separation_common success/failed_* variant to use for result toasts */
@@ -162,7 +160,6 @@ const { reportError } = useErrorReporter()
 const { trackAction, actionCounts } = useActionReporter()
 const isUploading = ref(false)
 const { t, locale } = useI18n()
-const msg = (suffix: string) => t(`${props.messageNamespace}.${suffix}`)
 const blobUrl = ref('')
 const isDragOver = ref(false)
 
@@ -284,7 +281,7 @@ const handleLoginSuccess = () => {
 // Process audio separation
 const processAudio = async () => {
   if (!uploadedFile.value) {
-    toast.error(t('comm.messages.upload_first'), { position: 'top-right', duration: 3000 })
+    toast.error(t(`separation_common.pages.${props.telemetryModelSlug}.messages.upload_first`), { position: 'top-right', duration: 3000 })
     return
   }
   isProcessing.value = true
@@ -408,7 +405,7 @@ const processAudio = async () => {
       toast.success(t(`separation_common.messages.success_${props.jobVariant}`), { position: 'top-right', duration: 2000 })
     } else if (result.ret === 2) {
       showPayModal.value = true
-      //toast.error(msg('messages.quota_exhausted'), { position: 'top-right', duration: 3000 })
+      //toast.error(t('separation_common.messages.quota_exhausted'), { position: 'top-right', duration: 3000 })
       trackAction({
         email: userEmail.value,
         action: props.actionType.subscript,

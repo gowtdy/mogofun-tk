@@ -15,12 +15,12 @@
         {
           "title": "Professional Vocal Remover",
           "description": "Experience studio-quality voice removal with our advanced AI technology. Our tool precisely removes lead vocals from songs, delivering crystal-clear instrumental tracks perfect for karaoke, remixing, and music production.",
-          "icon": "SparklesIcon"
+          "icon": "MusicalNoteI"
         },
         {
           "title": "Advanced Audio Processing",
           "description": "Our AI lead vocal remover employs cutting-edge algorithms to maintain instrumental clarity while effectively removing voices. The result is a professional-grade instrumental track that preserves the original music characteristics.",
-          "icon": "MusicalNoteIcon"
+          "icon": "WrenchScrewdriverIcon"
         },
         {
           "title": "Real-time Processing",
@@ -40,7 +40,7 @@
         {
           "title": "Multi-format Support",
           "description": "Our AI lead vocal remover supports various audio formats including MP3, WAV, and M4A. Process your audio files regardless of their format, making it versatile for all your voice removal needs.",
-          "icon": "WrenchScrewdriverIcon"
+          "icon": "AdjustmentsI"
         }
       ]
     },

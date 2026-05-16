@@ -1,7 +1,6 @@
 <template>
   <SeparationPage
     page-slug="audio-extractor"
-    hero-emoji="🎵"
     job-variant="extraction"
     :upload="audioExtractorUpload"
     :advantage-icons="audioExtractorAdvantageIcons"

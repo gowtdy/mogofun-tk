@@ -71,6 +71,7 @@ export interface SeparationUploadConfig {
 const props = withDefaults(
   defineProps<{
     pageSlug: string
+    commonPageSlug?: string
     upload: SeparationUploadConfig
     advantageIcons: Component[]
     jobVariant?: 'isolation' | 'removal' | 'extraction'
@@ -79,8 +80,9 @@ const props = withDefaults(
 )
 
 const { t, tm, locale: i18nLocale } = useI18n()
+const resolvedCommonSlug = computed(() => props.commonPageSlug ?? props.pageSlug)
 const pageCommon = (key: string) =>
-  t(`separation_common.pages.${props.pageSlug}.${key}`)
+  t(`separation_common.pages.${resolvedCommonSlug.value}.${key}`)
 const { getOrCreateUid } = useAuth()
 const uid = ref(getOrCreateUid())
 const userStore = useUserStore()

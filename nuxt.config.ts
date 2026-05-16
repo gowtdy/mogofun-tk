@@ -4,6 +4,7 @@ import { resolve } from 'path';
 import appConfig from './config/appConfig';
 import { i18nConfig, getTranslationFileGroup } from './config/i18nConfig';
 import routeRules from './config/routeRules';
+import { applyPageRouteOverrides } from './config/pageRoutes';
 
 // 定义输出目录配置
 const outputDir =
@@ -71,6 +72,11 @@ if (process.env.NODE_ENV !== 'production' && !process.argv.includes('build')) {
 
 export default defineNuxtConfig({
   compatibilityDate: '2026-05-10',
+  hooks: {
+    'pages:extend'(pages) {
+      applyPageRouteOverrides(pages)
+    }
+  },
   ssr: true,
   nitro: {
     compressPublicAssets: true,

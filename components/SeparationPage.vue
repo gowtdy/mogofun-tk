@@ -25,6 +25,7 @@
       :process-button-text="t(`${pageSlug}.process_button`)"
       :message-namespace="pageSlug"
       :telemetry-model-slug="pageSlug"
+      :job-variant="jobVariant"
       :media-type="upload.mediaType"
       :model-category="upload.modelCategory"
       :model-name="upload.modelName"
@@ -74,8 +75,9 @@ const props = withDefaults(
     upload: SeparationUploadConfig
     advantageIcons: Component[]
     heroEmoji?: string
+    jobVariant?: 'isolation' | 'removal' | 'extraction'
   }>(),
-  { heroEmoji: '🎤' }
+  { heroEmoji: '🎤', jobVariant: 'isolation' }
 )
 
 const { t, tm, locale: i18nLocale } = useI18n()

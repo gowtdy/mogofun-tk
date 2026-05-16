@@ -8,7 +8,7 @@
         style="visibility: visible; content-visibility: visible;"
         v-once
       >
-        {{ heroEmoji }} {{ pageHeading.title }}
+        {{ pageHeading.title }}
       </h1>
       <h2
         class="text-gray-600 font-medium text-xl lcp-title will-change-auto contain-content"
@@ -74,10 +74,9 @@ const props = withDefaults(
     pageSlug: string
     upload: SeparationUploadConfig
     advantageIcons: Component[]
-    heroEmoji?: string
     jobVariant?: 'isolation' | 'removal' | 'extraction'
   }>(),
-  { heroEmoji: '🎤', jobVariant: 'isolation' }
+  { jobVariant: 'isolation' }
 )
 
 const { t, tm, locale: i18nLocale } = useI18n()

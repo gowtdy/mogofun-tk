@@ -233,6 +233,29 @@
     }
   },
   "separation_common": {
+    "pages": {
+      "vocal-isolator": {
+        "result_title": "Vocal",
+        "process_button": "Start Separation",
+        "messages": {
+          "upload_first": "Please upload an audio file first"
+        }
+      },
+      "audio-extractor": {
+        "result_title": "Extracted Audio",
+        "process_button": "Extract Audio",
+        "messages": {
+          "upload_first": "Please upload a video file first"
+        }
+      },
+      "vocal-remover": {
+        "result_title": "Instrumental",
+        "process_button": "Remove Vocals",
+        "messages": {
+          "upload_first": "Please upload an audio file first"
+        }
+      }
+    },
     "messages": {
       "uploading": "Uploading...",
       "upload_failed": "Upload failed, please try again later",
@@ -246,7 +269,16 @@
       "success_removal": "Vocal removal succeeded!",
       "failed_removal": "Vocal removal failed, please try again",
       "success_extraction": "Audio extraction succeeded!",
-      "failed_extraction": "Extraction failed, please try again"
+      "failed_extraction": "Extraction failed, please try again",
+      "system_initializing": "System is initializing, please try again later",
+      "quota_exhausted": "Free quota exhausted, please upgrade to premium",
+      "http_error": "HTTP Error: {status}",
+      "network_error": "Network error",
+      "timeout": "Request timed out",
+      "upload_aborted": "Upload aborted",
+      "processing_isolation": "Processing...",
+      "processing_removal": "Processing...",
+      "processing_extraction": "Extracting..."
     }
   },
   "friends": {

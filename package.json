@@ -7,8 +7,7 @@
     "dev": "cross-env NODE_OPTIONS= nuxt dev --no-fork",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
-    "postinstall": "nuxt prepare",
-    "sync-cache-rules": "node scripts/sync-cache-rules.js"
+    "postinstall": "nuxt prepare"
   },
   "dependencies": {
     "@heroicons/vue": "^2.2.0",

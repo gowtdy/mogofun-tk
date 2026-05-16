@@ -232,6 +232,23 @@
             "cooking": "Cooking"
     }
   },
+  "separation_common": {
+    "messages": {
+      "uploading": "Uploading...",
+      "upload_failed": "Upload failed, please try again later",
+      "parse_failed": "Response parsing failed",
+      "file_too_large": "File size exceeds the limit",
+      "file_type_not_supported": "File type not supported, please upload (MP3, WAV, M4A, FLAC, AAC, OGG, MP4, AVI, WMV, FLV, MKV, WEBM, MOV) files",
+      "server_busy": "Server is busy, please try again later",
+      "download_failed": "Download failed, please try again later",
+      "success_isolation": "Separation succeeded!",
+      "failed_isolation": "Separation failed, please try again",
+      "success_removal": "Vocal removal succeeded!",
+      "failed_removal": "Vocal removal failed, please try again",
+      "success_extraction": "Audio extraction succeeded!",
+      "failed_extraction": "Extraction failed, please try again"
+    }
+  },
   "friends": {
     "title": "Friends"
   }

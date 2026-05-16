@@ -1,7 +1,7 @@
 {
   "vocal-isolator": {
     "meta": {
-      "title": "Free Vocal Isolator - An AI Vocal Isolator tool | MoGoFun",
+      "title": "Free Vocal Isolator | AI Video",
       "description": "Instantly extract vocals from any music, audio and video with our free vocal isolator online - the best AI Vocal Isolator Tool for everyone.",
       "keywords": "vocal isolator, ai vocal isolator, isolate vocals, vocal isolation, isolated vocals"
     },
@@ -10,17 +10,17 @@
       "subtitle": "Instantly extract vocals from a song, music, audio or video, anytime, anywhere"
     },
     "advantages": {
-      "title": "Why Choose Our AI Vocal Isolator?",
+      "title": "Why Choose Our Best Vocal Isolator Online?",
       "items": [
         {
           "title": "Professional AI Vocal Isolation",
           "description": "Experience studio-quality vocal isolation with our advanced AI technology. Our vocal isolator tool precisely separates vocals from instrumentals, delivering crystal-clear results perfect for music production, karaoke, and audio remixing.",
-          "icon": "SparklesIcon"
+          "icon": "MusicalNoteI"
         },
         {
           "title": "Advanced Audio Processing",
           "description": "Our AI vocal isolator employs cutting-edge algorithms to maintain voice clarity while effectively removing background music. The result is a professional-grade isolated vocal track that preserves the original voice characteristics.",
-          "icon": "MusicalNoteIcon"
+          "icon": "WrenchScrewdriverIcon"
         },
         {
           "title": "Real-time Processing",
@@ -40,7 +40,7 @@
         {
           "title": "Multi-format Support",
           "description": "Our AI vocal isolator supports various audio formats including MP3, WAV, and M4A. Process your audio files regardless of their format, making it versatile for all your vocal isolation needs.",
-          "icon": "WrenchScrewdriverIcon"
+          "icon": "AdjustmentsI"
         }
       ]
     },

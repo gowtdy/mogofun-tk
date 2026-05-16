@@ -6,6 +6,12 @@ export type TranslationFileGroup = 'tools' | 'character' | 'celebrity'
 interface TranslationFileConfig {
   file: string; // 文件名（包含 .json 扩展名）
   group: TranslationFileGroup; // 所属分组
+  /** 对外 URL 的 normalized path（无语言前缀）。省略时默认 = file 去掉 .json */
+  route?: string;
+}
+
+function getConfigRoute(config: TranslationFileConfig): string {
+  return config.route ?? config.file.replace(/\.json$/, '');
 }
 
 // 翻译文件配置列表：每个文件都明确指定了所属分组
@@ -16,11 +22,17 @@ export const translationFilesConfig: TranslationFileConfig[] = [
   { file: 'about.json', group: 'tools' },
   { file: 'sounds-effect.json', group: 'tools' },
   { file: 'vocal-isolator.json', group: 'tools' },
+  { file: 'vocal/ai-splitter.json', group: 'tools', route: 'ai-splitter' },
   { file: 'audio-extractor.json', group: 'tools' },
   { file: 'vocal-remover.json', group: 'tools' },
   { file: 'pricing.json', group: 'tools' },
   { file: 'settings.json', group: 'tools' }
 ];
+
+/** 由 translationFilesConfig 自动生成：normalized route → locale file */
+export const routeToTranslationFile: Record<string, string> = Object.fromEntries(
+  translationFilesConfig.map((config) => [getConfigRoute(config), config.file])
+);
 
 // 导出翻译文件列表（用于 i18n 配置）
 export const translationFiles = translationFilesConfig.map(config => config.file);
@@ -75,10 +87,15 @@ export function getTranslationFileGroup(filePath: string): TranslationFileGroup 
 // 从 translationFilesConfig 自动生成路由到翻译文件组的映射表
 // 这样可以避免重复配置，统一管理
 const routeToGroupMap: Record<string, TranslationFileGroup> = Object.fromEntries(
-  translationFilesConfig.map(config => {
-    // 将文件路径（如 'role/ariana-grande-voice.json'）转换为路由路径（如 'role/ariana-grande-voice'）
-    const routePath = config.file.replace(/\.json$/, '');
-    return [routePath, config.group];
+  translationFilesConfig.flatMap((config) => {
+    const routePath = getConfigRoute(config);
+    const filePath = config.file.replace(/\.json$/, '');
+    return routePath === filePath
+      ? [[routePath, config.group]]
+      : [
+          [routePath, config.group],
+          [filePath, config.group]
+        ];
   })
 );
 
@@ -129,41 +146,13 @@ export const BASE_TRANSLATION_FILES: string[] = ['index.json', 'first-page.json'
  */
 export function getRequiredTranslationFiles(routePath: string): string[] {
   const normalizedPath = normalizeRoutePath(routePath);
-  const files: string[] = [];
-  
-  // 如果路径为空，返回空数组（基础文件由调用方显式处理）
-  if (!normalizedPath || normalizedPath === '') {
-    return files;
+
+  if (!normalizedPath) {
+    return [];
   }
-  
-  // 从 translationFilesConfig 中查找匹配的文件
-  // 先尝试精确匹配完整路径（如 'role/ariana-grande-voice' 匹配 'role/ariana-grande-voice.json'）
-  const exactMatch = translationFilesConfig.find(
-    config => config.file.replace(/\.json$/, '') === normalizedPath
-  );
-  if (exactMatch) {
-    files.push(exactMatch.file);
-    return files;
-  }
-  
-  // 如果完整路径不匹配，尝试匹配路径的最后一部分
-  // 例如：'role/ariana-grande-voice' 可能匹配 'ariana-grande-voice.json'（如果存在）
-  const pathParts = normalizedPath.split('/');
-  const lastPart = pathParts[pathParts.length - 1];
-  const lastPartMatch = translationFilesConfig.find(
-    config => {
-      const configPath = config.file.replace(/\.json$/, '');
-      const configFileName = configPath.split('/').pop();
-      return configFileName === lastPart;
-    }
-  );
-  if (lastPartMatch) {
-    files.push(lastPartMatch.file);
-    return files;
-  }
-  
-  // 如果没有找到匹配，返回空数组（基础文件由调用方显式处理）
-  return files;
+
+  const file = routeToTranslationFile[normalizedPath];
+  return file ? [file] : [];
 }
 
 /**

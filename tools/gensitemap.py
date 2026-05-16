@@ -262,7 +262,7 @@ def load_config_from_json(filename: str):
 
 def main():
     """主函数"""
-    base_url = 'https://aivoicelab.net'
+    base_url = 'https://mogofun.com'
     output_file = 'sitemap.xml'
     
     print("🔥 启动终极Sitemap生成器...")

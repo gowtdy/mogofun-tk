@@ -22,20 +22,11 @@
     "messages": {
       "upload_first": "Please upload an audio file first",
       "system_initializing": "System is initializing, please try again later",
-      "separation_success": "Separation succeeded!",
       "quota_exhausted": "Free quota exhausted, please upgrade to premium",
-      "separation_failed": "Separation failed, please try again",
-      "server_busy": "Server is busy, please try again later",
-      "download_failed": "Download failed, please try again later",
-      "upload_failed": "Upload failed, please try again later",
-      "file_too_large": "File size exceeds the limit",
-      "file_type_not_supported": "File type not supported, please upload (MP3, WAV, M4A, FLAC, AAC, OGG, MP4, AVI, WMV, FLV, MKV, WEBM, MOV) files",
-      "parse_failed": "Response parsing failed",
       "http_error": "HTTP Error: {status}",
       "network_error": "Network error",
       "timeout": "Request timed out",
       "upload_aborted": "Upload aborted",
-      "uploading": "Uploading...",
       "processing": "Processing..."
     },
     "advantages": {

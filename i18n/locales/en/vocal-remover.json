@@ -9,25 +9,6 @@
       "title": "Best AI Vocal Remover Online",
       "subtitle": "Instantly remove vocals from a song, music, audio or video, anytime, anywhere"
     },
-    "result_title": "Instrumental",
-    "process_button": "Remove Vocals",
-    "upload": {
-      "title": "Upload Audio",
-      "drag_drop": "Drag and drop your audio file here",
-      "formats": "Supports MP3, WAV, M4A, etc. (Max 10MB)",
-      "original_audio": "Original Audio",
-      "reset": "Reset"
-    },
-    "messages": {
-      "upload_first": "Please upload an audio file first",
-      "system_initializing": "System is initializing, please try again later",
-      "quota_exhausted": "Free quota exhausted, please upgrade to premium",
-      "http_error": "HTTP Error: {status}",
-      "network_error": "Network error",
-      "timeout": "Request timed out",
-      "upload_aborted": "Upload aborted",
-      "processing": "Processing..."
-    },
     "advantages": {
       "title": "Why Choose Our AI Vocal Remover?",
       "items": [

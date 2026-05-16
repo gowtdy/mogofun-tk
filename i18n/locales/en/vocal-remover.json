@@ -1,37 +1,13 @@
 {
-  "vocal_remover": {
-    "seo": {
+  "vocal-remover": {
+    "meta": {
       "title": "Vocal Remover: Free remove vocals from song, audio or video",
       "description": "Instantly remove vocals from any song, audio or video with our vocal remover tool. Create high-quality karaoke or instrumental tracks online with advanced AI.",
       "keywords": "vocal remover, remove vocals, AI vocal remover, AI lead vocals remover, remove vocals from song"
     },
-    "title": "Best AI Vocal Remover Online",
-    "subtitle": "Instantly remove vocals from a song, music, audio or video, anytime, anywhere",
-    "result_title": "Instrumental",
-    "process_button": "Remove Vocals",
-    "upload": {
-      "title": "Upload Audio",
-      "drag_drop": "Drag and drop your audio file here",
-      "formats": "Supports MP3, WAV, M4A, etc. (Max 10MB)",
-      "original_audio": "Original Audio",
-      "reset": "Reset"
-    },
-    "messages": {
-      "upload_first": "Please upload an audio file first",
-      "system_initializing": "System is initializing, please try again later",
-      "separation_success": "Vocal removal succeeded!",
-      "quota_exhausted": "Free quota exhausted, please upgrade to premium",
-      "separation_failed": "Vocal removal failed, please try again",
-      "server_busy": "Server is busy, please try again later",
-      "download_failed": "Download failed, please try again later",
-      "upload_failed": "Upload failed",
-      "file_too_large": "File size exceeds the limit",
-      "parse_failed": "Response parsing failed",
-      "http_error": "HTTP Error: {status}",
-      "network_error": "Network error",
-      "timeout": "Request timed out",
-      "upload_aborted": "Upload aborted",
-      "processing": "Processing..."
+    "hero": {
+      "title": "Best AI Vocal Remover Online",
+      "subtitle": "Instantly remove vocals from a song, music, audio or video, anytime, anywhere"
     },
     "advantages": {
       "title": "Why Choose Our AI Vocal Remover?",
@@ -39,12 +15,12 @@
         {
           "title": "Professional Vocal Remover",
           "description": "Experience studio-quality voice removal with our advanced AI technology. Our tool precisely removes lead vocals from songs, delivering crystal-clear instrumental tracks perfect for karaoke, remixing, and music production.",
-          "icon": "SparklesIcon"
+          "icon": "MusicalNoteI"
         },
         {
           "title": "Advanced Audio Processing",
           "description": "Our AI lead vocal remover employs cutting-edge algorithms to maintain instrumental clarity while effectively removing voices. The result is a professional-grade instrumental track that preserves the original music characteristics.",
-          "icon": "MusicalNoteIcon"
+          "icon": "WrenchScrewdriverIcon"
         },
         {
           "title": "Real-time Processing",
@@ -64,7 +40,7 @@
         {
           "title": "Multi-format Support",
           "description": "Our AI lead vocal remover supports various audio formats including MP3, WAV, and M4A. Process your audio files regardless of their format, making it versatile for all your voice removal needs.",
-          "icon": "WrenchScrewdriverIcon"
+          "icon": "AdjustmentsI"
         }
       ]
     },
@@ -94,4 +70,4 @@
       ]
     }
   }
-} 
+}

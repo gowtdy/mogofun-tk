@@ -1,37 +1,13 @@
 {
-  "audio_extractor": {
-    "seo": {
-      "title": "Free Audio Extractor: Extract Audio from Video | AIVoiceLab",
-      "description": "Free audio extractor tool to extract audio from video.Works for YouTube, TikTok, Instagram, and many more platforms.",
-      "keywords": "Audio Extractor, Extract Audio from video, get audio from video, extract sound from video"
+  "audio-extractor": {
+    "meta": {
+      "title": "Free Audio Extractor: Extract Audio from Video",
+      "keywords": "Audio Extractor, Extract Audio from video, get audio from video, extract sound from video",
+      "description": "Free audio extractor tool to extract audio from video. Works for YouTube, TikTok, Instagram, and many more platforms."
     },
-    "title": "Audio Extractor",
-    "subtitle": "Online audio extractor to extract audio from your uploaded video",
-    "result_title": "Extracted Audio",
-    "process_button": "Extract Audio",
-    "upload": {
-      "title": "Upload Video",
-      "drag_drop": "Drag and drop your video file here",
-      "formats": "Supports MP4, MOV, AVI, etc. (Max 10MB)",
-      "original_video": "Original Video",
-      "reset": "Reset"
-    },
-    "messages": {
-      "upload_first": "Please upload a video file first",
-      "system_initializing": "System is initializing, please try again later",
-      "extraction_success": "Audio extraction succeeded!",
-      "quota_exhausted": "Free quota exhausted, please upgrade to premium",
-      "extraction_failed": "Extraction failed, please try again",
-      "server_busy": "Server is busy, please try again later",
-      "download_failed": "Download failed, please try again later",
-      "upload_failed": "Upload failed",
-      "file_too_large": "File size exceeds the limit",
-      "parse_failed": "Response parsing failed",
-      "http_error": "HTTP Error: {status}",
-      "network_error": "Network error",
-      "timeout": "Request timed out",
-      "upload_aborted": "Upload aborted",
-      "processing": "Extracting..."
+    "hero": {
+      "title": "Audio Extractor",
+      "subtitle": "Online audio extractor to extract audio from your uploaded video"
     },
     "advantages": {
       "title": "Why Choose Our Professional Audio Extractor Tool?",
@@ -69,7 +45,7 @@
       ]
     },
     "faqs": {
-      "title": "Frequently Asked Questions About Our Audio Extractor",
+      "title": "About Our Audio Extractor",
       "items": [
         {
           "question": "What is an Audio Extractor and how does it work?",
@@ -94,4 +70,4 @@
       ]
     }
   }
-} 
+}

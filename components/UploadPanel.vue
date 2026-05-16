@@ -6,7 +6,8 @@
     <!-- Upload Area -->
     <div class="w-full min-h-[300px] flex flex-col items-center justify-center">
       <AudioUploader ref="audioUploaderRef" :uploaded-file="uploadedFile" :model-category="modelCategory"
-        :model-name="modelName" :type="mediaType" :action-type="actionType" @file-change="handleFileChange"
+        :model-name="modelName" :type="mediaType" :action-type="actionType"
+        @file-change="handleFileChange"
         @upload-success="handleUploadSuccess" @upload-error="handleUploadError" @reset="handleUploadReset"
         @uploading="handleUploading" />
     </div>
@@ -54,7 +55,7 @@
             </path>
           </svg>
           <ScissorsIcon v-else class="h-5 w-5 text-white" />
-          <span>{{ isProcessing ? t('vocal_isolator.messages.processing') : processButtonText }}</span>
+          <span>{{ isProcessing ? t(`separation_common.messages.processing_${jobVariant}`) : processButtonText }}</span>
         </button>
         <!-- button @click="handleUploadReset"
           class="flex items-center justify-center gap-2 px-6 py-2 bg-gradient-to-r from-[#F1AC63] to-[#D76FF4] text-white rounded-full shadow hover:opacity-90 transition duration-300"
@@ -63,7 +64,7 @@
             <path stroke-linecap="round" stroke-linejoin="round"
               d="M4 4v5h.582M20 20v-5h-.581M5.635 19.364A9 9 0 104.582 9.582" />
           </svg>
-          <span>{{ t('vocal_isolator.upload.reset') }}</span>
+          <span>{{ t('comm.upload.reset') }}</span>
         </button -->
       </template>
       <div v-else class="h-[50px]"><!-- placeholder --></div>
@@ -109,6 +110,10 @@ const props = defineProps({
   modelName: { type: String, default: 'upload' },
   mediaType: { type: String, default: 'audio' },
   apiEndpoint: { type: String, required: true },
+  /** slug for analytics modelcat/modelname (hyphenated path segment) */
+  telemetryModelSlug: { type: String, default: 'vocal-isolator' },
+  /** which separation_common success/failed_* variant to use for result toasts */
+  jobVariant: { type: String, default: 'isolation' },
   actionType: {
     type: Object,
     required: false,
@@ -276,7 +281,7 @@ const handleLoginSuccess = () => {
 // Process audio separation
 const processAudio = async () => {
   if (!uploadedFile.value) {
-    toast.error(t('comm.messages.upload_first'), { position: 'top-right', duration: 3000 })
+    toast.error(t(`separation_common.pages.${props.telemetryModelSlug}.messages.upload_first`), { position: 'top-right', duration: 3000 })
     return
   }
   isProcessing.value = true
@@ -397,24 +402,25 @@ const processAudio = async () => {
         domain: domain,
         uid: uid.value
       })
-      toast.success(t('vocal_isolator.messages.separation_success'), { position: 'top-right', duration: 2000 })
+      toast.success(t(`separation_common.messages.success_${props.jobVariant}`), { position: 'top-right', duration: 2000 })
     } else if (result.ret === 2) {
       showPayModal.value = true
-      //toast.error(t('vocal_isolator.messages.quota_exhausted'), { position: 'top-right', duration: 3000 })
+      //toast.error(t('separation_common.messages.quota_exhausted'), { position: 'top-right', duration: 3000 })
       trackAction({
         email: userEmail.value,
         action: props.actionType.subscript,
         domain: domain,
-        modelcat: 'vocal-isolator',
-        modelname: 'vocal-isolator',
+        modelcat: props.telemetryModelSlug,
+        modelname: props.telemetryModelSlug,
         uid: uid.value
       })
     } else {
-      toast.error(result.msg || t('vocal_isolator.messages.separation_failed'), { position: 'top-right', duration: 3000 })
-      reportError(new Error(result.msg || t('vocal_isolator.messages.separation_failed')), `Vocal extraction failed - pageUrl: ${window.location.href}`, uid.value, userEmail.value)
+      const failedLabel = t(`separation_common.messages.failed_${props.jobVariant}`)
+      toast.error(result.msg || failedLabel, { position: 'top-right', duration: 3000 })
+      reportError(new Error(result.msg || failedLabel), `Vocal extraction failed - pageUrl: ${window.location.href}`, uid.value, userEmail.value)
     }
   } catch (error) {
-    toast.error(t('vocal_isolator.messages.server_busy'), { position: 'top-right', duration: 3000 })
+    toast.error(t('separation_common.messages.server_busy'), { position: 'top-right', duration: 3000 })
     reportError(error, `Vocal extraction failed - pageUrl: ${window.location.href}`, uid.value, userEmail.value)
   } finally {
     isProcessing.value = false
@@ -508,7 +514,7 @@ const downloadAudio = async () => {
       duration: 2000
     })
   } catch (error) {
-    toast.error(t('vocal_isolator.messages.download_failed'), { position: 'top-right', duration: 3000 })
+    toast.error(t('separation_common.messages.download_failed'), { position: 'top-right', duration: 3000 })
     reportError(error, `Vocal Download failed - pageUrl: ${pageUrl.value}`, uid.value, userEmail.value)
   }
 }

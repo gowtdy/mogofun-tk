@@ -116,22 +116,6 @@
                     </div>
                   </div>
                   
-                  <!-- 翻唱生成次数统计 - 暂时不发布 -->
-                  <div class="mb-6" v-if="coverTotal > 0">
-                    <div class="flex justify-between mb-2">
-                      <div class="font-medium text-gray-700">{{ $t('settings.coverGenerationCount') }}</div>
-                      <div class="font-semibold text-gray-900">
-                        {{ coverUsed }}/{{ coverTotal }}
-                      </div>
-                    </div>
-                    <div class="w-full bg-gray-200 rounded-full h-3 overflow-hidden">
-                      <div 
-                        class="bg-gradient-to-r from-purple-500 to-pink-600 h-3 rounded-full transition-all duration-500" 
-                        :style="`width: ${calculatePercentage(coverUsed, coverTotal)}%`"
-                      ></div>
-                    </div>
-                  </div>
-                  
                   <!-- 音效生成次数统计 - 暂时不发布 -->
                   <div class="mb-6" v-if="soundTotal > 0">
                     <div class="flex justify-between mb-2">
@@ -285,11 +269,11 @@
 
 <script setup lang="ts">
 import { ref, onMounted, computed, watch } from 'vue'
+import { config } from '~/config/config'
 import { useUserStore } from '~/store/user'
 import { useAuth } from '~/composables/useAuth'
 import { useErrorReporter } from '~/composables/errorReporter'
 import { useI18n } from 'vue-i18n'
-import { useRuntimeConfig } from '#app'
 import { CheckCircleIcon } from '@heroicons/vue/24/solid'
 import LoginModal from '~/components/LoginModal.vue'
 import { useToast } from 'vue-toastification/dist/index.mjs'
@@ -298,7 +282,7 @@ const toast = useToast()
 const { t, locale } = useI18n()
 const { reportError } = useErrorReporter()
 const userStore = useUserStore()
-const config = useRuntimeConfig()
+const host = config.host
 const { getUserInfo, getOrCreateUid, handleLogout } = useAuth()
 
 // 根据当前语言本地化路径
@@ -364,7 +348,7 @@ const handleCloseAccount = async () => {
 
   isClosingAccount.value = true
   try {
-    const response = await $fetch(config.public.apiHost + '/lapi/aivoicelab/closeaccount', {
+    const response = await $fetch(host + '/lapi/mogofun/closeaccount', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
@@ -402,8 +386,6 @@ const usedChar = ref(0)
 const totalChar = ref(1000)
 
 // 使用次数统计（从后端 userInfo 获取）
-const coverUsed = ref(0)
-const coverTotal = ref(0)
 const soundUsed = ref(0)
 const soundTotal = ref(0)
 const vocalisolateUsed = ref(0)
@@ -450,6 +432,14 @@ const fetchUserInfo = async () => {
           subType.value = 'Starter'
           subPeriod.value = 'Year'
           break;
+        case 'advance_month':
+          subType.value = 'Advance'
+          subPeriod.value = 'Month'
+          break;
+        case 'advance_year':
+          subType.value = 'advance'
+          subPeriod.value = 'Year'
+          break;
         case 'pro_month':
           subType.value = 'Pro'
           subPeriod.value = 'Month'
@@ -464,8 +454,6 @@ const fetchUserInfo = async () => {
       }
       
       // 从后端 userInfo 获取使用次数统计
-      coverUsed.value = userInfo.value.used_cover_count || 0
-      coverTotal.value = userInfo.value.total_cover_count || 0
       soundUsed.value = userInfo.value.used_sound_count || 0
       soundTotal.value = userInfo.value.total_sound_count || 0
       vocalisolateUsed.value = userInfo.value.used_vocalisolate_count || 0

@@ -173,5 +173,5 @@ echo "  禁用自启:   sudo systemctl disable $SERVICE_NAME"
 echo "  启用自启:   sudo systemctl enable $SERVICE_NAME"
 echo "  查看日志:   sudo journalctl -u $SERVICE_NAME -n 100 -f"
 
-# sudo journalctl -u aivoicelab.service -n 100 -f
+# sudo journalctl -u mogofun.service -n 100 -f
 

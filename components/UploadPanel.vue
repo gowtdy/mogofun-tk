@@ -7,7 +7,6 @@
     <div class="w-full min-h-[300px] flex flex-col items-center justify-center">
       <AudioUploader ref="audioUploaderRef" :uploaded-file="uploadedFile" :model-category="modelCategory"
         :model-name="modelName" :type="mediaType" :action-type="actionType"
-        :message-namespace="messageNamespace"
         @file-change="handleFileChange"
         @upload-success="handleUploadSuccess" @upload-error="handleUploadError" @reset="handleUploadReset"
         @uploading="handleUploading" />
@@ -111,10 +110,12 @@ const props = defineProps({
   modelName: { type: String, default: 'upload' },
   mediaType: { type: String, default: 'audio' },
   apiEndpoint: { type: String, required: true },
-  /** i18n root key, e.g. vocal-isolator or vocal_remover */
+  /** i18n root key for page-specific messages (e.g. messages.processing) */
   messageNamespace: { type: String, default: 'vocal-isolator' },
   /** slug for analytics modelcat/modelname (hyphenated path segment) */
   telemetryModelSlug: { type: String, default: 'vocal-isolator' },
+  /** which separation_common success/failed_* variant to use for result toasts */
+  jobVariant: { type: String, default: 'isolation' },
   actionType: {
     type: Object,
     required: false,
@@ -404,7 +405,7 @@ const processAudio = async () => {
         domain: domain,
         uid: uid.value
       })
-      toast.success(msg('messages.separation_success'), { position: 'top-right', duration: 2000 })
+      toast.success(t(`separation_common.messages.success_${props.jobVariant}`), { position: 'top-right', duration: 2000 })
     } else if (result.ret === 2) {
       showPayModal.value = true
       //toast.error(msg('messages.quota_exhausted'), { position: 'top-right', duration: 3000 })
@@ -417,11 +418,12 @@ const processAudio = async () => {
         uid: uid.value
       })
     } else {
-      toast.error(result.msg || msg('messages.separation_failed'), { position: 'top-right', duration: 3000 })
-      reportError(new Error(result.msg || msg('messages.separation_failed')), `Vocal extraction failed - pageUrl: ${window.location.href}`, uid.value, userEmail.value)
+      const failedLabel = t(`separation_common.messages.failed_${props.jobVariant}`)
+      toast.error(result.msg || failedLabel, { position: 'top-right', duration: 3000 })
+      reportError(new Error(result.msg || failedLabel), `Vocal extraction failed - pageUrl: ${window.location.href}`, uid.value, userEmail.value)
     }
   } catch (error) {
-    toast.error(msg('messages.server_busy'), { position: 'top-right', duration: 3000 })
+    toast.error(t('separation_common.messages.server_busy'), { position: 'top-right', duration: 3000 })
     reportError(error, `Vocal extraction failed - pageUrl: ${window.location.href}`, uid.value, userEmail.value)
   } finally {
     isProcessing.value = false
@@ -515,7 +517,7 @@ const downloadAudio = async () => {
       duration: 2000
     })
   } catch (error) {
-    toast.error(msg('messages.download_failed'), { position: 'top-right', duration: 3000 })
+    toast.error(t('separation_common.messages.download_failed'), { position: 'top-right', duration: 3000 })
     reportError(error, `Vocal Download failed - pageUrl: ${pageUrl.value}`, uid.value, userEmail.value)
   }
 }

@@ -1,9 +1,9 @@
 {
   "audio-extractor": {
     "meta": {
-      "title": "Free Audio Extractor: Extract Audio from Video | AIVoiceLab",
-      "description": "Free audio extractor tool to extract audio from video.Works for YouTube, TikTok, Instagram, and many more platforms.",
-      "keywords": "Audio Extractor, Extract Audio from video, get audio from video, extract sound from video"
+      "title": "Free Audio Extractor: Extract Audio from Video",
+      "keywords": "Audio Extractor, Extract Audio from video, get audio from video, extract sound from video",
+      "description": "Free audio extractor tool to extract audio from video. Works for YouTube, TikTok, Instagram, and many more platforms."
     },
     "hero": {
       "title": "Audio Extractor",
@@ -45,7 +45,7 @@
       ]
     },
     "faqs": {
-      "title": "Frequently Asked Questions About Our Audio Extractor",
+      "title": "About Our Audio Extractor",
       "items": [
         {
           "question": "What is an Audio Extractor and how does it work?",

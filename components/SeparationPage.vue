@@ -21,9 +21,8 @@
     </div>
 
     <UploadPanel
-      :result-title="t(`${pageSlug}.result_title`)"
-      :process-button-text="t(`${pageSlug}.process_button`)"
-      :message-namespace="pageSlug"
+      :result-title="pageCommon('result_title')"
+      :process-button-text="pageCommon('process_button')"
       :telemetry-model-slug="pageSlug"
       :job-variant="jobVariant"
       :media-type="upload.mediaType"
@@ -80,6 +79,8 @@ const props = withDefaults(
 )
 
 const { t, tm, locale: i18nLocale } = useI18n()
+const pageCommon = (key: string) =>
+  t(`separation_common.pages.${props.pageSlug}.${key}`)
 const { getOrCreateUid } = useAuth()
 const uid = ref(getOrCreateUid())
 const userStore = useUserStore()

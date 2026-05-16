@@ -1,33 +1,13 @@
 {
   "vocal-isolator": {
     "meta": {
-      "title": "Free Vocal Isolator - An AI Vocal Isolator tool | AIVoiceLab",
+      "title": "Free Vocal Isolator - An AI Vocal Isolator tool | MoGoFun",
       "description": "Instantly extract vocals from any music, audio and video with our free vocal isolator online - the best AI Vocal Isolator Tool for everyone.",
       "keywords": "vocal isolator, ai vocal isolator, isolate vocals, vocal isolation, isolated vocals"
     },
     "hero": {
       "title": "Best Vocal Isolator Online",
       "subtitle": "Instantly extract vocals from a song, music, audio or video, anytime, anywhere"
-    },
-    "result_title": "Vocal",
-    "process_button": "Start Separation",
-    "upload": {
-      "title": "Upload Audio",
-      "drag_drop": "Drag and drop your audio file here",
-      "formats": "Supports MP3, WAV, M4A, etc. (Max 10MB)",
-      "original_audio": "Original Audio",
-      "original_video": "Original Video",
-      "reset": "Reset"
-    },
-    "messages": {
-      "upload_first": "Please upload an audio file first",
-      "system_initializing": "System is initializing, please try again later",
-      "quota_exhausted": "Free quota exhausted, please upgrade to premium",
-      "http_error": "HTTP Error: {status}",
-      "network_error": "Network error",
-      "timeout": "Request timed out",
-      "upload_aborted": "Upload aborted",
-      "processing": "Processing..."
     },
     "advantages": {
       "title": "Why Choose Our AI Vocal Isolator?",

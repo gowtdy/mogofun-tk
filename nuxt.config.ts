@@ -1,5 +1,4 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
-import routerConfig from './router';
 import { defineNuxtConfig } from 'nuxt/config';
 import { resolve } from 'path';
 import appConfig from './config/appConfig';

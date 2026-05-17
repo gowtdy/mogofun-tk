@@ -22,6 +22,7 @@
 import { useI18n } from 'vue-i18n'
 import { useRouter, useRoute } from 'vue-router'
 import { useNuxtApp } from '#app'
+import { config } from '~/config/config'
 
 const { locale, availableLocales } = useI18n()
 const router = useRouter()
@@ -31,12 +32,10 @@ const nuxtApp = useNuxtApp()
 async function changeLanguage(lang) {
   // 先获取当前路由的路径（去除语言前缀）
   let currentPath = route.fullPath
-  const locales = ['en', 'zh', 'zh-tw', 'fr', 'ja', 'es']
-
   const pathParts = currentPath.split('/').filter(Boolean)
   var newPath
   if (pathParts.length <= 1) {
-    if (locales.includes(pathParts[0])) {
+    if (config.locales.includes(pathParts[0])) {
       newPath = lang === 'en' ? '/' : `/${lang}`
     } else if (pathParts[0]) {
       newPath = currentPath

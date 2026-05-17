@@ -1,4 +1,4 @@
-import type { SeparationUploadConfig } from '~/components/SeparationPage.vue'
+import type { SeparationUploadConfig } from '~/types/separation'
 import { ActionType } from '~/composables/actionReporter'
 import {
   SparklesIcon,

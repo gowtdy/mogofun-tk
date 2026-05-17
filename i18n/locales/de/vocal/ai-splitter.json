@@ -1,0 +1,73 @@
+{
+  "ai-splitter": {
+    "meta": {
+      "title": "KI-Splitter | Musik und Gesang trennen",
+      "description": "Trennen Sie Musik und Gesang sofort mit unserem fortschrittlichen KI-Splitter. Extrahieren Sie Musik und Gesang aus Audio und Video – für bessere Content-Erstellung.",
+      "keywords": "ki splitter, musik und gesang trennen, audio trennung"
+    },
+    "hero": {
+      "title": "KI-Splitter",
+      "subtitle": "Trennen Sie Musik und Gesang sofort aus Audio und Video"
+    },
+    "advantages": {
+      "title": "Warum unseren KI-Splitter wählen?",
+      "items": [
+        {
+          "title": "Professionelle KI-Splitter-Technologie",
+          "description": "Erleben Sie Audiobearbeitung in Studioqualität mit unserer fortschrittlichen KI-Technologie. Unser KI-Splitter trennt Musik und Gesang präzise und bewahrt dabei die Audio-Integrität – für kristallklare Ergebnisse, ideal für Content-Erstellung und Musikproduktion.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Fortschrittliche KI-Splitter-Verarbeitung",
+          "description": "Unser KI-Splitter nutzt modernste Algorithmen, um Musik und Gesang zu trennen und dabei die ursprünglichen Audioeigenschaften effektiv zu bewahren. Das Ergebnis sind professionelle getrennte Spuren, die die Essenz Ihrer Originalaufnahme erhalten.",
+          "icon": "WrenchScrewdriverIcon"
+        },
+        {
+          "title": "Echtzeit-KI-Splitter-Verarbeitung",
+          "description": "Erhalten Sie Ihr getrenntes Audio in Sekunden mit unserer effizienten KI-Technologie. Keine langen Wartezeiten – unser cloudbasierter KI-Splitter liefert schnelle Ergebnisse zum Trennen von Musik und Gesang ohne Qualitätseinbußen.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Hochwertige KI-Splitter-Ausgabe",
+          "description": "Exportieren Sie Ihr verarbeitetes Audio in hochauflösenden Formaten. Unser KI-Splitter gewährleistet Premium-Qualität für den professionellen Einsatz in Content-Erstellung und Musikproduktion bei gleichbleibender Audio-Treue.",
+          "icon": "ArrowDownTrayIcon"
+        },
+        {
+          "title": "Präzise KI-Splitter-Steuerung",
+          "description": "Feinabstimmung Ihrer Audiotrennung mit erweiterten Steuerungen. Unser KI-Splitter ermöglicht es Ihnen, Verarbeitungsparameter anzupassen, um die perfekte Balance beim Trennen von Musik und Gesang für Ihre Anforderungen zu erreichen.",
+          "icon": "AdjustmentsHorizontalIcon"
+        },
+        {
+          "title": "Unterstützung mehrerer Formate",
+          "description": "Unser KI-Splitter unterstützt verschiedene Audioformate, darunter MP3, WAV und M4A. Verarbeiten Sie Ihre Audiodateien unabhängig vom Format – vielseitig zum Trennen von Musik und Gesang in jedem unterstützten Format.",
+          "icon": "AdjustmentsI"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Über den KI-Splitter",
+      "items": [
+        {
+          "question": "Was ist ein KI-Splitter?",
+          "answer": "Ein KI-Splitter ist ein fortschrittliches Tool, das künstliche Intelligenz nutzt, um Musik und Gesang aus Audiodateien zu trennen. Unser KI-Splitter setzt ausgefeilte Machine-Learning-Algorithmen ein, um Audioelemente zu erkennen und zu isolieren und dabei deren ursprüngliche Qualität und Merkmale zu bewahren. Diese KI-Splitter-Technologie trennt Musik und Gesang mit professioneller Präzision."
+        },
+        {
+          "question": "Wie funktioniert unser KI-Splitter?",
+          "answer": "Unser KI-Splitter nutzt modernste Machine-Learning-Algorithmen, um das Frequenzspektrum Ihres Audios zu analysieren. Die KI-Splitter-Technologie erkennt Musik- und Gesangsfrequenzen, isoliert sie von Hintergrundelementen und erstellt zwei getrennte Spuren: eine nur mit der Musik und eine mit dem Gesang. Dieser Prozess trennt Musik und Gesang effektiv und bewahrt dabei die Originalqualität."
+        },
+        {
+          "question": "Welche Arten von Audiodateien kann ich verarbeiten?",
+          "answer": "Unser KI-Splitter unterstützt verschiedene Audioformate, darunter MP3, WAV, M4A und mehr. Sie können jede Audiodatei verarbeiten, um Musik und Gesang zu trennen – ob professionelle Aufnahme oder private Audiodatei. Das System arbeitet am besten mit klaren Musik- und Gesangsaufnahmen und verarbeitet Dateien bis zu 10 MB."
+        },
+        {
+          "question": "Wie erziele ich die besten Ergebnisse mit dem KI-Splitter?",
+          "answer": "Für optimale Ergebnisse beim Trennen von Musik und Gesang verwenden Sie hochwertige Audiodateien mit klarer Musik und klarem Gesang. Vermeiden Sie stark bearbeitete oder verzerrte Tracks, da diese die Trennqualität beeinträchtigen können. Je klarer die Originalaufnahme, desto besser kann unser KI-Splitter Musik und Gesang trennen und dabei die Audio-Treue bewahren."
+        },
+        {
+          "question": "Kann ich die getrennte Musik und den getrennten Gesang kommerziell nutzen?",
+          "answer": "Ja, Sie können die getrennte Musik und den getrennten Gesang für private und kommerzielle Projekte verwenden. Stellen Sie jedoch sicher, dass Sie die erforderlichen Rechte am ursprünglichen Audioinhalt besitzen. Unser KI-Splitter ist ideal für Content-Ersteller, Podcaster und Audio-Remixer, die neue Inhalte aus bestehenden Musiktracks erstellen möchten. Er erleichtert das Trennen von Musik und Gesang aus jeder Audiodatei – für jedes Projekt."
+        }
+      ]
+    }
+  }
+}

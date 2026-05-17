@@ -1,0 +1,73 @@
+{
+  "ai-splitter": {
+    "meta": {
+      "title": "Séparateur IA | Séparer la musique et les voix",
+      "description": "Séparez instantanément la musique et les voix grâce à notre séparateur IA avancé. Extrayez musique et voix depuis l'audio et la vidéo pour améliorer votre création de contenu.",
+      "keywords": "séparateur ia, séparer musique et voix, séparation musique voix"
+    },
+    "hero": {
+      "title": "Séparateur IA",
+      "subtitle": "Séparez instantanément la musique et les voix depuis l'audio et la vidéo"
+    },
+    "advantages": {
+      "title": "Pourquoi choisir notre séparateur IA ?",
+      "items": [
+        {
+          "title": "Technologie professionnelle de séparation IA",
+          "description": "Profitez d'un traitement audio de qualité studio grâce à notre technologie IA avancée. Notre séparateur IA sépare avec précision la musique et les voix tout en préservant l'intégrité audio, pour des résultats cristallins idéaux en création de contenu et production musicale.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Traitement avancé par séparateur IA",
+          "description": "Notre séparateur IA utilise des algorithmes de pointe pour séparer la musique et les voix tout en conservant efficacement les caractéristiques audio d'origine. Le résultat : des pistes séparées de qualité professionnelle qui préservent l'essence de votre enregistrement original.",
+          "icon": "WrenchScrewdriverIcon"
+        },
+        {
+          "title": "Traitement en temps réel par séparateur IA",
+          "description": "Obtenez votre audio séparé en quelques secondes grâce à notre technologie IA efficace. Plus besoin d'attendre de longs temps de traitement — notre séparateur IA cloud offre des résultats rapides pour séparer musique et voix sans compromettre la qualité.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Sortie haute qualité du séparateur IA",
+          "description": "Exportez votre audio traité dans des formats haute définition. Notre séparateur IA garantit une sortie premium adaptée à un usage professionnel en création de contenu et production musicale, tout en préservant la fidélité audio.",
+          "icon": "ArrowDownTrayIcon"
+        },
+        {
+          "title": "Contrôle précis du séparateur IA",
+          "description": "Affinez votre séparation audio grâce à des contrôles avancés. Notre séparateur IA vous permet d'ajuster les paramètres de traitement pour obtenir l'équilibre parfait lors de la séparation de la musique et des voix selon vos besoins.",
+          "icon": "AdjustmentsHorizontalIcon"
+        },
+        {
+          "title": "Prise en charge multi-formats",
+          "description": "Notre séparateur IA prend en charge divers formats audio, dont MP3, WAV et M4A. Traitez vos fichiers audio quel que soit leur format, pour séparer musique et voix dans tout format pris en charge.",
+          "icon": "AdjustmentsI"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "À propos du séparateur IA",
+      "items": [
+        {
+          "question": "Qu'est-ce qu'un séparateur IA ?",
+          "answer": "Un séparateur IA est un outil avancé qui utilise l'intelligence artificielle pour séparer la musique et les voix dans les fichiers audio. Notre séparateur IA emploie des algorithmes d'apprentissage automatique sophistiqués pour identifier et isoler les éléments audio tout en préservant leur qualité et leurs caractéristiques d'origine. Cette technologie excelle à séparer musique et voix avec une précision professionnelle."
+        },
+        {
+          "question": "Comment fonctionne notre séparateur IA ?",
+          "answer": "Notre séparateur IA utilise des algorithmes d'apprentissage automatique de pointe pour analyser le spectre fréquentiel de votre audio. La technologie identifie les fréquences musicales et vocales, les isole des éléments de fond et crée deux pistes distinctes : l'une contenant uniquement la musique, l'autre les voix. Ce processus sépare efficacement musique et voix tout en préservant la qualité d'origine."
+        },
+        {
+          "question": "Quels types de fichiers audio puis-je traiter ?",
+          "answer": "Notre séparateur IA prend en charge divers formats audio, dont MP3, WAV, M4A et bien d'autres. Vous pouvez traiter tout fichier audio pour séparer musique et voix, qu'il s'agisse d'un enregistrement professionnel ou d'un fichier occasionnel. Le système fonctionne mieux avec des enregistrements où musique et voix sont clairs, et accepte des fichiers jusqu'à 10 Mo."
+        },
+        {
+          "question": "Comment obtenir les meilleurs résultats avec le séparateur IA ?",
+          "answer": "Pour des résultats optimaux lors de la séparation musique et voix, utilisez des fichiers audio de haute qualité avec une musique et des voix claires. Évitez les pistes fortement traitées ou déformées, car elles peuvent affecter la qualité de la séparation. Plus l'enregistrement original est net, mieux notre séparateur IA peut séparer musique et voix tout en préservant la fidélité audio."
+        },
+        {
+          "question": "Puis-je utiliser la musique et les voix séparées à des fins commerciales ?",
+          "answer": "Oui, vous pouvez utiliser la musique et les voix séparées pour vos projets personnels et commerciaux. Veillez toutefois à disposer des droits nécessaires sur le contenu audio original. Notre séparateur IA est idéal pour les créateurs de contenu, les podcasteurs et les remixeurs audio souhaitant créer de nouveaux contenus à partir de morceaux existants. Il facilite la séparation musique et voix depuis n'importe quel fichier audio, pour tout type de projet."
+        }
+      ]
+    }
+  }
+}

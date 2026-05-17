@@ -1,5 +1,5 @@
 export const config = {
-    locales: ['en', 'zh', 'zh-tw', 'fr', 'ja', 'es'],
+    locales: ['en', 'zh', 'zh-tw', 'ja', 'fr', 'de', 'es', 'pt', 'ko', 'ar'],
     indexVoiceModels: {
       production: '/home/aigc/work/models/aivoice_models/cloned_models/common_models/common_models.yaml',
       development: 'data/common_models.yaml'

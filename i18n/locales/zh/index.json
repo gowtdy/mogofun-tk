@@ -1,0 +1,325 @@
+{
+  "comm": {
+    "home": "首页",
+    "aicover": "AI 翻唱",
+    "voice": "语音",
+    "characterVoice": "角色语音",
+    "celebrityVoice": "名人语音",
+    "aiVoice": "AI 语音生成器",
+    "audio": "音频工具",
+    "soundEffects": "音效",
+    "vocalIsolation": "人声分离",
+    "pricing": "价格",
+    "login": "登录",
+    "settings": "设置",
+    "logout": "退出登录",
+    "privacyPolicy": "隐私政策",
+    "termsService": "服务条款",
+    "refundService": "退款政策",
+    "dmcaPolicy": "DMCA 政策",
+    "aboutUs": "关于我们",
+    "footerDesc": "即时为视频、播客等生成独特语音。",
+    "contact": "联系我们：",
+    "aiVoiceGenerator": "AI 语音生成器",
+    "aiCover": "TikTok 语音生成器",
+    "quickLinks": "快速链接",
+    "friendsLinks": "友情链接",
+    "more": "更多",
+    "selectCategory": "选择分类",
+    "loginModalIntro": "登录以访问您的 MoGoFun 账户",
+    "loginModalAgree": "登录即表示您同意我们的",
+    "loginModalAnd": "和",
+    "loginModalUnlogged": "无法加载 Google 登录服务",
+    "loginModalVPN": "请确保您可以正常访问 Google 服务，或尝试使用 VPN",
+    "company": "公司",
+    "vocalRemover": "人声消除",
+    "video": "视频工具",
+    "startUsing": "开始使用 MoGoFun",
+    "audioExtraction": "音频提取器",
+    "upload": {
+      "uploading": "上传中...",
+      "reset": "重置"
+    },
+    "audioUpload": {
+      "title": "上传音频",
+      "drag_drop": "将音频文件拖放到此处",
+      "formats": "支持格式：MP3、WAV、M4A、FLAC、AAC、OGG、MP4、MOV（最大 20MB）",
+      "uploaded": "已上传音频",
+      "unsupported": "您的浏览器不支持音频播放。",
+      "or": "或",
+      "browse": "浏览文件",
+      "uploadAgain": "重新上传"
+    },
+    "videoUpload": {
+      "title": "上传视频",
+      "drag_drop": "将视频文件拖放到此处",
+      "formats": "支持 MP4、MOV、AVI 等格式（最大 20MB）",
+      "uploaded": "已上传视频",
+      "unsupported": "您的浏览器不支持视频播放。"
+    },
+    "record": {
+      "start": "点击开始录音",
+      "stop": "点击停止录音",
+      "recording": "录音中...",
+      "preview": "预览录音",
+      "uploaded": "已录制音频",
+      "rerecord": "重新录制"
+    },
+    "messages": {
+      "upload_first": "请先上传文件",
+      "upload_failed": "上传失败，请稍后重试"
+    }
+  },
+  "paymodal": {
+    "title": "升级以获取更多权益",
+    "btn": "立即升级",
+    "lowas": "低至",
+    "period": "/月",
+    "save": "立省 $9.00，限时优惠！",
+    "features": {
+      "items": [
+        "10+ 种语言，300+ 种语音",
+        "专业音效库",
+        "完美人声分离",
+        "智能音频处理",
+        "AI 翻唱与丰富媒体格式",
+        "无限下载"
+      ]
+    },
+    "quotaExhausted": {
+      "tts": "您的文字转语音额度已用完",
+      "cover": "您的 AI 翻唱生成额度已用完",
+      "sound": "您的音效生成额度已用完",
+      "vocalisolate": "您的人声分离额度已用完",
+      "vocalremover": "您的人声消除额度已用完",
+      "audioextractor": "您的音频提取额度已用完",
+      "default": "您的额度已用完",
+      "hint": "升级套餐以解锁更多用量，尽情创作"
+    }
+  },
+  "features": {
+    "title": "强大功能，打造精彩 AI 翻唱",
+    "items": [
+      {
+        "title": "语音定制",
+        "desc": "精细调节语音参数，契合您的创作构想。调整音高、节奏与风格，打造完美 AI 翻唱。"
+      },
+      {
+        "title": "批量处理",
+        "desc": "通过批量处理功能高效转换多首歌曲，适合制作专辑翻唱或系列内容。"
+      },
+      {
+        "title": "视频生成",
+        "desc": "借助 AI 对口型技术制作引人入胜的音乐视频，将静态图片变为动感演唱表演。"
+      },
+      {
+        "title": "风格迁移",
+        "desc": "尝试不同音乐风格与流派，将任意歌曲转换为多种音乐演绎。"
+      }
+    ]
+  },
+  "ai_cover": {
+    "converter": {
+      "model": {
+        "selectError": "请选择语音模型！"
+      },
+      "input": {
+        "title": "添加您的音频：",
+        "description": "您可以使用示例音频、添加 YouTube 歌曲、上传音频文件或录制您的声音。",
+        "placeholder": "输入要转换为语音的文字..."
+      },
+      "tabs": {
+        "main": {
+          "cover": "AI 歌曲翻唱",
+          "tts": "文字转语音"
+        },
+        "sample": "翻唱示例",
+        "youtube": "从 YouTube 添加",
+        "upload": "上传",
+        "record": "录音"
+      },
+      "buttons": {
+        "create": "生成",
+        "tryAgain": "重试",
+        "download": "下载",
+        "play": "播放",
+        "pause": "暂停",
+        "stop": "停止",
+        "preview": "预览"
+      },
+      "generate": {
+        "success": "生成成功！"
+      },
+      "download": {
+        "noAudio": "没有可下载的音频",
+        "invalidAudio": "音频数据无效，请稍后重试！",
+        "success": "下载成功！",
+        "failed": "下载失败，请稍后重试！"
+      },
+      "errors": {
+        "serverBusy": "服务器繁忙，请稍后重试！",
+        "convertFailed": "歌曲转换失败，请稍后重试！",
+        "inputText": "请输入或粘贴文字！",
+        "fileFormat": "请上传 MP3、WAV、M4A、AAC、OGG、FLAC 格式的音频文件",
+        "fileSize": "文件大小超过 10MB 限制",
+        "uploadTimeout": "上传请求超时，请稍后重试！",
+        "microphoneAccess": "无法访问麦克风，请确保已允许麦克风权限！",
+        "selectSample": "请选择示例音频！",
+        "uploadFile": "请先上传音频文件！",
+        "recordAudio": "请先录制音频！",
+        "youtubeLink": "请输入 YouTube 链接！",
+        "invalidSubTab": "无效的子标签类型！",
+        "uploadFailed": "文件上传失败，请稍后重试或联系我们！",
+        "tts": {
+          "failed": "文字转语音生成失败",
+          "limitExceeded": "您已超过今日使用限额。"
+        }
+      }
+    }
+  },
+  "soundeffect_common": {
+    "display_title": "试听下方逼真的 AI 生成音效",
+    "input_placeholder": "输入音效描述",
+    "generating_button": "生成中...",
+    "generate_button": "生成",
+    "msg_example_load_failed": "音效示例加载失败，请稍后重试！",
+    "msg_example_play_failed": "音效示例播放失败，请稍后重试！",
+    "msg_notext": "请输入描述以生成音效",
+    "download": {
+      "noAudio": "没有可下载的音频",
+      "success": "下载成功",
+      "failed": "下载失败，请稍后重试",
+      "fetchFailed": "音效下载失败，请稍后重试！"
+    },
+    "prompt_combat": {
+      "sword_whoosh": "挥剑声",
+      "sword_through_air": "剑划破空气",
+      "shotgun_fire": "霰弹枪开火",
+      "laser_gunshot": "激光枪声",
+      "ui_success": "界面成功提示"
+    },
+    "prompt_nature": {
+      "name": "自然音效",
+      "rain": "雨声",
+      "ocean_waves": "海浪",
+      "flowing_water": "流水",
+      "thunder": "雷声",
+      "insect_sounds": "虫鸣"
+    },
+    "prompt_special": {
+      "name": "特殊音效",
+      "fireworks": "烟花",
+      "glass_shattering": "玻璃破碎",
+      "magic_spell": "魔法咒语",
+      "spaceship": "宇宙飞船",
+      "action": "动作"
+    },
+    "prompt_instruments": {
+      "name": "乐器音效",
+      "piano": "钢琴",
+      "electric_guitar": "电吉他",
+      "violin": "小提琴",
+      "keyboard": "电子琴",
+      "irish_pipes": "爱尔兰风笛"
+    },
+    "prompt_human": {
+      "name": "人声音效",
+      "baby_laughing": "婴儿笑声",
+      "clapping": "鼓掌",
+      "celebrate": "庆祝",
+      "footsteps": "脚步声",
+      "burp": "打嗝"
+    },
+    "prompt_ambient": {
+      "name": "环境音效",
+      "typing": "打字",
+      "noisy_restaurant": "嘈杂餐厅",
+      "doorbell_ring": "门铃",
+      "tv_on": "电视开机",
+      "cooking": "烹饪"
+    }
+  },
+  "separation_common": {
+    "pages": {
+      "vocal-isolator": {
+        "result_title": "人声",
+        "process_button": "开始分离",
+        "messages": {
+          "upload_first": "请先上传音频文件"
+        }
+      },
+      "audio-extractor": {
+        "result_title": "提取的音频",
+        "process_button": "提取音频",
+        "messages": {
+          "upload_first": "请先上传视频文件"
+        }
+      },
+      "vocal-remover": {
+        "result_title": "伴奏",
+        "process_button": "消除人声",
+        "messages": {
+          "upload_first": "请先上传音频文件"
+        }
+      }
+    },
+    "messages": {
+      "uploading": "上传中...",
+      "upload_failed": "上传失败，请稍后重试",
+      "parse_failed": "响应解析失败",
+      "file_too_large": "文件大小超出限制",
+      "file_type_not_supported": "不支持的文件类型，请上传（MP3、WAV、M4A、FLAC、AAC、OGG、MP4、AVI、WMV、FLV、MKV、WEBM、MOV）文件",
+      "server_busy": "服务器繁忙，请稍后重试",
+      "download_failed": "下载失败，请稍后重试",
+      "download_success": "下载成功",
+      "success_isolation": "分离成功！",
+      "failed_isolation": "分离失败，请重试",
+      "success_removal": "人声消除成功！",
+      "failed_removal": "人声消除失败，请重试",
+      "success_extraction": "音频提取成功！",
+      "failed_extraction": "提取失败，请重试",
+      "system_initializing": "系统正在初始化，请稍后重试",
+      "quota_exhausted": "免费额度已用完，请升级至高级版",
+      "http_error": "HTTP 错误：{status}",
+      "network_error": "网络错误",
+      "timeout": "请求超时",
+      "upload_aborted": "上传已取消",
+      "processing_isolation": "处理中...",
+      "processing_removal": "处理中...",
+      "processing_extraction": "提取中..."
+    }
+  },
+  "friends": {
+    "title": "友情链接"
+  },
+  "policy_pages": {
+    "privacy": {
+      "seo": {
+        "title": "隐私政策 | MoGoFun",
+        "description": "了解 MoGoFun 在您使用 AI 语音与音频工具时如何收集、使用和保护您的个人信息。",
+        "keywords": "MoGoFun 隐私政策, 数据保护, 个人信息"
+      }
+    },
+    "terms": {
+      "seo": {
+        "title": "服务条款 | MoGoFun",
+        "description": "阅读 MoGoFun 服务条款，了解您使用 AI 语音生成器、音频工具及相关服务的规定。",
+        "keywords": "MoGoFun 服务条款, 用户协议, 服务条款"
+      }
+    },
+    "refund": {
+      "seo": {
+        "title": "退款政策 | MoGoFun",
+        "description": "查看 MoGoFun 针对 AI 语音生成订阅及数字服务购买的退款政策。",
+        "keywords": "MoGoFun 退款政策, 订阅退款, 取消政策"
+      }
+    },
+    "dmca": {
+      "seo": {
+        "title": "DMCA 与版权政策 | MoGoFun",
+        "description": "MoGoFun DMCA 与版权政策。了解如何在本平台举报版权侵权。",
+        "keywords": "MoGoFun DMCA 政策, 版权政策, 下架通知"
+      }
+    }
+  }
+}

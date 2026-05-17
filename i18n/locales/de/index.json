@@ -1,0 +1,325 @@
+{
+  "comm": {
+    "home": "Startseite",
+    "aicover": "KI-Cover",
+    "voice": "Stimme",
+    "characterVoice": "Charakterstimme",
+    "celebrityVoice": "Prominentenstimme",
+    "aiVoice": "KI-Stimmgenerator",
+    "audio": "Audio-Tools",
+    "soundEffects": "Soundeffekte",
+    "vocalIsolation": "Gesangsisolator",
+    "pricing": "Preise",
+    "login": "Anmelden",
+    "settings": "Einstellungen",
+    "logout": "Abmelden",
+    "privacyPolicy": "Datenschutzerklärung",
+    "termsService": "Nutzungsbedingungen",
+    "refundService": "Rückerstattungsrichtlinie",
+    "dmcaPolicy": "DMCA-Richtlinie",
+    "aboutUs": "Über uns",
+    "footerDesc": "Erstelle sofort einzigartige Stimmen für Videos, Podcasts und mehr.",
+    "contact": "Kontakt: ",
+    "aiVoiceGenerator": "KI-Stimmgenerator",
+    "aiCover": "TikTok-Stimmgenerator",
+    "quickLinks": "Schnelllinks",
+    "friendsLinks": "Partnerlinks",
+    "more": "Mehr",
+    "selectCategory": "Kategorie auswählen",
+    "loginModalIntro": "Melde dich an, um auf dein MoGoFun-Konto zuzugreifen",
+    "loginModalAgree": "Mit der Anmeldung stimmst du unseren ",
+    "loginModalAnd": " und ",
+    "loginModalUnlogged": "Google-Anmeldedienst konnte nicht geladen werden",
+    "loginModalVPN": "Stelle sicher, dass du normal auf Google-Dienste zugreifen kannst, oder versuche es mit einem VPN",
+    "company": "Unternehmen",
+    "vocalRemover": "Gesangsentferner",
+    "video": "Video-Tools",
+    "startUsing": "MoGoFun jetzt nutzen",
+    "audioExtraction": "Audio-Extraktor",
+    "upload": {
+      "uploading": "Wird hochgeladen...",
+      "reset": "Zurücksetzen"
+    },
+    "audioUpload": {
+      "title": "Audio hochladen",
+      "drag_drop": "Ziehe deine Audiodatei hierher",
+      "formats": "Unterstützte Formate: MP3, WAV, M4A, FLAC, AAC, OGG, MP4, MOV (max. 20 MB)",
+      "uploaded": "Hochgeladenes Audio",
+      "unsupported": "Dein Browser unterstützt das Audio-Element nicht.",
+      "or": "oder",
+      "browse": "Dateien durchsuchen",
+      "uploadAgain": "Erneut hochladen"
+    },
+    "videoUpload": {
+      "title": "Video hochladen",
+      "drag_drop": "Ziehe deine Videodatei hierher",
+      "formats": "Unterstützt MP4, MOV, AVI usw. (max. 20 MB)",
+      "uploaded": "Hochgeladenes Video",
+      "unsupported": "Dein Browser unterstützt das Video-Element nicht."
+    },
+    "record": {
+      "start": "Klicken, um die Aufnahme zu starten",
+      "stop": "Klicken, um die Aufnahme zu stoppen",
+      "recording": "Aufnahme läuft...",
+      "preview": "Aufnahme anhören",
+      "uploaded": "Aufgenommenes Audio",
+      "rerecord": "Erneut aufnehmen"
+    },
+    "messages": {
+      "upload_first": "Bitte lade zuerst eine Datei hoch",
+      "upload_failed": "Upload fehlgeschlagen, bitte versuche es später erneut"
+    }
+  },
+  "paymodal": {
+    "title": "Upgrade für mehr Vorteile",
+    "btn": "JETZT upgraden",
+    "lowas": "Ab nur",
+    "period": "/Monat",
+    "save": "Du sparst 9,00 $. Nur für kurze Zeit!",
+    "features": {
+      "items": [
+        "300+ Stimmen in über 10 Sprachen",
+        "Professionelle Soundeffekt-Bibliothek",
+        "Perfekte Gesangstrennung",
+        "Intelligente Audioverarbeitung",
+        "KI-Cover und vielfältige Medienformate",
+        "Unbegrenzte Downloads"
+      ]
+    },
+    "quotaExhausted": {
+      "tts": "Dein Text-zu-Sprache-Kontingent ist aufgebraucht",
+      "cover": "Dein KI-Cover-Generierungskontingent ist aufgebraucht",
+      "sound": "Dein Soundeffekt-Generierungskontingent ist aufgebraucht",
+      "vocalisolate": "Dein Gesangsisolations-Kontingent ist aufgebraucht",
+      "vocalremover": "Dein Gesangsentfernungs-Kontingent ist aufgebraucht",
+      "audioextractor": "Dein Audio-Extraktor-Kontingent ist aufgebraucht",
+      "default": "Dein Kontingent ist aufgebraucht",
+      "hint": "Upgrade deinen Plan, um mehr Nutzung freizuschalten und unbegrenzt kreativ zu sein"
+    }
+  },
+  "features": {
+    "title": "Leistungsstarke Funktionen für beeindruckende KI-Cover",
+    "items": [
+      {
+        "title": "Stimmenanpassung",
+        "desc": "Passe Stimmparameter fein an deine kreative Vision an. Ändere Tonhöhe, Tempo und Stil für das perfekte KI-Cover."
+      },
+      {
+        "title": "Stapelverarbeitung",
+        "desc": "Konvertiere mehrere Songs effizient mit unserer Stapelverarbeitung – ideal für Album-Cover oder Content-Serien."
+      },
+      {
+        "title": "Videoerstellung",
+        "desc": "Erstelle ansprechende Musikvideos mit KI-gestützter Lippensynchronisation. Verwandle Standbilder in dynamische Gesangsperformances."
+      },
+      {
+        "title": "Stiltransfer",
+        "desc": "Experimentiere mit verschiedenen Musikstilen und Genres. Verwandle jeden Song in unterschiedliche musikalische Interpretationen."
+      }
+    ]
+  },
+  "ai_cover": {
+    "converter": {
+      "model": {
+        "selectError": "Bitte wähle ein Stimmenmodell aus!"
+      },
+      "input": {
+        "title": "Audio hinzufügen:",
+        "description": "Du kannst Beispiel-Audiodateien nutzen, YouTube-Songs hinzufügen, Audiodateien hochladen oder deine Stimme aufnehmen.",
+        "placeholder": "Text eingeben, der in Sprache umgewandelt werden soll..."
+      },
+      "tabs": {
+        "main": {
+          "cover": "KI-Song-Cover",
+          "tts": "Text-zu-Sprache"
+        },
+        "sample": "Cover-Demos",
+        "youtube": "Von YouTube hinzufügen",
+        "upload": "Hochladen",
+        "record": "Aufnehmen"
+      },
+      "buttons": {
+        "create": "Generieren",
+        "tryAgain": "Erneut versuchen",
+        "download": "Herunterladen",
+        "play": "Abspielen",
+        "pause": "Pause",
+        "stop": "Stopp",
+        "preview": "Vorschau"
+      },
+      "generate": {
+        "success": "Generierung erfolgreich!"
+      },
+      "download": {
+        "noAudio": "Kein Audio zum Herunterladen",
+        "invalidAudio": "Ungültige Audiodaten, bitte versuche es später erneut!",
+        "success": "Download erfolgreich!",
+        "failed": "Download fehlgeschlagen, bitte versuche es später erneut!"
+      },
+      "errors": {
+        "serverBusy": "Der Server ist ausgelastet, bitte versuche es später erneut!",
+        "convertFailed": "Song-Konvertierung fehlgeschlagen, bitte versuche es später erneut!",
+        "inputText": "Bitte Text eingeben oder einfügen!",
+        "fileFormat": "Bitte lade eine Audiodatei im Format MP3, WAV, M4A, AAC, OGG oder FLAC hoch",
+        "fileSize": "Dateigröße überschreitet das Limit von 10 MB",
+        "uploadTimeout": "Upload-Anfrage hat das Zeitlimit überschritten, bitte versuche es später erneut!",
+        "microphoneAccess": "Kein Zugriff auf das Mikrofon. Bitte stelle sicher, dass der Mikrofonzugriff erlaubt ist!",
+        "selectSample": "Bitte wähle eine Beispiel-Audiodatei aus!",
+        "uploadFile": "Bitte lade zuerst eine Audiodatei hoch!",
+        "recordAudio": "Bitte nimm zuerst ein Audio auf!",
+        "youtubeLink": "Bitte gib einen YouTube-Link ein!",
+        "invalidSubTab": "Ungültiger SubTab-Typ!",
+        "uploadFailed": "Datei-Upload fehlgeschlagen, bitte versuche es später erneut oder kontaktiere uns!",
+        "tts": {
+          "failed": "Text-zu-Sprache-Generierung fehlgeschlagen",
+          "limitExceeded": "Du hast das heutige Nutzungslimit überschritten."
+        }
+      }
+    }
+  },
+  "soundeffect_common": {
+    "display_title": "Höre dir unten realistische KI-generierte Soundeffekte an",
+    "input_placeholder": "Soundeffekt-Beschreibung eingeben",
+    "generating_button": "Wird generiert...",
+    "generate_button": "Generieren",
+    "msg_example_load_failed": "Soundeffekt-Beispiel konnte nicht geladen werden, bitte versuche es später erneut!",
+    "msg_example_play_failed": "Soundeffekt-Beispiel konnte nicht abgespielt werden, bitte versuche es später erneut!",
+    "msg_notext": "Bitte gib eine Beschreibung ein, um einen Soundeffekt zu generieren",
+    "download": {
+      "noAudio": "Kein Audio zum Herunterladen",
+      "success": "Download erfolgreich",
+      "failed": "Download fehlgeschlagen, bitte versuche es später erneut",
+      "fetchFailed": "Soundeffekt-Download fehlgeschlagen, bitte versuche es später erneut!"
+    },
+    "prompt_combat": {
+      "sword_whoosh": "Schwert-Sausen",
+      "sword_through_air": "Schwert durch die Luft",
+      "shotgun_fire": "Schrotflintenschuss",
+      "laser_gunshot": "Laser-Schuss",
+      "ui_success": "UI-Erfolg"
+    },
+    "prompt_nature": {
+      "name": "Naturgeräusche",
+      "rain": "Regen",
+      "ocean_waves": "Meereswellen",
+      "flowing_water": "Fließendes Wasser",
+      "thunder": "Donner",
+      "insect_sounds": "Insektengeräusche"
+    },
+    "prompt_special": {
+      "name": "Spezielle Geräusche",
+      "fireworks": "Feuerwerk",
+      "glass_shattering": "Zerbrechendes Glas",
+      "magic_spell": "Zauberspruch",
+      "spaceship": "Raumschiff",
+      "action": "Action"
+    },
+    "prompt_instruments": {
+      "name": "Instrumentengeräusche",
+      "piano": "Klavier",
+      "electric_guitar": "E-Gitarre",
+      "violin": "Violine",
+      "keyboard": "Elektronisches Keyboard",
+      "irish_pipes": "Irische Dudelsäcke"
+    },
+    "prompt_human": {
+      "name": "Menschliche Geräusche",
+      "baby_laughing": "Babylachen",
+      "clapping": "Klatschen",
+      "celebrate": "Feier",
+      "footsteps": "Schritte",
+      "burp": "Rülpser"
+    },
+    "prompt_ambient": {
+      "name": "Umgebungsgeräusche",
+      "typing": "Tippen",
+      "noisy_restaurant": "Lautes Restaurant",
+      "doorbell_ring": "Türklingel",
+      "tv_on": "Fernseher an",
+      "cooking": "Kochen"
+    }
+  },
+  "separation_common": {
+    "pages": {
+      "vocal-isolator": {
+        "result_title": "Gesang",
+        "process_button": "Trennung starten",
+        "messages": {
+          "upload_first": "Bitte lade zuerst eine Audiodatei hoch"
+        }
+      },
+      "audio-extractor": {
+        "result_title": "Extrahiertes Audio",
+        "process_button": "Audio extrahieren",
+        "messages": {
+          "upload_first": "Bitte lade zuerst eine Videodatei hoch"
+        }
+      },
+      "vocal-remover": {
+        "result_title": "Instrumental",
+        "process_button": "Gesang entfernen",
+        "messages": {
+          "upload_first": "Bitte lade zuerst eine Audiodatei hoch"
+        }
+      }
+    },
+    "messages": {
+      "uploading": "Wird hochgeladen...",
+      "upload_failed": "Upload fehlgeschlagen, bitte versuche es später erneut",
+      "parse_failed": "Antwort konnte nicht verarbeitet werden",
+      "file_too_large": "Dateigröße überschreitet das Limit",
+      "file_type_not_supported": "Dateityp nicht unterstützt, bitte lade Dateien hoch (MP3, WAV, M4A, FLAC, AAC, OGG, MP4, AVI, WMV, FLV, MKV, WEBM, MOV)",
+      "server_busy": "Server ist ausgelastet, bitte versuche es später erneut",
+      "download_failed": "Download fehlgeschlagen, bitte versuche es später erneut",
+      "download_success": "Download erfolgreich",
+      "success_isolation": "Trennung erfolgreich!",
+      "failed_isolation": "Trennung fehlgeschlagen, bitte versuche es erneut",
+      "success_removal": "Gesangsentfernung erfolgreich!",
+      "failed_removal": "Gesangsentfernung fehlgeschlagen, bitte versuche es erneut",
+      "success_extraction": "Audioextraktion erfolgreich!",
+      "failed_extraction": "Extraktion fehlgeschlagen, bitte versuche es erneut",
+      "system_initializing": "System wird initialisiert, bitte versuche es später erneut",
+      "quota_exhausted": "Kostenloses Kontingent aufgebraucht, bitte auf Premium upgraden",
+      "http_error": "HTTP-Fehler: {status}",
+      "network_error": "Netzwerkfehler",
+      "timeout": "Anfrage-Zeitlimit überschritten",
+      "upload_aborted": "Upload abgebrochen",
+      "processing_isolation": "Wird verarbeitet...",
+      "processing_removal": "Wird verarbeitet...",
+      "processing_extraction": "Wird extrahiert..."
+    }
+  },
+  "friends": {
+    "title": "Partner"
+  },
+  "policy_pages": {
+    "privacy": {
+      "seo": {
+        "title": "Datenschutzerklärung | MoGoFun",
+        "description": "Erfahre, wie MoGoFun deine personenbezogenen Daten erhebt, nutzt und schützt, wenn du unsere KI-Stimmen- und Audio-Tools verwendest.",
+        "keywords": "MoGoFun Datenschutzerklärung, Datenschutz, personenbezogene Daten"
+      }
+    },
+    "terms": {
+      "seo": {
+        "title": "Nutzungsbedingungen | MoGoFun",
+        "description": "Lies die MoGoFun-Nutzungsbedingungen für die Nutzung unseres KI-Stimmgenerators, Audio-Tools und verwandter Dienste.",
+        "keywords": "MoGoFun Nutzungsbedingungen, Nutzervereinbarung, Servicebedingungen"
+      }
+    },
+    "refund": {
+      "seo": {
+        "title": "Rückerstattungsrichtlinie | MoGoFun",
+        "description": "Informiere dich über die MoGoFun-Rückerstattungsrichtlinie für KI-Stimmgenerierungs-Abonnements und digitale Dienstleistungen.",
+        "keywords": "MoGoFun Rückerstattungsrichtlinie, Abonnement-Rückerstattung, Kündigungsrichtlinie"
+      }
+    },
+    "dmca": {
+      "seo": {
+        "title": "DMCA- & Urheberrechtsrichtlinie | MoGoFun",
+        "description": "MoGoFun DMCA- und Urheberrechtsrichtlinie. Erfahre, wie du Urheberrechtsverletzungen auf unserer Plattform melden kannst.",
+        "keywords": "MoGoFun DMCA-Richtlinie, Urheberrechtsrichtlinie, Takedown-Hinweis"
+      }
+    }
+  }
+}

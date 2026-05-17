@@ -1,0 +1,325 @@
+{
+  "comm": {
+    "home": "ホーム",
+    "aicover": "AIカバー",
+    "voice": "ボイス",
+    "characterVoice": "キャラクターボイス",
+    "celebrityVoice": "有名人ボイス",
+    "aiVoice": "AI音声ジェネレーター",
+    "audio": "オーディオツール",
+    "soundEffects": "効果音",
+    "vocalIsolation": "ボーカル分離",
+    "pricing": "料金",
+    "login": "ログイン",
+    "settings": "設定",
+    "logout": "ログアウト",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsService": "利用規約",
+    "refundService": "返金ポリシー",
+    "dmcaPolicy": "DMCAポリシー",
+    "aboutUs": "会社概要",
+    "footerDesc": "動画、ポッドキャストなどに、独自のボイスをすぐに生成。",
+    "contact": "お問い合わせ：",
+    "aiVoiceGenerator": "AI音声ジェネレーター",
+    "aiCover": "TikTok音声ジェネレーター",
+    "quickLinks": "クイックリンク",
+    "friendsLinks": "リンク集",
+    "more": "もっと見る",
+    "selectCategory": "カテゴリを選択",
+    "loginModalIntro": "MoGoFunアカウントにアクセスするにはログインしてください",
+    "loginModalAgree": "サインインすることで、当社の",
+    "loginModalAnd": "および",
+    "loginModalUnlogged": "Googleログインサービスを読み込めません",
+    "loginModalVPN": "Googleサービスに正常にアクセスできることを確認するか、VPNのご利用をお試しください",
+    "company": "会社",
+    "vocalRemover": "ボーカル除去",
+    "video": "動画ツール",
+    "startUsing": "MoGoFunを使い始める",
+    "audioExtraction": "音声抽出",
+    "upload": {
+      "uploading": "アップロード中...",
+      "reset": "リセット"
+    },
+    "audioUpload": {
+      "title": "音声をアップロード",
+      "drag_drop": "音声ファイルをここにドラッグ＆ドロップ",
+      "formats": "対応形式：MP3、WAV、M4A、FLAC、AAC、OGG、MP4、MOV（最大20MB）",
+      "uploaded": "アップロード済み音声",
+      "unsupported": "お使いのブラウザは音声要素に対応していません。",
+      "or": "または",
+      "browse": "ファイルを選択",
+      "uploadAgain": "再アップロード"
+    },
+    "videoUpload": {
+      "title": "動画をアップロード",
+      "drag_drop": "動画ファイルをここにドラッグ＆ドロップ",
+      "formats": "MP4、MOV、AVIなどに対応（最大20MB）",
+      "uploaded": "アップロード済み動画",
+      "unsupported": "お使いのブラウザは動画タグに対応していません。"
+    },
+    "record": {
+      "start": "クリックして録音開始",
+      "stop": "クリックして録音停止",
+      "recording": "録音中...",
+      "preview": "録音をプレビュー",
+      "uploaded": "録音済み音声",
+      "rerecord": "再録音"
+    },
+    "messages": {
+      "upload_first": "先にファイルをアップロードしてください",
+      "upload_failed": "アップロードに失敗しました。しばらくしてから再度お試しください"
+    }
+  },
+  "paymodal": {
+    "title": "アップグレードしてより多くの特典を獲得",
+    "btn": "今すぐアップグレード",
+    "lowas": "月額わずか",
+    "period": "/月",
+    "save": "$9.00お得！期間限定！",
+    "features": {
+      "items": [
+        "10以上の言語で300種類以上のボイス",
+        "プロ仕様の効果音ライブラリ",
+        "完璧なボーカル分離",
+        "スマートな音声処理",
+        "AIカバーと豊富なメディア形式",
+        "無制限ダウンロード"
+      ]
+    },
+    "quotaExhausted": {
+      "tts": "テキスト読み上げの利用枠が使い切られました",
+      "cover": "AIカバー生成の利用枠が使い切られました",
+      "sound": "効果音生成の利用枠が使い切られました",
+      "vocalisolate": "ボーカル分離の利用枠が使い切られました",
+      "vocalremover": "ボーカル除去の利用枠が使い切られました",
+      "audioextractor": "音声抽出の利用枠が使い切られました",
+      "default": "利用枠が使い切られました",
+      "hint": "プランをアップグレードして、より多くの利用枠を解放し、創作を存分にお楽しみください"
+    }
+  },
+  "features": {
+    "title": "素晴らしいAIカバーを作るための強力な機能",
+    "items": [
+      {
+        "title": "ボイスのカスタマイズ",
+        "desc": "創作のビジョンに合わせてボイスパラメータを細かく調整。ピッチ、テンポ、スタイルを調整して、完璧なAIカバーを作成できます。"
+      },
+      {
+        "title": "一括処理",
+        "desc": "一括処理機能で複数の楽曲を効率的に変換。アルバムカバーやシリーズコンテンツの制作に最適です。"
+      },
+      {
+        "title": "動画生成",
+        "desc": "AIリップシンク技術で魅力的なミュージックビデオを作成。静止画をダイナミックな歌唱パフォーマンスに変換します。"
+      },
+      {
+        "title": "スタイル転送",
+        "desc": "さまざまな音楽スタイルやジャンルを試せます。あらゆる楽曲を多様な音楽的解釈に変換できます。"
+      }
+    ]
+  },
+  "ai_cover": {
+    "converter": {
+      "model": {
+        "selectError": "ボイスモデルを選択してください！"
+      },
+      "input": {
+        "title": "音声を追加：",
+        "description": "サンプル音声の利用、YouTube楽曲の追加、音声ファイルのアップロード、または録音ができます。",
+        "placeholder": "音声に変換するテキストを入力..."
+      },
+      "tabs": {
+        "main": {
+          "cover": "AI楽曲カバー",
+          "tts": "テキスト読み上げ"
+        },
+        "sample": "カバーデモ",
+        "youtube": "YouTubeから追加",
+        "upload": "アップロード",
+        "record": "録音"
+      },
+      "buttons": {
+        "create": "生成",
+        "tryAgain": "再試行",
+        "download": "ダウンロード",
+        "play": "再生",
+        "pause": "一時停止",
+        "stop": "停止",
+        "preview": "プレビュー"
+      },
+      "generate": {
+        "success": "生成に成功しました！"
+      },
+      "download": {
+        "noAudio": "ダウンロードできる音声がありません",
+        "invalidAudio": "音声データが無効です。しばらくしてから再度お試しください！",
+        "success": "ダウンロードに成功しました！",
+        "failed": "ダウンロードに失敗しました。しばらくしてから再度お試しください！"
+      },
+      "errors": {
+        "serverBusy": "サーバーが混み合っています。しばらくしてから再度お試しください！",
+        "convertFailed": "楽曲の変換に失敗しました。しばらくしてから再度お試しください！",
+        "inputText": "テキストを入力または貼り付けしてください！",
+        "fileFormat": "MP3、WAV、M4A、AAC、OGG、FLAC形式の音声ファイルをアップロードしてください",
+        "fileSize": "ファイルサイズが10MBの上限を超えています",
+        "uploadTimeout": "アップロードがタイムアウトしました。しばらくしてから再度お試しください！",
+        "microphoneAccess": "マイクにアクセスできません。マイクの使用が許可されていることを確認してください！",
+        "selectSample": "サンプル音声を選択してください！",
+        "uploadFile": "先に音声ファイルをアップロードしてください！",
+        "recordAudio": "先に音声を録音してください！",
+        "youtubeLink": "YouTubeのリンクを入力してください！",
+        "invalidSubTab": "無効なサブタブタイプです！",
+        "uploadFailed": "ファイルのアップロードに失敗しました。しばらくしてから再度お試しください。またはお問い合わせください！",
+        "tts": {
+          "failed": "テキスト読み上げの生成に失敗しました",
+          "limitExceeded": "本日の利用上限を超えました。"
+        }
+      }
+    }
+  },
+  "soundeffect_common": {
+    "display_title": "以下のリアルなAI生成効果音をお聴きください",
+    "input_placeholder": "効果音の説明を入力",
+    "generating_button": "生成中...",
+    "generate_button": "生成",
+    "msg_example_load_failed": "効果音サンプルの読み込みに失敗しました。しばらくしてから再度お試しください！",
+    "msg_example_play_failed": "効果音サンプルの再生に失敗しました。しばらくしてから再度お試しください！",
+    "msg_notext": "効果音を生成するには説明を入力してください",
+    "download": {
+      "noAudio": "ダウンロードできる音声がありません",
+      "success": "ダウンロードに成功しました",
+      "failed": "ダウンロードに失敗しました。しばらくしてから再度お試しください",
+      "fetchFailed": "効果音のダウンロードに失敗しました。しばらくしてから再度お試しください！"
+    },
+    "prompt_combat": {
+      "sword_whoosh": "剣の振る音",
+      "sword_through_air": "剣が空気を切る音",
+      "shotgun_fire": "ショットガン発砲",
+      "laser_gunshot": "レーザー銃の発砲",
+      "ui_success": "UI成功音"
+    },
+    "prompt_nature": {
+      "name": "自然の音",
+      "rain": "雨",
+      "ocean_waves": "波",
+      "flowing_water": "流水",
+      "thunder": "雷",
+      "insect_sounds": "虫の鳴き声"
+    },
+    "prompt_special": {
+      "name": "特殊効果音",
+      "fireworks": "花火",
+      "glass_shattering": "ガラスが割れる音",
+      "magic_spell": "魔法の呪文",
+      "spaceship": "宇宙船",
+      "action": "アクション"
+    },
+    "prompt_instruments": {
+      "name": "楽器の音",
+      "piano": "ピアノ",
+      "electric_guitar": "エレキギター",
+      "violin": "バイオリン",
+      "keyboard": "電子キーボード",
+      "irish_pipes": "アイリッシュパイプ"
+    },
+    "prompt_human": {
+      "name": "人間の音",
+      "baby_laughing": "赤ちゃんの笑い声",
+      "clapping": "拍手",
+      "celebrate": "お祝い",
+      "footsteps": "足音",
+      "burp": "げっぷ"
+    },
+    "prompt_ambient": {
+      "name": "環境音",
+      "typing": "タイピング",
+      "noisy_restaurant": "騒がしいレストラン",
+      "doorbell_ring": "ドアベル",
+      "tv_on": "テレビの電源",
+      "cooking": "料理"
+    }
+  },
+  "separation_common": {
+    "pages": {
+      "vocal-isolator": {
+        "result_title": "ボーカル",
+        "process_button": "分離を開始",
+        "messages": {
+          "upload_first": "先に音声ファイルをアップロードしてください"
+        }
+      },
+      "audio-extractor": {
+        "result_title": "抽出された音声",
+        "process_button": "音声を抽出",
+        "messages": {
+          "upload_first": "先に動画ファイルをアップロードしてください"
+        }
+      },
+      "vocal-remover": {
+        "result_title": "インストゥルメンタル",
+        "process_button": "ボーカルを除去",
+        "messages": {
+          "upload_first": "先に音声ファイルをアップロードしてください"
+        }
+      }
+    },
+    "messages": {
+      "uploading": "アップロード中...",
+      "upload_failed": "アップロードに失敗しました。しばらくしてから再度お試しください",
+      "parse_failed": "レスポンスの解析に失敗しました",
+      "file_too_large": "ファイルサイズが上限を超えています",
+      "file_type_not_supported": "対応していないファイル形式です。（MP3、WAV、M4A、FLAC、AAC、OGG、MP4、AVI、WMV、FLV、MKV、WEBM、MOV）ファイルをアップロードしてください",
+      "server_busy": "サーバーが混み合っています。しばらくしてから再度お試しください",
+      "download_failed": "ダウンロードに失敗しました。しばらくしてから再度お試しください",
+      "download_success": "ダウンロードに成功しました",
+      "success_isolation": "分離に成功しました！",
+      "failed_isolation": "分離に失敗しました。再度お試しください",
+      "success_removal": "ボーカル除去に成功しました！",
+      "failed_removal": "ボーカル除去に失敗しました。再度お試しください",
+      "success_extraction": "音声抽出に成功しました！",
+      "failed_extraction": "抽出に失敗しました。再度お試しください",
+      "system_initializing": "システムを初期化中です。しばらくしてから再度お試しください",
+      "quota_exhausted": "無料枠を使い切りました。プレミアムにアップグレードしてください",
+      "http_error": "HTTPエラー：{status}",
+      "network_error": "ネットワークエラー",
+      "timeout": "リクエストがタイムアウトしました",
+      "upload_aborted": "アップロードが中止されました",
+      "processing_isolation": "処理中...",
+      "processing_removal": "処理中...",
+      "processing_extraction": "抽出中..."
+    }
+  },
+  "friends": {
+    "title": "リンク集"
+  },
+  "policy_pages": {
+    "privacy": {
+      "seo": {
+        "title": "プライバシーポリシー | MoGoFun",
+        "description": "MoGoFunのAI音声・オーディオツールのご利用時に、個人情報をどのように収集・利用・保護するかをご確認ください。",
+        "keywords": "MoGoFun プライバシーポリシー, データ保護, 個人情報"
+      }
+    },
+    "terms": {
+      "seo": {
+        "title": "利用規約 | MoGoFun",
+        "description": "AI音声ジェネレーター、オーディオツールおよび関連サービスのご利用に関するMoGoFun利用規約をお読みください。",
+        "keywords": "MoGoFun 利用規約, ユーザー契約, サービス規約"
+      }
+    },
+    "refund": {
+      "seo": {
+        "title": "返金ポリシー | MoGoFun",
+        "description": "AI音声生成のサブスクリプションおよびデジタルサービス購入に関するMoGoFunの返金ポリシーをご確認ください。",
+        "keywords": "MoGoFun 返金ポリシー, サブスクリプション返金, キャンセルポリシー"
+      }
+    },
+    "dmca": {
+      "seo": {
+        "title": "DMCA・著作権ポリシー | MoGoFun",
+        "description": "MoGoFunのDMCAおよび著作権ポリシー。当プラットフォームでの著作権侵害の通報方法をご確認ください。",
+        "keywords": "MoGoFun DMCAポリシー, 著作権ポリシー, 削除通知"
+      }
+    }
+  }
+}

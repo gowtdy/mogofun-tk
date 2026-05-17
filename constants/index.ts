@@ -1,8 +1,4 @@
 export {
-  ALL_PAGE_TITLES
-} from './pageTitle'
-
-export {
   VOICE_PRESETS,
   getCharacterPresets,
   getAvailableCharacters,

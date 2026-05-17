@@ -1,7 +1,8 @@
 /** Nuxt file-based default path → public URL path */
 export const PAGE_ROUTE_OVERRIDES = [
   { from: '/vocal/ai-splitter', to: '/ai-splitter' },
-  { from: '/vocal/ai-stem-splitter', to: '/ai-stem-splitter' }
+  { from: '/vocal/ai-stem-splitter', to: '/ai-stem-splitter' },
+  { from: '/vocal/instrumental-remover', to: '/instrumental-remover' }
 ] as const
 
 export function applyPageRouteOverrides(pages: { path?: string }[]) {

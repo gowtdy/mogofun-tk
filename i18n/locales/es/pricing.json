@@ -1,0 +1,84 @@
+{
+  "pricing": {
+    "title": "🚀 Elige tu plan y potencia tu contenido",
+    "period": {
+      "monthly": "Mensual",
+      "annually": "Anual",
+      "save": "Ahorra un 40%"
+    },
+    "renew": "Se renueva a",
+    "after": "después del primer mes",
+    "monthbilled": "facturación mensual",
+    "yearbilled": "facturación anual",
+    "freebilled": "Prueba gratuita",
+    "loading": "PROCESANDO...",
+    "plans": {
+      "pro": {
+        "name": "Pro",
+        "period": "/mes",
+        "features": {
+          "items": [
+            "Acceso a todas las voces",
+            "Límite de 1 000 000 caracteres al mes (aproximadamente 30 horas de audio)",
+            "600 generaciones de efectos de sonido IA al mes",
+            "200 aislamientos vocales al mes",
+            "200 eliminaciones vocales al mes",
+            "200 extracciones de audio al mes",
+            "Descargas ilimitadas",
+            "Soporte por correo electrónico en 48 h"
+          ]
+        }
+      },
+      "advance": {
+        "name": "Avanzado",
+        "period": "/mes",
+        "features": {
+          "items": [
+            "Acceso a todas las voces",
+            "Límite de 400 000 caracteres al mes (aproximadamente 12 horas de audio)",
+            "400 generaciones de efectos de sonido IA al mes",
+            "90 aislamientos vocales al mes",
+            "90 eliminaciones vocales al mes",
+            "90 extracciones de audio al mes",
+            "Descargas ilimitadas",
+            "Soporte por correo electrónico en 48 h"
+          ]
+        }
+      },
+      "starter": {
+        "name": "Inicial",
+        "period": "/mes",
+        "features": {
+          "items": [
+            "Acceso a todas las voces",
+            "Límite de 100 000 caracteres al mes (aproximadamente 3 horas de audio)",
+            "200 generaciones de efectos de sonido IA al mes",
+            "30 aislamientos vocales al mes",
+            "30 eliminaciones vocales al mes",
+            "30 extracciones de audio al mes",
+            "Descargas ilimitadas",
+            "Soporte por correo electrónico en 72 h"
+          ]
+        }
+      },
+      "free": {
+        "name": "Gratis",
+        "period": "/mes",
+        "features": {
+          "items": [
+            "Límite de 5 conversiones de texto a voz al día",
+            "Límite de 20 conversiones de texto a voz al mes",
+            "Límite de 4 covers IA al día",
+            "Límite de 10 covers IA al mes"
+          ]
+        }
+      }
+    },
+    "cta": "EMPEZAR",
+    "popular": "Popular",
+    "trybnt": "Probar ahora",
+    "errors": {
+      "buttonTypeRequired": "Invocación no válida: se requiere el tipo de botón"
+    }
+  }
+}

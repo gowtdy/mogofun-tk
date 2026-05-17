@@ -1,0 +1,84 @@
+{
+  "pricing": {
+    "title": "🚀 Choisissez votre formule et dynamisez votre contenu",
+    "period": {
+      "monthly": "Mensuel",
+      "annually": "Annuel",
+      "save": "Économisez 40 %"
+    },
+    "renew": "Renouvellement à",
+    "after": "après le premier mois",
+    "monthbilled": "facturation mensuelle",
+    "yearbilled": "facturation annuelle",
+    "freebilled": "Essai gratuit",
+    "loading": "TRAITEMENT EN COURS...",
+    "plans": {
+      "pro": {
+        "name": "Pro",
+        "period": "/mois",
+        "features": {
+          "items": [
+            "Accès à toutes les voix",
+            "Limite de 1 000 000 caractères par mois (environ 30 heures d'audio)",
+            "600 générations d'effets sonores IA par mois",
+            "200 isolations vocales par mois",
+            "200 suppressions vocales par mois",
+            "200 extractions audio par mois",
+            "Téléchargements illimités",
+            "Assistance par e-mail sous 48 h"
+          ]
+        }
+      },
+      "advance": {
+        "name": "Avancé",
+        "period": "/mois",
+        "features": {
+          "items": [
+            "Accès à toutes les voix",
+            "Limite de 400 000 caractères par mois (environ 12 heures d'audio)",
+            "400 générations d'effets sonores IA par mois",
+            "90 isolations vocales par mois",
+            "90 suppressions vocales par mois",
+            "90 extractions audio par mois",
+            "Téléchargements illimités",
+            "Assistance par e-mail sous 48 h"
+          ]
+        }
+      },
+      "starter": {
+        "name": "Débutant",
+        "period": "/mois",
+        "features": {
+          "items": [
+            "Accès à toutes les voix",
+            "Limite de 100 000 caractères par mois (environ 3 heures d'audio)",
+            "200 générations d'effets sonores IA par mois",
+            "30 isolations vocales par mois",
+            "30 suppressions vocales par mois",
+            "30 extractions audio par mois",
+            "Téléchargements illimités",
+            "Assistance par e-mail sous 72 h"
+          ]
+        }
+      },
+      "free": {
+        "name": "Gratuit",
+        "period": "/mois",
+        "features": {
+          "items": [
+            "Limite de 5 synthèses vocales par jour",
+            "Limite de 20 synthèses vocales par mois",
+            "Limite de 4 reprises IA par jour",
+            "Limite de 10 reprises IA par mois"
+          ]
+        }
+      }
+    },
+    "cta": "COMMENCER",
+    "popular": "Populaire",
+    "trybnt": "Essayer maintenant",
+    "errors": {
+      "buttonTypeRequired": "Invocation invalide : le type de bouton est requis"
+    }
+  }
+}

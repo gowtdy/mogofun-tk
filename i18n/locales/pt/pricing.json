@@ -1,0 +1,84 @@
+{
+  "pricing": {
+    "title": "🚀 Escolha seu plano e potencialize seu conteúdo",
+    "period": {
+      "monthly": "Mensal",
+      "annually": "Anual",
+      "save": "Economize 40%"
+    },
+    "renew": "Renova em",
+    "after": "após o primeiro mês",
+    "monthbilled": "cobrado mensalmente",
+    "yearbilled": "cobrado anualmente",
+    "freebilled": "Grátis para experimentar",
+    "loading": "PROCESSANDO...",
+    "plans": {
+      "pro": {
+        "name": "Pro",
+        "period": "/mês",
+        "features": {
+          "items": [
+            "Pode usar todas as vozes",
+            "Limite de 1.000.000 caracteres por mês (aproximadamente 30 horas de áudio)",
+            "600 gerações de efeitos sonoros com IA por mês",
+            "200 isoladores vocais por mês",
+            "200 removedores vocais por mês",
+            "200 extratores de áudio por mês",
+            "Downloads ilimitados",
+            "Suporte por e-mail em 48h"
+          ]
+        }
+      },
+      "advance": {
+        "name": "Avançado",
+        "period": "/mês",
+        "features": {
+          "items": [
+            "Pode usar todas as vozes",
+            "Limite de 400.000 caracteres por mês (aproximadamente 12 horas de áudio)",
+            "400 gerações de efeitos sonoros com IA por mês",
+            "90 isoladores vocais por mês",
+            "90 removedores vocais por mês",
+            "90 extratores de áudio por mês",
+            "Downloads ilimitados",
+            "Suporte por e-mail em 48h"
+          ]
+        }
+      },
+      "starter": {
+        "name": "Inicial",
+        "period": "/mês",
+        "features": {
+          "items": [
+            "Pode usar todas as vozes",
+            "Limite de 100.000 caracteres por mês (aproximadamente 3 horas de áudio)",
+            "200 gerações de efeitos sonoros com IA por mês",
+            "30 isoladores vocais por mês",
+            "30 removedores vocais por mês",
+            "30 extratores de áudio por mês",
+            "Downloads ilimitados",
+            "Suporte por e-mail em 72h"
+          ]
+        }
+      },
+      "free": {
+        "name": "Grátis",
+        "period": "/mês",
+        "features": {
+          "items": [
+            "Limite de 5 usos de texto para fala por dia",
+            "Limite de 20 usos de texto para fala por mês",
+            "Limite de 4 usos de AI Cover por dia",
+            "Limite de 10 usos de AI Cover por mês"
+          ]
+        }
+      }
+    },
+    "cta": "COMEÇAR",
+    "popular": "Popular",
+    "trybnt": "Experimentar agora",
+    "errors": {
+      "buttonTypeRequired": "Chamada inválida: o tipo de botão é obrigatório"
+    }
+  }
+}

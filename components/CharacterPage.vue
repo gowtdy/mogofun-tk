@@ -24,7 +24,7 @@ import CharacterPageLayout from '~/components/CharacterPageLayout.vue'
 import { useCharacterPage } from '~/composables/useCharacterPage'
 import { useErrorReporter } from '~/composables/errorReporter'
 import { useRequestEvent } from '#app'
-import { config } from '../config/config.js'
+import { config } from '~/config/config'
 import { useWebVitals } from '~/composables/reportWebVital'
 import { getCharacterConfig } from '~/config/characterConfigs'
 

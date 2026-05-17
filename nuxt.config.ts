@@ -1,10 +1,10 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
-import routerConfig from './router';
 import { defineNuxtConfig } from 'nuxt/config';
 import { resolve } from 'path';
 import appConfig from './config/appConfig';
 import { i18nConfig, getTranslationFileGroup } from './config/i18nConfig';
 import routeRules from './config/routeRules';
+import { applyPageRouteOverrides } from './config/pageRoutes';
 
 // 定义输出目录配置
 const outputDir =
@@ -72,6 +72,11 @@ if (process.env.NODE_ENV !== 'production' && !process.argv.includes('build')) {
 
 export default defineNuxtConfig({
   compatibilityDate: '2026-05-10',
+  hooks: {
+    'pages:extend'(pages) {
+      applyPageRouteOverrides(pages)
+    }
+  },
   ssr: true,
   nitro: {
     compressPublicAssets: true,
@@ -100,7 +105,6 @@ export default defineNuxtConfig({
         maxKeys: 500, // 减少最大缓存键数量
       },
     },
-    routeRules,
     experimental: {
       wasm: true,
     },
@@ -254,8 +258,8 @@ export default defineNuxtConfig({
     '@pages': resolve(__dirname, './pages'),
   },
   experimental: {
-    // PM2 cluster: avoid split /_payload.json. Nuxt 3.21+ still emits per-route _payload for isr/swr
-    // routeRules — those flags are omitted in config/routeRules.ts (headers-only caching).
+    // PM2 cluster: avoid split /_payload.json. Nuxt 3.21+ still emits per-route _payload for isr/swr.
+    // Page caching is on CDN; config/routeRules.ts only sets no-cache + static legal pages.
     payloadExtraction: false,
     viewTransition: true,
     // renderPayloadJsonScript + devalue can hit Pinia shouldHydrate (obj.hasOwnProperty) on __nuxt_error.
@@ -514,10 +518,5 @@ export default defineNuxtConfig({
     buildAssetsDir: 'static/',
   },
   i18n: i18nConfig,
-  routeRules: {
-    ...routeRules,
-    '/dmca-policy': { static: true },
-    '/privacy-policy': { static: true },
-    '/terms-of-service': { static: true },
-  },
+  routeRules,
 });

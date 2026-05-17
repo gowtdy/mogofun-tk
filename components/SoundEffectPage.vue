@@ -176,8 +176,8 @@ const stopCurrentAudio = () => {
 
 // 添加错误消息的本地化处理
 const errorMessages = computed(() => ({
-  loadFailed: t(`${pageNs.value}.msg_example_load_failed`),
-  playFailed: t(`${pageNs.value}.msg_example_play_failed`)
+  loadFailed: t('soundeffect_common.msg_example_load_failed'),
+  playFailed: t('soundeffect_common.msg_example_play_failed')
 }))
 
 // 播放样本

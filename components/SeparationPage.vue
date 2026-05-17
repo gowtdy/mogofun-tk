@@ -24,6 +24,7 @@
       :result-title="pageCommon('result_title')"
       :process-button-text="pageCommon('process_button')"
       :telemetry-model-slug="pageSlug"
+      :messages-page-slug="resolvedCommonSlug"
       :job-variant="jobVariant"
       :media-type="upload.mediaType"
       :model-category="upload.modelCategory"
@@ -58,19 +59,12 @@ import { useAuth } from '~/composables/useAuth'
 import { usePageErrorHandler } from '~/composables/usePageErrorHandler'
 import { usePageSeoMeta } from '~/composables/usePageSeoMeta'
 import { useUserStore } from '~/store/user'
-import type { ActionType } from '~/composables/actionReporter'
-
-export interface SeparationUploadConfig {
-  mediaType: string
-  modelCategory: string
-  modelName: string
-  apiEndpoint: string
-  actionType: Record<string, ActionType>
-}
+import type { SeparationUploadConfig } from '~/types/separation'
 
 const props = withDefaults(
   defineProps<{
     pageSlug: string
+    commonPageSlug?: string
     upload: SeparationUploadConfig
     advantageIcons: Component[]
     jobVariant?: 'isolation' | 'removal' | 'extraction'
@@ -79,8 +73,9 @@ const props = withDefaults(
 )
 
 const { t, tm, locale: i18nLocale } = useI18n()
+const resolvedCommonSlug = computed(() => props.commonPageSlug ?? props.pageSlug)
 const pageCommon = (key: string) =>
-  t(`separation_common.pages.${props.pageSlug}.${key}`)
+  t(`separation_common.pages.${resolvedCommonSlug.value}.${key}`)
 const { getOrCreateUid } = useAuth()
 const uid = ref(getOrCreateUid())
 const userStore = useUserStore()

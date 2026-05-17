@@ -1,6 +1,7 @@
 <template>
   <SeparationPage
-    page-slug="vocal-isolator"
+    page-slug="ai-splitter"
+    common-page-slug="vocal-isolator"
     :upload="vocalIsolatorUpload"
     :advantage-icons="vocalIsolatorAdvantageIcons"
   />

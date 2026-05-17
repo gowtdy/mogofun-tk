@@ -1,0 +1,73 @@
+{
+  "ai-splitter": {
+    "meta": {
+      "title": "AI Splitter-Separate music and vocals",
+      "description": "Instantly separate music and vocals with our advanced AI splitter. Separate music and vocals from audio and video to improve your content creation.",
+      "keywords": "ai splitter, separate music and vocals"
+    },
+    "hero": {
+      "title": "AI Splitter",
+      "subtitle": "Instantly separate music and vocals from audio and video"
+    },
+    "advantages": {
+      "title": "Why Choose Our AI Splitter?",
+      "items": [
+        {
+          "title": "Professional AI Splitter Technology",
+          "description": "Experience studio-quality sound processing with our advanced AI technology. Our AI splitter precisely separates music and vocals while preserving audio integrity, delivering crystal-clear results perfect for content creation and music production.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Advanced AI Splitter Processing",
+          "description": "Our AI splitter employs cutting-edge algorithms to separate music and vocals while effectively maintaining original audio characteristics. The result is professional-grade separated tracks that preserve the essence of your original recording.",
+          "icon": "WrenchScrewdriverIcon"
+        },
+        {
+          "title": "Real-time AI Splitter Processing",
+          "description": "Get your separated audio in seconds with our efficient AI technology. No need to wait for lengthy processing times - our cloud-based AI splitter delivers quick results to separate music and vocals without compromising quality.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "High-Quality AI Splitter Output",
+          "description": "Export your processed audio in high-definition formats. Our AI splitter ensures premium quality output suitable for professional use in content creation and music production while maintaining audio fidelity.",
+          "icon": "ArrowDownTrayIcon"
+        },
+        {
+          "title": "Precise AI Splitter Control",
+          "description": "Fine-tune your audio separation with advanced controls. Our AI splitter allows you to adjust processing parameters to achieve the perfect balance when you separate music and vocals for your specific needs.",
+          "icon": "AdjustmentsHorizontalIcon"
+        },
+        {
+          "title": "Multi-format AI Splitter Support",
+          "description": "Our AI splitter supports various audio formats including MP3, WAV, and M4A. Process your audio files regardless of their format, making it versatile to separate music and vocals in any supported format.",
+          "icon": "AdjustmentsI"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "About AI Splitter",
+      "items": [
+        {
+          "question": "What is an AI Splitter?",
+          "answer": "An AI Splitter is an advanced tool that uses artificial intelligence to separate music and vocals from audio files. Our AI splitter employs sophisticated machine learning algorithms to identify and isolate audio elements while maintaining their original quality and characteristics. This AI splitter technology excels at separating music and vocals with professional precision."
+        },
+        {
+          "question": "How does our AI Splitter work?",
+          "answer": "Our AI splitter uses state-of-the-art machine learning algorithms to analyze the frequency spectrum of your audio. The AI splitter technology identifies music and vocal frequencies, isolates them from background elements, and creates two distinct tracks: one containing only the music and another with the vocals. This AI splitter process effectively separates music and vocals while preserving the original quality."
+        },
+        {
+          "question": "What types of audio files can I process?",
+          "answer": "Our AI splitter supports various audio formats including MP3, WAV, M4A, and more. You can process any audio file to separate music and vocals, whether it's a professional recording or a casual audio file. This AI splitter works best with clear music and vocal recordings and can handle files up to 10MB in size while effectively separating music and vocals."
+        },
+        {
+          "question": "How can I get the best results with the AI splitter?",
+          "answer": "For optimal results when you separate music and vocals, use high-quality audio files with clear music and vocals. Avoid heavily processed or distorted tracks, as they may affect the AI splitter separation quality. The clearer the original recording, the better our AI splitter can separate music and vocals while maintaining audio fidelity."
+        },
+        {
+          "question": "Can I use the separated music and vocals commercially?",
+          "answer": "Yes, you can use the separated music and vocals for your personal and commercial projects. However, please ensure you have the necessary rights to use the original audio content. Our AI splitter is perfect for content creators, podcasters, and audio remixers looking to create new content from existing music tracks. This AI splitter makes it easy to separate music and vocals from any audio file for any project."
+        }
+      ]
+    }
+  }
+}

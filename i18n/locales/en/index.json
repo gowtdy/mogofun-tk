@@ -125,7 +125,8 @@
       },
       "input": {
         "title": "Add Your Audio:",
-        "description": "You can use sample audio files, add YouTube songs, upload audio files, or record your voice."
+        "description": "You can use sample audio files, add YouTube songs, upload audio files, or record your voice.",
+        "placeholder": "Enter text to convert to speech..."
       },
       "tabs": {
         "main": {
@@ -184,6 +185,12 @@
     "msg_example_load_failed": "Sound sample load failed, please try again later!",
     "msg_example_play_failed": "Sound sample play failed, please try again later!",
     "msg_notext": "Please enter a description to generate a sound effect",
+    "download": {
+      "noAudio": "No audio to download",
+      "success": "Download successful",
+      "failed": "Download failed, please try again later",
+      "fetchFailed": "Sounds download failed, please try again later!"
+    },
     "prompt_combat": {
             "sword_whoosh": "Sword whoosh",
             "sword_through_air": "Sword through air",
@@ -264,6 +271,7 @@
       "file_type_not_supported": "File type not supported, please upload (MP3, WAV, M4A, FLAC, AAC, OGG, MP4, AVI, WMV, FLV, MKV, WEBM, MOV) files",
       "server_busy": "Server is busy, please try again later",
       "download_failed": "Download failed, please try again later",
+      "download_success": "Download successful",
       "success_isolation": "Separation succeeded!",
       "failed_isolation": "Separation failed, please try again",
       "success_removal": "Vocal removal succeeded!",
@@ -283,5 +291,35 @@
   },
   "friends": {
     "title": "Friends"
+  },
+  "policy_pages": {
+    "privacy": {
+      "seo": {
+        "title": "Privacy Policy | MoGoFun",
+        "description": "Learn how MoGoFun collects, uses, and protects your personal information when you use our AI voice and audio tools.",
+        "keywords": "MoGoFun privacy policy, data protection, personal information"
+      }
+    },
+    "terms": {
+      "seo": {
+        "title": "Terms of Service | MoGoFun",
+        "description": "Read the MoGoFun Terms of Service governing your use of our AI voice generator, audio tools, and related services.",
+        "keywords": "MoGoFun terms of service, user agreement, service terms"
+      }
+    },
+    "refund": {
+      "seo": {
+        "title": "Refund Policy | MoGoFun",
+        "description": "Review MoGoFun's refund policy for AI voice generation subscriptions and digital service purchases.",
+        "keywords": "MoGoFun refund policy, subscription refund, cancellation policy"
+      }
+    },
+    "dmca": {
+      "seo": {
+        "title": "DMCA & Copyright Policy | MoGoFun",
+        "description": "MoGoFun DMCA and copyright policy. Learn how to report copyright infringement on our platform.",
+        "keywords": "MoGoFun DMCA policy, copyright policy, takedown notice"
+      }
+    }
   }
 }

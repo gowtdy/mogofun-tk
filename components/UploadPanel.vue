@@ -112,6 +112,8 @@ const props = defineProps({
   apiEndpoint: { type: String, required: true },
   /** slug for analytics modelcat/modelname (hyphenated path segment) */
   telemetryModelSlug: { type: String, default: 'vocal-isolator' },
+  /** slug for separation_common.pages.* i18n keys; defaults to telemetryModelSlug */
+  messagesPageSlug: { type: String, default: '' },
   /** which separation_common success/failed_* variant to use for result toasts */
   jobVariant: { type: String, default: 'isolation' },
   actionType: {
@@ -131,6 +133,9 @@ const props = defineProps({
 })
 
 const route = useRoute()
+const resolvedMessagesPageSlug = computed(
+  () => props.messagesPageSlug || props.telemetryModelSlug
+)
 const { getOrCreateUid, getUserInfo } = useAuth()
 const { generateCoverSignature } = useSignature()
 
@@ -281,7 +286,7 @@ const handleLoginSuccess = () => {
 // Process audio separation
 const processAudio = async () => {
   if (!uploadedFile.value) {
-    toast.error(t(`separation_common.pages.${props.telemetryModelSlug}.messages.upload_first`), { position: 'top-right', duration: 3000 })
+    toast.error(t(`separation_common.pages.${resolvedMessagesPageSlug.value}.messages.upload_first`), { position: 'top-right', duration: 3000 })
     return
   }
   isProcessing.value = true
@@ -509,7 +514,7 @@ const downloadAudio = async () => {
     document.body.removeChild(a)
     window.URL.revokeObjectURL(downloadUrl)
 
-    toast.success('Download successful', {
+    toast.success(t('separation_common.messages.download_success'), {
       position: 'top-right',
       duration: 2000
     })

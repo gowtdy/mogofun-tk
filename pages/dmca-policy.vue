@@ -93,18 +93,18 @@ useHead({
   htmlAttrs: {
     lang: locale.value
   },
-  title: t('seo.title'),
+  title: t('policy_pages.dmca.seo.title'),
   meta: [
-    { name: 'description', content: t('seo.description') },
-    { name: 'keywords', content: t('seo.keywords') },
+    { name: 'description', content: t('policy_pages.dmca.seo.description') },
+    { name: 'keywords', content: t('policy_pages.dmca.seo.keywords') },
     { property: 'og:type', content: 'website' },
-    { property: 'og:title', content: t('seo.title') },
-    { property: 'og:description', content: t('seo.description') },
+    { property: 'og:title', content: t('policy_pages.dmca.seo.title') },
+    { property: 'og:description', content: t('policy_pages.dmca.seo.description') },
     { property: 'og:url', content: `${host}` },
     { property: 'og:image', content: `${cdnhost}/img/fb-avl.jpg`},
     { name: 'twitter:card', content: 'summary_large_image' },
-    { name: 'twitter:title', content: t('seo.title') },
-    { name: 'twitter:description', content: t('seo.description') },
+    { name: 'twitter:title', content: t('policy_pages.dmca.seo.title') },
+    { name: 'twitter:description', content: t('policy_pages.dmca.seo.description') },
     { name: 'twitter:site', content: `${host}` },
     { name: 'twitter:image', content: `${cdnhost}/img/tw-avl.jpg` }
   ]

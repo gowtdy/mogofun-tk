@@ -3,6 +3,7 @@ import { defineNuxtConfig } from 'nuxt/config';
 import { resolve } from 'path';
 import appConfig from './config/appConfig';
 import { i18nConfig, getTranslationFileGroup } from './config/i18nConfig';
+import { localeCodes } from './config/locales';
 import routeRules from './config/routeRules';
 import { applyPageRouteOverrides } from './config/pageRoutes';
 
@@ -350,7 +351,13 @@ export default defineNuxtConfig({
             }
             
             // 额外的检查：匹配文件名模式（处理可能的其他路径格式）
-            const fallbackPattern = /\/(en|es|fr|ja|zh-tw|zh)\/(.+?)(?:\.json|$)/i;
+            const localeChunkAlternation = localeCodes
+              .map((code) => code.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'))
+              .join('|');
+            const fallbackPattern = new RegExp(
+              `/(${localeChunkAlternation})/(.+?)(?:\\.json|$)`,
+              'i'
+            );
             const fallbackMatch = id.match(fallbackPattern);
             if (fallbackMatch) {
               const locale = fallbackMatch[1];

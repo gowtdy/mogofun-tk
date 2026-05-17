@@ -8,7 +8,7 @@ import { useAdvancedPageErrorHandler } from '~/composables/useAdvancedPageErrorH
 import { useErrorReporter } from '~/composables/errorReporter'
 import { useAdvantages } from '~/composables/useAdvantages'
 import { useFAQs } from '~/composables/useFAQs'
-import { config } from '../config/config.js'
+import { config } from '~/config/config'
 import { useNuxtApp } from '#app'
 
 interface UseGenericPageOptions {

@@ -1,0 +1,51 @@
+{
+  "about": {
+    "title": "Sobre nosotros",
+    "seo": {
+      "title": "Sobre nosotros | MoGoFun - Generador de covers con IA y locuciones",
+      "description": "Conoce MoGoFun. Descubre nuestra misión, visión y cómo estamos revolucionando la tecnología de voz con IA.",
+      "keywords": "MoGoFun, tecnología de voz con IA, sobre nosotros"
+    },
+    "companyProfile": {
+      "title": "Quiénes somos",
+      "description1": "MoGoFun es una plataforma innovadora especializada en generación de voz con IA, clonación de voz y tecnologías de transformación de audio.",
+      "description2": "Fundada por un equipo de investigadores en IA e ingenieros de audio apasionados, nos dedicamos a ampliar los límites de lo posible con la inteligencia artificial en el ámbito del audio. Nuestro equipo combina experiencia en aprendizaje automático, procesamiento de señales y diseño de experiencia de usuario para crear herramientas potentes y accesibles.",
+      "description3": "En MoGoFun ofrecemos servicios avanzados de generación de voz con IA que permiten a los usuarios crear covers con IA, locuciones y clones de voz personalizados de alta calidad, con un realismo y una expresividad emocional notables."
+    },
+    "mission": {
+      "title": "Nuestra misión y visión",
+      "missionTitle": "Nuestra misión",
+      "missionText": "Democratizar el acceso a la tecnología de voz avanzada, permitiendo que creadores, empresas y particulares se expresen mediante contenido de voz generado por IA de alta calidad, de formas que antes eran imposibles o inaccesibles.",
+      "visionTitle": "Nuestra visión",
+      "visionText": "Convertirnos en el líder mundial en tecnología de voz con IA, construyendo un futuro en el que cualquier persona pueda desatar su creatividad a través de la voz, independientemente de sus capacidades vocales naturales o su experiencia técnica."
+    },
+    "values": {
+      "title": "Nuestros valores fundamentales",
+      "innovation": {
+        "title": "Innovación",
+        "description": "Impulsamos constantemente los límites de la tecnología de voz con IA, invirtiendo en investigación y desarrollo para crear los modelos de voz más naturales y expresivos del mercado."
+      },
+      "userCentric": {
+        "title": "Centrados en el usuario",
+        "description": "Las necesidades de nuestros usuarios guían todo lo que hacemos. Diseñamos nuestra plataforma para que sea intuitiva, accesible y alineada con los objetivos creativos de nuestra diversa comunidad."
+      },
+      "excellence": {
+        "title": "Excelencia",
+        "description": "Nos comprometemos a ofrecer la máxima calidad en todo lo que hacemos, desde nuestros modelos de voz y la interfaz de usuario hasta el soporte al cliente y la cultura de la empresa."
+      }
+    },
+    "team": {
+      "title": "Nuestro equipo",
+      "description": "MoGoFun reúne a expertos apasionados en IA, ingeniería de audio y desarrollo de producto. Nuestro equipo diverso trabaja sin descanso para construir y mejorar MoGoFun, innovando constantemente para ofrecer la mejor tecnología de voz con IA a nuestros usuarios."
+    },
+    "contact": {
+      "title": "Contáctanos",
+      "getInTouch": "Ponte en contacto",
+      "message": "¿Tienes preguntas sobre nuestra empresa o nuestros servicios? Nos encantaría saber de ti. Ponte en contacto con nuestro equipo utilizando la información de contacto que aparece a continuación.",
+      "companyInfo": "Información de la empresa",
+      "company": "Empresa",
+      "website": "Sitio web",
+      "email": "Correo electrónico"
+    }
+  }
+}

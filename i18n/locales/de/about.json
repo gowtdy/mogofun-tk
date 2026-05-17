@@ -1,0 +1,51 @@
+{
+  "about": {
+    "title": "Über uns",
+    "seo": {
+      "title": "Über uns | MoGoFun - KI-Cover- & Voice-Over-Generator",
+      "description": "Erfahren Sie mehr über MoGoFun. Entdecken Sie unsere Mission, Vision und wie wir die KI-Sprachtechnologie revolutionieren.",
+      "keywords": "MoGoFun, KI-Sprachtechnologie, über uns"
+    },
+    "companyProfile": {
+      "title": "Wer wir sind",
+      "description1": "MoGoFun ist eine innovative Plattform, die sich auf KI-gestützte Sprachgenerierung, Stimmklonen und Audiobearbeitungstechnologien spezialisiert hat.",
+      "description2": "Gegründet von einem Team leidenschaftlicher KI-Forscher und Toningenieure, setzen wir uns dafür ein, die Grenzen des Möglichen mit künstlicher Intelligenz im Audiobereich zu erweitern. Unser Team vereint Expertise in maschinellem Lernen, Signalverarbeitung und UX-Design, um Werkzeuge zu schaffen, die sowohl leistungsstark als auch zugänglich sind.",
+      "description3": "Bei MoGoFun bieten wir fortschrittliche KI-Sprachgenerierungsdienste, mit denen Nutzer hochwertige KI-Cover, Voice-Overs und individuelle Stimmklone mit bemerkenswertem Realismus und emotionaler Nuance erstellen können."
+    },
+    "mission": {
+      "title": "Unsere Mission & Vision",
+      "missionTitle": "Unsere Mission",
+      "missionText": "Den Zugang zu fortschrittlicher Sprachtechnologie zu demokratisieren und Kreativen, Unternehmen und Einzelpersonen zu ermöglichen, sich durch hochwertige KI-generierte Sprachinhalte auf bisher unmögliche oder unzugängliche Weise auszudrücken.",
+      "visionTitle": "Unsere Vision",
+      "visionText": "Weltweit führend in der KI-Sprachtechnologie zu werden und eine Zukunft zu gestalten, in der jeder seine Kreativität durch die Stimme entfalten kann – unabhängig von natürlichen Stimmfähigkeiten oder technischem Know-how."
+    },
+    "values": {
+      "title": "Unsere Kernwerte",
+      "innovation": {
+        "title": "Innovation",
+        "description": "Wir erweitern ständig die Grenzen der KI-Sprachtechnologie und investieren in Forschung und Entwicklung, um die natürlichsten und ausdrucksstärksten Sprachmodelle zu schaffen."
+      },
+      "userCentric": {
+        "title": "Nutzerorientiert",
+        "description": "Die Bedürfnisse unserer Nutzer bestimmen alles, was wir tun. Wir gestalten unsere Plattform intuitiv, zugänglich und im Einklang mit den kreativen Zielen unserer vielfältigen Community."
+      },
+      "excellence": {
+        "title": "Exzellenz",
+        "description": "Wir verpflichten uns zu höchster Qualität in allem, was wir tun – von unseren Sprachmodellen und der Benutzeroberfläche bis hin zu Kundensupport und Unternehmenskultur."
+      }
+    },
+    "team": {
+      "title": "Unser Team",
+      "description": "MoGoFun vereint leidenschaftliche Experten in den Bereichen KI, Tontechnik und Produktentwicklung. Unser vielfältiges Team arbeitet unermüdlich daran, MoGoFun weiter auszubauen und zu verbessern – mit ständiger Innovation, um unseren Nutzern die beste KI-Sprachtechnologie zu bieten."
+    },
+    "contact": {
+      "title": "Kontakt",
+      "getInTouch": "Kontakt aufnehmen",
+      "message": "Haben Sie Fragen zu unserem Unternehmen oder unseren Dienstleistungen? Wir freuen uns auf Ihre Nachricht. Kontaktieren Sie unser Team über die untenstehenden Angaben.",
+      "companyInfo": "Unternehmensinformationen",
+      "company": "Unternehmen",
+      "website": "Website",
+      "email": "E-Mail"
+    }
+  }
+}

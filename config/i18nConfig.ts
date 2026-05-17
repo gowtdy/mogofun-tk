@@ -32,6 +32,7 @@ export const translationFilesConfig: TranslationFileConfig[] = [
   { file: 'settings.json', group: 'tools' },
   { file: 'vocal/ai-splitter.json', group: 'vocal', route: 'ai-splitter' },
   { file: 'vocal/ai-stem-splitter.json', group: 'vocal', route: 'ai-stem-splitter' },
+  { file: 'vocal/instrumental-remover.json', group: 'vocal', route: 'instrumental-remover' },
 ];
 
 /** 由 translationFilesConfig 自动生成：normalized route → locale file */

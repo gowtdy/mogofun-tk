@@ -136,7 +136,7 @@
 
               <!-- 文本输入框容器 -->
               <div class="flex-1 flex flex-col pb-8">
-                <textarea v-model="ttsText" :placeholder="$t('tts_generator.input.placeholder')"
+                <textarea v-model="ttsText" :placeholder="$t('ai_cover.converter.input.placeholder')"
                   :maxlength="MAX_TEXT_LENGTH" @input="handleTextInput" class="tts-textarea-optimized"></textarea>
               </div>
 
@@ -677,7 +677,7 @@ const handleTTS = async () => {
 
   if (ttsText.value === '') {
     ret = 1
-    msg = t('ai_cover.converter.inputText')
+    msg = t('ai_cover.converter.errors.inputText')
     return [ret, msg]
   }
 

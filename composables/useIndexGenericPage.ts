@@ -7,7 +7,7 @@ import { useAuth } from '~/composables/useAuth'
 import { useAdvancedPageErrorHandler } from '~/composables/useAdvancedPageErrorHandler'
 import { useErrorReporter } from '~/composables/errorReporter'
 import { useFAQs } from '~/composables/useFAQs'
-import { config } from '../config/config.js'
+import { config } from '~/config/config'
 import { useNuxtApp } from '#app'
 
 interface UseIndexGenericPageOptions {

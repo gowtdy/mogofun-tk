@@ -1,0 +1,73 @@
+{
+  "instrumental-remover": {
+    "meta": {
+      "title": "Instrumental Remover, remove background music",
+      "description": "Instantly remove background music with our advanced instrumental remover. Remove background music from any audio or video to improve your content creation.",
+      "keywords": "instrumental remover, remove background music"
+    },
+    "hero": {
+      "title": "Instrumental Remover",
+      "subtitle": "Instantly remove background music from any audio or video"
+    },
+    "advantages": {
+      "title": "Why Choose Our Instrumental Remover?",
+      "items": [
+        {
+          "title": "Professional AI Background Music Removal",
+          "description": "Experience studio-quality sound processing with our advanced AI technology. Our instrumental remover precisely removes background music while preserving the original audio, delivering crystal-clear results perfect for content creation. This professional tool is designed to remove background music with precision.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Advanced Audio Processing",
+          "description": "Our AI-powered system employs cutting-edge algorithms to remove background music while effectively isolating the original audio. The result is a professional-grade separated track that maintains the original audio characteristics. This technology ensures clean background music removal.",
+          "icon": "WrenchScrewdriverIcon"
+        },
+        {
+          "title": "Real-time Processing",
+          "description": "Get your separated audio in seconds with our efficient AI technology. No need to wait for lengthy processing times - our cloud-based system delivers quick results to remove background music without compromising quality. Our tool processes files rapidly.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "High-Quality Output",
+          "description": "Export your processed audio in high-definition formats. Our instrumental remover ensures premium quality output suitable for professional use in content creation and music production. Remove background music while maintaining audio fidelity.",
+          "icon": "ArrowDownTrayIcon"
+        },
+        {
+          "title": "Precise Control",
+          "description": "Fine-tune your audio separation with advanced controls. Adjust processing parameters to achieve the perfect balance between vocal clarity and background music removal for your specific needs. This tool gives you complete control over background music removal.",
+          "icon": "AdjustmentsHorizontalIcon"
+        },
+        {
+          "title": "Multi-format Support",
+          "description": "Our AI-powered system supports various audio formats including MP3, WAV, and M4A. Process your sound files regardless of their format, making it versatile for all your audio separation needs. This vocal extractor can separate instrument tracks from any supported format.",
+          "icon": "AdjustmentsI"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "About Instrumental Remover",
+      "items": [
+        {
+          "question": "What is an AI Instrumental Remover?",
+          "answer": "An AI Instrumental Remover is an advanced tool that uses artificial intelligence to remove background music from audio files. Our instrumental remover employs sophisticated machine learning algorithms to identify and separate audio elements while maintaining their original quality and characteristics. This technology excels at removing background music with precision."
+        },
+        {
+          "question": "How does our AI Instrumental Remover work?",
+          "answer": "Our AI-powered instrumental remover uses state-of-the-art machine learning algorithms to analyze the frequency spectrum of your audio. The technology identifies background music frequencies, isolates them from the original audio, and creates two distinct tracks: one containing only the vocals and another with the background music. This process effectively removes background music while preserving the original quality."
+        },
+        {
+          "question": "What types of audio files can I process?",
+          "answer": "Our instrumental remover supports various audio formats including MP3, WAV, M4A, and more. You can process any audio file to remove background music, whether it's a professional recording or a casual sound file. This tool works best with clear audio recordings and can handle files up to 10MB in size while effectively removing background music."
+        },
+        {
+          "question": "How can I get the best results with the instrumental remover?",
+          "answer": "For optimal results with our instrumental remover, use high-quality audio files with clear vocals. Avoid heavily processed or distorted tracks, as they may affect the ability to remove background music effectively. The clearer the original recording, the better our tool can remove background music while maintaining quality."
+        },
+        {
+          "question": "Can I use the extracted audio commercially?",
+          "answer": "Yes, you can use the separated audio for your personal and commercial projects. However, please ensure you have the necessary rights to use the original audio content. Our instrumental remover is perfect for content creators, podcasters, and audio remixers looking to remove background music for new content creation. This tool makes it easy to remove background music from any audio file."
+        }
+      ]
+    }
+  }
+}

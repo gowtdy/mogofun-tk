@@ -1,0 +1,73 @@
+{
+  "instrumental-remover": {
+    "meta": {
+      "title": "Removedor de Instrumentais - Remova música de fundo",
+      "description": "Remova música de fundo instantaneamente com nosso removedor de instrumentais avançado. Remova música de fundo de qualquer áudio ou vídeo para aprimorar sua criação de conteúdo.",
+      "keywords": "removedor de instrumentais, remover música de fundo"
+    },
+    "hero": {
+      "title": "Removedor de Instrumentais",
+      "subtitle": "Remova música de fundo instantaneamente de qualquer áudio ou vídeo"
+    },
+    "advantages": {
+      "title": "Por que escolher nosso Removedor de Instrumentais?",
+      "items": [
+        {
+          "title": "Remoção profissional de música de fundo com IA",
+          "description": "Experimente processamento de som com qualidade de estúdio graças à nossa tecnologia de IA avançada. Nosso removedor de instrumentais remove música de fundo com precisão, preservando o áudio original e entregando resultados cristalinos, perfeitos para criação de conteúdo. Esta ferramenta profissional foi projetada para remover música de fundo com precisão.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Processamento avançado de áudio",
+          "description": "Nosso sistema com IA emprega algoritmos de ponta para remover música de fundo, isolando de forma eficaz o áudio original. O resultado é uma faixa separada de nível profissional que mantém as características originais do áudio. Esta tecnologia garante uma remoção limpa da música de fundo.",
+          "icon": "WrenchScrewdriverIcon"
+        },
+        {
+          "title": "Processamento em tempo real",
+          "description": "Obtenha seu áudio separado em segundos com nossa eficiente tecnologia de IA. Não é preciso esperar longos tempos de processamento — nosso sistema em nuvem entrega resultados rápidos para remover música de fundo sem comprometer a qualidade. Nossa ferramenta processa arquivos rapidamente.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Saída de alta qualidade",
+          "description": "Exporte seu áudio processado em formatos de alta definição. Nosso removedor de instrumentais garante saída de qualidade premium, adequada para uso profissional em criação de conteúdo e produção musical. Remova música de fundo mantendo a fidelidade do áudio.",
+          "icon": "ArrowDownTrayIcon"
+        },
+        {
+          "title": "Controle preciso",
+          "description": "Ajuste finamente a separação do áudio com controles avançados. Ajuste os parâmetros de processamento para alcançar o equilíbrio perfeito entre clareza vocal e remoção de música de fundo conforme suas necessidades específicas. Esta ferramenta oferece controle total sobre a remoção de música de fundo.",
+          "icon": "AdjustmentsHorizontalIcon"
+        },
+        {
+          "title": "Suporte a múltiplos formatos",
+          "description": "Nosso sistema com IA suporta vários formatos de áudio, incluindo MP3, WAV e M4A. Processe seus arquivos de áudio independentemente do formato, tornando-o versátil para todas as suas necessidades de separação de áudio. Este extrator vocal pode separar faixas instrumentais de qualquer formato compatível.",
+          "icon": "AdjustmentsI"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Sobre o Removedor de Instrumentais",
+      "items": [
+        {
+          "question": "O que é um Removedor de Instrumentais com IA?",
+          "answer": "Um Removedor de Instrumentais com IA é uma ferramenta avançada que usa inteligência artificial para remover música de fundo de arquivos de áudio. Nosso removedor de instrumentais emprega algoritmos sofisticados de aprendizado de máquina para identificar e separar elementos de áudio, mantendo sua qualidade e características originais. Esta tecnologia se destaca em remover música de fundo com precisão."
+        },
+        {
+          "question": "Como funciona nosso Removedor de Instrumentais com IA?",
+          "answer": "Nosso removedor de instrumentais com IA usa algoritmos de aprendizado de máquina de última geração para analisar o espectro de frequências do seu áudio. A tecnologia identifica as frequências da música de fundo, isola-as do áudio original e cria duas faixas distintas: uma contendo apenas os vocais e outra com a música de fundo. Esse processo remove música de fundo de forma eficaz, preservando a qualidade original."
+        },
+        {
+          "question": "Quais tipos de arquivos de áudio posso processar?",
+          "answer": "Nosso removedor de instrumentais suporta vários formatos de áudio, incluindo MP3, WAV, M4A e outros. Você pode processar qualquer arquivo de áudio para remover música de fundo, seja uma gravação profissional ou um arquivo casual. Esta ferramenta funciona melhor com gravações de áudio claras e pode processar arquivos de até 10 MB, removendo música de fundo de forma eficaz."
+        },
+        {
+          "question": "Como obter os melhores resultados com o removedor de instrumentais?",
+          "answer": "Para resultados ideais com nosso removedor de instrumentais, use arquivos de áudio de alta qualidade com vocais claros. Evite faixas muito processadas ou distorcidas, pois podem afetar a capacidade de remover música de fundo de forma eficaz. Quanto mais clara a gravação original, melhor nossa ferramenta consegue remover música de fundo mantendo a qualidade."
+        },
+        {
+          "question": "Posso usar o áudio extraído comercialmente?",
+          "answer": "Sim, você pode usar o áudio separado em projetos pessoais e comerciais. No entanto, certifique-se de ter os direitos necessários para usar o conteúdo de áudio original. Nosso removedor de instrumentais é perfeito para criadores de conteúdo, podcasters e remixadores de áudio que desejam remover música de fundo para criar novo conteúdo. Esta ferramenta facilita remover música de fundo de qualquer arquivo de áudio."
+        }
+      ]
+    }
+  }
+}

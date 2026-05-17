@@ -1,0 +1,73 @@
+{
+  "instrumental-remover": {
+    "meta": {
+      "title": "Suppresseur d'instrumental - Supprimer la musique de fond",
+      "description": "Supprimez instantanément la musique de fond grâce à notre suppresseur d'instrumental avancé. Retirez la musique de fond de tout fichier audio ou vidéo pour améliorer votre création de contenu.",
+      "keywords": "suppresseur instrumental, supprimer musique de fond"
+    },
+    "hero": {
+      "title": "Suppresseur d'instrumental",
+      "subtitle": "Supprimez instantanément la musique de fond de tout fichier audio ou vidéo"
+    },
+    "advantages": {
+      "title": "Pourquoi choisir notre suppresseur d'instrumental ?",
+      "items": [
+        {
+          "title": "Suppression professionnelle de musique de fond par IA",
+          "description": "Profitez d'un traitement audio de qualité studio grâce à notre technologie IA avancée. Notre suppresseur d'instrumental retire avec précision la musique de fond tout en préservant l'audio d'origine, pour des résultats cristallins idéaux en création de contenu. Cet outil professionnel est conçu pour supprimer la musique de fond avec précision.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Traitement audio avancé",
+          "description": "Notre système alimenté par l'IA utilise des algorithmes de pointe pour supprimer la musique de fond tout en isolant efficacement l'audio d'origine. Le résultat : une piste séparée de qualité professionnelle qui conserve les caractéristiques audio d'origine. Cette technologie garantit une suppression propre de la musique de fond.",
+          "icon": "WrenchScrewdriverIcon"
+        },
+        {
+          "title": "Traitement en temps réel",
+          "description": "Obtenez votre audio séparé en quelques secondes grâce à notre technologie IA efficace. Plus besoin d'attendre de longs temps de traitement — notre système cloud offre des résultats rapides pour supprimer la musique de fond sans compromettre la qualité. Notre outil traite les fichiers rapidement.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Sortie haute qualité",
+          "description": "Exportez votre audio traité dans des formats haute définition. Notre suppresseur d'instrumental garantit une sortie premium adaptée à un usage professionnel en création de contenu et production musicale, tout en préservant la fidélité audio.",
+          "icon": "ArrowDownTrayIcon"
+        },
+        {
+          "title": "Contrôle précis",
+          "description": "Affinez votre séparation audio grâce à des contrôles avancés. Ajustez les paramètres de traitement pour obtenir l'équilibre parfait entre la clarté vocale et la suppression de la musique de fond selon vos besoins. Cet outil vous offre un contrôle total sur la suppression de la musique de fond.",
+          "icon": "AdjustmentsHorizontalIcon"
+        },
+        {
+          "title": "Prise en charge multi-formats",
+          "description": "Notre système alimenté par l'IA prend en charge divers formats audio, notamment MP3, WAV et M4A. Traitez vos fichiers sonores quel que soit leur format, pour une séparation audio polyvalente adaptée à tous vos besoins. Cet extracteur vocal peut séparer les pistes instrumentales à partir de tout format pris en charge.",
+          "icon": "AdjustmentsI"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "À propos du suppresseur d'instrumental",
+      "items": [
+        {
+          "question": "Qu'est-ce qu'un suppresseur d'instrumental IA ?",
+          "answer": "Un suppresseur d'instrumental IA est un outil avancé qui utilise l'intelligence artificielle pour supprimer la musique de fond des fichiers audio. Notre suppresseur d'instrumental emploie des algorithmes d'apprentissage automatique sophistiqués pour identifier et séparer les éléments audio tout en conservant leur qualité et leurs caractéristiques d'origine. Cette technologie excelle dans la suppression précise de la musique de fond."
+        },
+        {
+          "question": "Comment fonctionne notre suppresseur d'instrumental IA ?",
+          "answer": "Notre suppresseur d'instrumental alimenté par l'IA utilise des algorithmes d'apprentissage automatique de pointe pour analyser le spectre de fréquences de votre audio. La technologie identifie les fréquences de la musique de fond, les isole de l'audio d'origine et crée deux pistes distinctes : l'une contenant uniquement les voix et l'autre la musique de fond. Ce processus supprime efficacement la musique de fond tout en préservant la qualité d'origine."
+        },
+        {
+          "question": "Quels types de fichiers audio puis-je traiter ?",
+          "answer": "Notre suppresseur d'instrumental prend en charge divers formats audio, notamment MP3, WAV, M4A et bien d'autres. Vous pouvez traiter tout fichier audio pour supprimer la musique de fond, qu'il s'agisse d'un enregistrement professionnel ou d'un fichier sonore courant. L'outil fonctionne mieux avec des enregistrements audio clairs et peut traiter des fichiers jusqu'à 10 Mo tout en supprimant efficacement la musique de fond."
+        },
+        {
+          "question": "Comment obtenir les meilleurs résultats avec le suppresseur d'instrumental ?",
+          "answer": "Pour des résultats optimaux avec notre suppresseur d'instrumental, utilisez des fichiers audio de haute qualité avec des voix claires. Évitez les pistes fortement traitées ou déformées, car elles peuvent affecter la capacité à supprimer efficacement la musique de fond. Plus l'enregistrement original est clair, mieux notre outil peut supprimer la musique de fond tout en préservant la qualité."
+        },
+        {
+          "question": "Puis-je utiliser l'audio extrait à des fins commerciales ?",
+          "answer": "Oui, vous pouvez utiliser l'audio séparé pour vos projets personnels et commerciaux. Cependant, veuillez vous assurer de disposer des droits nécessaires pour utiliser le contenu audio original. Notre suppresseur d'instrumental est parfait pour les créateurs de contenu, les podcasteurs et les remixeurs audio souhaitant supprimer la musique de fond pour créer de nouveaux contenus. Cet outil facilite la suppression de la musique de fond à partir de n'importe quel fichier audio."
+        }
+      ]
+    }
+  }
+}

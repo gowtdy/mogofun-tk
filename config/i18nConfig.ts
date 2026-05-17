@@ -5,7 +5,7 @@ export { validLanguages } from './locales'
 // 定义翻译文件配置，包含文件名和对应的分组
 // 每个文件都有明确的分组配置，确保配置完整且便于维护
 // 导出类型，供其他模块使用，统一管理组命名
-export type TranslationFileGroup = 'tools' | 'character' | 'celebrity'
+export type TranslationFileGroup = 'tools' | 'vocal'
 
 interface TranslationFileConfig {
   file: string; // 文件名（包含 .json 扩展名）
@@ -26,11 +26,12 @@ export const translationFilesConfig: TranslationFileConfig[] = [
   { file: 'about.json', group: 'tools' },
   { file: 'sounds-effect.json', group: 'tools' },
   { file: 'vocal-isolator.json', group: 'tools' },
-  { file: 'vocal/ai-splitter.json', group: 'tools', route: 'ai-splitter' },
   { file: 'audio-extractor.json', group: 'tools' },
   { file: 'vocal-remover.json', group: 'tools' },
   { file: 'pricing.json', group: 'tools' },
-  { file: 'settings.json', group: 'tools' }
+  { file: 'settings.json', group: 'tools' },
+  { file: 'vocal/ai-splitter.json', group: 'vocal', route: 'ai-splitter' },
+  { file: 'vocal/ai-stem-splitter.json', group: 'vocal', route: 'ai-stem-splitter' },
 ];
 
 /** 由 translationFilesConfig 自动生成：normalized route → locale file */

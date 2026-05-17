@@ -1,6 +1,6 @@
 import { computed, toValue, type MaybeRefOrGetter } from 'vue'
 import { useHead } from '#imports'
-import { config } from '../config/config.js'
+import { config } from '~/config/config'
 import { localeCodes } from '../config/locales'
 import { useErrorReporter } from './errorReporter'
 

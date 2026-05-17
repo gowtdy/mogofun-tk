@@ -3,16 +3,9 @@
     <select v-model="locale" 
       @change="changeLanguage(locale)"
       class="appearance-none bg-white border border-gray-300 rounded px-3 pr-8 py-2 h-10 focus:ring-2 focus:ring-primary focus:border-primary min-w-[120px]">
-      <option value="en"> English</option>
-      <option value="ja">日本語</option>
-      <option value="zh"> 中文</option>
-      <option value="zh-tw">繁體中文</option>
-      <option value="fr">Français</option>
-      <option value="de">Deutsch</option>
-      <option value="es">Español</option>
-      <option value="pt">Português</option>
-      <option value="ko">한국어</option>
-      <option value="ar">العربية</option>
+      <option v-for="lang in LOCALES" :key="lang.code" :value="lang.code">
+        {{ lang.name }}
+      </option>
     </select>
     <div class="pointer-events-none absolute inset-y-0 right-0 flex items-center px-2 text-gray-700">
       <svg class="fill-current h-4 w-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" aria-hidden="true">
@@ -24,14 +17,12 @@
 
 <script setup>
 import { useI18n } from 'vue-i18n'
-import { useRouter, useRoute } from 'vue-router'
-import { useNuxtApp } from '#app'
+import { useRoute } from 'vue-router'
 import { config } from '~/config/config'
+import { LOCALES } from '~/config/locales'
 
 const { locale, availableLocales } = useI18n()
-const router = useRouter()
 const route = useRoute()
-const nuxtApp = useNuxtApp()
 
 async function changeLanguage(lang) {
   // 先获取当前路由的路径（去除语言前缀）

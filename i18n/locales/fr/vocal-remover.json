@@ -1,0 +1,73 @@
+{
+  "vocal-remover": {
+    "meta": {
+      "title": "Suppresseur de voix : supprimez gratuitement les voix d'une chanson, d'un audio ou d'une vidéo",
+      "description": "Supprimez instantanément les voix de n'importe quelle chanson, audio ou vidéo avec notre outil de suppression vocale. Créez des pistes karaoké ou instrumentales de haute qualité en ligne grâce à une IA avancée.",
+      "keywords": "suppresseur de voix, supprimer les voix, suppresseur vocal ia, suppresseur de voix principales ia, supprimer les voix d'une chanson"
+    },
+    "hero": {
+      "title": "Meilleur suppresseur de voix IA en ligne",
+      "subtitle": "Supprimez instantanément les voix d'une chanson, d'une musique, d'un audio ou d'une vidéo, à tout moment et partout"
+    },
+    "advantages": {
+      "title": "Pourquoi choisir notre suppresseur de voix IA ?",
+      "items": [
+        {
+          "title": "Suppresseur de voix professionnel",
+          "description": "Profitez d'une suppression vocale de qualité studio grâce à notre technologie IA avancée. Notre outil retire avec précision les voix principales des chansons, pour des pistes instrumentales cristallines idéales en karaoké, remix et production musicale.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Traitement audio avancé",
+          "description": "Notre suppresseur de voix principales IA utilise des algorithmes de pointe pour préserver la clarté instrumentale tout en supprimant efficacement les voix. Le résultat est une piste instrumentale de qualité professionnelle qui conserve les caractéristiques musicales d'origine.",
+          "icon": "WrenchScrewdriverIcon"
+        },
+        {
+          "title": "Traitement en temps réel",
+          "description": "Obtenez vos pistes instrumentales en quelques secondes grâce à notre suppresseur de voix IA efficace. Plus besoin d'attendre de longs temps de traitement — notre système cloud offre des résultats rapides sans compromettre la qualité.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Sortie haute qualité",
+          "description": "Exportez vos pistes instrumentales dans des formats audio haute définition. Notre suppresseur de voix garantit une sortie premium adaptée à un usage professionnel en karaoké, remix et projets de production musicale.",
+          "icon": "ArrowDownTrayIcon"
+        },
+        {
+          "title": "Contrôle précis",
+          "description": "Affinez votre suppression vocale avec des contrôles avancés. Ajustez les paramètres de séparation pour obtenir l'équilibre parfait entre la clarté instrumentale et la suppression des voix selon vos besoins.",
+          "icon": "AdjustmentsHorizontalIcon"
+        },
+        {
+          "title": "Prise en charge multi-formats",
+          "description": "Notre suppresseur de voix principales IA prend en charge divers formats audio, dont MP3, WAV et M4A. Traitez vos fichiers audio quel que soit leur format, pour répondre à tous vos besoins de suppression vocale.",
+          "icon": "AdjustmentsI"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "À propos du suppresseur de voix IA",
+      "items": [
+        {
+          "question": "Qu'est-ce qu'un suppresseur de voix ?",
+          "answer": "Un suppresseur de voix est un outil qui utilise l'IA pour retirer les voix d'une chanson, en ne conservant que les parties instrumentales. Notre suppresseur de voix IA facilite la création de pistes karaoké ou d'accompagnement en supprimant les voix des morceaux."
+        },
+        {
+          "question": "Comment fonctionne le suppresseur de voix IA ?",
+          "answer": "Notre suppresseur de voix IA analyse votre audio, détecte les fréquences vocales et supprime les voix tout en gardant l'instrumental net. Le processus s'appuie sur l'apprentissage automatique avancé pour une suppression vocale précise et des résultats de haute qualité."
+        },
+        {
+          "question": "Quels formats audio sont pris en charge ?",
+          "answer": "Vous pouvez utiliser notre suppresseur de voix avec MP3, WAV, M4A et d'autres formats populaires. Le suppresseur de voix IA est conçu pour retirer les voix d'une large gamme de fichiers audio jusqu'à 10 Mo."
+        },
+        {
+          "question": "Comment obtenir les meilleurs résultats lors de la suppression des voix ?",
+          "answer": "Pour des résultats optimaux avec notre suppresseur de voix, utilisez des fichiers audio de haute qualité avec une séparation nette entre voix et instruments. Des enregistrements propres aident le suppresseur de voix IA à obtenir une suppression vocale plus précise."
+        },
+        {
+          "question": "Puis-je utiliser les pistes instrumentales à des fins commerciales ?",
+          "answer": "Oui, vous pouvez utiliser les pistes instrumentales créées par notre suppresseur de voix pour des projets personnels ou commerciaux. Veillez toutefois à disposer des droits sur l'audio original avant d'utiliser le suppresseur de voix IA à des fins commerciales."
+        }
+      ]
+    }
+  }
+}

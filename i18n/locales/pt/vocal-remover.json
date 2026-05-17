@@ -1,0 +1,73 @@
+{
+  "vocal-remover": {
+    "meta": {
+      "title": "Removedor de vocais: remova vocais grátis de música, áudio ou vídeo",
+      "description": "Remova vocais instantaneamente de qualquer música, áudio ou vídeo com nossa ferramenta de removedor de vocais. Crie faixas de karaokê ou instrumentais de alta qualidade online com IA avançada.",
+      "keywords": "removedor de vocais, remover vocais, removedor de vocais com ia, removedor de vocais principais com ia, remover vocais da música"
+    },
+    "hero": {
+      "title": "Melhor removedor de vocais com IA online",
+      "subtitle": "Remova vocais instantaneamente de uma música, áudio ou vídeo, a qualquer hora e em qualquer lugar"
+    },
+    "advantages": {
+      "title": "Por que escolher nosso removedor de vocais com IA?",
+      "items": [
+        {
+          "title": "Removedor de vocais profissional",
+          "description": "Experimente remoção de voz com qualidade de estúdio graças à nossa tecnologia avançada de IA. Nossa ferramenta remove com precisão os vocais principais das músicas, entregando faixas instrumentais cristalinas, perfeitas para karaokê, remixagem e produção musical.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Processamento de áudio avançado",
+          "description": "Nosso removedor de vocais principais com IA emprega algoritmos de ponta para manter a clareza instrumental enquanto remove efetivamente as vozes. O resultado é uma faixa instrumental de nível profissional que preserva as características originais da música.",
+          "icon": "WrenchScrewdriverIcon"
+        },
+        {
+          "title": "Processamento em tempo real",
+          "description": "Obtenha suas faixas instrumentais em segundos com nosso eficiente removedor de vocais com IA. Sem esperar por longos tempos de processamento — nosso sistema na nuvem entrega resultados rápidos sem comprometer a qualidade.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Saída de alta qualidade",
+          "description": "Exporte suas faixas instrumentais em formatos de áudio em alta definição. Nosso removedor de vocais garante saída de qualidade premium, adequada para uso profissional em karaokê, remixagem e projetos de produção musical.",
+          "icon": "ArrowDownTrayIcon"
+        },
+        {
+          "title": "Controle preciso",
+          "description": "Ajuste finamente a remoção de vocais com controles avançados. Configure os parâmetros de separação para alcançar o equilíbrio perfeito entre clareza instrumental e remoção de voz, de acordo com suas necessidades.",
+          "icon": "AdjustmentsHorizontalIcon"
+        },
+        {
+          "title": "Suporte a vários formatos",
+          "description": "Nosso removedor de vocais principais com IA suporta diversos formatos de áudio, incluindo MP3, WAV e M4A. Processe seus arquivos de áudio independentemente do formato, tornando-o versátil para todas as suas necessidades de remoção de voz.",
+          "icon": "AdjustmentsI"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Sobre o removedor de vocais com IA",
+      "items": [
+        {
+          "question": "O que é um removedor de vocais?",
+          "answer": "Um removedor de vocais é uma ferramenta que usa IA para remover os vocais de uma música, deixando apenas as partes instrumentais. Nosso removedor de vocais com IA facilita a criação de faixas de karaokê ou bases musicais ao remover os vocais das músicas."
+        },
+        {
+          "question": "Como funciona o removedor de vocais com IA?",
+          "answer": "Nosso removedor de vocais com IA analisa seu áudio, detecta as frequências da voz e remove os vocais mantendo o instrumental claro. O processo usa aprendizado de máquina avançado para remoção vocal precisa e resultados de alta qualidade."
+        },
+        {
+          "question": "Quais formatos de áudio são suportados?",
+          "answer": "Você pode usar nosso removedor de vocais com MP3, WAV, M4A e outros formatos populares. O removedor de vocais com IA foi projetado para remover vocais de uma ampla variedade de arquivos de áudio de até 10 MB."
+        },
+        {
+          "question": "Como obter os melhores resultados ao remover vocais?",
+          "answer": "Para os melhores resultados com nosso removedor de vocais, use arquivos de áudio de alta qualidade com separação clara entre vocais e instrumentos. Gravações limpas ajudam o removedor de vocais com IA a alcançar uma remoção de voz mais precisa."
+        },
+        {
+          "question": "Posso usar as faixas instrumentais comercialmente?",
+          "answer": "Sim, você pode usar as faixas instrumentais criadas pelo nosso removedor de vocais em projetos pessoais ou comerciais. Certifique-se de ter os direitos sobre o áudio original antes de usar o removedor de vocais com IA para fins comerciais."
+        }
+      ]
+    }
+  }
+}

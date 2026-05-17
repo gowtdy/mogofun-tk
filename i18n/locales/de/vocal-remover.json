@@ -1,0 +1,73 @@
+{
+  "vocal-remover": {
+    "meta": {
+      "title": "Vocal-Entferner: Gesang kostenlos aus Song, Audio oder Video entfernen",
+      "description": "Entfernen Sie Gesang sofort aus jedem Song, Audio oder Video mit unserem Vocal-Entferner. Erstellen Sie hochwertige Karaoke- oder Instrumentalspuren online mit fortschrittlicher KI.",
+      "keywords": "vocal entferner, gesang entfernen, ki vocal entferner, ki lead vocal entferner, gesang aus song entfernen"
+    },
+    "hero": {
+      "title": "Bester KI-Vocal-Entferner online",
+      "subtitle": "Entfernen Sie Gesang sofort aus einem Song, Musik, Audio oder Video – jederzeit und überall"
+    },
+    "advantages": {
+      "title": "Warum unseren KI-Vocal-Entferner wählen?",
+      "items": [
+        {
+          "title": "Professioneller Vocal-Entferner",
+          "description": "Erleben Sie Stimmentfernung in Studioqualität mit unserer fortschrittlichen KI-Technologie. Unser Tool entfernt präzise den Lead-Gesang aus Songs und liefert kristallklare Instrumentalspuren – ideal für Karaoke, Remixing und Musikproduktion.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Fortschrittliche Audioverarbeitung",
+          "description": "Unser KI-Lead-Vocal-Entferner nutzt modernste Algorithmen, um die Klarheit der Instrumente zu bewahren und gleichzeitig Stimmen effektiv zu entfernen. Das Ergebnis ist eine professionelle Instrumentalspur, die die ursprünglichen Musikeigenschaften bewahrt.",
+          "icon": "WrenchScrewdriverIcon"
+        },
+        {
+          "title": "Echtzeitverarbeitung",
+          "description": "Erhalten Sie Ihre Instrumentalspuren in Sekunden mit unserem effizienten KI-Vocal-Entferner. Keine langen Wartezeiten – unser cloudbasiertes System liefert schnelle Ergebnisse ohne Qualitätseinbußen.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Hochwertige Ausgabe",
+          "description": "Exportieren Sie Ihre Instrumentalspuren in hochauflösenden Audioformaten. Unser Vocal-Entferner gewährleistet Premium-Qualität für den professionellen Einsatz in Karaoke-, Remix- und Musikproduktionsprojekten.",
+          "icon": "ArrowDownTrayIcon"
+        },
+        {
+          "title": "Präzise Steuerung",
+          "description": "Feinabstimmung Ihrer Stimmentfernung mit erweiterten Steuerungen. Passen Sie die Trennparameter an, um die perfekte Balance zwischen Instrumentalklarheit und Stimmentfernung für Ihre Anforderungen zu erreichen.",
+          "icon": "AdjustmentsHorizontalIcon"
+        },
+        {
+          "title": "Unterstützung mehrerer Formate",
+          "description": "Unser KI-Lead-Vocal-Entferner unterstützt verschiedene Audioformate, darunter MP3, WAV und M4A. Verarbeiten Sie Ihre Audiodateien unabhängig vom Format – vielseitig für alle Ihre Stimmentfernungsbedürfnisse.",
+          "icon": "AdjustmentsI"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Über den KI-Vocal-Entferner",
+      "items": [
+        {
+          "question": "Was ist ein Vocal-Entferner?",
+          "answer": "Ein Vocal-Entferner ist ein Tool, das KI nutzt, um Gesang aus einem Song zu entfernen und nur die instrumentalen Teile übrig zu lassen. Unser KI-Vocal-Entferner macht es einfach, Karaoke- oder Begleitspuren zu erstellen, indem er Gesang aus Songs entfernt."
+        },
+        {
+          "question": "Wie funktioniert der KI-Vocal-Entferner?",
+          "answer": "Unser KI-Vocal-Entferner analysiert Ihr Audio, erkennt Stimmfrequenzen und entfernt Gesang, während die Instrumente klar bleiben. Der Prozess nutzt fortschrittliches Machine Learning für präzise Stimmentfernung und hochwertige Ergebnisse."
+        },
+        {
+          "question": "Welche Audioformate werden unterstützt?",
+          "answer": "Sie können unseren Vocal-Entferner mit MP3, WAV, M4A und anderen gängigen Formaten verwenden. Der KI-Vocal-Entferner ist darauf ausgelegt, Gesang aus einer Vielzahl von Audiodateien bis zu 10 MB zu entfernen."
+        },
+        {
+          "question": "Wie erziele ich die besten Ergebnisse beim Entfernen von Gesang?",
+          "answer": "Für die besten Ergebnisse mit unserem Vocal-Entferner verwenden Sie hochwertige Audiodateien mit klarer Trennung zwischen Gesang und Instrumenten. Saubere Aufnahmen helfen dem KI-Vocal-Entferner, eine genauere Stimmentfernung zu erreichen."
+        },
+        {
+          "question": "Kann ich die Instrumentalspuren kommerziell nutzen?",
+          "answer": "Ja, Sie können die mit unserem Vocal-Entferner erstellten Instrumentalspuren für private und kommerzielle Projekte verwenden. Bitte stellen Sie sicher, dass Sie die Rechte am ursprünglichen Audio besitzen, bevor Sie den KI-Vocal-Entferner für kommerzielle Zwecke nutzen."
+        }
+      ]
+    }
+  }
+}

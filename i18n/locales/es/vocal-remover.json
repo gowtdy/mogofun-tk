@@ -1,0 +1,73 @@
+{
+  "vocal-remover": {
+    "meta": {
+      "title": "Eliminador de vocales: elimina gratis las voces de canciones, audio o vídeo",
+      "description": "Elimina al instante las voces de cualquier canción, audio o vídeo con nuestra herramienta de eliminación de vocales. Crea pistas de karaoke o instrumentales de alta calidad en línea con IA avanzada.",
+      "keywords": "eliminador de vocales, eliminar voces, eliminador de vocales con ia, eliminador de voz principal con ia, eliminar voces de canción"
+    },
+    "hero": {
+      "title": "El mejor eliminador de vocales con IA en línea",
+      "subtitle": "Elimina al instante las voces de una canción, música, audio o vídeo, en cualquier momento y lugar"
+    },
+    "advantages": {
+      "title": "¿Por qué elegir nuestro eliminador de vocales con IA?",
+      "items": [
+        {
+          "title": "Eliminador de vocales profesional",
+          "description": "Experimenta una eliminación de voz con calidad de estudio gracias a nuestra tecnología avanzada de IA. Nuestra herramienta elimina con precisión las voces principales de las canciones, ofreciendo pistas instrumentales nítidas perfectas para karaoke, remezclas y producción musical.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Procesamiento de audio avanzado",
+          "description": "Nuestro eliminador de voz principal con IA emplea algoritmos de vanguardia para mantener la claridad instrumental mientras elimina eficazmente las voces. El resultado es una pista instrumental de nivel profesional que conserva las características originales de la música.",
+          "icon": "WrenchScrewdriverIcon"
+        },
+        {
+          "title": "Procesamiento en tiempo real",
+          "description": "Obtén tus pistas instrumentales en segundos con nuestro eficiente eliminador de vocales con IA. No hace falta esperar largos tiempos de procesamiento: nuestro sistema en la nube ofrece resultados rápidos sin comprometer la calidad.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Salida de alta calidad",
+          "description": "Exporta tus pistas instrumentales en formatos de audio de alta definición. Nuestro eliminador de vocales garantiza una salida de calidad premium, adecuada para uso profesional en karaoke, remezclas y proyectos de producción musical.",
+          "icon": "ArrowDownTrayIcon"
+        },
+        {
+          "title": "Control preciso",
+          "description": "Ajusta finamente la eliminación de voces con controles avanzados. Modifica los parámetros de separación para lograr el equilibrio perfecto entre claridad instrumental y eliminación de voz según tus necesidades.",
+          "icon": "AdjustmentsHorizontalIcon"
+        },
+        {
+          "title": "Compatibilidad con múltiples formatos",
+          "description": "Nuestro eliminador de voz principal con IA admite varios formatos de audio, incluidos MP3, WAV y M4A. Procesa tus archivos de audio independientemente de su formato, lo que lo hace versátil para todas tus necesidades de eliminación de voz.",
+          "icon": "AdjustmentsI"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Acerca del eliminador de vocales con IA",
+      "items": [
+        {
+          "question": "¿Qué es un eliminador de vocales?",
+          "answer": "Un eliminador de vocales es una herramienta que utiliza IA para eliminar las voces de una canción, dejando solo las partes instrumentales. Nuestro eliminador de vocales con IA facilita la creación de pistas de karaoke o bases instrumentales al quitar las voces de las canciones."
+        },
+        {
+          "question": "¿Cómo funciona el eliminador de vocales con IA?",
+          "answer": "Nuestro eliminador de vocales con IA analiza tu audio, detecta las frecuencias de la voz y elimina las voces manteniendo el instrumental nítido. El proceso utiliza aprendizaje automático avanzado para una eliminación vocal precisa y resultados de alta calidad."
+        },
+        {
+          "question": "¿Qué formatos de audio son compatibles?",
+          "answer": "Puedes usar nuestro eliminador de vocales con MP3, WAV, M4A y otros formatos populares. El eliminador de vocales con IA está diseñado para eliminar voces de una amplia gama de archivos de audio de hasta 10 MB."
+        },
+        {
+          "question": "¿Cómo puedo obtener los mejores resultados al eliminar voces?",
+          "answer": "Para obtener los mejores resultados con nuestro eliminador de vocales, utiliza archivos de audio de alta calidad con una separación clara entre voces e instrumentos. Las grabaciones limpias ayudan al eliminador de vocales con IA a lograr una eliminación de voz más precisa."
+        },
+        {
+          "question": "¿Puedo usar las pistas instrumentales con fines comerciales?",
+          "answer": "Sí, puedes utilizar las pistas instrumentales creadas por nuestro eliminador de vocales en proyectos personales o comerciales. Asegúrate de tener los derechos sobre el audio original antes de usar el eliminador de vocales con IA con fines comerciales."
+        }
+      ]
+    }
+  }
+}

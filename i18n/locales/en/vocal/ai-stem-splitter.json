@@ -1,0 +1,73 @@
+{
+  "ai-stem-splitter": {
+    "meta": {
+      "title": "AI Stem Splitter - Vocal Isolation",
+      "description": "Instantly create vocal isolation from audio and video with our advanced AI stem splitter. Use vocal isolation to improve your content creation.",
+      "keywords": "AI stem splitter, vocal isolation"
+    },
+    "hero": {
+      "title": "AI Stem Splitter",
+      "subtitle": "Instantly create vocal isolation from audio and video"
+    },
+    "advantages": {
+      "title": "Why Choose Our AI Stem Splitter?",
+      "items": [
+        {
+          "title": "Professional Audio Separation Technology",
+          "description": "Experience studio-quality sound processing with our advanced AI technology. Our stem splitter precisely performs vocal isolation while preserving audio integrity, delivering crystal-clear results perfect for content creation and music production.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Advanced Machine Learning Processing",
+          "description": "Our AI-powered tool employs cutting-edge algorithms to separate vocals from instruments while effectively maintaining original audio characteristics. The result is professional-grade isolated tracks that preserve the essence of your original recording.",
+          "icon": "WrenchScrewdriverIcon"
+        },
+        {
+          "title": "Real-time Audio Processing",
+          "description": "Get your separated audio in seconds with our efficient cloud technology. No need to wait for lengthy processing times - our AI stem splitter delivers quick results for vocal isolation without compromising quality.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "High-Quality Audio Output",
+          "description": "Export your processed audio in high-definition formats. Our vocal isolation tool ensures premium quality output suitable for professional use in content creation and music production while maintaining audio fidelity.",
+          "icon": "ArrowDownTrayIcon"
+        },
+        {
+          "title": "Precise Audio Control",
+          "description": "Fine-tune your audio separation with advanced controls. Our AI stem splitter allows you to adjust processing parameters to achieve the perfect balance for vocal isolation based on your specific needs.",
+          "icon": "AdjustmentsHorizontalIcon"
+        },
+        {
+          "title": "Multi-format Audio Support",
+          "description": "Our vocal isolation tool supports various audio formats including MP3, WAV, and M4A. Process your audio files regardless of their format, making it versatile for separating vocals in any supported format.",
+          "icon": "AdjustmentsI"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "About AI Stem Splitter",
+      "items": [
+        {
+          "question": "What is an AI Stem Splitter?",
+          "answer": "An AI Stem Splitter is an advanced tool that uses artificial intelligence to perform vocal isolation from audio files. Our technology employs sophisticated machine learning algorithms to identify and separate audio elements while maintaining their original quality and characteristics. This innovative approach excels at creating isolated vocals with professional precision."
+        },
+        {
+          "question": "How does our AI Stem Splitter work?",
+          "answer": "Our vocal isolation tool uses state-of-the-art machine learning algorithms to analyze the frequency spectrum of your audio. The technology identifies vocal frequencies, separates them from background elements, and creates two distinct tracks: one containing only the vocals and another with the instruments. This process effectively performs vocal isolation while preserving the original quality."
+        },
+        {
+          "question": "What types of audio files can I process?",
+          "answer": "Our AI stem splitter supports various audio formats including MP3, WAV, M4A, and more. You can process any sound file for vocal isolation, whether it's a professional recording or a casual sound file. The tool works best with clear vocal recordings and can handle files up to 10MB in size while effectively separating vocals from instruments."
+        },
+        {
+          "question": "How can I get the best results with the AI stem splitter?",
+          "answer": "For optimal results when performing vocal isolation, use high-quality audio files with clear vocals. Avoid heavily processed or distorted tracks, as they may affect the separation quality. The clearer the original recording, the better our AI technology can isolate vocals while maintaining audio fidelity."
+        },
+        {
+          "question": "Can I use the isolated vocals commercially?",
+          "answer": "Yes, you can use the isolated vocals for your personal and commercial projects. However, please ensure you have the necessary rights to use the original audio content. Our AI stem splitter is perfect for content creators, podcasters, and audio remixers looking to create new content from existing music tracks. The tool makes it easy to perform vocal isolation from any audio file for any project."
+        }
+      ]
+    }
+  }
+}

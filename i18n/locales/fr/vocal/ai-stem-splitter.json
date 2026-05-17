@@ -1,0 +1,73 @@
+{
+  "ai-stem-splitter": {
+    "meta": {
+      "title": "Séparateur de stems IA - Isolation vocale",
+      "description": "Créez instantanément une isolation vocale à partir de fichiers audio et vidéo grâce à notre séparateur de stems IA avancé. Utilisez l'isolation vocale pour améliorer votre création de contenu.",
+      "keywords": "séparateur de stems ia, isolation vocale"
+    },
+    "hero": {
+      "title": "Séparateur de stems IA",
+      "subtitle": "Créez instantanément une isolation vocale à partir de fichiers audio et vidéo"
+    },
+    "advantages": {
+      "title": "Pourquoi choisir notre séparateur de stems IA ?",
+      "items": [
+        {
+          "title": "Technologie professionnelle de séparation audio",
+          "description": "Profitez d'un traitement audio de qualité studio grâce à notre technologie IA avancée. Notre séparateur de stems effectue avec précision l'isolation vocale tout en préservant l'intégrité audio, pour des résultats cristallins idéaux en création de contenu et production musicale.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Traitement avancé par apprentissage automatique",
+          "description": "Notre outil alimenté par l'IA utilise des algorithmes de pointe pour séparer les voix des instrumentaux tout en conservant efficacement les caractéristiques audio d'origine. Le résultat : des pistes isolées de qualité professionnelle qui préservent l'essence de votre enregistrement original.",
+          "icon": "WrenchScrewdriverIcon"
+        },
+        {
+          "title": "Traitement audio en temps réel",
+          "description": "Obtenez votre audio séparé en quelques secondes grâce à notre technologie cloud efficace. Plus besoin d'attendre de longs temps de traitement — notre séparateur de stems IA offre des résultats rapides pour l'isolation vocale sans compromettre la qualité.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Sortie audio haute qualité",
+          "description": "Exportez votre audio traité dans des formats haute définition. Notre outil d'isolation vocale garantit une sortie premium adaptée à un usage professionnel en création de contenu et production musicale, tout en préservant la fidélité audio.",
+          "icon": "ArrowDownTrayIcon"
+        },
+        {
+          "title": "Contrôle audio précis",
+          "description": "Affinez votre séparation audio grâce à des contrôles avancés. Notre séparateur de stems IA vous permet d'ajuster les paramètres de traitement pour obtenir l'équilibre parfait en matière d'isolation vocale selon vos besoins spécifiques.",
+          "icon": "AdjustmentsHorizontalIcon"
+        },
+        {
+          "title": "Prise en charge multi-formats",
+          "description": "Notre outil d'isolation vocale prend en charge divers formats audio, dont MP3, WAV et M4A. Traitez vos fichiers audio quel que soit leur format, pour séparer les voix dans tout format pris en charge.",
+          "icon": "AdjustmentsI"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "À propos du séparateur de stems IA",
+      "items": [
+        {
+          "question": "Qu'est-ce qu'un séparateur de stems IA ?",
+          "answer": "Un séparateur de stems IA est un outil avancé qui utilise l'intelligence artificielle pour effectuer l'isolation vocale à partir de fichiers audio. Notre technologie emploie des algorithmes d'apprentissage automatique sophistiqués pour identifier et séparer les éléments audio tout en préservant leur qualité et leurs caractéristiques d'origine. Cette approche innovante excelle à créer des voix isolées avec une précision professionnelle."
+        },
+        {
+          "question": "Comment fonctionne notre séparateur de stems IA ?",
+          "answer": "Notre outil d'isolation vocale utilise des algorithmes d'apprentissage automatique de pointe pour analyser le spectre fréquentiel de votre audio. La technologie identifie les fréquences vocales, les sépare des éléments de fond et crée deux pistes distinctes : l'une contenant uniquement les voix, l'autre les instrumentaux. Ce processus effectue efficacement l'isolation vocale tout en préservant la qualité d'origine."
+        },
+        {
+          "question": "Quels types de fichiers audio puis-je traiter ?",
+          "answer": "Notre séparateur de stems IA prend en charge divers formats audio, dont MP3, WAV, M4A et bien d'autres. Vous pouvez traiter tout fichier audio pour l'isolation vocale, qu'il s'agisse d'un enregistrement professionnel ou d'un fichier occasionnel. L'outil fonctionne mieux avec des enregistrements vocaux clairs et accepte des fichiers jusqu'à 10 Mo tout en séparant efficacement les voix des instrumentaux."
+        },
+        {
+          "question": "Comment obtenir les meilleurs résultats avec le séparateur de stems IA ?",
+          "answer": "Pour des résultats optimaux lors de l'isolation vocale, utilisez des fichiers audio de haute qualité avec des voix claires. Évitez les pistes fortement traitées ou déformées, car elles peuvent affecter la qualité de la séparation. Plus l'enregistrement original est net, mieux notre technologie IA peut isoler les voix tout en préservant la fidélité audio."
+        },
+        {
+          "question": "Puis-je utiliser les voix isolées à des fins commerciales ?",
+          "answer": "Oui, vous pouvez utiliser les voix isolées pour vos projets personnels et commerciaux. Veillez toutefois à disposer des droits nécessaires sur le contenu audio original. Notre séparateur de stems IA est idéal pour les créateurs de contenu, les podcasteurs et les remixeurs audio souhaitant créer de nouveaux contenus à partir de morceaux existants. L'outil facilite l'isolation vocale depuis n'importe quel fichier audio, pour tout type de projet."
+        }
+      ]
+    }
+  }
+}

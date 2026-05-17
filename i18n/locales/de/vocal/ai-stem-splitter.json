@@ -1,0 +1,73 @@
+{
+  "ai-stem-splitter": {
+    "meta": {
+      "title": "KI-Stem-Splitter – Gesangsisolierung",
+      "description": "Erstellen Sie sofort Gesangsisolierung aus Audio und Video mit unserem fortschrittlichen KI-Stem-Splitter. Nutzen Sie Gesangsisolierung, um Ihre Content-Erstellung zu verbessern.",
+      "keywords": "KI-Stem-Splitter, Gesangsisolierung"
+    },
+    "hero": {
+      "title": "KI-Stem-Splitter",
+      "subtitle": "Erstellen Sie sofort Gesangsisolierung aus Audio und Video"
+    },
+    "advantages": {
+      "title": "Warum unseren KI-Stem-Splitter wählen?",
+      "items": [
+        {
+          "title": "Professionelle Audioseparationstechnologie",
+          "description": "Erleben Sie Audiobearbeitung in Studioqualität mit unserer fortschrittlichen KI-Technologie. Unser Stem-Splitter führt Gesangsisolierung präzise durch und bewahrt dabei die Audio-Integrität – für kristallklare Ergebnisse, ideal für Content-Erstellung und Musikproduktion.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Fortschrittliche Machine-Learning-Verarbeitung",
+          "description": "Unser KI-gestütztes Tool nutzt modernste Algorithmen, um Gesang von Instrumenten zu trennen und dabei die ursprünglichen Audioeigenschaften effektiv zu bewahren. Das Ergebnis sind professionelle isolierte Spuren, die die Essenz Ihrer Originalaufnahme erhalten.",
+          "icon": "WrenchScrewdriverIcon"
+        },
+        {
+          "title": "Echtzeit-Audiobearbeitung",
+          "description": "Erhalten Sie Ihr getrenntes Audio in Sekunden mit unserer effizienten Cloud-Technologie. Keine langen Wartezeiten – unser KI-Stem-Splitter liefert schnelle Ergebnisse für Gesangsisolierung ohne Qualitätseinbußen.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Hochwertige Audioausgabe",
+          "description": "Exportieren Sie Ihr verarbeitetes Audio in hochauflösenden Formaten. Unser Tool zur Gesangsisolierung gewährleistet Premium-Qualität für den professionellen Einsatz in Content-Erstellung und Musikproduktion bei gleichbleibender Audio-Treue.",
+          "icon": "ArrowDownTrayIcon"
+        },
+        {
+          "title": "Präzise Audiosteuerung",
+          "description": "Feinabstimmung Ihrer Audiotrennung mit erweiterten Steuerungen. Unser KI-Stem-Splitter ermöglicht es Ihnen, Verarbeitungsparameter anzupassen, um die perfekte Balance für Gesangsisolierung nach Ihren Anforderungen zu erreichen.",
+          "icon": "AdjustmentsHorizontalIcon"
+        },
+        {
+          "title": "Unterstützung mehrerer Audioformate",
+          "description": "Unser Tool zur Gesangsisolierung unterstützt verschiedene Audioformate, darunter MP3, WAV und M4A. Verarbeiten Sie Ihre Audiodateien unabhängig vom Format – vielseitig zum Isolieren von Gesang in jedem unterstützten Format.",
+          "icon": "AdjustmentsI"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Über den KI-Stem-Splitter",
+      "items": [
+        {
+          "question": "Was ist ein KI-Stem-Splitter?",
+          "answer": "Ein KI-Stem-Splitter ist ein fortschrittliches Tool, das künstliche Intelligenz nutzt, um Gesangsisolierung aus Audiodateien durchzuführen. Unsere Technologie setzt ausgefeilte Machine-Learning-Algorithmen ein, um Audioelemente zu erkennen und zu trennen und dabei deren ursprüngliche Qualität und Merkmale zu bewahren. Dieser innovative Ansatz erstellt isolierte Gesangsspuren mit professioneller Präzision."
+        },
+        {
+          "question": "Wie funktioniert unser KI-Stem-Splitter?",
+          "answer": "Unser Tool zur Gesangsisolierung nutzt modernste Machine-Learning-Algorithmen, um das Frequenzspektrum Ihres Audios zu analysieren. Die Technologie erkennt Gesangsfrequenzen, trennt sie von Hintergrundelementen und erstellt zwei getrennte Spuren: eine nur mit dem Gesang und eine mit den Instrumenten. Dieser Prozess führt Gesangsisolierung effektiv durch und bewahrt dabei die Originalqualität."
+        },
+        {
+          "question": "Welche Arten von Audiodateien kann ich verarbeiten?",
+          "answer": "Unser KI-Stem-Splitter unterstützt verschiedene Audioformate, darunter MP3, WAV, M4A und mehr. Sie können jede Audiodatei für Gesangsisolierung verarbeiten – ob professionelle Aufnahme oder private Audiodatei. Das Tool arbeitet am besten mit klaren Gesangsaufnahmen und verarbeitet Dateien bis zu 10 MB, während es Gesang effektiv von Instrumenten trennt."
+        },
+        {
+          "question": "Wie erziele ich die besten Ergebnisse mit dem KI-Stem-Splitter?",
+          "answer": "Für optimale Ergebnisse bei der Gesangsisolierung verwenden Sie hochwertige Audiodateien mit klarem Gesang. Vermeiden Sie stark bearbeitete oder verzerrte Tracks, da diese die Trennqualität beeinträchtigen können. Je klarer die Originalaufnahme, desto besser kann unsere KI-Technologie den Gesang isolieren und dabei die Audio-Treue bewahren."
+        },
+        {
+          "question": "Kann ich den isolierten Gesang kommerziell nutzen?",
+          "answer": "Ja, Sie können den isolierten Gesang für private und kommerzielle Projekte verwenden. Stellen Sie jedoch sicher, dass Sie die erforderlichen Rechte am ursprünglichen Audioinhalt besitzen. Unser KI-Stem-Splitter ist ideal für Content-Ersteller, Podcaster und Audio-Remixer, die neue Inhalte aus bestehenden Musiktracks erstellen möchten. Das Tool erleichtert Gesangsisolierung aus jeder Audiodatei – für jedes Projekt."
+        }
+      ]
+    }
+  }
+}

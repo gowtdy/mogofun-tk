@@ -351,7 +351,7 @@ const handleLoginSuccess = () => {
 async function generateSound() {
   if (isGenerating.value) return
   if (!description.value.trim()) {
-    toast.error('Please enter a sound effect description', {
+    toast.error(t('soundeffect_common.msg_notext'), {
       position: 'top-right',
       duration: 3000
     })
@@ -515,7 +515,7 @@ async function generateSound() {
 // 下载
 async function downloadSound() {
   if (!generatedSound.value) {
-    toast.error('No audio to download', {
+    toast.error(t('soundeffect_common.download.noAudio'), {
       position: 'top-right',
       duration: 3000
     })
@@ -563,7 +563,7 @@ async function downloadSound() {
   try {
     const response = await fetch(`${host}${generatedSound.value}`)
     if (!response.ok) {
-      const msg = 'Sounds download failed, Please try again later!'
+      const msg = t('soundeffect_common.download.fetchFailed')
       reportError(new Error(`${msg} status: ${response.status}`), 'downloadSound');
       toast.error(msg, {
         position: 'top-right',
@@ -590,12 +590,12 @@ async function downloadSound() {
     document.body.removeChild(a)
     window.URL.revokeObjectURL(url)
 
-    toast.success('Download successful', {
+    toast.success(t('soundeffect_common.download.success'), {
       position: 'top-right',
       duration: 2000
     })
   } catch (err) {
-    toast.error('Download failed, please try again later', {
+    toast.error(t('soundeffect_common.download.failed'), {
       position: 'top-right',
       duration: 3000
     })

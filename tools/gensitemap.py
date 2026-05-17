@@ -31,10 +31,10 @@ class SitemapConfig:
     """Sitemap配置类"""
     base_url: str
     lastmod: str = ""
-    languages: List[str] = field(default_factory=lambda: ["en", "ja", "zh", "zh-tw", "fr", "es"])
+    languages: List[str] = field(default_factory=lambda: ["en", "ja", "zh", "zh-tw", "fr", "de", "es", "pt", "ko", "ar"])
     pages: Dict[str, Dict] = field(default_factory=dict)
     priority_rules: Dict[str, float] = field(default_factory=lambda: {
-        "en": 1.0, "ja": 0.9, "zh": 0.9, "zh-tw": 0.9, "fr": 0.8, "es": 0.8
+        "en": 1.0, "ja": 0.9, "zh": 0.9, "zh-tw": 0.9, "fr": 0.8, "de": 0.8, "es": 0.8, "pt": 0.8, "ko": 0.8, "ar": 0.8
     })
 
 # 🚀 核心配置 - 一个配置搞定所有URL生成
@@ -52,8 +52,7 @@ CONFIG = SitemapConfig(
         # 功能页面 - 高优先级
         "features": {
             "paths": [
-                "sounds-effect", "vocal-isolator", "vocal-remover", "audio-extractor",
-                "ai-splitter"
+                "sounds-effect", "audio-extractor",
             ],
             "priority": PriorityLevel.CRITICAL.value,
             "changefreq": "daily",
@@ -71,6 +70,17 @@ CONFIG = SitemapConfig(
             "changefreq": "daily",
             "type": PageType.CHARACTER
         }
+
+                # 人声页面 - 高优先级
+        "vocals": {
+            "paths": [
+                "vocal-isolator", "vocal-remover",
+                "ai-splitter"
+            ],
+            "priority": PriorityLevel.CRITICAL.value,
+            "changefreq": "daily",
+            "type": PageType.FEATURE
+        },
     }
 )
 
@@ -139,6 +149,14 @@ def generate_urls() -> List[Dict]:
                 "priority": CONFIG.pages["characters"]["priority_medium"]
             })
     
+        # 人声页面
+        for feature_path in CONFIG.pages["vocals"]["paths"]:
+            urls.append({
+                "loc": f"{CONFIG.base_url}/{lang}/{feature_path}",
+                "lastmod": lastmod,
+                "changefreq": CONFIG.pages["vocals"]["changefreq"],
+                "priority": CONFIG.pages["vocals"]["priority"]
+            })
     return urls
 
 def add_custom_urls(urls: List[Dict], custom_urls: List[Dict]) -> List[Dict]:

@@ -1,0 +1,73 @@
+{
+  "audio-extractor": {
+    "meta": {
+      "title": "Extractor de audio gratuito: extrae audio de vídeo",
+      "keywords": "extractor de audio, extraer audio de vídeo, obtener audio de vídeo, extraer sonido de vídeo",
+      "description": "Herramienta gratuita de extractor de audio para extraer audio de vídeo. Funciona con YouTube, TikTok, Instagram y muchas más plataformas."
+    },
+    "hero": {
+      "title": "Extractor de audio",
+      "subtitle": "Extractor de audio en línea para extraer audio de tu vídeo subido"
+    },
+    "advantages": {
+      "title": "¿Por qué elegir nuestra herramienta profesional de extractor de audio?",
+      "items": [
+        {
+          "title": "Extracción de sonido de alta calidad a partir de vídeos",
+          "description": "Nuestra tecnología avanzada de extractor de audio garantiza un sonido cristalino de tus vídeos, preservando la calidad original con algoritmos especializados de extracción de sonido.",
+          "icon": "SparklesIcon"
+        },
+        {
+          "title": "Proceso de extracción de sonido rápido y eficiente",
+          "description": "Extrae audio de vídeo en segundos con nuestro potente extractor de audio en la nube. Sin instalación de software: solo sube y extrae el sonido al instante.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Extrae sonido de múltiples formatos de vídeo",
+          "description": "Nuestra herramienta de extracción de vídeo a audio admite todos los formatos populares, incluidos MP4, MOV, AVI y más. Obtén audio de archivos de vídeo con nuestra versátil tecnología de extracción.",
+          "icon": "WrenchScrewdriverIcon"
+        },
+        {
+          "title": "Opciones sencillas de descarga de sonido",
+          "description": "Tras extraer el sonido del vídeo, descarga archivos MP3 de alta calidad con un solo clic. Nuestro extractor de audio facilita obtener sonido para tus proyectos.",
+          "icon": "ArrowDownTrayIcon"
+        },
+        {
+          "title": "Extracción segura de vídeo a audio",
+          "description": "Respetamos tu privacidad al extraer audio de vídeo. Todos los vídeos subidos y los archivos de sonido extraídos se procesan de forma segura y se eliminan una vez completada la extracción.",
+          "icon": "ShieldCheckIcon"
+        },
+        {
+          "title": "Servicio gratuito de extracción de sonido",
+          "description": "Nuestro extractor básico de vídeo a audio es completamente gratuito. Extrae audio de vídeo sin coste, con opciones premium disponibles para necesidades avanzadas de extracción de sonido.",
+          "icon": "CurrencyDollarIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Acerca de nuestro extractor de audio",
+      "items": [
+        {
+          "question": "¿Qué es un extractor de audio y cómo funciona?",
+          "answer": "Un extractor de audio es una herramienta especializada que separa y extrae la pista de sonido de un archivo de vídeo. Nuestro extractor de audio con IA utiliza algoritmos avanzados para extraer sonido de alta calidad preservando todas las características originales del audio. Solo tienes que subir tu vídeo y nuestro sistema extraerá el audio para que lo descargues."
+        },
+        {
+          "question": "¿Qué formatos de vídeo puedo usar para extraer sonido?",
+          "answer": "Nuestra herramienta de extractor de audio admite la extracción de sonido de formatos de vídeo como MP4, MOV, AVI, WMV, FLV y más. Puedes extraer sonido de prácticamente cualquier formato estándar de archivo de vídeo con nuestra versátil tecnología de extracción con IA."
+        },
+        {
+          "question": "¿En qué formato de música recibiré el audio tras extraerlo del vídeo?",
+          "answer": "Al extraer audio de vídeo, recibirás la música extraída en formato MP3 de alta calidad. Este formato ofrece una excelente calidad de sonido manteniendo un tamaño de archivo razonable tras la extracción. El formato MP3 es compatible con casi todos los dispositivos y reproductores multimedia."
+        },
+        {
+          "question": "¿Hay un límite de tamaño de archivo al extraer música de vídeo?",
+          "answer": "Sí, nuestro extractor de audio gratuito permite extraer audio de vídeos de hasta 10 MB. Para extraer sonido de archivos de vídeo más grandes, puedes actualizar a nuestro servicio premium de extracción de sonido, que admite vídeos de hasta 500 MB."
+        },
+        {
+          "question": "¿Cómo puedo usar la música extraída del vídeo?",
+          "answer": "Tras extraer música del vídeo, puedes utilizarla para diversos fines, como crear podcasts, añadir música de fondo a presentaciones, producción musical, materiales de aprendizaje de idiomas o cualquier proyecto que requiera música extraída de fuentes de vídeo. Nuestro extractor de audio facilita obtener la música que necesitas."
+        }
+      ]
+    }
+  }
+}

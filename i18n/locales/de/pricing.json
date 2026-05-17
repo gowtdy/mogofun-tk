@@ -1,0 +1,84 @@
+{
+  "pricing": {
+    "title": "🚀 Wählen Sie Ihren Plan und bringen Sie Ihre Inhalte auf das nächste Level",
+    "period": {
+      "monthly": "Monatlich",
+      "annually": "Jährlich",
+      "save": "40 % sparen"
+    },
+    "renew": "Verlängert sich zu",
+    "after": "nach dem ersten Monat",
+    "monthbilled": "monatliche Abrechnung",
+    "yearbilled": "jährliche Abrechnung",
+    "freebilled": "Kostenlos testen",
+    "loading": "WIRD VERARBEITET...",
+    "plans": {
+      "pro": {
+        "name": "Pro",
+        "period": "/Monat",
+        "features": {
+          "items": [
+            "Alle Stimmen nutzbar",
+            "1.000.000 Zeichen pro Monat (ca. 30 Stunden Audio)",
+            "600 KI-Soundeffekt-Generierungen pro Monat",
+            "200 Vocal-Isolator-Nutzungen pro Monat",
+            "200 Vocal-Remover-Nutzungen pro Monat",
+            "200 Audio-Extraktor-Nutzungen pro Monat",
+            "Unbegrenzte Downloads",
+            "48 Std. Support per E-Mail"
+          ]
+        }
+      },
+      "advance": {
+        "name": "Advance",
+        "period": "/Monat",
+        "features": {
+          "items": [
+            "Alle Stimmen nutzbar",
+            "400.000 Zeichen pro Monat (ca. 12 Stunden Audio)",
+            "400 KI-Soundeffekt-Generierungen pro Monat",
+            "90 Vocal-Isolator-Nutzungen pro Monat",
+            "90 Vocal-Remover-Nutzungen pro Monat",
+            "90 Audio-Extraktor-Nutzungen pro Monat",
+            "Unbegrenzte Downloads",
+            "48 Std. Support per E-Mail"
+          ]
+        }
+      },
+      "starter": {
+        "name": "Starter",
+        "period": "/Monat",
+        "features": {
+          "items": [
+            "Alle Stimmen nutzbar",
+            "100.000 Zeichen pro Monat (ca. 3 Stunden Audio)",
+            "200 KI-Soundeffekt-Generierungen pro Monat",
+            "30 Vocal-Isolator-Nutzungen pro Monat",
+            "30 Vocal-Remover-Nutzungen pro Monat",
+            "30 Audio-Extraktor-Nutzungen pro Monat",
+            "Unbegrenzte Downloads",
+            "72 Std. Support per E-Mail"
+          ]
+        }
+      },
+      "free": {
+        "name": "Kostenlos",
+        "period": "/Monat",
+        "features": {
+          "items": [
+            "5-mal Text-zu-Sprache pro Tag",
+            "20-mal Text-zu-Sprache pro Monat",
+            "4-mal AI Cover pro Tag",
+            "10-mal AI Cover pro Monat"
+          ]
+        }
+      }
+    },
+    "cta": "JETZT STARTEN",
+    "popular": "Beliebt",
+    "trybnt": "Jetzt testen",
+    "errors": {
+      "buttonTypeRequired": "Ungültiger Aufruf: Schaltflächentyp ist erforderlich"
+    }
+  }
+}

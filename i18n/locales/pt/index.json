@@ -1,0 +1,325 @@
+{
+  "comm": {
+    "home": "Início",
+    "aicover": "Cover com IA",
+    "voice": "Voz",
+    "characterVoice": "Voz de Personagem",
+    "celebrityVoice": "Voz de Celebridade",
+    "aiVoice": "Gerador de Voz com IA",
+    "audio": "Ferramentas de Áudio",
+    "soundEffects": "Efeitos Sonoros",
+    "vocalIsolation": "Isolador Vocal",
+    "pricing": "Preços",
+    "login": "Entrar",
+    "settings": "Configurações",
+    "logout": "Sair",
+    "privacyPolicy": "Política de Privacidade",
+    "termsService": "Termos de Serviço",
+    "refundService": "Política de Reembolso",
+    "dmcaPolicy": "Política DMCA",
+    "aboutUs": "Sobre Nós",
+    "footerDesc": "Gere vozes únicas instantaneamente para vídeos, podcasts e muito mais.",
+    "contact": "Contato: ",
+    "aiVoiceGenerator": "Gerador de Voz com IA",
+    "aiCover": "Gerador de Voz para TikTok",
+    "quickLinks": "Links Rápidos",
+    "friendsLinks": "Links de Parceiros",
+    "more": "Mais",
+    "selectCategory": "Selecionar Categoria",
+    "loginModalIntro": "Faça login para acessar sua conta MoGoFun",
+    "loginModalAgree": "Ao entrar, você concorda com nossos ",
+    "loginModalAnd": " e ",
+    "loginModalUnlogged": "Não foi possível carregar o serviço de login do Google",
+    "loginModalVPN": "Certifique-se de que consegue acessar os serviços do Google normalmente ou tente usar uma VPN",
+    "company": "Empresa",
+    "vocalRemover": "Removedor de Vocais",
+    "video": "Ferramentas de Vídeo",
+    "startUsing": "Começar a Usar o MoGoFun",
+    "audioExtraction": "Extrator de Áudio",
+    "upload":{
+      "uploading": "Enviando...",
+      "reset": "Redefinir"
+    },
+    "audioUpload": {
+      "title": "Enviar Áudio",
+      "drag_drop": "Arraste e solte seu arquivo de áudio aqui",
+      "formats": "Formatos suportados: MP3, WAV, M4A, FLAC, AAC, OGG, MP4, MOV (máx. 20MB)",
+      "uploaded": "Áudio Enviado",
+      "unsupported": "Seu navegador não suporta o elemento de áudio.",
+      "or": "ou",
+      "browse": "Procurar arquivos",
+      "uploadAgain": "Enviar novamente"
+    },
+    "videoUpload": {
+      "title": "Enviar Vídeo",
+      "drag_drop": "Arraste e solte seu arquivo de vídeo aqui",
+      "formats": "Suporta MP4, MOV, AVI, etc. (máx. 20MB)",
+      "uploaded": "Vídeo Enviado",
+      "unsupported": "Seu navegador não suporta a tag de vídeo."
+    },
+    "record": {
+      "start": "Clique para iniciar a gravação",
+      "stop": "Clique para parar a gravação",
+      "recording": "Gravando...",
+      "preview": "Pré-visualizar gravação",
+      "uploaded": "Áudio gravado",
+      "rerecord": "Gravar novamente"
+    },
+    "messages": {
+      "upload_first": "Envie um arquivo primeiro",
+      "upload_failed": "Falha no envio, tente novamente mais tarde"
+    }
+  },
+  "paymodal": {
+    "title": "Faça upgrade para obter mais benefícios",
+    "btn": "FAZER UPGRADE AGORA",
+    "lowas": "A partir de",
+    "period": "/mês",
+    "save": "Você economiza $9,00. Oferta por tempo limitado!",
+    "features": {
+      "items": [
+        "Mais de 300 vozes em mais de 10 idiomas",
+        "Biblioteca Profissional de Efeitos Sonoros",
+        "Separação Vocal Perfeita",
+        "Processamento de Áudio Inteligente",
+        "Covers com IA e formatos de mídia variados",
+        "Downloads Ilimitados"
+      ]
+    },
+    "quotaExhausted": {
+      "tts": "Sua cota de Texto para Fala foi esgotada",
+      "cover": "Sua cota de geração de Cover com IA foi esgotada",
+      "sound": "Sua cota de geração de Efeitos Sonoros foi esgotada",
+      "vocalisolate": "Sua cota de Isolamento Vocal foi esgotada",
+      "vocalremover": "Sua cota de Removedor de Vocais foi esgotada",
+      "audioextractor": "Sua cota de Extrator de Áudio foi esgotada",
+      "default": "Sua cota foi esgotada",
+      "hint": "Faça upgrade do seu plano para desbloquear mais uso e criar sem limites"
+    }
+  },
+  "features": {
+    "title": "Recursos Poderosos para Criar Covers Incríveis com IA",
+    "items": [
+      {
+        "title": "Personalização de Voz",
+        "desc": "Ajuste fino dos parâmetros de voz para combinar com sua visão criativa. Ajuste tom, tempo e estilo para criar o cover com IA perfeito."
+      },
+      {
+        "title": "Processamento em Lote",
+        "desc": "Converta várias músicas com eficiência usando o processamento em lote. Ideal para criar covers de álbuns ou séries de conteúdo."
+      },
+      {
+        "title": "Geração de Vídeo",
+        "desc": "Crie videoclipes envolventes com tecnologia de sincronização labial com IA. Transforme imagens estáticas em performances dinâmicas de canto."
+      },
+      {
+        "title": "Transferência de Estilo",
+        "desc": "Experimente diferentes estilos e gêneros musicais. Transforme qualquer música em diversas interpretações musicais."
+      }
+    ]
+  },
+  "ai_cover": {
+    "converter": {
+      "model": {
+        "selectError": "Selecione um modelo de voz!"
+      },
+      "input": {
+        "title": "Adicione Seu Áudio:",
+        "description": "Você pode usar arquivos de áudio de exemplo, adicionar músicas do YouTube, enviar arquivos de áudio ou gravar sua voz.",
+        "placeholder": "Digite o texto para converter em fala..."
+      },
+      "tabs": {
+        "main": {
+          "cover": "Cover de Música com IA",
+          "tts": "Texto para Fala"
+        },
+        "sample": "Demos de Cover",
+        "youtube": "Adicionar do YouTube",
+        "upload": "Enviar",
+        "record": "Gravar"
+      },
+      "buttons": {
+        "create": "Gerar",
+        "tryAgain": "Tentar Novamente",
+        "download": "Baixar",
+        "play": "Reproduzir",
+        "pause": "Pausar",
+        "stop": "Parar",
+        "preview": "Pré-visualizar"
+      },
+      "generate": {
+        "success": "Geração concluída com sucesso!"
+      },
+      "download": {
+        "noAudio": "Nenhum áudio para baixar",
+        "invalidAudio": "Dados de áudio inválidos, tente novamente mais tarde!",
+        "success": "Download concluído com sucesso!",
+        "failed": "Falha no download, tente novamente mais tarde!"
+      },
+      "errors": {
+        "serverBusy": "O servidor está ocupado, tente novamente mais tarde!",
+        "convertFailed": "Falha ao converter a música, tente novamente mais tarde!",
+        "inputText": "Digite ou cole um texto!",
+        "fileFormat": "Envie um arquivo de áudio nos formatos MP3, WAV, M4A, AAC, OGG ou FLAC",
+        "fileSize": "O tamanho do arquivo excede o limite de 10MB",
+        "uploadTimeout": "Tempo limite do envio esgotado, tente mais tarde!",
+        "microphoneAccess": "Não foi possível acessar o microfone. Verifique se o acesso ao microfone está permitido!",
+        "selectSample": "Selecione um áudio de exemplo!",
+        "uploadFile": "Envie um arquivo de áudio primeiro!",
+        "recordAudio": "Grave um áudio primeiro!",
+        "youtubeLink": "Insira um link do YouTube!",
+        "invalidSubTab": "Tipo de subaba inválido!",
+        "uploadFailed": "Falha no envio do arquivo, tente novamente mais tarde ou entre em contato conosco!",
+        "tts": {
+          "failed": "Falha na geração de TTS",
+          "limitExceeded": "Você excedeu o limite de uso de hoje."
+        }
+      }
+    }
+  },
+  "soundeffect_common": {
+    "display_title": "Ouça abaixo efeitos sonoros realistas gerados por IA",
+    "input_placeholder": "Digite a descrição do efeito sonoro",
+    "generating_button": "Gerando...",
+    "generate_button": "Gerar",
+    "msg_example_load_failed": "Falha ao carregar amostra de som, tente novamente mais tarde!",
+    "msg_example_play_failed": "Falha ao reproduzir amostra de som, tente novamente mais tarde!",
+    "msg_notext": "Digite uma descrição para gerar um efeito sonoro",
+    "download": {
+      "noAudio": "Nenhum áudio para baixar",
+      "success": "Download concluído com sucesso",
+      "failed": "Falha no download, tente novamente mais tarde",
+      "fetchFailed": "Falha ao baixar sons, tente novamente mais tarde!"
+    },
+    "prompt_combat": {
+            "sword_whoosh": "Whoosh de espada",
+            "sword_through_air": "Espada cortando o ar",
+            "shotgun_fire": "Tiro de espingarda",
+            "laser_gunshot": "Tiro de laser",
+            "ui_success": "Sucesso na interface"
+    },
+    "prompt_nature": {
+            "name": "Sons da Natureza",
+            "rain": "Chuva",
+            "ocean_waves": "Ondas do oceano",
+            "flowing_water": "Água corrente",
+            "thunder": "Trovão",
+            "insect_sounds": "Sons de insetos"
+    },
+    "prompt_special": {
+            "name": "Sons Especiais",
+            "fireworks": "Fogos de artifício",
+            "glass_shattering": "Vidro quebrando",
+            "magic_spell": "Feitiço mágico",
+            "spaceship": "Nave espacial",
+            "action": "Ação"
+    },
+    "prompt_instruments": {
+            "name": "Sons de Instrumentos",
+            "piano": "Piano",
+            "electric_guitar": "Guitarra elétrica",
+            "violin": "Violino",
+            "keyboard": "Teclado eletrônico",
+            "irish_pipes": "Gaita de foles irlandesa"
+    },
+    "prompt_human": {
+            "name": "Sons Humanos",
+            "baby_laughing": "Bebê rindo",
+            "clapping": "Palmas",
+            "celebrate": "Celebração",
+            "footsteps": "Passos",
+            "burp": "Arroto"
+    },
+    "prompt_ambient": {
+            "name": "Sons Ambiente",
+            "typing": "Digitação",
+            "noisy_restaurant": "Restaurante barulhento",
+            "doorbell_ring": "Campainha",
+            "tv_on": "TV ligada",
+            "cooking": "Cozinhando"
+    }
+  },
+  "separation_common": {
+    "pages": {
+      "vocal-isolator": {
+        "result_title": "Vocal",
+        "process_button": "Iniciar Separação",
+        "messages": {
+          "upload_first": "Envie um arquivo de áudio primeiro"
+        }
+      },
+      "audio-extractor": {
+        "result_title": "Áudio Extraído",
+        "process_button": "Extrair Áudio",
+        "messages": {
+          "upload_first": "Envie um arquivo de vídeo primeiro"
+        }
+      },
+      "vocal-remover": {
+        "result_title": "Instrumental",
+        "process_button": "Remover Vocais",
+        "messages": {
+          "upload_first": "Envie um arquivo de áudio primeiro"
+        }
+      }
+    },
+    "messages": {
+      "uploading": "Enviando...",
+      "upload_failed": "Falha no envio, tente novamente mais tarde",
+      "parse_failed": "Falha ao analisar a resposta",
+      "file_too_large": "O tamanho do arquivo excede o limite",
+      "file_type_not_supported": "Tipo de arquivo não suportado. Envie arquivos (MP3, WAV, M4A, FLAC, AAC, OGG, MP4, AVI, WMV, FLV, MKV, WEBM, MOV)",
+      "server_busy": "Servidor ocupado, tente novamente mais tarde",
+      "download_failed": "Falha no download, tente novamente mais tarde",
+      "download_success": "Download concluído com sucesso",
+      "success_isolation": "Separação concluída com sucesso!",
+      "failed_isolation": "Falha na separação, tente novamente",
+      "success_removal": "Remoção de vocais concluída com sucesso!",
+      "failed_removal": "Falha na remoção de vocais, tente novamente",
+      "success_extraction": "Extração de áudio concluída com sucesso!",
+      "failed_extraction": "Falha na extração, tente novamente",
+      "system_initializing": "Sistema em inicialização, tente novamente mais tarde",
+      "quota_exhausted": "Cota gratuita esgotada, faça upgrade para o plano premium",
+      "http_error": "Erro HTTP: {status}",
+      "network_error": "Erro de rede",
+      "timeout": "Tempo limite da solicitação esgotado",
+      "upload_aborted": "Envio cancelado",
+      "processing_isolation": "Processando...",
+      "processing_removal": "Processando...",
+      "processing_extraction": "Extraindo..."
+    }
+  },
+  "friends": {
+    "title": "Parceiros"
+  },
+  "policy_pages": {
+    "privacy": {
+      "seo": {
+        "title": "Política de Privacidade | MoGoFun",
+        "description": "Saiba como o MoGoFun coleta, usa e protege suas informações pessoais ao usar nossas ferramentas de voz e áudio com IA.",
+        "keywords": "política de privacidade MoGoFun, proteção de dados, informações pessoais"
+      }
+    },
+    "terms": {
+      "seo": {
+        "title": "Termos de Serviço | MoGoFun",
+        "description": "Leia os Termos de Serviço do MoGoFun que regem o uso do nosso gerador de voz com IA, ferramentas de áudio e serviços relacionados.",
+        "keywords": "termos de serviço MoGoFun, acordo do usuário, termos do serviço"
+      }
+    },
+    "refund": {
+      "seo": {
+        "title": "Política de Reembolso | MoGoFun",
+        "description": "Consulte a política de reembolso do MoGoFun para assinaturas de geração de voz com IA e compras de serviços digitais.",
+        "keywords": "política de reembolso MoGoFun, reembolso de assinatura, política de cancelamento"
+      }
+    },
+    "dmca": {
+      "seo": {
+        "title": "Política DMCA e Direitos Autorais | MoGoFun",
+        "description": "Política DMCA e de direitos autorais do MoGoFun. Saiba como denunciar violação de direitos autorais em nossa plataforma.",
+        "keywords": "política DMCA MoGoFun, política de direitos autorais, aviso de remoção"
+      }
+    }
+  }
+}

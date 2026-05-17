@@ -1,3 +1,7 @@
+import { toNuxtLocaleConfig, validLanguages } from './locales'
+
+export { validLanguages } from './locales'
+
 // 定义翻译文件配置，包含文件名和对应的分组
 // 每个文件都有明确的分组配置，确保配置完整且便于维护
 // 导出类型，供其他模块使用，统一管理组命名
@@ -195,38 +199,9 @@ export function getRequiredTranslationGroups(routePath: string): TranslationFile
   return ['tools'];
 }
 
-// 定义所有支持的语言代码列表（用于语言检测和验证）
-// 这个列表应该包含所有在系统中支持的语言代码
-export const validLanguages = [
-  'en', 'zh', 'ja', 'fr', 'es', 'zh-tw'
-] as const;
-
-// 定义支持的语言配置（用于 i18n 模块配置）
-// 这个列表只包含有完整翻译文件的语言
-const supportedLanguages = [
-  { code: 'en', name: 'English' },
-  { code: 'es', name: 'Español' },
-  { code: 'fr', name: 'Français' },
-  { code: 'ja', name: '日本語' },
-  { code: 'zh-tw', name: '繁體中文' },
-  { code: 'zh', name: '中文' },
-];
-
-// 生成语言配置的辅助函数 - 禁用 i18n 模块的自动文件加载
-const generateLocaleConfig = (languageCode: string, languageName: string) => {
-  // 不配置 files，禁用 i18n 模块的自动文件加载
-  // 所有翻译文件通过我们的动态加载器加载（服务端和客户端）
-  // 这样可以避免重复加载，服务端加载的翻译数据会通过 payload 传递给客户端
-  return {
-    code: languageCode,
-    name: languageName,
-    // 移除 files 配置，避免 i18n 模块自动加载翻译文件
-  };
-};
-
 export const i18nConfig = {
   lazy: true,
-  locales: supportedLanguages.map(lang => generateLocaleConfig(lang.code, lang.name)),
+  locales: toNuxtLocaleConfig(),
   strategy: 'prefix_and_default' as const,
   defaultLocale: 'en' as const,
   skipSettingLocaleOnNavigate: true,

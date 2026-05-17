@@ -1,6 +1,7 @@
 import { computed, toValue, type MaybeRefOrGetter } from 'vue'
 import { useHead } from '#imports'
-import { config } from '../config/config.js'
+import { config } from '~/config/config'
+import { localeCodes } from '../config/locales'
 import { useErrorReporter } from './errorReporter'
 
 /** Same as `useIndexGenericPage` setupSEO */
@@ -17,8 +18,8 @@ export type PageSeoMetaContent = {
   twitterDescription?: string
 }
 
-/** Same order as `useIndexGenericPage` non-home alternates */
-const DEFAULT_ALTERNATE_LOCALES = ['en', 'zh', 'zh-tw', 'ja', 'fr', 'es'] as const
+/** hreflang alternates — same list as `config.locales` */
+const DEFAULT_ALTERNATE_LOCALES = localeCodes
 
 export type UsePageSeoMetaOptions = {
   /** Current page locale (html lang + canonical), e.g. `useState('lang')` or i18n */

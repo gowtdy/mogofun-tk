@@ -2,7 +2,7 @@ import { useRuntimeConfig, useNuxtApp } from '#app'
 import { useErrorReporter } from '~/composables/errorReporter'
 import { onINP, onLCP, onCLS } from 'web-vitals/attribution'
 import type { Metric } from 'web-vitals/attribution'
-import { config } from '../config/config.js'
+import { config } from '~/config/config'
 
 interface MetricWithAttribution extends Metric {
   attribution?: any;

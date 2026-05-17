@@ -1,0 +1,325 @@
+{
+  "comm": {
+    "home": "홈",
+    "aicover": "AI 커버",
+    "voice": "음성",
+    "characterVoice": "캐릭터 음성",
+    "celebrityVoice": "유명인 음성",
+    "aiVoice": "AI 음성 생성기",
+    "audio": "오디오 도구",
+    "soundEffects": "효과음",
+    "vocalIsolation": "보컬 분리",
+    "pricing": "요금제",
+    "login": "로그인",
+    "settings": "설정",
+    "logout": "로그아웃",
+    "privacyPolicy": "개인정보 처리방침",
+    "termsService": "이용약관",
+    "refundService": "환불 정책",
+    "dmcaPolicy": "DMCA 정책",
+    "aboutUs": "회사 소개",
+    "footerDesc": "동영상, 팟캐스트 등을 위한 독특한 음성을 즉시 생성하세요.",
+    "contact": "문의: ",
+    "aiVoiceGenerator": "AI 음성 생성기",
+    "aiCover": "TikTok 음성 생성기",
+    "quickLinks": "빠른 링크",
+    "friendsLinks": "제휴 링크",
+    "more": "더보기",
+    "selectCategory": "카테고리 선택",
+    "loginModalIntro": "MoGoFun 계정에 접속하려면 로그인하세요",
+    "loginModalAgree": "로그인하면 당사의 ",
+    "loginModalAnd": " 및 ",
+    "loginModalUnlogged": "Google 로그인 서비스를 불러올 수 없습니다",
+    "loginModalVPN": "Google 서비스에 정상적으로 접속할 수 있는지 확인하거나 VPN 사용을 시도해 주세요",
+    "company": "회사",
+    "vocalRemover": "보컬 제거",
+    "video": "동영상 도구",
+    "startUsing": "MoGoFun 사용 시작",
+    "audioExtraction": "오디오 추출기",
+    "upload": {
+      "uploading": "업로드 중...",
+      "reset": "초기화"
+    },
+    "audioUpload": {
+      "title": "오디오 업로드",
+      "drag_drop": "오디오 파일을 여기에 끌어다 놓으세요",
+      "formats": "지원 형식: MP3, WAV, M4A, FLAC, AAC, OGG, MP4, MOV (최대 20MB)",
+      "uploaded": "업로드된 오디오",
+      "unsupported": "브라우저가 오디오 요소를 지원하지 않습니다.",
+      "or": "또는",
+      "browse": "파일 찾기",
+      "uploadAgain": "다시 업로드"
+    },
+    "videoUpload": {
+      "title": "동영상 업로드",
+      "drag_drop": "동영상 파일을 여기에 끌어다 놓으세요",
+      "formats": "MP4, MOV, AVI 등 지원 (최대 20MB)",
+      "uploaded": "업로드된 동영상",
+      "unsupported": "브라우저가 동영상 태그를 지원하지 않습니다."
+    },
+    "record": {
+      "start": "클릭하여 녹음 시작",
+      "stop": "클릭하여 녹음 중지",
+      "recording": "녹음 중...",
+      "preview": "녹음 미리보기",
+      "uploaded": "녹음된 오디오",
+      "rerecord": "다시 녹음"
+    },
+    "messages": {
+      "upload_first": "먼저 파일을 업로드해 주세요",
+      "upload_failed": "업로드에 실패했습니다. 나중에 다시 시도해 주세요"
+    }
+  },
+  "paymodal": {
+    "title": "업그레이드하여 더 많은 혜택을 받으세요",
+    "btn": "지금 업그레이드",
+    "lowas": "최저",
+    "period": "/월",
+    "save": "$9.00 절약! 기간 한정!",
+    "features": {
+      "items": [
+        "10개 이상 언어, 300개 이상 음성",
+        "프로 효과음 라이브러리",
+        "완벽한 보컬 분리",
+        "스마트 오디오 처리",
+        "AI 커버 및 다양한 미디어 형식",
+        "무제한 다운로드"
+      ]
+    },
+    "quotaExhausted": {
+      "tts": "텍스트 음성 변환 할당량이 소진되었습니다",
+      "cover": "AI 커버 생성 할당량이 소진되었습니다",
+      "sound": "효과음 생성 할당량이 소진되었습니다",
+      "vocalisolate": "보컬 분리 할당량이 소진되었습니다",
+      "vocalremover": "보컬 제거 할당량이 소진되었습니다",
+      "audioextractor": "오디오 추출 할당량이 소진되었습니다",
+      "default": "할당량이 소진되었습니다",
+      "hint": "요금제를 업그레이드하여 더 많은 사용량을 잠금 해제하고 무한한 창작을 즐기세요"
+    }
+  },
+  "features": {
+    "title": "멋진 AI 커버를 만드는 강력한 기능",
+    "items": [
+      {
+        "title": "음성 맞춤 설정",
+        "desc": "창의적인 비전에 맞게 음성 매개변수를 세밀하게 조정하세요. 음높이, 템포, 스타일을 조절하여 완벽한 AI 커버를 만드세요."
+      },
+      {
+        "title": "일괄 처리",
+        "desc": "일괄 처리 기능으로 여러 곡을 효율적으로 변환하세요. 앨범 커버나 콘텐츠 시리즈 제작에 적합합니다."
+      },
+      {
+        "title": "동영상 생성",
+        "desc": "AI 기반 립싱크 기술로 매력적인 뮤직 비디오를 만드세요. 정지 이미지를 역동적인 노래 공연으로 변환하세요."
+      },
+      {
+        "title": "스타일 전환",
+        "desc": "다양한 음악 스타일과 장르를 실험해 보세요. 어떤 곡이든 다양한 음악적 해석으로 변환할 수 있습니다."
+      }
+    ]
+  },
+  "ai_cover": {
+    "converter": {
+      "model": {
+        "selectError": "음성 모델을 선택해 주세요!"
+      },
+      "input": {
+        "title": "오디오 추가:",
+        "description": "샘플 오디오 파일을 사용하거나, YouTube 곡을 추가하거나, 오디오 파일을 업로드하거나, 음성을 녹음할 수 있습니다.",
+        "placeholder": "음성으로 변환할 텍스트를 입력하세요..."
+      },
+      "tabs": {
+        "main": {
+          "cover": "AI 노래 커버",
+          "tts": "텍스트 음성 변환"
+        },
+        "sample": "커버 데모",
+        "youtube": "YouTube에서 추가",
+        "upload": "업로드",
+        "record": "녹음"
+      },
+      "buttons": {
+        "create": "생성",
+        "tryAgain": "다시 시도",
+        "download": "다운로드",
+        "play": "재생",
+        "pause": "일시정지",
+        "stop": "정지",
+        "preview": "미리보기"
+      },
+      "generate": {
+        "success": "생성에 성공했습니다!"
+      },
+      "download": {
+        "noAudio": "다운로드할 오디오가 없습니다",
+        "invalidAudio": "오디오 데이터가 유효하지 않습니다. 나중에 다시 시도해 주세요!",
+        "success": "다운로드에 성공했습니다!",
+        "failed": "다운로드에 실패했습니다. 나중에 다시 시도해 주세요!"
+      },
+      "errors": {
+        "serverBusy": "서버가 바쁩니다. 나중에 다시 시도해 주세요!",
+        "convertFailed": "곡 변환에 실패했습니다. 나중에 다시 시도해 주세요!",
+        "inputText": "텍스트를 입력하거나 붙여넣어 주세요!",
+        "fileFormat": "MP3, WAV, M4A, AAC, OGG, FLAC 형식의 오디오 파일을 업로드해 주세요",
+        "fileSize": "파일 크기가 10MB 제한을 초과했습니다",
+        "uploadTimeout": "업로드 요청 시간이 초과되었습니다. 나중에 다시 시도해 주세요!",
+        "microphoneAccess": "마이크에 접근할 수 없습니다. 마이크 접근이 허용되었는지 확인해 주세요!",
+        "selectSample": "샘플 오디오를 선택해 주세요!",
+        "uploadFile": "먼저 오디오 파일을 업로드해 주세요!",
+        "recordAudio": "먼저 오디오를 녹음해 주세요!",
+        "youtubeLink": "YouTube 링크를 입력해 주세요!",
+        "invalidSubTab": "유효하지 않은 subTab 유형입니다!",
+        "uploadFailed": "파일 업로드에 실패했습니다. 나중에 다시 시도하거나 문의해 주세요!",
+        "tts": {
+          "failed": "텍스트 음성 변환 생성에 실패했습니다",
+          "limitExceeded": "오늘 사용 한도를 초과했습니다."
+        }
+      }
+    }
+  },
+  "soundeffect_common": {
+    "display_title": "아래의 사실적인 AI 생성 효과음을 들어보세요",
+    "input_placeholder": "효과음 설명 입력",
+    "generating_button": "생성 중...",
+    "generate_button": "생성",
+    "msg_example_load_failed": "효과음 샘플 로드에 실패했습니다. 나중에 다시 시도해 주세요!",
+    "msg_example_play_failed": "효과음 샘플 재생에 실패했습니다. 나중에 다시 시도해 주세요!",
+    "msg_notext": "효과음을 생성하려면 설명을 입력해 주세요",
+    "download": {
+      "noAudio": "다운로드할 오디오가 없습니다",
+      "success": "다운로드 성공",
+      "failed": "다운로드에 실패했습니다. 나중에 다시 시도해 주세요",
+      "fetchFailed": "효과음 다운로드에 실패했습니다. 나중에 다시 시도해 주세요!"
+    },
+    "prompt_combat": {
+      "sword_whoosh": "검 휘두르는 소리",
+      "sword_through_air": "공기를 가르는 검",
+      "shotgun_fire": "산탄총 발사",
+      "laser_gunshot": "레이저 총성",
+      "ui_success": "UI 성공"
+    },
+    "prompt_nature": {
+      "name": "자연 소리",
+      "rain": "비",
+      "ocean_waves": "파도",
+      "flowing_water": "흐르는 물",
+      "thunder": "천둥",
+      "insect_sounds": "곤충 소리"
+    },
+    "prompt_special": {
+      "name": "특수 소리",
+      "fireworks": "불꽃놀이",
+      "glass_shattering": "유리 깨짐",
+      "magic_spell": "마법 주문",
+      "spaceship": "우주선",
+      "action": "액션"
+    },
+    "prompt_instruments": {
+      "name": "악기 소리",
+      "piano": "피아노",
+      "electric_guitar": "일렉트릭 기타",
+      "violin": "바이올린",
+      "keyboard": "전자 키보드",
+      "irish_pipes": "아일랜드 백파이프"
+    },
+    "prompt_human": {
+      "name": "인간 소리",
+      "baby_laughing": "아기 웃음",
+      "clapping": "박수",
+      "celebrate": "축하",
+      "footsteps": "발걸음",
+      "burp": "트림"
+    },
+    "prompt_ambient": {
+      "name": "환경 소리",
+      "typing": "타이핑",
+      "noisy_restaurant": "시끄러운 식당",
+      "doorbell_ring": "초인종",
+      "tv_on": "TV 켜짐",
+      "cooking": "요리"
+    }
+  },
+  "separation_common": {
+    "pages": {
+      "vocal-isolator": {
+        "result_title": "보컬",
+        "process_button": "분리 시작",
+        "messages": {
+          "upload_first": "먼저 오디오 파일을 업로드해 주세요"
+        }
+      },
+      "audio-extractor": {
+        "result_title": "추출된 오디오",
+        "process_button": "오디오 추출",
+        "messages": {
+          "upload_first": "먼저 동영상 파일을 업로드해 주세요"
+        }
+      },
+      "vocal-remover": {
+        "result_title": "반주",
+        "process_button": "보컬 제거",
+        "messages": {
+          "upload_first": "먼저 오디오 파일을 업로드해 주세요"
+        }
+      }
+    },
+    "messages": {
+      "uploading": "업로드 중...",
+      "upload_failed": "업로드에 실패했습니다. 나중에 다시 시도해 주세요",
+      "parse_failed": "응답 파싱에 실패했습니다",
+      "file_too_large": "파일 크기가 제한을 초과했습니다",
+      "file_type_not_supported": "지원하지 않는 파일 형식입니다. (MP3, WAV, M4A, FLAC, AAC, OGG, MP4, AVI, WMV, FLV, MKV, WEBM, MOV) 파일을 업로드해 주세요",
+      "server_busy": "서버가 바쁩니다. 나중에 다시 시도해 주세요",
+      "download_failed": "다운로드에 실패했습니다. 나중에 다시 시도해 주세요",
+      "download_success": "다운로드 성공",
+      "success_isolation": "분리에 성공했습니다!",
+      "failed_isolation": "분리에 실패했습니다. 다시 시도해 주세요",
+      "success_removal": "보컬 제거에 성공했습니다!",
+      "failed_removal": "보컬 제거에 실패했습니다. 다시 시도해 주세요",
+      "success_extraction": "오디오 추출에 성공했습니다!",
+      "failed_extraction": "추출에 실패했습니다. 다시 시도해 주세요",
+      "system_initializing": "시스템을 초기화하는 중입니다. 나중에 다시 시도해 주세요",
+      "quota_exhausted": "무료 할당량이 소진되었습니다. 프리미엄으로 업그레이드해 주세요",
+      "http_error": "HTTP 오류: {status}",
+      "network_error": "네트워크 오류",
+      "timeout": "요청 시간 초과",
+      "upload_aborted": "업로드가 취소되었습니다",
+      "processing_isolation": "처리 중...",
+      "processing_removal": "처리 중...",
+      "processing_extraction": "추출 중..."
+    }
+  },
+  "friends": {
+    "title": "제휴 링크"
+  },
+  "policy_pages": {
+    "privacy": {
+      "seo": {
+        "title": "개인정보 처리방침 | MoGoFun",
+        "description": "MoGoFun이 AI 음성 및 오디오 도구 사용 시 개인정보를 수집, 이용 및 보호하는 방법을 알아보세요.",
+        "keywords": "MoGoFun 개인정보 처리방침, 데이터 보호, 개인정보"
+      }
+    },
+    "terms": {
+      "seo": {
+        "title": "이용약관 | MoGoFun",
+        "description": "AI 음성 생성기, 오디오 도구 및 관련 서비스 이용에 관한 MoGoFun 이용약관을 읽어보세요.",
+        "keywords": "MoGoFun 이용약관, 사용자 계약, 서비스 약관"
+      }
+    },
+    "refund": {
+      "seo": {
+        "title": "환불 정책 | MoGoFun",
+        "description": "AI 음성 생성 구독 및 디지털 서비스 구매에 대한 MoGoFun 환불 정책을 확인하세요.",
+        "keywords": "MoGoFun 환불 정책, 구독 환불, 취소 정책"
+      }
+    },
+    "dmca": {
+      "seo": {
+        "title": "DMCA 및 저작권 정책 | MoGoFun",
+        "description": "MoGoFun DMCA 및 저작권 정책. 플랫폼에서 저작권 침해를 신고하는 방법을 알아보세요.",
+        "keywords": "MoGoFun DMCA 정책, 저작권 정책, 삭제 요청"
+      }
+    }
+  }
+}

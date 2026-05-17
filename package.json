@@ -33,6 +33,7 @@
     "web-vitals": "^4.2.4"
   },
   "devDependencies": {
+    "@types/js-yaml": "^4.0.9",
     "autoprefixer": "^10.4.21",
     "baseline-browser-mapping": "^2.10.9",
     "chokidar": "^5.0.0",

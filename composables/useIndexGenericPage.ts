@@ -6,9 +6,8 @@ import { useUserStore } from '~/store/user'
 import { useAuth } from '~/composables/useAuth'
 import { useAdvancedPageErrorHandler } from '~/composables/useAdvancedPageErrorHandler'
 import { useErrorReporter } from '~/composables/errorReporter'
-// import { usePageTitle } from '~/composables/usePageTitle'
 import { useFAQs } from '~/composables/useFAQs'
-import { config } from '../config/config.js'
+import { config } from '~/config/config'
 import { useNuxtApp } from '#app'
 
 interface UseIndexGenericPageOptions {
@@ -35,13 +34,6 @@ export function useIndexGenericPage(options: UseIndexGenericPageOptions) {
   const userStore = useUserStore()
   const isLoggedIn = computed(() => !!userStore.user)
   const userEmail = computed(() => userStore.user?.email || '')
-
-  // 页面标题
-  //const { pageTitle, lang } = usePageTitle({
-  //  pageKey: options.pageKey,
-  //  defaultTitle: options.defaultTitle,
-  //  defaultSubtitle: options.defaultSubtitle
-  //})
 
   const pageTitle = computed(() => {
     return {

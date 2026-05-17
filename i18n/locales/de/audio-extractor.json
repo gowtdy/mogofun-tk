@@ -1,0 +1,73 @@
+{
+  "audio-extractor": {
+    "meta": {
+      "title": "Kostenloser Audio-Extraktor: Audio aus Video extrahieren",
+      "keywords": "Audio-Extraktor, Audio aus Video extrahieren, Audio aus Video erhalten, Ton aus Video extrahieren",
+      "description": "Kostenloses Tool zum Extrahieren von Audio aus Videos. Funktioniert mit YouTube, TikTok, Instagram und vielen weiteren Plattformen."
+    },
+    "hero": {
+      "title": "Audio-Extraktor",
+      "subtitle": "Online-Audio-Extraktor zum Extrahieren von Audio aus Ihrem hochgeladenen Video"
+    },
+    "advantages": {
+      "title": "Warum unseren professionellen Audio-Extraktor wählen?",
+      "items": [
+        {
+          "title": "Hochwertige Tonextraktion aus Videos",
+          "description": "Unsere fortschrittliche Audio-Extraktor-Technologie sorgt für kristallklaren Ton aus Ihren Videos und bewahrt die ursprüngliche Klangqualität mit unseren spezialisierten Extraktionsalgorithmen.",
+          "icon": "SparklesIcon"
+        },
+        {
+          "title": "Schneller und effizienter Extraktionsprozess",
+          "description": "Extrahieren Sie in Sekunden Audio aus Videos mit unserem leistungsstarken cloudbasierten Audio-Extraktor. Keine Softwareinstallation nötig – einfach hochladen und sofort Ton extrahieren.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Ton aus mehreren Videoformaten extrahieren",
+          "description": "Unser Video-zu-Audio-Extraktionstool unterstützt alle gängigen Formate, darunter MP4, MOV, AVI und mehr. Holen Sie Audio aus Videodateien mit unserer vielseitigen Extraktionstechnologie.",
+          "icon": "WrenchScrewdriverIcon"
+        },
+        {
+          "title": "Einfache Download-Optionen für Ton",
+          "description": "Nach der Tonextraktion aus dem Video laden Sie hochwertige MP3-Dateien mit einem Klick herunter. Unser Audio-Extraktor erleichtert es, Ton für Ihre Projekte zu erhalten.",
+          "icon": "ArrowDownTrayIcon"
+        },
+        {
+          "title": "Sichere Video-zu-Audio-Extraktion",
+          "description": "Wir respektieren Ihre Privatsphäre, wenn Sie Audio aus Videos extrahieren. Alle hochgeladenen Videos und extrahierten Audiodateien werden sicher verarbeitet und nach Abschluss der Extraktion gelöscht.",
+          "icon": "ShieldCheckIcon"
+        },
+        {
+          "title": "Kostenloser Tonextraktionsservice",
+          "description": "Unser Basis-Video-zu-Audio-Extraktor ist völlig kostenlos. Extrahieren Sie Audio aus Videos ohne Kosten, mit Premium-Optionen für erweiterte Extraktionsanforderungen.",
+          "icon": "CurrencyDollarIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Über unseren Audio-Extraktor",
+      "items": [
+        {
+          "question": "Was ist ein Audio-Extraktor und wie funktioniert er?",
+          "answer": "Ein Audio-Extraktor ist ein spezialisiertes Tool, das die Tonspur aus einer Videodatei trennt und extrahiert. Unser KI-gestützter Audio-Extraktor nutzt fortschrittliche Algorithmen, um hochwertigen Ton zu extrahieren und dabei alle ursprünglichen Klangeigenschaften zu bewahren. Laden Sie einfach Ihr Video hoch, und unser System extrahiert die Audiospur zum Download für Sie."
+        },
+        {
+          "question": "Welche Videoformate kann ich zum Extrahieren von Ton verwenden?",
+          "answer": "Unser Audio-Extraktor unterstützt die Tonextraktion aus Videoformaten wie MP4, MOV, AVI, WMV, FLV und mehr. Mit unserer vielseitigen KI-Extraktionstechnologie können Sie Ton aus praktisch jedem gängigen Videoformat extrahieren."
+        },
+        {
+          "question": "Welches Musikformat erhalte ich nach der Extraktion aus dem Video?",
+          "answer": "Wenn Sie Audio aus einem Video extrahieren, erhalten Sie die extrahierte Musik im hochwertigen MP3-Format. Dieses Format bietet ausgezeichnete Klangqualität bei einer angemessenen Dateigröße. Das MP3-Format ist mit fast allen Geräten und Medienplayern kompatibel."
+        },
+        {
+          "question": "Gibt es eine Dateigrößenbeschränkung beim Extrahieren von Musik aus Videos?",
+          "answer": "Ja, unser kostenloser Audio-Extraktor ermöglicht die Extraktion von Audio aus Videos bis zu 10 MB. Für größere Videodateien können Sie auf unseren Premium-Tonextraktionsservice upgraden, der Videos bis zu 500 MB unterstützt."
+        },
+        {
+          "question": "Wie kann ich die aus dem Video extrahierte Musik verwenden?",
+          "answer": "Nach der Extraktion können Sie die Musik für verschiedene Zwecke nutzen, z. B. für Podcasts, Hintergrundmusik in Präsentationen, Musikproduktion, Sprachlernmaterialien oder jedes Projekt, das Musik aus Videoquellen benötigt. Unser Audio-Extraktor macht es einfach, die benötigte Musik zu erhalten."
+        }
+      ]
+    }
+  }
+}

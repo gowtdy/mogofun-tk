@@ -1,0 +1,73 @@
+{
+  "vocal-isolator": {
+    "meta": {
+      "title": "Kostenloser Vocal-Isolator | KI-Video",
+      "description": "Extrahieren Sie Gesang sofort aus jeder Musik, jedem Audio und jedem Video mit unserem kostenlosen Vocal-Isolator online – das beste KI-Vocal-Isolator-Tool für alle.",
+      "keywords": "vocal isolator, ki vocal isolator, gesang isolieren, gesangsisolierung, isolierter gesang"
+    },
+    "hero": {
+      "title": "Bester Vocal-Isolator online",
+      "subtitle": "Extrahieren Sie Gesang sofort aus einem Song, Musik, Audio oder Video – jederzeit und überall"
+    },
+    "advantages": {
+      "title": "Warum unseren besten Vocal-Isolator online wählen?",
+      "items": [
+        {
+          "title": "Professionelle KI-Gesangsisolierung",
+          "description": "Erleben Sie Gesangsisolierung in Studioqualität mit unserer fortschrittlichen KI-Technologie. Unser Vocal-Isolator trennt Gesang präzise von Instrumenten und liefert kristallklare Ergebnisse – ideal für Musikproduktion, Karaoke und Audio-Remixing.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Fortschrittliche Audioverarbeitung",
+          "description": "Unser KI-Vocal-Isolator nutzt modernste Algorithmen, um die Stimmklarheit zu bewahren und Hintergrundmusik effektiv zu entfernen. Das Ergebnis ist eine professionelle isolierte Gesangsspur, die die ursprünglichen Stimmmerkmale bewahrt.",
+          "icon": "WrenchScrewdriverIcon"
+        },
+        {
+          "title": "Echtzeitverarbeitung",
+          "description": "Erhalten Sie Ihren isolierten Gesang in Sekunden mit unserem effizienten KI-Vocal-Isolator. Keine langen Wartezeiten – unser cloudbasiertes System liefert schnelle Ergebnisse ohne Qualitätseinbußen.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Hochwertige Ausgabe",
+          "description": "Exportieren Sie Ihren isolierten Gesang in hochauflösenden Audioformaten. Unser Vocal-Isolator gewährleistet Premium-Qualität für den professionellen Einsatz in Musikproduktion, Karaoke und Audio-Remix-Projekten.",
+          "icon": "ArrowDownTrayIcon"
+        },
+        {
+          "title": "Präzise Steuerung",
+          "description": "Feinabstimmung Ihrer Gesangsisolierung mit erweiterten Steuerungen. Passen Sie die Trennparameter an, um die perfekte Balance zwischen Stimmklarheit und Hintergrundentfernung für Ihre Anforderungen zu erreichen.",
+          "icon": "AdjustmentsHorizontalIcon"
+        },
+        {
+          "title": "Unterstützung mehrerer Formate",
+          "description": "Unser KI-Vocal-Isolator unterstützt verschiedene Audioformate, darunter MP3, WAV und M4A. Verarbeiten Sie Ihre Audiodateien unabhängig vom Format – vielseitig für alle Ihre Gesangsisolierungsbedürfnisse.",
+          "icon": "AdjustmentsI"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Über den KI-Vocal-Isolator",
+      "items": [
+        {
+          "question": "Was ist ein KI-Vocal-Isolator?",
+          "answer": "Ein KI-Vocal-Isolator ist ein fortschrittliches Tool, das künstliche Intelligenz nutzt, um Gesang von Instrumenten in Musikstücken zu trennen. Unser Vocal-Isolator setzt ausgefeilte Machine-Learning-Algorithmen ein, um Gesangselemente zu erkennen und zu extrahieren und dabei deren ursprüngliche Qualität und Merkmale zu bewahren."
+        },
+        {
+          "question": "Wie funktioniert unser KI-Vocal-Isolator?",
+          "answer": "Unser KI-Vocal-Isolator nutzt modernste Machine-Learning-Algorithmen, um das Frequenzspektrum Ihres Audios zu analysieren. Das System erkennt Stimmfrequenzen, trennt sie von instrumentellen Elementen und erstellt zwei getrennte Spuren: eine nur mit Gesang und eine mit den instrumentalen Teilen."
+        },
+        {
+          "question": "Welche Arten von Audiodateien kann ich verarbeiten?",
+          "answer": "Unser Vocal-Isolator unterstützt verschiedene Audioformate, darunter MP3, WAV, M4A und mehr. Sie können jeden Musiktrack verarbeiten – ob professionelle Aufnahme oder private Audiodatei. Das System arbeitet am besten mit klaren Gesangsaufnahmen und verarbeitet Dateien bis zu 10 MB."
+        },
+        {
+          "question": "Wie erziele ich die besten Ergebnisse mit dem Vocal-Isolator?",
+          "answer": "Für optimale Ergebnisse mit unserem Vocal-Isolator verwenden Sie hochwertige Audiodateien mit klarem Gesang. Vermeiden Sie stark bearbeitete oder verzerrte Tracks, da diese die Trennqualität beeinträchtigen können. Je klarer die Originalaufnahme, desto besser die Gesangsisolierung."
+        },
+        {
+          "question": "Kann ich den isolierten Gesang kommerziell nutzen?",
+          "answer": "Ja, Sie können den isolierten Gesang für private und kommerzielle Projekte verwenden. Stellen Sie jedoch sicher, dass Sie die erforderlichen Rechte am ursprünglichen Audioinhalt besitzen. Unser Vocal-Isolator ist ideal für Musikproduzenten, Karaoke-Enthusiasten und Audio-Remixer, die neue Inhalte erstellen möchten."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "fake-voice": {
+    "meta": {
+      "title": "Generador de Voz Falsa",
+      "description": "Genera instantáneamente voz falsa con nuestro avanzado generador de voz falsa. Crea voz falsa de alta calidad para video, podcast y más.",
+      "keywords": "voz falsa, generador de voz falsa"
+    },
+    "hero": {
+      "title": "Generador de Voz Falsa",
+      "subtitle": "Genera instantáneamente voz falsa para video, podcast y más."
+    },
+    "faq": {
+      "title": "Preguntas Frecuentes del Generador de Voz Falsa",
+      "items": [
+        {
+          "question": "¿Cuál es el mejor generador de voz falsa disponible en línea?",
+          "answer": "Nuestra plataforma es el generador de voz falsa líder que combina tecnología de redes neuronales de vanguardia para entregar texto a voz de calidad de estudio. A diferencia de las herramientas TTS básicas, nuestro sistema crea habla de sonido natural con expresión emocional, perfecto para creadores de contenido, educadores y empresas que buscan generación de voz falsa profesional sin el costo. El generador produce voz falsa similar a la humana que rivaliza con actores de doblaje profesionales."
+        },
+        {
+          "question": "¿Cómo funciona el generador de voz falsa?",
+          "answer": "Nuestro generador utiliza algoritmos avanzados de aprendizaje automático impulsados por tecnología Edge TTS. El proceso de generación incluye: 1) Análisis inteligente de texto y optimización de pronunciación 2) Síntesis de sonido neuronal con patrones de habla naturales 3) Procesamiento y mejora de audio en tiempo real 4) Optimización de calidad para varios formatos de salida. El resultado es un sonido similar al humano que rivaliza con actores de doblaje profesionales, convirtiéndolo en el mejor generador de voz falsa para creación de contenido."
+        },
+        {
+          "question": "¿Qué hace que este generador de voz falsa sea diferente de otros servicios de texto a voz?",
+          "answer": "Nuestro generador se destaca como la mejor herramienta en línea con: 1) Impulsado por Edge TTS para calidad superior de voz falsa 2) Texto a voz completamente gratuito sin costos ocultos o marcas de agua 3) 200+ voces falsas naturales en 20+ idiomas 4) Procesamiento de voz falsa en tiempo real con resultados instantáneos 5) No se requiere registro para uso básico del generador de voz falsa 6) Uso comercial de voz falsa permitido sin restricciones. Esto lo convierte en la mejor opción para generación de voz falsa en línea."
+        },
+        {
+          "question": "¿Puedo usar el generador de voz falsa para proyectos comerciales y monetización?",
+          "answer": "¡Sí! Nuestro generador es perfecto para uso comercial incluyendo: 1) Videos de YouTube y contenido de redes sociales con narración de voz falsa 2) Cursos de e-learning y materiales de entrenamiento usando generación de texto a voz 3) Introducciones de podcast, despedidas y anuncios con creación de voz falsa 4) Videos de marketing y presentaciones con IA de voz falsa 5) Narración de audiolibros y contenido de accesibilidad. No se requieren tarifas de licencia o atribución para el uso del generador de voz falsa."
+        },
+        {
+          "question": "¿Qué formatos de audio soporta el generador de voz falsa?",
+          "answer": "Nuestro generador exporta en múltiples formatos profesionales: 1) MP3 para compatibilidad web y tamaños de archivo más pequeños 2) WAV para edición de alta calidad y post-producción 3) M4A para dispositivos Apple y compatibilidad con iTunes 4) OGG para proyectos de código abierto. Todos los formatos de voz falsa mantienen la calidad natural de nuestra tecnología Edge TTS, asegurando salida de grado profesional de nuestro generador de texto a voz."
+        },
+        {
+          "question": "¿Qué tan rápido puede el generador de voz falsa crear contenido de audio?",
+          "answer": "Nuestro generador procesa contenido a velocidades impresionantes: 1) Guiones cortos (menos de 100 palabras) generan voz falsa en menos de 5 segundos 2) Contenido medio (100-500 palabras) completa el procesamiento de texto a voz en 15-30 segundos 3) Contenido largo (500+ palabras) toma 1-3 minutos. El backend Edge TTS asegura rendimiento consistente de voz falsa incluso durante uso pico, convirtiéndolo en el generador de voz falsa más rápido en línea."
+        },
+        {
+          "question": "¿Soporta el generador de voz falsa múltiples idiomas y acentos regionales?",
+          "answer": "Nuestro generador soporta 50+ idiomas con acentos regionales: 1) Opciones de voz falsa en inglés (US, UK, Australiano, Canadiense) 2) Generación de texto a voz en español, francés, alemán, italiano, portugués 3) Creación de voz falsa en chino (Mandarín, Cantonés), japonés, coreano 4) Opciones de generador TTS en árabe, ruso, holandés, polaco 5) Cada idioma incluye múltiples opciones de voz falsa para diversas necesidades de contenido."
+        },
+        {
+          "question": "¿Es realmente gratuito el generador de voz falsa sin costos ocultos?",
+          "answer": "Nuestro generador es genuinamente gratuito sin costos ocultos: 1) Generación ilimitada de voz falsa para proyectos personales y comerciales 2) No se requiere registro o tarjeta de crédito para IA de voz falsa 3) Sin marcas de agua en audio de voz falsa generado 4) Sin límites mensuales o restricciones de uso en generación de texto a voz 5) Acceso completo a todas las voces y idiomas de IA de voz falsa 6) Impulsado por Edge TTS para confiabilidad de texto a voz de grado empresarial."
+        },
+        {
+          "question": "¿Cómo puedo optimizar guiones para los mejores resultados del generador de voz falsa?",
+          "answer": "Maximiza la salida de tu generador de voz falsa con estos consejos de optimización de guiones: 1) Usa puntuación clara para pausas naturales y énfasis en voz falsa 2) Divide oraciones largas en frases más cortas y digeribles para mejor procesamiento de texto a voz 3) Agrega ortografía fonética para nombres propios y términos técnicos 4) Incluye marcadores de emoción como [emocionado] o [tranquilo] para entrega expresiva de voz falsa 5) Prueba diferentes opciones de generador TTS para encontrar la combinación perfecta para tu contenido."
+        },
+        {
+          "question": "¿Puedo personalizar la configuración del generador de voz falsa?",
+          "answer": "Nuestro generador ofrece opciones extensas de personalización: 1) Ajusta la velocidad de habla de entrega lenta a rápida en generación de voz falsa 2) Modifica el tono y el tono para diferentes voces falsas de personajes 3) Elige entre múltiples personalidades y estilos de IA de voz falsa 4) Combina diferentes voces falsas para creación única de personajes 5) Guarda perfiles personalizados de generador TTS para marca consistente en proyectos."
+        },
+        {
+          "question": "¿Cuáles son los requisitos técnicos para usar el generador de voz falsa?",
+          "answer": "Nuestro generador funciona perfectamente en todos los dispositivos: 1) Cualquier navegador web moderno (Chrome, Firefox, Safari, Edge) para generación de voz falsa 2) Interfaz de texto a voz amigable para móviles para iOS y Android 3) No se requiere instalación de software o descargas para el generador de voz falsa 4) Funciona con cualquier velocidad de conexión a internet 5) Compatible con todo el software principal de edición de video para integración fácil de sonido."
+        },
+        {
+          "question": "¿Cómo integro la salida del generador de voz falsa en proyectos de video?",
+          "answer": "Integrar tu audio del generador de voz falsa es directo: 1) Genera tu voz en off usando nuestra plataforma de IA 2) Descarga el archivo de audio de alta calidad instantáneamente 3) Importa a tu software de edición de video preferido (Premiere Pro, Final Cut Pro, DaVinci Resolve) 4) Sincroniza con tu línea de tiempo de video y ajusta los niveles de audio 5) Agrega música de fondo o efectos de sonido según sea necesario. Nuestra tecnología Edge TTS asegura texto a voz de calidad profesional listo para cualquier producción."
+        },
+        {
+          "question": "¿Qué es un creador de voz falsa y cómo se compara con el generador de voz falsa?",
+          "answer": "Un creador de voz falsa típicamente se refiere a herramientas básicas de texto a voz, mientras que nuestro generador representa tecnología avanzada de inteligencia artificial. El generador va más allá de la simple creación de voz falsa por: 1) Usar redes neuronales para generación de sonido más natural 2) Proporcionar expresión emocional y conciencia contextual 3) Ofrecer capacidades de procesamiento de texto a voz en tiempo real 4) Soportar múltiples idiomas y acentos en creación de voz falsa 5) Entregar salida de audio de calidad de estudio adecuada para uso profesional."
+        },
+        {
+          "question": "¿Cómo hacer voz falsa en línea gratis?",
+          "answer": "Hacer voz falsa en línea es fácil con nuestro generador: 1) Visita nuestra plataforma e ingresa tu texto 2) Elige entre 200+ voces naturales en 20+ idiomas 3) Personaliza configuraciones de sonido como velocidad, tono y tono 4) Haz clic en generar para crear tu voz falsa instantáneamente 5) Descarga en formato MP3, WAV, M4A u OGG. Nuestro generador no requiere registro y produce resultados de calidad profesional."
+        },
+        {
+          "question": "¿Puede el generador de voz falsa ser usado para clonación de voz o suplantación?",
+          "answer": "Nuestro generador está diseñado únicamente para propósitos legítimos de creación de contenido. Aunque nuestro generador puede crear diversos estilos de sonido y personajes, no soportamos clonación de voz o suplantación de individuos reales. Nuestra tecnología de IA está destinada para: 1) Producción de contenido creativo 2) Materiales educativos 3) Aplicaciones de accesibilidad 4) Propósitos de entretenimiento 5) Necesidades comerciales de voz en off. Los usuarios deben cumplir con todas las leyes aplicables y pautas éticas al usar el generador de voz falsa."
+        }
+      ]
+    }
+  }
+}

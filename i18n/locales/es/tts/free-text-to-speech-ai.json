@@ -1,0 +1,66 @@
+{
+  "free-text-to-speech-ai": {
+    "meta": {
+      "title": "IA de Texto a Voz Gratuita",
+      "description": "Generador profesional gratuito de IA de texto a voz con tecnología Edge TTS. Crea voces de IA de alta calidad al instante para videos, podcasts y más.",
+      "keywords": "ia de texto a voz gratuita, edge tts, texto a voz ai"
+    },
+    "hero": {
+      "title": "Mejor IA de Texto a Voz Gratuita",
+      "subtitle": "Crea voces de IA al instante para videos, podcasts y más."
+    },
+    "faq": {
+      "title": "Preguntas Frecuentes sobre IA de Texto a Voz Gratuita",
+      "items": [
+        {
+          "question": "¿Cuál es la mejor herramienta gratuita de IA de texto a voz disponible?",
+          "answer": "Nuestra plataforma gratuita de IA de texto a voz combina tecnología de redes neuronales de vanguardia con Microsoft Edge TTS para ofrecer síntesis de voz de calidad de estudio. A diferencia de las herramientas TTS básicas, nuestro sistema impulsado por IA crea habla natural con expresión emocional, perfecto para creadores de contenido, educadores y empresas que buscan audio profesional sin costo."
+        },
+        {
+          "question": "¿Cómo funciona tu IA gratuita de texto a voz?",
+          "answer": "Nuestra IA gratuita de texto a voz utiliza algoritmos avanzados de aprendizaje automático impulsados por la tecnología Edge TTS. El proceso incluye: 1) Análisis inteligente de texto y optimización de pronunciación 2) Síntesis de voz neuronal con patrones de habla naturales 3) Procesamiento y mejora de audio en tiempo real 4) Optimización de calidad para varios formatos de salida. El resultado es habla similar a la humana que rivaliza con actores de voz profesionales."
+        },
+        {
+          "question": "¿Qué hace que tu IA gratuita de texto a voz sea diferente de otros servicios TTS?",
+          "answer": "Nuestra IA gratuita de texto a voz se destaca con: 1) Impulsada por Microsoft Edge TTS para calidad de voz superior 2) Completamente gratuita sin costos ocultos o marcas de agua 3) 200+ voces naturales en 50+ idiomas 4) Procesamiento en tiempo real con resultados instantáneos 5) No se requiere registro para uso básico 6) Uso comercial permitido sin restricciones."
+        },
+        {
+          "question": "¿Puedo usar esta IA gratuita de texto a voz para proyectos comerciales?",
+          "answer": "¡Sí! Nuestra IA gratuita de texto a voz es perfecta para uso comercial incluyendo: 1) Videos de YouTube y contenido de redes sociales 2) Cursos de e-learning y materiales de entrenamiento 3) Introducciones, despedidas y anuncios de podcasts 4) Videos de marketing y presentaciones 5) Narración de audiolibros y contenido de accesibilidad. No se requieren tarifas de licencia o atribución."
+        },
+        {
+          "question": "¿Qué formatos de audio soporta la IA gratuita de texto a voz?",
+          "answer": "Nuestra IA gratuita de texto a voz exporta en múltiples formatos profesionales: 1) MP3 para compatibilidad web y tamaños de archivo más pequeños 2) WAV para edición de alta calidad y post-producción 3) M4A para dispositivos Apple y compatibilidad con iTunes 4) OGG para proyectos de código abierto. Todos los formatos mantienen la calidad natural de nuestra tecnología Edge TTS."
+        },
+        {
+          "question": "¿Qué tan rápido puede generar audio la IA gratuita de texto a voz?",
+          "answer": "Nuestra IA gratuita de texto a voz procesa contenido a velocidades impresionantes: 1) Guiones cortos (menos de 100 palabras) se generan en menos de 5 segundos 2) Contenido medio (100-500 palabras) se completa en 15-30 segundos 3) Contenido largo (500+ palabras) toma 1-3 minutos. El backend Edge TTS asegura un rendimiento consistente incluso durante el uso máximo."
+        },
+        {
+          "question": "¿La IA gratuita de texto a voz soporta múltiples idiomas y acentos?",
+          "answer": "Nuestra IA gratuita de texto a voz soporta 50+ idiomas con acentos regionales: 1) Inglés (EE.UU., Reino Unido, Australiano, Canadiense) 2) Español, Francés, Alemán, Italiano, Portugués 3) Chino (Mandarín, Cantonés), Japonés, Coreano 4) Árabe, Ruso, Holandés, Polaco, Turco 5) Cada idioma incluye múltiples opciones de voz para diversas necesidades de contenido."
+        },
+        {
+          "question": "¿Realmente no hay costo por usar esta IA gratuita de texto a voz?",
+          "answer": "Nuestra IA gratuita de texto a voz es genuinamente gratuita sin costos ocultos: 1) Uso ilimitado para proyectos personales y comerciales 2) No se requiere registro o tarjeta de crédito 3) Sin marcas de agua en el audio generado 4) Sin límites mensuales o restricciones de uso 5) Acceso completo a todas las voces e idiomas 6) Impulsada por Microsoft Edge TTS para confiabilidad de nivel empresarial."
+        },
+        {
+          "question": "¿Cómo puedo optimizar mis guiones para obtener los mejores resultados de la IA gratuita de texto a voz?",
+          "answer": "Maximiza la salida de tu IA gratuita de texto a voz con estos consejos de optimización de guiones: 1) Usa puntuación clara para pausas naturales y énfasis 2) Divide oraciones largas en frases más cortas y digeribles 3) Agrega ortografía fonética para nombres propios y términos técnicos 4) Incluye marcadores de emoción como [emocionado] o [calmado] para entrega expresiva 5) Prueba diferentes opciones de voz para encontrar la combinación perfecta para tu contenido."
+        },
+        {
+          "question": "¿Puedo personalizar la configuración de voz en la IA gratuita de texto a voz?",
+          "answer": "Nuestra IA gratuita de texto a voz ofrece opciones extensas de personalización: 1) Ajusta la velocidad de habla de entrega lenta a rápida 2) Modifica el tono y el tono para diferentes voces de personajes 3) Elige entre múltiples personalidades y estilos de voz 4) Combina diferentes voces para crear personajes únicos 5) Guarda perfiles de voz personalizados para branding consistente en proyectos."
+        },
+        {
+          "question": "¿Cuáles son los requisitos técnicos para usar esta IA gratuita de texto a voz?",
+          "answer": "Nuestra IA gratuita de texto a voz funciona perfectamente en todos los dispositivos: 1) Cualquier navegador web moderno (Chrome, Firefox, Safari, Edge) 2) Interfaz amigable para móviles para iOS y Android 3) No se requiere instalación de software o descargas 4) Funciona con cualquier velocidad de conexión a internet 5) Compatible con todo el software principal de edición de video para fácil integración."
+        },
+        {
+          "question": "¿Cómo integro la salida de la IA gratuita de texto a voz en mis proyectos de video?",
+          "answer": "Integrar tu audio de IA gratuita de texto a voz es sencillo: 1) Genera tu voz en off usando nuestra plataforma de IA 2) Descarga el archivo de audio de alta calidad al instante 3) Importa a tu software de edición de video preferido (Premiere Pro, Final Cut Pro, DaVinci Resolve) 4) Sincroniza con tu línea de tiempo de video y ajusta los niveles de audio 5) Agrega música de fondo o efectos de sonido según sea necesario. Nuestra tecnología Edge TTS asegura audio de calidad profesional listo para cualquier producción."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "ladies-voice-converter": {
+    "meta": {
+      "title": "Ladies Voice Converter",
+      "keywords": "ladies voice converter, female voices, female text to voice",
+      "description": "Create natural female voices with our ladies voice converter. Generate high-quality ladies voice for video, podcast, and social media content. "
+    },
+    "hero": {
+      "title": "Ladies Voice Converter",
+      "subtitle": "Create natural female voices for video and social media."
+    },
+    "faq": {
+      "title": "Ladies Voice Converter FAQ",
+      "items": [
+        {
+          "question": "What is a Ladies Voice Converter?",
+          "answer": "Ladies Voice Converter is an AI-powered tool that transforms female text to voice, producing natural female voices for your projects. It uses advanced speech synthesis to create lifelike narration that feels authentic and engaging. Use the converter to generate studio-quality audio for videos, podcasts, training, and social media."
+        },
+        {
+          "question": "How does Ladies Voice Converter technology work?",
+          "answer": "The converter applies deep-learning models trained on large voice datasets. It analyzes your text and performs female text to voice synthesis that preserves natural tone, rhythm, and expression. This pipeline delivers consistent, humanlike female voices optimized for clarity and warmth."
+        },
+        {
+          "question": "What makes our Ladies Voice Converter unique?",
+          "answer": "It focuses on authenticity and intelligibility. Compared with basic tools, our Ladies Voice Converter produces expressive female voices with accurate intonation, fast rendering, and easy controls. This combination ensures reliable female text to voice output for professional use."
+        },
+        {
+          "question": "Can I use Ladies Voice Converter for commercial projects?",
+          "answer": "Yes. You can use Ladies Voice Converter for commercial content such as ads, explainers, product demos, courses, and corporate communications. The generated female voices are suitable for brand-safe use—please review your plan’s license for specifics."
+        },
+        {
+          "question": "What audio quality does Ladies Voice Converter provide?",
+          "answer": "It delivers studio-grade clarity with balanced frequencies and low artifacts. Voices are rendered with natural prosody so female voices sound clear and expressive across intros, long-form narration, and promotional clips."
+        },
+        {
+          "question": "How do I create content with Ladies Voice Converter?",
+          "answer": "Enter your script, choose a preferred voice, then click Generate. Our female text to voice engine renders the audio in seconds. You can preview, tweak speed or style, and download the final file for editing or publishing."
+        },
+        {
+          "question": "What file formats does Ladies Voice Converter support?",
+          "answer": "You can export high-quality MP3 for broad compatibility with editors and platforms. Depending on your plan, additional formats and bitrates may be available to fit different workflows."
+        },
+        {
+          "question": "Is Ladies Voice Converter free to use?",
+          "answer": "Yes. A free tier lets you try female text to voice and preview results. Paid plans increase limits and unlock premium female voices, faster rendering, and advanced controls for professional teams."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "ladies-voice-converter": {
+    "meta": {
+      "title": "Conversor de Voz Feminina",
+      "keywords": "conversor de voz feminina, vozes femininas, texto feminino para voz",
+      "description": "Crie vozes femininas naturais com nosso conversor de voz feminina. Gere vozes femininas de alta qualidade para conteúdo de vídeo, podcast e redes sociais."
+    },
+    "hero": {
+      "title": "Conversor de Voz Feminina",
+      "subtitle": "Crie vozes femininas naturais para vídeo e redes sociais."
+    },
+    "faq": {
+      "title": "Perguntas Frequentes do Conversor de Voz Feminina",
+      "items": [
+        {
+          "question": "O que é um Conversor de Voz Feminina?",
+          "answer": "O Conversor de Voz Feminina é uma ferramenta alimentada por IA que transforma texto feminino em voz, produzindo vozes femininas naturais para seus projetos. Ele usa síntese de voz avançada para criar narrações realistas que parecem autênticas e envolventes. Use o conversor para gerar áudio de qualidade de estúdio para vídeos, podcasts, treinamento e redes sociais."
+        },
+        {
+          "question": "Como funciona a tecnologia do Conversor de Voz Feminina?",
+          "answer": "O conversor aplica modelos de aprendizado profundo treinados em grandes conjuntos de dados de voz. Ele analisa seu texto e executa síntese de texto feminino para voz que preserva tom, ritmo e expressão naturais. Este pipeline fornece vozes femininas consistentes e humanas otimizadas para clareza e calor."
+        },
+        {
+          "question": "O que torna nosso Conversor de Voz Feminina único?",
+          "answer": "Ele se concentra na autenticidade e inteligibilidade. Comparado com ferramentas básicas, nosso Conversor de Voz Feminina produz vozes femininas expressivas com entonação precisa, renderização rápida e controles fáceis. Esta combinação garante saída confiável de texto feminino para voz para uso profissional."
+        },
+        {
+          "question": "Posso usar o Conversor de Voz Feminina para projetos comerciais?",
+          "answer": "Sim. Você pode usar o Conversor de Voz Feminina para conteúdo comercial como anúncios, explicações, demonstrações de produtos, cursos e comunicações corporativas. As vozes femininas geradas são adequadas para uso seguro da marca - por favor, revise a licença do seu plano para detalhes específicos."
+        },
+        {
+          "question": "Qual qualidade de áudio o Conversor de Voz Feminina fornece?",
+          "answer": "Ele fornece clareza de grau de estúdio com frequências balanceadas e baixos artefatos. As vozes são renderizadas com prosódia natural para que as vozes femininas soem claras e expressivas através de intros, narrações longas e clipes promocionais."
+        },
+        {
+          "question": "Como crio conteúdo com o Conversor de Voz Feminina?",
+          "answer": "Digite seu roteiro, escolha uma voz preferida, depois clique em Gerar. Nosso motor de texto feminino para voz renderiza o áudio em segundos. Você pode visualizar, ajustar velocidade ou estilo, e baixar o arquivo final para editar ou publicar."
+        },
+        {
+          "question": "Quais formatos de arquivo o Conversor de Voz Feminina suporta?",
+          "answer": "Você pode exportar MP3 de alta qualidade para ampla compatibilidade com editores e plataformas. Dependendo do seu plano, formatos adicionais e taxas de bits podem estar disponíveis para se adequar a diferentes fluxos de trabalho."
+        },
+        {
+          "question": "O Conversor de Voz Feminina é gratuito para usar?",
+          "answer": "Sim. Um nível gratuito permite que você experimente texto feminino para voz e visualize resultados. Planos pagos aumentam os limites e desbloqueiam vozes femininas premium, renderização mais rápida e controles avançados para equipes profissionais."
+        }
+      ]
+    }
+  }
+}

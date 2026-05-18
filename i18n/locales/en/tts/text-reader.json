@@ -1,0 +1,50 @@
+{
+  "text-reader": {
+    "meta": {
+      "title": "Text Reader: read my text",
+      "description": "Instantly read my text with our advanced text reader. Create high-quality text reader for video, podcast, and more. ",
+      "keywords": "text reader, read my text"
+    },
+    "hero": {
+      "title": "Text Reader",
+      "subtitle": "Instantly read my text for video, podcast, and more."
+    },
+    "faq": {
+      "title": "Text Reader FAQ",
+      "items": [
+        {
+          "question": "What is a Text Reader?",
+          "answer": "A Text Reader is an advanced AI-powered tool that converts written content into natural-sounding speech. This innovative technology allows you to read my text aloud with authentic voice synthesis that replicates human speech patterns. Our Text Reader produces high-quality audio perfect for videos, podcasts, audiobooks, and multimedia projects."
+        },
+        {
+          "question": "How does the Text Reader technology work?",
+          "answer": "Our Text Reader employs deep learning neural networks trained on extensive voice datasets. The system analyzes your input and generates speech that captures natural vocal characteristics and expressiveness. This advanced technology ensures professional-quality output when you read my text, suitable for various content creation needs including marketing, education, and entertainment."
+        },
+        {
+          "question": "What makes our Text Reader unique?",
+          "answer": "Our platform excels through exceptional accuracy and natural sound quality. Unlike basic text-to-speech tools, our Text Reader focuses on authentic voice generation with precise intonation and emotional expression. When you read my text with our technology, you get superior audio quality, fast processing, and user-friendly controls for efficient content creation across different industries."
+        },
+        {
+          "question": "Can I use this tool for commercial projects?",
+          "answer": "Yes, our Text Reader is designed for both personal and commercial use. You can utilize this technology for business presentations, marketing materials, educational content, and advertising campaigns. The platform provides professional-quality audio when you read my text, suitable for corporate communications, social media content, and brand messaging."
+        },
+        {
+          "question": "What audio quality does the Text Reader provide?",
+          "answer": "Our Text Reader delivers studio-grade audio quality that rivals professional recordings. The technology produces crystal-clear speech with natural patterns and authentic emotional expression. Whether you read my text for short clips or longer content, the platform provides consistent, high-quality output suitable for broadcast and streaming applications."
+        },
+        {
+          "question": "How do I create content with this Text Reader?",
+          "answer": "Creating content with our Text Reader is simple and intuitive. Enter your text into the interface, select your preferred voice option, and click generate. The technology will convert your content into authentic audio. You can read my text aloud and preview the results before downloading the high-quality file for your projects using our streamlined platform."
+        },
+        {
+          "question": "What file formats does the Text Reader support?",
+          "answer": "Our Text Reader supports multiple audio formats for various content creation needs. The technology exports high-quality MP3 files compatible with most video editing software and social media platforms. Whether you read my text for podcasts, videos, or presentations, the system provides different audio quality settings and format options for your specific requirements."
+        },
+        {
+          "question": "Is the Text Reader service free to use?",
+          "answer": "Yes, our platform offers free access to basic text-to-speech features. You can generate and preview audio content without cost using our Text Reader technology. For advanced features and higher limits, we offer premium plans with enhanced capabilities and priority processing."
+        }
+      ]
+    }
+  }
+}

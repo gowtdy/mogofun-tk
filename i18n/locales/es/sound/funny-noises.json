@@ -1,0 +1,79 @@
+{
+  "funny-noises": {
+    "meta": {
+      "title": "Ruidos graciosos",
+      "description": "Crea ruidos graciosos únicos con IA avanzada de efectos de sonido; genera tipos variados: sonidos naturales, instrumentos y más.",
+      "keywords": "ruidos graciosos, efecto de sonido gracioso"
+    },
+    "hero": {
+      "title": "Ruidos graciosos",
+      "subtitle": "Convierte tus descripciones de texto en ruidos graciosos de alta calidad"
+    },
+    "generator_subtitle": "Elige entre los prompts populares de abajo o escribe tu propia descripción para generar ruidos graciosos",
+    "advantages": {
+      "title": "¿Por qué generar ruidos graciosos con nuestra IA?",
+      "items": [
+        {
+          "title": "Del texto a ruidos graciosos en segundos",
+          "description": "Describe chapoteos, chirridos, gorgoteos ridículos o caos de dibujos animados en palabras sencillas y obtén stems equilibrados al instante—sin recorrer bibliotecas sin fin. El modelo se centra en textura ruidosa y cómica para que el editor siga en la línea de tiempo. Duplica ruidos graciosos para cortes verticales, recorta el final de cada uno al fotograma y archiva repuestos para retoques.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Ajusta textura y timing",
+          "description": "Modifica humedad, duración y espacio para conseguir slapstick, pausas incómodas o exageración absurda. Los prompts en capas te ayudan a probar alternativas para shorts, streams, podcasts o UI juguetona hasta que el gag se lea claro. Cuando ruidos graciosos superpuestos tapen la voz en off, acorta los golpes; cuando suenen flojos, enriquece los verbos; haz QC de cada lote antes del doblaje.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Niveles listos para mezcla y entrega",
+          "description": "Las salidas se mantienen controladas junto al diálogo y la música en redes, streaming y especificaciones de cliente. Procesa ruidos graciosos en lote para una temporada manteniendo loudness predecible y minimizando mastering extra. Enruta promos el lunes, refresca los antiguos a mitad de semana e imprime entregables tras el picture lock.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Ruidos graciosos: preguntas y respuestas",
+      "items": [
+        {
+          "question": "¿Qué cuenta como ruidos graciosos en esta herramienta?",
+          "answer": "Graznidos juguetones, chirridos gomosos, gorgoteos ridículos, señales corporales exageradas y caos de dibujos animados—cualquier ruido que venda el chiste. Tú describes el ambiente; el sistema imprime stems para colocar bajo diálogo, UI o foley sin estudio de foley. Los compradores que comparan paquetes de efecto de sonido gracioso en línea deben confirmar recuento de stems y PDFs de licencia."
+        },
+        {
+          "question": "¿Cómo el texto se convierte en audio ruidoso?",
+          "answer": "Los prompts se analizan en busca de palabras de textura (squelch, buzz, honk), timing (golpe corto frente a cola) y espacio (seco frente a reverberante). Los modelos sintetizan formas de onda coincidentes y un procesado suave doma picos. Itera ajustando adjetivos y regenerando. Los investigadores que buscan listas de efecto de sonido gracioso aún necesitan filtros centrados en comedia que eviten drones de terror."
+        },
+        {
+          "question": "¿Qué significa efecto de sonido gracioso en un brief?",
+          "answer": "Los estudios usan esa abreviatura cuando quieren stings tontos—no whooshes heroicos ni drones de terror. Declarar la misma intención en un prompt aquí orienta la generación hacia ruido cómico en lugar de FX serios. Repetir efecto de sonido gracioso en líneas de guión alinea a los asistentes con los bins de comedia."
+        },
+        {
+          "question": "¿Cómo debo escribir prompts para gags más claros?",
+          "answer": "Empareja el tipo de ruido con el contexto: \"masticación húmeda + escupitajo cómico\", \"puerta de muelle + ojos de dibujo\". Menciona duración (\"picotazo de 250 ms\") y dinámica (\"suave y luego fuerte\"). Lo concreto gana a lo vago: compara \"apretar pollo de goma\" con \"juguete de apretar ridículo\". Empieza con bocina de efecto de sonido gracioso cuando necesites claridad cartoon al instante."
+        },
+        {
+          "question": "¿Puedo usar stems en YouTube o TikTok?",
+          "answer": "Sí—los clips encajan en flujos típicos de creadores. Alinea golpes ruidosos con la imagen, varía tomas para que las repeticiones no molesten y sigue las reglas actuales de subida de cada plataforma. Guarda PDFs de licencia para clientes de marca. Los equipos de canal que prueban promos de efecto de sonido gracioso deben seguir la política de audio publicitario de cada app."
+        },
+        {
+          "question": "¿Sirve para juegos o UI móvil?",
+          "answer": "Los diseñadores prototipan estados de fallo, potenciadores y reacciones de chat antes de fijar una biblioteca maestra. Genera variantes de ruidos graciosos para que los toques repetidos sigan frescos. Bloquea ganadores entre builds o guarda alternativas para easter eggs raros. Los diseñadores que cablean toques de UI con efecto de sonido gracioso deben hacer A/B antes del lanzamiento."
+        },
+        {
+          "question": "¿Qué estilos ruidosos son comunes?",
+          "answer": "Boings, bocinas, arañazos de disco, pops de boca, pasos chirriantes, zumbadores con glitch y bromas musicales híbridas. Separa capas cuando necesites cama y picotazo, o imprime stems para endulzar en una DAW. Los mezcladores que apilan camas de efecto de sonido gracioso bajo la banda sonora deben hacer notch al barro compartido con la música."
+        },
+        {
+          "question": "¿Las descargas son libres de regalías?",
+          "answer": "Los archivos se publican bajo la licencia mostrada al descargar—normalmente cubriendo anuncios, apps, streams y trabajo de cliente sin tasas extra de sincronización. Archiva acuerdos y vuelve a comprobar cuando cambien las políticas. Los supervisores que auditan archivos de efecto de sonido gracioso antes de renovaciones deben exportar PDFs para finanzas."
+        },
+        {
+          "question": "¿Qué calidad debo esperar?",
+          "answer": "Stems de alta resolución con dinámica controlada para convivir con voz en off y banda sonora. Aplica tu preset de loudness como cualquier FX de terceros. Los pases de cine siguen tu cadena habitual de mastering. Los ingenieros que imprimen finales de efecto de sonido gracioso aún ejecutan objetivos de loudness de la casa de extremo a extremo."
+        },
+        {
+          "question": "¿Quién saca más partido?",
+          "answer": "Editores, productores sociales, educadores e indies con plazos ajustados. Quien necesite ruidos graciosos frescos sin ingeniero de foley puede iterar rápido; los grandes estudios pueden usarlos como audio temporal antes de la captura final. Rota ruidos graciosos estacionales cuando marketing cambie ganchos. Los showrunners que storyboardean secuencias de efecto de sonido gracioso deben etiquetar bins para alinear asistentes."
+        }
+      ]
+    }
+  }
+}

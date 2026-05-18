@@ -1,0 +1,71 @@
+{
+  "funny-meme-sound": {
+    "meta": {
+      "title": "Son mème drôle",
+      "description": "Créez instantanément un son mème drôle avec notre IA avancée : sons naturels, instruments et bien plus encore.",
+      "keywords": "son mème drôle, son amusant"
+    },
+    "hero": {
+      "title": "Son mème drôle",
+      "subtitle": "Transformez instantanément une description textuelle en son mème drôle de haute qualité"
+    },
+    "generator_subtitle": "Choisissez parmi les prompts populaires ci-dessous ou rédigez votre propre description pour générer un son mème drôle",
+    "advantages": {
+      "title": "Pourquoi choisir notre générateur de sons mème drôles ?",
+      "items": [
+        {
+          "title": "Sons mème drôles à partir du texte en quelques secondes",
+          "description": "Décrivez un thud, un sting de rire ou un applaudissement sarcastique et obtenez un clip prêt à être partagé sans extraire l'audio d'uploads aléatoires. Le modèle saisit le timing comique, l'impact et le ton pour que les résultats collent aux montages réaction, alertes de stream ou explications en classe. Itérez vite lorsque vous avez besoin d'un beat neuf à chaque cycle mème. Chaque son mème drôle est calibré pour sonner amusant dans les montages courts.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Des styles qui collent aux punchlines du format court",
+          "description": "Demandez une énergie deadpan, cartoon ou excessif ; des adjectifs plus nets donnent de meilleurs matches. Mentionnez le rythme, la distance ou les mèmes de référence pour que la cue tombe sur la coupe que vous faites. Exportez des queues courtes qui bouclent proprement sous légendes ou overlays de stickers. Un son mème drôle bien chronométré aide les réactions à sonner amusantes sans masquer le dialogue.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Niveaux faciles au mix pour des flux chargés",
+          "description": "Les téléchargements visent des transitoires intelligibles et une loudness prévisible pour placer les cues à côté de la voix off sans sauts brutaux. Préécoutez sur haut-parleurs de téléphone pour que les stings sonnent amusants quand les auditeurs scrollent avec des écouteurs bon marché et une demi-attention. Gardez chaque son mème drôle au même niveau pour que les transitions sonnent amusantes sur tous les appareils.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "À propos des sons mème drôles",
+      "items": [
+        {
+          "question": "Que sont les sons mème drôles générés par IA ?",
+          "answer": "Ce sont de courts clips audio pilotés par le texte, conçus pour les beats mème, vidéos réaction et humour de chat plutôt que d'échantillonner des sources inconnues. Vous nommez la blague, l'humeur et le contexte, puis téléchargez un fichier que vous pouvez légalement insérer dans montages ou prototypes. Un son mème drôle sur mesure laisse les punchlines sonner amusantes tout en restant original."
+        },
+        {
+          "question": "Comment le générateur transforme-t-il les prompts en audio ?",
+          "answer": "Le système interprète des traits comme impact slapstick, couleur vocale et longueur de decay depuis votre prompt, puis synthétise des sons mème drôles alignés sur ce brief. Ajustez verbes, références mème ou notes d'intensité entre passes jusqu'à ce que le sting matche votre punchline. Un son mème drôle affiné par beat rend souvent les coupes plus amusantes et plus propres."
+        },
+        {
+          "question": "Pourquoi synthétiser des stings ici plutôt que ripper des clips ?",
+          "answer": "L'audio ripé a des droits flous et une qualité inégale. Une synthèse neuve suit votre formulation, utile quand il vous faut une variation qu'aucun rip viral n'atteint, et garde la loudness plus proche de ce qu'attend votre timeline. Générer un nouveau son mème drôle limite le risque légal et aide les remix à sonner amusants."
+        },
+        {
+          "question": "Comment formuler des prompts pour des sons mème drôles accrocheurs ?",
+          "answer": "Associez une action à un ton et une référence d'époque ou de format optionnelle. Des exemples comme « rimshot sec après un jeu de mots raté » ou « bonk cartoon avec longue queue » surpassent des mots vagues comme « drôle ». Mentionnez si le clip doit passer sous le dialogue pour que le modèle raccourcisse les transitoires. Un prompt précis pour son mème drôle donne des résultats amusants avec moins de réessais."
+        },
+        {
+          "question": "Comment mixer ces cues pour que les courtes vidéos restent amusantes ?",
+          "answer": "Duck la musique légèrement, placez les impacts sur les coupes d'image et préécoutez sur téléphone. Une compression légère sur le master aide les moments à sonner amusants sans enterrer les légendes, tant que vous laissez de la marge avant le limitage. Placez chaque son mème drôle légèrement en avance sur le mouvement pour que les révélations sonnent amusantes."
+        },
+        {
+          "question": "Quelles tonalités au-delà des sons mème drôles classiques ?",
+          "answer": "Essayez applaudissements ironiques, petits grattements de disque, glissés caoutchouteux ou stingers sitcom factices. Ajouter un cadre—farce de bureau, stream gaming, TikTok science—maintient l'humour cohérent avec vos visuels. Faire tourner des variantes de sons mème drôles aide les segments récurrents à sonner amusants plutôt que répétitifs."
+        },
+        {
+          "question": "L'audio généré est-il libre de droits ?",
+          "answer": "Oui. Les téléchargements sont libres de droits pour usage créateur et commercial typique sous notre licence, sans frais par clip. Relisez les dernières conditions sur la page produit avant grosses campagnes pub ou broadcast. Vous pouvez réutiliser un même son mème drôle sur plusieurs cutdowns tout en gardant des montages amusants."
+        },
+        {
+          "question": "Quelle qualité audio dois-je attendre ?",
+          "answer": "Attendez-vous à une bande passante claire adaptée aux suites de montage et à la lecture mobile. Si vous avez besoin d'un niveau broadcast, passez votre chaîne de mastering habituelle pour que chaque sting mème s'équilibre avec la narration tout en gardant des montages amusants sur casque et enceintes auto."
+        }
+      ]
+    }
+  }
+}

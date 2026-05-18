@@ -1,0 +1,75 @@
+{
+  "scream-noise": {
+    "meta": {
+      "title": "Ruido de grito",
+      "description": "Crea ruido de grito al instante con nuestra tecnología de IA avanzada. Genera diversos tipos de sonidos: naturales, instrumentos musicales y más.",
+      "keywords": "ruido de grito, efecto de sonido hombre gritando"
+    },
+    "hero": {
+      "title": "Ruido de grito",
+      "subtitle": "Transforma descripciones de texto en ruido de grito de alta calidad al instante"
+    },
+    "generator_subtitle": "Elige entre los prompts populares de abajo o escribe tu propia descripción para generar ruido de grito",
+    "advantages": {
+      "title": "¿Por qué usar nuestro generador de efectos de sonido de ruido de grito?",
+      "items": [
+        {
+          "title": "Creación instantánea de ruido de grito",
+          "description": "Genera ruido vocal profesional a partir de texto en segundos. Nuestra herramienta convierte tus descripciones en ruido de grito y efecto de sonido hombre gritando de calidad de estudio sin bibliotecas de muestras ni edición manual. Crea variaciones ilimitadas para cualquier proyecto. ¿Necesitas otra intensidad o estilo? El generador maneja efectos de grito realistas y estilizados con calidad consistente. Ideal para creadores que quieren efecto de sonido hombre gritando rápido y natural para juegos, películas u otros medios.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Opciones creativas flexibles",
+          "description": "Usa el generador para el estilo que necesites—sutil a intenso, único o en capas. Entiende descripciones detalladas y te da control creativo total. Explora variaciones de ruido de grito y efecto de sonido hombre gritando adaptadas a tu escena o personaje. Cada salida está hecha para tu proyecto. La herramienta soporta escenarios diversos y entrega ruido de grito y efecto de sonido hombre gritando listos para emisión en juegos, vídeos y proyectos de audio.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Calidad de audio profesional",
+          "description": "Cada clip de nuestro generador cumple estándares de emisión con salida de alta fidelidad. Algoritmos punteros garantizan resultados claros y naturales. Todos los clips generados están listos para producción y optimizados para uso profesional. El sistema ofrece calidad consistente en todas las variaciones, así que tu ruido de grito y efecto de sonido hombre gritando siempre suenan pulidos y listos para publicar.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Sobre el generador de efectos de sonido de ruido de grito",
+      "items": [
+        {
+          "question": "¿Qué es un generador de efectos de sonido de ruido de grito?",
+          "answer": "Es una herramienta de IA que convierte texto en audio vocal personalizado. La nuestra usa procesamiento de lenguaje natural y síntesis neuronal para producir resultados profesionales de ruido de grito y efecto de sonido hombre gritando. Describes el sonido que quieres—intensidad, contexto, estilo—y el generador crea el audio correspondiente. Sirve para desarrolladores de juegos, cineastas y creadores de contenido que necesitan efecto de sonido hombre gritando rápido y realista para personajes o escenas. La herramienta soporta distintos estados de ánimo y estilos para que obtengas el resultado adecuado cada vez."
+        },
+        {
+          "question": "¿Cómo funciona el generador de ruido de grito?",
+          "answer": "Nuestro generador analiza tu texto con NLP y luego lo procesa en redes entrenadas para síntesis vocal y de gritos. Captura rasgos como intensidad, duración y tipo de personaje para dar forma a la salida. Entrenado con muestras vocales profesionales, la IA produce variaciones naturales de ruido de grito y efecto de sonido hombre gritando. Filtrado y postprocesado mantienen la calidad alta para que cada efecto de sonido de ruido de grito cumpla estándares de emisión. Obtienes clips de calidad de estudio sin grabación ni edición."
+        },
+        {
+          "question": "¿Qué hace diferente a este generador de ruido de grito?",
+          "answer": "Nuestra herramienta destaca por velocidad, calidad y facilidad de uso. A diferencia de bibliotecas estáticas, crea ruido de grito y efecto de sonido hombre gritando personalizados bajo demanda a partir de descripciones simples. El sistema entiende matices y entrega ruido vocal y efecto de sonido hombre gritando variados para distintos contextos. Tienes variaciones ilimitadas y control creativo total. La tecnología asegura una salida equilibrada y natural para que tus clips encajen en cualquier proyecto."
+        },
+        {
+          "question": "¿Cómo escribir buenos prompts para ruido de grito?",
+          "answer": "Escribe descripciones claras y concretas. Menciona intensidad (suave, medio, fuerte), contexto (miedo, sorpresa, reacción) y estilo (realista, estilizado). Nuestro generador responde bien al detalle—p. ej. \"grito corto tras impacto\" o \"ruido de grito y efecto de sonido hombre gritando en capas a lo lejos\". Incluye ambiente y duración cuando proceda. Cuanto más contexto des, mejor el resultado. Prueba distintas redacciones para explorar variaciones que encajen con tu escena."
+        },
+        {
+          "question": "¿Cómo usar ruido de grito en contenido de vídeo?",
+          "answer": "Coloca efectos de sonido donde las escenas necesiten reacción o impacto—golpes, caídas o momentos dramáticos. Nuestro generador permite crear ruido de grito y efecto de sonido hombre gritando a medida para cada momento para que sea coherente con la historia. Superpone varias variaciones para profundidad. Usa la herramienta para transiciones, cortes o énfasis. El generador produce suficiente variación de ruido de grito y efecto de sonido hombre gritando para evitar repetición manteniendo un estilo coherente en todo el vídeo."
+        },
+        {
+          "question": "¿Puedo usar ruido de grito en juegos?",
+          "answer": "Sí. El generador soporta audio procedural para juegos—clips distintos para golpes, daño o eventos para que los jugadores rara vez oigan el mismo clip dos veces. Crea audio adaptativo que reacciona al estado del juego y a las acciones. Obtienes ruido de grito y efecto de sonido hombre gritando variados para personajes, NPCs y cinemáticas con calidad consistente. La salida de ruido de grito y efecto de sonido hombre gritando es ideal para juegos de combate, terror o narrativos. Úsalo para habilidades, heridas o capas de ambiente para mejorar la inmersión."
+        },
+        {
+          "question": "¿Qué tipos de ruido de grito puedo crear?",
+          "answer": "Puedes crear un amplio rango: suave a intenso, voz única o múltiple, realista o estilizado. El generador maneja miedo, sorpresa, reacción y otros contextos con calidad profesional. Ya sea ruido de grito sutil de fondo o ruido de grito y efecto de sonido hombre gritando fuertes para escenas clave, la herramienta lo entrega. Combina prompts para obtener el ruido de grito y el efecto de sonido hombre gritando exactos que tu proyecto necesita."
+        },
+        {
+          "question": "¿Los efectos de sonido de ruido de grito generados son libres de regalías?",
+          "answer": "Sí. Todos los efectos de sonido de nuestro generador son libres de regalías y vienen con licencia comercial. Puedes usar estos clips—incluidos ruido de grito y efecto de sonido hombre gritando—en cualquier proyecto sin cargos extra ni atribución. Cada clip está autorizado para uso profesional y comercial, incluidos juegos, vídeos y podcasts."
+        },
+        {
+          "question": "¿Qué calidad tienen los sonidos?",
+          "answer": "Nuestro generador produce audio de nivel profesional que cumple estándares de la industria. Tienes opciones de alta resolución, rango de frecuencias completo y dinámicas claras. Toda salida de ruido de grito y efecto de sonido hombre gritando está lista para emisión y es adecuada para producción de cine, juego y medios. El generador mantiene la calidad consistente en todas las variaciones."
+        }
+      ]
+    }
+  }
+}

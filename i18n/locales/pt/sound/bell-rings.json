@@ -1,0 +1,75 @@
+{
+  "bell-rings": {
+    "meta": {
+      "title": "Sons de sino",
+      "description": "Crie sons de sino instantaneamente com nossa tecnologia de IA avançada. Gere diversos tipos de som: naturais, instrumentos musicais e mais.",
+      "keywords": "sons de sino, carrilhão de sino"
+    },
+    "hero": {
+      "title": "Sons de sino",
+      "subtitle": "Transforme descrições em texto em sons de sino de alta qualidade instantaneamente"
+    },
+    "generator_subtitle": "Selecione entre os prompts populares abaixo ou escreva sua própria descrição para gerar sons de sino",
+    "advantages": {
+      "title": "Por que escolher nosso gerador?",
+      "items": [
+        {
+          "title": "Criação instantânea de sons de sino",
+          "description": "Crie clipes de sons de sino profissionais instantaneamente a partir de texto com nosso gerador de IA. A ferramenta transforma suas ideias em áudio de badalada e tom de alta qualidade em segundos, sem bibliotecas de amostras ou edição manual. Gere variações ilimitadas para qualquer projeto com alguns cliques. Seja carrilhão de sino, badalada de igreja ou ding em camadas, o gerador entrega saída em qualidade de estúdio para seus projetos criativos.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Possibilidades criativas ilimitadas",
+          "description": "Use nosso gerador para criar qualquer estilo de sons de sino que imaginar—de badalada de igreja a tom de porta. A ferramenta entende descrições complexas e dá liberdade criativa total. Explore opções infinitas para vídeos, jogos e apps. De golpes únicos a carrilhão de sino em camadas, obtenha o clipe perfeito para cada cenário.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualidade de áudio profissional",
+          "description": "Todo clipe do nosso gerador atende aos padrões de transmissão com saída de alta fidelidade. Algoritmos de ponta garantem resultados em qualidade de estúdio. Toda a saída sons de sino está pronta para produção e otimizada para uso profissional. O gerador oferece cobertura de frequência completa e dinâmica controlada para saída autêntica de badalada e tom.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "FAQ gerador",
+      "items": [
+        {
+          "question": "O que é um gerador de sons de sino?",
+          "answer": "Um gerador de sons de sino é uma ferramenta de IA que transforma descrições em texto em áudio personalizado de badalada e tom. O nosso usa processamento de linguagem natural e síntese neural de áudio para produzir clipes de qualidade profissional. Modelos de deep learning treinados em conjuntos de dados de badalada entendem sua descrição e geram variações correspondentes. É ideal para criadores de conteúdo, editores de vídeo e desenvolvedores de jogos que precisam de saída rápida e autêntica de sons de sino. Ele usa seu contexto e detalhes para criar áudio nuanceado e em camadas. Para carrilhão de sino refinado ou outros estilos, entrega resultados precisos e de alta fidelidade."
+        },
+        {
+          "question": "Como funciona?",
+          "answer": "A ferramenta usa um pipeline em várias etapas para transformar texto em áudio de alta qualidade. Primeiro analisa sua descrição para capturar traços como tom, ressonância, duração e estilo. Essas informações passam por redes neurais treinadas para síntese de badalada e tom, que tratam frequência, dinâmica e decaimento. Treinado com amostras profissionais, a IA produz sons de sino naturais. Filtragem e pós-processamento mantêm a qualidade alta e garantem que todo clipe de carrilhão de sino atenda aos padrões de transmissão."
+        },
+        {
+          "question": "O que torna este gerador único?",
+          "answer": "Nosso gerador se destaca pela personalização instantânea e qualidade profissional. Diferente de bibliotecas estáticas, ele cria clipes de badalada sob medida sob demanda. É treinado com amostras de alta qualidade para resultados realistas, incluindo carrilhão de sino e estilos de badalada variados. O sistema entende descrições complexas e produz saída de sons de sino com controle fino de tom e contexto. Você obtém variações ilimitadas e liberdade criativa."
+        },
+        {
+          "question": "Como escrevo prompts eficazes para ele?",
+          "answer": "Escreva descrições claras e específicas com vários detalhes. Em vez de só \"badalada\", tente \"sons de sino com reverb\" ou \"carrilhão de sino com eco.\" Inclua estilo, tom, duração e traços distintivos. O gerador responde bem a termos como badalada de igreja, tom de porta e ressonância. Para cenários complexos, divida em partes e diga como se combinam. Mais contexto gera melhores resultados para sons de sino e carrilhão de sino."
+        },
+        {
+          "question": "Como usar em conteúdo de vídeo?",
+          "answer": "Mapeie as cenas do seu vídeo e coloque clipes de sons de sino personalizados onde agregam impacto. Ele ajuda a criar áudio de badalada e tom para cada momento—de dicas sutis a hits dramáticos. Sobreponha várias variações de sons de sino para áudio rico e envolvente. Use para transições, títulos e cenas-chave. Use momentos distintos como carrilhão de sino para sublinhar tempo ou lugar. A ferramenta permite construir um estilo de áudio único que combina com seu conteúdo."
+        },
+        {
+          "question": "Como usar no desenvolvimento de jogos?",
+          "answer": "Ele suporta áudio procedural para jogos. Crie variações de sons de sino e carrilhão de sino para que os jogadores raramente ouçam o mesmo clipe duas vezes. Construa sistemas que reajam ao estado do jogo, ações do jogador e condições. Produza opções diferentes para UI, fases e eventos mantendo estilo consistente. Saída em camadas pode ser mixada dinamicamente a partir dos parâmetros do jogo. Ele entrega áudio de qualidade profissional que aumenta imersão e feedback."
+        },
+        {
+          "question": "Que tipos de sons de sino posso criar?",
+          "answer": "Você pode criar uma ampla gama de sons de sino: badalada de igreja, tom de porta, carrilhão de sino para ambiente ou UI, intensidades (suave a alto) e estilos (igreja, porta, cartoon, cinematográfico). A ferramenta trata essas categorias de sons de sino e carrilhão de sino com qualidade consistente. Seja badalada leve ou clipes de tom forte, o gerador entrega resultados profissionais para qualquer projeto."
+        },
+        {
+          "question": "Os clipes de sons de sino gerados são livres de royalties?",
+          "answer": "Sim. Todo o áudio do nosso gerador é livre de royalties e inclui licença comercial. Você pode usar os clipes de sons de sino gerados em qualquer projeto sem taxas extras ou atribuição. Todo clipe, incluindo saída de carrilhão de sino, está liberado para uso imediato em trabalho profissional e comercial."
+        },
+        {
+          "question": "Que qualidade ele produz?",
+          "answer": "O gerador produz áudio de sons de sino de qualidade profissional que atende aos padrões da indústria. Você obtém opções de alta resolução até 192 kHz/24-bit para carrilhão de sino, faixa de frequência completa e dinâmica controlada. Toda a saída está pronta para transmissão. Todo clipe é adequado para produção profissional e projetos criativos."
+        }
+      ]
+    }
+  }
+}

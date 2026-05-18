@@ -1,0 +1,71 @@
+{
+  "angry-screaming": {
+    "meta": {
+      "title": "Grito de raiva",
+      "description": "Crie instantaneamente gritos de raiva com nossa IA avançada. Gere vários tipos de sons, incluindo naturais, instrumentos e muito mais.",
+      "keywords": "grito de raiva, sting de impacto duro"
+    },
+    "hero": {
+      "title": "Grito de raiva",
+      "subtitle": "Transforme instantaneamente uma descrição em texto em gritos de raiva de alta qualidade"
+    },
+    "generator_subtitle": "Escolha entre os prompts populares abaixo ou escreva sua própria descrição para gerar gritos de raiva",
+    "advantages": {
+      "title": "Por que escolher nosso gerador de gritos de raiva?",
+      "items": [
+        {
+          "title": "Crie clips de grito de raiva em segundos",
+          "description": "Transforme prompts curtos em gritos de raiva intensos sem vasculhar bibliotecas enormes. O modelo interpreta agressão, timing e pressão emocional para que as saídas sirvam a edições cinematográficas, streams e destaques de gameplay. Iteração rápida permite que equipes comparem takes alternativos antes do lock final.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Intensidade flexível para qualquer cena",
+          "description": "Ajuste detalhes do prompt para ir de tensão contida a explosões violentas mantendo espaço para diálogo. Você molda textura, duração e estilo de personagem para trailers, edições de reação e transições dramáticas. Assim cada cue de grito de raiva parece específica, não genérica, e você pode sobrepor stings de impacto duro com moderação quando o tom do projeto permitir.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualidade de áudio profissional",
+          "description": "As exportações vêm prontas para mix com loudness estável e transientes limpos, facilitando substituições tardias na pós. Os arquivos permanecem consistentes após compressão das plataformas, para que picos de grito de raiva e acentos de impacto duro continuem inteligíveis em mobile, desktop e fluxos de broadcast.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Sobre nosso gerador de gritos de raiva",
+      "items": [
+        {
+          "question": "O que é um gerador de gritos de raiva?",
+          "answer": "É uma ferramenta de áudio com IA que converte prompts de texto em efeitos vocais agressivos e gritos de raiva para momentos de alta intensidade. Em vez de gravar muitas tomadas, você gera clips específicos da cena com rapidez e os testa direto na linha do tempo."
+        },
+        {
+          "question": "Como funciona esta ferramenta de gritos de raiva?",
+          "answer": "O modelo analisa humor, força, ritmo e contexto do seu prompt e sintetiza saída alinhada a esses sinais, incluindo ênfase opcional de impacto duro quando o brief exigir. Você pode refinar a redação entre passagens para apertar ataque, sustain e ritmo até o clip encaixar no corte exato."
+        },
+        {
+          "question": "Por que usar isso em vez de packs de stock?",
+          "answer": "Assets de stock costumam repetir e podem não combinar com o timing da cena. Geração baseada em prompt cria takes novos de grito de raiva e impacto duro sob demanda, deixando edições mais originais e reduzindo busca e limpeza manuais."
+        },
+        {
+          "question": "Como devo escrever prompts para efeitos de grito de raiva?",
+          "answer": "Descreva quem reage, o que dispara a reação e quanto tempo a cue deve durar. Redação específica como \"grito de raiva logo após a porta bater\" ou \"sting de impacto duro apertado no corte\" costuma dar timing mais limpo do que palavras-chave amplas."
+        },
+        {
+          "question": "Onde encaixam stings de impacto duro neste fluxo?",
+          "answer": "Uma camada de impacto duro pode servir como elemento de ênfase estilizado em edições para público maduro quando o tom exige impacto mais forte. Mantenha níveis abaixo do diálogo-chave e automatize ganho com cuidado para preservar inteligibilidade e evitar fadiga de mixagem."
+        },
+        {
+          "question": "Que tipos de variantes posso gerar?",
+          "answer": "Você pode criar explosões curtas de fúria, chamados tensos, agressão de multidão em camadas, picos distorcidos e swells vocais cinematográficos impulsionados por gritos de raiva empilhados. Essa variedade ajuda editores e sound designers a testar ritmo emocional antes da exportação final."
+        },
+        {
+          "question": "O áudio gerado é livre de royalties?",
+          "answer": "Sim. Os arquivos gerados são livres de royalties sob nossa licença padrão para uso típico de criadores e comercial. Revise sempre os termos vigentes antes de grandes campanhas ou implantação em broadcast."
+        },
+        {
+          "question": "Que qualidade devo esperar das exportações?",
+          "answer": "Espere saída pronta para produção com detalhe claro, dinâmica estável e reprodução confiável em todos os dispositivos, mesmo ao empilhar gritos de raiva com stings de impacto duro. Para entrega final, aplique sua cadeia usual de masterização para bater as metas de loudness do projeto."
+        }
+      ]
+    }
+  }
+}

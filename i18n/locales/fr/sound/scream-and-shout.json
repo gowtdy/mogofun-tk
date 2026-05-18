@@ -1,0 +1,71 @@
+{
+  "scream-and-shout": {
+    "meta": {
+      "title": "Cris et hurlements",
+      "description": "Créez instantanément cris et hurlements grâce à notre IA avancée. Générez divers types de sons : nature, instruments, et plus encore.",
+      "keywords": "cris et hurlements, cris et vociférations"
+    },
+    "hero": {
+      "title": "Cris et hurlements",
+      "subtitle": "Transformez instantanément une description textuelle en cris et hurlements de haute qualité"
+    },
+    "generator_subtitle": "Choisissez parmi les invites populaires ci-dessous ou rédigez votre propre description pour générer cris et hurlements",
+    "advantages": {
+      "title": "Pourquoi choisir notre générateur de cris et hurlements ?",
+      "items": [
+        {
+          "title": "Créez des clips en quelques secondes",
+          "description": "Transformez un simple texte d’invite en moments vocaux à fort impact sans parcourir d’immenses bibliothèques. Le modèle saisit l’urgence, le rythme et l’intention de personnage pour que chaque résultat convienne au montage d’action, aux bandes-annonces, aux scènes de jeu et aux contenus sociaux. L’itération rapide permet de comparer les prises avant le verrouillage du timing. Une invite ciblée cris/hurlements peut pousser des accents de cris et vociférations sans encombrer le mix.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Intensité flexible pour chaque situation",
+          "description": "De la tension contenue à l’énergie pleine de cris et vociférations, vous façonnez la lecture en affinant le détail de l’invite, la durée et la texture vocale. Cela aide à aligner l’émotion sur l’image tout en préservant la clarté dans les scènes riches en dialogue. Vous pouvez aussi générer des versions alternatives pour un A/B. Les monteurs gardent souvent une version cris/hurlements plus une version cris et vociférations pour des swaps rapides.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualité audio digne du pro",
+          "description": "Les exports sont prêts au mix avec un niveau sonore fiable, des transitoires propres et un équilibre tonal cohérent. Les remplacements tardifs en post sont plus simples et les effets restent stables après compression des plateformes sur mobile et bureau. Un mastering homogène garde chaque duo cris/hurlements clair tandis que chaque pic de cris et vociférations reste maîtrisé.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "À propos de notre générateur de cris et hurlements",
+      "items": [
+        {
+          "question": "Qu’est-ce qu’un générateur de cris et hurlements ?",
+          "answer": "C’est un outil IA qui transforme des invites textuelles en effets vocaux expressifs pour les moments à haute énergie. Au lieu d’enregistrer de nombreux comédiens ou de fouiller les bibliothèques à la main, vous générez rapidement des clips adaptés à chaque scène. Un même concept cris/hurlements peut produire plusieurs alternatives de cris et vociférations pour différents montages."
+        },
+        {
+          "question": "Comment fonctionne cet outil cris et hurlements ?",
+          "answer": "Le système analyse l’intention émotionnelle, le profil de volume, le rythme et le contexte de votre invite, puis synthétise une sortie alignée sur ces indices. Vous pouvez itérer sur la formulation pour resserrer l’attaque, le sustain ou le rythme jusqu’à ce que le clip colle exactement à la timeline. L’itération aide chaque cue cris/hurlements à tomber sur l’image tout en gardant cris et vociférations cohérents."
+        },
+        {
+          "question": "Pourquoi l’utiliser plutôt que des packs stock ?",
+          "answer": "Les packs répètent souvent des assets usés et peuvent ne pas coller au rythme de la scène. La génération pilotée par invite crée de nouvelles prises à la demande, pour des montages plus originaux tout en restant synchronisés avec l’image. Chaque cris/hurlements reste unique et on évite les clichés génériques de cris et vociférations."
+        },
+        {
+          "question": "Comment rédiger des invites pour des effets cris et hurlements ?",
+          "answer": "Décrivez qui réagit, ce qui déclenche le moment vocal, et combien de temps il doit durer. Des invites précises comme « court cri d’ordre avant l’impact » donnent en général un meilleur timing qu’un libellé vague. De meilleures invites affinent le timing cris/hurlements et limitent les débordements de cris et vociférations dans les scènes denses."
+        },
+        {
+          "question": "Quand utiliser cris et vociférations dans un mix ?",
+          "answer": "Employez cris et vociférations pour les transitions de climax, les indices de bataille, les beats de panique ou les révélations très tendues. Gardez les niveaux légèrement sous le dialogue principal et automatisez le gain pour préserver l’intelligibilité dans les scènes chargées. Une courte entrée en cris/hurlements avant cris et vociférations améliore souvent le rythme dramatique."
+        },
+        {
+          "question": "Quelles variantes vocales puis-je générer ?",
+          "answer": "Vous pouvez créer de courts ordres, des cris de guerre, des foules en couches, des appels tendus et des accents dramatiques stylisés. Cette plage facilite les tests d’impact émotionnel avant l’export final. Constituez une petite bibliothèque cris/hurlements et étiquetez chaque clip cris et vociférations par intensité pour un accès rapide."
+        },
+        {
+          "question": "L’audio généré est-il libre de droits ?",
+          "answer": "Oui. Les fichiers générés sont libres de droits sous notre licence pour un usage créateur et commercial standard. Consultez les conditions de licence en vigueur avant déploiement publicitaire ou broadcast à grande échelle."
+        },
+        {
+          "question": "Quelle qualité puis-je attendre des exports ?",
+          "answer": "Attendez-vous à une sortie prête prod avec détail clair, dynamique stable et lecture fiable sur tous les appareils. Pour la version finale, appliquez votre chaîne de mastering habituelle pour viser les objectifs loudness des plateformes. Le contrôle qualité final doit confirmer que chaque cris/hurlements reste intelligible et que tous les transitoires de cris et vociférations survivent à la compression."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "train-noise": {
+    "meta": {
+      "title": "Ruido de tren",
+      "description": "Crea ruido de tren al instante con nuestra tecnología de IA avanzada. Genera distintos tipos de audio: tonos naturales, instrumentos musicales y más.",
+      "keywords": "ruido tren, audio tren"
+    },
+    "hero": {
+      "title": "Ruido de tren",
+      "subtitle": "Transforma descripciones de texto en ruido de tren de alta calidad al instante"
+    },
+    "generator_subtitle": "Elige entre las sugerencias populares de abajo o escribe tu propia descripción para generar ruido de tren",
+    "advantages": {
+      "title": "¿Por qué elegir nuestro generador de ruido de tren?",
+      "items": [
+        {
+          "title": "Creación instantánea de ruido de tren",
+          "description": "Crea ruido de tren profesional y clips de audio tren al instante a partir de texto. Nuestra IA convierte tus descripciones en motor diésel, silbido y clips de ambiente en segundos—sin bibliotecas de muestras ni edición manual. ¿Necesitas ruido de tren musical o audio tren completo para una escena? Genera variaciones ilimitadas con calidad lista para emisión para cualquier proyecto.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Posibilidades creativas ilimitadas",
+          "description": "Crea cualquier estilo que imagines: ruido de motor diésel, silbido y ambiente, o ruido de tren musical. La herramienta entiende descripciones detalladas y te da libertad creativa total. Explora opciones infinitas para vídeos, juegos y aplicaciones. Desde audio tren sutil hasta clips en capas para cine, obtén el clip adecuado para cada escenario.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Calidad de audio profesional",
+          "description": "Cada clip de nuestro generador cumple los estándares de emisión con salida de alta fidelidad. Algoritmos punteros garantizan clips y audio tren de calidad de estudio. Todos los clips están listos para producción y optimizados para uso profesional, con cobertura completa de frecuencias y resultados naturales y auténticos.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "FAQ Ruido de tren",
+      "items": [
+        {
+          "question": "¿Qué es un generador de ruido de tren?",
+          "answer": "Nuestro generador es una herramienta de IA que convierte texto en ruido de tren y audio tren personalizados. Usa procesamiento de lenguaje natural y síntesis neuronal para producir clips profesionales—desde ruido de motor diésel hasta silbido y ambiente. Es adecuado para creadores, editores de vídeo y desarrolladores de juegos que necesitan ruido de tren y audio tren rápidos y auténticos con resultados precisos y de alta fidelidad."
+        },
+        {
+          "question": "¿Cómo funciona el generador?",
+          "answer": "La herramienta usa un pipeline en varias etapas para convertir texto en clips de alta calidad. Analiza tu descripción para capturar intensidad, estilo y contexto, y lo procesa en redes neuronales entrenadas para síntesis ferroviaria y de motor. Puedes pedir clips cortos para la interfaz o ruido de tren más largo para ambiente. Cada clip cumple los estándares de emisión."
+        },
+        {
+          "question": "¿Qué hace único a este generador de ruido de tren?",
+          "answer": "Nuestro generador destaca por la personalización instantánea y la calidad profesional. A diferencia de bibliotecas estáticas, crea clips a medida bajo demanda. Entrenado con muestras de alta calidad, ofrece ruido de tren y audio tren realistas. Obtienes variaciones ilimitadas y libertad creativa con control fino."
+        },
+        {
+          "question": "¿Cómo escribo prompts efectivos para ruido de tren?",
+          "answer": "Escribe descripciones claras y concretas. Prueba \"ruido de tren musical\" o \"audio tren para motor diésel\". Incluye estilo (realista, cinematográfico), intensidad y contexto. El generador responde bien a términos como diésel, silbido, ambiente y audio tren. Más contexto da mejores resultados."
+        },
+        {
+          "question": "¿Cómo puedo usar ruido de tren en contenido de vídeo?",
+          "answer": "Planifica las escenas de tu vídeo y coloca clips personalizados donde aporten atmósfera. Crea clips de diésel y silbido para cada momento—desde fondo sutil hasta hits dramáticos. Superpone audio tren para una salida rica y atractiva que subraya tiempo o lugar."
+        },
+        {
+          "question": "¿Cómo puedo usar el generador en el desarrollo de juegos?",
+          "answer": "Nuestro generador admite clips procedurales para juegos. Crea variaciones para que los jugadores rara vez escuchen el mismo clip dos veces. Produce opciones distintas para interfaz, niveles y eventos manteniendo un estilo coherente. La herramienta ofrece ruido de tren y audio tren de calidad profesional que mejoran la inmersión y el feedback."
+        },
+        {
+          "question": "¿Qué tipos de ruido de tren puedo crear?",
+          "answer": "Puedes crear una amplia gama: ruido de tren musical, ruido de motor diésel, silbido y ambiente, y audio tren general. Estilos de suave a fuerte (realista, cinematográfico, vintage). La herramienta maneja estos con calidad consistente y ofrece resultados profesionales para cualquier proyecto."
+        },
+        {
+          "question": "¿Los clips generados están libres de regalías?",
+          "answer": "Sí. Todos los clips de nuestro generador están libres de regalías e incluyen licencia comercial. Puedes usar los clips generados en cualquier proyecto sin costes adicionales ni atribución. Cada clip está autorizado para uso inmediato en trabajo profesional y comercial."
+        },
+        {
+          "question": "¿Qué calidad produce el generador?",
+          "answer": "Nuestro generador produce clips de nivel profesional que cumple los estándares de la industria. Tienes opciones de audio tren en alta resolución hasta 192 kHz/24 bits, rango de frecuencias completo y dinámica controlada. Cada clip está listo para emisión y es adecuado para producción profesional y proyectos creativos."
+        }
+      ]
+    }
+  }
+}

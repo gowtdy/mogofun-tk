@@ -1,0 +1,71 @@
+{
+  "sex-sounds-porn": {
+    "meta": {
+      "title": "Sex sounds porn",
+      "description": "Crea sex sounds porn al instante con nuestra tecnologia avanzada de IA. Genera varios tipos de sonidos, incluidos sonidos naturales, instrumentos musicales y mas.",
+      "keywords": "sex sounds porn, sex voice"
+    },
+    "hero": {
+      "title": "Sex sounds porn",
+      "subtitle": "Convierte descripciones de texto en sex sounds porn de alta calidad al instante"
+    },
+    "generator_subtitle": "Elige un prompt popular abajo o escribe tu propia descripcion para generar sex sounds porn",
+    "advantages": {
+      "title": "Por que elegir nuestro generador de sex sounds porn?",
+      "items": [
+        {
+          "title": "Creacion instantanea de sex sounds porn",
+          "description": "Genera sex sounds porn profesional en segundos a partir de texto, sin bibliotecas enormes ni edicion manual.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Estilos flexibles para cualquier escena",
+          "description": "Crea estilos con distintas intensidades, ambientes y contextos para cada tipo de escena.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Calidad de audio profesional",
+          "description": "Todos los clips generados cumplen estandares de produccion con sonido limpio, estable y listo para usar.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Sobre el generador de sex sounds porn",
+      "items": [
+        {
+          "question": "Que es un generador de sex sounds porn?",
+          "answer": "Es una herramienta de IA que convierte texto en audio personalizado para proyectos de contenido y creatividad."
+        },
+        {
+          "question": "Como funciona este generador?",
+          "answer": "Lee tu descripcion, detecta ambiente, intensidad y estilo, y luego sintetiza un audio acorde."
+        },
+        {
+          "question": "Que hace unico a este generador?",
+          "answer": "A diferencia de bibliotecas fijas, crea variaciones nuevas bajo demanda a partir de texto simple."
+        },
+        {
+          "question": "Como escribir prompts efectivos?",
+          "answer": "Usa descripciones claras y especificas, indicando emocion, intensidad y contexto deseado."
+        },
+        {
+          "question": "Como usar el audio generado en contenido?",
+          "answer": "Puedes superponerlo en video, combinarlo con otras pistas y ajustar la intensidad segun cada escena."
+        },
+        {
+          "question": "Que tipos de audio puedo crear?",
+          "answer": "Puedes crear audios desde suaves hasta intensos, con distintas atmosferas y niveles de energia."
+        },
+        {
+          "question": "El audio generado es libre de derechos?",
+          "answer": "Si. Todo audio generado es royalty-free e incluye licencia comercial."
+        },
+        {
+          "question": "Que calidad tiene el audio generado?",
+          "answer": "La salida es de nivel profesional, con alta claridad y dinamica controlada para uso inmediato en produccion."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "scream-loud": {
+    "meta": {
+      "title": "Laut schreien",
+      "description": "Erstellen Sie sofort lautes Schreien mit unserer fortschrittlichen KI-Technologie. Erzeugen Sie verschiedene Klangtypen inkl. natürlicher Klänge, Musikinstrumente und mehr.",
+      "keywords": "laut schreien, laute Schreie"
+    },
+    "hero": {
+      "title": "Laut schreien",
+      "subtitle": "Verwandeln Sie Textbeschreibungen sofort in hochwertiges lautes Schreien"
+    },
+    "generator_subtitle": "Wählen Sie aus den beliebten Prompts unten oder schreiben Sie Ihre eigene Beschreibung, um lautes Schreien zu erzeugen",
+    "advantages": {
+      "title": "Warum unseren Generator wählen?",
+      "items": [
+        {
+          "title": "Sofortige Erstellung von lautem Schreien",
+          "description": "Erstellen Sie professionelle laute-Schrei-Clips sofort aus Text mit unserem KI-Generator. Das Tool verwandelt Ihre Ideen in Sekunden in hochwertige laute Schreie und Charakter-Audio – ohne Sample-Bibliotheken oder manuelle Bearbeitung. Erzeugen Sie unbegrenzte Variationen für Spiele, Videos und Apps. Ob intensive Schreie, Horror-Soundeffekte oder dramatische Rufe – der Generator liefert Studio-Qualität für Ihre Projekte.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Unbegrenzte kreative Möglichkeiten",
+          "description": "Nutzen Sie unseren Generator, um jeden gewünschten Stil von lautem Schreien zu erstellen – von dezenten Rufen bis zu intensiven lauten Schreien. Das Tool versteht komplexe Beschreibungen und gibt Ihnen volle kreative Freiheit. Erkunden Sie Optionen für Spiele, Filme und Medien. Von Charakter-Schreien bis zu vielfältigen Stimmstilen für jedes Szenario – holen Sie sich den perfekten lauten-Schrei-Clip für Ihr Projekt.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professionelle Audio-Qualität",
+          "description": "Jedes laute Schreien aus unserem Generator erfüllt Sendestandards mit High-Fidelity-Ausgabe. Moderne Algorithmen sorgen für Studio-Qualität bei lauten Schreien und anderen Stimmeffekten. Alle Soundeffekte sind produktionsreif und für den professionellen Einsatz optimiert. Der Generator bietet vollständige Frequenzabdeckung und klare Dynamik für authentische Schreie. Sie klingen in jedem Projekt konsistent.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Generator-FAQ",
+      "items": [
+        {
+          "question": "Was ist dieser Generator?",
+          "answer": "Es ist ein KI-Tool, das Textbeschreibungen in individuelle laute Schreie und laute-Schrei-Soundeffekte umwandelt. Es nutzt natürliche Sprachverarbeitung und neuronale Audiosynthese für professionelle Clips. Sie können Stimmclips für Horror, Spiele oder Filme erstellen. Es eignet sich für Content-Ersteller, Spieleentwickler und Filmemacher, die schnelle, authentische laute-Schrei-Ausgabe brauchen. Der Generator unterstützt auch verschiedene Stile und Stimmungen für laute Schreie."
+        },
+        {
+          "question": "Wie funktioniert er?",
+          "answer": "Unser Generator nutzt eine mehrstufige Pipeline, um Text in hochwertiges Audio zu verwandeln. Zuerst analysiert er Ihre Beschreibung (Intensität, Charakter, Dauer). Diese Informationen laufen durch für Schrei- und Stimm synthese trainierte neuronale Netze. Mit professionellen Samples trainiert, erzeugt die KI natürlich klingendes lautes Schreien und laute Schreie. Filterung und Nachbearbeitung halten die Qualität hoch und stellen sicher, dass jeder Stimm-Soundeffekt-Clip Sendestandards erfüllt."
+        },
+        {
+          "question": "Was macht diesen Generator einzigartig?",
+          "answer": "Unser Generator zeichnet sich durch sofortige Anpassung und professionelle Qualität aus. Anders als statische Bibliotheken erstellt er auf Anfrage maßgeschneiderte laute Schreie. Das System versteht komplexe Beschreibungen und erzeugt Ausgabe mit feiner Kontrolle über Intensität und Stil. Sie erhalten unbegrenzte Variationen und kreative Freiheit. Soundeffekte für Spiele und Filme lassen sich ohne zusätzliche Produktion anpassen."
+        },
+        {
+          "question": "Wie schreibe ich wirksame Prompts?",
+          "answer": "Schreiben Sie klare, konkrete Beschreibungen. Probieren Sie „wütender Mann laut“ oder „lauter weiblicher Schrei“ für lautes Schreien. Geben Sie Intensität, Charaktertyp und Kontext an. Unser Generator reagiert gut auf Begriffe wie Schrei, Ruf, Stöhnen und Weinen. Mehr Kontext liefert bessere Ergebnisse für laute Schreie und andere Stimmeffekte."
+        },
+        {
+          "question": "Wie nutze ich ihn in Videoinhalten?",
+          "answer": "Platzieren Sie individuelle laute-Schrei- und laute-Schrei-Clips dort, wo Szenen Spannung oder Reaktion brauchen. Der Generator hilft beim Erstellen von Charakter-Audio für Intros, Übergänge und Schlüsselmomente. Schichten Sie Variationen für reiches, fesselndes Sounddesign. Nutzen Sie ihn für Filme, Vlogs und Tutorials. Das Tool ermöglicht einen einzigartigen Audiostil zu Ihrem Content."
+        },
+        {
+          "question": "Wie nutze ich ihn in der Spieleentwicklung?",
+          "answer": "Unser Generator unterstützt prozedurales Audio für Spiele. Erstellen Sie laute-Schrei- und laute-Schrei-Variationen, damit Spieler selten denselben Clip zweimal hören. Bauen Sie Systeme, die auf Spielzustand, Gefahren und Events reagieren. Erzeugen Sie verschiedene Optionen für Charaktere, Jumpscares und Cutscenes bei einheitlichem Stil. Soundeffekte können dynamisch aus Spielparametern gemischt werden. Der Generator liefert professionelle Ausgabe für mehr Immersion und Wirkung."
+        },
+        {
+          "question": "Welche Arten von lautem Schreien kann ich erstellen?",
+          "answer": "Sie können ein breites Spektrum erstellen: männliches oder weibliches lautes Schreien, laute Schreie für Horror oder Spiele, gruselige Rufe und eigene Stile. Der Generator bearbeitet diese Kategorien mit gleichbleibender Qualität. Ob dezenten Ruf oder mutige laute Schreie für jedes Szenario – das Tool liefert professionelle Ergebnisse."
+        },
+        {
+          "question": "Sind die generierten lauten-Schrei-Clips lizenzfrei?",
+          "answer": "Ja. Alle Audios unseres Generators sind lizenzfrei und enthalten eine kommerzielle Lizenz. Sie können die generierten lauten Schreie und lauten Schreie in jedem Projekt ohne zusätzliche Gebühren oder Namensnennung nutzen. Jeder Clip ist für sofortige Nutzung in professioneller und kommerzieller Arbeit freigegeben."
+        },
+        {
+          "question": "Welche Qualität liefert er?",
+          "answer": "Unser Generator liefert professionelle laute Schreie und laute Schreie nach Industriestandards. Sie erhalten Optionen in hoher Auflösung, vollen Frequenzbereich und klare Dynamik. Die gesamte Ausgabe ist sendefähig und für professionelle Produktion und kreative Projekte geeignet."
+        }
+      ]
+    }
+  }
+}

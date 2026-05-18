@@ -1,0 +1,75 @@
+{
+  "airhorn-sound": {
+    "meta": {
+      "title": "Som de buzina de ar",
+      "description": "Crie som de buzina de ar instantaneamente com nossa tecnologia de IA avançada. Gere vários tipos de áudio, incluindo tons naturais, instrumentos musicais e mais.",
+      "keywords": "som de buzina de ar, efeito sonoro de buzina de ar"
+    },
+    "hero": {
+      "title": "Som de buzina de ar",
+      "subtitle": "Transforme descrições em texto em som de buzina de ar de alta qualidade instantaneamente"
+    },
+    "generator_subtitle": "Selecione entre os prompts populares abaixo ou escreva sua própria descrição para gerar som de buzina de ar",
+    "advantages": {
+      "title": "Por que escolher nosso gerador de som de buzina de ar?",
+      "items": [
+        {
+          "title": "Criação instantânea de som de buzina de ar",
+          "description": "Crie som de buzina de ar profissional e clipes de buzina instantaneamente a partir do texto. Nossa IA transforma suas descrições em efeito sonoro de buzina de ar, buzina de DJ e clipes de efeitos de buzina em segundos—sem bibliotecas de amostras ou edição manual. Precisa de clipes nítidos para interface ou áudio completo de buzina para uma cena? Gere variações ilimitadas com qualidade para transmissão. Obtenha efeito sonoro de buzina de ar autêntico para qualquer projeto.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Possibilidades criativas ilimitadas",
+          "description": "Crie qualquer estilo que imaginar: efeito sonoro de buzina de ar, buzina de DJ ou efeitos de buzina. A ferramenta entende descrições detalhadas e oferece liberdade criativa total. Explore opções infinitas para vídeos, jogos e aplicativos. De efeito sonoro de buzina de ar sutil a efeitos de buzina em camadas para cinema, obtenha o clipe certo para cada cenário.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualidade de áudio profissional",
+          "description": "Cada clipe do nosso gerador de som de buzina de ar atende aos padrões de transmissão com saída de alta fidelidade. Algoritmos de ponta garantem efeito sonoro de buzina de ar e áudio de buzina de qualidade de estúdio. Todos os clipes estão prontos para produção e otimizados para uso profissional, com cobertura completa de frequência e resultados autênticos e naturais.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Perguntas frequentes sobre som de buzina de ar",
+      "items": [
+        {
+          "question": "O que é um gerador de som de buzina de ar?",
+          "answer": "Nosso gerador é uma ferramenta de IA que transforma texto em som de buzina de ar personalizado. Usa processamento de linguagem natural e síntese neural para produzir clipes profissionais—de efeito sonoro de buzina de ar e buzina de DJ a efeitos de buzina. Adequado para criadores, editores de vídeo e desenvolvedores de jogos que precisam de efeito sonoro de buzina de ar rápido e autêntico com resultados precisos e de alta fidelidade."
+        },
+        {
+          "question": "Como o gerador funciona?",
+          "answer": "A ferramenta usa um pipeline em várias etapas para transformar texto em clipes de efeito sonoro de buzina de ar de alta qualidade. Analisa sua descrição para capturar intensidade, estilo e contexto e processa isso em redes neurais treinadas para síntese de buzina. Você pode solicitar clipes curtos para interface ou ambiência mais longa. Cada clipe atende aos padrões de transmissão."
+        },
+        {
+          "question": "O que torna este gerador de som de buzina de ar único?",
+          "answer": "Nosso gerador se destaca pela personalização instantânea e qualidade profissional. Diferente de bibliotecas estáticas, ele cria efeito sonoro de buzina de ar sob medida sob demanda. Treinado com amostras de alta qualidade, entrega resultados realistas. Você obtém variações ilimitadas e liberdade criativa com controle fino."
+        },
+        {
+          "question": "Como escrevo prompts eficazes para som de buzina de ar?",
+          "answer": "Escreva descrições claras e específicas. Experimente \"efeito sonoro de buzina de ar para DJ\" ou \"som de buzina de ar para caminhão\". Inclua estilo (realista, cinematográfico), intensidade e contexto. O gerador responde bem a termos como efeito sonoro de buzina de ar, buzina de DJ e efeitos de buzina. Mais contexto gera melhores resultados."
+        },
+        {
+          "question": "Como posso usar som de buzina de ar em conteúdo de vídeo?",
+          "answer": "Mapeie as cenas do seu vídeo e coloque clipes de efeito sonoro de buzina de ar personalizados onde eles agregam impacto. Crie clipes de efeito sonoro de buzina de ar e de som para cada momento—de fundo sutil a hits dramáticos. Sobreponha áudio de buzina para resultados ricos e envolventes que reforçam tempo ou lugar."
+        },
+        {
+          "question": "Como posso usar o gerador no desenvolvimento de jogos?",
+          "answer": "Nosso gerador suporta clipes de efeito sonoro de buzina de ar procedural para jogos. Crie variações para que os jogadores raramente ouçam o mesmo clipe duas vezes. Produza opções diferentes para interface, níveis e eventos mantendo um estilo consistente. A ferramenta entrega som de buzina de ar de qualidade profissional que aumenta imersão e feedback."
+        },
+        {
+          "question": "Que tipos de som de buzina de ar posso criar?",
+          "answer": "Você pode criar uma ampla gama: efeito sonoro de buzina de ar, buzina de DJ, efeitos de buzina e ambiente de buzina. Estilos do suave ao alto (realista, cinematográfico, vintage). A ferramenta lida com isso com qualidade consistente. Obtenha o efeito sonoro de buzina de ar certo para qualquer projeto."
+        },
+        {
+          "question": "Os clipes gerados são livres de royalties?",
+          "answer": "Sim. Todos os clipes do nosso gerador são livres de royalties e incluem licença comercial. Você pode usar o efeito sonoro de buzina de ar gerado em qualquer projeto sem taxas extras ou atribuição. Cada clipe está liberado para uso imediato em trabalho profissional e comercial."
+        },
+        {
+          "question": "Qual qualidade o gerador produz?",
+          "answer": "Nosso gerador produz clipes de nível profissional que atendem aos padrões da indústria. Você obtém opções de alta resolução até 192 kHz/24-bit, faixa de frequência completa e dinâmica controlada. Cada clipe está pronto para transmissão e adequado para produção profissional e projetos criativos."
+        }
+      ]
+    }
+  }
+}

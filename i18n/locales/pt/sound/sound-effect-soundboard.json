@@ -1,0 +1,79 @@
+{
+  "sound-effect-soundboard": {
+    "meta": {
+      "title": "Quadro de Sons de Efeitos Sonoros",
+      "description": "Crie efeitos sonoros únicos com quadro de sons avançado, gere vários tipos incluindo sons naturais, instrumentos musicais e muito mais.",
+      "keywords": "quadro de sons de efeitos sonoros, quadro de efeitos sonoros"
+    },
+    "hero": {
+      "title": "Quadro de Sons de Efeitos Sonoros",
+      "subtitle": "Transforme suas descrições de texto em efeitos sonoros de alta qualidade"
+    },
+    "generator_subtitle": "Selecione entre os prompts populares abaixo ou escreva sua própria descrição para gerar efeitos sonoros",
+    "advantages": {
+      "title": "Por Que Escolher Nosso Quadro de Sons de Efeitos Sonoros?",
+      "items": [
+        {
+          "title": "Clipes Instantâneos, Prontos para Usar",
+          "description": "Gere clipes de áudio de qualidade profissional em segundos a partir de prompts de texto. Este quadro de sons de efeitos sonoros ajuda você a construir uma biblioteca organizada rapidamente—sem precisar vasculhar pastas ou edição manual. Salve favoritos no seu quadro de efeitos sonoros para reprodução e download rápidos.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Possibilidades Criativas Ilimitadas",
+          "description": "Crie qualquer coisa, desde ambiência natural até efeitos futuristas. Com o quadro de sons de efeitos sonoros, você pode iterar variações, ajustar vibração e intensidade, e organizar resultados em um quadro de efeitos sonoros que se adapta ao seu fluxo de trabalho.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualidade de Áudio de Nível Profissional",
+          "description": "Cada saída é de alta fidelidade e pronta para produção. Use o quadro de sons de efeitos sonoros para manter qualidade consistente entre projetos, depois publique suas melhores escolhas em um quadro de efeitos sonoros para equipes, criadores e editores.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Sobre o Quadro de Sons de Efeitos Sonoros",
+      "items": [
+        {
+          "question": "O que é um quadro de sons de efeitos sonoros?",
+          "answer": "Um quadro de sons de efeitos sonoros é uma forma rápida de gerar, organizar e visualizar clipes de áudio em um só lugar. Em vez de navegar por bibliotecas enormes, você descreve o que precisa e o quadro de sons de efeitos sonoros cria resultados reproduzíveis que você pode salvar, renomear e reutilizar. Quando quiser um layout curado para acesso rápido, você pode organizar favoritos como um quadro de efeitos sonoros."
+        },
+        {
+          "question": "Como funciona o quadro de sons de efeitos sonoros?",
+          "answer": "O quadro de sons de efeitos sonoros transforma seu prompt de texto em áudio analisando a intenção (fonte, textura, duração e humor) e sintetizando clipes correspondentes. Você pode então revisar múltiplas variações, manter as melhores tomadas e colocá-las em um quadro de efeitos sonoros para reprodução instantânea durante edição, streaming ou prototipagem."
+        },
+        {
+          "question": "O que torna este fluxo de trabalho de quadro de efeitos sonoros útil?",
+          "answer": "Você obtém velocidade e consistência: gere variações rapidamente, teste clipes instantaneamente e mantenha um conjunto limpo de recursos essenciais. O quadro de sons de efeitos sonoros ajuda você a iterar, enquanto um quadro de efeitos sonoros ajuda você a padronizar seus melhores clipes para uso repetido em vídeos, jogos e aplicativos."
+        },
+        {
+          "question": "Como escrevo prompts melhores para o quadro de sons de efeitos sonoros?",
+          "answer": "Seja específico sobre fonte e contexto (por exemplo, \"porta de metal batendo em um corredor pequeno\"), depois adicione detalhes como distância, intensidade, textura e duração. Se estiver construindo um conjunto, solicite 3–5 variações e mantenha as melhores no seu quadro de efeitos sonoros."
+        },
+        {
+          "question": "Como uso um quadro de efeitos sonoros na edição de vídeo?",
+          "answer": "Mantenha um pequeno conjunto de clipes reutilizáveis (impactos, whooshes, camas de ambiência, toques de UI) e acione-os durante o corte para acelerar a iteração. Com o quadro de sons de efeitos sonoros você pode gerar clipes faltantes sob demanda, depois adicioná-los a um quadro de efeitos sonoros para manter um estilo consistente entre episódios."
+        },
+        {
+          "question": "Como desenvolvedores de jogos podem usar o quadro de sons de efeitos sonoros?",
+          "answer": "Use-o para gerar famílias de clipes (passos, UI, impactos) com caráter consistente, depois armazene o conjunto aprovado como um quadro de efeitos sonoros para exportação e iteração rápidas. Isso mantém a variação alta sem reconstruir recursos do zero."
+        },
+        {
+          "question": "Pode criar ambiência, ruído branco e fundos?",
+          "answer": "Sim. Descreva a cena, densidade, movimento e espaço (por exemplo, \"chuva constante em um telhado de metal, trovão distante, reverberação de sala pequena\"). O quadro de sons de efeitos sonoros gerará fundos em camadas, e você pode manter um pacote de ambiência consistente dentro do seu quadro de efeitos sonoros."
+        },
+        {
+          "question": "Que tipos de clipes posso gerar?",
+          "answer": "Você pode gerar ambiência, texturas mecânicas e de veículos, toques de UI, impactos, transições e efeitos estilizados. O quadro de sons de efeitos sonoros é flexível para necessidades realistas e cinematográficas, e um quadro de efeitos sonoros ajuda você a manter o melhor conjunto organizado."
+        },
+        {
+          "question": "Os clipes gerados são livres de royalties?",
+          "answer": "Sim. As saídas do quadro de sons de efeitos sonoros são livres de royalties e incluem uma licença comercial, então você pode usá-las em vídeos, jogos e aplicativos. Salve recursos aprovados em um quadro de efeitos sonoros para compartilhar com sua equipe."
+        },
+        {
+          "question": "Que qualidade de áudio posso esperar?",
+          "answer": "O quadro de sons de efeitos sonoros produz áudio de alta fidelidade projetado para uso em produção, com dinâmicas limpas e ampla cobertura de frequência. Você pode visualizar rapidamente, depois exportar e reutilizar seus melhores clipes do seu quadro de efeitos sonoros."
+        }
+      ]
+    }
+  }
+}

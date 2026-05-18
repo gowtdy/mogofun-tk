@@ -1,0 +1,79 @@
+{
+  "soundboard-funny": {
+    "meta": {
+      "title": "Soundboard comique",
+      "description": "Créez un soundboard comique unique grâce à une IA avancée d’effets sonores, avec des types variés : sons naturels, instruments et plus.",
+      "keywords": "soundboard comique, voix drôles"
+    },
+    "hero": {
+      "title": "Soundboard comique",
+      "subtitle": "Transformez vos descriptions textuelles en clips de soundboard comique de haute qualité"
+    },
+    "generator_subtitle": "Choisissez parmi les prompts populaires ci-dessous ou rédigez votre description pour générer un soundboard comique",
+    "advantages": {
+      "title": "Pourquoi construire des rangées de soundboard comique avec des prompts ?",
+      "items": [
+        {
+          "title": "Des hits de soundboard prêts en quelques secondes",
+          "description": "Décrivez rimshots, airhorns, stings de mèmes ou pops cartoon et obtenez des stems courts à mapper sur des hotkeys ou des tuiles—sans scroller avant un show. Les sorties restent punchy pour que le spam de boutons reste propre au mix. Dupliquez, coupez les tails à chaque passe et archivez des variantes.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Remplacez des tuiles sans reconstruire tout le board",
+          "description": "Régénerer des frères au même timbre mais à durée/intensité différentes pour rester “on-brand”. Dupliquez une blague sur OBS, Riverside ou des bots Discord en exportant des familles cohérentes plutôt que des rips one-shot. Si les stacks masquent la VO, raccourcissez les decays ; si ça manque de punch, élargissez les verbes ; QC chaque lot avant le show.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Niveaux stream-safe dès le départ",
+          "description": "La dynamique vise les interfaces stream et les écouteurs. Batcher des clips pour une tournée ou une saison avec des pics prévisibles, puis ajuster la loudness dans le routeur ou la DAW comme tout SFX. Promo lundi, refresh milieu de semaine, livrables après picture lock.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Soundboard comique : questions et réponses",
+      "items": [
+        {
+          "question": "Quel contenu soundboard comique dans cet outil ?",
+          "answer": "De courts cues comiques répétables—stings, buzzers, blasts de klaxon, pops cartoon—créés à partir de texte pour assignation légale à des tuiles/hotkeys. Idéal pour shows d’animateur, drops de podcast ou bots déclenchés par chat sans chasser des rips douteux. Les hôtes qui archivent des drops de voix drôles devraient normaliser avant d’assigner des hotkeys."
+        },
+        {
+          "question": "Comment un prompt devient un clip prêt pour le board ?",
+          "answer": "Vous décrivez timbre, durée et punch (\"dry rimshot 0.25s\"). Les modèles rendent des waveforms serrées, puis un traitement léger dompte les pics pour les decks de streaming. Téléchargez, normalisez si besoin, puis assignez au slot. Les ingénieurs qui routent des bus de voix drôles dans des compresseurs devraient garder une attaque douce pour préserver la parole."
+        },
+        {
+          "question": "Puis-je mixer des voix drôles avec des stings de bouton ?",
+          "answer": "Oui—enregistrez ou synthétisez les lignes parlées ailleurs, puis empilez ces stems dessous. Gardez la voix intelligible ; coupez les tails pour éviter que le mash ne bave la blague. Les skits de voix drôles demandent des gates plus serrés que des blasts de klaxon solo si vous spammez les tuiles."
+        },
+        {
+          "question": "Comment garder une grille cohérente ?",
+          "answer": "Réutilisez des adjectifs de matière (bois, plastique, cuivre) et ne variez que durée/intensité. Exportez des frères numérotés pour A/B dans la même colonne : les auditeurs reconnaissent la signature sonore. Numéroter des stems de voix drôles par rangée accélère les passes QA."
+        },
+        {
+          "question": "Ça marche dans OBS, Stream Deck ou bots Discord ?",
+          "answer": "Oui : fichiers audio standards à router comme n’importe quel SFX. Mappez dans OBS/Elgato/bot—en respectant les guidelines audio et habitudes de loudness. Les modérateurs qui limitent le spam de voix drôles devraient synchroniser les limites du bot avec les macros du deck."
+        },
+        {
+          "question": "Comment éviter la fatigue auditive sur un long stream ?",
+          "answer": "Générez des alternates au même ADN de prompt, faites tourner les tuiles, et high-pass la boue commune si les stacks deviennent denses. Des decays courts battent les longues reverbs. Faire tourner les tags de voix drôles chaque mois réduit la fatigue avec les mêmes stings."
+        },
+        {
+          "question": "Quels styles vont le mieux sur un board comique ?",
+          "answer": "Rimshots, bourdons de kazoo, slide whistles, buzzers mauvaise réponse, boings, impacts meme-adjacent. Séparez one-shots et beds pour duck la musique sans tuer l’ambiance. Associer des one-shots de voix drôles avec des rangées kazoo garde le thème cohérent."
+        },
+        {
+          "question": "Les téléchargements sont-ils libres de droits ?",
+          "answer": "Selon la licence au download—souvent streams, ads et montages clients sans frais de synchro additionnels. Archivez les PDFs pour les sponsors et revérifiez aux renouvellements. Les juristes qui consignent des lignes de talent voix drôles avec SFX clarifient les droits hybrides avant syndication."
+        },
+        {
+          "question": "Quelle qualité attendre ?",
+          "answer": "Stems haute résolution avec dynamique contrôlée, lisibles sur téléphone comme en studio. Passez par votre stage loudness si specs broadcast. Masteriser voix drôles + hits de bouton ensemble équilibre les transients plus pointus pour la diffusion."
+        },
+        {
+          "question": "Qui en profite le plus ?",
+          "answer": "Hôtes, producteurs podcast et community managers qui déclenchent des cues toute la nuit. Les équipes qui renouvellent la mise en page chaque saison itèrent des prompts au lieu de reconstruire des bibliothèques. Faites tourner les boards saisonniers ; caster des voix drôles alternatives pour un même slot garde la grille fraîche."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "angry-screaming": {
+    "meta": {
+      "title": "Cri de colère",
+      "description": "Créez instantanément des cris de colère grâce à notre IA avancée. Générez divers types de sons : nature, instruments, et plus encore.",
+      "keywords": "cri de colère, impact sonore brutal"
+    },
+    "hero": {
+      "title": "Cri de colère",
+      "subtitle": "Transformez instantanément une description textuelle en cris de colère de haute qualité"
+    },
+    "generator_subtitle": "Choisissez parmi les invites populaires ci-dessous ou rédigez votre propre description pour générer des cris de colère",
+    "advantages": {
+      "title": "Pourquoi choisir notre générateur de cris de colère ?",
+      "items": [
+        {
+          "title": "Créez des clips de cris de colère en quelques secondes",
+          "description": "Transformez de courtes invites en cris de colère intenses sans parcourir d’immenses bibliothèques. Le modèle capte l’agressivité, le timing et la pression émotionnelle pour que les sorties conviennent au montage cinématographique, aux streams et aux temps forts de jeu. L’itération rapide permet aux équipes de comparer des alternatives avant verrouillage.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Intensité flexible pour toute scène",
+          "description": "Affinez le détail de l’invite pour passer d’une tension contenue à des explosions tout en laissant de la place au dialogue. Vous façonnez texture, durée et style de personnage pour bandes-annonces, montages réaction et transitions dramatiques. Chaque cue de cri de colère paraît plus spécifique que générique, et vous pouvez superposer avec parcimonie des stings d’impact brutal lorsque le ton du projet le permet.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualité audio digne du pro",
+          "description": "Les exports sont prêts au mix avec un niveau sonore stable et des transitoires propres, ce qui facilite les remplacements tardifs en post. Les fichiers restent cohérents après compression des plateformes, pour que les pics de cris de colère et les accents d’impact brutal restent intelligibles sur mobile, bureau et workflows broadcast.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "À propos de notre générateur de cris de colère",
+      "items": [
+        {
+          "question": "Qu’est-ce qu’un générateur de cris de colère ?",
+          "answer": "C’est un outil audio IA qui transforme des invites textuelles en effets vocaux agressifs et cris de colère pour les moments à forte intensité. Au lieu d’enregistrer de nombreuses prises, vous générez rapidement des clips adaptés à la scène et les testez directement sur la timeline."
+        },
+        {
+          "question": "Comment fonctionne cet outil de cris de colère ?",
+          "answer": "Le modèle analyse l’ambiance, la force, le rythme et le contexte de votre invite, puis synthétise une sortie alignée sur ces indices, y compris un accent d’impact brutal optionnel si votre brief l’exige. Vous pouvez affiner la formulation entre les passes pour resserrer l’attaque, le sustain et le rythme jusqu’à ce que le clip corresponde exactement au montage."
+        },
+        {
+          "question": "Pourquoi l’utiliser plutôt que des packs stock ?",
+          "answer": "Les assets stock se répètent souvent et peuvent ne pas coller au timing de la scène. La génération par invite crée des prises neuves de cris de colère et d’impact brutal à la demande, pour des montages plus originaux et moins de recherche et nettoyage manuels."
+        },
+        {
+          "question": "Comment rédiger des invites pour des effets de cris de colère ?",
+          "answer": "Décrivez qui réagit, ce qui déclenche la réaction, et combien de temps doit durer la cue. Des formulations précises comme « cri de colère juste après le claquement de porte » ou « sting d’impact brutal serré sur le cut » donnent en général un meilleur timing que des mots-clés vagues."
+        },
+        {
+          "question": "Où placer les impacts brutaux dans ce flux ?",
+          "answer": "Une couche d’impact brutal peut servir d’élément d’emphase stylisé dans des montages pour public mature lorsque le ton exige un choc plus fort. Gardez les niveaux sous le dialogue clé et automatisez le gain avec soin pour préserver l’intelligibilité et éviter la fatigue d’écoute."
+        },
+        {
+          "question": "Quelles variantes puis-je générer ?",
+          "answer": "Vous pouvez créer de courts éclats de rage, des appels tendus, de l’agressivité de foule en couches, des pics saturés et des swells vocaux cinématographiques portés par des cris de colère empilés. Cette variété aide monteurs et sound designers à tester le rythme émotionnel avant export final."
+        },
+        {
+          "question": "L’audio généré est-il libre de droits ?",
+          "answer": "Oui. Les fichiers générés sont libres de droits sous notre licence standard pour un usage créateur et commercial courant. Consultez toujours les conditions en vigueur avant grandes campagnes ou diffusion broadcast."
+        },
+        {
+          "question": "Quelle qualité puis-je attendre des exports ?",
+          "answer": "Attendez-vous à une sortie prête prod avec détail clair, dynamique stable et lecture fiable sur tous les appareils, même en empilant cris de colère et stings d’impact brutal. Pour la livraison finale, appliquez votre chaîne de mastering habituelle pour viser les objectifs loudness du projet."
+        }
+      ]
+    }
+  }
+}

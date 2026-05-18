@@ -1,0 +1,75 @@
+{
+  "bell-hop": {
+    "meta": {
+      "title": "Kurzer Glockenton",
+      "description": "Erstellen Sie sofort kurze Glockentöne mit unserer fortschrittlichen KI-Technologie. Erzeugen Sie verschiedene Klangtypen: Naturklänge, Musikinstrumente und mehr.",
+      "keywords": "Kurzer Glockenton, Benachrichtigungsglocke"
+    },
+    "hero": {
+      "title": "Kurzer Glockenton",
+      "subtitle": "Verwandeln Sie Textbeschreibungen sofort in hochwertigen kurzen Glockenton"
+    },
+    "generator_subtitle": "Wählen Sie aus den beliebten Prompts unten oder schreiben Sie Ihre eigene Beschreibung, um kurzen Glockenton zu erzeugen",
+    "advantages": {
+      "title": "Warum unseren Generator wählen?",
+      "items": [
+        {
+          "title": "Sofortige Erstellung kurzer Glockentöne",
+          "description": "Erstellen Sie professionelle Geläut- und Peal-Clips sofort aus Text mit unserem KI-Generator. Das Tool verwandelt Ihre Ideen in Sekunden in hochwertigen kurzen Glockenton – ohne Sample-Bibliotheken oder manuelle Bearbeitung. Erzeugen Sie mit wenigen Klicks unbegrenzte Variationen für jedes Projekt. Ob Benachrichtigungsglocke, Kirchengeläut oder mehrschichtiger Peal – er liefert Studioqualität für Ihre kreativen Projekte.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Unbegrenzte kreative Möglichkeiten",
+          "description": "Nutzen Sie unseren Generator, um jeden gewünschten Stil von Geläut und Peal zu erstellen – vom Kirchengeläut bis zum Türgeläut. Das Tool versteht komplexe Beschreibungen und gibt Ihnen volle kreative Freiheit. Erkunden Sie endlose Optionen für Videos, Spiele und Apps. Von einzelnen Schlägen bis zur mehrschichtigen Benachrichtigungsglocke – holen Sie sich den perfekten Clip für jedes Szenario.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professionelle Ausgabequalität",
+          "description": "Jeder kurze Glockenton unseres Generators erfüllt Rundfunkstandards mit High-Fidelity-Ausgabe. Moderne Algorithmen sorgen für Studioqualität. Alle Benachrichtigungsglocken-Ausgabe ist produktionsreif und für den professionellen Einsatz optimiert. Er liefert vollständige Frequenzabdeckung und kontrollierte Dynamik für authentisches Geläut und Peal.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Generator FAQ",
+      "items": [
+        {
+          "question": "Was ist ein Generator für kurze Glockentöne?",
+          "answer": "Ein Generator für kurze Glockentöne ist ein KI-Tool, das Textbeschreibungen in individuelles Geläut und Peal umwandelt. Unserer nutzt natürliche Sprachverarbeitung und neuronale Synthese für professionelle Clips. Mit Geläut-Datensätzen trainierte Deep-Learning-Modelle verstehen Ihre Beschreibung und erzeugen passende Variationen. Es eignet sich für Content-Ersteller, Videoeditoren und Spieleentwickler, die schnelle, authentische Geläut-Ausgabe brauchen. Er nutzt Ihren Kontext und Details für nuancierte, mehrschichtige Ergebnisse. Für polierte Benachrichtigungsglocke oder andere Stile liefert er präzise, hochauflösende Ausgabe."
+        },
+        {
+          "question": "Wie funktioniert er?",
+          "answer": "Das Tool nutzt eine mehrstufige Pipeline, um Text in hochwertige Ausgabe zu verwandeln. Zuerst analysiert es Ihre Beschreibung, um Merkmale wie Ton, Resonanz, Dauer und Stil zu erfassen. Diese Informationen durchlaufen für Geläut- und Peal-Synthese trainierte neuronale Netze, die Frequenz, Dynamik und Abklingen steuern. Mit professionellen Samples trainiert, erzeugt die KI natürlich klingenden kurzen Glockenton. Filterung und Nachbearbeitung halten die Qualität hoch und sorgen dafür, dass jeder Benachrichtigungsglocken-Clip Rundfunkstandards erfüllt."
+        },
+        {
+          "question": "Was macht diesen Generator für kurze Glockentöne einzigartig?",
+          "answer": "Unser Generator zeichnet sich durch sofortige Anpassung und professionelle Qualität aus. Anders als statische Bibliotheken erstellt er maßgeschneiderte Geläut-Clips auf Abruf. Er ist mit hochwertigen Samples für realistische Ergebnisse trainiert, inklusive Benachrichtigungsglocke und verschiedenen Geläut-Stilen. Das System versteht komplexe Beschreibungen und erzeugt Geläut-Ausgabe mit feiner Kontrolle über Ton und Kontext. Sie erhalten unbegrenzte Variationen und kreative Freiheit."
+        },
+        {
+          "question": "Wie schreibe ich wirksame Prompts dafür?",
+          "answer": "Schreiben Sie klare, konkrete Beschreibungen mit mehreren Details. Statt nur „Geläut“ probieren Sie „Kurzer Glockenton mit Reverb“ oder „Benachrichtigungsglocke mit Echo“. Nennen Sie Stil, Ton, Dauer und besondere Merkmale. Er reagiert gut auf Begriffe wie Kirchengeläut, Türgeläut und Resonanz. Bei komplexen Szenarien teilen Sie sie in Teile und beschreiben, wie sie zusammenspielen. Mehr Kontext liefert bessere Ergebnisse für kurzen Glockenton und Benachrichtigungsglocke."
+        },
+        {
+          "question": "Wie kann ich ihn in Videoinhalten nutzen?",
+          "answer": "Planen Sie die Szenen Ihres Videos und platzieren Sie angepasste Geläut- und Peal-Clips dort, wo sie Wirkung erzeugen. Er hilft Ihnen, kurzen Glockenton für jeden Moment zu erstellen – von subtilen Hinweisen bis zu dramatischen Hits. Legen Sie mehrere Variationen von kurzem Glockenton und Benachrichtigungsglocke für reiche, fesselnde Ausgabe übereinander. Nutzen Sie ihn für Übergänge, Titel und Schlüsselszenen. Nutzen Sie markante Momente wie Benachrichtigungsglocke, um Zeit oder Ort zu betonen. Das Tool ermöglicht einen einzigartigen Stil, der zu Ihrem Inhalt passt."
+        },
+        {
+          "question": "Wie kann ich ihn in der Spieleentwicklung nutzen?",
+          "answer": "Er unterstützt prozedurale Ausgabe für Spiele. Erstellen Sie Kurzer-Glockenton- und Benachrichtigungsglocken-Variationen, damit Spieler selten denselben Clip zweimal hören. Bauen Sie Systeme, die auf Spielzustand, Spieleraktionen und Bedingungen reagieren. Erzeugen Sie verschiedene Optionen für UI, Level und Events bei konsistentem Stil. Mehrschichtige Ausgabe kann dynamisch aus Spielparametern gemischt werden. Er liefert professionelle Ergebnisse, die Immersion und Feedback verbessern."
+        },
+        {
+          "question": "Welche Arten von kurzem Glockenton kann ich erstellen?",
+          "answer": "Sie können ein breites Spektrum an kurzem Glockenton erstellen: Kirchengeläut, Türgeläut, Benachrichtigungsglocke für Atmosphäre oder UI, Intensitäten (leise bis laut) und Stile (Kirche, Tür, Cartoon, filmisch). Das Tool behandelt diese Kategorien kurzer Glockenton und Benachrichtigungsglocke mit gleichbleibender Qualität. Ob leichtes Geläut oder starke Peal-Clips – er liefert professionelle Ergebnisse für jedes Projekt."
+        },
+        {
+          "question": "Sind die generierten Clips lizenzfrei?",
+          "answer": "Ja. Alle Ausgaben unseres Generators sind lizenzfrei und enthalten eine gewerbliche Lizenz. Sie können die generierten Kurzer-Glockenton-Clips in jedem Projekt ohne zusätzliche Gebühren oder Namensnennung verwenden. Jeder Clip, inklusive Benachrichtigungsglocken-Ausgabe, ist für sofortige Nutzung in professioneller und gewerblicher Arbeit freigegeben."
+        },
+        {
+          "question": "Welche Qualität liefert er?",
+          "answer": "Er liefert professionellen kurzen Glockenton, der Industriestandards entspricht. Sie erhalten Benachrichtigungsglocken-Optionen in hoher Auflösung bis 192 kHz/24-bit, voller Frequenzbereich und kontrollierter Dynamik. Alle Ausgaben sind rundfunkbereit. Jeder Clip eignet sich für professionelle Produktion und kreative Projekte."
+        }
+      ]
+    }
+  }
+}

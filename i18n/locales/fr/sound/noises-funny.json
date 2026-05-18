@@ -1,0 +1,79 @@
+{
+  "noises-funny": {
+    "meta": {
+      "title": "Bruits drôles",
+      "description": "Créez des bruits drôles uniques grâce à une IA avancée d’effets sonores, avec des types variés : sons naturels, instruments et plus.",
+      "keywords": "bruits drôles, voix drôle"
+    },
+    "hero": {
+      "title": "Bruits drôles",
+      "subtitle": "Transformez vos descriptions textuelles en bruits drôles de haute qualité"
+    },
+    "generator_subtitle": "Choisissez parmi les prompts populaires ci-dessous ou rédigez votre description pour générer des bruits drôles",
+    "advantages": {
+      "title": "Pourquoi générer des bruits drôles pour sketches et shorts ?",
+      "items": [
+        {
+          "title": "Des bruits drôles depuis des prompts en quelques secondes",
+          "description": "Décrivez klaxons, couinements, pops de bouche, étirements de caoutchouc ou thuds cartoon et obtenez des hits prêts au mix sans fouiller des bibliothèques périmées. Les sorties restent courtes pour que la punchline tombe sur le beat (reels, streams, overlays). Dupliquez, coupez les tails à chaque passe et archivez des variantes.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Itérez sans reconstruire les timelines",
+          "description": "Dupliquez un gag sur vertical/carré/paysage en ajustant adjectifs ou durée (\"0.25s squeak\"). Gardez le timbre constant en variant l’intensité. Si les bruits drôles masquent la VO, raccourcissez ; s’ils manquent de punch, élargissez ; QC chaque lot avant doublage.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Dynamique friendly haut-parleur de téléphone",
+          "description": "Les pics restent contrôlés pour le mobile et se duckent proprement sous le dialogue. Exportez des stems en batch pour une campagne avec niveaux prévisibles, puis léger mastering. Promo lundi, refresh milieu de semaine, livrables après picture lock.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Bruits drôles : questions et réponses",
+      "items": [
+        {
+          "question": "Qu’est-ce qui compte comme bruits drôles ?",
+          "answer": "Des hits loufoques sans dialogue—boings cartoon, splats mouillés, bourdons de kazoo, pas exagérés, bleeps UI—créés depuis du texte plutôt que des rips inconnus. Des stems légaux pour shorts, podcasts et UI de jeu. Une voix drôle scratch pour le timing aide à placer les klaxons avant la VO finale."
+        },
+        {
+          "question": "Comment une ligne de texte devient un hit ?",
+          "answer": "Le prompt décrit matière, mouvement et durée. Synthèse de waveforms serrées puis traitement léger pour dompter les pics. Régénérez jusqu’à ce que le sting colle au frame. Gardez du headroom si vous combinez tags voix drôle et SFX."
+        },
+        {
+          "question": "Puis-je empiler voix drôle + couinement/klaxon ?",
+          "answer": "Oui : générez la voix via votre pipeline, puis ajoutez un stem séparé dessous. Alignez la loudness, coupez les tails. Si ça se bat, sidechain léger ou tail plus court."
+        },
+        {
+          "question": "Comment prompter pour le timing mème ?",
+          "answer": "Trope, flip émotionnel, durée (\"dry honk 0.3s\"). La verticale demande parfois des transients plus brillants. Comparez des lignes concrètes et affinez. Mentionnez un beat voix drôle si vous voulez du call-and-response."
+        },
+        {
+          "question": "Bon pour alerts de stream / chat bots ?",
+          "answer": "Oui : stings frères pour follows/raids/redeems, une famille de cues même timbre, durées différentes. Limitez le gain pour garder la voix drôle intelligible."
+        },
+        {
+          "question": "Ça tient sous le dialogue ?",
+          "answer": "Pensé pour le ducking : sidechain/clip-gain. Si ça masque, raccourcissez le decay ou notch léger. Pensez à l’espace autour des consonnes pour la voix drôle."
+        },
+        {
+          "question": "Quels styles marchent le mieux ?",
+          "answer": "Foley cartoon, percussions de bouche, boings, slide whistles, buzzer mauvaise réponse, impacts exagérés. Beds/pokes séparés ou layers à tweaker en post. Alignez les transients avec l’animation UI."
+        },
+        {
+          "question": "Téléchargements libres de droits ?",
+          "answer": "Selon la licence au download, souvent sans frais de synchro additionnels. Archivez et revérifiez si les termes changent."
+        },
+        {
+          "question": "Quelle qualité attendre ?",
+          "answer": "Stems haute résolution, dynamique contrôlée, lisible sur écouteurs. Appliquez vos presets ; ciné/broadcast passent par votre chaîne habituelle. Match des cibles loudness pour voix drôle + SFX."
+        },
+        {
+          "question": "Qui en profite le plus ?",
+          "answer": "Monteurs comédie, indés UI ludique, enseignants. Itération rapide sans rips douteux. Faites tourner des bruits saisonniers ; attention au volume en classe."
+        }
+      ]
+    }
+  }
+}

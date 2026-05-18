@@ -1,0 +1,79 @@
+{
+  "audio-generator": {
+    "meta": {
+      "title": "Audio-Generator",
+      "description": "Erstellen Sie Audioeffekte mit fortschrittlicher Audio-Generator-KI-Technologie, die verschiedene Arten erzeugt, einschließlich natürlicher Klänge, Musikinstrumente und mehr.",
+      "keywords": "Audio-Generator, Audio-Generator KI"
+    },
+    "hero": {
+      "title": "Audio-Generator",
+      "subtitle": "Verwandeln Sie Ihre Textbeschreibungen in hochwertige Soundeffekte"
+    },
+    "generator_subtitle": "Wählen Sie aus den beliebten Eingabeaufforderungen unten oder schreiben Sie Ihre eigene Beschreibung, um Soundeffekte zu generieren",
+    "advantages": {
+      "title": "Warum unseren Audio-Generator wählen?",
+      "items": [
+        {
+          "title": "Sofortige Klangerzeugung",
+          "description": "Verwandeln Sie Texteingaben in sekundenschnelle, produktionsreife Effekte mit unserem Audio-Generator. Verwenden Sie eine klare Beschreibung, um Klänge für Videos, Spiele, Werbung und Apps zu erstellen—keine umfangreichen Bibliotheken, kein manuelles Zuschneiden, nur schnelle Ergebnisse.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Unbegrenzte kreative Möglichkeiten",
+          "description": "Von filmischen Einschlägen bis zu subtiler Atmosphäre versteht die Audio-Generator-KI-Technologie detaillierte Absichten und bietet kontrollierbare Variationen. Fügen Sie Stimmung, Textur, Distanz und Timing hinzu, um die Ausgabe für Ihre Szene zu formen. Für Teams, die schnellere Iterationen wünschen, hält die Audio-Generator-KI die Ergebnisse über Versionen hinweg konsistent.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professionelle Klangqualität",
+          "description": "Erhalten Sie saubere, hochwertige Ausgabe mit ausgewogener Dynamik, bereit für Ihren Workflow. Diese Audio-Generator-KI-Technologie produziert stabile Ergebnisse mit weniger Artefakten, sodass die Bearbeitung leicht und vorhersehbar bleibt.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Über den Audio-Generator",
+      "items": [
+        {
+          "question": "Was ist ein Audio-Generator?",
+          "answer": "Ein Audio-Generator verwandelt Textbeschreibungen in sofort einsatzbereite Effekte und Atmosphären. Mit einem Klanggenerator können Sie beschreiben, was Sie benötigen, und schnell Audio erstellen, das zu Inhalten, Produkten oder interaktiven Erfahrungen passt. Für schnellere Workflows hilft die Audio-Generator-KI, die Ergebnisse konsistent zu halten."
+        },
+        {
+          "question": "Wie funktioniert der Audio-Generator?",
+          "answer": "Der Audio-Generator analysiert Ihre Eingabe (Quelle, Umgebung, Intensität, Dauer), ordnet sie akustischen Attributen zu und synthetisiert dann die Ausgabe mit neuronalen Modellen. Leichte Nachbearbeitung hilft, die Ergebnisse klar, verwendbar und konsistent zu machen. Kurz gesagt, die Audio-Generator-KI automatisiert die schwere Arbeit von der Beschreibung bis zum Export."
+        },
+        {
+          "question": "Was macht diesen Audio-Generator einzigartig?",
+          "answer": "Dieser Audio-Generator konzentriert sich auf Geschwindigkeit, Kontrolle und zuverlässige Ausgabe. Anstatt durch Preset-Pakete zu suchen, beschreiben Sie, was Sie benötigen, und erstellen Klangvariationen, die thematisch bleiben, was die Iteration viel schneller macht."
+        },
+        {
+          "question": "Wie schreibe ich effektive Eingabeaufforderungen für den Audio-Generator?",
+          "answer": "Seien Sie spezifisch: Beschreiben Sie die Quelle (\"Metallschlag\"), die Umgebung (\"Lagerhaus\"), die Distanz (\"nah\"), die Emotion (\"angespannt\") und das Timing (\"0,8s Nachhall\"). Fügen Sie Modifikatoren wie \"gedämpft\" oder \"hell\" hinzu, um der Audio-Generator-KI-Technologie zu helfen, Klänge zu erstellen, die zu Ihrer Mischung passen."
+        },
+        {
+          "question": "Wie kann ich den Audio-Generator für Videoinhalte verwenden?",
+          "answer": "Verwenden Sie die Audio-Generator-KI-Technologie, um Klänge für Übergänge, Einschläge, Atmosphärenbetten und szenenspezifische Details zu erstellen. Generieren Sie einige ähnliche Varianten, legen Sie sie dann übereinander und ducken Sie sie unter dem Dialog, um die Mischung natürlich und ansprechend zu halten."
+        },
+        {
+          "question": "Wie kann ich den Audio-Generator in der Spieleentwicklung verwenden?",
+          "answer": "Erstellen Sie Audio-Familien für Aktionen (Schritte, UI-Klicks, Fähigkeiten) und generieren Sie Variationen, um Wiederholungen zu reduzieren. Ein Audio-Generator-KI-Workflow hilft auch dabei, Atmosphären für neue Level zu prototypisieren, bevor die finale Polierung erfolgt."
+        },
+        {
+          "question": "Wie erstelle ich weißes Rauschen und Atmosphäre mit dem Audio-Generator?",
+          "answer": "Beschreiben Sie die Textur und Bewegung (\"weiches braunes Rauschen mit sanfter Luft\" oder \"Stadtraumton mit entferntem Verkehr\"). Der Audio-Generator kann Klangschichten erstellen, die Sie für lange Szenen loopen, ausblenden und stapeln können."
+        },
+        {
+          "question": "Was kann ich mit dem Audio-Generator erstellen?",
+          "answer": "Sie können Audio in vielen Kategorien erstellen: Natur, Maschinen, UI-Feedback, filmische Hits, Sci-Fi-Texturen, musikalische Elemente und Umgebungsatmosphäre. Der Klanggenerator ist flexibel für schnelle Entwürfe und Produktionsnutzung."
+        },
+        {
+          "question": "Ist das vom Audio-Generator generierte Audio lizenzfrei?",
+          "answer": "Ja. Mit der Audio-Generator-KI-Technologie generierte Klänge sind lizenzfrei und für den kommerziellen Gebrauch geeignet, sodass Sie Videos veröffentlichen, Spiele veröffentlichen und Produkte starten können, ohne zusätzliche Lizenzierungsschritte."
+        },
+        {
+          "question": "Welche Ausgabequalität kann ich vom Audio-Generator erwarten?",
+          "answer": "Der Audio-Generator zielt auf saubere, hochwertige Ausgabe ab, die für moderne Produktionen geeignet ist. Für beste Ergebnisse generieren Sie einige Varianten, wählen Sie die natürlichste Version und führen Sie leichte EQ- oder Pegelanpassungen in Ihrem Editor durch."
+        }
+      ]
+    }
+  }
+}

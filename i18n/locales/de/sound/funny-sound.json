@@ -1,0 +1,79 @@
+{
+  "funny-sound": {
+    "meta": {
+      "title": "Lustiger Sound",
+      "description": "Erstelle einzigartigen lustigen Sound mit fortschrittlicher Soundeffekt-KI – natürliche Klänge, Instrumente und mehr.",
+      "keywords": "lustiger Sound, lustige Effekte"
+    },
+    "hero": {
+      "title": "Lustiger Sound",
+      "subtitle": "Verwandle Textbeschreibungen in hochwertigen lustigen Sound"
+    },
+    "generator_subtitle": "Wähle beliebte Vorschläge unten oder schreibe deine eigene Beschreibung, um lustigen Sound zu erzeugen",
+    "advantages": {
+      "title": "Warum unsere KI-Plattform für lustigen Sound?",
+      "items": [
+        {
+          "title": "Lustiger Sound in Sekunden aus einfachem Text",
+          "description": "Beschreibe Gag, Reaktion oder Cartoon-Moment in Alltagssprache und erhalte fast sofort poliertes Audio. Unsere Soundeffekt-KI erspart endloses Scrollen in riesigen Bibliotheken oder manuelles Schneiden, damit du Timing und Story im Fokus behältst. Jeder Durchlauf mit lustigem Sound verfeinert Pointen: generiere neu, bis der lustige Sound zum Bild passt, vergleiche zwei lustige Sound-Takes, behalte den stärkeren lustigen Sound und archiviere den Ersatz-lustigen Sound für den nächsten Beat.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Forme lustige Effekte an jede Szene",
+          "description": "Passe Stimmung, Intensität und Textur an, damit lustige Effekte jede Pointe tragen—kein generisches Rauschen. Das Modell verarbeitet geschichtete Prompts und hilft dir, schnell für Shorts, Streams, Podcasts oder Kundenprojekte zu iterieren, bis der Ton stimmt. Lege lustige Effekte vorsichtig unter Dialog: wenn der Mix voll ist, vereinfache; wenn lustige Effekte mehr Luft brauchen, weitere EQ-Shelf. Kombiniere einen lustigen Sound-Akzent mit sparsamen lustigen Effekten, damit der lustige Sound weiter springt.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Konsistente, sendefertige Ausgabe",
+          "description": "Exports sind klar auf Lautsprechern und Kopfhörern ausbalanciert, geeignet für Social, Spiele oder kommerzielle Lieferung. Jeder generierte Clip behält einen stabilen Klangcharakter und reduziert extra Mastering bei professionellem Finish. Bündle jeden lustigen Sound auf dasselbe Lautstärkeziel, damit Episoden passen; prüfe einen lustigen Sound-Stem nach Picture Lock und drucke den finalen lustigen Sound für die Lieferung.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Lustiger Sound & lustige Effekte: Häufige Fragen",
+      "items": [
+        {
+          "question": "Was macht dieses lustige-Sound-Tool?",
+          "answer": "Es verwandelt kurze Textprompts per KI-Synthese in maßgeschneiderte Comedy-Audio. Du beschreibst die Idee—Cartoon-Boings, peinliche Stille, übertriebene Reaktionen—und das System rendert einen Originalclip statt Stock-Suche. Creator nutzen es für polierte Comedy-Clips ohne Aufnahme-Setup oder Studio. Teams versionieren oft einen lustigen Sound für Teaser, einen zweiten für volle Episoden und packen einen weiteren lustigen Sound in Tags. Beschrifte jeden lustigen Sound klar, damit Cutter beim ersten Versuch treffen."
+        },
+        {
+          "question": "Wie verwandelt der Generator Text in Audio?",
+          "answer": "Dein Prompt wird nach Absicht, Timing-Hinweisen und akustischen Signalen analysiert. Neuronale Modelle auf vielfältigem Material sagen Wellenformen voraus, leichte Nachbearbeitung glättet Pegel und Reduziert Härte. Der Ablauf ist iterativ: ändere Wörter, generiere neu, vergleiche bis es zum Schnitt passt. Wenn lustiger Sound dünn wirkt, verstärke Verben; wenn er clippt, zähme Dynamik. Iteriere jeden lustigen Sound, bis der Master-lustige Sound zur Szene passt."
+        },
+        {
+          "question": "Wie schreibe ich Prompts für bessere lustige Effekte?",
+          "answer": "Nenne Aktion, Figur oder Objekt und Vibe—trocken, Slapstick, Pokerface oder chaotisch. Erwähne Raum (enger Raum vs. Halle), wenn Hall wichtig ist. Die Engine reagiert auch auf technische Hinweise wie „kurzer Sting“ oder „weicher Tail“. Konkret schlägt vage: vergleiche „schnelles Gummi-Quietschen“ mit „lustige Effekte für einen tollpatschigen Sturz“ und verfeinere. Sortiere lustige Effekte nach Stimmung, dupliziere Familien für Fortsetzungen; kämpfen lustige Effekte mit Musik, High-Pass für Matsch; braucht es Gewicht, Support-Beds unter den Stack."
+        },
+        {
+          "question": "Kann ich die Ausgabe auf YouTube oder TikTok nutzen?",
+          "answer": "Ja. Die Clips sind für Creator-Workflows auf großen Video- und Kurzform-Plattformen gedacht. Paare jeden Stem mit Bildaktion für maximalen Impact und variiere Takes, damit Wiederholungen nicht ermüden. Halte dich an die jeweils aktuellen Inhalts- und Urheberrichtlinien."
+        },
+        {
+          "question": "Hilft das bei Spiel- oder App-Audio?",
+          "answer": "Designer prototypen oft UI-Feedback, Power-ups und Comedy-Beats vor einer vollen Bibliothek. Generiere Variationen derselben Idee, damit Trigger über lange Sessions frisch bleiben. Nach dem Lock kannst du standardisieren oder Alternativen für seltene Events abzweigen."
+        },
+        {
+          "question": "Welche Comedy-Audio-Arten kann ich anfragen?",
+          "answer": "Typisch: Cartoon-Impacts, alberne Stimmen, übertriebenes Foley, meme-nahe Stings, leichte musikalische Gags. Du kannst Kategorien mischen—fantasievoll Schlagzeug unter einem Sturz. Brauchst du Comedic-Bed und scharfe Akzente, beschreibe sie als getrennte Schichten in einem Prompt oder führe zwei Generationen aus und mixe in der DAW. Staple ergänzende lustige Effekte für Montagen; dämpfe überfüllte lustige Effekte beim Dialog; hell auf spärliche Stings, wenn die Energie sinkt."
+        },
+        {
+          "question": "Wie vermeide ich Übernutzung derselben lustigen Effekte?",
+          "answer": "Bitte um alternative Darstellungen: ändere Adjektive, Länge oder Register. Kleine Prompt-Änderungen liefern oft klar andere Klangfarben. Rotierende lustige Effekte halten Sketches, Gameplay und Ads frisch bei kohärentem Comedy-Stil."
+        },
+        {
+          "question": "Sind Downloads für kommerzielle Projekte lizenzfrei?",
+          "answer": "Outputs stehen unter der beim Download angezeigten Produktlizenz für breiten kommerziellen und persönlichen Gebrauch. Du kannst Audio meist in Ads, Apps oder bezahlten Inhalten ohne extra Sync-Gebühren einbetten. Bewahre die Lizenzbedingungen auf und prüfe sie bei Policy-Updates."
+        },
+        {
+          "question": "Welche Audioqualität kann ich erwarten?",
+          "answer": "Dateien sind hochauflösend, geeignet für Schnitt und finale Lieferung nach optionalem leichtem Mastering. Dynamikumfang und Rauschboden sind kontrolliert, damit jede Spur sauber neben Dialog und Musik sitzt. Für Broadcast oder Kino wende deine Haus-Lautstärkestandards wie bei anderem Material an."
+        },
+        {
+          "question": "Wer profitiert am meisten von KI-Comedy-Audio?",
+          "answer": "Editoren, Indie-Entwickler, Pädagogen und Social-Teams gewinnen Tempo bei knappen Deadlines. Wer glaubwürdiges Comedy-Audio oder maßgeschneiderte lustige Effekte ohne Aufnahmesession braucht, iteriert in Minuten. Große Studios nutzen es als Scratch-Audio vor Custom-Aufnahmen. Markiere SFX-Rollen separat, damit Ersatz-lustige Effekte beim Mix-Review leicht zu hören sind."
+        }
+      ]
+    }
+  }
+}

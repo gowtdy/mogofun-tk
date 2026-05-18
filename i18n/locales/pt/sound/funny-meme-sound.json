@@ -1,0 +1,71 @@
+{
+  "funny-meme-sound": {
+    "meta": {
+      "title": "Som de meme engraçado",
+      "description": "Crie na hora som de meme engraçado com nossa IA avançada: sons naturais, instrumentos e muito mais.",
+      "keywords": "som de meme engraçado, som divertido"
+    },
+    "hero": {
+      "title": "Som de meme engraçado",
+      "subtitle": "Transforme descrições em texto instantaneamente em som de meme engraçado de alta qualidade"
+    },
+    "generator_subtitle": "Escolha entre os prompts populares abaixo ou escreva sua própria descrição para gerar som de meme engraçado",
+    "advantages": {
+      "title": "Por que escolher nosso gerador de sons de meme engraçados?",
+      "items": [
+        {
+          "title": "Sons de meme engraçados a partir de texto em segundos",
+          "description": "Descreva um baque, sting de risada ou palmas sarcásticas e receba um clipe pronto para compartilhar sem arrancar áudio de uploads aleatórios. O modelo lê timing cômico, impacto e tom para que os resultados combinem com edições de reação, alertas de stream ou explicações em sala. Itere rápido quando precisar de um beat novo a cada ciclo de meme. Cada som de meme engraçado é ajustado para soar divertido em edições de formato curto.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Estilos que combinam com punchlines de formato curto",
+          "description": "Peça energia deadpan, cartunesca ou exagerada; adjetivos mais claros rendem melhores combinações. Mencione ritmo, distância ou memes de referência para que a cue caia no corte que você faz. Exporte caudas curtas que fazem loop limpo sob legendas ou overlays de adesivos. Um som de meme engraçado bem cronometrado ajuda reações a soar divertidas sem mascarar diálogo.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Níveis amigáveis ao mix para feeds cheios",
+          "description": "Os downloads visam transientes inteligíveis e loudness previsível para encaixar cues ao lado da locução sem saltos bruscos. Pré-ouça em alto-falantes de telefone para que stings soem divertidos quando ouvintes rolam com fones baratos e meia atenção. Mantenha cada som de meme engraçado nivelado para que transições soem divertidas em todos os dispositivos.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Sobre sons de meme engraçados",
+      "items": [
+        {
+          "question": "O que são sons de meme engraçados gerados por IA?",
+          "answer": "São clipes de áudio curtos guiados por texto, feitos para beats de meme, vídeos de reação e humor de chat em vez de amostrar fontes desconhecidas. Você nomeia a piada, o humor e o contexto, depois baixa um arquivo que pode inserir legalmente em edições ou protótipos. Um som de meme engraçado personalizado deixa punchlines soando divertidas mantendo originalidade."
+        },
+        {
+          "question": "Como o gerador transforma prompts em áudio?",
+          "answer": "O sistema interpreta traços como impacto slapstick, cor vocal e duração do decay a partir do seu prompt, depois sintetiza sons de meme engraçados alinhados ao brief. Ajuste verbos, referências de meme ou notas de intensidade entre passes até o sting casar com a punchline. Um som de meme engraçado refinado por beat costuma deixar cortes mais divertidos e mais limpos."
+        },
+        {
+          "question": "Por que sintetizar stings aqui em vez de rasgar clipes?",
+          "answer": "Áudio rasgado traz direitos pouco claros e qualidade inconsistente. Síntese nova segue sua redação, o que ajuda quando você precisa de uma variação que nenhum rip viral cobre, e mantém loudness mais próxima do que sua timeline espera. Gerar um som de meme engraçado novo reduz risco legal e ajuda remixes a soar divertidos."
+        },
+        {
+          "question": "Como devo escrever prompts para sons de meme engraçados marcantes?",
+          "answer": "Junte uma ação a um tom e uma pista de era ou formato opcional. Exemplos como \"rimshot seco depois de trocadilho ruim\" ou \"bonk de desenho com cauda longa\" superam palavras vagas como \"engraçado\". Mencione se o clipe deve ficar sob diálogo para o modelo manter transientes mais curtos. Um prompt específico para som de meme engraçado traz resultados divertidos com menos tentativas."
+        },
+        {
+          "question": "Como misturo essas cues para vídeos curtos ainda soarem divertidos?",
+          "answer": "Dê um toque de duck na música, coloque impactos nos cortes de imagem e pré-ouça no telefone. Compressão leve no master ajuda momentos a soar divertidos sem enterrar legendas, desde que deixe headroom antes do limitador. Coloque cada som de meme engraçado levemente à frente do movimento para revelações soarem divertidas."
+        },
+        {
+          "question": "Que tons funcionam além dos sons de meme engraçados clássicos?",
+          "answer": "Experimente aplausos irônicos, arranhões minúsculos de disco, slides borrachudos ou stingers de sitcom falsos. Adicionar cenário—pegadinha de escritório, stream de jogos, TikTok de ciência—mantém o humor coerente com seus visuais. Rotacionar variantes de som de meme engraçado ajuda segmentos recorrentes a soar divertidos em vez de repetitivos."
+        },
+        {
+          "question": "O áudio gerado é livre de royalties?",
+          "answer": "Sim. Os downloads são livres de royalties para uso típico de criadores e comercial sob nossa licença, sem taxas extras por clipe. Revise os termos mais recentes na página do produto antes de grandes campanhas publicitárias ou veiculação em broadcast. Você pode reutilizar um som de meme engraçado em vários cutdowns e ainda manter edições divertidas."
+        },
+        {
+          "question": "Que qualidade de áudio devo esperar?",
+          "answer": "Espere largura de banda clara adequada a suítes de edição e reprodução mobile. Se precisar de entrega em loudness de broadcast, rode sua cadeia habitual de masterização para que cada sting de meme equilibre com narração enquanto edições soam divertidas em fones e alto-falantes de carro."
+        }
+      ]
+    }
+  }
+}

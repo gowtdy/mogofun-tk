@@ -1,0 +1,75 @@
+{
+  "cry-sounds": {
+    "meta": {
+      "title": "Sons de pleurs",
+      "description": "Créez des sons de pleurs instantanément avec notre technologie IA avancée. Générez divers types de sons de pleurs : clips naturels, instruments musicaux et plus.",
+      "keywords": "sons de pleurs, pleurs et cris"
+    },
+    "hero": {
+      "title": "Sons de pleurs",
+      "subtitle": "Transformez instantanément une description textuelle en sons de pleurs de haute qualité"
+    },
+    "generator_subtitle": "Choisissez parmi les invites populaires ci-dessous ou rédigez votre propre description pour générer des sons de pleurs",
+    "advantages": {
+      "title": "Pourquoi choisir notre générateur ?",
+      "items": [
+        {
+          "title": "Création instantanée de sons de pleurs",
+          "description": "Créez des clips vocaux professionnels instantanément à partir de texte avec notre générateur IA. L'outil transforme vos idées en sons de pleurs et audio de personnage de haute qualité en quelques secondes, sans banques d'échantillons ni montage manuel. Générez des variations illimitées pour jeux, vidéos et apps. Que vous ayez besoin de pleurs de douleur, effet sonore de pleurs, ou pleurs et cris pour l'horreur, le générateur livre des sons de pleurs en qualité studio pour vos projets.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Possibilités créatives illimitées",
+          "description": "Utilisez notre générateur pour créer tout style de sons de pleurs que vous imaginez—des sanglots subtils aux gémissements intenses. L'outil comprend les descriptions complexes et vous donne une liberté créative totale. Explorez des options adaptées aux jeux, films et médias. Des vocaux de personnage aux pleurs et cris variés pour chaque scénario, obtenez le clip parfait pour votre projet.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualité audio professionnelle",
+          "description": "Chaque clip de notre générateur respecte les normes de diffusion avec une sortie haute fidélité. Des algorithmes de pointe garantissent des résultats en qualité studio. Toute la sortie est prête pour la production et optimisée pour un usage professionnel. Le générateur offre une couverture fréquentielle complète et une dynamique claire pour des sons de pleurs authentiques. Pleurs et cris qui paraissent cohérents dans tout projet.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "FAQ générateur",
+      "items": [
+        {
+          "question": "Qu'est-ce que ce générateur ?",
+          "answer": "C'est un outil IA qui transforme des descriptions textuelles en audio vocal et de personnage personnalisé, y compris les sons de pleurs. Le nôtre utilise le traitement du langage naturel et la synthèse neuronale audio pour produire des clips de qualité professionnelle. Vous pouvez créer des sons de pleurs pour horreur, jeux ou films. Il convient aux créateurs de contenu, développeurs de jeux et cinéastes qui ont besoin d'une sortie rapide et authentique. Le générateur prend aussi en charge les pleurs et cris pour styles et ambiances variés."
+        },
+        {
+          "question": "Comment fonctionne-t-il ?",
+          "answer": "Notre générateur utilise un pipeline en plusieurs étapes pour transformer le texte en sons de pleurs de haute qualité. Il analyse d'abord votre description pour capturer des traits comme l'intensité, le personnage et la durée. Ces informations passent par des réseaux neuronaux entraînés pour la synthèse vocale et de pleurs. Entraînée sur des échantillons professionnels, l'IA produit des sons de pleurs naturels et réalistes. Le filtrage et le post-traitement maintiennent une qualité élevée et garantissent que chaque clip respecte les normes de diffusion."
+        },
+        {
+          "question": "Qu'est-ce qui rend ce générateur unique ?",
+          "answer": "Notre générateur se distingue par la personnalisation instantanée et la qualité professionnelle. Contrairement aux banques statiques, il crée des clips sur mesure à la demande. Le système comprend les descriptions complexes et produit une sortie avec un contrôle fin de l'intensité et du style. Vous obtenez des variations illimitées et une liberté créative. Les pleurs et cris pour jeux et films sont faciles à adapter sans travail de production supplémentaire."
+        },
+        {
+          "question": "Comment rédiger des invites efficaces pour lui ?",
+          "answer": "Rédigez des descriptions claires et précises. Essayez « pleurs de douleur » ou « effet sonore de pleurs ». Pour les sons de pleurs, dites « pleurs » ou « pleurs et cris ». Incluez l'intensité, le type de personnage et le contexte. Notre générateur répond bien aux termes comme sanglot, gémissement et pleurs. Plus de contexte donne de meilleurs résultats pour les pleurs et cris et autres tons vocaux."
+        },
+        {
+          "question": "Comment l'utiliser dans du contenu vidéo ?",
+          "answer": "Placez des clips vocaux personnalisés où les scènes ont besoin de tension ou de réaction. Le générateur vous aide à créer des sons de pleurs et l'audio de personnage pour intros, transitions et moments clés. Superposez des variations de sons de pleurs pour un design sonore riche et engageant. Utilisez-le pour films, vlogs et tutoriels. L'outil vous permet de construire un style audio unique qui correspond à votre contenu."
+        },
+        {
+          "question": "Comment l'utiliser en développement de jeux ?",
+          "answer": "Notre générateur prend en charge l'audio procédural pour les jeux. Créez des variations pour que les joueurs entendent rarement deux fois le même clip. Construisez des systèmes qui réagissent à l'état du jeu, aux dangers et aux événements. Produisez différentes options pour personnages, cinématiques et moments émotionnels tout en gardant un style cohérent. Les pleurs et cris peuvent être mixés dynamiquement à partir des paramètres du jeu. Le générateur livre un audio de qualité professionnelle qui renforce l'immersion et l'impact."
+        },
+        {
+          "question": "Quels types de sons de pleurs puis-je créer ?",
+          "answer": "Vous pouvez créer une large gamme : pleurs de douleur, effet sonore de pleurs, pleurs et cris, et options personnalisées. Le générateur les traite avec une qualité constante. Que vous ayez besoin de sanglots subtils ou de clips vocaux marqués pour tout scénario, l'outil livre une sortie professionnelle. Les pleurs et cris pour horreur et jeux sont pris en charge avec un contrôle créatif total."
+        },
+        {
+          "question": "Les clips de sons de pleurs générés sont-ils libres de droits ?",
+          "answer": "Oui. Tous les sons de pleurs de notre générateur sont libres de droits et incluent une licence commerciale. Vous pouvez utiliser les clips de sons de pleurs générés dans tout projet sans frais supplémentaires ni attribution. Chaque clip est autorisé pour une utilisation immédiate en usage professionnel et commercial."
+        },
+        {
+          "question": "Quelle qualité produit-il ?",
+          "answer": "Notre générateur produit des sons de pleurs de qualité professionnelle qui respectent les normes de l'industrie. Vous obtenez des options haute résolution, une plage de fréquences complète et une dynamique claire. Toute la sortie est prête pour la diffusion et convient à la production professionnelle et aux projets créatifs."
+        }
+      ]
+    }
+  }
+}

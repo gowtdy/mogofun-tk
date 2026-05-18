@@ -1,0 +1,75 @@
+{
+  "horn-noise": {
+    "meta": {
+      "title": "Horn Noise",
+      "description": "Instantly create horn noise with our advanced AI technology. Generate various types of audio including natural tones, musical instruments and more.",
+      "keywords": "horn noise, horn noises"
+    },
+    "hero": {
+      "title": "Horn Noise",
+      "subtitle": "Instantly transform text description into high-quality horn noise"
+    },
+    "generator_subtitle": "Select from popular prompts below or write your own description to generate horn noise",
+    "advantages": {
+      "title": "Why Choose Our Horn Noise Generator?",
+      "items": [
+        {
+          "title": "Instant Horn Noise Creation",
+          "description": "Create professional horn noise and signal clips instantly from text. Our AI turns your descriptions into car honk, electric honk, and truck signal clips in seconds—no sample libraries or manual editing. Need crisp clips for UI or full signal audio for a scene? Generate unlimited variations with broadcast-ready quality. Get authentic horn noises for any project.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Unlimited Creative Possibilities",
+          "description": "Create any style you imagine: car honk, electric honk, or truck signal. The tool understands detailed descriptions and gives you full creative freedom. Explore endless options for videos, games, and apps. From subtle horn noises to layered signal effects for film, get the right clip for every scenario.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professional-Grade Audio Quality",
+          "description": "Every clip from our horn noise generator meets broadcast standards with high-fidelity output. Cutting-edge algorithms ensure studio-quality horn noises and signal audio. All clips are production-ready and optimized for professional use, with full frequency coverage and authentic, natural results.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Horn Noise FAQ",
+      "items": [
+        {
+          "question": "What is a horn noise generator?",
+          "answer": "Our generator is an AI tool that turns text into custom horn noise and horn noises. It uses natural language processing and neural synthesis to produce professional clips—from car honk and electric honk to truck signal. It suits creators, video editors, and game developers who need quick, authentic horn noises with precise, high-fidelity results."
+        },
+        {
+          "question": "How does the generator work?",
+          "answer": "The tool uses a multi-stage pipeline to turn text into high-quality horn noises clips. It analyzes your description to capture intensity, style, and context, then runs that through neural networks trained for signal synthesis. You can request short clips for UI or longer ambience. Every clip meets broadcast standards."
+        },
+        {
+          "question": "What makes this horn noise generator unique?",
+          "answer": "Our generator stands out through instant customization and professional quality. Unlike static libraries, it creates tailored horn noises on demand. Trained on high-quality samples, it delivers realistic results. You get unlimited variations and creative freedom with fine control."
+        },
+        {
+          "question": "How do I write effective prompts for horn noise?",
+          "answer": "Write clear, specific descriptions. Try \"horn noise for car\" or \"horn noise for truck.\" Include style (realistic, cinematic), intensity, and context. The generator responds well to terms like car honk, electric honk, truck signal, and horn noise. More context yields better results."
+        },
+        {
+          "question": "How can I use horn noise in video content?",
+          "answer": "Map your video's scenes and place custom horn noises clips where they add impact. Create car honk and horn noise clips for every moment—from subtle background to dramatic hits. Layer signal audio for rich, engaging horn noises results that underline time or place."
+        },
+        {
+          "question": "How can I use the generator in game development?",
+          "answer": "Our generator supports procedural horn noises clips for games. Create variations so players rarely hear the same clip twice. Produce different options for UI, levels, and events while keeping a consistent style. The tool delivers professional-quality horn noise that enhance immersion and feedback."
+        },
+        {
+          "question": "What types of horn noise can I create?",
+          "answer": "You can create a wide range: car honk, electric honk, truck signal, and signal ambience. Styles from soft to loud (realistic, cinematic, vintage). The tool handles horn noises with consistent quality. Get the right horn noises for any project. Every clip is production-ready."
+        },
+        {
+          "question": "Are the generated clips royalty-free?",
+          "answer": "Yes. All clips from our generator are royalty-free and include a commercial license. You can use the generated horn noise and horn noises in any project without extra fees or attribution. Every clip is cleared for immediate use in professional and commercial work."
+        },
+        {
+          "question": "What quality does the generator produce?",
+          "answer": "Our generator outputs professional-grade horn noises clips that meet industry standards. You get high-resolution horn noises options up to 192kHz/24-bit, full frequency range, and controlled dynamics. Every clip is broadcast-ready and suitable for professional production and creative projects."
+        }
+      ]
+    }
+  }
+}

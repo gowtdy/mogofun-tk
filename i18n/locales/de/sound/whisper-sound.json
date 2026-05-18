@@ -1,0 +1,75 @@
+{
+  "whisper-sound": {
+    "meta": {
+      "title": "Flüster-Sound",
+      "description": "Erstellen Sie sofort Flüster-Sounds mit unserer fortschrittlichen KI-Technologie. Erzeugen Sie verschiedene Klangtypen inkl. Naturklänge, Musikinstrumente und mehr.",
+      "keywords": "Flüster-Sound, Flüster-Soundeffekt"
+    },
+    "hero": {
+      "title": "Flüster-Sound",
+      "subtitle": "Verwandeln Sie Textbeschreibungen sofort in hochwertige Flüster-Sounds"
+    },
+    "generator_subtitle": "Wählen Sie aus den beliebten Prompts unten oder schreiben Sie Ihre eigene Beschreibung, um Flüster-Sounds zu erzeugen",
+    "advantages": {
+      "title": "Warum unseren Flüster-Sound-Generator wählen?",
+      "items": [
+        {
+          "title": "Sofortige Flüster-Sound-Erstellung",
+          "description": "Erstellen Sie mit unserem KI-Generator sofort professionelle Clips aus Text. Der Generator verwandelt Ihre Ideen in Sekunden in hochwertiges Flüstern- und Murmeln-Audio – ohne Sample-Bibliotheken oder manuellen Schnitt. Erzeugen Sie mit wenigen Klicks unbegrenzte Varianten für jedes Projekt. Ob Flüster-Soundeffekt, gruseliges Flüstern oder Geister-Flüstern: Der Generator liefert Studioqualität für Ihre kreativen Projekte.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Unbegrenzte kreative Möglichkeiten",
+          "description": "Nutzen Sie unseren Generator, um jeden gewünschten Flüster-Stil zu erstellen – von weichem Murmeln bis zu unheimlichem Geister-Flüstern. Der Generator versteht komplexe Beschreibungen und gibt Ihnen volle kreative Freiheit. Erkunden Sie endlose Optionen für Spiele, Videos und Apps. Von kurzen Hits bis zu verlängerter Atmosphäre: Holen Sie sich den perfekten Flüster-Soundeffekt-Clip für jedes Szenario.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professionelle Audioqualität",
+          "description": "Jeder Clip aus unserem Generator erfüllt Sendestandards mit High-Fidelity-Ausgabe. Moderne Algorithmen sichern Studioqualität. Alle Clips sind produktionsreif und für den professionellen Einsatz optimiert. Der Generator liefert volle Frequenzabdeckung und kontrollierte Dynamik für authentisches Flüstern- und Murmeln-Output, inkl. Flüster-Soundeffekt.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Flüster-Sound-Generator FAQ",
+      "items": [
+        {
+          "question": "Was ist ein Flüster-Sound-Generator?",
+          "answer": "Ein Flüster-Sound-Generator ist ein KI-Tool, das Textbeschreibungen in individuelles Flüstern- und Murmeln-Audio umwandelt. Unserer nutzt natürliche Sprachverarbeitung und neuronale Audiosynthese für professionelle Clips. Mit Vokal- und Flüster-Datensätzen trainierte Deep-Learning-Modelle verstehen Ihre Beschreibung und erzeugen passende Varianten. Geeignet für Content Creator, Spieleentwickler und Audio-Profis, die schnelle, authentische Ausgabe brauchen. Der Generator nutzt Kontext und Details für nuanciertes, geschichtetes Audio. Für polierten Flüster-Soundeffekt oder andere Stile liefert er präzise High-Fidelity-Ergebnisse."
+        },
+        {
+          "question": "Wie funktioniert der Flüster-Sound-Generator?",
+          "answer": "Unser Generator nutzt eine mehrstufige Pipeline, um Text in hochwertiges Audio zu verwandeln. Zuerst analysiert er Ihre Beschreibung (Intensität, Textur, Dauer, Stil). Diese Informationen laufen durch für Vokalsynthese trainierte neuronale Netze, die Frequenz, Dynamik und Atem steuern. Mit professionellen Samples trainiert, erzeugt die KI natürlich klingende Ausgabe. Filterung und Nachbearbeitung halten die Qualität hoch und stellen sicher, dass jeder Clip Sendestandards erfüllt."
+        },
+        {
+          "question": "Was macht diesen Flüster-Sound-Generator einzigartig?",
+          "answer": "Unser Flüster-Sound-Generator überzeugt durch sofortige Anpassung und professionelle Qualität. Anders als statische Bibliotheken erstellt er maßgeschneiderte Flüster-Clips auf Abruf. Er ist mit hochwertigen Samples für realistische Ergebnisse trainiert, inkl. Flüster-Soundeffekt und vielfältigen Murmel-Stilen. Das System versteht komplexe Beschreibungen und erzeugt Ausgabe mit feiner Kontrolle über Ton und Kontext. Sie erhalten unbegrenzte Varianten und kreative Freiheit."
+        },
+        {
+          "question": "Wie schreibe ich wirksame Prompts für den Flüster-Sound-Generator?",
+          "answer": "Schreiben Sie klare, konkrete Beschreibungen mit mehreren Details. Statt nur \"Flüstern\" probieren Sie \"gruseliges Flüstern mit Echo\" oder \"Geister-Flüstern.\" Nennen Sie Stil, Intensität, Dauer und besondere Merkmale. Der Generator reagiert gut auf Begriffe wie Flüstern, Murmeln und Flüster-Soundeffekt. Bei komplexen Szenarien teilen Sie sie in Teile und beschreiben Sie die Kombination. Mehr Kontext liefert bessere Ergebnisse."
+        },
+        {
+          "question": "Wie nutze ich den Flüster-Sound-Generator in Video-Content?",
+          "answer": "Ordnen Sie die Szenen Ihres Videos zu und platzieren Sie maßgeschneiderte Flüster-Sound-Clips dort, wo sie Atmosphäre hinzufügen. Der Generator hilft Ihnen, Flüstern- und Murmeln-Audio für jeden Moment zu erstellen – von dezentem Hintergrund bis zu dramatischer Spannung, inkl. Flüster-Soundeffekt. Legen Sie mehrere Varianten für reiches, fesselndes Audio übereinander. Nutzen Sie ihn für Horror, ASMR und Schlüsselszenen. Setzen Sie markante Momente wie einen Flüster-Soundeffekt ein, um Mysteriöses zu unterstreichen. Der Generator ermöglicht einen einzigartigen Audio-Stil zu Ihrem Content."
+        },
+        {
+          "question": "Wie nutze ich den Flüster-Sound-Generator in der Spieleentwicklung?",
+          "answer": "Unser Generator unterstützt prozedurales Audio für Spiele. Erstellen Sie Flüster-Soundeffekt-Varianten, damit Spieler selten denselben Clip zweimal hören. Bauen Sie Systeme, die auf Spielzustand, Spieleraktionen und Bedingungen reagieren. Erzeugen Sie verschiedene Optionen für Dialog, Ambiente und Events bei einheitlichem Stil. Geschichtete Ausgabe kann dynamisch aus Spielparametern gemischt werden. Der Generator liefert professionellen Flüster-Soundeffekt, der Immersion und Spannung steigert."
+        },
+        {
+          "question": "Welche Arten von Flüstern kann ich erstellen?",
+          "answer": "Sie können ein breites Spektrum erstellen: Flüstern, gruseliges Flüstern, Geister-Flüstern, Murmeln, Flüster-Soundeffekt für Horror oder ASMR, Intensitäten (weich bis intensiv) und Stile (unheimlich, intim, kinoreif). Der Generator bearbeitet diese Kategorien in gleichbleibender Qualität. Ob leichter Hintergrund oder starke gruselige Clips – der Generator liefert professionelle Flüster-Soundeffekt-Ergebnisse für jedes Projekt."
+        },
+        {
+          "question": "Sind die generierten Clips lizenzfrei?",
+          "answer": "Ja. Alle Audio-Ausgaben unseres Generators sind lizenzfrei und mit kommerzieller Lizenz. Sie können die generierten Clips in jedem Projekt ohne zusätzliche Gebühren oder Namensnennung nutzen. Jeder Clip, inkl. Flüster-Soundeffekt-Ausgabe, ist für sofortige Nutzung in professioneller und kommerzieller Arbeit freigegeben."
+        },
+        {
+          "question": "Welche Qualität liefert der Flüster-Sound-Generator?",
+          "answer": "Unser Generator liefert Audio in professioneller Qualität, das Industriestandards erfüllt. Sie erhalten Flüster-Soundeffekt-Optionen in High Resolution bis 192 kHz/24 Bit, vollen Frequenzbereich und kontrollierte Dynamik. Alle Ausgaben sind sendefähig. Jeder Clip eignet sich für professionelle Produktion und kreative Projekte."
+        }
+      ]
+    }
+  }
+}

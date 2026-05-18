@@ -1,0 +1,75 @@
+{
+  "airhorn": {
+    "meta": {
+      "title": "Luftdruckhorn",
+      "description": "Erstellen Sie sofort Luftdruckhorn mit unserer fortschrittlichen KI-Technologie. Erzeugen Sie verschiedene Audiotypen inkl. natürlicher Töne, Instrumente und mehr.",
+      "keywords": "Luftdruckhorn, Luft-Audio"
+    },
+    "hero": {
+      "title": "Luftdruckhorn",
+      "subtitle": "Verwandeln Sie Textbeschreibungen sofort in hochwertiges Luftdruckhorn"
+    },
+    "generator_subtitle": "Wählen Sie aus beliebten Prompts unten oder schreiben Sie Ihre eigene Beschreibung, um Luftdruckhorn zu erzeugen",
+    "advantages": {
+      "title": "Warum unseren Luftdruckhorn-Generator wählen?",
+      "items": [
+        {
+          "title": "Sofortige Luftdruckhorn-Erstellung",
+          "description": "Erstellen Sie professionelles Luftdruckhorn und Horn-Clips sofort aus Text. Unsere KI verwandelt Ihre Beschreibungen in LKW-Hupe, DJ-Luftdruckhorn und Signal-Clips in Sekunden—ohne Sample-Bibliotheken oder manuelle Bearbeitung. Brauchen Sie klare Clips für die UI oder vollen Horn-Sound für eine Szene? Erzeugen Sie unbegrenzte Variationen in sendefähiger Qualität. Erhalten Sie authentisches Luft-Audio für jedes Projekt.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Unbegrenzte kreative Möglichkeiten",
+          "description": "Erstellen Sie jeden gewünschten Stil: LKW-Signal, DJ-Luftdruckhorn oder Horn-Ambiente. Das Tool versteht detaillierte Beschreibungen und gibt Ihnen volle kreative Freiheit. Erkunden Sie endlose Optionen für Videos, Spiele und Apps. Von subtilem Luft-Audio bis zu mehrschichtigen Horn-Effekten für Film—den passenden Clip für jedes Szenario.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professionelle Audioqualität",
+          "description": "Jeder Clip aus unserem Luftdruckhorn-Generator erfüllt Sendestandards mit High-Fidelity-Ausgabe. Moderne Algorithmen sorgen für Studioqualität bei Luft-Audio und Horn-Audio. Alle Clips sind produktionsreif und für den professionellen Einsatz optimiert, mit voller Frequenzabdeckung und authentischen, natürlichen Ergebnissen.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Luftdruckhorn FAQ",
+      "items": [
+        {
+          "question": "Was ist ein Luftdruckhorn-Generator?",
+          "answer": "Unser Generator ist ein KI-Tool, das Text in maßgeschneidertes Luftdruckhorn umwandelt. Es nutzt natürliche Sprachverarbeitung und neuronale Synthese für professionelle Clips—von LKW-Hupe und DJ-Luftdruckhorn bis Signaleffekte. Geeignet für Creator, Videoeditoren und Spieleentwickler, die schnelles, authentisches Luft-Audio mit präzisen, hochauflösenden Ergebnissen brauchen."
+        },
+        {
+          "question": "Wie funktioniert der Generator?",
+          "answer": "Das Tool nutzt eine mehrstufige Pipeline, um Text in hochwertige Luft-Audio-Clips zu verwandeln. Es analysiert Ihre Beschreibung für Intensität, Stil und Kontext und leitet diese durch für Horn- und Luftdruckhorn-Synthese trainierte neuronale Netze. Sie können kurze Clips für die UI oder längere Ambience anfordern. Jeder Clip erfüllt Sendestandards."
+        },
+        {
+          "question": "Was macht diesen Luftdruckhorn-Generator einzigartig?",
+          "answer": "Unser Generator zeichnet sich durch sofortige Anpassung und professionelle Qualität aus. Anders als statische Bibliotheken erstellt er maßgeschneidertes Luft-Audio on demand. Mit hochwertigen Samples trainiert, liefert er realistische Ergebnisse. Sie erhalten unbegrenzte Variationen und kreative Freiheit mit feiner Kontrolle."
+        },
+        {
+          "question": "Wie schreibe ich wirksame Prompts für Luftdruckhorn?",
+          "answer": "Schreiben Sie klare, konkrete Beschreibungen. Probieren Sie „Luft-Audio für LKW-Hupe“ oder „Luftdruckhorn für DJ“. Nennen Sie Stil (realistisch, filmisch), Intensität und Kontext. Der Generator reagiert gut auf Begriffe wie LKW-Signal, DJ-Luftdruckhorn und Horn. Mehr Kontext liefert bessere Ergebnisse."
+        },
+        {
+          "question": "Wie kann ich Luftdruckhorn in Videoinhalten nutzen?",
+          "answer": "Planen Sie die Szenen Ihres Videos und platzieren Sie maßgeschneiderte Luft-Audio-Clips dort, wo sie Wirkung erzeugen. Erstellen Sie LKW-Hupen- und Luftdruckhorn-Clips für jeden Moment—von subtilem Hintergrund bis zu dramatischen Hits. Legen Sie Horn-Audio übereinander für reiches, fesselndes Ergebnis, das Zeit oder Ort unterstreicht."
+        },
+        {
+          "question": "Wie kann ich den Generator in der Spieleentwicklung nutzen?",
+          "answer": "Unser Generator unterstützt prozedurale Luft-Audio-Clips für Spiele. Erstellen Sie Variationen, sodass Spieler selten denselben Clip zweimal hören. Erzeugen Sie verschiedene Optionen für UI, Levels und Events bei einheitlichem Stil. Das Tool liefert professionelles Luftdruckhorn für bessere Immersion und Feedback."
+        },
+        {
+          "question": "Welche Arten von Luftdruckhorn kann ich erstellen?",
+          "answer": "Sie können eine breite Palette erstellen: LKW-Hupe, DJ-Luftdruckhorn, Signal und Horn-Ambiente. Stile von leise bis laut (realistisch, filmisch, Vintage). Das Tool behandelt diese mit gleichbleibender Qualität. Erhalten Sie das richtige Luft-Audio für jedes Projekt."
+        },
+        {
+          "question": "Sind die generierten Clips lizenzfrei?",
+          "answer": "Ja. Alle Clips aus unserem Generator sind lizenzfrei und enthalten eine gewerbliche Lizenz. Sie können das generierte Luft-Audio in jedem Projekt ohne zusätzliche Gebühren oder Namensnennung nutzen. Jeder Clip ist für sofortige Verwendung in professioneller und gewerblicher Arbeit freigegeben."
+        },
+        {
+          "question": "Welche Qualität liefert der Generator?",
+          "answer": "Unser Generator liefert professionelle Clips nach Industriestandards. Sie erhalten hochauflösende Optionen bis 192 kHz/24-bit, vollen Frequenzbereich und kontrollierte Dynamik. Jeder Clip ist sendefähig und für professionelle Produktion und kreative Projekte geeignet."
+        }
+      ]
+    }
+  }
+}

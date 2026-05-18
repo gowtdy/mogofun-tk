@@ -1,0 +1,71 @@
+{
+  "sound-button": {
+    "meta": {
+      "title": "Sound-Button",
+      "description": "Erstellen Sie sofort Sound-Button-Cues mit unserer fortschrittlichen KI. Generieren Sie verschiedene Audiotypen – Natur, Instrumente und mehr.",
+      "keywords": "sound-button, ui-klick"
+    },
+    "hero": {
+      "title": "Sound-Button",
+      "subtitle": "Verwandeln Sie Textbeschreibungen sofort in hochwertigen Sound-Button-Audio"
+    },
+    "generator_subtitle": "Wählen Sie unten beliebte Prompts oder schreiben Sie Ihre eigene Beschreibung, um Sound-Button-Audio zu erzeugen",
+    "advantages": {
+      "title": "Warum unseren Sound-Button-Generator wählen?",
+      "items": [
+        {
+          "title": "Sound-Button-Clips in Sekunden bauen",
+          "description": "Erzeugen Sie kurze, prägnante Cues aus einfachen Prompts – ohne Aufnahmen oder komplexe Bearbeitungsketten. Der Generator hilft, Timing und Ton schnell für Streams, Meme-Schnitte, App-Interaktionen und Markeninhalte zu testen. Duplizieren Sie Durchläufe, um einen knackigen Klick mit einer weicheren Variante zu vergleichen, bis Ihr Sound-Button-Set über Aktionen hinweg konsistent wirkt.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Flexible Stile für jede Interaktion",
+          "description": "Stellen Sie Attack, Decay und Charakter ein, damit jeder Sound-Button zu UX oder Content-Stil passt. Erzeugen Sie verspielte Klicks, dramatische Stings, Retro-Taps und minimale Bestätigungstöne bei einheitlicher Klangidentität. Nennen Sie Absicht und Dauer im Prompt für klarere Ergebnisse.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professionelle Audioqualität",
+          "description": "Jeder Export ist sauber, mixbereit und stabil auf allen Geräten. Das Modell bewahrt Transienten-Detail und kontrollierte Dynamik, damit jeder Sound-Button in dichten Mixes klar bleibt. Ein konsistentes Loudness-Profil hilft, dass Cues von Mobil bis Desktop und Streaming gut funktionieren.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Über unseren Sound-Button-Generator",
+      "items": [
+        {
+          "question": "Was ist ein Sound-Button-Generator?",
+          "answer": "Ein KI-Sound-Tool, das Textprompts in kurze interaktive Cues verwandelt. Statt langer Bibliotheken erzeugen Sie in Sekunden einen Sound-Button passend zu Timing, Stimmung und Plattformanforderungen. Pro Aktion ein Signal, Sets für Produktflows bündeln und über Bildschirme hinweg konsistent bleiben."
+        },
+        {
+          "question": "Wie funktioniert das Sound-Button-Tool?",
+          "answer": "Das Modell liest Deskriptoren wie Dauer, Klangfarbe, Punch und Wiedergabekontext und synthetisiert danach Audio. Starten Sie mit einer neutralen Basislinie, iterieren Sie zu heller oder weicher, bis es in der UI passt. Timing straffen, Härte mildern oder Energie erhöhen – bis der Output zur Oberfläche passt."
+        },
+        {
+          "question": "Warum besser als statische Packs?",
+          "answer": "Statische Packs wirken oft repetitiv und brauchen meist Extra-Cleanup. Prompt-basierte Generierung liefert exakt getimte Cues und Varianten für Randfälle. So bleiben Interaktionen über Menüs, Alerts und Content-Segmente hinweg unterscheidbar bei einem stimmigen Soundsystem."
+        },
+        {
+          "question": "Wie schreibe ich effektive Prompts?",
+          "answer": "Kurze Anweisungen mit Absicht und Timing, z. B. „kurzer heller Bestätigungsklick“ oder „warmer Blip mit schnellem Abklingen“. Kontext wie „für Einstellungsschalter“ oder „Fehlerzustand“ lenkt den Ton. Präzise Formulierung liefert meist sauberere Ergebnisse mit weniger Revisionen."
+        },
+        {
+          "question": "Kann ich Auffindbarkeit bei Tippfehlern verbessern?",
+          "answer": "Ja. Wenn Sie Support-Seiten oder Metadaten veröffentlichen, können Sie häufige Schreibvarianten in Tags oder Aliassen aufnehmen, damit Suchen zum richtigen Asset führen – die Produktexperience bleibt auf klare Sound-Button-Anwendungsfälle fokussiert."
+        },
+        {
+          "question": "Wo kann ich generierte Cues einsetzen?",
+          "answer": "In Spiel-UI, Onboarding, Social-Clips, Stream-Overlays, Quiz und Schnitt-Übergängen. Individuelle Varianten helfen, eine erkennbare Audio-Identität zu halten ohne generischen Stock-Charakter."
+        },
+        {
+          "question": "Ist generierter Sound lizenzfrei?",
+          "answer": "Ja. Ausgaben sind unter unseren Standardbedingungen für gängige Creator- und kommerzielle Projekte lizenzfrei. Prüfen Sie die Lizenz vor großen bezahlten Kampagnen oder besonderen Vertriebsanforderungen."
+        },
+        {
+          "question": "Welche Qualität kann ich von Exporten erwarten?",
+          "answer": "Produktionsreife Dateien mit klaren Transienten, kontrollierten Peaks und zuverlässiger Wiedergabe auf allen Geräten – so bleibt Ihr Sound-Button-Pack konsistent. EQ und Loudness können Sie final noch anpassen, um jedes Signal an Gesamtmix und Plattformziele anzugleichen."
+        }
+      ]
+    }
+  }
+}

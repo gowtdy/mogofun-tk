@@ -1,0 +1,75 @@
+{
+  "bell-hop": {
+    "meta": {
+      "title": "Campanilla corta",
+      "description": "Crea campanilla corta al instante con nuestra tecnología de IA avanzada. Genera diversos tipos de sonido: naturales, instrumentos musicales y más.",
+      "keywords": "campanilla corta, campana de notificación"
+    },
+    "hero": {
+      "title": "Campanilla corta",
+      "subtitle": "Transforma descripciones de texto en campanilla corta de alta calidad al instante"
+    },
+    "generator_subtitle": "Elige entre los prompts populares de abajo o escribe tu propia descripción para generar campanilla corta",
+    "advantages": {
+      "title": "¿Por qué elegir nuestro generador?",
+      "items": [
+        {
+          "title": "Creación instantánea de campanilla corta",
+          "description": "Crea clips de campanada y repique profesionales al instante desde texto con nuestro generador de IA. La herramienta convierte tus ideas en campanilla corta de alta calidad en segundos, sin bibliotecas de muestras ni edición manual. Genera variaciones ilimitadas para cualquier proyecto con unos clics. Ya sea campana de notificación, campanada de iglesia o repique en capas, ofrece salida en calidad de estudio para tus proyectos creativos.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Posibilidades creativas ilimitadas",
+          "description": "Usa nuestro generador para crear cualquier estilo de campanada y repique que imagines—desde repique de iglesia hasta campanada de puerta. La herramienta entiende descripciones complejas y te da libertad creativa total. Explora opciones infinitas para vídeos, juegos y apps. Desde golpes únicos hasta campana de notificación en capas, obtén el clip perfecto para cada escenario.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Calidad de salida profesional",
+          "description": "Cada campanilla corta de nuestro generador cumple estándares de emisión con salida de alta fidelidad. Algoritmos punteros garantizan resultados en calidad de estudio. Toda la salida de campana de notificación está lista para producción y optimizada para uso profesional. Ofrece cobertura de frecuencia completa y dinámica controlada para campanada y repique auténticos.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "FAQ generador",
+      "items": [
+        {
+          "question": "¿Qué es un generador de campanilla corta?",
+          "answer": "Un generador de campanilla corta es una herramienta de IA que convierte descripciones de texto en campanada y repique personalizados. El nuestro usa procesamiento de lenguaje natural y síntesis neural para producir clips de calidad profesional. Modelos de deep learning entrenados con conjuntos de datos de campanada entienden tu descripción y generan variaciones coincidentes. Es adecuado para creadores de contenido, editores de vídeo y desarrolladores de juegos que necesitan salida rápida y auténtica de campanada. Usa tu contexto y detalles para crear resultados matizados y en capas. Para campana de notificación pulida u otros estilos, ofrece salida precisa y de alta fidelidad."
+        },
+        {
+          "question": "¿Cómo funciona?",
+          "answer": "La herramienta usa un pipeline en varias etapas para convertir texto en salida de alta calidad. Primero analiza tu descripción para capturar rasgos como tono, resonancia, duración y estilo. Esa información pasa por redes neuronales entrenadas para síntesis de campanada y repique, que manejan frecuencia, dinámica y decaimiento. Entrenado con muestras profesionales, la IA produce campanilla corta natural. El filtrado y el postprocesado mantienen la calidad alta y garantizan que cada clip de campana de notificación cumpla estándares de emisión."
+        },
+        {
+          "question": "¿Qué hace único este generador de campanilla corta?",
+          "answer": "Nuestro generador destaca por la personalización instantánea y la calidad profesional. A diferencia de bibliotecas estáticas, crea clips de campanada a medida bajo demanda. Está entrenado con muestras de alta calidad para resultados realistas, incluidos campana de notificación y estilos de campanada variados. El sistema entiende descripciones complejas y produce salida de campanada con control fino del tono y el contexto. Obtienes variaciones ilimitadas y libertad creativa."
+        },
+        {
+          "question": "¿Cómo escribo prompts efectivos para él?",
+          "answer": "Escribe descripciones claras y concretas con varios detalles. En lugar de solo \"campanada\", prueba \"campanilla corta con reverb\" o \"campana de notificación con eco.\" Incluye estilo, tono, duración y rasgos distintivos. Responde bien a términos como campanada de iglesia, repique de puerta y resonancia. Para escenarios complejos, divídelos en partes y explica cómo se combinan. Más contexto da mejores resultados para campanilla corta y campana de notificación."
+        },
+        {
+          "question": "¿Cómo usarlo en contenido de vídeo?",
+          "answer": "Mapea las escenas de tu vídeo y coloca clips de campanada y repique personalizados donde aporten impacto. Te ayuda a crear campanilla corta para cada momento—desde señales sutiles hasta hits dramáticos. Superpone varias variaciones de campanilla corta y campana de notificación para una salida rica y envolvente. Úsalo para transiciones, títulos y escenas clave. Usa momentos distintos como campana de notificación para subrayar tiempo o lugar. La herramienta te permite construir un estilo único que encaje con tu contenido."
+        },
+        {
+          "question": "¿Cómo usarlo en desarrollo de juegos?",
+          "answer": "Soporta salida procedural para juegos. Crea variaciones de campanilla corta y campana de notificación para que los jugadores rara vez oigan el mismo clip dos veces. Construye sistemas que reaccionen al estado del juego, acciones del jugador y condiciones. Produce opciones distintas para UI, niveles y eventos manteniendo un estilo consistente. La salida en capas puede mezclarse dinámicamente a partir de los parámetros del juego. Ofrece resultados de calidad profesional que mejoran la inmersión y el feedback."
+        },
+        {
+          "question": "¿Qué tipos de campanilla corta puedo crear?",
+          "answer": "Puedes crear una amplia gama de campanilla corta: campanada de iglesia, repique de puerta, campana de notificación para ambiente o UI, intensidades (suave a fuerte) y estilos (iglesia, puerta, cartoon, cinematográfico). La herramienta trata estas categorías de campanilla corta y campana de notificación con calidad consistente. Ya necesites campanada ligera o clips de repique fuertes, ofrece resultados profesionales para cualquier proyecto."
+        },
+        {
+          "question": "¿Los clips generados son libres de derechos?",
+          "answer": "Sí. Toda la salida de nuestro generador es libre de derechos e incluye licencia comercial. Puedes usar los clips de campanilla corta generados en cualquier proyecto sin cargos adicionales ni atribución. Cada clip, incluida la salida de campana de notificación, está autorizado para uso inmediato en trabajo profesional y comercial."
+        },
+        {
+          "question": "¿Qué calidad produce?",
+          "answer": "Produce campanilla corta de calidad profesional que cumple estándares de la industria. Obtienes opciones de alta resolución hasta 192 kHz/24-bit para campana de notificación, rango de frecuencia completo y dinámica controlada. Toda la salida está lista para emisión. Cada clip es adecuado para producción profesional y proyectos creativos."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "bicycle-sounds": {
+    "meta": {
+      "title": "Bicycle Sounds",
+      "description": "Instantly create bicycle sounds with our advanced AI technology. Generate various types of audio including natural tones, musical instruments and more.",
+      "keywords": "bicycle sounds, sound cycle"
+    },
+    "hero": {
+      "title": "Bicycle Sounds",
+      "subtitle": "Instantly transform text description into high-quality bicycle sounds"
+    },
+    "generator_subtitle": "Select from popular prompts below or write your own description to generate bicycle sounds",
+    "advantages": {
+      "title": "Why Choose Our Bicycle Sounds Generator?",
+      "items": [
+        {
+          "title": "Instant Bicycle Sounds Creation",
+          "description": "Generate professional bicycle sounds and sound cycle instantly from text. Our tool turns your descriptions into bike bell, pedal and cycling audio in seconds—no large libraries or manual editing. Create unlimited variations for any project. Whether you need a crisp clip for UI or a full sound cycle for a scene, the generator delivers clean, broadcast-ready results.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Unlimited Creative Possibilities",
+          "description": "Create any style of bicycle sounds you need: bells, pedals, chains or tire pass-by. The generator understands detailed descriptions and produces matching audio, so you get full creative freedom. Explore endless variations of sound cycle for games, videos, and apps. From subtle to bold, find the right fit for every project.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professional-Grade Audio Quality",
+          "description": "All bicycle sounds generated meet broadcast standards with high-fidelity output. The generator uses modern algorithms so each sound cycle clip is clear and production-ready. All outputs are optimized for professional use in video, games, and content. Get consistent, studio-quality output for your work.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "About Bicycle Sounds Generator",
+      "items": [
+        {
+          "question": "What is a bicycle sounds generator?",
+          "answer": "A bicycle sounds generator is an AI tool that turns text into custom bike bell, pedal and cycling audio. It produces professional output and sound cycle for games, videos, and apps. The system uses neural audio synthesis trained on real bike and cycling sounds, so you get natural, usable results without recording or large libraries. It's built for creators, game developers, and editors who need quick, varied output for any project."
+        },
+        {
+          "question": "How does the bicycle sounds generator work?",
+          "answer": "Our bicycle sounds generator first reads your text description and picks out traits like intensity, style, and context. It then runs this through models trained on bike bell, pedal, and cycling audio to synthesize matching output. You can request a short sound cycle for UI or longer clips for ambience. The result is a clean, ready-to-use file you can download and use in your project."
+        },
+        {
+          "question": "What makes this bicycle sounds generator unique?",
+          "answer": "Unlike fixed libraries, our bicycle sounds generator creates new variations on demand from plain text. You get custom output and sound cycle without searching through thousands of files. The AI is trained on high-quality bike and cycling audio, so each result is consistent and professional. You can generate as many variations as you need, making it easy to find the right fit for every scene or interaction."
+        },
+        {
+          "question": "How to write effective prompts for bicycle sounds?",
+          "answer": "Use clear, specific descriptions. For example: \"bicycle sounds for a bike bell\" or \"sound cycle for pedal creak.\" Mention style (realistic, cartoon), context (game, video, UI), and intensity. The generator responds well to terms like bike bell, pedal, chain, and tire. The more detail you give, the closer the output will match your vision. Include length or style if it matters for your project."
+        },
+        {
+          "question": "How to use bicycle sounds in video content?",
+          "answer": "Use bicycle sounds and sound cycle to add realism to cycling scenes, travel clips, or ads. Place a short bike bell where it fits the action. Layer pedal or tire pass-by for a full sound cycle in montages. Vary the intensity—subtle for background, clearer for focus. Our generator lets you create enough variations so each scene has a fitting result without repetition."
+        },
+        {
+          "question": "How to use bicycle sounds in game development?",
+          "answer": "Bicycle sounds work well for cycling games, sports titles, and open-world UI. Use a crisp sound cycle for bike pickup or menu feedback, and fuller clips for in-game riding. Our generator supports many variations so you can keep a consistent style while avoiding repetition. Create distinct sets for different bikes or terrains. The result is clear, professional output that fits your game's feel."
+        },
+        {
+          "question": "What types of bicycle sounds can I create?",
+          "answer": "You can create a wide range of bicycle sounds and sound cycle styles: bells, pedals, chains, tire pass-by, and full cycling ambience. Use them for games, videos, UI, or any bike-related need. The generator handles different contexts and styles with consistent quality, from single hits to layered sound cycle. Explore various options for any production need."
+        },
+        {
+          "question": "Are the generated bicycle sounds royalty-free?",
+          "answer": "Yes. All bicycle sounds and sound cycle from our generator are royalty-free and come with a commercial license. You can use them in any project without extra fees or attribution. Every generated file is cleared for professional and commercial use. Download as many as you need for your projects."
+        },
+        {
+          "question": "What is the quality of the generated bicycle sounds?",
+          "answer": "Our bicycle sounds generator outputs professional-grade audio that meets common broadcast and production standards. You get high-resolution files, full frequency range, and controlled dynamics so each sound cycle is clear and ready to drop into your project. Every generated file is suitable for professional use in video, games, and apps."
+        }
+      ]
+    }
+  }
+}

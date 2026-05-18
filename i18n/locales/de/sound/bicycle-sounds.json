@@ -1,0 +1,75 @@
+{
+  "bicycle-sounds": {
+    "meta": {
+      "title": "Fahrradgeräusche",
+      "description": "Erstellen Sie sofort Fahrradgeräusche mit unserer fortschrittlichen KI-Technologie. Erzeugen Sie verschiedene Audiotypen: natürliche Töne, Instrumente und mehr.",
+      "keywords": "Fahrradgeräusche, Sound-Zyklus"
+    },
+    "hero": {
+      "title": "Fahrradgeräusche",
+      "subtitle": "Verwandeln Sie Textbeschreibungen sofort in hochwertige Fahrradgeräusche"
+    },
+    "generator_subtitle": "Wählen Sie aus den beliebten Prompts unten oder schreiben Sie Ihre eigene Beschreibung, um Fahrradgeräusche zu erzeugen",
+    "advantages": {
+      "title": "Warum unseren Fahrradgeräusche-Generator wählen?",
+      "items": [
+        {
+          "title": "Sofortige Fahrradgeräusche-Erstellung",
+          "description": "Erzeugen Sie professionelle Fahrradgeräusche und Sound-Zyklus sofort aus Text. Unser Tool verwandelt Ihre Beschreibungen in Sekunden in Klingel, Pedal und Fahrrad-Audio—ohne große Bibliotheken oder manuelle Bearbeitung. Erstellen Sie unbegrenzte Variationen für jedes Projekt. Ob Sie einen knackigen Clip für die UI oder einen vollen Sound-Zyklus für eine Szene brauchen, der Generator liefert saubere, sendefähige Ergebnisse.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Unbegrenzte kreative Möglichkeiten",
+          "description": "Erstellen Sie jeden gewünschten Fahrradgeräusche-Stil: Klingeln, Pedale, Ketten oder Reifen-Vorbeifahrt. Der Generator versteht detaillierte Beschreibungen und erzeugt passendes Audio, für volle kreative Freiheit. Erkunden Sie endlose Variationen von Sound-Zyklus für Spiele, Videos und Apps. Von dezent bis markant—finden Sie die passende Variante für jedes Projekt.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professionelle Audioqualität",
+          "description": "Alle erzeugten Fahrradgeräusche entsprechen Sendestandards mit hochauflösender Ausgabe. Der Generator nutzt moderne Algorithmen, sodass jeder Sound-Zyklus-Clip klar und produktionsreif ist. Alle Ausgaben sind für den professionellen Einsatz in Video, Spielen und Content optimiert. Erhalten Sie konsistente, studiogerechte Qualität für Ihre Arbeit.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Über den Fahrradgeräusche-Generator",
+      "items": [
+        {
+          "question": "Was ist ein Fahrradgeräusche-Generator?",
+          "answer": "Ein Fahrradgeräusche-Generator ist ein KI-Tool, das Text in individuelle Klingel-, Pedal- und Fahrrad-Audios umwandelt. Er erzeugt professionelle Ausgabe und Sound-Zyklus für Spiele, Videos und Apps. Das System nutzt neuronale Audiosynthese, trainiert auf echten Fahrrad- und Radfahr-Sounds, sodass Sie natürliche, nutzbare Ergebnisse ohne Aufnahme oder große Bibliotheken erhalten. Er ist für Creator, Spieleentwickler und Cutter gedacht, die schnelle, vielfältige Ausgabe für jedes Projekt brauchen."
+        },
+        {
+          "question": "Wie funktioniert der Fahrradgeräusche-Generator?",
+          "answer": "Unser Fahrradgeräusche-Generator liest zuerst Ihre Textbeschreibung und extrahiert Merkmale wie Intensität, Stil und Kontext. Diese werden durch Modelle geleitet, die auf Klingel-, Pedal- und Fahrrad-Audio trainiert sind, um passende Ausgabe zu synthetisieren. Sie können einen kurzen Sound-Zyklus für die UI oder längere Clips für Atmosphäre anfordern. Das Ergebnis ist eine saubere, einsatzbereite Datei zum Download und Einsatz in Ihrem Projekt."
+        },
+        {
+          "question": "Was macht diesen Fahrradgeräusche-Generator einzigartig?",
+          "answer": "Anders als feste Bibliotheken erstellt unser Generator auf Anfrage neue Variationen aus reinem Text. Sie erhalten individuelle Ausgabe und Sound-Zyklus ohne Durchsuchen tausender Dateien. Die KI ist auf hochwertiges Fahrrad- und Radfahr-Audio trainiert, jede Ausgabe ist konsistent und professionell. Sie können beliebig viele Variationen erzeugen und so die passende für jede Szene oder Interaktion finden."
+        },
+        {
+          "question": "Wie schreibt man wirksame Prompts für Fahrradgeräusche?",
+          "answer": "Nutzen Sie klare, konkrete Beschreibungen. Zum Beispiel: „Fahrradgeräusche für eine Klingel“ oder „Sound-Zyklus für Pedalknarren“. Nennen Sie Stil (realistisch, Cartoon), Kontext (Spiel, Video, UI) und Intensität. Der Generator reagiert gut auf Begriffe wie Klingel, Pedal, Kette und Reifen. Je detaillierter die Angaben, desto näher am gewünschten Ergebnis. Geben Sie bei Bedarf Länge oder Stil für Ihr Projekt an."
+        },
+        {
+          "question": "Wie setzt man Fahrradgeräusche in Video-Content ein?",
+          "answer": "Nutzen Sie Fahrradgeräusche und Sound-Zyklus, um Radfahr-Szenen, Reiseclips oder Werbung realistischer zu machen. Setzen Sie eine kurze Klingel ein, wo es zur Aktion passt. Legen Sie Pedal oder Reifen-Vorbeifahrt unter Montagen für einen vollen Sound-Zyklus. Variieren Sie die Intensität—dezent im Hintergrund, klarer im Fokus. Unser Generator ermöglicht genug Variationen, sodass jede Szene ein passendes Ergebnis ohne Wiederholung hat."
+        },
+        {
+          "question": "Wie nutzt man Fahrradgeräusche in der Spieleentwicklung?",
+          "answer": "Fahrradgeräusche eignen sich für Radspiele, Sporttitel und Open-World-UI. Verwenden Sie einen knackigen Sound-Zyklus für Fahrrad-Aufnahme oder Menü-Feedback und vollere Clips fürs Spielen beim Fahren. Unser Generator unterstützt viele Variationen, sodass Sie einen einheitlichen Stil beibehalten und Wiederholung vermeiden können. Erstellen Sie eigene Sets für verschiedene Räder oder Gelände. Das Ergebnis ist klare, professionelle Ausgabe, die zum Feeling Ihres Spiels passt."
+        },
+        {
+          "question": "Welche Arten von Fahrradgeräuschen kann ich erstellen?",
+          "answer": "Sie können ein breites Spektrum an Fahrradgeräuschen und Sound-Zyklus-Stilen erstellen: Klingeln, Pedale, Ketten, Reifen-Vorbeifahrt und volle Fahrrad-Atmosphäre. Nutzen Sie sie für Spiele, Videos, UI oder jeden fahrradbezogenen Bedarf. Der Generator verarbeitet verschiedene Kontexte und Stile mit gleichbleibender Qualität, von Einzelschlägen bis zu mehrschichtigem Sound-Zyklus. Erkunden Sie verschiedene Optionen für jeden Produktionsbedarf."
+        },
+        {
+          "question": "Sind die erzeugten Fahrradgeräusche lizenzfrei?",
+          "answer": "Ja. Alle Fahrradgeräusche und Sound-Zyklen aus unserem Generator sind lizenzfrei und mit einer kommerziellen Lizenz versehen. Sie können sie in jedem Projekt ohne zusätzliche Gebühren oder Namensnennung verwenden. Jede erzeugte Datei ist für professionelle und kommerzielle Nutzung freigegeben. Laden Sie so viele herunter, wie Sie für Ihre Projekte benötigen."
+        },
+        {
+          "question": "Wie ist die Qualität der erzeugten Fahrradgeräusche?",
+          "answer": "Unser Fahrradgeräusche-Generator liefert professionelles Audio, das gängigen Sende- und Produktionsstandards entspricht. Sie erhalten hochauflösende Dateien, vollen Frequenzbereich und kontrollierte Dynamik, sodass jeder Sound-Zyklus klar und direkt einsetzbar ist. Jede erzeugte Datei eignet sich für den professionellen Einsatz in Video, Spielen und Apps."
+        }
+      ]
+    }
+  }
+}

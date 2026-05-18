@@ -1,0 +1,75 @@
+{
+  "bell-notification": {
+    "meta": {
+      "title": "Notificação de sino",
+      "description": "Crie notificação de sino instantaneamente com nossa tecnologia de IA avançada. Gere diversos tipos de som: naturais, instrumentos musicais e mais.",
+      "keywords": "notificação de sino, sino de notificação"
+    },
+    "hero": {
+      "title": "Notificação de sino",
+      "subtitle": "Transforme descrições em texto em notificação de sino de alta qualidade instantaneamente"
+    },
+    "generator_subtitle": "Selecione entre os prompts populares abaixo ou escreva sua própria descrição para gerar notificação de sino",
+    "advantages": {
+      "title": "Por que escolher nosso gerador de notificação de sino?",
+      "items": [
+        {
+          "title": "Criação instantânea de notificação",
+          "description": "Crie clipes de notificação de sino profissionais instantaneamente a partir de texto com nosso gerador de IA. A ferramenta transforma suas ideias em áudio de carrilhão e alerta de alta qualidade em segundos, sem bibliotecas de amostras ou edição manual. Gere variações ilimitadas para qualquer projeto com alguns cliques. Seja sino de notificação, carrilhão de app ou ping em camadas, o gerador entrega saída em qualidade de estúdio para seus projetos criativos.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Possibilidades criativas ilimitadas",
+          "description": "Use nosso gerador para criar qualquer estilo de notificação de sino que imaginar—de ping suave a carrilhão de porta. A ferramenta entende descrições complexas e dá liberdade criativa total. Explore opções infinitas para vídeos, jogos e apps. De golpes únicos a sino de notificação em camadas, obtenha o clipe perfeito para cada cenário.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualidade de áudio profissional",
+          "description": "Todo notificação de sino do nosso gerador atende aos padrões de transmissão com saída de alta fidelidade. Algoritmos de ponta garantem resultados em qualidade de estúdio. Toda a saída de sino de notificação está pronta para produção e otimizada para uso profissional. O gerador oferece cobertura de frequência completa e dinâmica controlada para saída autêntica de carrilhão e alerta.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "FAQ gerador de notificação de sino",
+      "items": [
+        {
+          "question": "O que é um gerador de notificação de sino?",
+          "answer": "Um gerador de notificação de sino é uma ferramenta de IA que transforma descrições em texto em áudio personalizado de carrilhão e alerta. O nosso usa processamento de linguagem natural e síntese neural de áudio para produzir clipes de qualidade profissional. Modelos de deep learning treinados em conjuntos de dados de carrilhão entendem sua descrição e geram variações correspondentes. É ideal para criadores de conteúdo, editores de vídeo e desenvolvedores de apps que precisam de saída rápida e autêntica de notificação de sino. O gerador usa seu contexto e detalhes para criar áudio nuanceado e em camadas. Para carrilhão de notificação refinado ou outros estilos, entrega resultados precisos e de alta fidelidade."
+        },
+        {
+          "question": "Como o gerador funciona?",
+          "answer": "A ferramenta usa um pipeline em várias etapas para transformar texto em áudio de alta qualidade. Primeiro analisa sua descrição para capturar traços como tom, ressonância, duração e estilo. Essas informações passam por redes neurais treinadas para síntese de carrilhão e alerta, que tratam frequência, dinâmica e decaimento. Treinado com amostras profissionais, a IA produz notificação de sino natural. Filtragem e pós-processamento mantêm a qualidade alta e garantem que todo clipe de sino de notificação atenda aos padrões de transmissão."
+        },
+        {
+          "question": "O que torna este gerador único?",
+          "answer": "Nosso gerador se destaca pela personalização instantânea e qualidade profissional. Diferente de bibliotecas estáticas, ele cria clipes de carrilhão sob medida sob demanda. É treinado com amostras de alta qualidade para resultados realistas, incluindo sino de notificação e estilos de carrilhão variados. O sistema entende descrições complexas e produz saída de notificação de sino com controle fino de tom e contexto. Você obtém variações ilimitadas e liberdade criativa."
+        },
+        {
+          "question": "Como escrevo prompts eficazes para o gerador?",
+          "answer": "Escreva descrições claras e específicas com vários detalhes. Em vez de só \"carrilhão\", tente \"notificação de sino com reverb\" ou \"sino de notificação com eco.\" Inclua estilo, tom, duração e traços distintivos. O gerador responde bem a termos como ping de app, carrilhão de porta e ressonância. Para cenários complexos, divida em partes e diga como se combinam. Mais contexto gera melhores resultados para notificação de sino e sino de notificação."
+        },
+        {
+          "question": "Como usar o gerador em conteúdo de vídeo?",
+          "answer": "Mapeie as cenas do seu vídeo e coloque clipes de notificação de sino personalizados onde agregam impacto. O gerador ajuda a criar áudio de carrilhão e alerta para cada momento—de dicas sutis a hits dramáticos. Sobreponha várias variações de sino de notificação para áudio rico e envolvente. Use para transições, títulos e cenas-chave. Use momentos distintos como sino de notificação para sublinhar tempo ou lugar. A ferramenta permite construir um estilo de áudio único que combina com seu conteúdo."
+        },
+        {
+          "question": "Como usar o gerador no desenvolvimento de jogos?",
+          "answer": "O gerador suporta áudio procedural para jogos. Crie variações de notificação de sino para que os jogadores raramente ouçam o mesmo clipe duas vezes. Construa sistemas que reajam ao estado do jogo, ações do jogador e condições. Produza opções diferentes de sino de notificação para UI, fases e eventos mantendo estilo consistente. Saída em camadas pode ser mixada dinamicamente a partir dos parâmetros do jogo. O gerador entrega áudio de qualidade profissional que aumenta imersão e feedback."
+        },
+        {
+          "question": "Que tipos de notificação posso criar?",
+          "answer": "Você pode criar uma ampla gama de notificação de sino: carrilhão de app, ping de porta, sino de notificação para ambiente ou UI, intensidades (suave a alto) e estilos (app, porta, cartoon, cinematográfico). A ferramenta trata essas categorias de notificação de sino com qualidade consistente. Seja carrilhão leve ou clipes de alerta fortes, o gerador entrega resultados profissionais para qualquer projeto."
+        },
+        {
+          "question": "Os clipes de notificação gerados são livres de royalties?",
+          "answer": "Sim. Todo o áudio do nosso gerador é livre de royalties e inclui licença comercial. Você pode usar os clipes de notificação de sino gerados em qualquer projeto sem taxas extras ou atribuição. Todo clipe, incluindo saída de sino de notificação, está liberado para uso imediato em trabalho profissional e comercial."
+        },
+        {
+          "question": "Que qualidade o gerador produz?",
+          "answer": "O gerador produz áudio de notificação de sino de qualidade profissional que atende aos padrões da indústria. Você obtém opções de alta resolução até 192 kHz/24-bit para sino de notificação, faixa de frequência completa e dinâmica controlada. Toda a saída está pronta para transmissão. Todo clipe é adequado para produção profissional e projetos criativos."
+        }
+      ]
+    }
+  }
+}

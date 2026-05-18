@@ -1,0 +1,71 @@
+{
+  "silent-scream": {
+    "meta": {
+      "title": "Silent Scream",
+      "description": "Instantly create silent scream with our advanced AI technology. Generate various type sounds including natural sounds, musical instruments and more.",
+      "keywords": "silent scream, extreme screaming"
+    },
+    "hero": {
+      "title": "Silent Scream",
+      "subtitle": "Instantly transform text description into high-quality silent scream"
+    },
+    "generator_subtitle": "Select from popular prompts below or write your own description to generate silent scream",
+    "advantages": {
+      "title": "Why Choose Our Silent Scream Generator?",
+      "items": [
+        {
+          "title": "Generate Silent Scream Cues in Seconds",
+          "description": "Turn concise text prompts into tense, expressive vocal cues without searching huge libraries. The model captures pacing, breath shape, and emotional pressure so each output fits cinematic edits, game moments, or dramatic transitions. You can iterate quickly when one scene needs multiple intensity options. A focused silent scream cue can escalate into extreme screaming only when the cut truly needs it.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Flexible Tone from Subtle to Extreme",
+          "description": "Adjust delivery from restrained tension to extreme screaming by refining context, duration, and vocal texture in your prompt. This makes it easier to match visual storytelling while keeping dialogue space clean. The workflow supports both realistic drama and stylized horror accents. Editors often pair one silent scream take with one extreme screaming take for quick A/B timing.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professional-Grade Audio Quality",
+          "description": "Exports are mix-ready with stable loudness behavior and controlled transients, so replacements are easier late in production. Files remain clear after common platform compression, helping your emotional beats stay consistent across devices. Consistent leveling keeps each silent scream intelligible while each extreme screaming layer remains controlled.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "About Our Silent Scream Generator",
+      "items": [
+        {
+          "question": "What is a silent scream generator?",
+          "answer": "It is an AI audio tool that converts text prompts into dramatic vocal effects focused on tension and impact. Instead of recording many takes, you can generate a silent scream style cue quickly and test it directly in your timeline. One silent scream concept can branch into multiple extreme screaming variants for different edits."
+        },
+        {
+          "question": "How does this silent scream tool work?",
+          "answer": "The system reads prompt attributes such as emotion, pressure, pacing, and texture, then synthesizes audio aligned with those traits. You can refine wording between passes until timing and intensity match your visual cut. Iteration helps each silent scream land on frame while every extreme screaming surge stays intentional."
+        },
+        {
+          "question": "Why use this over stock libraries?",
+          "answer": "Stock libraries can feel repetitive and may not fit exact scene rhythm. Prompt-based generation gives you fresh variations on demand, making your dramatic moments more specific and less generic. That keeps each silent scream unique and prevents extreme screaming moments from sounding recycled."
+        },
+        {
+          "question": "How should I write prompts for silent scream effects?",
+          "answer": "Use concrete context: who reacts, what triggers the moment, and how long the cue should sustain. Specific prompts like \"short restrained gasp before impact\" usually produce better timing than broad keywords. Better prompt detail sharpens silent scream timing and keeps extreme screaming cleaner in dense mixes."
+        },
+        {
+          "question": "When should I use extreme screaming in a mix?",
+          "answer": "Use extreme screaming at key impact moments such as reveals, jump cuts, or climactic transitions. Keep it slightly below critical dialogue and automate gain so the effect adds tension without overwhelming speech. Pairing a silent scream lead-in before extreme screaming often improves dramatic pacing."
+        },
+        {
+          "question": "What kinds of variants can I generate?",
+          "answer": "You can create restrained breaths, sharp panic spikes, layered vocal swells, or long-form distress textures. This range helps editors test different emotional arcs before final lock. Build a reusable silent scream bank and tag each extreme screaming clip by intensity for faster revisions."
+        },
+        {
+          "question": "Is generated audio royalty-free?",
+          "answer": "Yes. Generated files are royalty-free under our license for standard creator and commercial usage. Always review current licensing terms before large campaigns or broadcast release."
+        },
+        {
+          "question": "What quality should I expect from exports?",
+          "answer": "Expect clean, production-ready output with consistent dynamics and reliable playback on mobile and desktop devices. For final delivery, apply your standard mastering chain to match your project loudness target. Final QC should confirm every silent scream stays clear and each extreme screaming moment survives platform compression."
+        }
+      ]
+    }
+  }
+}

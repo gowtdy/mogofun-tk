@@ -1,0 +1,75 @@
+{
+  "moaning-audio": {
+    "meta": {
+      "title": "Moaning Audio",
+      "description": "Instantly create moaning audio with our advanced AI technology. Generate various type sounds including natural sounds, musical instruments and more.",
+      "keywords": "moaning audio,male moaning audio"
+    },
+    "hero": {
+      "title": "Moaning Audio",
+      "subtitle": "Instantly transform text description into high-quality moaning audio"
+    },
+    "generator_subtitle": "Select from popular prompts below or write your own description to generate moaning audio",
+    "advantages": {
+      "title": "Why Choose Our Generator?",
+      "items": [
+        {
+          "title": "Instant Moaning Audio Creation",
+          "description": "Create professional moaning audio clips instantly from text with our AI generator. The tool turns your ideas into high-quality male moaning audio and character sound in seconds, without sample libraries or manual editing. Generate unlimited variations for games, videos, and apps. Whether you need zombie groans, horror moans, or dramatic male moaning audio, the generator delivers studio-quality output for your projects.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Unlimited Creative Possibilities",
+          "description": "Use our generator to create any style of moaning audio you imagine—from subtle groans to intense male moaning audio. The tool understands complex descriptions and gives you full creative freedom. Explore options tailored to games, films, and media. From character groans to varied vocal styles for every scenario, get the perfect moaning audio clip for your project.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professional-Grade Audio Quality",
+          "description": "Every moaning audio from our generator meets broadcast standards with high-fidelity output. Cutting-edge algorithms ensure studio-quality results for male moaning audio and other vocal effects. All sound effects are production-ready and optimized for professional use. The generator delivers full frequency coverage and clear dynamics for authentic groans. They feel consistent in any project.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Generator FAQ",
+      "items": [
+        {
+          "question": "What is this generator?",
+          "answer": "It is an AI tool that turns text descriptions into custom moaning audio and male moaning audio sound effects. It uses natural language processing and neural sound synthesis to produce professional-quality clips. You can create vocal clips for horror, games, or films. It suits content creators, game developers, and filmmakers who need quick, authentic moaning audio output. The generator also supports varied styles and moods for male moaning audio."
+        },
+        {
+          "question": "How does it work?",
+          "answer": "Our generator uses a multi-stage pipeline to turn text into high-quality sound. It first analyzes your description to capture traits like intensity, character, and duration. That information goes through neural networks trained for groan and vocal synthesis. Trained on professional samples, the AI produces natural-sounding moaning audio and male moaning audio. Filtering and post-processing keep quality high and ensure every vocal sound effect clip meets broadcast standards."
+        },
+        {
+          "question": "What makes this generator unique?",
+          "answer": "Our generator stands out through instant customization and professional quality. Unlike static libraries, it creates tailored moaning audio and male moaning audio on demand. The system understands complex descriptions and produces output with fine control over intensity and style. You get unlimited variations and creative freedom. Sound effects for games and films are easy to tailor without extra production work."
+        },
+        {
+          "question": "How do I write effective prompts for it?",
+          "answer": "Write clear, specific descriptions. Try \"zombie sfx\" or \"zombie groan sfx\" for moaning audio. Include intensity, character type, and context. Our generator responds well to terms like zombie sound, groan, and grunt. More context yields better results for male moaning audio and other vocal effects."
+        },
+        {
+          "question": "How can I use it in video content?",
+          "answer": "Place custom moaning audio and male moaning audio clips where scenes need tension or reaction. The generator helps you create vocal clips for intros, transitions, and key moments. Layer variations for rich, engaging sound design. Use it for films, vlogs, and tutorials. The tool lets you build a unique sound style that fits your content."
+        },
+        {
+          "question": "How can I use it in game development?",
+          "answer": "Our generator supports procedural sound for games. Create moaning audio and male moaning audio variations so players rarely hear the same clip twice. Build systems that react to game state, hazards, and events. Produce different options for characters, zombies, and cutscenes while keeping a consistent style. Sound effects can be mixed dynamically from game parameters. The generator delivers professional-quality output that enhances immersion and impact."
+        },
+        {
+          "question": "What types of moaning audio can I create?",
+          "answer": "You can create a wide range: zombie moaning audio, male moaning audio for horror or games, zombie groan sfx, and custom styles. The generator handles these categories with consistent quality. Whether you need subtle groans or bold male moaning audio for any scenario, the tool delivers professional results."
+        },
+        {
+          "question": "Are the generated moaning audio clips royalty-free?",
+          "answer": "Yes. All output from our generator is royalty-free and includes a commercial license. You can use the generated moaning audio and male moaning audio in any project without extra fees or attribution. Every clip is cleared for immediate use in professional and commercial work."
+        },
+        {
+          "question": "What quality does it produce?",
+          "answer": "Our generator outputs professional-grade moaning audio and male moaning audio that meet industry standards. You get high-resolution options, full frequency range, and clear dynamics. All output is broadcast-ready and suitable for professional production and creative projects."
+        }
+      ]
+    }
+  }
+}

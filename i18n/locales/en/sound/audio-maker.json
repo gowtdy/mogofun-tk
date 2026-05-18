@@ -1,0 +1,79 @@
+{
+  "audio-maker": {
+    "meta": {
+      "title": "Audio Maker",
+      "description": "Create audio effects with our advanced audio maker powered by AI for audio, generating various types including natural sounds, musical instruments and more.",
+      "keywords": "audio maker, AI for audio"
+    },
+    "hero": {
+      "title": "Audio Maker",
+      "subtitle": "Transform your text descriptions into high-quality sound effects"
+    },
+    "generator_subtitle": "Select from popular prompts below or write your own description to generate sound effects",
+    "advantages": {
+      "title": "Why Choose Our Audio Maker?",
+      "items": [
+        {
+          "title": "Instant Sound Generation",
+          "description": "Turn text prompts into production-ready effects in seconds with our audio maker. This powerful tool uses AI for audio technology to transform descriptions into sound instantly. Use one clear description to create sound for videos, games, ads, and apps—no bulky libraries, no manual trimming, just fast results.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Unlimited Creative Possibilities",
+          "description": "From cinematic impacts to subtle ambience, our audio maker powered by AI for audio understands detailed intent and offers controllable variations. Add mood, texture, distance, and timing to shape output for your scene. For teams that want faster iteration, this system keeps results consistent across versions.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professional-Grade Sound Quality",
+          "description": "Get clean, high-fidelity output with balanced dynamics, ready to drop into your workflow. Our audio maker with AI for audio technology produces stable results with fewer artifacts, so editing stays light and predictable. Experience professional sound quality with every generation.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "About Audio Maker",
+      "items": [
+        {
+          "question": "What is an audio maker?",
+          "answer": "An audio maker is a tool that turns text descriptions into ready-to-use effects and ambience. With our audio maker powered by AI for audio, you can describe what you need and quickly create sound that fits content, products, or interactive experiences. For faster workflows, this tool helps keep results consistent."
+        },
+        {
+          "question": "How does the audio maker work?",
+          "answer": "Our audio maker analyzes your prompt (source, environment, intensity, duration), maps it to acoustic attributes, then synthesizes output using neural models. The system uses AI for audio technology to process your requests. Light post-processing helps make results clear, usable, and consistent. In short, this tool automates the heavy lifting from description to export."
+        },
+        {
+          "question": "What makes this audio maker unique?",
+          "answer": "This audio maker focuses on speed, control, and reliable output. Instead of searching through preset packs, you describe what you need and create sound variations that stay on-theme, making iteration much faster. Our tool with AI for audio delivers professional results quickly."
+        },
+        {
+          "question": "How do I write effective prompts for the audio maker?",
+          "answer": "Be specific: describe the source (\"metal hit\"), setting (\"warehouse\"), distance (\"close\"), emotion (\"tense\"), and timing (\"0.8s tail\"). Add modifiers like \"muffled\" or \"bright\" to help the tool create sound that matches your mix. The AI for audio technology understands detailed descriptions."
+        },
+        {
+          "question": "How can I use the audio maker for video content?",
+          "answer": "Use our audio maker to create sound for transitions, impacts, ambience beds, and scene-specific details. The system with AI for audio technology generates professional-quality sounds. Generate a few close variants, then layer and duck them under dialogue to keep the mix natural and engaging."
+        },
+        {
+          "question": "How can I use the audio maker in game development?",
+          "answer": "Create sound families for actions (footsteps, UI clicks, abilities) and generate variations to reduce repetition. An audio maker workflow with AI for audio also helps prototype ambience for new levels before final polishing. This tool streamlines game sound production."
+        },
+        {
+          "question": "How do I create white noise and ambience with the audio maker?",
+          "answer": "Describe the texture and movement (\"soft brown noise with gentle air\" or \"city room tone with distant traffic\"). The tool can create sound layers you can loop, fade, and stack for long scenes. Our audio maker handles complex ambience requests effectively."
+        },
+        {
+          "question": "What can I create with the audio maker?",
+          "answer": "You can create sound across many categories: nature, machines, UI feedback, cinematic hits, sci-fi textures, musical elements, and environmental ambience. The audio maker is flexible for both quick drafts and production use. This tool powered by AI for audio covers diverse sound needs."
+        },
+        {
+          "question": "Is the sound generated by the audio maker royalty-free?",
+          "answer": "Yes. Sound generated with our audio maker is royalty-free and suitable for commercial use, so you can publish videos, ship games, and launch products without extra licensing steps. The tool with AI for audio technology ensures you own the rights to all generated content."
+        },
+        {
+          "question": "What output quality can I expect from the audio maker?",
+          "answer": "The audio maker targets clean, high-quality output suitable for modern production. For best results, generate a few variants, choose the most natural take, and do light EQ or level matching in your editor. Our tool delivers professional-grade results consistently."
+        }
+      ]
+    }
+  }
+}

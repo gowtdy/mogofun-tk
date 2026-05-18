@@ -1,0 +1,75 @@
+{
+  "bicycle-sounds": {
+    "meta": {
+      "title": "Sonidos de bicicleta",
+      "description": "Crea sonidos de bicicleta al instante con nuestra tecnología de IA avanzada. Genera diversos tipos de audio: tonos naturales, instrumentos y más.",
+      "keywords": "sonidos de bicicleta, ciclo sonoro"
+    },
+    "hero": {
+      "title": "Sonidos de bicicleta",
+      "subtitle": "Transforma descripciones de texto en sonidos de bicicleta de alta calidad al instante"
+    },
+    "generator_subtitle": "Elige entre los prompts populares de abajo o escribe tu propia descripción para generar sonidos de bicicleta",
+    "advantages": {
+      "title": "¿Por qué elegir nuestro generador de sonidos de bicicleta?",
+      "items": [
+        {
+          "title": "Creación instantánea de sonidos de bicicleta",
+          "description": "Genera sonidos de bicicleta profesionales y ciclo sonoro al instante desde el texto. Nuestra herramienta convierte tus descripciones en timbre, pedal y audio de ciclismo en segundos—sin bibliotecas grandes ni edición manual. Crea variaciones ilimitadas para cualquier proyecto. Ya sea un clip nítido para la interfaz o un ciclo sonoro completo para una escena, el generador entrega resultados limpios y listos para emisión.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Posibilidades creativas ilimitadas",
+          "description": "Crea cualquier estilo de sonidos de bicicleta que necesites: timbres, pedales, cadenas o paso de rueda. El generador entiende descripciones detalladas y produce audio correspondiente, con total libertad creativa. Explora variaciones infinitas de ciclo sonoro para juegos, vídeos y aplicaciones. De sutil a marcado, encuentra el ajuste adecuado para cada proyecto.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Calidad de audio profesional",
+          "description": "Todos los sonidos de bicicleta generados cumplen estándares de emisión con salida de alta fidelidad. El generador usa algoritmos modernos para que cada clip de ciclo sonoro sea claro y listo para producción. Todas las salidas están optimizadas para uso profesional en vídeo, juegos y contenido. Obtén una salida consistente y de calidad de estudio para tu trabajo.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Sobre el generador de sonidos de bicicleta",
+      "items": [
+        {
+          "question": "¿Qué es un generador de sonidos de bicicleta?",
+          "answer": "Un generador de sonidos de bicicleta es una herramienta de IA que convierte texto en timbre, pedal y audio de ciclismo personalizados. Produce salida profesional y ciclo sonoro para juegos, vídeos y aplicaciones. El sistema usa síntesis de audio neuronal entrenada con sonidos reales de bicicleta y ciclismo, para resultados naturales y utilizables sin grabación ni bibliotecas grandes. Está pensado para creadores, desarrolladores de juegos y editores que necesitan sonidos de bicicleta rápidos y variados para cualquier proyecto."
+        },
+        {
+          "question": "¿Cómo funciona el generador de sonidos de bicicleta?",
+          "answer": "Nuestro generador de sonidos de bicicleta primero lee tu descripción de texto y extrae rasgos como intensidad, estilo y contexto. Luego los procesa con modelos entrenados en timbre, pedal y audio de ciclismo para sintetizar la salida correspondiente. Puedes pedir un ciclo sonoro corto para la interfaz o clips más largos para ambientación. El resultado es un archivo limpio y listo para usar que puedes descargar y usar en tu proyecto."
+        },
+        {
+          "question": "¿Qué hace único a este generador de sonidos de bicicleta?",
+          "answer": "A diferencia de bibliotecas fijas, nuestro generador crea nuevas variaciones bajo demanda a partir de texto plano. Obtienes salida personalizada y ciclo sonoro sin buscar en miles de archivos. La IA está entrenada con audio de bicicleta y ciclismo de alta calidad, así que cada resultado es consistente y profesional. Puedes generar tantas variaciones como necesites para encontrar el ajuste adecuado para cada escena o interacción."
+        },
+        {
+          "question": "¿Cómo escribir prompts efectivos para sonidos de bicicleta?",
+          "answer": "Usa descripciones claras y específicas. Por ejemplo: \"sonidos de bicicleta para un timbre\" o \"ciclo sonoro para chirrido de pedal\". Menciona estilo (realista, cartoon), contexto (juego, vídeo, interfaz) e intensidad. El generador responde bien a términos como timbre, pedal, cadena y rueda. Cuantos más detalles des, más se acercará la salida a tu visión. Incluye duración o estilo si es importante para tu proyecto."
+        },
+        {
+          "question": "¿Cómo usar sonidos de bicicleta en contenido de vídeo?",
+          "answer": "Usa sonidos de bicicleta y ciclo sonoro para dar realismo a escenas de ciclismo, clips de viaje o anuncios. Coloca un timbre corto donde encaje con la acción. Superpone pedal o paso de rueda para un ciclo sonoro completo en montajes. Varía la intensidad—sutil en fondo, más nítida en foco. Nuestro generador permite crear suficientes variaciones para que cada escena tenga un resultado adecuado sin repetición."
+        },
+        {
+          "question": "¿Cómo usar sonidos de bicicleta en desarrollo de juegos?",
+          "answer": "Los sonidos de bicicleta funcionan bien para juegos de ciclismo, títulos deportivos e interfaz de mundo abierto. Usa un ciclo sonoro nítido para recoger la bicicleta o feedback de menú, y clips más completos para pedalear en el juego. Nuestro generador admite muchas variaciones para mantener un estilo consistente y evitar repetición. Crea conjuntos distintos para diferentes bicicletas o terrenos. El resultado es una salida clara y profesional que encaja con la sensación de tu juego."
+        },
+        {
+          "question": "¿Qué tipos de sonidos de bicicleta puedo crear?",
+          "answer": "Puedes crear una amplia gama de estilos de sonidos de bicicleta y ciclo sonoro: timbres, pedales, cadenas, paso de rueda y ambientación completa de ciclismo. Úsalos para juegos, vídeos, interfaz o cualquier necesidad relacionada con bicicleta. El generador maneja distintos contextos y estilos con calidad consistente, desde hits únicos hasta ciclo sonoro en capas. Explora varias opciones para cualquier necesidad de producción."
+        },
+        {
+          "question": "¿Los sonidos de bicicleta generados son libres de regalías?",
+          "answer": "Sí. Todos los sonidos de bicicleta y ciclos sonoros de nuestro generador son libres de regalías y vienen con licencia comercial. Puedes usarlos en cualquier proyecto sin costes adicionales ni atribución. Cada archivo generado está autorizado para uso profesional y comercial. Descarga tantos como necesites para tus proyectos."
+        },
+        {
+          "question": "¿Qué calidad tienen los sonidos de bicicleta generados?",
+          "answer": "Nuestro generador de sonidos de bicicleta produce audio de nivel profesional que cumple estándares habituales de emisión y producción. Obtienes archivos de alta resolución, rango de frecuencias completo y dinámica controlada, de modo que cada ciclo sonoro sea claro y listo para incorporar a tu proyecto. Cada archivo generado es adecuado para uso profesional en vídeo, juegos y aplicaciones."
+        }
+      ]
+    }
+  }
+}

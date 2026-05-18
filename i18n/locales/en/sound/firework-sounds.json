@@ -1,0 +1,75 @@
+{
+  "firework-sounds": {
+    "meta": {
+      "title": "Firework Sounds",
+      "description": "Instantly create firework sounds with our advanced AI technology. Generate various type sounds including natural sounds, musical instruments and more.",
+      "keywords": "firework sounds, firework sound"
+    },
+    "hero": {
+      "title": "Firework Sounds",
+      "subtitle": "Instantly transform text description into high-quality firework sounds"
+    },
+    "generator_subtitle": "Select from popular prompts below or write your own description to generate firework sounds",
+    "advantages": {
+      "title": "Why Choose Our Firework Sounds Generator?",
+      "items": [
+        {
+          "title": "Instant Firework Sounds Creation",
+          "description": "Generate professional firework sounds and firework sound instantly from text. Our tool turns your descriptions into bursts, whistles, crackles and booms in seconds—no field recording or large libraries. Create unlimited variations for video, ads, or events. Whether you need a single burst, pyrotechnic audio for New Year, or layered firework sounds, the generator delivers clean, broadcast-ready results.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Unlimited Creative Possibilities",
+          "description": "Create any style of firework sounds you need: distant display, close-up burst, sparkler crackle, or grand finale firework sound. The generator understands detailed descriptions and produces matching audio for full creative freedom. Explore variations for film, podcasts, and content. From subtle sparkle to massive bursts, find the right fit for every project.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professional-Grade Audio Quality",
+          "description": "All firework sounds generated meet broadcast standards with high-fidelity output. The generator uses modern algorithms so each firework sound is clear and production-ready. Outputs are optimized for video, film, and media. Get consistent, studio-quality output for your work.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "About Firework Sounds Generator",
+      "items": [
+        {
+          "question": "What is a firework sounds generator?",
+          "answer": "A firework sounds generator is an AI tool that turns text into custom firework sounds and firework sound such as bursts, whistles, crackles, and booms. It produces professional audio for video, games, and ads without recording or large libraries. The system uses neural synthesis trained on real pyrotechnic audio, so you get natural, usable results. It's built for creators who need quick, varied firework sounds for any project."
+        },
+        {
+          "question": "How does the firework sounds generator work?",
+          "answer": "Our firework sounds generator reads your text description and picks out traits like burst type, distance, and intensity. It then synthesizes matching firework sound—single boom, rapid bursts, or distant display. You can request a sparkler crackle, a grand finale, or New Year fireworks. The result is a clean, ready-to-use file you can download and drop into your project."
+        },
+        {
+          "question": "What makes this firework sounds generator unique?",
+          "answer": "Unlike fixed libraries, our firework sounds generator creates new variations on demand from plain text. You get custom firework sound without searching through thousands of files. The AI is trained on high-quality pyrotechnic audio, so each result is consistent and professional. Generate as many variations as you need for every scene or edit."
+        },
+        {
+          "question": "How to write effective prompts for firework sounds?",
+          "answer": "Use clear, specific descriptions. For example: \"single pyrotechnic burst in night sky\" or \"distant display firework sounds with whistles.\" Mention burst type (boom, crackle, whistle), distance (close, far), and context (New Year, celebration, finale). The generator responds well to terms like burst, boom, crackle, and firework sound. More detail helps the output match your vision."
+        },
+        {
+          "question": "How to use firework sounds in video content?",
+          "answer": "Use pyrotechnic audio to highlight celebrations, endings, or key moments. Layer bursts under b-roll, add a boom for impact, or use distant pyrotechnic audio for atmosphere. Vary the intensity—bigger for climaxes, softer for background. Our generator lets you create enough variations so each scene has a fitting firework sound without repetition."
+        },
+        {
+          "question": "How to use firework sounds in game development?",
+          "answer": "Pyrotechnic audio works well for victory screens, celebrations, and level complete. Use bursts for rewards, grand finale for milestones, and firework sound for festive moments. Our generator supports many variations so you can keep a consistent style. Create distinct sets for different events with clear, professional output."
+        },
+        {
+          "question": "What types of firework sounds can I create?",
+          "answer": "You can create a wide range of firework sounds and firework sound: single burst, rapid sequence, whistle, crackle, boom, distant display, and grand finale. Use them for film, games, podcasts, or any project needing pyrotechnic audio. The generator handles different contexts and styles with consistent quality."
+        },
+        {
+          "question": "Are the generated firework sounds royalty-free?",
+          "answer": "Yes. All firework sounds from our generator are royalty-free and come with a commercial license. You can use them in any project without extra fees or attribution. Every generated file is cleared for professional and commercial use. Download as many as you need for your projects."
+        },
+        {
+          "question": "What is the quality of the generated firework sounds?",
+          "answer": "Our firework sounds generator outputs professional-grade audio that meets common broadcast and production standards. You get high-resolution files, full frequency range, and controlled dynamics so each firework sound is clear and ready to drop into your project. Every generated file is suitable for professional use in video, film, and content."
+        }
+      ]
+    }
+  }
+}

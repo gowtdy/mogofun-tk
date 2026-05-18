@@ -1,0 +1,71 @@
+{
+  "moan-sound": {
+    "meta": {
+      "title": "Som de gemido",
+      "description": "Crie instantaneamente um som de gemido com nossa tecnologia avancada de IA. Gere diversos tipos de som, incluindo sons naturais, instrumentos musicais e muito mais.",
+      "keywords": "som de gemido, gemidos intensos"
+    },
+    "hero": {
+      "title": "Som de gemido",
+      "subtitle": "Transforme instantaneamente descricoes em texto em som de gemido de alta qualidade"
+    },
+    "generator_subtitle": "Escolha entre os prompts populares abaixo ou escreva sua propria descricao para gerar som de gemido",
+    "advantages": {
+      "title": "Por que escolher nosso gerador de som de gemido?",
+      "items": [
+        {
+          "title": "Criação instantânea de som de gemido",
+          "description": "Gere som de gemido profissional e audio de gemidos intensos instantaneamente a partir do texto. Nossa ferramenta transforma suas descricoes em gemidos vocais e clipes expressivos em segundos—sem grandes bibliotecas ou edicao manual. Crie variacoes ilimitadas para conteudo, podcasts ou trabalhos criativos. Quer precise de um som de gemido sutil ou audios de gemidos ricos e intensos, o gerador entrega resultados limpos e prontos para producao.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Possibilidades criativas ilimitadas",
+          "description": "Crie o estilo que voce precisa: intensidade variada, diferentes atmosferas ou audios de gemidos intensos para impacto. O gerador entende descricoes detalhadas e produz resultados correspondentes para uma liberdade criativa total. Explore variacoes para projetos de audio, conteudo e trabalho criativo. Do suave ao intenso, encontre o ajuste certo para cada projeto.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualidade de audio profissional",
+          "description": "Todos os sons de gemido gerados atendem aos padroes de producao com saida de alta fidelidade. O gerador usa algoritmos modernos para que cada clipe de audio esteja claro e pronto para uso. As saidas sao otimizadas para conteudo, audio e midia. Obtenha resultados consistentes, com qualidade de estudio, para o seu trabalho.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Sobre o gerador de som de gemido",
+      "items": [
+        {
+          "question": "O que e um gerador de som de gemido?",
+          "answer": "Um gerador de som de gemido e uma ferramenta de IA que transforma texto em gemidos vocais personalizados e audio expressivo. Ele produz saida profissional e opcoes de gemidos intensos para conteudo e projetos criativos, sem gravacao ou bibliotecas grandes. O sistema usa sintese neural treinada em audio vocal, entao voce obtem resultados naturais e utilizaveis. Foi feito para criadores que precisam de som de gemido rapido e variado em qualquer projeto."
+        },
+        {
+          "question": "Como funciona o gerador de som de gemido?",
+          "answer": "Nosso gerador le sua descricao em texto e identifica caracteristicas como humor, intensidade e estilo. Em seguida, sintetiza um vocal correspondente—suave, intenso ou entre os dois. Voce pode solicitar diferentes intensidades, cenarios ou audio em camadas. O resultado e um arquivo limpo e pronto para uso, que voce pode baixar e inserir no seu projeto."
+        },
+        {
+          "question": "O que torna este gerador de som de gemido unico?",
+          "answer": "Diferente de bibliotecas fixas, nosso gerador cria novas variacoes de som de gemido sob demanda a partir de texto simples. Voce recebe opcoes personalizadas de vocal e gemidos intensos sem precisar procurar em milhares de arquivos. A IA e treinada com audio vocal de alta qualidade, entao cada resultado e consistente e profissional. Gere quantas variacoes voce precisar para cada cena ou edicao."
+        },
+        {
+          "question": "Como escrever prompts eficazes para som de gemido?",
+          "answer": "Use descricoes claras e especificas. Por exemplo: \"vocal suave\" ou \"gemidos intensos para impacto\". Mencione o humor (intenso, suave, apaixonado), intensidade e contexto. O gerador responde bem a termos descritivos. Quanto mais detalhes, melhor o resultado se ajusta a sua visao."
+        },
+        {
+          "question": "Como usar audios gerados no conteudo?",
+          "answer": "Use os audios gerados para melhorar conteudo, podcasts ou trabalho criativo. Coloque o vocal sob o video, adicione audios de gemidos intensos para impacto ou combine com outros audios. Varie a intensidade para se adequar a cada cena. Nosso gerador permite criar variacoes suficientes para que cada projeto tenha um resultado adequado, sem repeticao."
+        },
+        {
+          "question": "Que tipos de audio posso criar?",
+          "answer": "Voce pode criar uma ampla gama de som de gemido: suave, intenso, diferentes intensidades e varios humores. Use-os para conteudo, audio ou projetos criativos. O gerador lida com diferentes contextos e estilos com qualidade consistente para vocal e gemidos intensos."
+        },
+        {
+          "question": "Os sons de gemido gerados sao isentos de royalties?",
+          "answer": "Sim. Todo audio do nosso gerador e isento de royalties e vem com licenca comercial. Voce pode usar em qualquer projeto sem taxas extras ou atribuicao. Cada arquivo gerado e liberado para uso profissional e comercial. Baixe quantas versoes voce precisar para seus projetos."
+        },
+        {
+          "question": "Qual e a qualidade do som de gemido gerado?",
+          "answer": "Nosso gerador produz audio de nivel profissional que atende aos padroes comuns de producao. Voce recebe arquivos em alta resolucao, faixa completa de frequencias e dinamica controlada, para que cada resultado fique claro e pronto para inserir no seu projeto. Cada arquivo gerado e adequado para uso profissional em conteudo e midia."
+        }
+      ]
+    }
+  }
+}

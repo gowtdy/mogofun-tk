@@ -1,0 +1,79 @@
+{
+  "funny-sounds": {
+    "meta": {
+      "title": "Lustige Sounds",
+      "description": "Erstelle einzigartige lustige Sounds mit fortschrittlicher Soundeffekt-KI – Naturklänge, Instrumente und mehr.",
+      "keywords": "lustige Sounds, lustige Soundeffekte"
+    },
+    "hero": {
+      "title": "Lustige Sounds",
+      "subtitle": "Verwandle Textbeschreibungen in hochwertige lustige Sounds"
+    },
+    "generator_subtitle": "Wähle beliebte Vorschläge unten oder schreibe deine eigene Beschreibung, um lustige Sounds zu erzeugen",
+    "advantages": {
+      "title": "Warum lustige Sounds mit unserer KI erzeugen?",
+      "items": [
+        {
+          "title": "Lustige Sounds aus Klartext in Sekunden",
+          "description": "Beschreibe Gag, Sting oder Reaktion in Alltagssprache und erhalte fast sofort mixbare Stems—ohne Marathon-Tauchgänge in Bibliotheken. Soundeffekt-KI hält Pegel sinnvoll, damit du dich auf Bildschnitt und Tempo konzentrieren kannst. Dupliziere lustige Sounds für vertikale und quadratische Masters, trimme jeden Tail lustiger Sounds ans Bild und archiviere Ersatz-lustige Sounds für Nachaufnahmen.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Komödiantischen Ton formen – ohne Booth",
+          "description": "Feinjustiere Adjektive, Dauer und Raum für Slapstick, trockenen Humor oder absurde Übertreibung. Geschichtete Prompts lassen Alternativen für Reels, Sketches, Podcasts oder UI-Flourishes probieren, bis der Witz klar lesbar ist. Wenn geschichtete lustige Sounds VO überdecken, verkürze Decay; wenn dünne lustige Sounds an Punch fehlen, generiere neu; unterschreibe erst nach QC dieser lustigen Sounds.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Lieferfertige Pegel für Kanäle",
+          "description": "Exports bleiben für Dialog, Partitur und Plattform-Loudness-Ziele kontrolliert. Teams können lustige Sounds für eine Staffel oder Kampagne stapeln und dabei mit minimalem Extra-Mastering eine konsistente klangliche Spur halten. Route Promo-lustige Sounds montag, frische ältere lustige Sounds dienstag und drucke lieferbare lustige Sounds mittwoch mit Datums-Codes.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Lustige Sounds: Fragen und Antworten",
+      "items": [
+        {
+          "question": "Was meinen wir hier mit lustigen Sounds?",
+          "answer": "Kurze, bewusste komische Cues—Cartoon-Bonks, alberne Whooshes, Meme-Stings, übertriebenes Foley—aus Text statt Mikrofonen. Du bekommst Stems, die du in Schnitte, Spiele oder Social-Cuts legen kannst, ohne ganze Sessions neu aufzubauen. Käufer, die lustige-Soundeffekt-Bundles online vergleichen, sollten Stem-Anzahl und Lizenzseiten bestätigen."
+        },
+        {
+          "question": "Wie wird Text zu Audio?",
+          "answer": "Prompts werden für Aktion, Figur, Timing und akustische Hinweise gelesen. Modelle synthetisieren Wellenformen passend zum Brief, leichte Nachbearbeitung stabilisiert Dynamik. Ändere Wörter, generiere neu und teste A/B auf deiner Timeline. Forscher, die lustige Soundeffekte suchen, wollen Comedy-first-Filter ohne Thriller-Rauschen."
+        },
+        {
+          "question": "Wie soll ich Prompts schreiben?",
+          "answer": "Führe mit dem Witz-Beat (Rutsch, Rimshot, Plattenkratzer), füge Setting (enger Raum vs Arena) und Dauer hinzu (\"Ein-Sekunden-Sting\"). Vergleiche konkrete Zeilen wie \"Gummi-Schnapp\" mit breiteren Stimmungen und verfeinere nach Hörfeedback. Erwähne lustigen Soundeffekt-Sting in Prompts, um das Modell auf komische Transienten zu biasieren."
+        },
+        {
+          "question": "Warum suchen Leute online nach lustigen Soundeffekten?",
+          "answer": "Die genaue Phrase lustige Soundeffekte taucht auf, wenn Schnitter komische Hits wollen, ohne zuerst durch ernste Trailer zu waten. Strukturierte Prompts hier überspringen laute Ergebnisse und zielen direkt auf den beschriebenen Ton. Assistenten, die lustige-Soundeffekt-Bins taggen, halten Comedy-Cues von Drama-Bibliotheken getrennt."
+        },
+        {
+          "question": "Kann ich Clips auf YouTube oder TikTok nutzen?",
+          "answer": "Ja—Ausgaben zielen auf typische Creator-Workflows. Paare Stems mit Bild, rotiere Varianten gegen Ermüdung und halte dich an aktuelle Plattform-Richtlinien. Bewahre Download-Belege und Lizenznotizen für Kunden. Kanalteams, die lustige-Soundeffekt-Promos testen, müssen die Werbe-Audio-Policy jeder App befolgen."
+        },
+        {
+          "question": "Hilft das bei Spielen oder Apps?",
+          "answer": "Designer prototypisieren UI-Gags, Power-ups und Fail-Lines vor einer finalen Bibliothek. Generiere Geschwister-Cues, damit Trigger über langes Spiel frisch bleiben. Standardisiere Gewinner über Builds oder halte Alternativen für seltene Events. Designer, die lustige-Soundeffekt-UI-Hits verkabeln, sollten A/B vor Build-Shipping."
+        },
+        {
+          "question": "Welche Stile sind üblich?",
+          "answer": "Slapstick-Impacts, peinliche Pausen, Blech-Flops, alberne Vocals, Buzzer und hybride Musik-Witze. Bitte um Beds und Punches getrennt oder drucke Stems zum Mischen in der DAW. Mixer, die lustige-Soundeffekt-Beds unter der Partitur stapeln, sollten gemeinsamen Matsch mit Musik auskerben."
+        },
+        {
+          "question": "Sind Downloads lizenzfrei?",
+          "answer": "Dateien kommen mit breiten kommerziellen und persönlichen Rechten unter der beim Download gezeigten Lizenz—meist inklusive Ads, Apps und Streams ohne extra Sync-Gebühren. Archiviere die Vereinbarung und lies bei Updates nach. Supervisoren, die lustige-Soundeffekt-Archive vor Verlängerungen prüfen, sollten Lizenz-PDFs für Finance exportieren."
+        },
+        {
+          "question": "Welche Qualität kann ich erwarten?",
+          "answer": "Hochauflösendes Material mit kontrollierter Dynamik, damit Stems neben Dialog und Partitur sitzen. Wende Haus-Loudness wie bei jedem Drittanbieter-SFX an. Kinotirage laufen weiter durch deine übliche Mastering-Kette. Mastering-Ingenieure, die lustige-Soundeffekt-Finals drucken, fahren Haus-Loudness end-to-end."
+        },
+        {
+          "question": "Wer profitiert am meisten?",
+          "answer": "Redakteure, Indie-Dev, Pädagogen und Social-Teams unter engen Deadlines. Wer frische lustige Sounds ohne Talent-Booking braucht, kann in Minuten iterieren; große Studios können Ausgaben als Scratch-Audio vor Final-Aufnahme nutzen. Frische saisonale lustige Sounds, wenn Kampagnen-Kreativ rotiert. Showrunner, die lustige-Soundeffekt-Sequenzen storyboarden, sollten Cues labeln, damit Assistenten aligned bleiben."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "sound-effect-board": {
+    "meta": {
+      "title": "Tableau d'Effets Sonores",
+      "description": "Créez des effets sonores uniques avec notre tableau d'effets sonores, générant divers types incluant des sons naturels, des instruments de musique et plus encore.",
+      "keywords": "tableau d'effets sonores, tableaux d'effets sonores"
+    },
+    "hero": {
+      "title": "Tableau d'Effets Sonores",
+      "subtitle": "Transformez vos descriptions textuelles en effets sonores de haute qualité"
+    },
+    "generator_subtitle": "Sélectionnez parmi les invites populaires ci-dessous ou écrivez votre propre description pour générer un effet sonore",
+    "advantages": {
+      "title": "Pourquoi Choisir Notre Tableau d'Effets Sonores ?",
+      "items": [
+        {
+          "title": "Création Instantanée d'Effets Sonores",
+          "description": "Générez des effets professionnels instantanément à partir de texte avec notre tableau d'effets sonores. Le tableau d'effets sonores transforme vos idées en audio de haute qualité en quelques secondes, éliminant le besoin de grandes bibliothèques ou d'édition manuelle. Créez des ressources d'effets illimitées pour tout projet en quelques clics en utilisant notre tableau d'effets sonores.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Possibilités Créatives Illimitées",
+          "description": "Créez tout type d'effet que vous imaginez, de l'ambiance naturelle aux textures audio futuristes. Notre tableau d'effets sonores comprend les invites détaillées et produit ce que vous envisagez. Explorez des variations adaptées à vos besoins avec ce tableau d'effets sonores polyvalent.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualité Audio Professionnelle",
+          "description": "Chaque effet est généré avec une sortie haute fidélité et une dynamique équilibrée. Notre tableau d'effets sonores fournit un audio prêt pour la production, et le tableau d'effets sonores aide à maintenir des résultats cohérents dans tous les flux de travail.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "À Propos du Tableau d'Effets Sonores",
+      "items": [
+        {
+          "question": "Qu'est-ce qu'un tableau d'effets sonores ?",
+          "answer": "Un tableau d'effets sonores est un outil qui convertit les descriptions textuelles en effets audio personnalisés en utilisant l'IA. Un tableau d'effets audio aide les créateurs à générer rapidement des ressources d'effets pour le contenu, les jeux et les expériences interactives, avec une sortie cohérente et éditable."
+        },
+        {
+          "question": "Comment fonctionne le tableau d'effets sonores ?",
+          "answer": "Le tableau d'effets sonores analyse votre invite (source, environnement, intensité, durée), la mappe aux attributs acoustiques, puis génère de l'audio avec des modèles neuronaux. Le tableau d'effets sonores termine avec un traitement léger pour que les sorties soient propres, stables et prêtes à être éditées."
+        },
+        {
+          "question": "Qu'est-ce qui rend ce tableau d'effets sonores unique ?",
+          "answer": "Ce tableau d'effets sonores se concentre sur l'itération rapide et les variations contrôlables. Au lieu de parcourir des packs, vous décrivez ce dont vous avez besoin et le tableau d'effets sonores génère des options qui restent cohérentes, accélérant la production."
+        },
+        {
+          "question": "Comment écrire des invites efficaces pour générer des effets audio ?",
+          "answer": "Écrivez des invites avec des détails spécifiques : source (\"coup métallique\"), cadre (\"entrepôt\"), distance (\"proche\"), et timing (\"queue de 0,8s\"). Ajoutez des modificateurs comme \"étouffé\" ou \"brillant\" pour que le tableau d'effets sonores puisse générer des effets qui correspondent à votre mix. Le tableau d'effets sonores fonctionne mieux avec un contexte et des contraintes clairs."
+        },
+        {
+          "question": "Comment utiliser efficacement les effets audio dans le contenu vidéo ?",
+          "answer": "Utilisez le tableau d'effets sonores pour générer des effets pour les transitions, les impacts et les lits d'ambiance. Créez quelques variantes proches, puis superposez et automatisez les niveaux sous le dialogue. Le tableau d'effets sonores aide à garder les montages rapides et le mix naturel."
+        },
+        {
+          "question": "Comment utiliser les effets audio dans le développement de jeux ?",
+          "answer": "Dans les jeux, utilisez le tableau d'effets sonores pour construire des familles d'effets (pas, clics d'interface, capacités) avec des variations pour réduire la répétition. Le tableau d'effets sonores aide également à prototyper l'ambiance tôt, puis à affiner plus tard pour la finition finale."
+        },
+        {
+          "question": "Comment créer un bruit blanc et un audio ambiant efficaces ?",
+          "answer": "Décrivez la texture et le mouvement (\"bruit brun doux avec air doux\" ou \"ton de pièce avec trafic distant\"). Le tableau d'effets audio peut générer une ambiance en couches que vous pouvez boucler et fondu, et le tableau d'effets sonores vous aide à itérer rapidement."
+        },
+        {
+          "question": "Quels types d'effets audio puis-je créer ?",
+          "answer": "Avec le tableau d'effets sonores, vous pouvez créer des effets dans de nombreuses catégories : ambiance naturelle, impacts mécaniques, retour d'interface, coups cinématiques, textures de science-fiction, éléments musicaux et ton de pièce. Le tableau d'effets sonores prend en charge à la fois les brouillons rapides et la sortie prête pour la production."
+        },
+        {
+          "question": "Les effets audio générés sont-ils libres de droits ?",
+          "answer": "Oui. Les effets générés avec le tableau d'effets audio sont libres de droits et adaptés à un usage commercial. Vous pouvez utiliser les sorties du tableau d'effets sonores dans des projets sans étapes de licence supplémentaires."
+        },
+        {
+          "question": "Quelle est la qualité des effets audio générés ?",
+          "answer": "Le tableau d'effets sonores cible une sortie propre et professionnelle avec une dynamique stable et peu d'artefacts. Pour de meilleurs résultats, générez quelques variantes dans le tableau d'effets sonores, choisissez la prise la plus naturelle, puis faites un égaliseur léger ou un ajustement de niveau."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "truck-audio": {
+    "meta": {
+      "title": "Áudio de caminhão",
+      "description": "Crie áudio de caminhão instantaneamente com nossa tecnologia de IA avançada. Gere vários tipos de sons, incluindo sons naturais, instrumentos musicais e mais.",
+      "keywords": "áudio de caminhão, caminhão alto"
+    },
+    "hero": {
+      "title": "Áudio de caminhão",
+      "subtitle": "Transforme a descrição em texto em áudio de caminhão de alta qualidade na hora"
+    },
+    "generator_subtitle": "Escolha entre os prompts populares abaixo ou escreva sua própria descrição para gerar áudio de caminhão",
+    "advantages": {
+      "title": "Por que escolher nosso gerador de áudio de caminhão?",
+      "items": [
+        {
+          "title": "Criação instantânea de áudio de caminhão",
+          "description": "Gere áudio de caminhão profissional na hora a partir de texto. Nossa ferramenta transforma suas descrições em ronco de motor, buzina, freio e som de estrada em segundos—sem gravação de campo ou bibliotecas grandes. Crie variações ilimitadas para vídeo, jogos ou anúncios. Seja um diesel em marcha lenta, um caminhão pesado passando ou revs e buzinas de caminhão alto, o gerador entrega resultados limpos e prontos para transmissão.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Possibilidades criativas ilimitadas",
+          "description": "Crie qualquer estilo de áudio de caminhão que precisar: acelerações de caminhão, ronco distante de rodovia, bipes de ré ou ambiente de cabine. O gerador entende descrições detalhadas e produz áudio correspondente para total liberdade criativa. Explore variações para cinema, podcasts e conteúdo. Do fundo sutil à passagem de caminhão alto, encontre o ajuste certo para cada projeto.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualidade de áudio profissional",
+          "description": "Todo áudio de caminhão gerado atende aos padrões de transmissão com saída de alta fidelidade. O gerador usa algoritmos modernos para que cada resultado seja claro e pronto para produção. As saídas são otimizadas para vídeo, cinema e mídia. Obtenha caminhão alto e áudio de motor consistentes e de qualidade de estúdio para seu trabalho.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Sobre o gerador de áudio de caminhão",
+      "items": [
+        {
+          "question": "O que é um gerador de áudio de caminhão?",
+          "answer": "Um gerador de áudio de caminhão é uma ferramenta de IA que transforma texto em áudio de caminhão personalizado, como motor, buzina e ruído de estrada. Produz áudio profissional para vídeo, jogos e anúncios sem gravação ou bibliotecas grandes. O sistema usa síntese neural treinada em áudio real de veículos para resultados naturais e utilizáveis. Foi feito para criadores que precisam de efeitos de áudio de caminhão e caminhão alto rápidos e variados para qualquer projeto."
+        },
+        {
+          "question": "Como funciona o gerador de áudio de caminhão?",
+          "answer": "O gerador lê sua descrição em texto e identifica tipo de veículo, velocidade e ambiente. Em seguida sintetiza áudio de caminhão correspondente—acelerações, buzinas, freio ou trânsito. Você pode pedir marcha lenta de diesel, caminhão passando ou rev de caminhão alto em uma cena. O resultado é um arquivo limpo e pronto para uso que você pode baixar e colocar no seu projeto."
+        },
+        {
+          "question": "O que torna este gerador de áudio de caminhão único?",
+          "answer": "Diferente de bibliotecas fixas, nosso gerador de áudio de caminhão cria novas variações sob demanda a partir de texto simples. Você obtém áudio personalizado sem procurar em milhares de arquivos. A IA é treinada em áudio de veículos e estrada de alta qualidade, então cada resultado é consistente e profissional. Gere quantas variações precisar para cada cena ou edição."
+        },
+        {
+          "question": "Como escrever prompts eficazes para áudio de caminhão?",
+          "answer": "Use descrições claras e específicas. Por exemplo: \"caminhão diesel em marcha lenta no semáforo\" ou \"buzina de caminhão alto na rodovia.\" Mencione tipo de veículo (carreta, picape, caminhão basculante), ação (acelerando, freando, ré) e cenário (rodovia, cidade, obra). O gerador responde bem a termos como motor, buzina, ronco e caminhão alto. Mais detalhes ajudam a saída a corresponder à sua visão."
+        },
+        {
+          "question": "Como usar áudio de caminhão em conteúdo de vídeo?",
+          "answer": "Use áudio de caminhão para dar realismo a cenas de direção, anúncios ou documentários. Coloque ronco de motor sob as imagens, adicione toques de buzina para ênfase ou use ambiente de caminhão alto distante para profundidade. Varie a intensidade—mais alto para ação, mais baixo para fundo. Nosso gerador permite criar variações suficientes para cada cena ter um resultado adequado sem repetição."
+        },
+        {
+          "question": "Como usar áudio de caminhão no desenvolvimento de jogos?",
+          "answer": "Áudio de caminhão funciona bem em jogos de direção, ambiente de trânsito e feedback de interface. Use acelerações para seleção de veículo, buzina para alertas e ruído de estrada de caminhão alto para atmosfera de mundo aberto. Nosso gerador suporta muitas variações para manter um estilo consistente. Crie conjuntos distintos para diferentes veículos ou ambientes com saída clara e profissional."
+        },
+        {
+          "question": "Que tipos de áudio de caminhão posso criar?",
+          "answer": "Você pode criar uma ampla gama de áudio de caminhão: motor em marcha lenta ou aceleração, buzina curta ou longa, chiado de freio, bip de ré, ronco de estrada e ambiente de cabine ou exterior. Use-os para cinema, jogos, podcasts ou qualquer projeto que precise de áudio de veículos. O gerador lida com diferentes contextos e estilos com qualidade consistente."
+        },
+        {
+          "question": "Os áudios de caminhão gerados são livres de royalties?",
+          "answer": "Sim. Todo áudio de caminhão do nosso gerador é livre de royalties e vem com licença comercial. Você pode usá-lo em qualquer projeto sem custo extra ou atribuição. Cada arquivo gerado está liberado para uso profissional e comercial. Baixe quantos precisar para seus projetos."
+        },
+        {
+          "question": "Qual é a qualidade do áudio de caminhão gerado?",
+          "answer": "Nosso gerador de áudio de caminhão produz áudio de nível profissional que atende aos padrões comuns de transmissão e produção. Você obtém arquivos em alta resolução, faixa de frequência completa e dinâmica controlada para que cada arquivo esteja claro e pronto para usar no seu projeto. Cada áudio de caminhão gerado é adequado para uso profissional em vídeo, cinema e conteúdo."
+        }
+      ]
+    }
+  }
+}

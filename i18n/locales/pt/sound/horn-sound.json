@@ -1,0 +1,75 @@
+{
+  "horn-sound": {
+    "meta": {
+      "title": "Som de buzina",
+      "description": "Crie som de buzina instantaneamente com nossa tecnologia de IA avançada. Gere vários tipos de áudio, incluindo tons naturais, instrumentos musicais e mais.",
+      "keywords": "som de buzina, som de buzina alto"
+    },
+    "hero": {
+      "title": "Som de buzina",
+      "subtitle": "Transforme descrições em texto em som de buzina de alta qualidade instantaneamente"
+    },
+    "generator_subtitle": "Selecione entre os prompts populares abaixo ou escreva sua própria descrição para gerar som de buzina",
+    "advantages": {
+      "title": "Por que escolher nosso gerador de som de buzina?",
+      "items": [
+        {
+          "title": "Criação instantânea de som de buzina",
+          "description": "Crie clipes profissionais e clipes de sinal instantaneamente a partir do texto. Nossa IA transforma suas descrições em sinal de caminhão, buzina de carro e clipes de sinal em segundos—sem bibliotecas de amostras ou edição manual. Precisa de clipes nítidos para interface ou áudio de sinal completo para uma cena? Gere variações ilimitadas com qualidade para transmissão. Obtenha som de buzina alto autêntico para qualquer projeto.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Possibilidades criativas ilimitadas",
+          "description": "Crie qualquer estilo que imaginar: sinal de caminhão, buzina de carro ou sinal. A ferramenta entende descrições detalhadas e oferece liberdade criativa total. Explore opções infinitas para vídeos, jogos e aplicativos. De som de buzina alto sutil a efeitos de sinal em camadas para cinema, obtenha o clipe certo para cada cenário.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualidade de áudio profissional",
+          "description": "Cada clipe do nosso gerador de som de buzina atende aos padrões de transmissão com saída de alta fidelidade. Algoritmos de ponta garantem áudio de sinal de qualidade de estúdio. Todos os clipes estão prontos para produção e otimizados para uso profissional, com cobertura completa de frequência e resultados autênticos e naturais.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Perguntas frequentes sobre som de buzina",
+      "items": [
+        {
+          "question": "O que é um gerador de som de buzina?",
+          "answer": "Nosso gerador é uma ferramenta de IA que transforma texto em clipes personalizados e som de buzina alto. Usa processamento de linguagem natural e síntese neural para produzir clipes profissionais—de sinal de caminhão e buzina de carro a efeitos de sinal. Adequado para criadores, editores de vídeo e desenvolvedores de jogos que precisam de som de buzina alto rápido e autêntico com resultados precisos e de alta fidelidade."
+        },
+        {
+          "question": "Como o gerador funciona?",
+          "answer": "A ferramenta usa um pipeline em várias etapas para transformar texto em clipes de alta qualidade e som de buzina alto. Analisa sua descrição para capturar intensidade, estilo e contexto e processa isso em redes neurais treinadas para síntese de sinal. Você pode solicitar clipes curtos para interface ou ambiência mais longa. Cada clipe atende aos padrões de transmissão."
+        },
+        {
+          "question": "O que torna este gerador de som de buzina único?",
+          "answer": "Nosso gerador se destaca pela personalização instantânea e qualidade profissional. Diferente de bibliotecas estáticas, ele cria clipes sob medida e som de buzina alto sob demanda. Treinado com amostras de alta qualidade, entrega resultados realistas. Você obtém variações ilimitadas e liberdade criativa com controle fino."
+        },
+        {
+          "question": "Como escrevo prompts eficazes para som de buzina?",
+          "answer": "Escreva descrições claras e específicas. Experimente \"som de buzina alto para carro\" ou \"som de buzina para caminhão\". Inclua estilo (realista, cinematográfico), intensidade e contexto. O gerador responde bem a termos como sinal de caminhão, buzina de carro e sinal. Mais contexto gera melhores resultados."
+        },
+        {
+          "question": "Como posso usar som de buzina em conteúdo de vídeo?",
+          "answer": "Mapeie as cenas do seu vídeo e coloque clipes personalizados e som de buzina alto onde eles agregam impacto. Crie clipes de sinal de caminhão e clipes para cada momento—de fundo sutil a hits dramáticos. Sobreponha áudio de sinal para resultados ricos e envolventes que reforçam tempo ou lugar."
+        },
+        {
+          "question": "Como posso usar o gerador no desenvolvimento de jogos?",
+          "answer": "Nosso gerador suporta clipes procedurais e som de buzina alto para jogos. Crie variações para que os jogadores raramente ouçam o mesmo clipe duas vezes. Produza opções diferentes para interface, níveis e eventos mantendo um estilo consistente. A ferramenta entrega saída de qualidade profissional que aumenta imersão e feedback."
+        },
+        {
+          "question": "Que tipos de som de buzina posso criar?",
+          "answer": "Você pode criar uma ampla gama: sinal de caminhão, buzina de carro, sinal e ambiência de sinal. Estilos do suave ao alto (realista, cinematográfico, vintage). A ferramenta lida com isso com qualidade consistente. Obtenha o som de buzina alto certo para qualquer projeto."
+        },
+        {
+          "question": "Os clipes gerados são livres de royalties?",
+          "answer": "Sim. Todos os clipes do nosso gerador são livres de royalties e incluem licença comercial. Você pode usar os clipes e o som de buzina alto gerados em qualquer projeto sem taxas extras ou atribuição. Cada clipe está liberado para uso imediato em trabalho profissional e comercial."
+        },
+        {
+          "question": "Qual qualidade o gerador produz?",
+          "answer": "Nosso gerador produz clipes de nível profissional que atendem aos padrões da indústria. Você obtém opções de alta resolução até 192 kHz/24-bit, faixa de frequência completa e dinâmica controlada. Cada clipe está pronto para transmissão e adequado para produção profissional e projetos criativos."
+        }
+      ]
+    }
+  }
+}

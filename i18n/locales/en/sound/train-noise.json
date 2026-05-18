@@ -1,0 +1,75 @@
+{
+  "train-noise": {
+    "meta": {
+      "title": "Train Noise",
+      "description": "Instantly create train noise with our advanced AI technology. Generate various types of audio including natural tones, musical instruments and more.",
+      "keywords": "train noise, train audio"
+    },
+    "hero": {
+      "title": "Train Noise",
+      "subtitle": "Instantly transform text description into high-quality train noise"
+    },
+    "generator_subtitle": "Select from popular prompts below or write your own description to generate train noise",
+    "advantages": {
+      "title": "Why Choose Our Train Noise Generator?",
+      "items": [
+        {
+          "title": "Instant Train Noise Creation",
+          "description": "Create professional train noise and train audio clips instantly from text. Our AI turns your descriptions into diesel engine, whistle, and environment clips in seconds—no sample libraries or manual editing. Need musical train noise or full train audio for a scene? Generate unlimited variations with broadcast-ready quality for any project.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Unlimited Creative Possibilities",
+          "description": "Create any style you imagine: diesel engine noise, whistle and environment, or musical train noise. The tool understands detailed descriptions and gives you full creative freedom. Explore endless options for videos, games, and apps. From subtle train audio to layered clips for film, get the right clip for every scenario.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professional-Grade Audio Quality",
+          "description": "Every clip from our generator meets broadcast standards with high-fidelity output. Cutting-edge algorithms ensure studio-quality clips and train audio. All clips are production-ready and optimized for professional use, with full frequency coverage and natural, authentic results.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Train Noise FAQ",
+      "items": [
+        {
+          "question": "What is a train noise generator?",
+          "answer": "Our generator is an AI tool that turns text into custom train noise and train audio. It uses natural language processing and neural synthesis to produce professional clips—from diesel engine noise to whistle and environment. It suits creators, video editors, and game developers who need quick, authentic train noise and train audio with precise, high-fidelity results."
+        },
+        {
+          "question": "How does the generator work?",
+          "answer": "The tool uses a multi-stage pipeline to turn text into high-quality clips. It analyzes your description to capture intensity, style, and context, then runs that through neural networks trained for railway and engine synthesis. You can request short clips for UI or longer train noise for ambience. Every clip meets broadcast standards."
+        },
+        {
+          "question": "What makes this train noise generator unique?",
+          "answer": "Our generator stands out through instant customization and professional quality. Unlike static libraries, it creates tailored clips on demand. Trained on high-quality samples, it delivers realistic train noise and train audio. You get unlimited variations and creative freedom with fine control."
+        },
+        {
+          "question": "How do I write effective prompts for train noise?",
+          "answer": "Write clear, specific descriptions. Try \"musical train noise\" or \"train audio for diesel engine.\" Include style (realistic, cinematic), intensity, and context. The generator responds well to terms like diesel, whistle, environment, and train audio. More context yields better results."
+        },
+        {
+          "question": "How can I use train noise in video content?",
+          "answer": "Map your video's scenes and place custom clips where they add atmosphere. Create diesel and whistle clips for every moment—from subtle background to dramatic hits. Layer train audio for rich, engaging output that underlines time or place."
+        },
+        {
+          "question": "How can I use the generator in game development?",
+          "answer": "Our generator supports procedural clips for games. Create variations so players rarely hear the same clip twice. Produce different options for UI, levels, and events while keeping a consistent style. The tool delivers professional-quality train noise and train audio that enhance immersion and feedback."
+        },
+        {
+          "question": "What types of train noise can I create?",
+          "answer": "You can create a wide range: musical train noise, diesel engine noise, whistle and environment, and general train audio. Styles from soft to loud (realistic, cinematic, vintage). The tool handles these with consistent quality and delivers professional results for any project."
+        },
+        {
+          "question": "Are the generated clips royalty-free?",
+          "answer": "Yes. All clips from our generator are royalty-free and include a commercial license. You can use the generated clips in any project without extra fees or attribution. Every clip is cleared for immediate use in professional and commercial work."
+        },
+        {
+          "question": "What quality does the generator produce?",
+          "answer": "Our generator outputs professional-grade clips that meet industry standards. You get high-resolution train audio options up to 192kHz/24-bit, full frequency range, and controlled dynamics. Every clip is broadcast-ready and suitable for professional production and creative projects."
+        }
+      ]
+    }
+  }
+}

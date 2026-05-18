@@ -1,0 +1,71 @@
+{
+  "door-bell-sound-effect": {
+    "meta": {
+      "title": "Efecto de sonido de timbre",
+      "description": "Crea al instante efectos de sonido de timbre con nuestra IA avanzada. Genera varios tipos de sonidos: naturales, instrumentos y más.",
+      "keywords": "efecto de sonido de timbre, efecto de sonido de campana de iglesia"
+    },
+    "hero": {
+      "title": "Efecto de sonido de timbre",
+      "subtitle": "Transforma al instante una descripción en texto en efecto de sonido de timbre de alta calidad"
+    },
+    "generator_subtitle": "Elige entre los prompts populares de abajo o escribe tu propia descripción para generar efecto de sonido de timbre",
+    "advantages": {
+      "title": "Por qué elegir nuestro generador de efecto de sonido de timbre",
+      "items": [
+        {
+          "title": "Creación rápida de efecto de sonido de timbre",
+          "description": "Genera un efecto de sonido de timbre pulido a partir de texto sencillo en segundos. Puedes prototipar tonos de alerta para apps, vídeos y demos interactivas sin sesiones de grabación ni capas manuales. La iteración rápida ayuda a los equipos a comparar varios estilos de timbre antes de la exportación final.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Estilos de campana flexibles para distintas escenas",
+          "description": "Moldea timing, timbre, resonancia y ataque para encajar con interfaces modernas, transiciones cinematográficas o señales retro. Pide un efecto de sonido de timbre nítido para el día a día, o inclínate a una atmósfera de campana de iglesia tradicional cuando la historia lo pida—puedes guiar al modelo con palabras de contexto y pistas de duración para resultados más auténticos.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Calidad de audio profesional",
+          "description": "Cada salida es limpia, lista para mezclar y coherente entre dispositivos de reproducción. El generador conserva detalle transitorio y dinámica equilibrada para que cada golpe de efecto de sonido de timbre y cada decaimiento de efecto de sonido de campana de iglesia sigan claros en mezclas densas, facilitando la integración en producción y postproducción.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Sobre nuestro generador de efecto de sonido de timbre",
+      "items": [
+        {
+          "question": "¿Qué es un generador de efecto de sonido de timbre?",
+          "answer": "Es una herramienta de audio con IA que convierte prompts de texto en señales estilo campana personalizadas. En lugar de hojear bibliotecas enormes, creas un efecto de sonido de timbre adaptado al estado de ánimo, ritmo y contexto de reproducción de tu proyecto."
+        },
+        {
+          "question": "¿Cómo funciona el generador?",
+          "answer": "El modelo lee tu descripción en busca de atributos como brillo, caída y fuerza de golpe, luego sintetiza audio que coincide con esas instrucciones. Puedes afinar la redacción a lo largo de las iteraciones para pasar de un ping ajustado de efecto de sonido de timbre a una cola amplia de efecto de sonido de campana de iglesia con texturas metálicas más ricas."
+        },
+        {
+          "question": "¿Puedo crear un estilo de campana de iglesia?",
+          "answer": "Sí. Añade contexto como espacio de catedral, resonancia larga y golpe más pesado en tu prompt. Esos detalles ayudan al modelo a ofrecer un carácter de efecto de sonido de campana de iglesia adecuado para escenas históricas y aperturas dramáticas."
+        },
+        {
+          "question": "¿Cómo debo escribir prompts eficaces?",
+          "answer": "Usa descripciones concisas que incluyan estilo de fuente, timing y entorno. Por ejemplo menciona \"toque digital corto de efecto de sonido de timbre\" o \"efecto de sonido de campana de iglesia en nave de piedra con cola larga\" para obtener resultados más cercanos a tu uso de producción previsto."
+        },
+        {
+          "question": "¿Dónde puedo usar campanas generadas?",
+          "answer": "Funcionan bien en interacciones de UI, transiciones de podcast, cortes cinematográficos, marcadores de tutorial y sistemas de feedback de juegos. Usa un efecto de sonido de timbre con identidad de marca para demos de producto, o coloca una campana de iglesia lejana bajo planos de establecimiento—como cada salida es personalizable, mantienes identidad de audio coherente en varios formatos."
+        },
+        {
+          "question": "¿El audio generado es libre de regalías?",
+          "answer": "Sí. Los archivos generados son libres de regalías según nuestros términos estándar para proyectos típicos de creadores y comerciales. Revisa los detalles de licencia vigentes si planeas grandes campañas o requisitos especiales de distribución."
+        },
+        {
+          "question": "¿Qué calidad debo esperar de las exportaciones?",
+          "answer": "Obtienes archivos listos para producción con transientes claros, dinámica estable y reproducción fiable en todos los dispositivos. Eso acelera la alineación del mix final, ya sea para apps móviles, medios web o ediciones de broadcast que colocan una capa sutil de efecto de sonido de campana de iglesia bajo la música."
+        },
+        {
+          "question": "¿Cómo equilibro la claridad del efecto de sonido de timbre en una mezcla?",
+          "answer": "Coloca la señal con un breve bolsillo de EQ alrededor de rangos vocales, luego aplica control moderado de picos para evitar enmascarar el diálogo. Así el efecto de sonido de timbre sigue audible sin dominar la banda sonora."
+        }
+      ]
+    }
+  }
+}

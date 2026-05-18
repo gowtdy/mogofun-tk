@@ -1,0 +1,75 @@
+{
+  "scream-voice": {
+    "meta": {
+      "title": "Schrei-Stimme",
+      "description": "Erstellen Sie sofort Schrei-Stimme mit unserer fortschrittlichen KI-Technologie. Erzeugen Sie verschiedene Klangtypen: Naturklänge, Musikinstrumente und mehr.",
+      "keywords": "Schrei-Stimme, schreiende Stimme"
+    },
+    "hero": {
+      "title": "Schrei-Stimme",
+      "subtitle": "Verwandeln Sie Textbeschreibungen sofort in hochwertige Schrei-Stimme"
+    },
+    "generator_subtitle": "Wählen Sie aus den beliebten Prompts unten oder schreiben Sie Ihre eigene Beschreibung, um Schrei-Stimme zu erzeugen",
+    "advantages": {
+      "title": "Warum unseren Generator wählen?",
+      "items": [
+        {
+          "title": "Sofortige Schrei-Stimmen-Erstellung",
+          "description": "Erstellen Sie professionelle Vokal-Clips sofort aus Text mit unserem KI-Generator. Das Tool verwandelt Ihre Ideen in Sekunden in hochwertigen Vokal- und Charakter-Sound – ohne Sample-Bibliotheken oder manuelle Bearbeitung. Erzeugen Sie unbegrenzte Variationen für Spiele, Videos und Apps. Ob lauter Männerschrei, gruseliger Frauenschrei oder Schrei-Stimme für Horror – der Generator liefert Studioqualität für Ihre Projekte.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Unbegrenzte kreative Möglichkeiten",
+          "description": "Nutzen Sie unseren Generator, um jeden gewünschten Vokalstil zu erstellen – von subtilen Rufen bis zu intensiven Schreien. Das Tool versteht komplexe Beschreibungen und gibt Ihnen volle kreative Freiheit. Erkunden Sie Optionen für Spiele, Filme und Medien. Von Charakter-Vocals bis zu vielfältigen Vokalstilen für jedes Szenario – holen Sie sich den perfekten Clip für Ihr Projekt.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professionelle Audioqualität",
+          "description": "Jeder Clip unseres Generators erfüllt Rundfunkstandards mit High-Fidelity-Ausgabe. Moderne Algorithmen sorgen für Studioqualität. Alle Ausgabe ist produktionsreif und für den professionellen Einsatz optimiert. Der Generator liefert vollständige Frequenzabdeckung und klare Dynamik für authentische Vocals. Schrei-Stimme, die in jedem Projekt konsistent wirkt.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Generator FAQ",
+      "items": [
+        {
+          "question": "Was ist dieser Generator?",
+          "answer": "Es ist ein KI-Tool, das Textbeschreibungen in individuelle Schrei-Stimme umwandelt. Unserer nutzt natürliche Sprachverarbeitung und neuronale Audiosynthese für professionelle Clips. Sie können Vokal-Clips für Horror, Spiele oder Filme erstellen. Es eignet sich für Content-Ersteller, Spieleentwickler und Filmemacher, die schnelle, authentische Ausgabe brauchen. Der Generator unterstützt auch Schrei-Stimme für verschiedene Stile und Stimmungen. Nutzen Sie ihn für individuelle Schrei-Stimme in jedem Projekt."
+        },
+        {
+          "question": "Wie funktioniert er?",
+          "answer": "Unser Generator nutzt eine mehrstufige Pipeline, um Text in hochwertiges Audio zu verwandeln. Zuerst analysiert er Ihre Beschreibung, um Merkmale wie Intensität, Charakter und Dauer zu erfassen. Diese Informationen durchlaufen für Vokal- und Schrei-Synthese trainierte neuronale Netze. Mit professionellen Samples trainiert, erzeugt die KI natürlich klingende Ausgabe. Filterung und Nachbearbeitung halten die Qualität hoch und sorgen dafür, dass jeder Clip Rundfunkstandards erfüllt."
+        },
+        {
+          "question": "Was macht diesen Generator einzigartig?",
+          "answer": "Unser Generator zeichnet sich durch sofortige Anpassung und professionelle Qualität aus. Anders als statische Bibliotheken erstellt er maßgeschneiderte Schrei-Stimme auf Abruf. Das System versteht komplexe Beschreibungen und erzeugt Ausgabe mit feiner Kontrolle über Intensität und Stil. Sie erhalten unbegrenzte Variationen und kreative Freiheit. Clips für Spiele und Filme lassen sich ohne zusätzliche Produktionsarbeit anpassen."
+        },
+        {
+          "question": "Wie schreibe ich wirksame Prompts dafür?",
+          "answer": "Schreiben Sie klare, konkrete Beschreibungen. Probieren Sie „lauter Männerschrei HD“ oder „gruseliger Frauenschrei ultra realistisch“. Für Vokal sagen Sie „intensiver Schrei“ oder „lustiger Schrei“. Nennen Sie Intensität, Charaktertyp und Kontext. Unser Generator reagiert gut auf Begriffe wie Schrei, Rufen und Weinen. Mehr Kontext liefert bessere Ergebnisse für Schrei-Stimme. Probieren Sie verschiedene Vokalstile für optimale Ausgabe."
+        },
+        {
+          "question": "Wie kann ich ihn in Videoinhalten nutzen?",
+          "answer": "Platzieren Sie angepasste Schrei-Stimmen-Clips dort, wo Szenen Spannung oder Reaktion brauchen. Der Generator hilft Ihnen, Vokal- und Charakter-Audio für Intros, Übergänge und Schlüsselmomente zu erstellen. Legen Sie Schrei-Stimmen-Variationen für reiches, fesselndes Sounddesign übereinander. Nutzen Sie ihn für Filme, Vlogs und Tutorials. Das Tool ermöglicht einen einzigartigen Audiostil, der zu Ihrem Inhalt passt."
+        },
+        {
+          "question": "Wie kann ich ihn in der Spieleentwicklung nutzen?",
+          "answer": "Unser Generator unterstützt prozedurales Audio für Spiele. Erstellen Sie Schrei-Stimmen-Variationen, damit Spieler selten denselben Clip zweimal hören. Bauen Sie Systeme, die auf Spielzustand, Gefahren und Ereignisse reagieren. Erzeugen Sie verschiedene Optionen für Charaktere, Jumpscares und Cutscenes bei konsistentem Stil. Clips können dynamisch aus Spielparametern gemischt werden. Das Tool bietet endlose Schrei-Stimmen-Variationen. Der Generator liefert professionelle Schrei-Stimme, die Immersion und Wirkung steigert."
+        },
+        {
+          "question": "Welche Arten von Schrei-Stimme kann ich erstellen?",
+          "answer": "Sie können ein breites Spektrum an Schrei-Stimme erstellen: lauter Männerschrei, gruseliger Frauenschrei, intensive und lustige Stile sowie individuelle Optionen. Der Generator behandelt diese Schrei-Stimmen-Kategorien mit gleichbleibender Qualität. Ob subtile Rufe oder markante Vokal-Clips für jedes Szenario – das Tool liefert professionelle Ergebnisse. Schrei-Stimme für Horror und Spiele wird mit voller kreativer Kontrolle unterstützt. Exportieren Sie Schrei-Stimme im gewünschten Format."
+        },
+        {
+          "question": "Sind die generierten Schrei-Stimmen-Clips lizenzfrei?",
+          "answer": "Ja. Alle Audios unseres Generators sind lizenzfrei und enthalten eine gewerbliche Lizenz. Sie können die generierten Schrei-Stimmen-Clips in jedem Projekt ohne zusätzliche Gebühren oder Namensnennung verwenden. Jeder Clip ist für sofortige Nutzung in professioneller und gewerblicher Arbeit freigegeben."
+        },
+        {
+          "question": "Welche Qualität produziert er?",
+          "answer": "Unser Generator liefert professionelle Schrei-Stimme, die Industriestandards entspricht. Sie erhalten Hochauflösungs-Optionen, vollen Frequenzbereich und klare Dynamik. Alle Ausgaben sind rundfunkbereit und geeignet für professionelle Produktion und kreative Projekte."
+        }
+      ]
+    }
+  }
+}

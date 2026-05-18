@@ -1,0 +1,79 @@
+{
+  "sound-effect-board": {
+    "meta": {
+      "title": "Sound Effect Board",
+      "description": "Create unique sound effects with our sound effect board, generating various types including natural sounds, musical instruments and more.",
+      "keywords": "sound effect board, sound effects soundboard"
+    },
+    "hero": {
+      "title": "Sound Effect Board",
+      "subtitle": "Transform your text descriptions into high-quality sound effect"
+    },
+    "generator_subtitle": "Select from popular prompts below or write your own description to generate sound effect",
+    "advantages": {
+      "title": "Why Choose Our Sound Effect Board?",
+      "items": [
+        {
+          "title": "Instant Sound Effect Creation",
+          "description": "Generate professional effects instantly from text with our sound effect board. The sound effects soundboard turns your ideas into high-quality audio in seconds, removing the need for large libraries or manual editing. Create unlimited effect assets for any project with a few clicks using our sound effect board.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Unlimited Creative Possibilities",
+          "description": "Create any type of effect you imagine, from natural ambience to futuristic audio textures. Our sound effect board understands detailed prompts and produces what you envision. Explore variations tailored to your needs with this versatile sound effects soundboard.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professional-Grade Audio Quality",
+          "description": "Every effect is generated with high-fidelity output and balanced dynamics. Our sound effect board delivers production-ready audio, and the sound effects soundboard helps keep results consistent across workflows.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "About Sound Effect Board",
+      "items": [
+        {
+          "question": "What is a sound effect board?",
+          "answer": "A sound effect board is a tool that converts text descriptions into custom audio effects using AI. An audio effects soundboard helps creators generate effect assets quickly for content, games, and interactive experiences, with consistent, editable output."
+        },
+        {
+          "question": "How does the sound effect board work?",
+          "answer": "The sound effect board analyzes your prompt (source, environment, intensity, duration), maps it to acoustic attributes, then generates audio with neural models. The sound effects soundboard finishes with light processing so outputs are clean, stable, and ready to edit."
+        },
+        {
+          "question": "What makes this sound effect board unique?",
+          "answer": "This sound effect board focuses on fast iteration and controllable variations. Instead of browsing packs, you describe what you need and the sound effects soundboard generates options that stay coherent, speeding up production."
+        },
+        {
+          "question": "How to write effective prompts for generating audio effects?",
+          "answer": "Write prompts with specifics: source (\"metal hit\"), setting (\"warehouse\"), distance (\"close\"), and timing (\"0.8s tail\"). Add modifiers like \"muffled\" or \"bright\" so the sound effect board can generate effects that match your mix. The sound effects soundboard performs best with clear context and constraints."
+        },
+        {
+          "question": "How to use audio effects effectively in video content?",
+          "answer": "Use the sound effect board to generate effects for transitions, impacts, and ambience beds. Create a few close variants, then layer and automate levels under dialogue. The sound effects soundboard helps keep edits fast and the mix natural."
+        },
+        {
+          "question": "How to utilize audio effects in game development?",
+          "answer": "In games, use the sound effect board to build effect families (footsteps, UI clicks, abilities) with variations to reduce repetition. The sound effects soundboard also helps prototype ambience early, then refine later for final polish."
+        },
+        {
+          "question": "How to create effective white noise and ambient audio?",
+          "answer": "Describe texture and motion (\"soft brown noise with gentle air\" or \"room tone with distant traffic\"). The audio effect board can generate layered ambience you can loop and fade, and the sound effects soundboard helps you iterate quickly."
+        },
+        {
+          "question": "What types of audio effects can I create?",
+          "answer": "With the sound effect board, you can create effects across many categories: nature ambience, mechanical impacts, UI feedback, cinematic hits, sci-fi textures, musical elements, and room tone. The sound effects soundboard supports both quick drafts and production-ready output."
+        },
+        {
+          "question": "Are the generated audio effects royalty-free?",
+          "answer": "Yes. Effects generated with the audio effect board are royalty-free and suitable for commercial use. You can use outputs from the sound effects soundboard in projects without extra licensing steps."
+        },
+        {
+          "question": "What is the quality of generated audio effects?",
+          "answer": "The sound effect board targets clean, professional output with stable dynamics and low artifacts. For best results, generate a few variants in the sound effects soundboard, pick the most natural take, then do light EQ or level matching."
+        }
+      ]
+    }
+  }
+}

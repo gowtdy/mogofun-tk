@@ -1,0 +1,71 @@
+{
+  "funny-scream": {
+    "meta": {
+      "title": "Cri drôle",
+      "description": "Créez instantanément un cri drôle avec notre IA avancée : sons naturels, instruments et bien plus encore.",
+      "keywords": "cri drôle, cris comiques"
+    },
+    "hero": {
+      "title": "Cri drôle",
+      "subtitle": "Transformez instantanément une description textuelle en cri drôle de haute qualité"
+    },
+    "generator_subtitle": "Choisissez parmi les prompts populaires ci-dessous ou rédigez votre propre description pour générer un cri drôle",
+    "advantages": {
+      "title": "Pourquoi choisir notre générateur de cris drôles ?",
+      "items": [
+        {
+          "title": "Prises de cri drôle à partir de texte simple",
+          "description": "Décrivez un jappement exagéré, un hurlement cartoon ou un cri d'horreur parodique et recevez un clip poli sans enregistrer des comédiens ni fouiller des packs d'horreur. Le modèle saisit la hauteur, la durée et le timing comique pour adapter les résultats aux punchlines d'animation, échecs de jeu ou segments de podcast. Itérez vite lorsque chaque épisode exige une réaction neuve. Une passe de cri drôle propre aide les scènes à tomber juste tout en gardant les cris comiques maîtrisés dans le mix.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Contrôler l'énergie sans perdre la blague",
+          "description": "Demandez une interprétation maniaque, deadpan ou exagérée ; des notes plus claires sur la distance et le souffle gardent la performance lisible dans le mix. Mentionnez si la cue passe sous le dialogue pour que le générateur raccourcisse la tenue. Exportez des queues que vous pouvez gater ou fondre pour des montages serrés. Calibrez chaque cri drôle sur l'image pour que les accents de cris comiques ne masquent jamais les sous-titres.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Des niveaux qui tiennent la lecture réelle",
+          "description": "Les téléchargements visent des crêtes intelligibles et une dynamique gérable pour que le limitage du master n'écrase pas la blague. Préécoutez sur haut-parleurs d'ordinateur portable et écouteurs—là où les indices comiques atterrissent ou disparaissent. Des montages de cri drôle loudness-matchés font que les moments de cris comiques se traduisent sur tous les appareils.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "À propos de l'audio de cri drôle",
+      "items": [
+        {
+          "question": "Qu'est-ce qu'un générateur de cri drôle ?",
+          "answer": "C'est un flux IA qui synthétise des clips de cris comiques à partir de texte plutôt que de réserver des acteurs ou d'échantillonner des uploads aléatoires. Vous précisez personnage, intensité et contexte—méchant cartoon, joueur paniqué, narrateur sarcastique—et téléchargez un fichier prêt pour la timeline ou le middleware de jeu. Cela permet à un concept de cri drôle de se ramifier en plusieurs prises de cris comiques rapidement."
+        },
+        {
+          "question": "Comment l'outil transforme-t-il les prompts en audio ?",
+          "answer": "Le système infère luminosité, râpe, durée et pauses respiratoires depuis votre description, puis rend une prise alignée sur ce brief. Ajustez adjectifs, indices de genre ou d'âge et indices de scénario entre passes jusqu'à ce que le cri drôle corresponde à votre beat. Itérez jusqu'à ce que le rythme des cris comiques se verrouille sur le montage image."
+        },
+        {
+          "question": "Quand choisir des cris comiques synthétisés plutôt que des cris stock ?",
+          "answer": "Les bibliothèques stock penchent souvent vers l'effrayant ou le générique. La synthèse sur mesure suit votre formulation, utile quand il vous faut des cris comiques qui restent cohérents avec une marque de personnage ou d'émission, et évite le même rip viral que tout le monde. Un cri drôle sur mesure conserve aussi des motifs de cris comiques récurrents frais d'un épisode à l'autre."
+        },
+        {
+          "question": "Comment rédiger des prompts pour un cri drôle crédible ?",
+          "answer": "Nommez la persona, la raison du cri et combien de temps la queue doit résonner. Des exemples comme « cri nasal court après un faux jump scare » ou « long cri cartoon essoufflé avec queue de réverb » surpassent les demandes d'un seul mot. Mentionnez si le clip doit passer sous la musique. Un prompt de cri drôle précis donne des cris comiques avec moins de réessais."
+        },
+        {
+          "question": "Comment mixer un cri drôle dans des shorts ou des streams ?",
+          "answer": "Alignez le transient sur le coup visuel, baissez la musique de fond de quelques dB et utilisez un clipper ou limiteur doux si les crêtes explosent. Vérifiez la compatibilité mono pour que la blague survive sur téléphone et casques bon marché. Placez chaque cri drôle légèrement en avance du mouvement lorsque les cris comiques doivent sonner secs."
+        },
+        {
+          "question": "Quelles variations au-delà d'un cri drôle basique ?",
+          "answer": "Essayez cris de groupe, rafales de panique staccato, gags chuchotement-vers-cri ou plaintes faux-opéra. Ajouter le cadre—farce de bureau, combat de boss, parodie de maison hantée—garde le ton aligné sur votre intrigue. Faites tourner des variantes de cri drôle pour que les rappels de cris comiques restent surprenants."
+        },
+        {
+          "question": "L'audio généré est-il libre de droits ?",
+          "answer": "Oui. Les téléchargements sont libres de droits pour usage créateur et commercial typique sous notre licence, sans frais par clip. Relisez les dernières conditions sur la page produit avant grosses campagnes pub ou broadcast."
+        },
+        {
+          "question": "Quelle qualité dois-je attendre ?",
+          "answer": "Attendez-vous à une clarté pleine bande adaptée aux suites de montage et à la lecture mobile. Passez votre mastering habituel si vous avez besoin d'un niveau broadcast pour que chaque cri drôle s'équilibre avec narration et partition. Un mastering cohérent aide les textures de cris comiques à rester claires dans les mixes denses."
+        }
+      ]
+    }
+  }
+}

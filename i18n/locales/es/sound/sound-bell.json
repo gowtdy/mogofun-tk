@@ -1,0 +1,75 @@
+{
+  "sound-bell": {
+    "meta": {
+      "title": "Sonido de campana",
+      "description": "Crea sonido de campana al instante con nuestra tecnología de IA avanzada. Genera diversos tipos de audio: audio natural, instrumentos musicales y más.",
+      "keywords": "sonido de campana, sonido de campanas"
+    },
+    "hero": {
+      "title": "Sonido de campana",
+      "subtitle": "Transforma descripciones de texto en sonido de campana de alta calidad al instante"
+    },
+    "generator_subtitle": "Elige entre los prompts populares de abajo o escribe tu propia descripción para generar sonido de campana",
+    "advantages": {
+      "title": "¿Por qué elegir nuestro generador de sonido de campana?",
+      "items": [
+        {
+          "title": "Creación instantánea de sonido de campana",
+          "description": "Crea clips de sonido de campana profesionales al instante desde texto con nuestro generador de IA. La herramienta convierte tus ideas en audio de campanada y repique de alta calidad en segundos, sin bibliotecas de muestras ni edición manual. Genera variaciones ilimitadas para cualquier proyecto con unos clics. Ya sea sonido de campanas, campanada de iglesia o timbre de puerta, ofrece salida de sonido de campana en calidad de estudio para tus proyectos creativos.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Posibilidades creativas ilimitadas",
+          "description": "Usa nuestro generador para crear cualquier estilo de sonido de campana que imagines—desde tono de iglesia hasta campanada de puerta. La herramienta entiende descripciones complejas y te da libertad creativa total. Explora opciones infinitas para vídeos, juegos y apps. Desde golpes únicos hasta sonido de campanas en capas, obtén el clip de sonido de campana perfecto para cada escenario.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Calidad de audio profesional",
+          "description": "Cada clip de sonido de campana de nuestro generador cumple estándares de emisión con salida de alta fidelidad. Algoritmos punteros garantizan resultados en calidad de estudio para sonido de campana y sonido de campanas. Todos los clips están listos para producción y optimizados para uso profesional. Ofrece cobertura de frecuencia completa y dinámica controlada para salida auténtica de campanada y repique.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "FAQ generador de sonido de campana",
+      "items": [
+        {
+          "question": "¿Qué es un generador de sonido de campana?",
+          "answer": "Un generador de sonido de campana es una herramienta de IA que convierte descripciones de texto en audio personalizado de campanada y repique. El nuestro usa procesamiento de lenguaje natural y síntesis neural de audio para producir clips de calidad profesional. Modelos de deep learning entrenados con conjuntos de datos de campanada y repique entienden tu descripción y generan variaciones coincidentes. Es adecuado para creadores de contenido, editores de vídeo y desarrolladores de juegos que necesitan salida rápida y auténtica de sonido de campana y sonido de campanas. La herramienta usa tu contexto y detalles para crear audio matizado y en capas. Para sonido de campanas pulido u otros estilos, ofrece resultados de sonido de campana precisos y de alta fidelidad."
+        },
+        {
+          "question": "¿Cómo funciona?",
+          "answer": "La herramienta usa un pipeline en varias etapas para convertir texto en audio de alta calidad. Primero analiza tu descripción para capturar rasgos como tono, resonancia, duración y estilo. Esa información pasa por redes neuronales entrenadas para síntesis de campanada y repique, que manejan frecuencia, dinámica y decaimiento. Entrenada con muestras profesionales, la IA produce salida natural. El filtrado y el postprocesado mantienen cada clip de sonido de campana cumpliendo estándares de emisión."
+        },
+        {
+          "question": "¿Qué hace único este generador?",
+          "answer": "Nuestro generador destaca por la personalización instantánea y la calidad profesional. A diferencia de bibliotecas estáticas, crea clips de sonido de campana a medida bajo demanda. Está entrenado con muestras de alta calidad para resultados realistas, incluidos sonido de campanas y estilos de campanada variados. El sistema entiende descripciones complejas y produce salida de sonido de campana con control fino del tono y el contexto. Obtienes variaciones ilimitadas y libertad creativa."
+        },
+        {
+          "question": "¿Cómo escribo prompts efectivos para el generador?",
+          "answer": "Escribe descripciones claras y concretas con varios detalles. En lugar de solo \"campanada\", prueba \"sonido de campana con reverb\" o \"sonido de campanas con eco.\" Incluye estilo, tono, duración y rasgos distintivos. Responde bien a términos como sonido de campana, sonido de campanas y resonancia. Para escenarios complejos, divídelos en partes y explica cómo se combinan. Más contexto da mejores resultados."
+        },
+        {
+          "question": "¿Cómo usarlo en contenido de vídeo?",
+          "answer": "Mapea las escenas de tu vídeo y coloca clips de sonido de campana personalizados donde aporten impacto. Te ayuda a crear audio de campanada y repique para cada momento—desde señales sutiles hasta hits dramáticos, incluido sonido de campanas. Superpone varias variaciones para un audio rico y envolvente. Úsalo para transiciones, títulos y escenas clave. Usa momentos distintos como sonido de campanas para subrayar tiempo o lugar. La herramienta te permite construir un estilo de audio único que encaje con tu contenido."
+        },
+        {
+          "question": "¿Cómo usarlo en desarrollo de juegos?",
+          "answer": "Soporta audio procedural para juegos. Crea variaciones de sonido de campana y sonido de campanas para que los jugadores rara vez oigan el mismo clip dos veces. Construye sistemas que reaccionen al estado del juego, acciones del jugador y condiciones. Produce opciones distintas para UI, niveles y eventos manteniendo un estilo consistente. La salida en capas puede mezclarse dinámicamente a partir de los parámetros del juego. La herramienta ofrece sonido de campana de calidad profesional que mejora la inmersión y el feedback."
+        },
+        {
+          "question": "¿Qué tipos de sonido de campana puedo crear?",
+          "answer": "Puedes crear una amplia gama: campanada de iglesia, timbre de puerta, sonido de campanas para ambiente o UI, intensidades (suave a fuerte) y estilos (iglesia, puerta, cartoon, cinematográfico). La herramienta trata estas categorías con calidad consistente. Ya necesites campanada ligera o clips de repique fuertes, ofrece resultados de sonido de campana profesionales para cualquier proyecto."
+        },
+        {
+          "question": "¿Los clips de sonido de campana generados son libres de derechos?",
+          "answer": "Sí. Todo el audio de nuestro generador es libre de derechos e incluye licencia comercial. Puedes usar los clips generados en cualquier proyecto sin cargos adicionales ni atribución. Cada clip, incluida la salida de sonido de campanas, está autorizado para uso inmediato en trabajo profesional y comercial."
+        },
+        {
+          "question": "¿Qué calidad produce?",
+          "answer": "Produce audio de calidad profesional que cumple estándares de la industria. Obtienes opciones de sonido de campana y sonido de campanas en alta resolución hasta 192 kHz/24-bit, rango de frecuencia completo y dinámica controlada. Toda la salida está lista para emisión. Cada clip es adecuado para producción profesional y proyectos creativos."
+        }
+      ]
+    }
+  }
+}

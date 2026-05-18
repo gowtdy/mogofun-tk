@@ -1,0 +1,79 @@
+{
+  "funny-audios": {
+    "meta": {
+      "title": "Audios divertidos",
+      "description": "Crea audios divertidos únicos con IA avanzada de efectos de sonido; genera tipos variados: sonidos naturales, instrumentos y más.",
+      "keywords": "audios divertidos, sonido divertido"
+    },
+    "hero": {
+      "title": "Audios divertidos",
+      "subtitle": "Convierte tus descripciones de texto en audios divertidos de alta calidad"
+    },
+    "generator_subtitle": "Elige entre los prompts populares de abajo o escribe tu propia descripción para generar audios divertidos",
+    "advantages": {
+      "title": "¿Por qué generar audios divertidos desde prompts de texto?",
+      "items": [
+        {
+          "title": "Audios divertidos en segundos",
+          "description": "Describe stings, golpes de reacción, pops de dibujos o voces cercanas a memes en lenguaje sencillo y obtén stems mezclables al instante—sin desplazarte sin fin por sitios antes de la fecha límite. Las salidas siguen siendo cortas para que reels, pódcasts y superposiciones sigan siendo contundentes. Duplica audios divertidos para cortes verticales, recorta colas en cada pase y archiva audios divertidos de repuesto para repiques.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Versionar sketches en todos los formatos",
+          "description": "Replica un chiste en vertical, cuadrado y horizontal ajustando prompts en lugar de reconstruir sesiones enteras. Mantén el timbre coherente al variar duración o intensidad para que cada edición de plataforma siga sintiéndose intencionada. Cuando audios divertidos abarrotados tapen la VO, acorta decaimientos; cuando audios divertidos finos pierdan punch, ensancha verbos; haz QC de cada lote de audios divertidos antes del doblaje.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Sonoridad pensada para el móvil",
+          "description": "La dinámica apunta a auriculares y altavoces de teléfono típicos. Procesa audios divertidos en lote para una campaña manteniendo picos predecibles bajo el diálogo y luego aplica tu limitador o pasada de sonoridad habitual en la DAW. Enruta audios divertidos promocionales el lunes, actualiza los más viejos a mitad de semana e imprime los finales tras el picture lock.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Audios divertidos: preguntas y respuestas",
+      "items": [
+        {
+          "question": "¿Qué son los “audios divertidos” en esta herramienta?",
+          "answer": "Clips cómicos breves—stings, zumbadores, pops de dibujos o vocalizaciones juguetonas—creados desde texto en lugar de extraer archivos desconocidos. Obtienes stems legales dimensionados para reels, pódcasts, anuncios y pruebas A/B rápidas. Si un sting debe sonar divertido en el móvil, aclara transientes con suavidad en lugar de aplastar la ganancia."
+        },
+        {
+          "question": "¿Cómo un prompt se convierte en un clip listo para mezclar?",
+          "answer": "Describes timbre, duración y golpe (“rimshot seco 0,25 s”). Los modelos renderizan formas de onda compactas; un procesamiento ligero doma picos para reproducción móvil. Descarga, normaliza si tu cadena lo exige e insértalo en el montaje. Los editores quieren que los spots de cliente suenen divertidos sin tapar la cama de voz en off."
+        },
+        {
+          "question": "¿Cómo hago que las exportaciones suenen divertidas sin clipping?",
+          "answer": "Mantén picos por debajo de 0 dBFS, usa un limitador suave tras el gain staging y pasa en alto el barro que se apila con la música. Si el brillo resulta áspero en auriculares, doma ligeramente 3–6 kHz en lugar de aplastar todo el bus. Los estudiantes quieren que los explicadores suenen divertidos y sigan siendo seguros en clase a bajo volumen."
+        },
+        {
+          "question": "¿Cómo debo escribir prompts para el timing de memes?",
+          "answer": "Indica el tropo, el giro emocional y una duración. Menciona la plataforma si importa—las mezclas verticales suelen necesitar transientes más brillantes. Compara líneas concretas como “sad trombone wah” con “cartoon fail brass” y refina. Los bots pueden hacer que las alertas suenen divertidas sin recortar altavoces baratos de portátil."
+        },
+        {
+          "question": "¿Puedo superponer clips bajo el diálogo?",
+          "answer": "Sí—baja la narración unos pocos dB, acorta el decaimiento si el chiste tapa palabras y haz notch en frecuencias compartidas cuando la música sea densa. Sidechain o ganancia de clip como con cualquier otro SFX. Los equipos de pódcast quieren bumpers divertidos junto a VO seca sin bombear el bus."
+        },
+        {
+          "question": "¿Sirve para alertas de stream o bots?",
+          "answer": "Genera stings hermanos para follows, raids y canjes para mantener alertas frescas. Mapea archivos a atajos o comandos y sigue las últimas pautas de audio de cada plataforma. QA: cada exportación debe sonar divertida a bajo volumen antes de emitir en directo."
+        },
+        {
+          "question": "¿Qué estilos funcionan mejor?",
+          "answer": "Rimshots, zumbidos de kazoo, silbatos de corredera, zumbadores de respuesta incorrecta, muelles y golpes cercanos a memes. Separa one-shots de las camas para poder hacer duck a la música sin matar el room tone. Los animadores necesitan SFX que suenen divertidos sobre camas musicales planas sin lavar el diálogo."
+        },
+        {
+          "question": "¿Las descargas son libres de royalties?",
+          "answer": "Los archivos se publican bajo la licencia mostrada al descargar—normalmente cubriendo streams, anuncios y ediciones de cliente sin tasas extra de sincronización. Archiva PDFs para patrocinadores y revisa términos al renovar campañas. Los patrocinadores piden que las promos suenen divertidas antes de que la música entre y se coma el tag."
+        },
+        {
+          "question": "¿Qué calidad debo esperar?",
+          "answer": "Stems de alta resolución con dinámica controlada para que los golpes se lean en móviles y monitores de estudio. Pasa por tu etapa habitual de sonoridad si aplican normas de broadcast. La masterización debe hacer que los finales suenen divertidos tanto en auriculares como en televisores de salón."
+        },
+        {
+          "question": "¿Quién se beneficia más?",
+          "answer": "Editores, productores de pódcast y community managers que publican comedia a diario. Los equipos que necesitan audios divertidos nuevos cada temporada pueden iterar prompts en lugar de reconstruir bibliotecas enteras. Rota audios divertidos estacionales cuando cambien los ganchos; itera tomas hasta que los reels suenen divertidos en cada preset de plataforma."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "cry-sounds": {
+    "meta": {
+      "title": "Sons de choro",
+      "description": "Crie sons de choro instantaneamente com nossa tecnologia de IA avançada. Gere diversos tipos de sons de choro: clips naturais, instrumentos musicais e mais.",
+      "keywords": "sons de choro, choro e grito"
+    },
+    "hero": {
+      "title": "Sons de choro",
+      "subtitle": "Transforme descrições em texto em sons de choro de alta qualidade instantaneamente"
+    },
+    "generator_subtitle": "Selecione entre os prompts populares abaixo ou escreva sua própria descrição para gerar sons de choro",
+    "advantages": {
+      "title": "Por que escolher nosso gerador?",
+      "items": [
+        {
+          "title": "Criação instantânea de sons de choro",
+          "description": "Crie clipes vocais profissionais instantaneamente a partir de texto com nosso gerador de IA. A ferramenta transforma suas ideias em sons de choro e áudio de personagem de alta qualidade em segundos, sem bibliotecas de amostras ou edição manual. Gere variações ilimitadas para jogos, vídeos e apps. Seja choro de dor, efeito sonoro de choro, ou choro e grito para terror, o gerador entrega sons de choro em qualidade de estúdio para seus projetos.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Possibilidades criativas ilimitadas",
+          "description": "Use nosso gerador para criar qualquer estilo de sons de choro que imaginar—de soluços sutis a lamentos intensos. A ferramenta entende descrições complexas e dá liberdade criativa total. Explore opções para jogos, filmes e mídia. De vocais de personagem a choro e grito variado para cada cenário, obtenha o clipe perfeito para seu projeto.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualidade de áudio profissional",
+          "description": "Todo clipe do nosso gerador atende aos padrões de transmissão com saída de alta fidelidade. Algoritmos de ponta garantem resultados em qualidade de estúdio. Toda a saída está pronta para produção e otimizada para uso profissional. O gerador oferece cobertura de frequência completa e dinâmica clara para sons de choro autênticos. Choro e grito que soam consistentes em qualquer projeto.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "FAQ gerador",
+      "items": [
+        {
+          "question": "O que é este gerador?",
+          "answer": "É uma ferramenta de IA que transforma descrições em texto em áudio vocal e de personagem personalizado, incluindo sons de choro. O nosso usa processamento de linguagem natural e síntese neural de áudio para produzir clipes de qualidade profissional. Você pode criar sons de choro para terror, jogos ou filmes. É ideal para criadores de conteúdo, desenvolvedores de jogos e cineastas que precisam de saída rápida e autêntica. O gerador também suporta choro e grito para estilos e climas variados."
+        },
+        {
+          "question": "Como funciona?",
+          "answer": "Nosso gerador usa um pipeline em várias etapas para transformar texto em sons de choro de alta qualidade. Primeiro analisa sua descrição para capturar traços como intensidade, personagem e duração. Essas informações passam por redes neurais treinadas para síntese vocal e de choro. Treinado com amostras profissionais, a IA produz sons de choro naturais e realistas. Filtragem e pós-processamento mantêm a qualidade alta e garantem que todo clipe atenda aos padrões de transmissão."
+        },
+        {
+          "question": "O que torna este gerador único?",
+          "answer": "Nosso gerador se destaca pela personalização instantânea e qualidade profissional. Diferente de bibliotecas estáticas, ele cria clipes sob medida sob demanda. O sistema entende descrições complexas e produz saída com controle fino de intensidade e estilo. Você obtém variações ilimitadas e liberdade criativa. Choro e grito para jogos e filmes são fáceis de adaptar sem trabalho de produção extra."
+        },
+        {
+          "question": "Como escrevo prompts eficazes para ele?",
+          "answer": "Escreva descrições claras e específicas. Tente \"choro de dor\" ou \"efeito sonoro de choro\". Para sons de choro, diga \"choro\" ou \"choro e grito\". Inclua intensidade, tipo de personagem e contexto. Nosso gerador responde bem a termos como soluço, lamento e choro. Mais contexto gera melhores resultados para choro e grito e outros tons vocais."
+        },
+        {
+          "question": "Como posso usá-lo em conteúdo de vídeo?",
+          "answer": "Coloque clipes vocais personalizados onde as cenas precisam de tensão ou reação. O gerador ajuda a criar sons de choro e áudio de personagem para intros, transições e momentos-chave. Sobreponha variações de sons de choro para design de áudio rico e envolvente. Use para filmes, vlogs e tutoriais. A ferramenta permite construir um estilo de áudio único que combina com seu conteúdo."
+        },
+        {
+          "question": "Como posso usá-lo em desenvolvimento de jogos?",
+          "answer": "Nosso gerador suporta áudio procedural para jogos. Crie variações para que os jogadores raramente ouçam o mesmo clipe duas vezes. Construa sistemas que reajam ao estado do jogo, perigos e eventos. Produza opções diferentes para personagens, cutscenes e momentos emocionais mantendo um estilo consistente. Choro e grito podem ser mixados dinamicamente a partir dos parâmetros do jogo. O gerador entrega áudio de qualidade profissional que aumenta imersão e impacto."
+        },
+        {
+          "question": "Que tipos de sons de choro posso criar?",
+          "answer": "Você pode criar uma ampla gama: choro de dor, efeito sonoro de choro, choro e grito, e opções personalizadas. O gerador os trata com qualidade consistente. Seja soluços sutis ou clipes vocais marcantes para qualquer cenário, a ferramenta entrega saída profissional. Choro e grito para terror e jogos são suportados com controle criativo total."
+        },
+        {
+          "question": "Os clipes de sons de choro gerados são livres de royalties?",
+          "answer": "Sim. Todos os sons de choro do nosso gerador são livres de royalties e incluem licença comercial. Você pode usar os clipes de sons de choro gerados em qualquer projeto sem taxas extras ou atribuição. Todo clipe está liberado para uso imediato em trabalho profissional e comercial."
+        },
+        {
+          "question": "Que qualidade ele produz?",
+          "answer": "Nosso gerador produz sons de choro de qualidade profissional que atenden aos padrões da indústria. Você obtém opções de alta resolução, faixa de frequência completa e dinâmica clara. Toda a saída está pronta para transmissão e é adequada para produção profissional e projetos criativos."
+        }
+      ]
+    }
+  }
+}

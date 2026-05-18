@@ -1,0 +1,71 @@
+{
+  "sounds-buttons": {
+    "meta": {
+      "title": "Sounds Buttons",
+      "description": "用我们先进的 AI 技术即时创作 sounds buttons 风格提示音。可生成自然声、乐器等多种类型。",
+      "keywords": "sounds buttons, sounds buttions"
+    },
+    "hero": {
+      "title": "Sounds Buttons",
+      "subtitle": "即时把文字描述转化为高品质 sounds buttons 音频"
+    },
+    "generator_subtitle": "从下方热门提示中选择，或自行撰写描述以生成 sounds buttons 音频",
+    "advantages": {
+      "title": "为什么选择我们的 Sounds Buttons 生成器？",
+      "items": [
+        {
+          "title": "数秒内生成 Sounds Buttons 片段",
+          "description": "用简单提示即可生成短促有力的提示音，无需录音或复杂效果链。该流程便于为直播、应用与社交剪辑快速搭建 sounds buttons 素材，并保持命名与输出风格一致。",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "适配任意交互的灵活风格",
+          "description": "可微调起音、衰减与质感，使每条提示贴合你的用户体验或内容风格。可生成活泼点击、戏剧性刺点与干净确认音，再整理成可复用的 sounds buttons 素材库。若需在元数据中承接误拼搜索，可加入有限度的 sound buttions 变体，而不打乱主文案。",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "专业级音质",
+          "description": "每次导出都干净、可混音，在各设备上稳定。受控动态与清晰瞬态有助于 sounds buttons 合集从手机播放到桌面与流媒体都保持良好听感。",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "关于我们的 Sounds Buttons 生成器",
+      "items": [
+        {
+          "question": "什么是 sounds buttons 生成器？",
+          "answer": "这是一种把文字提示转为适用于产品界面、内容编辑与直播互动的短交互提示音的 AI 声音工具。可为具体动作创建 sounds buttons 集合，再在页面与工作流间复用，并保持质量一致。"
+        },
+        {
+          "question": "sounds buttons 工具如何工作？",
+          "answer": "模型从描述中读取时长、音色、冲击力与播放情境，再合成匹配的音频。从中性基线开始，迭代音色、能量与时机，直到整套提示与每个界面事件吻合。"
+        },
+        {
+          "question": "为什么比静态素材包更好？",
+          "answer": "静态包容易显得重复，也常需要额外清理。基于提示的生成可按需给出贴合场景的结果，帮助团队在菜单、提醒与转场之间保持 sounds buttons 交互的辨识度。"
+        },
+        {
+          "question": "怎样写提示更有效？",
+          "answer": "用简洁指令写清意图与时机，例如「短促明亮的确认点击」或「带快衰减的暖色界面哔声」。补充目标界面、时长与情绪等语境，可减少返工并提高输出一致性。"
+        },
+        {
+          "question": "能否承接常见误拼搜索？",
+          "answer": "可以。可将 sounds buttons 作为主要关键词，并在元数据或常见问题中加入有限度的 sound buttions 变体，帮助误拼搜索仍能命中正确素材，同时保持正文可读。"
+        },
+        {
+          "question": "生成的提示音适合用在哪里？",
+          "answer": "适合游戏界面事件、新手引导、社交短片、直播叠加层、问答互动与剪辑转场等。结构化的 sounds buttons 色板有助于产品保持可识别的听感标识，又少依赖重复的素材味。"
+        },
+        {
+          "question": "生成声音是否免版税？",
+          "answer": "是。在我们标准条款下，输出对常见创作者与商业项目免版税。大规模付费投放或特殊分发要求前请查阅当前许可细节。"
+        },
+        {
+          "question": "导出质量可以期待什么？",
+          "answer": "可期待瞬态清晰、峰值受控、各设备播放行为可靠的成片向文件。仍可用最终 EQ 与响度处理，使每条提示与全片混音及平台目标对齐。"
+        }
+      ]
+    }
+  }
+}

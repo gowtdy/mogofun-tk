@@ -1,0 +1,71 @@
+{
+  "taco-bell-sound-effect": {
+    "meta": {
+      "title": "Efecto de sonido Taco Bell",
+      "description": "Crea al instante efectos de sonido estilo Taco Bell con nuestra IA avanzada. Genera varios tipos de sonidos: naturales, instrumentos y más.",
+      "keywords": "efecto de sonido taco bell, sonido de cañón"
+    },
+    "hero": {
+      "title": "Efecto de sonido Taco Bell",
+      "subtitle": "Transforma al instante una descripción en texto en efecto de sonido Taco Bell de alta calidad"
+    },
+    "generator_subtitle": "Elige entre los prompts populares de abajo o escribe tu propia descripción para generar efecto de sonido Taco Bell",
+    "advantages": {
+      "title": "Por qué elegir nuestro generador de efecto de sonido Taco Bell",
+      "items": [
+        {
+          "title": "Crea clips Taco Bell al instante",
+          "description": "Genera un efecto de sonido Taco Bell limpio a partir de un prompt corto en segundos. Acelera la ideación para ediciones cortas, memes, momentos de UI y transiciones de marca sin pasar horas buscando en bibliotecas stock. Duplica tomas para comparar el brillo del efecto Taco Bell con un transitorio de sonido de cañón emparejado.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Moldea tono, punch y resonancia",
+          "description": "Ajusta ataque, sustain y brillo para cortes cómicos o golpes dramáticos. Si la escena necesita más impacto, mezcla un concepto sutil de capa de «sonido de cañón» en tu prompt para mayor fuerza percibida sin perder claridad. Menciona primero el carácter Taco Bell y luego apila graves para que la campana siga legible frente a esa masa extra del concepto de capa de cañón.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Calidad de audio profesional",
+          "description": "Las salidas vienen listas para mezclar con loudness estable y detalle transitorio coherente. Las colas del efecto Taco Bell se mantienen definidas cuando golpean picos de sonido de cañón cerca, ayudando a que las señales funcionen en móvil, escritorio y streaming sin perder definición en bandas sonoras densas.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Sobre nuestro generador de efecto de sonido Taco Bell",
+      "items": [
+        {
+          "question": "¿Qué es un generador de efecto de sonido Taco Bell?",
+          "answer": "Es una herramienta de audio con IA que convierte prompts de texto en señales de campana estilizadas. Puedes producir rápidamente un efecto Taco Bell que encaje en el timing, ritmo y tono general del montaje sin sesiones de grabación manual. Añade descriptores de sonido de cañón en el mismo prompt cuando quieras un golpe extra tras el strike Taco Bell."
+        },
+        {
+          "question": "¿Cómo funciona el generador?",
+          "answer": "El modelo interpreta descriptores como duración del repique, color metálico e intensidad, luego sintetiza audio que coincide con esos detalles. Itera desde un brillo ligero Taco Bell hasta transitorios contundentes de cañón cuando la historia necesite un golpe mayor."
+        },
+        {
+          "question": "¿Puedo combinar sabor de campana con energía de cañón?",
+          "answer": "Sí. Pide un golpe corto de cañón bajo tu pista Taco Bell para que se sienta impacto sin perder la identidad de la campana. Eso puede crear un golpe percibido mayor en transiciones manteniendo reconocible el carácter Taco Bell."
+        },
+        {
+          "question": "¿Cómo debo escribir prompts eficaces?",
+          "answer": "Mantén los prompts concisos y específicos: menciona carácter de fuente, duración, brillo tonal e intención de mezcla. Por ejemplo pide un \"efecto Taco Bell con decaimiento ajustado\" o un \"único hit de cañón antes del drop\" cuando necesites timing claro de UI."
+        },
+        {
+          "question": "¿Dónde puedo usar estos sonidos generados?",
+          "answer": "Funcionan bien en ediciones de reacción, clips sociales, stingers de stream, transiciones de podcast y feedback de juegos. Usa stingers Taco Bell para timing cómico y golpes de cañón para beats de hype—la personalización coherente facilita mantener un estilo de audio reconocible entre proyectos."
+        },
+        {
+          "question": "¿El audio generado es libre de regalías?",
+          "answer": "Sí. Los archivos generados son libres de regalías según nuestros términos de licencia estándar para uso común de creadores y comercial. Consulta los detalles de la política vigente antes de grandes campañas o acuerdos especiales de distribución."
+        },
+        {
+          "question": "¿Qué calidad debo esperar de las exportaciones?",
+          "answer": "Espera archivos listos para producción con respuesta transitoria clara, dinámica controlada y reproducción fiable, incluso cuando picos de cañón vecinan tonos de campana brillantes. Aún puedes aplicar tu propia cadena de EQ y limitación para alinear loudness y tonalidad finales."
+        },
+        {
+          "question": "¿Cómo mantener un efecto Taco Bell claro en mezclas cargadas?",
+          "answer": "Usa colas cortas, escava un pequeño bolsillo de EQ alrededor de frecuencias de diálogo competidoras y mantén un control moderado de picos. Así el efecto Taco Bell sigue presente sin enmascarar voz o elementos musicales clave."
+        }
+      ]
+    }
+  }
+}

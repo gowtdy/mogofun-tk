@@ -1,0 +1,75 @@
+{
+  "truck-horn": {
+    "meta": {
+      "title": "Truck Horn",
+      "description": "Instantly create truck horn with our advanced AI technology. Generate various type sounds including natural sounds, musical instruments and more.",
+      "keywords": "truck horn, truck horn sound"
+    },
+    "hero": {
+      "title": "Truck Horn",
+      "subtitle": "Instantly transform text description into high-quality truck horn"
+    },
+    "generator_subtitle": "Select from popular prompts below or write your own description to generate truck horn",
+    "advantages": {
+      "title": "Why Choose Our Truck Horn Generator?",
+      "items": [
+        {
+          "title": "Instant Truck Horn Creation",
+          "description": "Generate professional truck horn sound instantly from text. Our tool turns your descriptions into short blasts, long honks, and air-horn style audio in seconds—no field recording or large libraries. Create unlimited variations for video, games, or ads. Whether you need a single beep, blasts for traffic, or layered honks, the generator delivers clean, broadcast-ready results.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Unlimited Creative Possibilities",
+          "description": "Create any style of truck horn you need: classic air horn, electric beep, deep blast, or distant blasts. The generator understands detailed descriptions and produces matching audio for full creative freedom. Explore variations for film, podcasts, and content. From subtle warning to dramatic blast, find the right fit for every project.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professional-Grade Audio Quality",
+          "description": "All truck horn generated meets broadcast standards with high-fidelity output. The generator uses modern algorithms so each truck horn sound is clear and production-ready. Outputs are optimized for video, film, and media. Get consistent, studio-quality audio for your work.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "About Truck Horn Generator",
+      "items": [
+        {
+          "question": "What is a truck horn generator?",
+          "answer": "A truck horn generator is an AI tool that turns text into custom truck horn sound such as short beep, long honk, or air-horn blast. It produces professional audio for video, games, and ads without recording or large libraries. The system uses neural synthesis trained on real vehicle horns, so you get natural, usable results. It's built for creators who need quick, varied truck horn effects for any project."
+        },
+        {
+          "question": "How does the truck horn generator work?",
+          "answer": "Our generator reads your text description and picks out traits like type, length, and intensity. It then synthesizes matching audio—single beep, double honk, or sustained blast. You can request a warning blast, a distant blare, or alert in traffic. The result is clean, ready-to-use file you can download and drop into your project."
+        },
+        {
+          "question": "What makes this truck horn generator unique?",
+          "answer": "Unlike fixed libraries, our truck horn generator creates new variations on demand from plain text. You get custom truck horn sound without searching through thousands of files. The AI is trained on high-quality vehicle horn audio, so each result is consistent and professional. Generate as many variations as you need for every scene or edit."
+        },
+        {
+          "question": "How to write effective prompts for truck horn?",
+          "answer": "Use clear, specific descriptions. For example: \"truck horn short beep at intersection\" or \"loud truck horn sound on highway.\" Mention horn type (air horn, electric, classic), length (short, long, sustained), and context (traffic, warning, distant). The generator responds well to terms like honk, blast, beep, and truck horn sound. More detail helps the output match your vision."
+        },
+        {
+          "question": "How to use truck horn in video content?",
+          "answer": "Use truck horn sound to add realism to driving scenes, ads, or documentaries. Add a single honk for emphasis, layer audio under traffic b-roll, or use distant truck horn sound for atmosphere. Vary the intensity—louder for action, softer for background. Our generator lets you create enough variations so each scene has a fitting result without repetition."
+        },
+        {
+          "question": "How to use truck horn in game development?",
+          "answer": "Truck horn sound works well for driving games, traffic ambience, and UI feedback. Use truck horn sound for vehicle alerts, warning signals, or open-world traffic. Our generator supports many truck horn sound variations so you can keep a consistent style. Create distinct sets for different vehicles or situations with clear, professional output."
+        },
+        {
+          "question": "What types of truck horn can I create?",
+          "answer": "You can create a wide range of truck horn sound: short beep, long honk, air-horn blast, electric beep, single or double, and distant or close. Use truck horn sound for film, games, podcasts, or any project needing vehicle audio. The generator handles different contexts and styles with consistent quality for all your truck horn sound needs."
+        },
+        {
+          "question": "Are the generated truck horn royalty-free?",
+          "answer": "Yes. All truck horn from our generator are royalty-free and come with a commercial license. You can use them in any project without extra fees or attribution. Every generated file is cleared for professional and commercial use. Download as many as you need for your projects."
+        },
+        {
+          "question": "What is the quality of the generated truck horn?",
+          "answer": "Our truck horn generator outputs professional-grade audio that meets common broadcast and production standards. You get high-resolution files, full frequency range, and controlled dynamics so each truck horn sound is clear and ready to drop into your project. Every generated file is suitable for professional use in video, film, and content."
+        }
+      ]
+    }
+  }
+}

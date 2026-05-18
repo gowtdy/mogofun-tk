@@ -1,0 +1,71 @@
+{
+  "button-soundboard": {
+    "meta": {
+      "title": "Button Soundboard",
+      "description": "Créez instantanément un button soundboard grâce à notre IA avancée. Générez divers types d’audio : sons naturels, instruments, etc.",
+      "keywords": "button soundboard, meme buttons"
+    },
+    "hero": {
+      "title": "Button Soundboard",
+      "subtitle": "Transformez instantanément une description textuelle en audio button soundboard de haute qualité"
+    },
+    "generator_subtitle": "Choisissez une invite populaire ci-dessous ou rédigez la vôtre pour générer des signaux button soundboard",
+    "advantages": {
+      "title": "Pourquoi choisir notre générateur Button Soundboard ?",
+      "items": [
+        {
+          "title": "Créez un Button Soundboard en quelques secondes",
+          "description": "Créez des signaux courts et percutants à partir d’invites simples, sans séances d’enregistrement ni chaînes d’édition complexes. Ce flux aide les créateurs à construire rapidement un button soundboard pour le streaming, les apps et les clips sociaux tout en gardant la tonalité et le timing cohérents.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Des styles flexibles pour toute interaction",
+          "description": "Réglez attaque, déclin et caractère pour que chaque signal corresponde à votre UX ou à votre style de contenu. Générez des clics ludiques, des stings dramatiques et des confirmations nettes, puis regroupez-les dans un seul button soundboard. Des libellés meme buttons optionnels dans les métadonnées ou le packaging court peuvent aider la découverte sans bourrage de mots-clés.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualité audio de niveau professionnel",
+          "description": "Chaque export est propre, prêt au mixage et stable sur tous les appareils. Une dynamique maîtrisée et des transitoires nets aident vos assets button soundboard à passer du mobile au bureau et au streaming.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "À propos de notre générateur Button Soundboard",
+      "items": [
+        {
+          "question": "Qu’est-ce qu’un générateur button soundboard ?",
+          "answer": "C’est un outil audio IA qui transforme des invites textuelles en courts signaux interactifs pour l’UI, le montage de contenu et les interactions en direct. Vous pouvez créer un button soundboard pour des actions précises et le réutiliser sur les pages produit et les flux vidéo."
+        },
+        {
+          "question": "Comment fonctionne l’outil button soundboard ?",
+          "answer": "Le modèle lit des descripteurs comme durée, timbre, punch et contexte de lecture, puis synthétise l’audio correspondant. Partez d’une base neutre, itérez sur l’énergie et la clarté, puis finalisez un jeu de signaux adapté au timing de l’interface."
+        },
+        {
+          "question": "Pourquoi est-ce mieux que des packs statiques ?",
+          "answer": "Les packs statiques peuvent sembler répétitifs et nécessitent souvent un nettoyage supplémentaire. La génération par invite donne des résultats adaptés à la scène à la demande, ce qui rend votre button soundboard plus distinct pour menus, alertes et transitions."
+        },
+        {
+          "question": "Comment rédiger des invites efficaces ?",
+          "answer": "Utilisez des instructions concises avec intention et timing, par ex. « court clic de confirmation clair » ou « bip d’interface chaleureux avec déclin rapide ». Ajoutez le contexte (écran cible, durée, ambiance) pour réduire les retouches et améliorer la cohérence."
+        },
+        {
+          "question": "Puis-je optimiser pour les mèmes et la recherche sociale ?",
+          "answer": "Oui. Gardez button soundboard comme terme principal et ajoutez meme buttons avec parcimonie dans des métadonnées, titres ou FAQ sélectionnés pour coller à l’intention de recherche sociale tout en gardant un texte lisible."
+        },
+        {
+          "question": "Où utiliser les signaux générés ?",
+          "answer": "Dans les événements d’UI de jeu, les parcours d’onboarding, les clips sociaux, les overlays de stream, les quiz et les transitions de montage. Un button soundboard structuré aide les équipes à garder une identité audio reconnaissable et à itérer vite sur des signaux pour formats courts."
+        },
+        {
+          "question": "Le son généré est-il libre de droits ?",
+          "answer": "Oui. Les sorties sont libres de droits selon nos conditions standard pour les projets créateurs et commerciaux courants. Consultez les détails de licence avant les grandes campagnes payantes ou les distributions spécifiques."
+        },
+        {
+          "question": "Quelle qualité puis-je attendre des exports ?",
+          "answer": "Des fichiers prêts pour la prod avec transitoires nets, pics maîtrisés et lecture fiable sur tous les appareils. Vous pouvez encore appliquer EQ et loudness finaux pour aligner chaque signal avec votre mix global et les cibles plateforme."
+        }
+      ]
+    }
+  }
+}

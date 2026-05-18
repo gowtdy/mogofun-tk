@@ -1,0 +1,75 @@
+{
+  "fireworks-sound": {
+    "meta": {
+      "title": "Sonido de fuegos artificiales",
+      "description": "Crea sonido de fuegos artificiales al instante con nuestra tecnología de IA avanzada. Genera diversos tipos de sonidos, incluidos sonidos naturales, instrumentos musicales y más.",
+      "keywords": "sonido fuegos artificiales, efectos de sonido fuegos artificiales"
+    },
+    "hero": {
+      "title": "Sonido de fuegos artificiales",
+      "subtitle": "Transforma descripciones de texto en sonido de fuegos artificiales de alta calidad al instante"
+    },
+    "generator_subtitle": "Selecciona entre los prompts populares de abajo o escribe tu propia descripción para generar sonido de fuegos artificiales",
+    "advantages": {
+      "title": "¿Por qué elegir nuestro generador de sonido de fuegos artificiales?",
+      "items": [
+        {
+          "title": "Creación instantánea de sonido de fuegos artificiales",
+          "description": "Genera audio pirotécnico profesional y efectos de sonido de fuegos artificiales al instante a partir del texto. Nuestra herramienta convierte tus descripciones en explosiones, silbidos, crepitaciones y estruendos en segundos—sin grabación de campo ni bibliotecas grandes. Crea variaciones ilimitadas para vídeo, anuncios o eventos. Ya sea una sola explosión, audio para Año Nuevo o efectos en capas, el generador ofrece resultados limpios y listos para emisión.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Posibilidades creativas ilimitadas",
+          "description": "Crea cualquier estilo de audio de fuegos artificiales que necesites: espectáculo lejano, explosión en primer plano, crepitación de bengala o efectos de sonido de gran final. El generador entiende descripciones detalladas y produce efectos de sonido correspondientes para total libertad creativa. Explora variaciones para cine, podcasts y contenido. Del destello sutil al audio pirotécnico masivo, encuentra el ajuste adecuado para cada proyecto.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Calidad de audio profesional",
+          "description": "Todo audio pirotécnico generado cumple los estándares de emisión con salida de alta fidelidad. El generador usa algoritmos modernos para que cada resultado de efectos de sonido sea claro y listo para producción. Las salidas están optimizadas para vídeo, cine y medios. Obtén audio pirotécnico consistente y con calidad de estudio para tu trabajo.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Sobre el generador de sonido de fuegos artificiales",
+      "items": [
+        {
+          "question": "¿Qué es un generador de sonido de fuegos artificiales?",
+          "answer": "Un generador de sonido de fuegos artificiales es una herramienta de IA que convierte texto en sonido de fuegos artificiales personalizado y efectos de sonido como explosiones, silbidos, crepitaciones y estruendos. Produce audio profesional para vídeo, juegos y anuncios sin grabación ni bibliotecas grandes. El sistema usa síntesis neuronal entrenada en audio pirotécnico real, así que obtienes resultados naturales y utilizables. Está pensado para creadores que necesitan efectos de sonido de fuegos artificiales rápidos y variados para cualquier proyecto."
+        },
+        {
+          "question": "¿Cómo funciona el generador de audio pirotécnico?",
+          "answer": "Nuestro generador lee tu descripción de texto y extrae rasgos como tipo de explosión, distancia e intensidad. Luego sintetiza el audio pirotécnico correspondiente—estruendo único, efectos de sonido rápidos o espectáculo lejano. Puedes pedir crepitación de bengala, gran final o fuegos de Año Nuevo. El resultado es un archivo limpio y listo para usar que puedes descargar e incorporar a tu proyecto."
+        },
+        {
+          "question": "¿Qué hace único a este generador de sonido de fuegos artificiales?",
+          "answer": "A diferencia de bibliotecas fijas, nuestro generador de audio pirotécnico crea nuevas variaciones bajo demanda a partir de texto plano. Obtienes efectos de sonido personalizados sin buscar en miles de archivos. La IA está entrenada con audio pirotécnico de alta calidad, así que cada resultado es consistente y profesional. Genera tantas variaciones de efectos de sonido como necesites para cada escena o edición."
+        },
+        {
+          "question": "¿Cómo escribir prompts efectivos para sonido de fuegos artificiales?",
+          "answer": "Usa descripciones claras y concretas. Por ejemplo: \"explosión única de fuego artificial en el cielo nocturno\" o \"espectáculo lejano con silbidos.\" Menciona el tipo de explosión (estruendo, crepitación, silbido), la distancia (cerca, lejos) y el contexto (Año Nuevo, celebración, final). El generador responde bien a términos como explosión, estruendo, crepitación y efectos de sonido fuegos artificiales. Más detalle ayuda a que la salida coincida con tu visión."
+        },
+        {
+          "question": "¿Cómo usar sonido de fuegos artificiales en contenido de vídeo?",
+          "answer": "Usa el audio pirotécnico para resaltar celebraciones, finales o momentos clave. Superpone explosiones bajo material de apoyo, añade un estruendo para impacto o usa efectos de sonido lejanos para ambiente. Varía la intensidad—más fuerte para clímax, más suave para fondo. Nuestro generador te permite crear suficientes variaciones para que cada escena tenga un audio pirotécnico adecuado sin repetición."
+        },
+        {
+          "question": "¿Cómo usar sonido de fuegos artificiales en desarrollo de juegos?",
+          "answer": "El audio pirotécnico funciona bien para pantallas de victoria, celebraciones y nivel completado. Usa explosiones para recompensas, gran final para hitos y efectos de sonido de fuegos artificiales para momentos festivos. Nuestro generador admite muchas variaciones para mantener un estilo consistente. Crea conjuntos distintos para distintos eventos con salida clara y profesional."
+        },
+        {
+          "question": "¿Qué tipos de sonido de fuegos artificiales puedo crear?",
+          "answer": "Puedes crear una amplia gama de audio pirotécnico y efectos de sonido: explosión única, secuencia rápida, silbido, crepitación, estruendo, espectáculo lejano, gran final. Úsalos para cine, juegos, podcasts o cualquier proyecto que necesite audio pirotécnico. El generador maneja distintos contextos y estilos con calidad consistente de efectos de sonido."
+        },
+        {
+          "question": "¿El audio pirotécnico generado es libre de regalías?",
+          "answer": "Sí. Todo audio pirotécnico generado por nuestro generador es libre de regalías y viene con licencia comercial. Puedes usarlo en cualquier proyecto sin cargos extra ni atribución. Cada archivo de efectos de sonido generado está autorizado para uso profesional y comercial. Descarga tantos como necesites para tus proyectos."
+        },
+        {
+          "question": "¿Cuál es la calidad del audio pirotécnico generado?",
+          "answer": "Nuestro generador de audio pirotécnico produce audio de nivel profesional que cumple los estándares habituales de emisión y producción. Obtienes archivos de alta resolución, rango de frecuencias completo y dinámica controlada para que cada resultado de efectos de sonido sea claro y listo para incorporar a tu proyecto. Todo archivo generado es adecuado para uso profesional en vídeo, cine y contenido."
+        }
+      ]
+    }
+  }
+}

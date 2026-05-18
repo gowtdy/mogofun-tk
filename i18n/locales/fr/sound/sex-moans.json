@@ -1,0 +1,71 @@
+{
+  "sex-moans": {
+    "meta": {
+      "title": "Gémissements sexuels",
+      "description": "Créez instantanément des gémissements sexuels grâce à notre technologie IA avancée. Générez différents types de sons, y compris des sons naturels, des instruments et plus encore.",
+      "keywords": "gémissements sexuels, son de gémissement sexuel"
+    },
+    "hero": {
+      "title": "Gémissements sexuels",
+      "subtitle": "Transformez instantanément une description texte en gémissements sexuels de haute qualité"
+    },
+    "generator_subtitle": "Choisissez un prompt populaire ci-dessous ou écrivez votre propre description pour générer des gémissements sexuels",
+    "advantages": {
+      "title": "Pourquoi choisir notre générateur de gémissements sexuels ?",
+      "items": [
+        {
+          "title": "Création instantanée",
+          "description": "Générez instantanément des gémissements sexuels professionnels et des variantes sonores expressives à partir de texte.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Créativité sans limite",
+          "description": "Créez le style dont vous avez besoin: intensité variée, humeurs différentes et rendus adaptés à chaque scène.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualité audio professionnelle",
+          "description": "Tous les sons générés respectent des standards de production avec un rendu clair et prêt à l'emploi.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "À propos du générateur de gémissements sexuels",
+      "items": [
+        {
+          "question": "Qu'est-ce qu'un générateur de gémissements sexuels ?",
+          "answer": "C'est un outil IA qui transforme du texte en audio vocal adulte et expressif, personnalisé selon vos besoins."
+        },
+        {
+          "question": "Comment fonctionne-t-il ?",
+          "answer": "Il lit votre description, détecte l'ambiance, l'intensité et le style, puis synthétise un rendu vocal correspondant."
+        },
+        {
+          "question": "Qu'a-t-il de différent ?",
+          "answer": "Contrairement aux bibliothèques fixes, il crée de nouvelles variations à la demande à partir de texte simple."
+        },
+        {
+          "question": "Comment écrire de bons prompts ?",
+          "answer": "Utilisez des descriptions claires et précises, avec le contexte, l'intensité et l'émotion souhaités."
+        },
+        {
+          "question": "Comment utiliser l'audio généré ?",
+          "answer": "Vous pouvez superposer l'audio sous une vidéo, l'associer à d'autres pistes et ajuster l'intensité selon la scène."
+        },
+        {
+          "question": "Quels types d'audio puis-je créer ?",
+          "answer": "Vous pouvez créer des gémissements doux à intenses, avec différentes ambiances et styles."
+        },
+        {
+          "question": "Les fichiers générés sont-ils libres de droits ?",
+          "answer": "Oui. Les fichiers générés sont libres de droits et incluent une licence commerciale."
+        },
+        {
+          "question": "Quelle est la qualité des sons générés ?",
+          "answer": "La qualité est professionnelle, avec un rendu propre, stable et utilisable immédiatement en production."
+        }
+      ]
+    }
+  }
+}

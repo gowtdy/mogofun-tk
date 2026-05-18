@@ -1,0 +1,79 @@
+{
+  "funny-audios": {
+    "meta": {
+      "title": "Funny Audios",
+      "description": "Create unique funny audios with advanced sound effect AI technology, generate various types including natural sounds, musical instruments and more.",
+      "keywords": "funny audios, sound funny"
+    },
+    "hero": {
+      "title": "Funny Audios",
+      "subtitle": "Transform your text descriptions into high-quality funny audios "
+    },
+    "generator_subtitle": "Select from popular prompts below or write your own description to generate funny audios",
+    "advantages": {
+      "title": "Why Generate Funny Audios From Text Prompts?",
+      "items": [
+        {
+          "title": "Funny Audios Ready in Seconds",
+          "description": "Describe stings, reaction hits, cartoon pops, or meme-adjacent vocals in plain language and get mixable stems fast—no more endless site scrolling before a deadline. Outputs stay short so reels, podcasts, and overlays stay punchy. Duplicate funny audios for vertical cuts, trim tails on every funny audios pass, and archive spare funny audios for pickups.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Version Skits Across Formats",
+          "description": "Duplicate a joke across vertical, square, and landscape cuts by tweaking prompts instead of rebuilding whole sessions. Keep timbre consistent while varying length or intensity so each platform edit still feels intentional. When crowded funny audios mask VO, shorten decays; when thin funny audios miss punch, widen verbs; QC every batch of funny audios before the dub stage.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Phone-First Loudness",
+          "description": "Dynamics target typical earbuds and phone speakers. Batch funny audios for a campaign while keeping peaks predictable under dialogue, then run your usual limiter or loudness pass in the DAW. Route promo funny audios on Monday, refresh older funny audios midweek, and print deliverable funny audios after picture lock.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Funny Audios: Questions & Answers",
+      "items": [
+        {
+          "question": "What are funny audios in this tool?",
+          "answer": "Short comedic clips—stings, buzzers, cartoon pops, or playful vocalizations—authored from text instead of ripping unknown files. You get legal stems sized for reels, podcasts, ads, and rapid A/B tests. If a sting should sound funny on phones, brighten transients lightly instead of smashing gain."
+        },
+        {
+          "question": "How does a prompt become a mix-ready clip?",
+          "answer": "You describe timbre, length, and punch (\"dry rimshot 0.25s\"). Models render tight waveforms, then light processing tames peaks for mobile playback. Download, normalize if your router requires it, and slot into the edit. Editors want client spots to sound funny without masking the voiceover bed."
+        },
+        {
+          "question": "How can I make exports sound funny without clipping?",
+          "answer": "Keep peaks below zero dBFS, use a gentle limiter after gain staging, and high-pass mud that stacks with music. If brightness feels harsh on earbuds, tame 3–6 kHz slightly rather than smashing the whole bus. Students hope explainers sound funny yet stay classroom-safe at low playback levels."
+        },
+        {
+          "question": "How should I prompt for meme timing?",
+          "answer": "State the trope, the emotional flip, and a duration. Mention platform if it matters—vertical mixes often need brighter transients. Compare concrete lines like \"sad trombone wah\" with \"cartoon fail brass\" and refine. Bots can make alerts sound funny without clipping cheap laptop speakers."
+        },
+        {
+          "question": "Can I layer clips under dialogue?",
+          "answer": "Yes—duck narration a few dB, shorten decay if the joke masks words, and notch shared frequencies when music is dense. Sidechain or clip-gain like any other SFX. Podcast teams want bumpers to sound funny beside dry VO without pumping the bus."
+        },
+        {
+          "question": "Good for stream alerts or bots?",
+          "answer": "Generate sibling stings for follows, raids, and redeems so alerts stay fresh. Map files to hotkeys or commands and follow each platform's latest audio guidelines. QA checks every export should sound funny at low volume before you go live."
+        },
+        {
+          "question": "What styles work best?",
+          "answer": "Rimshots, kazoo buzzes, slide whistles, wrong-answer buzzers, spring boings, and meme-adjacent impacts. Split one-shots from beds so you can duck music without killing room tone. Animators need SFX to sound funny against flat music beds without washing dialogue."
+        },
+        {
+          "question": "Are downloads royalty-free?",
+          "answer": "Files release under the license shown at download—typically covering streams, ads, and client edits without extra sync fees. Archive PDFs for sponsors and re-check terms when campaigns renew. Sponsors ask promos to sound funny before music sweeps in and buries the tag."
+        },
+        {
+          "question": "What quality should I expect?",
+          "answer": "High-resolution stems with controlled dynamics so hits read on phones and studio monitors alike. Run through your usual loudness stage if broadcast specs apply. Mastering passes should make finals sound funny on earbuds and living-room TVs alike."
+        },
+        {
+          "question": "Who benefits most?",
+          "answer": "Editors, podcast producers, and community managers shipping daily comedy. Teams that need fresh funny audios each season can iterate prompts instead of rebuilding whole libraries from scratch. Rotate seasonal funny audios whenever hooks swap; iterate takes until reels sound funny on each platform preset."
+        }
+      ]
+    }
+  }
+}

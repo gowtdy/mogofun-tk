@@ -1,0 +1,75 @@
+{
+  "train-sounds": {
+    "meta": {
+      "title": "Sonidos de tren",
+      "description": "Crea sonidos de tren al instante con nuestra tecnología de IA avanzada. Genera diversos tipos de audio: tonos naturales, instrumentos y más.",
+      "keywords": "sonidos de tren, sonido de tren"
+    },
+    "hero": {
+      "title": "Sonidos de tren",
+      "subtitle": "Transforma descripciones de texto en sonidos de tren de alta calidad al instante"
+    },
+    "generator_subtitle": "Elige entre los prompts populares de abajo o escribe tu propia descripción para generar sonidos de tren",
+    "advantages": {
+      "title": "¿Por qué elegir nuestro generador de sonidos de tren?",
+      "items": [
+        {
+          "title": "Creación instantánea de sonidos de tren",
+          "description": "Genera sonidos de tren profesionales al instante desde el texto. Nuestra herramienta convierte tus descripciones en silbato y paso en segundos—sin bibliotecas grandes ni edición manual. Crea variaciones ilimitadas para cualquier proyecto. Ya sea sonidos de tren nítidos para la interfaz o sonido de tren completo para una escena, el generador entrega resultados limpios y listos para emisión.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Posibilidades creativas ilimitadas",
+          "description": "Crea cualquier estilo de sonidos de tren que necesites: silbato, paso, interior cabina o ambiente sonido de tren. El generador entiende descripciones detalladas y produce audio correspondiente, con total libertad creativa. Explora variaciones infinitas de sonidos de tren para juegos, vídeos y aplicaciones. De sutil a dramático, encuentra el ajuste adecuado para cada proyecto.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Calidad de audio profesional",
+          "description": "Todos los sonidos de tren generados cumplen estándares de emisión con salida de alta fidelidad. El generador usa algoritmos modernos para que cada clip sea claro y listo para producción. Todas las salidas están optimizadas para uso profesional en vídeo, juegos y contenido. Obtén sonidos de tren y sonido de tren consistentes, de calidad de estudio.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Sobre el generador de sonidos de tren",
+      "items": [
+        {
+          "question": "¿Qué es un generador de sonidos de tren?",
+          "answer": "Un generador de sonidos de tren es una herramienta de IA que convierte texto en sonido de tren personalizado y audio ferroviario. Produce salida profesional para juegos, vídeos y aplicaciones. El sistema usa síntesis de audio neuronal entrenada con muestras reales de ferrocarril, para resultados naturales y utilizables sin grabación ni bibliotecas grandes. Está pensado para creadores, desarrolladores de juegos y editores que necesitan sonidos de tren rápidos y variados para cualquier proyecto."
+        },
+        {
+          "question": "¿Cómo funciona el generador de sonidos de tren?",
+          "answer": "Nuestro generador primero lee tu descripción de texto y extrae rasgos como intensidad, estilo y contexto. Luego los procesa con modelos entrenados en silbato, ferrocarril y paso para sintetizar clips correspondientes. Puedes pedir un sonido de tren corto para la interfaz o ambientación más larga. El resultado es un archivo limpio y listo para usar que puedes descargar y usar en tu proyecto."
+        },
+        {
+          "question": "¿Qué hace único a este generador de sonidos de tren?",
+          "answer": "A diferencia de bibliotecas fijas, nuestro generador crea nuevo sonido de tren y audio ferroviario bajo demanda a partir de texto plano. Obtienes clips personalizados sin buscar en miles de archivos. La IA está entrenada con muestras ferroviarias de alta calidad, así que cada resultado es consistente y profesional. Puedes generar tantas variaciones como necesites para encontrar el ajuste adecuado para cada escena o interacción."
+        },
+        {
+          "question": "¿Cómo escribir prompts efectivos para sonidos de tren?",
+          "answer": "Usa descripciones claras y específicas. Por ejemplo: \"sonido de tren para un silbato\" o \"paso\". Menciona estilo (realista, cinematográfico), contexto (juego, vídeo, película) e intensidad. El generador responde bien a términos como silbato, ferrocarril, paso y bocina. Cuantos más detalles des, más se acercará la salida a tu visión. Incluye duración o estilo si es importante para tu proyecto."
+        },
+        {
+          "question": "¿Cómo usar audio ferroviario en contenido de vídeo?",
+          "answer": "Usa sonido de tren y audio ferroviario para dar realismo a escenas de viaje, documentales o anuncios. Coloca un silbato corto o paso donde encaje con la acción. Superpone clips o ambiente de cabina para momentos clave en montajes. Varía la intensidad—sutil en fondo, más nítida en foco. Nuestro generador permite crear suficientes variaciones para que cada escena tenga un resultado adecuado sin repetición."
+        },
+        {
+          "question": "¿Cómo usar audio ferroviario en desarrollo de juegos?",
+          "answer": "El sonido de tren y los clips ferroviarios funcionan bien para juegos de transporte, títulos de mundo abierto y ambiente de nivel. Usa un sonido de tren nítido para interfaz o escena de corte, y ambiente más completo para escenas en el juego. Nuestro generador admite muchas variaciones para mantener un estilo consistente y evitar repetición. Crea conjuntos distintos para diferentes ubicaciones o épocas. El resultado es audio claro y profesional que encaja con la sensación de tu juego."
+        },
+        {
+          "question": "¿Qué tipos de sonidos de tren puedo crear?",
+          "answer": "Puedes crear una amplia gama de sonido de tren: silbato, paso, interior cabina, ambiente y bocina. Úsalos para juegos, vídeos, película o cualquier necesidad relacionada con ferrocarril. El generador maneja distintos contextos y estilos con calidad consistente, desde hits únicos hasta clips en capas. Explora varias opciones para cualquier necesidad de producción."
+        },
+        {
+          "question": "¿Los clips generados son libres de regalías?",
+          "answer": "Sí. Todos los clips de sonido de tren de nuestro generador son libres de regalías y vienen con licencia comercial. Puedes usar el audio generado en cualquier proyecto sin costes adicionales ni atribución. Cada archivo generado está autorizado para uso profesional y comercial. Descarga tantos como necesites para tus proyectos."
+        },
+        {
+          "question": "¿Qué calidad tienen los sonidos de tren generados?",
+          "answer": "Nuestro generador produce sonidos de tren de nivel profesional que cumplen estándares habituales de emisión y producción. Obtienes archivos de alta resolución, rango de frecuencias completo y dinámica controlada, de modo que cada clip sea claro y listo para incorporar a tu proyecto. Cada sonido de tren y sonidos de tren generados son adecuados para uso profesional en vídeo, juegos y aplicaciones."
+        }
+      ]
+    }
+  }
+}

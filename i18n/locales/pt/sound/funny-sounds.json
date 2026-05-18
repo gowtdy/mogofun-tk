@@ -1,0 +1,79 @@
+{
+  "funny-sounds": {
+    "meta": {
+      "title": "Sons engraçados",
+      "description": "Crie sons engraçados únicos com IA avançada de efeitos sonoros: sons naturais, instrumentos e mais.",
+      "keywords": "sons engraçados, efeitos sonoros engraçados"
+    },
+    "hero": {
+      "title": "Sons engraçados",
+      "subtitle": "Transforme descrições de texto em sons engraçados de alta qualidade"
+    },
+    "generator_subtitle": "Escolha entre os prompts populares abaixo ou escreva sua própria descrição para gerar sons engraçados",
+    "advantages": {
+      "title": "Por que gerar sons engraçados com nossa IA?",
+      "items": [
+        {
+          "title": "Sons engraçados a partir de texto simples em segundos",
+          "description": "Descreva uma piada, sting ou reação em linguagem cotidiana e receba stems mixáveis quase na hora—sem mergulhos maratônicos em bibliotecas. A IA de efeitos sonoros mantém níveis sensatos para você focar na edição de imagem e ritmo. Duplique sons engraçados para masters verticais e quadrados, corte a cauda de cada som engraçado ao quadro e arquive sons engraçados sobressalentes para pickups.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Molde o tom cômico sem cabine",
+          "description": "Ajuste adjetivos, duração e espaço para atingir slapstick, humor seco ou exagero absurdo. Prompts em camadas permitem audicionar alternativas para reels, esboços, podcasts ou floreios de UI até a piada ler claramente. Quando sons engraçados em camadas lotam a locução, encurte o decay; quando sons engraçados finos faltam punch, regenere; assine só depois que esses sons engraçados passem no QC.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Níveis prontos para entrega em canais",
+          "description": "As exportações permanecem controladas para diálogo, partitura e metas de loudness das plataformas. Equipes podem processar sons engraçados em lote para uma temporada ou campanha mantendo pegada sonora consistente com pouco mastering extra. Roteie promos de sons engraçados na segunda, atualize sons engraçados mais antigos na terça e imprima sons engraçados entregáveis na quarta com códigos de data.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Sons engraçados: perguntas e respostas",
+      "items": [
+        {
+          "question": "O que significam \"sons engraçados\" aqui?",
+          "answer": "Indicações cômicas curtas e intencionais—bonks de cartoon, whooshes bobos, stings de meme, foley exagerado—feitas a partir de texto em vez de microfones. Você obtém stems para soltar em edições, jogos ou cortes sociais sem reconstruir sessões inteiras. Compradores que comparam pacotes de efeitos sonoros engraçados online ainda devem confirmar contagem de stems e páginas de licença."
+        },
+        {
+          "question": "Como o texto vira áudio?",
+          "answer": "Os prompts são lidos para ação, personagem, timing e dicas acústicas. Modelos sintetizam formas de onda que encaixam no briefing, depois processamento leve estabiliza dinâmica. Ajuste palavras, regenere e teste A/B na timeline. Pesquisadores que digitam efeitos sonoros engraçados na busca querem filtros comédia primeiro sem ruído de thriller."
+        },
+        {
+          "question": "Como devo escrever prompts?",
+          "answer": "Comece com o beat da piada (escorregão, rimshot, arranhão de disco), adicione cenário (sala apertada vs arena) e duração (\"sting de um segundo\"). Compare linhas concretas como \"estalo de borracha esticada\" com humores mais amplos e refine com feedback de ouvintes. Mencione efeito sonoro engraçado sting nos prompts para enviesar o modelo para transientes cômicos."
+        },
+        {
+          "question": "Por que as pessoas buscam efeitos sonoros engraçados online?",
+          "answer": "A frase exata efeitos sonoros engraçados aparece quando editores querem hits cômicos sem primeiro vasculhar trailers sérios. Prompts estruturados aqui pulam resultados ruidosos e miram direto no tom que você descreve. Assistentes que etiquetam bins de efeitos sonoros engraçados mantêm cues de comédia separadas de bibliotecas de drama."
+        },
+        {
+          "question": "Posso usar clips no YouTube ou TikTok?",
+          "answer": "Sim—as saídas visam fluxos típicos de criadores. Emparelhe stems com imagem, rotacione variações para evitar fadiga e siga as políticas atuais de cada plataforma. Guarde recibos de download e notas de licença para clientes. Equipes de canal que testam promos de efeitos sonoros engraçados devem seguir a política de áudio publicitário de cada app."
+        },
+        {
+          "question": "Ajuda em jogos ou apps?",
+          "answer": "Designers prototipam gags de UI, power-ups e linhas de falha antes de travar uma biblioteca. Gere cues irmãos para que gatilhos pareçam frescos em jogo longo. Padronize vencedores entre builds ou guarde alternativas para eventos raros. Designers que ligam hits de UI de efeitos sonoros engraçados devem fazer A/B antes de enviar builds."
+        },
+        {
+          "question": "Quais estilos são comuns?",
+          "answer": "Impactos slapstick, pausas constrangedoras, flops de metal, vocais bobos, buzzers e piadas musicais híbridas. Peça camas e socos separadamente ou imprima stems para misturar na DAW. Mixers que empilham camas de efeitos sonoros engraçados sob a partitura devem entalhar lama compartilhada com música."
+        },
+        {
+          "question": "Os downloads são livres de royalties?",
+          "answer": "Os arquivos saem com amplos direitos comerciais e pessoais sob a licença mostrada no download—geralmente cobrindo anúncios, apps e streams sem taxas extras de sincronização. Arquive o acordo e releia quando as políticas mudarem. Supervisores que revisam arquivos de efeitos sonoros engraçados antes de renovações devem exportar PDFs de licença para finanças."
+        },
+        {
+          "question": "Que qualidade de áudio devo esperar?",
+          "answer": "Material em alta resolução com dinâmica controlada para que os stems fiquem ao lado de narração e partitura. Aplique seu loudness interno como faria com qualquer SFX de terceiros. Tiragens cinematográficas ainda passam pela sua cadeia de mastering habitual. Engenheiros de mastering que imprimem finais de efeitos sonoros engraçados ainda executam metas de loudness internas de ponta a ponta."
+        },
+        {
+          "question": "Quem tira mais valor?",
+          "answer": "Editores, desenvolvedores independentes, educadores e equipes sociais com prazos apertados. Qualquer pessoa que precise de sons engraçados frescos sem reservar talentos pode iterar em minutos; grandes estúdios podem usar as saídas como áudio rascunho antes da gravação final. Atualize sons engraçados sazonais quando a criativa da campanha girar. Showrunners que storyboardam sequências de efeitos sonoros engraçados devem rotular cues para assistentes ficarem alinhados."
+        }
+      ]
+    }
+  }
+}

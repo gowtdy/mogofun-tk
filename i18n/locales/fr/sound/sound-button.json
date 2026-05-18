@@ -1,0 +1,71 @@
+{
+  "sound-button": {
+    "meta": {
+      "title": "Bouton sonore",
+      "description": "Créez instantanément des indices de bouton sonore grâce à notre IA avancée. Générez divers types d’audio : nature, instruments, et plus encore.",
+      "keywords": "bouton sonore, clic interface"
+    },
+    "hero": {
+      "title": "Bouton sonore",
+      "subtitle": "Transformez instantanément une description textuelle en audio de bouton sonore de haute qualité"
+    },
+    "generator_subtitle": "Choisissez parmi les invites populaires ci-dessous ou rédigez votre propre description pour générer un audio de bouton sonore",
+    "advantages": {
+      "title": "Pourquoi choisir notre générateur de bouton sonore ?",
+      "items": [
+        {
+          "title": "Créez des clips en quelques secondes",
+          "description": "Créez des indices courts et percutants à partir d’invites simples sans séance d’enregistrement ni chaîne d’édition complexe. Le générateur aide à tester rapidement timing et ton pour le streaming, les montages mèmes, les interactions d’app et le contenu de marque. Dupliquez les passes pour comparer un clic serré à une variante plus douce jusqu’à ce que votre jeu de boutons sonores reste cohérent.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Styles flexibles pour toute interaction",
+          "description": "Réglez attaque, déclin et caractère pour que chaque bouton sonore s’aligne sur votre UX ou votre style de contenu. Générez des clics ludiques, des stings dramatiques, des tapes rétro et des confirmations minimales tout en gardant une identité sonore cohérente. Indiquez intention et durée dans l’invite pour des résultats plus clairs.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualité audio digne du pro",
+          "description": "Chaque export est propre, prêt au mix et stable sur tous les appareils. Le modèle préserve le détail transitoire et une dynamique maîtrisée pour que chaque bouton sonore reste clair dans les mixes denses. Un profil de loudness cohérent aide vos indices à bien passer du mobile au bureau et au streaming.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "À propos de notre générateur de bouton sonore",
+      "items": [
+        {
+          "question": "Qu’est-ce qu’un générateur de bouton sonore ?",
+          "answer": "C’est un outil sonore IA qui transforme des invites textuelles en courtes indications interactives. Au lieu de parcourir de longues bibliothèques, vous générez un bouton sonore qui correspond au timing, à l’humeur et aux exigences de plateforme en quelques secondes. Vous pouvez créer une indication par action, regrouper un jeu pour un parcours produit et garder une cohérence entre écrans."
+        },
+        {
+          "question": "Comment fonctionne l’outil ?",
+          "answer": "Le modèle lit des descripteurs comme durée, timbre, punch et contexte de lecture, puis synthétise le son autour de ces indices. Partez d’une base neutre, puis itérez vers une prise plus brillante ou plus douce jusqu’à ce que cela convienne à votre UI. Vous pouvez resserrer le timing, adoucir la dureté ou augmenter l’énergie jusqu’à ce que la sortie convienne à l’interface."
+        },
+        {
+          "question": "Pourquoi est-ce mieux que des packs statiques ?",
+          "answer": "Les packs statiques peuvent sembler répétitifs et demandent souvent un nettoyage supplémentaire. La génération par invite permet de créer des indications au timing exact et des variantes pour les cas limites. Il devient plus facile de distinguer menus, alertes et segments de contenu tout en gardant un système sonore cohérent."
+        },
+        {
+          "question": "Comment rédiger des invites efficaces ?",
+          "answer": "Utilisez des instructions concises avec intention et timing, par exemple « confirmation courte et brillante » ou « bip chaud à déclin rapide ». Ajoutez du contexte comme « pour un interrupteur de réglages » ou « pour un état d’erreur » pour guider le ton. Une formulation précise donne en général des résultats plus propres avec moins de révisions."
+        },
+        {
+          "question": "Puis-je améliorer la découvrabilité pour les fautes courantes ?",
+          "answer": "Oui. Si vous publiez des pages ou métadonnées d’accompagnement, vous pouvez inclure des fautes fréquentes dans les balises ou alias pour que les recherches aboutissent au bon actif, tout en gardant l’expérience produit centrée sur des cas d’usage clairs de bouton sonore."
+        },
+        {
+          "question": "Où utiliser les indications générées ?",
+          "answer": "Utilisez-les pour l’UI de jeux, les parcours d’intégration, les clips sociaux, les overlays de stream, les quiz et les transitions de montage. Des variantes sur mesure aident à garder une identité audio reconnaissable sans l’effet répétitif du stock."
+        },
+        {
+          "question": "Le son généré est-il libre de droits ?",
+          "answer": "Oui. Les sorties sont libres de droits sous nos conditions standard pour projets créateurs et commerciaux courants. Consultez les détails de licence avant grandes campagnes payantes ou exigences de distribution spéciales."
+        },
+        {
+          "question": "Quelle qualité puis-je attendre des exports ?",
+          "answer": "Attendez-vous à des fichiers prêts prod avec transitoires nets, pics maîtrisés et lecture fiable sur tous les appareils, ce qui aide votre pack de boutons sonores à rester cohérent. Vous pouvez toujours appliquer EQ final et traitement loudness pour aligner chaque indication avec votre mix complet et vos cibles plateforme."
+        }
+      ]
+    }
+  }
+}

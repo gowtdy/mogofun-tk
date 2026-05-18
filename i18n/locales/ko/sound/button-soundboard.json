@@ -1,0 +1,71 @@
+{
+  "button-soundboard": {
+    "meta": {
+      "title": "Button Soundboard",
+      "description": "고급 AI로 button soundboard를 즉시 만드세요. 자연음, 악기 등 다양한 오디오 유형을 생성할 수 있습니다.",
+      "keywords": "button soundboard, meme buttons"
+    },
+    "hero": {
+      "title": "Button Soundboard",
+      "subtitle": "텍스트 설명을 즉시 고품질 button soundboard 오디오로 바꿉니다"
+    },
+    "generator_subtitle": "아래 인기 프롬프트를 고르거나 직접 설명을 작성해 button soundboard 큐를 생성하세요",
+    "advantages": {
+      "title": "Button Soundboard 생성기를 선택하는 이유",
+      "items": [
+        {
+          "title": "몇 초 만에 Button Soundboard 클립 제작",
+          "description": "간단한 프롬프트만으로 짧고 임팩트 있는 큐를 만듭니다. 녹음 세션이나 복잡한 편집 체인이 필요 없습니다. 스트리밍, 앱, 소셜 클립용 button soundboard를 빠르게 구축하고 톤과 타이밍을 일관되게 유지할 수 있습니다.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "모든 상호작용에 맞는 유연한 스타일",
+          "description": "어택, 디케이, 캐릭터를 조절해 각 큐가 UX나 콘텐츠 톤에 맞게 들리게 합니다. 장난스러운 클릭, 드라마틱한 스팅, 깔끔한 확인음을 만들고 하나의 button soundboard로 묶을 수 있습니다. 메타데이터나 숏폼 패키징에 선택적으로 meme buttons 라벨을 두어 발견을 돕되 키워드 남용은 피합니다.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "전문가급 오디오 품질",
+          "description": "내보내기마다 깨끗하고 믹스 준비가 되었으며 기기 간 안정적입니다. 제어된 다이내믹스와 선명한 트랜지언트로 button soundboard 자산이 모바일부터 데스크톱·스트리밍까지 자연스럽게 이어집니다.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Button Soundboard 생성기 안내",
+      "items": [
+        {
+          "question": "button soundboard 생성기란 무엇인가요?",
+          "answer": "텍스트 프롬프트를 UI, 콘텐츠 편집, 라이브 상호작용용 짧은 인터랙티브 큐로 바꾸는 AI 사운드 도구입니다. 특정 동작용 button soundboard를 만들어 제품 페이지와 영상 워크플로에서 재사용할 수 있습니다."
+        },
+        {
+          "question": "button soundboard 도구는 어떻게 동작하나요?",
+          "answer": "모델이 길이, 음색, 펀치, 재생 맥락 등 설명을 읽고 맞는 오디오를 합성합니다. 중립적인 베이스라인에서 시작해 에너지와 선명도를 반복하고 인터페이스 타이밍에 맞는 큐 세트로 마무리합니다."
+        },
+        {
+          "question": "정적 팩보다 나은 이유는?",
+          "answer": "정적 팩은 반복적으로 느껴지고 추가 정리가 필요한 경우가 많습니다. 프롬프트 기반 생성은 장면에 맞는 결과를 필요할 때 바로 주어 메뉴, 알림, 전환 전반에서 button soundboard를 더 구분하기 쉽게 합니다."
+        },
+        {
+          "question": "효과적인 프롬프트는 어떻게 쓰나요?",
+          "answer": "의도와 타이밍을 짧게 적으세요. 예: \"짧고 밝은 확인 클릭\", \"빠른 디케이가 있는 따뜻한 UI 블립\". 대상 화면, 길이, 무드 등 맥락을 더하면 수정이 줄고 일관성이 좋아집니다."
+        },
+        {
+          "question": "밈·소셜 검색에 맞게 최적화할 수 있나요?",
+          "answer": "네. button soundboard를 주 용어로 두고 선별한 메타데이터, 제목, FAQ에 meme buttons를 절제 있게 넣으면 소셜 검색 의도에 맞추면서도 가독성을 유지할 수 있습니다."
+        },
+        {
+          "question": "생성한 큐는 어디에 쓰나요?",
+          "answer": "게임 UI 이벤트, 온보딩 플로우, 소셜 클립, 스트림 오버레이, 퀴즈 상호작용, 편집 전환 등에 사용할 수 있습니다. 구조화된 button soundboard는 팀이 알아듣기 쉬운 오디오 아이덴티티를 유지하고 숏폼 큐를 빠르게 실험하는 데 도움이 됩니다."
+        },
+        {
+          "question": "생성 사운드는 로열티 프리인가요?",
+          "answer": "네. 일반적인 크리에이터·상업 프로젝트에 대해 표준 약관에 따라 로열티 프리입니다. 대규모 유료 캠페인이나 특수 배포 요구 전에 현재 라이선스 세부 사항을 확인하세요."
+        },
+        {
+          "question": "내보내기 품질은 어떻게 기대할 수 있나요?",
+          "answer": "선명한 트랜지언트, 제어된 피크, 기기 간 안정적인 재생 동작을 갖춘 제작 수준 파일을 기대할 수 있습니다. 최종 EQ와 라우드니스 처리로 각 큐를 전체 믹스와 플랫폼 목표에 맞출 수 있습니다."
+        }
+      ]
+    }
+  }
+}

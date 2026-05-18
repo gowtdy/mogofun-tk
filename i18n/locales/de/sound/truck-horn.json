@@ -1,0 +1,75 @@
+{
+  "truck-horn": {
+    "meta": {
+      "title": "LKW-Hupe",
+      "description": "Erstellen Sie sofort LKW-Hupen mit unserer fortschrittlichen KI-Technologie. Erzeugen Sie verschiedene Soundtypen – Naturgeräusche, Instrumente und mehr.",
+      "keywords": "LKW-Hupe, LKW-Hupensound"
+    },
+    "hero": {
+      "title": "LKW-Hupe",
+      "subtitle": "Verwandeln Sie Textbeschreibungen sofort in hochwertige LKW-Hupe"
+    },
+    "generator_subtitle": "Wählen Sie aus den beliebten Prompts unten oder schreiben Sie Ihre eigene Beschreibung, um LKW-Hupe zu erzeugen",
+    "advantages": {
+      "title": "Warum unseren LKW-Hupen-Generator wählen?",
+      "items": [
+        {
+          "title": "Sofortige LKW-Hupen-Erstellung",
+          "description": "Erzeugen Sie professionellen LKW-Hupensound sofort aus Text. Unser Tool verwandelt Ihre Beschreibungen in Sekunden in kurze Töne, lange Hupstöße und Luftdruckhorn-Style-Audio—ohne Feldaufnahme oder große Bibliotheken. Erstellen Sie unbegrenzte Variationen für Video, Spiele oder Werbung. Ob einzelner Piepton, Hupstöße für Verkehr oder mehrstimmige Hupen: Der Generator liefert saubere, sendefähige Ergebnisse.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Unbegrenzte kreative Möglichkeiten",
+          "description": "Erstellen Sie jeden gewünschten LKW-Hupen-Stil: klassisches Luftdruckhorn, elektrischer Piepton, tiefer Stoß oder ferne Stöße. Der Generator versteht detaillierte Beschreibungen und erzeugt passendes Audio für volle kreative Freiheit. Erkunden Sie Variationen für Film, Podcasts und Content. Von dezentem Warnton bis dramatischem Stoß—finden Sie die passende Variante für jedes Projekt.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professionelle Audioqualität",
+          "description": "Alle generierten LKW-Hupen erfüllen Sende-Standards mit High-Fidelity-Ausgabe. Der Generator nutzt moderne Algorithmen, sodass jeder LKW-Hupensound klar und produktionsreif ist. Die Ausgaben sind für Video, Film und Medien optimiert. Erhalten Sie konsistentes, studiogerechtes Audio für Ihre Arbeit.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Über den LKW-Hupen-Generator",
+      "items": [
+        {
+          "question": "Was ist ein LKW-Hupen-Generator?",
+          "answer": "Ein LKW-Hupen-Generator ist ein KI-Tool, das Text in individuellen LKW-Hupensound umwandelt (kurzer Piepton, langer Hupstoß, Luftdruckhorn). Er erzeugt professionelles Audio für Video, Spiele und Werbung ohne Aufnahme oder große Bibliotheken. Das System nutzt neuronale Synthese, trainiert mit echten Fahrzeughupen, für natürliche, nutzbare Ergebnisse. Er ist für Creator gedacht, die schnelle, vielfältige LKW-Hupen-Effekte für jedes Projekt brauchen."
+        },
+        {
+          "question": "Wie funktioniert der LKW-Hupen-Generator?",
+          "answer": "Der Generator liest Ihre Textbeschreibung und erkennt Typ, Länge und Intensität. Anschließend synthetisiert er passendes Audio—einzeln piepen, doppelt hupen oder anhaltender Stoß. Sie können Warnton, fernes Hupen oder Verkehrsalarm anfordern. Das Ergebnis ist eine saubere, sofort nutzbare Datei zum Download und Einbinden in Ihr Projekt."
+        },
+        {
+          "question": "Was macht diesen LKW-Hupen-Generator einzigartig?",
+          "answer": "Anders als feste Bibliotheken erstellt unser LKW-Hupen-Generator auf Anfrage neue Variationen aus reinem Text. Sie erhalten individuellen LKW-Hupensound ohne Tausende Dateien zu durchsuchen. Die KI ist mit hochwertigem Fahrzeughupen-Audio trainiert, jedes Ergebnis ist konsistent und professionell. Erzeugen Sie so viele Variationen wie nötig für jede Szene oder jeden Schnitt."
+        },
+        {
+          "question": "Wie schreibt man wirksame Prompts für LKW-Hupe?",
+          "answer": "Nutzen Sie klare, konkrete Beschreibungen. Z. B.: „LKW-Hupe kurzer Piepton an der Kreuzung“ oder „lauter LKW-Hupensound auf der Autobahn.“ Nennen Sie Hupentyp (Luftdruckhorn, elektrisch, klassisch), Länge (kurz, lang, anhaltend) und Kontext (Verkehr, Warnung, fern). Der Generator reagiert gut auf Begriffe wie Hupen, Stoß, Piepton und LKW-Hupensound. Mehr Details helfen der Ausgabe, Ihrer Vorstellung zu entsprechen."
+        },
+        {
+          "question": "Wie setze ich LKW-Hupe in Video-Content ein?",
+          "answer": "Setzen Sie LKW-Hupensound ein, um Fahrszenen, Werbung oder Dokus realistischer zu machen. Einzelnen Hupstoß für Akzent, Audio unter Verkehrs-B-Roll legen oder fernen LKW-Hupensound für Atmosphäre nutzen. Variieren Sie die Lautstärke—lauter für Action, leiser im Hintergrund. Unser Generator ermöglicht genug Variationen, damit jede Szene ein passendes Ergebnis ohne Wiederholung hat."
+        },
+        {
+          "question": "Wie nutze ich LKW-Hupe in der Spieleentwicklung?",
+          "answer": "LKW-Hupensound eignet sich für Rennspiele, Verkehrsambiente und UI-Feedback. Nutzen Sie ihn für Fahrzeugalarme, Warnsignale oder Open-World-Verkehr. Unser Generator unterstützt viele LKW-Hupensound-Variationen für einen konsistenten Stil. Erstellen Sie klare, professionelle Sets für verschiedene Fahrzeuge oder Situationen."
+        },
+        {
+          "question": "Welche Arten von LKW-Hupe kann ich erstellen?",
+          "answer": "Sie können ein breites Spektrum an LKW-Hupensound erstellen: kurzer Piepton, langer Hupstoß, Luftdruckhorn-Stoß, elektrischer Piepton, einzeln oder doppelt, fern oder nah. Nutzen Sie LKW-Hupensound für Film, Spiele, Podcasts oder jedes Projekt mit Fahrzeug-Audio. Der Generator behandelt verschiedene Kontexte und Stile mit gleichbleibender Qualität für alle Ihre LKW-Hupensound-Bedürfnisse."
+        },
+        {
+          "question": "Sind die generierten LKW-Hupen lizenzfrei?",
+          "answer": "Ja. Alle LKW-Hupen unseres Generators sind lizenzfrei und mit einer kommerziellen Lizenz nutzbar. Sie können sie in jedem Projekt ohne zusätzliche Gebühren oder Namensnennung verwenden. Jede generierte Datei ist für professionelle und kommerzielle Nutzung freigegeben. Laden Sie so viele herunter, wie Sie für Ihre Projekte benötigen."
+        },
+        {
+          "question": "Wie ist die Qualität der generierten LKW-Hupe?",
+          "answer": "Unser LKW-Hupen-Generator liefert professionelles Audio, das gängige Sende- und Produktionsstandards erfüllt. Sie erhalten hochauflösende Dateien, vollen Frequenzbereich und kontrollierte Dynamik, sodass jeder LKW-Hupensound klar und sofort einsatzbereit ist. Jede generierte Datei eignet sich für professionelle Nutzung in Video, Film und Content."
+        }
+      ]
+    }
+  }
+}

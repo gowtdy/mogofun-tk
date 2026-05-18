@@ -1,0 +1,75 @@
+{
+  "robot-sounds": {
+    "meta": {
+      "title": "Sons de robô",
+      "description": "Crie sons de robô instantaneamente com nossa tecnologia de IA avançada. Gere vários tipos de sons, incluindo sons naturais, instrumentos musicais e mais.",
+      "keywords": "sons de robô, som de robô"
+    },
+    "hero": {
+      "title": "Sons de robô",
+      "subtitle": "Transforme descrições em texto em sons de robô de alta qualidade instantaneamente"
+    },
+    "generator_subtitle": "Escolha entre os prompts populares abaixo ou escreva sua própria descrição para gerar sons de robô",
+    "advantages": {
+      "title": "Por que escolher nosso gerador?",
+      "items": [
+        {
+          "title": "Criação vocal instantânea",
+          "description": "Crie sons de robô profissionais instantaneamente a partir de descrições em texto com nosso gerador de IA. A ferramenta transforma suas ideias em sons de robô e áudio mecânico de alta qualidade em segundos, sem bibliotecas de amostras ou edição manual. Gere variações ilimitadas para qualquer projeto com alguns cliques. Seja voz robótica, bipes de servo ou efeitos de ficção científica, o gerador entrega som de robô em qualidade de estúdio para seus projetos criativos.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Possibilidades criativas ilimitadas",
+          "description": "Use nosso gerador para criar qualquer estilo de sons de robô que imaginar—do mecânico vintage à voz de IA futurista. A ferramenta entende descrições complexas e dá total liberdade criativa para sons de robô. Explore opções infinitas adaptadas a jogos, vídeos e aplicativos. De bipes curtos a ambiência robótica em camadas, obtenha o clip de som de robô perfeito para cada cenário.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualidade de áudio profissional",
+          "description": "Cada som de robô do nosso gerador atende aos padrões de transmissão com saída de alta fidelidade. Algoritmos de ponta garantem sons de robô em qualidade de estúdio. Todos os sons de robô estão prontos para produção e otimizados para uso profissional. O gerador oferece cobertura total de frequência e dinâmica controlada para saída de som de robô autêntica.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "FAQ do gerador",
+      "items": [
+        {
+          "question": "O que é este gerador?",
+          "answer": "É uma ferramenta de IA que transforma descrições em texto em áudio robótico e mecânico personalizado. A nossa usa processamento de linguagem natural e síntese neural de áudio para produzir clipes de sons de robô de qualidade profissional. Modelos de aprendizado profundo treinados em conjuntos de dados sintéticos e mecânicos entendem sua descrição e geram variações correspondentes. Atende criadores de conteúdo, desenvolvedores de jogos e profissionais de áudio que precisam de sons de robô rápidos e autênticos. O gerador usa seu contexto e detalhes para criar som de robô nuanceado e em camadas com saída precisa e de alta fidelidade."
+        },
+        {
+          "question": "Como funciona?",
+          "answer": "Nosso gerador usa um pipeline em várias etapas para transformar texto em sons de robô de alta qualidade. Primeiro analisa sua descrição para capturar traços como tom, modulação, duração e estilo. Essas informações passam por redes neurais treinadas para síntese sintética e mecânica, que tratam de frequência, dinâmica e qualidades espaciais. Treinado em amostras profissionais, a IA produz saída de som de robô natural. Filtragem e pós-processamento mantêm a qualidade e garantem que cada clip de som de robô atenda aos padrões de transmissão."
+        },
+        {
+          "question": "O que torna este gerador único?",
+          "answer": "Nosso gerador se destaca pela customização instantânea e qualidade profissional. Diferente de bibliotecas estáticas, ele cria sons de robô sob medida sob demanda. É treinado em amostras mecânicas e sintéticas de alta qualidade para resultados realistas. O sistema entende descrições complexas e produz sons de robô com controle fino de tom e contexto. Você tem variações ilimitadas e liberdade criativa. O processamento de áudio garante frequência e dinâmica equilibradas. A ferramenta se adapta ao seu caso de uso para que cada som de robô se encaixe no seu projeto—ideal para profissionais que precisam de saída de sons de robô confiável e de alta qualidade."
+        },
+        {
+          "question": "Como escrevo prompts eficazes para ele?",
+          "answer": "Escreva descrições claras e específicas com vários detalhes. Em vez de apenas \"robô\", tente \"bipes de servo vintage com ressonância metálica\" ou \"voz de IA futurista com leve modulação.\" Inclua estilo, tom, duração, ambiente e quaisquer traços distintivos. Nosso gerador responde bem a termos técnicos e acústicos. Para cenários complexos, divida em partes e diga como se combinam. Mais contexto traz melhores resultados. Mencione duração ou necessidades técnicas para o gerador otimizar a saída para o som de robô desejado."
+        },
+        {
+          "question": "Como usar em conteúdo de vídeo?",
+          "answer": "Mapeie as cenas do seu vídeo e coloque sons de robô personalizados onde agregam impacto. O gerador ajuda a criar sons de robô e áudio mecânico para cada momento—de fundo sutil a momentos dramáticos. Sobreponha várias variações para áudio rico e envolvente. Use para transições, elementos de interface e cenas de ficção científica. Use momentos distintos de som de robô para destacar cenas-chave. A ferramenta permite construir um estilo de som de robô único que combina com seu conteúdo."
+        },
+        {
+          "question": "Como usar no desenvolvimento de jogos?",
+          "answer": "Nosso gerador suporta áudio procedural para jogos. Crie variações de sons de robô para os jogadores raramente ouvirem o mesmo clipe duas vezes. Construa sistemas que reagem ao estado do jogo, ações do jogador e condições. Produza opções diferentes de sons de robô para personagens e ambientes mantendo um estilo consistente. Use para interface, habilidades e eventos. Sons de robô em camadas podem ser mixados dinamicamente a partir dos parâmetros do jogo. O gerador entrega sons de robô de qualidade profissional que aumentam imersão e realismo para qualquer necessidade de som de robô."
+        },
+        {
+          "question": "Que tipos de sons de robô posso criar?",
+          "answer": "Você pode criar uma ampla gama: voz robótica (fala, bipes, glitches), mecânico (servos, motores, engrenagens), intensidades (sutil a intenso), durações (explosões curtas ou prolongadas) e estilos (vintage, futurístico, cinematográfico). O gerador trata essas categorias de sons de robô com qualidade consistente. Seja som de robô de fundo leve ou clipes fortes de sons de robô de ficção científica, a ferramenta entrega resultados profissionais para qualquer projeto."
+        },
+        {
+          "question": "Os clipes gerados são livres de royalties?",
+          "answer": "Sim. Todos os sons de robô do nosso gerador são livres de royalties e incluem licença comercial. Você pode usar os sons de robô gerados em qualquer projeto sem taxas extras ou atribuição. Cada som de robô está liberado para uso imediato em trabalho profissional e comercial."
+        },
+        {
+          "question": "Que qualidade ele produz?",
+          "answer": "Nosso gerador produz sons de robô de nível profissional que atende aos padrões da indústria. Você tem opções de som de robô de alta resolução até 192 kHz/24 bit, faixa de frequência completa e dinâmica controlada. Todos os sons de robô estão prontos para transmissão. Cada som de robô é adequado para produção profissional e projetos criativos."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "train-sound-effects": {
+    "meta": {
+      "title": "Zug-Soundeffekte",
+      "description": "Erstellen Sie sofort Zug-Soundeffekte mit unserer fortschrittlichen KI-Technologie. Erzeugen Sie verschiedene Audiotypen inkl. natürlicher Töne, Instrumente und mehr.",
+      "keywords": "Zug-Soundeffekte, durchschlagendes Zughorn"
+    },
+    "hero": {
+      "title": "Zug-Soundeffekte",
+      "subtitle": "Verwandeln Sie Textbeschreibungen sofort in hochwertige Bahn-Soundeffekte"
+    },
+    "generator_subtitle": "Wählen Sie aus beliebten Prompts unten oder schreiben Sie Ihre eigene Beschreibung, um Bahn-Soundeffekte zu erzeugen",
+    "advantages": {
+      "title": "Warum unseren Zug-Soundeffekt-Generator wählen?",
+      "items": [
+        {
+          "title": "Sofortige Erstellung von Zug-Soundeffekten",
+          "description": "Erstellen Sie professionelle Zug-Soundeffekte und Bahn-Audio aus Text in Sekunden. Unsere KI verwandelt Ihre Beschreibungen in Pfeifen-, Horn- und Vorbeifahrts-Clips—ohne Sample-Bibliotheken oder manuelle Bearbeitung. Brauchen Sie ein durchschlagendes Zughorn für eine Szene oder subtile Zug-Soundeffekte für die UI? Erzeugen Sie unbegrenzte Variationen in sendefähiger Qualität. Ob durchschlagendes Zughorn oder volle Clips für jedes Projekt—der Generator liefert.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Unbegrenzte kreative Möglichkeiten",
+          "description": "Erstellen Sie jeden gewünschten Stil von Zug-Soundeffekten: Pfeife, Horn, Vorbeifahrts-Ambiente oder durchschlagendes Zughorn. Das Tool versteht detaillierte Beschreibungen und gibt Ihnen volle kreative Freiheit. Erkunden Sie endlose Optionen für Videos, Spiele und Apps—von subtilen Bahn-Cues bis durchschlagendes Zughorn und mehrschichtigen Clips für Film.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professionelle Audioqualität",
+          "description": "Jeder Clip aus unserem Generator erfüllt Sendestandards mit High-Fidelity-Ausgabe. Moderne Algorithmen sorgen für Studioqualität bei Clips und Bahn-Audio. Alle Clips sind produktionsreif und für den professionellen Einsatz optimiert. Erhalten Sie gleichbleibende Ausgabe und durchschlagendes Zughorn mit voller Frequenzabdeckung und kontrollierter Dynamik.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Zug-Soundeffekte FAQ",
+      "items": [
+        {
+          "question": "Was ist ein Zug-Soundeffekt-Generator?",
+          "answer": "Unser Generator ist ein KI-Tool, das Text in maßgeschneiderte Zug-Soundeffekte und Bahn-Audio umwandelt. Es nutzt natürliche Sprachverarbeitung und neuronale Synthese für professionelles Bahn-Audio. Mit Bahndatensätzen trainierte Deep-Learning-Modelle verstehen Ihre Beschreibung und erzeugen passende Variationen. Geeignet für Creator, Videoeditoren und Spieleentwickler, die schnelle, authentische Zug-Soundeffekte brauchen—von subtilen Cues bis durchschlagendes Zughorn—mit präzisen, hochauflösenden Ergebnissen. Für durchschlagendes Zughorn oder andere Stile liefert er."
+        },
+        {
+          "question": "Wie funktioniert der Zug-Soundeffekt-Generator?",
+          "answer": "Das Tool nutzt eine mehrstufige Pipeline, um Text in hochwertige Zug-Soundeffekte und Bahn-Audio zu verwandeln. Es analysiert Ihre Beschreibung für Intensität, Stil, Dauer und Kontext und leitet diese durch für Bahn- und Pfeifen-Synthese optimierte neuronale Netze. Sie können kurze Clips für die UI oder längere Ambience anfordern. Brauchen Sie ein durchschlagendes Zughorn? Jeder Clip erfüllt Sendestandards."
+        },
+        {
+          "question": "Was macht diesen Zug-Soundeffekt-Generator einzigartig?",
+          "answer": "Unser Generator zeichnet sich durch sofortige Anpassung und professionelle Qualität aus. Anders als statische Bibliotheken erstellt er maßgeschneiderte Bahn-Clips on demand. Auf hochwertigen Samples aufgebaut, liefert er realistische Clips inkl. verschiedener Pfeifen-Stile und durchschlagendem Zughorn. Sie erhalten unbegrenzte Variationen und durchschlagendes Zughorn mit feiner Kontrolle."
+        },
+        {
+          "question": "Wie schreibe ich wirksame Prompts für Zug-Soundeffekte?",
+          "answer": "Schreiben Sie klare, konkrete Beschreibungen. Statt nur „Pfeife“ oder „Horn“ probieren Sie „Zug-Soundeffekte mit Hall“ oder „durchschlagendes Zughorn für dramatische Szene“. Nennen Sie Stil, Intensität, Dauer und Kontext. Der Generator reagiert gut auf Begriffe wie Pfeife, Horn, Vorbeifahrt, Bahn und durchschlagendes Zughorn. Mehr Kontext liefert bessere Ergebnisse. Nutzen Sie durchschlagendes Zughorn bei Bedarf an dramatischen Clips."
+        },
+        {
+          "question": "Wie kann ich Zug-Soundeffekte in Videoinhalten nutzen?",
+          "answer": "Planen Sie die Szenen Ihres Videos und platzieren Sie maßgeschneiderte Bahn-Clips dort, wo sie Wirkung erzeugen. Erstellen Sie Pfeifen- und Vorbeifahrts-Audio für jeden Moment—von subtilen Clips bis dramatischem durchschlagendem Zughorn. Legen Sie mehrere Variationen für reiches, fesselndes Audio übereinander. Nutzen Sie markante Momente wie durchschlagendes Zughorn oder Bahn-Ambiente, um Zeit oder Ort zu unterstreichen. Das Tool ermöglicht Clips, die zu Ihrem Content passen."
+        },
+        {
+          "question": "Wie kann ich den Generator in der Spieleentwicklung nutzen?",
+          "answer": "Unser Generator unterstützt prozedurales Bahn-Audio für Spiele. Erstellen Sie Variationen, sodass Spieler selten denselben Clip zweimal hören. Erzeugen Sie verschiedene Optionen für UI, Levels und Events bei einheitlichem Stil. Nutzen Sie durchschlagendes Zughorn für Schlüsselmomente. Das Tool liefert professionelle Clips für bessere Immersion und Feedback."
+        },
+        {
+          "question": "Welche Arten von Zug-Soundeffekten kann ich erstellen?",
+          "answer": "Sie können eine breite Palette an Zug-Soundeffekten erstellen: Pfeife, Horn, Vorbeifahrt, Bahn-Ambiente, kurze Clips für UI oder Film und Stile von leise bis laut (realistisch, filmisch, Vintage). Brauchen Sie durchschlagendes Zughorn oder mehrschichtige Variationen? Das Tool behandelt diese mit gleichbleibender Qualität und liefert professionelle Zug-Soundeffekte für jedes Projekt."
+        },
+        {
+          "question": "Sind die generierten Zug-Soundeffekte lizenzfrei?",
+          "answer": "Ja. Alle Clips aus unserem Generator sind lizenzfrei und enthalten eine gewerbliche Lizenz. Sie können die generierten Clips in jedem Projekt ohne zusätzliche Gebühren oder Namensnennung nutzen. Jeder Clip ist für sofortige Verwendung in professioneller und gewerblicher Arbeit freigegeben."
+        },
+        {
+          "question": "Welche Qualität liefert der Zug-Soundeffekt-Generator?",
+          "answer": "Unser Generator liefert professionelle Zug-Soundeffekte nach Industriestandards. Sie erhalten hochauflösende Optionen bis 192 kHz/24-bit, vollen Frequenzbereich und kontrollierte Dynamik. Jeder Clip und jede Ausgabe durchschlagendes Zughorn ist sendefähig und für professionelle Produktion und kreative Projekte geeignet."
+        }
+      ]
+    }
+  }
+}

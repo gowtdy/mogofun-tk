@@ -1,0 +1,71 @@
+{
+  "happy-scream": {
+    "meta": {
+      "title": "Cri de joie",
+      "description": "Creez instantanement un cri de joie avec notre technologie IA avancee. Generez differents types de sons, y compris des sons naturels, des instruments et plus encore.",
+      "keywords": "cri de joie, cris de joie"
+    },
+    "hero": {
+      "title": "Cri de joie",
+      "subtitle": "Transformez instantanement une description texte en cri de joie de haute qualite"
+    },
+    "generator_subtitle": "Choisissez un prompt populaire ci-dessous ou ecrivez votre propre description pour generer un cri de joie",
+    "advantages": {
+      "title": "Pourquoi choisir notre generateur de cri de joie ?",
+      "items": [
+        {
+          "title": "Creation instantanee de cris de joie",
+          "description": "Generez instantanement un audio de cri de joie professionnel a partir de texte.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Styles flexibles pour chaque scene",
+          "description": "Creez des styles avec des hauteurs, des ambiances et des niveaux d'intensite varies selon vos besoins.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualite audio professionnelle",
+          "description": "Tous les clips generes respectent les standards de production avec un son clair et stable.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "A propos du generateur de cri de joie",
+      "items": [
+        {
+          "question": "Qu'est-ce qu'un generateur de cri de joie ?",
+          "answer": "C'est un outil IA qui transforme du texte en audio vocal personnalise, sans enregistrement ni grande bibliotheque."
+        },
+        {
+          "question": "Comment fonctionne ce generateur ?",
+          "answer": "Il analyse votre description (ambiance, intensite, style) puis synthese un resultat correspondant."
+        },
+        {
+          "question": "Qu'est-ce qui rend ce generateur unique ?",
+          "answer": "Contrairement aux bibliotheques fixes, il cree de nouvelles variations a la demande a partir d'un texte simple."
+        },
+        {
+          "question": "Comment ecrire des prompts efficaces ?",
+          "answer": "Utilisez des descriptions claires et detaillees, par exemple cri court, foule en concert, energie et duree."
+        },
+        {
+          "question": "Comment utiliser l'audio genere dans du contenu ?",
+          "answer": "Vous pouvez le superposer sous une video, l'ajouter pour l'impact ou le mixer avec d'autres pistes."
+        },
+        {
+          "question": "Quels types d'audio puis-je creer ?",
+          "answer": "Vous pouvez creer des cris brefs, des acclamations longues, differentes hauteurs et ambiances."
+        },
+        {
+          "question": "L'audio genere est-il libre de droits ?",
+          "answer": "Oui. Tous les fichiers generes sont libres de droits et incluent une licence commerciale."
+        },
+        {
+          "question": "Quelle est la qualite de l'audio genere ?",
+          "answer": "La sortie est de niveau professionnel, avec une grande clarte et une dynamique controlee."
+        }
+      ]
+    }
+  }
+}

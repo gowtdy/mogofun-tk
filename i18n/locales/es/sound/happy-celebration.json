@@ -1,0 +1,75 @@
+{
+  "happy-celebration": {
+    "meta": {
+      "title": "Celebración feliz",
+      "description": "Crea celebración feliz al instante con nuestra tecnología de IA avanzada. Genera diversos tipos de sonidos, incluidos sonidos naturales, instrumentos musicales y más.",
+      "keywords": "celebración feliz, efecto de sonido crepitación del fuego"
+    },
+    "hero": {
+      "title": "Celebración feliz",
+      "subtitle": "Transforma descripciones de texto en celebración feliz de alta calidad al instante"
+    },
+    "generator_subtitle": "Selecciona entre los prompts populares de abajo o escribe tu propia descripción para generar celebración feliz",
+    "advantages": {
+      "title": "¿Por qué elegir nuestro generador de celebración feliz?",
+      "items": [
+        {
+          "title": "Creación instantánea de celebración feliz",
+          "description": "Genera celebración feliz profesional y efecto de sonido de crepitación del fuego al instante a partir del texto. Nuestra herramienta convierte tus descripciones en vítores, aplausos, ambiente de fiesta y crepitación de fuego acogedora en segundos—sin bibliotecas grandes ni edición manual. Crea variaciones ilimitadas para vídeo, anuncios o eventos. Ya sea multitud en celebración feliz, efecto de crepitación para una escena, o ambos juntos, el generador ofrece resultados limpios y listos para emisión.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Posibilidades creativas ilimitadas",
+          "description": "Crea cualquier estilo de celebración feliz que necesites: vítores de fiesta, ambiente de cumpleaños, momentos de victoria o efecto de sonido de crepitación sutil. El generador entiende descripciones detalladas y produce audio correspondiente para total libertad creativa. Explora variaciones para cine, podcasts y contenido. De la celebración feliz ruidosa al efecto de crepitación acogedor, encuentra el ajuste adecuado para cada proyecto.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Calidad de audio profesional",
+          "description": "Toda celebración feliz generada cumple los estándares de emisión con salida de alta fidelidad. El generador usa algoritmos modernos para que cada efecto de crepitación y clip de celebración sea claro y listo para producción. Las salidas están optimizadas para vídeo, cine y medios. Obtén audio de celebración feliz consistente y con calidad de estudio para tu trabajo.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Sobre el generador de celebración feliz",
+      "items": [
+        {
+          "question": "¿Qué es un generador de celebración feliz?",
+          "answer": "Un generador de celebración feliz es una herramienta de IA que convierte texto en celebración feliz personalizada y efecto de sonido de crepitación del fuego como vítores, aplausos, ruido de fiesta y ambiente de fuego acogedor. Produce audio profesional para vídeo, juegos y anuncios sin grabación ni bibliotecas grandes. El sistema usa síntesis neuronal entrenada en audio real de celebración y fuego, así que obtienes resultados naturales y utilizables. Está pensado para creadores que necesitan celebración feliz rápida y variada para cualquier proyecto."
+        },
+        {
+          "question": "¿Cómo funciona el generador de celebración feliz?",
+          "answer": "Nuestro generador lee tu descripción de texto y extrae rasgos como ambiente, tipo de evento e intensidad. Luego sintetiza la celebración feliz correspondiente—vítores de multitud, bocinas de fiesta o efecto de crepitación para una escena acogedora. Puedes pedir fiesta de cumpleaños, momento de victoria o ambiente de chimenea. El resultado es un archivo limpio y listo para usar que puedes descargar e incorporar a tu proyecto."
+        },
+        {
+          "question": "¿Qué hace único a este generador de celebración feliz?",
+          "answer": "A diferencia de bibliotecas fijas, nuestro generador de celebración feliz crea nuevas variaciones bajo demanda a partir de texto plano. Obtienes efecto de crepitación y audio de celebración personalizados sin buscar en miles de archivos. La IA está entrenada con audio de fiesta y fuego de alta calidad, así que cada resultado es consistente y profesional. Genera tantas variaciones como necesites para cada escena o edición."
+        },
+        {
+          "question": "¿Cómo escribir prompts efectivos para celebración feliz?",
+          "answer": "Usa descripciones claras y concretas. Por ejemplo: \"multitud vitoreando en fiesta de cumpleaños\" o \"efecto de crepitación acogedor en cabaña.\" Menciona el evento (fiesta, victoria, festividad), el ambiente (ruidoso, suave, acogedor) y los elementos (vítores, aplausos, fuego). El generador responde bien a términos como fiesta, vítores, acogedor y efecto de sonido crepitación del fuego. Más detalle ayuda a que la salida coincida con tu visión."
+        },
+        {
+          "question": "¿Cómo usar celebración feliz en contenido de vídeo?",
+          "answer": "Usa la celebración feliz para resaltar victorias, finales o momentos festivos. Superpone vítores bajo material de apoyo, añade efecto de crepitación para escenas acogedoras, o combina ambos para sensación de fiesta cálida. Varía la intensidad—más fuerte para clímax, más suave para fondo. Nuestro generador te permite crear suficientes variaciones para que cada escena tenga una celebración feliz adecuada sin repetición."
+        },
+        {
+          "question": "¿Cómo usar celebración feliz en desarrollo de juegos?",
+          "answer": "La celebración feliz funciona bien para nivel completado, logros y momentos acogedores del juego. Usa vítores para victorias, efecto de crepitación para escenas de campamento o casa, y celebración para recompensas. Nuestro generador admite muchas variaciones para mantener un estilo consistente. Crea conjuntos distintos para distintos eventos o ambientes con salida clara y profesional."
+        },
+        {
+          "question": "¿Qué tipos de celebración feliz puedo crear?",
+          "answer": "Puedes crear una amplia gama de celebración feliz y efecto de crepitación: vítores de multitud, aplausos, bocinas de fiesta, ambiente de cumpleaños, fanfarria de victoria, crepitación de chimenea o hoguera acogedora. Úsalos para cine, juegos, podcasts o cualquier proyecto que necesite audio de celebración o fuego ambiente. El generador maneja distintos contextos y estilos con calidad consistente."
+        },
+        {
+          "question": "¿Las celebraciones felices generadas son libres de regalías?",
+          "answer": "Sí. Toda celebración feliz generada por nuestro generador es libre de regalías y viene con licencia comercial. Puedes usarlas en cualquier proyecto sin cargos extra ni atribución. Cada archivo de efecto de crepitación y celebración generado está autorizado para uso profesional y comercial. Descarga tantos como necesites para tus proyectos."
+        },
+        {
+          "question": "¿Cuál es la calidad de la celebración feliz generada?",
+          "answer": "Nuestro generador de celebración feliz produce audio de nivel profesional que cumple los estándares habituales de emisión y producción. Obtienes archivos de alta resolución, rango de frecuencias completo y dinámica controlada para que cada celebración feliz y efecto de crepitación sea claro y listo para incorporar a tu proyecto. Todo archivo generado es adecuado para uso profesional en vídeo, cine y contenido."
+        }
+      ]
+    }
+  }
+}

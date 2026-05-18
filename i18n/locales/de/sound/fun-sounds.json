@@ -1,0 +1,75 @@
+{
+  "fun-sounds": {
+    "meta": {
+      "title": "Spaß-Sounds",
+      "description": "Erstellen Sie sofort Spaß-Sounds mit unserer fortschrittlichen KI – inklusive Naturgeräusche, Instrumente und mehr.",
+      "keywords": "Spaß-Sounds, lustige Effekte"
+    },
+    "hero": {
+      "title": "Spaß-Sounds",
+      "subtitle": "Verwandeln Sie Textbeschreibungen sofort in hochwertige Spaß-Sounds"
+    },
+    "generator_subtitle": "Wählen Sie unten beliebte Prompts oder schreiben Sie eine eigene Beschreibung, um Spaß-Sounds zu erzeugen",
+    "advantages": {
+      "title": "Warum unseren Spaß-Sound-Generator wählen?",
+      "items": [
+        {
+          "title": "Spaß-Sounds sofort aus Text erstellen",
+          "description": "Beschreiben Sie einen verspielten Klick, ein Federn oder einen Sting und erhalten Sie in Sekunden einen polierten Clip—ohne Mikrofon-Sessions oder endlose Bibliotheks-Suche. Die KI erfasst Stimmung, Timing und Textur, damit Ergebnisse lebendig wirken und direkt in den Schnitt passen. Schnell iterieren für Skizzen, Alerts oder Social Posts bei mixfertigen Pegeln. Stapeln Sie zusätzliche Spaß-Sounds beim Storyboard einer Serie und lenken Sie Prompts auf lustige-Effekt-Beats, die auf Telefonlautsprechern sauber bleiben.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Flexible Stile für Skizzen, Games und Shorts",
+          "description": "Fordern Sie Cartoon-Pops, alberne Whooshes oder dezente komische Akzente; das Modell passt sich Ihrer genannten Stimmung an. Klare Angaben zu Energie und Länge liefern engere Takes, ob subtil oder übertrieben. Legen Sie Ausgaben unter Dialog, Übergänge oder Stinger, ohne das Session-Gleichgewicht zu zerstören. Nutzen Sie denselben Spaß-Sound-Workflow für Spiele, Podcasts und Reels und setzen Sie lustige-Effekt-Spikes nur dort, wo im Mix noch Luft ist.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Produktionsfreundliches Audio, dem Sie vertrauen können",
+          "description": "Downloads zielen auf verständliche Transienten und gleichmäßige Lautheit, damit Normalisierung und Limiting einfach bleiben. Dateien funktionieren gut auf Timelines, in leichten Game-Builds und Podcast-Beds. Konsistente Verarbeitung bedeutet weniger Überraschungen, wenn Kolleg:innen oder Kund:innen dasselbe Projekt öffnen. Geben Sie Spaß-Sounds zwischen Editor:innen mit vorhersehbaren Peaks weiter und zähmen Sie lustige-Effekt-Peaks für broadcast-sichere Lautheit.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Über unseren Spaß-Sound-Generator",
+      "items": [
+        {
+          "question": "Was ist ein Spaß-Sound-Generator?",
+          "answer": "Ein KI-Tool, das kurze Clips aus einfachen Text-Prompts synthetisiert statt Field Recording. Sie tippen Geste oder Stimmung—verspielte Taps, gummige Sprünge, schräge Impacts—und erhalten eine Datei für alltägliche Workflows, vom Stream bis zur Klassen-Demo. Teams generieren oft Spaß-Sounds vor Picture Lock und mischen Slapstick-Timing mit lustiger-Effekt-Farbe, wenn das Briefing es verlangt."
+        },
+        {
+          "question": "Wie funktioniert dieses Spaß-Sound-Tool?",
+          "answer": "Das System leitet Eigenschaften wie Energie, Dauer und Charakter aus Ihrem Text ab und rendert Audio passend zum Brief. Passen Sie Adjektive, Tempo-Hinweise oder Szenenbezüge zwischen Durchläufen an, bis der Take zu Pointline oder Übergang passt. Jede Revision strafft Spaß-Sounds auf Ihre Cut-Liste, und explizite Tempo-Noten helfen lustigen Effekten, aufs Bild zu treffen."
+        },
+        {
+          "question": "Worin unterscheidet sich dieser Generator von Stock-Bibliotheken?",
+          "answer": "Kataloge bieten feste Aufführungen; hier kann jeder Render einzigartig sein, weil die Ausgabe aus Ihrer Formulierung komponiert wird. Das hilft, wenn Sie einen Witz-Beat oder eine Brücke brauchen, zu der keine fertige Loop passt—besonders bei schnellen Schnitten. Generische Spaß-Sound-Packs liefern selten lustige-Effekt-Nuance von Szene zu Szene; maßgeschriebene Prompts gewinnen, wenn Spaß-Sounds on-brand wirken sollen."
+        },
+        {
+          "question": "Wie schreibe ich Prompts für Spaß-Sounds?",
+          "answer": "Nennen Sie die Aktion (Tippen, Zischen, Gleiten), die emotionale Farbe (frech, überrascht, trocken) und Tempo-Hinweise. Beispiele wie „schneller Gummi-Boing für einen Gag“ oder „weiches Gleiten unter einer Pointline“ führen das Modell besser als ein vages Adjektiv. Starke Verben helfen Spaß-Sounds genau am Schnitt zu triggern; Kontraste (ruhige Zeile, dann Knall) lenken lustige Drops nach leisem Dialog."
+        },
+        {
+          "question": "Kann ich lustige Effekte für Memes oder Reaction-Clips anstreben?",
+          "answer": "Ja. Erwähnen Sie meme- oder cartoon-nahe Referenzen, wenn etwas teilbar sein soll, und bleiben Sie spezifisch, damit Humor in der Wellenform lesbar ist. Kombinieren Sie diese Momente mit breiteren Mix-Notizen, damit der Clip neben Voiceover oder Musik klar bleibt. Taggen Sie kulturelle Callbacks, wenn lustige Effekte sofort erkannt werden sollen, und speichern Sie alternative Spaß-Sounds für A/B-Tests auf Thumbnails."
+        },
+        {
+          "question": "Wie nutze ich generiertes Audio in Video oder Podcasts?",
+          "answer": "Legen Sie Clips unter Bildschnitt, nutzen Sie sie als Interpunktion zwischen Segmenten oder tucken Sie sie leiser unter Dialog. Damit lustige Momente auf kleinen Speakern lesbar sind, halten Sie Peaks einige dB unter Erzählung. Variieren Sie die Intensität pro Szene für Abwechslung ohne Ermüdung, und trimmen Sie Köpfe oder Schwänze in der DAW bei engerem Frame. Sidechainen Sie Musik leicht, damit lustige Punches atmen, und hören Sie Begleit-Spaß-Sounds für Reserve-Stinger an."
+        },
+        {
+          "question": "Welche Audio-Arten kann ich jenseits basis-Spaß-Sounds anfordern?",
+          "answer": "Erkunden Sie leichte Percussion-Hits, verspielte UI-Töne, übertriebene Schritte und andere spielerische Texturen. Beschreiben Sie Kontext—Mobile-Game-UI, Show-Sting, Klassen-Eisbrecher—damit der Ton passt und trotzdem lebendig bleibt. Legen Sie subtile lustige Untertöne unter UI-Bewegung und fordern Sie passende Spaß-Sounds für wiederkehrende Figuren oder Segmente."
+        },
+        {
+          "question": "Ist der generierte Audio-Inhalt lizenzfrei?",
+          "answer": "Ja. Downloads sind unter unserer Lizenz für typische Creator- und kommerzielle Nutzung lizenzfrei, ohne extra Gebühr pro Clip. Lesen Sie vor großen Kampagnen oder Broadcast immer die aktuellen Bedingungen auf der Produktseite. Sie können Spaß-Sounds unter diesen Bedingungen in Ads, Kundenlieferungen und Livestreams nutzen, solange die Nutzung im Vertrag bleibt."
+        },
+        {
+          "question": "Welche Qualität ist von den Dateien zu erwarten?",
+          "answer": "Erwarten Sie klare Bandbreite, kontrollierte Dynamik und Formate für Schnitt-Suites und Web-Lieferung. Bei Broadcast-Lautheit nach Export Ihre übliche Mastering-Kette laufen lassen, damit Spaß-Sounds mit Erzählung und Musik ebenmäßig sitzen. Master sanft, damit lustige Transienten luftig bleiben, und vergleichen Sie Durchläufe, bis Spaß-Sounds neben Voiceover souverän wirken."
+        }
+      ]
+    }
+  }
+}

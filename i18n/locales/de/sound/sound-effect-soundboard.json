@@ -1,0 +1,79 @@
+{
+  "sound-effect-soundboard": {
+    "meta": {
+      "title": "Soundeffekt-Soundboard",
+      "description": "Erstellen Sie einzigartige Soundeffekte mit unserem fortschrittlichen Soundeffekt-Soundboard, generieren Sie verschiedene Arten einschließlich Naturgeräusche, Musikinstrumente und mehr.",
+      "keywords": "Soundeffekt-Soundboard, Soundeffekte-Board"
+    },
+    "hero": {
+      "title": "Soundeffekt-Soundboard",
+      "subtitle": "Verwandeln Sie Ihre Textbeschreibungen in hochwertige Soundeffekte"
+    },
+    "generator_subtitle": "Wählen Sie aus den beliebten Eingabeaufforderungen unten oder schreiben Sie Ihre eigene Beschreibung, um Soundeffekte zu generieren",
+    "advantages": {
+      "title": "Warum unser Soundeffekt-Soundboard wählen?",
+      "items": [
+        {
+          "title": "Sofortige Clips, sofort einsatzbereit",
+          "description": "Generieren Sie professionelle Audio-Clips in Sekunden aus Texteingaben. Dieses Soundeffekt-Soundboard hilft Ihnen, schnell eine saubere Bibliothek aufzubauen—kein Durchsuchen von Ordnern oder manuelles Bearbeiten. Speichern Sie Favoriten auf Ihrem Soundeffekte-Board für schnelle Wiedergabe und Downloads.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Unbegrenzte kreative Möglichkeiten",
+          "description": "Erstellen Sie alles von Natur-Ambiente bis hin zu futuristischen Effekten. Mit dem Soundeffekt-Soundboard können Sie Variationen iterieren, Stimmung und Intensität anpassen und Ergebnisse in ein Soundeffekte-Board organisieren, das zu Ihrem Workflow passt.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professionelle Audioqualität",
+          "description": "Jede Ausgabe ist hochwertig und produktionsbereit. Verwenden Sie das Soundeffekt-Soundboard, um eine konsistente Qualität über Projekte hinweg zu gewährleisten, und veröffentlichen Sie dann Ihre besten Auswahlen in einem Soundeffekte-Board für Teams, Kreative und Redakteure.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Über das Soundeffekt-Soundboard",
+      "items": [
+        {
+          "question": "Was ist ein Soundeffekt-Soundboard?",
+          "answer": "Ein Soundeffekt-Soundboard ist eine schnelle Möglichkeit, Audio-Clips an einem Ort zu generieren, zu organisieren und zu überprüfen. Anstatt durch riesige Bibliotheken zu stöbern, beschreiben Sie, was Sie brauchen, und das Soundeffekt-Soundboard erstellt abspielbare Ergebnisse, die Sie speichern, umbenennen und wiederverwenden können. Wenn Sie ein kuratiertes Layout für schnellen Zugriff möchten, können Sie Favoriten als Soundeffekte-Board anordnen."
+        },
+        {
+          "question": "Wie funktioniert das Soundeffekt-Soundboard?",
+          "answer": "Das Soundeffekt-Soundboard verwandelt Ihre Texteingabe in Audio, indem es die Absicht analysiert (Quelle, Textur, Dauer und Stimmung) und passende Clips synthetisiert. Sie können dann mehrere Variationen überprüfen, die besten Takes behalten und sie in ein Soundeffekte-Board einfügen, um sofortige Wiedergabe beim Bearbeiten, Streamen oder Prototyping zu ermöglichen."
+        },
+        {
+          "question": "Was macht diesen Soundeffekte-Board-Workflow nützlich?",
+          "answer": "Sie erhalten Geschwindigkeit und Konsistenz: Generieren Sie Variationen schnell, hören Sie Clips sofort an und behalten Sie einen sauberen Satz von Standard-Assets. Das Soundeffekt-Soundboard hilft Ihnen beim Iterieren, während ein Soundeffekte-Board Ihnen hilft, Ihre besten Clips für die wiederholte Verwendung in Videos, Spielen und Apps zu standardisieren."
+        },
+        {
+          "question": "Wie schreibe ich bessere Eingabeaufforderungen für das Soundeffekt-Soundboard?",
+          "answer": "Seien Sie spezifisch bezüglich Quelle und Kontext (z. B. \"Metalltür knallt in einem kleinen Flur\"), fügen Sie dann Details wie Entfernung, Intensität, Textur und Dauer hinzu. Wenn Sie einen Satz erstellen, fordern Sie 3–5 Variationen an und behalten Sie die besten in Ihrem Soundeffekte-Board."
+        },
+        {
+          "question": "Wie verwende ich ein Soundeffekte-Board beim Videoschnitt?",
+          "answer": "Behalten Sie einen kleinen Satz wiederverwendbarer Clips (Treffer, Whooshes, Ambiente-Betten, UI-Taps) und lösen Sie sie beim Schneiden aus, um die Iteration zu beschleunigen. Mit dem Soundeffekt-Soundboard können Sie fehlende Clips bei Bedarf generieren und sie dann zu einem Soundeffekte-Board hinzufügen, um einen konsistenten Stil über Episoden hinweg beizubehalten."
+        },
+        {
+          "question": "Wie können Spieleentwickler das Soundeffekt-Soundboard verwenden?",
+          "answer": "Verwenden Sie es, um Clips-Familien (Schritte, UI, Aufpralle) mit konsistentem Charakter zu generieren, und speichern Sie dann den genehmigten Satz als Soundeffekte-Board für schnellen Export und Iteration. Dies hält die Variation hoch, ohne Assets von Grund auf neu zu erstellen."
+        },
+        {
+          "question": "Kann es Ambiente, weißes Rauschen und Hintergründe erstellen?",
+          "answer": "Ja. Beschreiben Sie die Szene, Dichte, Bewegung und Raum (z. B. \"stetiger Regen auf einem Metalldach, ferner Donner, kleiner Raum-Hall\"). Das Soundeffekt-Soundboard generiert geschichtete Hintergründe, und Sie können ein konsistentes Ambiente-Paket in Ihrem Soundeffekte-Board behalten."
+        },
+        {
+          "question": "Welche Arten von Clips kann ich generieren?",
+          "answer": "Sie können Ambiente, mechanische und Fahrzeug-Texturen, UI-Taps, Aufpralle, Übergänge und stilisierte Effekte generieren. Das Soundeffekt-Soundboard ist flexibel für sowohl realistische als auch filmische Bedürfnisse, und ein Soundeffekte-Board hilft Ihnen, den besten Satz organisiert zu halten."
+        },
+        {
+          "question": "Sind die generierten Clips lizenzfrei?",
+          "answer": "Ja. Ausgaben vom Soundeffekt-Soundboard sind lizenzfrei und enthalten eine kommerzielle Lizenz, sodass Sie sie in Videos, Spielen und Apps verwenden können. Speichern Sie genehmigte Assets in einem Soundeffekte-Board, um sie mit Ihrem Team zu teilen."
+        },
+        {
+          "question": "Welche Audioqualität kann ich erwarten?",
+          "answer": "Das Soundeffekt-Soundboard gibt hochwertiges Audio aus, das für den Produktionseinsatz entwickelt wurde, mit sauberer Dynamik und breiter Frequenzabdeckung. Sie können schnell eine Vorschau anzeigen und dann Ihre besten Clips aus Ihrem Soundeffekte-Board exportieren und wiederverwenden."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "men-moaning": {
+    "meta": {
+      "title": "Männer stöhnen",
+      "description": "Erstellen Sie sofort Männer-Stöhnen mit unserer fortschrittlichen KI-Technologie. Erzeugen Sie verschiedene Klangtypen inkl. natürlicher Klänge, Musikinstrumente und mehr.",
+      "keywords": "Männer stöhnen, Mann stöhnt"
+    },
+    "hero": {
+      "title": "Männer stöhnen",
+      "subtitle": "Verwandeln Sie Textbeschreibungen sofort in hochwertiges Männer-Stöhnen"
+    },
+    "generator_subtitle": "Wählen Sie aus den beliebten Prompts unten oder schreiben Sie Ihre eigene Beschreibung, um Männer-Stöhnen zu erzeugen",
+    "advantages": {
+      "title": "Warum unseren Generator wählen?",
+      "items": [
+        {
+          "title": "Sofortige Erstellung von Männer-Stöhnen",
+          "description": "Erstellen Sie professionelle Männer-Stöhnen-Clips sofort aus Text mit unserem KI-Generator. Das Tool verwandelt Ihre Ideen in Sekunden in hochwertiges Mann-stöhnt und Charakter-Audio – ohne Sample-Bibliotheken oder manuelle Bearbeitung. Erzeugen Sie unbegrenzte Variationen für Spiele, Videos und Apps. Ob Horror-Stöhnen, Dämonen-Stöhnen oder dramatisches Mann-stöhnt – der Generator liefert Studio-Qualität für Ihre Projekte.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Unbegrenzte kreative Möglichkeiten",
+          "description": "Nutzen Sie unseren Generator, um jeden gewünschten Stil von Männer-Stöhnen zu erstellen – von dezentem Stöhnen bis zu intensivem Mann-stöhnt. Das Tool versteht komplexe Beschreibungen und gibt Ihnen volle kreative Freiheit. Erkunden Sie Optionen für Spiele, Filme und Medien. Von Charakter-Stöhnen bis zu vielfältigen Stimmstilen für jedes Szenario – holen Sie sich den perfekten Männer-Stöhnen-Clip für Ihr Projekt.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professionelle Audio-Qualität",
+          "description": "Jedes Männer-Stöhnen aus unserem Generator erfüllt Sendestandards mit High-Fidelity-Ausgabe. Moderne Algorithmen sorgen für Studio-Qualität bei Mann-stöhnt und anderen Stimmeffekten. Alle Soundeffekte sind produktionsreif und für den professionellen Einsatz optimiert. Der Generator bietet vollständige Frequenzabdeckung und klare Dynamik für authentisches Stöhnen. Sie klingen in jedem Projekt konsistent.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Generator-FAQ",
+      "items": [
+        {
+          "question": "Was ist dieser Generator?",
+          "answer": "Es ist ein KI-Tool, das Textbeschreibungen in individuelle Männer-Stöhnen- und Mann-stöhnt-Soundeffekte umwandelt. Es nutzt natürliche Sprachverarbeitung und neuronale Audiosynthese für professionelle Clips. Sie können Stimmclips für Horror, Spiele oder Filme erstellen. Es eignet sich für Content-Ersteller, Spieleentwickler und Filmemacher, die schnelle, authentische Männer-Stöhnen-Ausgabe brauchen. Der Generator unterstützt auch verschiedene Stile und Stimmungen für Mann-stöhnt."
+        },
+        {
+          "question": "Wie funktioniert er?",
+          "answer": "Unser Generator nutzt eine mehrstufige Pipeline, um Text in hochwertiges Audio zu verwandeln. Zuerst analysiert er Ihre Beschreibung (Intensität, Charakter, Dauer). Diese Informationen laufen durch für Stöhn- und Stimm synthese trainierte neuronale Netze. Mit professionellen Samples trainiert, erzeugt die KI natürlich klingendes Männer-Stöhnen und Mann-stöhnt. Filterung und Nachbearbeitung halten die Qualität hoch und stellen sicher, dass jeder Stimm-Soundeffekt-Clip Sendestandards erfüllt."
+        },
+        {
+          "question": "Was macht diesen Generator einzigartig?",
+          "answer": "Unser Generator zeichnet sich durch sofortige Anpassung und professionelle Qualität aus. Anders als statische Bibliotheken erstellt er auf Anfrage maßgeschneidertes Männer-Stöhnen und Mann-stöhnt. Das System versteht komplexe Beschreibungen und erzeugt Ausgabe mit feiner Kontrolle über Intensität und Stil. Sie erhalten unbegrenzte Variationen und kreative Freiheit. Soundeffekte für Spiele und Filme lassen sich ohne zusätzliche Produktion anpassen."
+        },
+        {
+          "question": "Wie schreibe ich wirksame Prompts?",
+          "answer": "Schreiben Sie klare, konkrete Beschreibungen. Probieren Sie „große alte Männer stöhnen“ oder „Horror-Stöhnen und -Stöhnen“ für Männer-Stöhnen. Geben Sie Intensität, Charaktertyp und Kontext an. Unser Generator reagiert gut auf Begriffe wie Dämonen-Stöhnen, Stöhnen und Grunzen. Mehr Kontext liefert bessere Ergebnisse für Mann-stöhnt und andere Stimmeffekte."
+        },
+        {
+          "question": "Wie nutze ich ihn in Videoinhalten?",
+          "answer": "Platzieren Sie individuelle Männer-Stöhnen- und Mann-stöhnt-Clips dort, wo Szenen Spannung oder Reaktion brauchen. Der Generator hilft beim Erstellen von Charakter-Audio für Intros, Übergänge und Schlüsselmomente. Schichten Sie Variationen für reiches, fesselndes Sounddesign. Nutzen Sie ihn für Filme, Vlogs und Tutorials. Das Tool ermöglicht einen einzigartigen Audiostil zu Ihrem Content."
+        },
+        {
+          "question": "Wie nutze ich ihn in der Spieleentwicklung?",
+          "answer": "Unser Generator unterstützt prozedurales Audio für Spiele. Erstellen Sie Männer-Stöhnen- und Mann-stöhnt-Variationen, damit Spieler selten denselben Clip zweimal hören. Bauen Sie Systeme, die auf Spielzustand, Gefahren und Events reagieren. Erzeugen Sie verschiedene Optionen für Charaktere, Cutscenes und Horror-Reaktionen bei einheitlichem Stil. Soundeffekte können dynamisch aus Spielparametern gemischt werden. Der Generator liefert professionelle Ausgabe für mehr Immersion und Wirkung."
+        },
+        {
+          "question": "Welche Arten von Männer-Stöhnen kann ich erstellen?",
+          "answer": "Sie können ein breites Spektrum erstellen: Horror-Männer-Stöhnen, Mann-stöhnt für Spiele oder Filme, großes altes Männer-Stöhnen, Dämonen-Stöhnen und eigene Stile. Der Generator bearbeitet diese Kategorien mit gleichbleibender Qualität. Ob dezenten Stöhnen oder mutiges Mann-stöhnt für jedes Szenario – das Tool liefert professionelle Ergebnisse."
+        },
+        {
+          "question": "Sind die generierten Männer-Stöhnen-Clips lizenzfrei?",
+          "answer": "Ja. Alle Audios unseres Generators sind lizenzfrei und enthalten eine kommerzielle Lizenz. Sie können die generierten Männer-Stöhnen und Mann-stöhnt in jedem Projekt ohne zusätzliche Gebühren oder Namensnennung nutzen. Jeder Clip ist für sofortige Nutzung in professioneller und kommerzieller Arbeit freigegeben."
+        },
+        {
+          "question": "Welche Qualität liefert er?",
+          "answer": "Unser Generator liefert professionelles Männer-Stöhnen und Mann-stöhnt nach Industriestandards. Sie erhalten Optionen in hoher Auflösung, vollen Frequenzbereich und klare Dynamik. Die gesamte Ausgabe ist sendefähig und für professionelle Produktion und kreative Projekte geeignet."
+        }
+      ]
+    }
+  }
+}

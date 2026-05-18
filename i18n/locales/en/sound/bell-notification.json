@@ -1,0 +1,75 @@
+{
+  "bell-notification": {
+    "meta": {
+      "title": "Bell Notification",
+      "description": "Instantly create bell notification with our advanced AI technology. Generate various type sounds including natural sounds, musical instruments and more.",
+      "keywords": "bell notification, notification bell"
+    },
+    "hero": {
+      "title": "Bell Notification",
+      "subtitle": "Instantly transform text description into high-quality bell notification"
+    },
+    "generator_subtitle": "Select from popular prompts below or write your own description to generate bell notification",
+    "advantages": {
+      "title": "Why Choose Our Bell Notification Generator?",
+      "items": [
+        {
+          "title": "Instant Notification Creation",
+          "description": "Create professional bell notification clips instantly from text with our AI generator. The tool turns your ideas into high-quality chime and alert audio in seconds, without sample libraries or manual editing. Generate unlimited variations for any project with a few clicks. Whether you need notification bell, app chime, or layered ping, the generator delivers studio-quality output for your creative projects.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Unlimited Creative Possibilities",
+          "description": "Use our generator to create any style of bell notification you imagine—from soft ping to door chime. The tool understands complex descriptions and gives you full creative freedom. Explore endless options tailored to videos, games, and apps. From single strikes to layered notification bell, get the perfect clip for every scenario.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professional-Grade Audio Quality",
+          "description": "Every bell notification from our generator meets broadcast standards with high-fidelity output. Cutting-edge algorithms ensure studio-quality results. All notification bell output is production-ready and optimized for professional use. The generator delivers full frequency coverage and controlled dynamics for authentic chime and alert output.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Bell Notification Generator FAQ",
+      "items": [
+        {
+          "question": "What is a bell notification generator?",
+          "answer": "A bell notification generator is an AI tool that turns text descriptions into custom chime and alert audio. Ours uses natural language processing and neural audio synthesis to produce professional-quality clips. Deep learning models trained on chime datasets understand your description and generate matching variations. It suits content creators, video editors, and app developers who need quick, authentic bell notification output. The generator uses your context and details to create nuanced, layered audio. For polished notification chime or other styles, it delivers precise, high-fidelity results."
+        },
+        {
+          "question": "How does the generator work?",
+          "answer": "The tool uses a multi-stage pipeline to turn text into high-quality audio. It first analyzes your description to capture traits like tone, resonance, duration, and style. That information goes through neural networks trained for chime and alert synthesis, which handle frequency, dynamics, and decay. Trained on professional samples, the AI produces natural-sounding bell notification. Filtering and post-processing keep quality high and ensure every notification bell clip meets broadcast standards."
+        },
+        {
+          "question": "What makes this generator unique?",
+          "answer": "Our generator stands out through instant customization and professional quality. Unlike static libraries, it creates tailored chime clips on demand. It is trained on high-quality samples for realistic results, including notification bell and varied chime styles. The system understands complex descriptions and produces bell notification output with fine control over tone and context. You get unlimited variations and creative freedom."
+        },
+        {
+          "question": "How do I write effective prompts for the generator?",
+          "answer": "Write clear, specific descriptions with multiple details. Instead of just \"chime,\" try \"bell notification with reverb\" or \"notification bell with echo.\" Include style, tone, duration, and any distinctive traits. The generator responds well to terms like app ping, door chime, and resonance. For complex scenarios, break them into parts and say how they combine. More context yields better results for bell notification and notification bell."
+        },
+        {
+          "question": "How can I use the generator in video content?",
+          "answer": "Map your video's scenes and place custom bell notification clips where they add impact. The generator helps you create chime and alert audio for every moment—from subtle cues to dramatic hits. Layer several variations of notification bell for rich, engaging audio. Use it for transitions, titles, and key scenes. Use distinct moments such as notification bell to underline time or place. The tool lets you build a unique audio style that fits your content."
+        },
+        {
+          "question": "How can I use the generator in game development?",
+          "answer": "The generator supports procedural audio for games. Create bell notification variations so players rarely hear the same clip twice. Build systems that react to game state, player actions, and conditions. Produce different notification bell options for UI, levels, and events while keeping a consistent style. Layered output can be mixed dynamically from game parameters. The generator delivers professional-quality audio that enhances immersion and feedback."
+        },
+        {
+          "question": "What types of notification can I create?",
+          "answer": "You can create a wide range of bell notification: app chime, door ping, notification bell for ambience or UI, intensities (soft to loud), and styles (app, door, cartoon, cinematic). The tool handles these bell notification categories with consistent quality. Whether you need light chime or strong alert clips, the generator delivers professional results for any project."
+        },
+        {
+          "question": "Are the generated notification clips royalty-free?",
+          "answer": "Yes. All audio from our generator is royalty-free and includes a commercial license. You can use the generated bell notification clips in any project without extra fees or attribution. Every clip, including notification bell output, is cleared for immediate use in professional and commercial work."
+        },
+        {
+          "question": "What quality does the generator produce?",
+          "answer": "The generator outputs professional-grade bell notification audio that meets industry standards. You get high-resolution options up to 192kHz/24-bit for notification bell, full frequency range, and controlled dynamics. All output is broadcast-ready. Every clip is suitable for professional production and creative projects."
+        }
+      ]
+    }
+  }
+}

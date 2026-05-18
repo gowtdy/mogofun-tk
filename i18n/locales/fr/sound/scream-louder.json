@@ -1,0 +1,71 @@
+{
+  "scream-louder": {
+    "meta": {
+      "title": "Cri plus fort",
+      "description": "Créez instantanément un « cri plus fort » grâce à notre IA avancée. Générez divers types de sons : nature, instruments, et plus encore.",
+      "keywords": "cri plus fort, cri puissant"
+    },
+    "hero": {
+      "title": "Cri plus fort",
+      "subtitle": "Transformez instantanément une description textuelle en audio « cri plus fort » et cris puissants de haute qualité"
+    },
+    "generator_subtitle": "Choisissez parmi les invites populaires ci-dessous ou rédigez votre propre description pour générer un « cri plus fort »",
+    "advantages": {
+      "title": "Pourquoi choisir notre générateur « cri plus fort » ?",
+      "items": [
+        {
+          "title": "Créez des indices « cri plus fort » en quelques secondes",
+          "description": "Transformez un texte d’invite concis en effets vocaux très intenses et moments « cri plus fort » sans fouiller d’immenses bibliothèques. Le modèle interprète l’urgence, le ton et le timing pour que chaque clip convienne aux bandes-annonces, cinématiques de jeu et montages dramatiques. L’itération rapide permet aux équipes de comparer les versions avant verrouillage.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Intensité flexible du tendu à l’explosif",
+          "description": "Affinez le détail de l’invite pour passer d’une tension maîtrisée à l’énergie de cris puissants tout en préservant la lisibilité de la scène. Vous pouvez régler durée, texture vocale et couleur émotionnelle selon le cas, puis exporter des alternatives pour des tests A/B de timing. Ce flux garde un sound design expressif sans indices stock répétitifs.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualité audio digne du pro",
+          "description": "Les sorties sont prêtes au mix avec un niveau sonore stable et des transitoires propres, pour que les prises « cri plus fort » et les couches de cris puissants se placent nettement dans le mix. Les fichiers restent clairs après compression des plateformes, pour que les pics émotionnels passent sur mobile, bureau et chaînes de diffusion.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "À propos de notre générateur « cri plus fort »",
+      "items": [
+        {
+          "question": "Qu’est-ce qu’un générateur « cri plus fort » ?",
+          "answer": "C’est un outil audio IA qui transforme des invites textuelles en effets vocaux dramatiques et bursts « cri plus fort » pour les scènes à fort impact. Au lieu d’enregistrer de nombreuses prises, vous générez rapidement des clips sur mesure et les testez directement sur la timeline."
+        },
+        {
+          "question": "Comment fonctionne cet outil « cri plus fort » ?",
+          "answer": "Le système analyse émotion, rythme, intensité et contexte dans votre invite, puis synthétise un audio aligné sur ces indices, de la tension douce aux cris puissants. Vous pouvez affiner la formulation entre les passes pour resserrer l’attaque, le sustain et le timing jusqu’à ce que l’effet corresponde au montage."
+        },
+        {
+          "question": "Pourquoi l’utiliser plutôt que des bibliothèques de stock ?",
+          "answer": "Les bibliothèques peuvent sembler répétitives et ne pas coller au rythme précis de la scène. La génération pilotée par invite crée des prises « cri plus fort » et cris puissants à la demande, pour des moments plus spécifiques et moins de recherche audio manuelle."
+        },
+        {
+          "question": "Comment rédiger des invites pour des effets « cri plus fort » ?",
+          "answer": "Décrivez qui réagit, ce qui déclenche l’éclat vocal, et combien de temps doit durer la cue. Des invites précises comme « court cri d’ordre avant l’impact » ou « cris puissants au-dessus des débris qui s’effondrent » donnent en général un meilleur timing que des mots vagues."
+        },
+        {
+          "question": "Quand utiliser des cris puissants dans un mix ?",
+          "answer": "Employez des cris puissants pour les transitions de climax, les pics de bataille, les beats de panique ou les révélations très tendues. Gardez les niveaux sous le dialogue principal et automatisez le gain pour augmenter l’impact sans masquer les répliques importantes."
+        },
+        {
+          "question": "Quelles variantes puis-je générer ?",
+          "answer": "Vous pouvez créer de courts appels, des hurlements tendus, des réactions de foule en couches, des bursts cinématographiques stylisés, des pics « cri plus fort » aux côtés de cris puissants soutenus. Cette plage aide monteurs et développeurs à tester le rythme émotionnel avant export final."
+        },
+        {
+          "question": "L’audio généré est-il libre de droits ?",
+          "answer": "Oui. Les fichiers générés sont libres de droits sous notre licence pour un usage créateur et commercial standard. Consultez les dernières conditions avant grandes campagnes ou diffusion broadcast."
+        },
+        {
+          "question": "Quelle qualité puis-je attendre des exports ?",
+          "answer": "Attendez-vous à une sortie prête prod avec détail clair, dynamique stable et lecture prévisible sur tous les appareils, même en poussant les niveaux « cri plus fort » ou en empilant des cris puissants. Pour la livraison finale, appliquez votre chaîne de mastering habituelle pour viser les objectifs loudness des plateformes."
+        }
+      ]
+    }
+  }
+}

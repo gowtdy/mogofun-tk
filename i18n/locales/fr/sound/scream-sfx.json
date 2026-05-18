@@ -1,0 +1,75 @@
+{
+  "scream-sfx": {
+    "meta": {
+      "title": "SFX cri",
+      "description": "Créez des SFX cri instantanément avec notre technologie IA avancée. Générez divers types de sons : naturels, instruments musicaux et plus.",
+      "keywords": "sfx cri, effets sonores cri"
+    },
+    "hero": {
+      "title": "SFX cri",
+      "subtitle": "Transformez instantanément une description textuelle en SFX cri de haute qualité"
+    },
+    "generator_subtitle": "Choisissez parmi les invites populaires ci-dessous ou rédigez votre propre description pour générer des SFX cri",
+    "advantages": {
+      "title": "Pourquoi choisir notre générateur ?",
+      "items": [
+        {
+          "title": "Création instantanée de SFX cri",
+          "description": "Créez des clips SFX cri professionnels instantanément à partir de texte avec notre générateur IA. L'outil transforme vos idées en SFX cri et audio de personnage de haute qualité en quelques secondes, sans banques d'échantillons ni montage manuel. Générez des variations illimitées pour jeux, vidéos et apps. Que vous ayez besoin d'un cri de personnage garçon, d'effets sonores pour l'horreur, ou de pleurs de bébé, le générateur livre une sortie en qualité studio pour vos projets.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Possibilités créatives illimitées",
+          "description": "Utilisez notre générateur pour créer tout style de SFX cri que vous imaginez—des hurlements subtils aux cris intenses. L'outil comprend les descriptions complexes et vous donne une liberté créative totale. Explorez des options adaptées aux jeux, films et médias. Des cris de personnages aux styles vocaux variés pour chaque scénario, obtenez le clip SFX cri parfait pour votre projet.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualité audio professionnelle",
+          "description": "Chaque SFX cri de notre générateur respecte les normes de diffusion avec une sortie haute fidélité. Des algorithmes de pointe garantissent des résultats en qualité studio. Tous les effets sonores sont prêts pour la production et optimisés pour un usage professionnel. Le générateur offre une couverture fréquentielle complète et une dynamique claire pour des cris authentiques. Ils paraissent cohérents dans tout projet.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "FAQ générateur",
+      "items": [
+        {
+          "question": "Qu'est-ce que ce générateur ?",
+          "answer": "C'est un outil IA qui transforme des descriptions textuelles en SFX cri et effets sonores cri personnalisés. Le nôtre utilise le traitement du langage naturel et la synthèse neuronale audio pour produire des clips SFX cri de qualité professionnelle. Vous pouvez créer des clips vocaux pour horreur, jeux ou films. Il convient aux créateurs de contenu, développeurs de jeux et cinéastes qui ont besoin d'une sortie rapide et authentique. Le générateur prend aussi en charge les effets sonores cri et SFX cri pour styles et ambiances variés."
+        },
+        {
+          "question": "Comment ça fonctionne ?",
+          "answer": "Notre générateur utilise un pipeline en plusieurs étapes pour transformer le texte en audio de haute qualité. Il analyse d'abord votre description pour capturer des traits comme l'intensité, le personnage et la durée. Ces informations passent par des réseaux neuronaux entraînés pour la synthèse de cri et vocal. Entraînée sur des échantillons professionnels, l'IA produit des SFX cri naturels. Le filtrage et le post-traitement maintiennent une qualité élevée et garantissent que chaque clip d'effet sonore vocal respecte les normes de diffusion."
+        },
+        {
+          "question": "Qu'est-ce qui rend ce générateur unique ?",
+          "answer": "Notre générateur se distingue par la personnalisation instantanée et la qualité professionnelle. Contrairement aux banques statiques, il crée des SFX cri et effets sonores cri sur mesure à la demande. Le système comprend les descriptions complexes et produit une sortie SFX cri avec un contrôle fin de l'intensité et du style. Vous obtenez des variations illimitées et une liberté créative. Les effets sonores pour jeux et films sont faciles à adapter sans travail de production supplémentaire."
+        },
+        {
+          "question": "Comment rédiger des invites efficaces pour lui ?",
+          "answer": "Rédigez des descriptions claires et précises. Essayez « cri personnage garçon » ou « pleurs bébé ». Pour SFX cri, dites « hurlement effrayant » ou « hurlement drôle ». Incluez l'intensité, le type de personnage et le contexte. Notre générateur répond bien aux termes comme cri, hurlement et pleurs. Plus de contexte donne de meilleurs résultats pour SFX cri et effets sonores cri."
+        },
+        {
+          "question": "Comment l'utiliser dans du contenu vidéo ?",
+          "answer": "Placez des clips SFX cri et effets sonores cri personnalisés où les scènes ont besoin de tension ou de réaction. Le générateur vous aide à créer SFX cri et audio de personnage pour intros, transitions et moments clés. Superposez des variations de SFX cri et effets sonores cri pour un design sonore riche et engageant. Utilisez-le pour films, vlogs et tutoriels. L'outil vous permet de construire un style audio unique qui correspond à votre contenu."
+        },
+        {
+          "question": "Comment l'utiliser en développement de jeux ?",
+          "answer": "Notre générateur prend en charge l'audio procédural pour les jeux. Créez des variations de SFX cri et d'effets sonores cri pour que les joueurs entendent rarement deux fois le même clip. Construisez des systèmes qui réagissent à l'état du jeu, aux dangers et aux événements. Produisez différentes options pour personnages, jumpscares et cinématiques tout en gardant un style cohérent. Les effets sonores peuvent être mixés dynamiquement à partir des paramètres du jeu. Le générateur livre des SFX cri de qualité professionnelle qui renforcent l'immersion et l'impact."
+        },
+        {
+          "question": "Quels types de SFX cri puis-je créer ?",
+          "answer": "Vous pouvez créer une large gamme de SFX cri : cri personnage garçon, pleurs bébé, effets sonores cri pour horreur ou jeux, hurlement effrayant, et styles personnalisés. Le générateur traite ces catégories SFX cri et effets sonores cri avec une qualité constante. Que vous ayez besoin de hurlements subtils ou de clips vocaux marqués pour tout scénario, l'outil livre des résultats SFX cri professionnels."
+        },
+        {
+          "question": "Les clips SFX cri générés sont-ils libres de droits ?",
+          "answer": "Oui. Tout l'audio de notre générateur est libre de droits et inclut une licence commerciale. Vous pouvez utiliser les SFX cri et effets sonores cri générés dans tout projet sans frais supplémentaires ni attribution. Chaque clip est autorisé pour une utilisation immédiate en usage professionnel et commercial."
+        },
+        {
+          "question": "Quelle qualité produit-il ?",
+          "answer": "Notre générateur produit des SFX cri et effets sonores cri de qualité professionnelle qui respectent les normes de l'industrie. Vous obtenez des options haute résolution, une plage de fréquences complète et une dynamique claire. Toute la sortie est prête pour la diffusion et convient à la production professionnelle et aux projets créatifs."
+        }
+      ]
+    }
+  }
+}

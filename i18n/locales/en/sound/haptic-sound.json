@@ -1,0 +1,71 @@
+{
+  "haptic-sound": {
+    "meta": {
+      "title": "Haptic Sound",
+      "description": "Instantly create haptic sound with our advanced AI technology. Generate various types of audio including natural tones, musical instruments and more.",
+      "keywords": "haptic sound, sound haptics"
+    },
+    "hero": {
+      "title": "Haptic Sound",
+      "subtitle": "Instantly transform text description into high-quality haptic sound"
+    },
+    "generator_subtitle": "Select from popular prompts below or write your own description to generate haptic sound",
+    "advantages": {
+      "title": "Why Choose Our Generator?",
+      "items": [
+        {
+          "title": "Instant Haptic Sound Creation",
+          "description": "Create professional haptic sound clips instantly from text with our AI generator. The tool turns your ideas into high-quality tactile feedback audio in seconds, without sample libraries or manual editing. Generate unlimited variations for apps, games, and UI. Whether you need a thud, screenshot click, or custom vibration tone, the generator delivers studio-quality output. Sound haptics for notifications and interactions are easy to produce with a few clicks.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Unlimited Creative Possibilities",
+          "description": "Use our generator to create any style of haptic sound you imagine—from soft taps to strong impacts. The tool understands complex descriptions and gives you full creative freedom. Explore options tailored to mobile apps, games, and interfaces. From subtle feedback to bold sound haptics, get the perfect clip for every scenario. Create varied tactile feedback for buttons, alerts, and gestures.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professional-Grade Audio Quality",
+          "description": "Every haptic sound from our generator meets broadcast standards with high-fidelity output. Cutting-edge algorithms ensure studio-quality results. All sound haptics output is production-ready and optimized for professional use. The generator delivers full frequency coverage and controlled dynamics for authentic tactile feedback. Sound haptics that feel natural in any app or game.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Generator FAQ",
+      "items": [
+        {
+          "question": "What is a haptic sound generator?",
+          "answer": "It is an AI tool that turns text descriptions into custom haptic sound and tactile feedback audio. Ours uses natural language processing and neural audio synthesis to produce professional-quality sound haptics clips. You can create feedback for notifications, UI taps, or game use. It suits app developers, game designers, and content creators who need quick, authentic sound haptics. The generator delivers precise, high-fidelity haptic sound for any project."
+        },
+        {
+          "question": "How does it work?",
+          "answer": "Our generator uses a multi-stage pipeline to turn text into high-quality audio. It first analyzes your description to capture traits like intensity, duration, and style. That information goes through neural networks trained for impact and feedback synthesis. Trained on professional samples, the AI produces natural-sounding haptic feedback. Filtering and post-processing keep quality high and ensure every sound haptics clip meets broadcast standards."
+        },
+        {
+          "question": "What makes this generator unique?",
+          "answer": "Our generator stands out through instant customization and professional quality. Unlike static libraries, it creates tailored haptic and tactile feedback clips on demand. The system understands complex descriptions and produces output with fine control over punch and tone. You get unlimited variations and creative freedom. Sound haptics for apps and games are easy to tailor without extra production work."
+        },
+        {
+          "question": "How do I write effective prompts?",
+          "answer": "Write clear, specific descriptions. Try \"thud effect\" or \"screenshot iPhone tone.\" For haptic sound, say \"mid nights tone\" or \"soft tap.\" Include intensity, duration, and context. Our generator responds well to terms like vibration, tap, and impact. More context yields better results for haptic sound and sound haptics."
+        },
+        {
+          "question": "How can I use the generator in apps?",
+          "answer": "Place custom haptic feedback clips where users tap or receive alerts. The generator helps you create haptic sound and sound haptics for buttons, notifications, and gestures. Layer variations of sound haptics for rich, engaging UX. Use it for mobile apps, wearables, and interfaces. The tool lets you build a unique audio style that fits your product. Sound haptics improve clarity and satisfaction in any app."
+        },
+        {
+          "question": "What types of haptic sound can I create?",
+          "answer": "You can create a wide range of haptic sound: thud, screenshot click, soft tap, strong impact, and custom vibration styles. The generator handles these haptic sound and sound haptics categories with consistent quality. Whether you need subtle feedback or bold clips for games and apps, the tool delivers professional results. Sound haptics for notifications and UI are supported with full creative control."
+        },
+        {
+          "question": "Are the generated clips royalty-free?",
+          "answer": "Yes. All audio from our generator is royalty-free and includes a commercial license. You can use the generated haptic sound and sound haptics clips in any project without extra fees or attribution. Every clip is cleared for immediate use in professional and commercial work, including apps and games."
+        },
+        {
+          "question": "What quality does the generator produce?",
+          "answer": "It outputs professional-grade haptic sound that meets industry standards. You get high-resolution options for sound haptics, full frequency range, and controlled dynamics. All output is broadcast-ready and suitable for professional production, apps, and creative projects."
+        }
+      ]
+    }
+  }
+}

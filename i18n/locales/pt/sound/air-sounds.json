@@ -1,0 +1,75 @@
+{
+  "air-sounds": {
+    "meta": {
+      "title": "Sons de ar",
+      "description": "Crie sons de ar instantaneamente com nossa tecnologia de IA avançada. Gere vários tipos de áudio, incluindo tons naturais, instrumentos musicais e mais.",
+      "keywords": "sons ar, efeito ar"
+    },
+    "hero": {
+      "title": "Sons de ar",
+      "subtitle": "Transforme descrições em texto em sons de ar de alta qualidade na hora"
+    },
+    "generator_subtitle": "Escolha entre os prompts populares abaixo ou escreva sua própria descrição para gerar sons de ar",
+    "advantages": {
+      "title": "Por que escolher nosso gerador de sons de ar?",
+      "items": [
+        {
+          "title": "Criação instantânea de sons de ar",
+          "description": "Crie sons de ar profissionais e clipes atmosféricos instantaneamente a partir de texto. Nossa IA transforma suas descrições em vento, whoosh e ambiência em segundos—sem bibliotecas de amostras ou edição manual. Precisa de clipes nítidos para a interface ou atmosfera completa para uma cena? Gere variações ilimitadas com qualidade pronta para transmissão. Obtenha efeito de ar autêntico para qualquer projeto.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Possibilidades criativas ilimitadas",
+          "description": "Crie qualquer estilo que imaginar: vento, whoosh, brisa ou ambiência de ar. A ferramenta entende descrições detalhadas e dá liberdade criativa total. Explore opções infinitas para vídeos, jogos e aplicativos. De efeito de ar sutil a áudio atmosférico em camadas para cinema, obtenha o clipe certo para cada cenário.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualidade de áudio profissional",
+          "description": "Cada clip do nosso gerador de sons de ar atende aos padrões de transmissão com saída de alta fidelidade. Algoritmos de ponta garantem efeito de ar e áudio atmosférico de qualidade de estúdio. Todos os clips estão prontos para produção e otimizados para uso profissional, com cobertura total de frequência e resultados autênticos e naturais.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "FAQ Sons de ar",
+      "items": [
+        {
+          "question": "O que é um gerador de sons de ar?",
+          "answer": "Nosso gerador é uma ferramenta de IA que transforma texto em sons de ar personalizados. Usa processamento de linguagem natural e síntese neural para produzir clipes profissionais—de vento e whoosh a efeitos atmosféricos. Atende criadores, editores de vídeo e desenvolvedores de jogos que precisam de efeito de ar rápido e autêntico com resultados precisos e de alta fidelidade."
+        },
+        {
+          "question": "Como o gerador funciona?",
+          "answer": "A ferramenta usa um pipeline em várias etapas para transformar texto em clipes de efeito de ar de alta qualidade. Ela analisa sua descrição para capturar intensidade, estilo e contexto, depois processa isso em redes neurais treinadas para síntese atmosférica e de vento. Você pode pedir clipes curtos para a interface ou ambiência mais longa. Cada clip atende aos padrões de transmissão."
+        },
+        {
+          "question": "O que torna este gerador de sons de ar único?",
+          "answer": "Nosso gerador se destaca pela personalização instantânea e qualidade profissional. Diferente de bibliotecas estáticas, ele cria efeito de ar sob medida sob demanda. Treinado com amostras de alta qualidade, entrega resultados realistas. Você obtém variações ilimitadas e liberdade criativa com controle fino."
+        },
+        {
+          "question": "Como escrevo prompts eficazes para sons de ar?",
+          "answer": "Escreva descrições claras e específicas. Tente \"efeito de ar para vento\" ou \"sons de ar para whoosh\". Inclua estilo (realista, cinematográfico), intensidade e contexto. O gerador responde bem a termos como vento, whoosh, brisa e ambiência. Mais contexto gera melhores resultados."
+        },
+        {
+          "question": "Como posso usar sons de ar em conteúdo de vídeo?",
+          "answer": "Mapeie as cenas do seu vídeo e coloque clipes de efeito de ar personalizados onde agregam impacto. Crie clipes de vento e whoosh para cada momento—de fundo sutil a hits dramáticos. Empilhe áudio atmosférico para resultados ricos e envolventes que destacam tempo ou lugar."
+        },
+        {
+          "question": "Como posso usar o gerador no desenvolvimento de jogos?",
+          "answer": "Nosso gerador suporta clipes de efeito de ar procedurais para jogos. Crie variações para os jogadores raramente ouvirem o mesmo clip duas vezes. Produza opções diferentes para interface, fases e eventos mantendo um estilo consistente. A ferramenta entrega sons de ar de qualidade profissional que aumentam imersão e feedback."
+        },
+        {
+          "question": "Que tipos de sons de ar posso criar?",
+          "answer": "Você pode criar uma ampla gama: vento, whoosh, brisa e ambiência de ar. Estilos de suave a alto (realista, cinematográfico, vintage). A ferramenta trata esses com qualidade consistente. Obtenha o efeito de ar certo para qualquer projeto."
+        },
+        {
+          "question": "Os clips gerados são livres de royalties?",
+          "answer": "Sim. Todos os clips do nosso gerador são livres de royalties e incluem licença comercial. Você pode usar o efeito de ar gerado em qualquer projeto sem taxas extras ou atribuição. Cada clip está liberado para uso imediato em trabalho profissional e comercial."
+        },
+        {
+          "question": "Qual qualidade o gerador produz?",
+          "answer": "Nosso gerador produz clipes de nível profissional que atende aos padrões da indústria. Você tem opções em alta resolução até 192 kHz/24-bit, faixa de frequência completa e dinâmica controlada. Cada clip está pronto para transmissão e adequado para produção profissional e projetos criativos."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "scream-and-shout": {
+    "meta": {
+      "title": "Scream and Shout",
+      "description": "Instantly create scream and shout with our advanced AI technology. Generate various type sounds including natural sounds, musical instruments and more.",
+      "keywords": "scream and shout, screaming and yelling"
+    },
+    "hero": {
+      "title": "Scream and Shout",
+      "subtitle": "Instantly transform text description into high-quality scream and shout"
+    },
+    "generator_subtitle": "Select from popular prompts below or write your own description to generate scream and shout",
+    "advantages": {
+      "title": "Why Choose Our Scream and Shout Generator?",
+      "items": [
+        {
+          "title": "Create Scream and Shout Clips in Seconds",
+          "description": "Turn simple prompt text into high-impact vocal moments without searching massive sound libraries. The model understands urgency, pacing, and character intent, so each result fits action edits, trailers, game scenes, and social content. Fast iteration lets you compare takes before final timing lock. A focused scream and shout prompt can drive screaming and yelling accents without cluttering your mix.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Flexible Intensity for Every Scenario",
+          "description": "From controlled tension to full screaming and yelling energy, you can shape delivery by adjusting prompt detail, duration, and vocal texture. This helps align emotion with picture edits while preserving clarity in dialogue-heavy scenes. You can also generate alternate versions for A/B review. Editors often keep one scream and shout version plus one screaming and yelling version for fast swaps.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professional-Grade Audio Quality",
+          "description": "Exports are mix-ready with reliable loudness behavior, clean transients, and consistent tonal balance. This makes replacement easier late in post-production and helps effects remain stable after platform compression on mobile and desktop playback. Consistent mastering keeps each scream and shout clear while every screaming and yelling peak stays controlled.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "About Our Scream and Shout Generator",
+      "items": [
+        {
+          "question": "What is a scream and shout generator?",
+          "answer": "It is an AI tool that converts text prompts into expressive vocal effects for high-energy moments. Instead of recording many actors or manually searching libraries, you can generate tailored clips for each scene quickly. One scream and shout concept can produce multiple screaming and yelling alternatives for different edits."
+        },
+        {
+          "question": "How does this scream and shout tool work?",
+          "answer": "The system parses emotional intent, volume profile, rhythm, and context from your prompt, then synthesizes output aligned with those cues. You can iterate wording to tighten attack, sustain, or pacing until the clip fits your timeline exactly. Iteration helps each scream and shout cue land on frame while screaming and yelling remains coherent."
+        },
+        {
+          "question": "Why use this instead of stock packs?",
+          "answer": "Stock packs often repeat overused assets and may not match scene pacing. Prompt-driven generation creates new takes on demand, helping your edits feel original while staying synchronized with visuals. That keeps every scream and shout unique and avoids generic screaming and yelling clichés."
+        },
+        {
+          "question": "How should I write prompts for scream and shout effects?",
+          "answer": "Describe who is reacting, what triggers the voice moment, and how long it should last. Specific prompts such as \"short command shout before impact\" usually produce better timing than generic wording. Better prompts sharpen scream and shout timing and tame screaming and yelling spill in dense scenes."
+        },
+        {
+          "question": "When should I use screaming and yelling in a mix?",
+          "answer": "Use screaming and yelling for climactic transitions, battle cues, panic beats, or high-stress reveals. Keep levels slightly below primary dialogue and automate gain to preserve intelligibility in dense scenes. Pairing a short scream and shout lead-in before screaming and yelling can improve dramatic pacing."
+        },
+        {
+          "question": "What types of vocal variants can I generate?",
+          "answer": "You can generate short commands, battle cries, layered crowds, strained calls, and stylized dramatic accents. This range makes it easier to test emotional impact before final export. Build a small scream and shout library and tag each screaming and yelling clip by intensity for fast retrieval."
+        },
+        {
+          "question": "Is generated audio royalty-free?",
+          "answer": "Yes. Generated files are royalty-free under our license for standard creator and commercial use. Please review current licensing terms before large ad or broadcast deployment."
+        },
+        {
+          "question": "What quality should I expect from exports?",
+          "answer": "Expect production-ready output with clear detail, stable dynamics, and reliable playback behavior across devices. For final release, apply your standard mastering chain to match platform loudness targets. Final QC should confirm every scream and shout remains intelligible and all screaming and yelling transients survive compression."
+        }
+      ]
+    }
+  }
+}

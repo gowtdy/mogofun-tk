@@ -1,0 +1,71 @@
+{
+  "soundboard-guy": {
+    "meta": {
+      "title": "Soundboard Guy",
+      "description": "Erstellen Sie sofort „Soundboard Guy“-Clips mit unserer fortschrittlichen KI. Generieren Sie verschiedene Klangtypen – Naturgeräusche, Instrumente und mehr.",
+      "keywords": "soundboard guy, menschlicher schrei"
+    },
+    "hero": {
+      "title": "Soundboard Guy",
+      "subtitle": "Verwandeln Sie Textbeschreibungen sofort in hochwertige „Soundboard Guy“-Clips"
+    },
+    "generator_subtitle": "Wählen Sie unten beliebte Prompts oder schreiben Sie Ihre eigene Beschreibung, um „Soundboard Guy“ zu erzeugen",
+    "advantages": {
+      "title": "Warum unseren Soundboard-Guy-Generator wählen?",
+      "items": [
+        {
+          "title": "Schnelle Erzeugung von Clips",
+          "description": "Kurze Textprompts werden in ausdrucksstarke Reaktionszeilen verwandelt – ohne alte Soundpakete zu durchsuchen. Das Modell erfasst Timing, Ton und Betonung, sodass jeder Clip zu Livestreams, Meme-Schnitten und kurzen Social-Media-Videos passt. Sie können schnell iterieren, wenn ein Witz mehrere Versionen braucht. Ein fokussierter „Soundboard Guy“-Prompt kann auch einen menschlichen Schrei-Akzent für stärkere Reveals einblenden.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Flexibler Stil für Reaktionen und Sketche",
+          "description": "Fordern Sie ruhige, dramatische, sarkastische oder chaotische Auslieferung an und verfeinern Sie den Rhythmus mit mehr Prompt-Detail. Ob kompakter Callout oder geschichteter Schrei-Moment – die Ausgaben bleiben an Ihre Szenenabsicht gebunden. So bleibt die Stimme der Figur über Folgen hinweg konsistent. Teams kombinieren oft einen „Soundboard Guy“-Take mit einem Schrei-Take für schnelle A/B-Checks.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professionelle Audioqualität",
+          "description": "Dateien werden mit stabiler Lautheit und sauberen Transienten exportiert – einfacher zu platzieren in Timelines und Podcast-Sessions. Die Qualität bleibt nach üblicher Plattformkompression zuverlässig, damit späte Austausche Ihren Mix nicht zerstören. Einheitliches Pegeln hält jeden „Soundboard Guy“-Clip klar, während jeder menschliche Schrei kontrolliert bleibt.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Über unseren Soundboard-Guy-Generator",
+      "items": [
+        {
+          "question": "Was ist ein Soundboard-Guy-Generator?",
+          "answer": "Ein KI-Tool, das kurze stimmige Reaktionsclips aus einfachen Textprompts erzeugt. Statt Schauspieler aufzunehmen oder riesige Bibliotheken zu durchsuchen, generieren Sie in Sekunden eine „Soundboard Guy“-Zeile, die zu Timing und Ton passt. Ein Konzept kann sich in mehrere Schrei-Varianten für verschiedene Schnitte verzweigen."
+        },
+        {
+          "question": "Wie funktioniert dieses Soundboard-Guy-Tool?",
+          "answer": "Das System liest Prompt-Hinweise wie Emotion, Tempo und Intensität und synthetisiert dann einen Clip, der zu diesen Merkmalen passt. Sie können die Formulierung zwischen Durchläufen verfeinern, bis Spiel, Punch und Timing exakt zum Schnitt passen. Iteration hilft, jeden „Soundboard Guy“-Beat auszurichten und jede Schrei-Schicht bewusst zu halten."
+        },
+        {
+          "question": "Warum das statt Stock-Soundboards?",
+          "answer": "Stock-Boards wiederholen oft überstrapazierte Clips. Hier erzeugen Sie frische Variationen aus Ihrer eigenen Prompt-Sprache – Inhalte bleiben origineller und passen besser zum Szenario. So wirkt jeder „Soundboard Guy“-Moment einzigartig und jeder Schrei-Übergang vermeidet Klischees."
+        },
+        {
+          "question": "Wie schreibe ich Prompts für „Soundboard Guy“?",
+          "answer": "Nutzen Sie konkreten Kontext: wer spricht, warum reagiert er, und wie lange soll die Zeile sein. Spezifische Prompts wie „kurzer selbstbewusster Callout nach einem Spielsieg“ liefern meist sauberere Ergebnisse als ein einzelnes vages Wort. Mehr Detail strafft die „Soundboard Guy“-Formulierung und das Schrei-Timing."
+        },
+        {
+          "question": "Wo passt der menschliche Schrei in den Workflow?",
+          "answer": "Eine kontrollierte Schrei-Schicht eignet sich für energiegeladene Übergänge, übertriebene Panik-Momente oder überzogene Reveals. Halten Sie den Pegel leicht unter Erzählung und Musik, damit der Effekt wirkt, ohne Sprache zu überdecken. Eine „Soundboard Guy“-Cue vor einem Schrei kann den komischen Rhythmus verbessern."
+        },
+        {
+          "question": "Welche Varianten kann ich erzeugen?",
+          "answer": "Sie können trockene Voice-Stabs, geschichtete Reaktionen, laute Callouts, zurückhaltende Takes und stilisierte Comedy-Akzente erstellen. So testen Sie mehrere Optionen, bevor Sie das finale Timing festlegen. Bauen Sie eine wiederverwendbare „Soundboard Guy“-Bank und markieren Sie jeden Schrei nach Intensität für schnellere Edits."
+        },
+        {
+          "question": "Ist generiertes Audio lizenzfrei?",
+          "answer": "Ja. Ausgaben sind unter unserer Standardlizenz für typische Creator- und kommerzielle Nutzung lizenzfrei. Prüfen Sie die aktuellen Bedingungen vor großen Werbekampagnen oder Broadcast-Vertrieb."
+        },
+        {
+          "question": "Welche Qualität kann ich von Exporten erwarten?",
+          "answer": "Erwarten Sie produktionsreifes Audio mit konsistenter Dynamik, klarem Oberton und vorhersehbarem Mix-Verhalten. Bei Bedarf laufen Sie Ihre übliche Mastering-Kette für das Loudness-Ziel Ihres Kanals. Die finale QC sollte bestätigen, dass jede „Soundboard Guy“-Zeile verständlich bleibt und jeder Schrei die Plattformkompression übersteht."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "noise-buttons": {
+    "meta": {
+      "title": "Noise Buttons",
+      "description": "Erstellen Sie sofort noise buttons mit unserer fortschrittlichen KI. Generieren Sie verschiedene Audiotypen – natürliche Klänge, Instrumente und mehr.",
+      "keywords": "noise buttons, button noise"
+    },
+    "hero": {
+      "title": "Noise Buttons",
+      "subtitle": "Verwandeln Sie Textbeschreibungen sofort in hochwertiges noise-buttons-Audio"
+    },
+    "generator_subtitle": "Wählen Sie unten beliebte Prompts oder schreiben Sie Ihre eigene Beschreibung, um noise buttons zu erzeugen",
+    "advantages": {
+      "title": "Warum unseren Noise-Buttons-Generator wählen?",
+      "items": [
+        {
+          "title": "Noise-Buttons-Clips in Sekunden erstellen",
+          "description": "Erzeugen Sie kurze, prägnante Cues aus einfachen Prompts – ohne Aufnahmesessions oder komplexe Bearbeitungsketten. So liefern Teams noise buttons schnell für App-Interaktionen, Stream-Overlays und Social-Schnitte und halten Timing und Stil konsistent.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Flexible Stile für jede Interaktion",
+          "description": "Stimmen Sie Attack, Decay und Charakter so ab, dass jeder Cue zu Ihrer UX oder Ihrem Content passt. Erzeugen Sie scharfe Klicks, texturierte Taps und körnige Alerts und ordnen Sie sie als noise-buttons-Assets. Ergänzen Sie gezielte button-noise-Varianten für bestimmte Interaktionen bei klarer Bibliotheksbenennung.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professionelle Audioqualität",
+          "description": "Jeder Export ist sauber, mixfertig und auf allen Geräten stabil. Kontrollierte Dynamik und klare Transienten helfen Ihrer noise-buttons-Bibliothek von Mobile bis Desktop und Streaming.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Über unseren Noise-Buttons-Generator",
+      "items": [
+        {
+          "question": "Was ist ein noise-buttons-Generator?",
+          "answer": "Ein KI-Audio-Tool, das Textprompts in kurze interaktive Cues für UI, Produktflows und Content-Bearbeitung verwandelt. Sie bauen noise-buttons-Sets für bestimmte Aktionen und nutzen sie über Seiten hinweg wieder – mit gleichbleibender Qualität."
+        },
+        {
+          "question": "Wie funktioniert das noise-buttons-Tool?",
+          "answer": "Das Modell liest Merkmale wie Dauer, Klangfarbe, Punch und Wiedergabekontext und synthetisiert passendes Audio. Starten Sie mit einer neutralen Basis und iterieren Sie Ton, Textur und Timing, bis jeder Cue zu Ihrer Oberfläche und Ihrem button-noise-Anwendungsfall passt."
+        },
+        {
+          "question": "Warum ist das besser als statische Packs?",
+          "answer": "Statische Packs wirken oft repetitiv und brauchen zusätzliche Bereinigung. Prompt-basierte Generierung liefert szenenspezifische Ausgaben auf Abruf und macht Ihr noise-buttons-System über Menüs, Alerts und Übergänge hinweg unterscheidbarer."
+        },
+        {
+          "question": "Wie schreibe ich effektive Prompts?",
+          "answer": "Nutzen Sie knappe Anweisungen mit Absicht und Timing, z. B. „kurzer körniger Klick“ oder „warmer Tap mit schnellem Decay“. Ergänzen Sie Kontext wie Zielbildschirm, Dauer und Stimmung, um Revisionen zu reduzieren und Konsistenz zu erhöhen."
+        },
+        {
+          "question": "Kann ich für verwandte Suchen wie button noise optimieren?",
+          "answer": "Ja. Behalten Sie noise buttons als Hauptphrase und ergänzen Sie button noise sparsam in ausgewählten Metadaten, Überschriften oder FAQ-Texten, um verwandte Suchintention zu treffen und Lesbarkeit zu wahren."
+        },
+        {
+          "question": "Wo kann ich die generierten Cues einsetzen?",
+          "answer": "In Spiel-UI-Events, Onboarding-Flows, Social-Clips, Stream-Overlays, Quiz-Interaktionen und Schnitt-Übergängen. Eine strukturierte noise-buttons-Palette hilft Teams, eine wiedererkennbare Audio-Identität zu halten und button-noise-Varianten für verschiedene Nutzerzustände zu testen."
+        },
+        {
+          "question": "Ist der generierte Sound lizenzfrei?",
+          "answer": "Ja. Die Ausgaben sind nach unseren Standardbedingungen für gängige Creator- und kommerzielle Projekte lizenzfrei. Prüfen Sie die aktuelle Lizenzierung vor großen bezahlten Kampagnen oder speziellen Vertriebsanforderungen."
+        },
+        {
+          "question": "Welche Qualität kann ich von Exporten erwarten?",
+          "answer": "Produktionsreife Dateien mit klaren Transienten, kontrollierten Peaks und zuverlässigem Wiedergabeverhalten auf allen Geräten. Sie können noch finales EQ und Loudness anwenden, um jeden Cue an Ihren Gesamtmix und Plattformziele anzupassen."
+        }
+      ]
+    }
+  }
+}

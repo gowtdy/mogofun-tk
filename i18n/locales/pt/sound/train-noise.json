@@ -1,0 +1,75 @@
+{
+  "train-noise": {
+    "meta": {
+      "title": "Ruído de trem",
+      "description": "Crie ruído de trem instantaneamente com nossa tecnologia de IA avançada. Gere vários tipos de áudio, incluindo tons naturais, instrumentos musicais e mais.",
+      "keywords": "ruído trem, áudio trem"
+    },
+    "hero": {
+      "title": "Ruído de trem",
+      "subtitle": "Transforme descrições em texto em ruído de trem de alta qualidade na hora"
+    },
+    "generator_subtitle": "Escolha entre os prompts populares abaixo ou escreva sua própria descrição para gerar ruído de trem",
+    "advantages": {
+      "title": "Por que escolher nosso gerador de ruído de trem?",
+      "items": [
+        {
+          "title": "Criação instantânea de ruído de trem",
+          "description": "Crie ruído de trem profissional e clipes de áudio trem instantaneamente a partir de texto. Nossa IA transforma suas descrições em motor diesel, apito e clipes de ambiente em segundos—sem bibliotecas de amostras ou edição manual. Precisa de ruído de trem musical ou áudio trem completo para uma cena? Gere variações ilimitadas com qualidade pronta para transmissão para qualquer projeto.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Possibilidades criativas ilimitadas",
+          "description": "Crie qualquer estilo que imaginar: ruído de motor diesel, apito e ambiente, ou ruído de trem musical. A ferramenta entende descrições detalhadas e dá liberdade criativa total. Explore opções infinitas para vídeos, jogos e aplicativos. De áudio trem sutil a clipes em camadas para cinema, obtenha o clipe certo para cada cenário.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualidade de áudio profissional",
+          "description": "Cada clip do nosso gerador atende aos padrões de transmissão com saída de alta fidelidade. Algoritmos de ponta garantem clipes e áudio trem de qualidade de estúdio. Todos os clips estão prontos para produção e otimizados para uso profissional, com cobertura total de frequência e resultados naturais e autênticos.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "FAQ Ruído de trem",
+      "items": [
+        {
+          "question": "O que é um gerador de ruído de trem?",
+          "answer": "Nosso gerador é uma ferramenta de IA que transforma texto em ruído de trem e áudio trem personalizados. Usa processamento de linguagem natural e síntese neural para produzir clipes profissionais—de ruído de motor diesel a apito e ambiente. Atende criadores, editores de vídeo e desenvolvedores de jogos que precisam de ruído de trem e áudio trem rápidos e autênticos com resultados precisos e de alta fidelidade."
+        },
+        {
+          "question": "Como o gerador funciona?",
+          "answer": "A ferramenta usa um pipeline em várias etapas para transformar texto em clipes de alta qualidade. Ela analisa sua descrição para capturar intensidade, estilo e contexto, depois processa isso em redes neurais treinadas para síntese ferroviária e de motor. Você pode pedir clipes curtos para a interface ou ruído de trem mais longo para ambiência. Cada clip atende aos padrões de transmissão."
+        },
+        {
+          "question": "O que torna este gerador de ruído de trem único?",
+          "answer": "Nosso gerador se destaca pela personalização instantânea e qualidade profissional. Diferente de bibliotecas estáticas, ele cria clipes sob medida sob demanda. Treinado com amostras de alta qualidade, entrega ruído de trem e áudio trem realistas. Você obtém variações ilimitadas e liberdade criativa com controle fino."
+        },
+        {
+          "question": "Como escrevo prompts eficazes para ruído de trem?",
+          "answer": "Escreva descrições claras e específicas. Tente \"ruído de trem musical\" ou \"áudio trem para motor diesel\". Inclua estilo (realista, cinematográfico), intensidade e contexto. O gerador responde bem a termos como diesel, apito, ambiente e áudio trem. Mais contexto gera melhores resultados."
+        },
+        {
+          "question": "Como posso usar ruído de trem em conteúdo de vídeo?",
+          "answer": "Mapeie as cenas do seu vídeo e coloque clipes personalizados onde agregam atmosfera. Crie clipes de diesel e apito para cada momento—de fundo sutil a hits dramáticos. Empilhe áudio trem para uma saída rica e envolvente que destaca tempo ou lugar."
+        },
+        {
+          "question": "Como posso usar o gerador no desenvolvimento de jogos?",
+          "answer": "Nosso gerador suporta clipes procedurais para jogos. Crie variações para os jogadores raramente ouvirem o mesmo clip duas vezes. Produza opções diferentes para interface, fases e eventos mantendo um estilo consistente. A ferramenta entrega ruído de trem e áudio trem de qualidade profissional que aumentam imersão e feedback."
+        },
+        {
+          "question": "Que tipos de ruído de trem posso criar?",
+          "answer": "Você pode criar uma ampla gama: ruído de trem musical, ruído de motor diesel, apito e ambiente, e áudio trem geral. Estilos de suave a alto (realista, cinematográfico, vintage). A ferramenta trata esses com qualidade consistente e entrega resultados profissionais para qualquer projeto."
+        },
+        {
+          "question": "Os clips gerados são livres de royalties?",
+          "answer": "Sim. Todos os clips do nosso gerador são livres de royalties e incluem licença comercial. Você pode usar os clips gerados em qualquer projeto sem taxas extras ou atribuição. Cada clip está liberado para uso imediato em trabalho profissional e comercial."
+        },
+        {
+          "question": "Qual qualidade o gerador produz?",
+          "answer": "Nosso gerador produz clipes de nível profissional que atende aos padrões da indústria. Você tem opções de áudio trem em alta resolução até 192 kHz/24-bit, faixa de frequência completa e dinâmica controlada. Cada clip está pronto para transmissão e adequado para produção profissional e projetos criativos."
+        }
+      ]
+    }
+  }
+}

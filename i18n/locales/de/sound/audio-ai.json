@@ -1,0 +1,79 @@
+{
+  "audio-ai": {
+    "meta": {
+      "title": "Audio KI",
+      "description": "Erstellen Sie Audio-KI-Effekte mit fortgeschrittenem Audio-KI-Generator, der verschiedene Typen generiert, einschließlich natürlicher Klänge, Musikinstrumente und mehr.",
+      "keywords": "Audio KI, Audio KI Generator"
+    },
+    "hero": {
+      "title": "Audio KI",
+      "subtitle": "Verwandeln Sie Ihre Textbeschreibungen in hochwertige Audio-KI-Effekte"
+    },
+    "generator_subtitle": "Wählen Sie aus beliebten Eingabeaufforderungen unten oder schreiben Sie Ihre eigene Beschreibung, um Audio-KI-Effekte zu generieren",
+    "advantages": {
+      "title": "Warum unser Audio KI wählen?",
+      "items": [
+        {
+          "title": "Sofortige Klangerzeugung",
+          "description": "Verwandeln Sie Texteingaben in sekundenschnelle, produktionsreife Effekte mit dem Audio-KI-Generator. Verwenden Sie eine klare Beschreibung, um Klänge für Videos, Spiele, Werbung und Apps zu erstellen—keine umfangreichen Bibliotheken, kein manuelles Zuschneiden, nur schnelle Ergebnisse.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Unbegrenzte kreative Möglichkeiten",
+          "description": "Von filmischen Einschlägen bis zu subtiler Atmosphäre versteht der Audio-KI-Generator detaillierte Absichten und bietet kontrollierbare Variationen. Fügen Sie Stimmung, Textur, Entfernung und Timing hinzu, um die Ausgabe für Ihre Szene zu formen. Wenn Sie zuverlässige Iterationen benötigen, hilft ein Audio-KI-Generator, die Ergebnisse über Versionen hinweg konsistent zu halten.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professionelle Klangqualität",
+          "description": "Erhalten Sie saubere, hochwertige Ausgabe mit ausgewogener Dynamik, bereit für Ihren Workflow. Der Audio-KI-Generator produziert stabile Ergebnisse mit weniger Artefakten, sodass die Bearbeitung leicht und vorhersehbar bleibt.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Über Audio KI",
+      "items": [
+        {
+          "question": "Was ist Audio KI?",
+          "answer": "Audio KI verwandelt Textbeschreibungen in sofort einsatzbereite Effekte und Atmosphären. Mit dem Audio-KI-Generator können Sie beschreiben, was Sie benötigen, und schnell Klänge erstellen, die zu Inhalten, Produkten oder interaktiven Erfahrungen passen. Für schnellere Workflows hilft ein Audio-KI-Generator, die Ergebnisse konsistent zu halten."
+        },
+        {
+          "question": "Wie funktioniert Audio KI?",
+          "answer": "Audio KI analysiert Ihre Eingabe (Quelle, Umgebung, Intensität, Dauer), ordnet sie akustischen Attributen zu und synthetisiert dann die Ausgabe mit neuronalen Modellen. Leichte Nachbearbeitung hilft, die Ergebnisse klar und konsistent zu machen. Kurz gesagt automatisieren Audio-KI-Generator-Systeme die schwere Arbeit von der Beschreibung bis zum Export."
+        },
+        {
+          "question": "Was macht diese Sound-KI einzigartig?",
+          "answer": "Dieser Sound-KI-Generator konzentriert sich auf Geschwindigkeit, Kontrolle und zuverlässige Ausgabe. Anstatt durch Preset-Pakete zu suchen, beschreiben Sie, was Sie benötigen, und erstellen Variationen, die thematisch bleiben, was die Iteration viel schneller macht."
+        },
+        {
+          "question": "Wie schreibe ich effektive Eingabeaufforderungen für Audio KI?",
+          "answer": "Seien Sie spezifisch: Beschreiben Sie die Quelle (\"Metallschlag\"), die Umgebung (\"Lagerhaus\"), die Entfernung (\"nah\"), die Emotion (\"angespannt\") und das Timing (\"0,8s Nachhall\"). Fügen Sie Modifikatoren wie \"gedämpft\" oder \"hell\" hinzu, um der Sound-KI zu helfen, eine Ausgabe zu erstellen, die zu Ihrer Mischung passt."
+        },
+        {
+          "question": "Wie kann ich Audio KI für Videoinhalte verwenden?",
+          "answer": "Verwenden Sie Audio KI, um Audio für Übergänge, Einschläge, Atmosphärenbetten und szenenspezifische Details zu erstellen. Generieren Sie einige nahe Varianten, legen Sie sie dann übereinander und ducken Sie sie unter Dialog, um die Mischung natürlich und ansprechend zu halten."
+        },
+        {
+          "question": "Wie kann ich Sound KI in der Spieleentwicklung verwenden?",
+          "answer": "Erstellen Sie Klangfamilien für Aktionen (Schritte, UI-Klicks, Fähigkeiten) und generieren Sie Variationen, um Wiederholungen zu reduzieren. Audio-KI-Generator-Workflows helfen auch dabei, Atmosphären für neue Level zu prototypisieren, bevor die finale Polierung erfolgt."
+        },
+        {
+          "question": "Wie erstelle ich weißes Rauschen und Atmosphäre mit Sound KI?",
+          "answer": "Beschreiben Sie die Textur und Bewegung (\"weiches braunes Rauschen mit sanfter Luft\" oder \"Stadtraumton mit entferntem Verkehr\"). Sound KI kann Ebenen erstellen, die Sie für lange Szenen loopen, ausblenden und stapeln können."
+        },
+        {
+          "question": "Was kann ich mit Sound KI erstellen?",
+          "answer": "Sie können Klänge in vielen Kategorien erstellen: Natur, Maschinen, UI-Feedback, filmische Hits, Sci-Fi-Texturen, musikalische Elemente und Umgebungsatmosphäre. Der Audio-KI-Generator ist flexibel für schnelle Entwürfe und Produktionsnutzung."
+        },
+        {
+          "question": "Ist der von Audio KI generierte Sound lizenzfrei?",
+          "answer": "Ja. Mit dem Audio-KI-Generator generiertes Audio ist lizenzfrei und für kommerzielle Nutzung geeignet, sodass Sie Videos veröffentlichen, Spiele veröffentlichen und Produkte starten können, ohne zusätzliche Lizenzierungsschritte."
+        },
+        {
+          "question": "Welche Ausgabequalität kann ich von Audio KI erwarten?",
+          "answer": "Audio KI zielt auf saubere, hochwertige Ausgabe ab, die für moderne Produktion geeignet ist. Für beste Ergebnisse generieren Sie einige Varianten, wählen Sie die natürlichste Version und führen Sie leichte EQ- oder Pegelanpassungen in Ihrem Editor durch."
+        }
+      ]
+    }
+  }
+}

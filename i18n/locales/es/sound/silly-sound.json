@@ -1,0 +1,79 @@
+{
+  "silly-sound": {
+    "meta": {
+      "title": "Sonido bobo",
+      "description": "Crea sonido bobo único con IA avanzada de efectos de sonido, incluyendo sonidos naturales, instrumentos y más.",
+      "keywords": "sonido bobo, ruidos bobos"
+    },
+    "hero": {
+      "title": "Sonido bobo",
+      "subtitle": "Convierte tus descripciones de texto en sonido bobo de alta calidad"
+    },
+    "generator_subtitle": "Elige entre los prompts populares de abajo o escribe tu propia descripción para generar sonido bobo",
+    "advantages": {
+      "title": "¿Por qué generar sonido bobo para ediciones ligeras?",
+      "items": [
+        {
+          "title": "Sonido bobo desde texto en segundos",
+          "description": "Describe pollo de goma, slide whistle, boings tontos o splats exagerados y obtén stems listos para mezclar sin buscar clips al azar. Salidas cortas para shorts, vídeos de clase y apps kids. Duplica, recorta colas y archiva repuestos.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Paleta boba coherente",
+          "description": "Regenera hermanos con el mismo ADN de material/tempo y ajusta solo intensidad o duración. Duplica el gag en vertical/cuadrado/horizontal con prompts. Si tapa la VO, acorta; si falta punch, amplía; QC antes del corte de la lección.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Dinámica friendly para earbuds",
+          "description": "Picos controlados para móviles y altavoces de aula. Bachea para series y aplica limiter/loudness en la DAW.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Sonido bobo: preguntas y respuestas",
+      "items": [
+        {
+          "question": "¿Qué cuenta como sonido bobo aquí?",
+          "answer": "One-shots y stings juguetones—boings cartoon, buzz de kazoo, splats exagerados, pops de boca—creados desde texto. Stems legales para explainers, kids y social ligero."
+        },
+        {
+          "question": "¿Cómo el prompt se vuelve sting?",
+          "answer": "Describe material, movimiento y duración (\"squeaky balloon release 0.4s\"). Síntesis + procesado ligero. Regenera hasta sincronizar."
+        },
+        {
+          "question": "¿Cuándo layer bajo música?",
+          "answer": "Loops suaves en beds y transientes para hits. High-pass al barro compartido y duck unos dB."
+        },
+        {
+          "question": "¿Cómo mantenerlo family-friendly?",
+          "answer": "Evita palabras duras; enfócate en juguetes/instrumentos/física cartoon. Menciona soft/bouncy/whimsical."
+        },
+        {
+          "question": "¿Bueno para clase o UI?",
+          "answer": "Sí. Cues cortos no sobresaltan. Exporta hermanos con el mismo timbre."
+        },
+        {
+          "question": "¿Bajo narración?",
+          "answer": "Sí, pensado para ducking. Si tapa, acorta decay o notch leve."
+        },
+        {
+          "question": "¿Qué estilos funcionan?",
+          "answer": "Rubber stretches, boings, slide whistles, party horns, bubble pops y buzzers suaves de respuesta incorrecta."
+        },
+        {
+          "question": "¿Royalty-free?",
+          "answer": "Según la licencia al descargar. Archiva y revisa cuando cambien términos."
+        },
+        {
+          "question": "¿Calidad?",
+          "answer": "Stems de alta resolución con dinámica controlada para móvil y aula."
+        },
+        {
+          "question": "¿Quién se beneficia?",
+          "answer": "Educadores, animadores y creadores de comedia wholesome. Iteración rápida sin rips dudosos."
+        }
+      ]
+    }
+  }
+}

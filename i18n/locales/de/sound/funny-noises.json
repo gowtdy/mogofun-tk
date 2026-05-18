@@ -1,0 +1,79 @@
+{
+  "funny-noises": {
+    "meta": {
+      "title": "Lustige Geräusche",
+      "description": "Erstellen Sie einzigartige lustige Geräusche mit fortschrittlicher Soundeffekt-KI – inklusive Naturklängen, Instrumenten und mehr.",
+      "keywords": "lustige Geräusche, lustiger Soundeffekt"
+    },
+    "hero": {
+      "title": "Lustige Geräusche",
+      "subtitle": "Verwandeln Sie Ihre Textbeschreibungen in hochwertige lustige Geräusche"
+    },
+    "generator_subtitle": "Wählen Sie unten beliebte Prompts oder schreiben Sie Ihre eigene Beschreibung, um lustige Geräusche zu erzeugen",
+    "advantages": {
+      "title": "Warum lustige Geräusche mit unserer KI erzeugen?",
+      "items": [
+        {
+          "title": "Vom Text in Sekunden zu lustigen Geräuschen",
+          "description": "Beschreiben Sie Quietschen, Knarren, albernes Gurgeln oder Cartoon-Chaos in einfachen Worten und erhalten Sie schnell ausgewogene Stems—ohne endlose Bibliothekssuche. Das Modell fokussiert laute, komische Textur, damit Cutter auf der Timeline bleiben. Duplizieren Sie lustige Geräusche für vertikale Schnitte, kürzen Sie jedes Ende framegenau und archivieren Sie Ersatz für Nachdrehs.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Textur und Timing fein einstellen",
+          "description": "Regeln Sie Nässe, Länge und Raum für Slapstick, peinliche Pausen oder absurde Übertreibung. Mehrschichtige Prompts helfen, Alternativen für Shorts, Streams, Podcasts oder verspielte UI zu testen, bis der Gag klar wirkt. Wenn sich lustige Geräusche überlagern und VO überdecken, Hits kürzen; wenn sie dünn wirken, Verben anreichern; jedes Batch vor dem Dub QC prüfen.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Mixfertige Pegel für die Auslieferung",
+          "description": "Ausgaben bleiben neben Dialog und Musik kontrolliert—für Social, Streaming und Kundenspecs. Bündeln Sie lustige Geräusche für eine Staffel bei vorhersehbarer Lautheit und weniger Extra-Mastering. Promo montags routen, ältere Mitte der Woche auffrischen und lieferfähige Stems nach Picture-Lock ausgeben.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Lustige Geräusche: Fragen & Antworten",
+      "items": [
+        {
+          "question": "Was zählt hier als „lustige Geräusche“?",
+          "answer": "Verspieltes Krächzen, gummiges Quietschen, albernes Gurgeln, übertriebene Körperhinweise und Cartoon-Chaos—alles Laute, das einen Witz trägt. Sie beschreiben die Stimmung; das System liefert Stems unter Dialog, UI oder Foley ohne Foley-Stage. Käufer, die online „lustiger Soundeffekt“-Bundles vergleichen, sollten Stem-Anzahl und Lizenz-PDFs prüfen."
+        },
+        {
+          "question": "Wie wird Text zu lautem Audio?",
+          "answer": "Prompts werden nach Texturwörtern (squelch, buzz, honk), Timing (kurzer Hit vs. Tail) und Raum (trocken vs. hallig) gescannt. Modelle synthetisieren passende Wellenformen, sanfte Bearbeitung bändigt Peaks. Iterieren Sie durch Anpassen von Adjektiven und Neu-Generierung. Forscher, die „lustiger Soundeffekt“-Listen googeln, brauchen Comedy-first-Filter ohne Horror-Drones."
+        },
+        {
+          "question": "Was bedeutet „lustiger Soundeffekt“ im Brief?",
+          "answer": "Studios nutzen die Kurzform für alberne Stings—nicht heroische Whooshes oder Horror-Drones. Dieselbe Absicht im Prompt zielt auf komisches Rauschen statt ernste FX. Wiederholung von „lustiger Soundeffekt“ in Sluglines hält Assistenten an Comedy-Bins ausgerichtet."
+        },
+        {
+          "question": "Wie prompte ich klarere Gags?",
+          "answer": "Noise-Typ mit Kontext koppeln: „nasses Kauen + Spuck-Gag“, „Feder-Tür + Cartoon-Augen“. Dauer („250 ms Poke“) und Dynamik („leise dann laut“) nennen. Konkret schlägt vage: vergleichen Sie „Gummihuhn-Quetschen“ mit „albernes Quetschspielzeug“. Beginnen Sie mit „lustiger Soundeffekt“-Hupe, wenn Sie sofort Cartoon-Klarheit brauchen."
+        },
+        {
+          "question": "Darf ich Stems auf YouTube oder TikTok nutzen?",
+          "answer": "Ja—Clips passen zu typischen Creator-Pipelines. Laute Hits ans Bild koppeln, Takes variieren, damit Wiederholungen nicht nerven, und aktuelle Upload-Regeln je Plattform befolgen. Lizenz-PDFs für Markenkunden aufbewahren. Kanalteams, die „lustiger Soundeffekt“-Promos testen, müssen die Ad-Audio-Richtlinien jeder App einhalten."
+        },
+        {
+          "question": "Geeignet für Spiele oder Mobile-UI?",
+          "answer": "Designer prototypen Fail-States, Power-ups und Chat-Reaktionen vor der Master-Library. Geschwister-lustige Geräusche erzeugen, damit wiederholte Taps frisch bleiben. Gewinner über Builds fixieren oder Alternativen für seltene Easter Eggs bunkern. Designer mit „lustiger Soundeffekt“-UI-Taps sollten Takes A/B-testen vor dem Ship."
+        },
+        {
+          "question": "Welche lauten Stile sind üblich?",
+          "answer": "Boings, Hupen, Plattenscratches, Mund-Pops, quietschende Schritte, glitchige Buzzer und hybride Musik-Witze. Layer splitten wenn Bett und Poke nötig sind, oder Stems für DAW-Sweetening drucken. Mixer, die „lustiger Soundeffekt“-Betten unter Score stapeln, sollten gemeinsamen Matsch mit Musik ausnotchen."
+        },
+        {
+          "question": "Sind Downloads royalty-free?",
+          "answer": "Dateien erscheinen unter der beim Download gezeigten Lizenz—meist inkl. Ads, Apps, Streams und Kundenarbeit ohne Extra-Sync-Gebühren. Vereinbarungen archivieren und bei Policy-Updates neu prüfen. Supervisors, die „lustiger Soundeffekt“-Archive vor Verlängerungen prüfen, sollten PDFs für Finance exportieren."
+        },
+        {
+          "question": "Welche Qualität ist zu erwarten?",
+          "answer": "Hochauflösende Stems mit kontrollierter Dynamik, sauber neben Voiceover und Score. Loudness-Preset wie bei jedem Dritt-FX anwenden. Kino-Passes laufen weiter durch Ihre normale Mastering-Kette. Mastering-Ingenieure für „lustiger Soundeffekt“-Finals fahren House-Loudness-Targets End-to-End."
+        },
+        {
+          "question": "Wer profitiert am meisten?",
+          "answer": "Cutter, Social-Produzenten, Pädagogen und Indie-Devs mit knappen Deadlines. Wer frische lustige Geräusche ohne Foley-Tonmeister braucht, iteriert schnell; große Shops nutzen Outputs als Temp vor finaler Aufnahme. Saisonale lustige Geräusche rotieren, wenn Marketing Hooks wechselt. Showrunner mit Storyboards für „lustiger Soundeffekt“-Sequenzen sollten Bins labeln, damit Assistenten aligned bleiben."
+        }
+      ]
+    }
+  }
+}

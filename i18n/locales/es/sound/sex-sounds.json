@@ -1,0 +1,71 @@
+{
+  "sex-sounds": {
+    "meta": {
+      "title": "Sonidos sexuales",
+      "description": "Crea instantáneamente sonidos sexuales con nuestra avanzada tecnología de IA. Genera diversos tipos de sonidos, incluidos sonidos naturales, instrumentos musicales y más.",
+      "keywords": "sonidos sexuales, sonidos sexuales intensos"
+    },
+    "hero": {
+      "title": "Sonidos sexuales",
+      "subtitle": "Transforma al instante descripciones en texto en sonidos sexuales de alta calidad"
+    },
+    "generator_subtitle": "Elige entre los prompts populares de abajo o escribe tu propia descripción para generar sonidos sexuales",
+    "advantages": {
+      "title": "¿Por qué elegir nuestro generador de sonidos sexuales?",
+      "items": [
+        {
+          "title": "Creación instantánea de sonidos sexuales",
+          "description": "Genera sonidos sexuales profesionales y sonidos sexuales intensos al instante a partir de texto. Nuestra herramienta convierte tus descripciones en vocales de adultos y clips expresivos en segundos—sin bibliotecas grandes ni edición manual. Crea variaciones ilimitadas para contenido, proyectos de audio o trabajo creativo. Tanto si necesitas sonidos sexuales sutiles como sonidos sexuales intensos, el generador ofrece resultados limpios y listos para producción.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Posibilidades creativas ilimitadas",
+          "description": "Crea el estilo que necesites: intensidad variada, ambientes diferentes o sonidos sexuales intensos para el impacto. El generador entiende descripciones detalladas y produce una salida a juego para una libertad creativa total. Explora variaciones para proyectos de audio, contenido y trabajo creativo. De lo suave a lo intenso, encuentra el ajuste adecuado para cada proyecto.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Calidad de audio profesional",
+          "description": "Todos los sonidos sexuales generados cumplen estándares de producción con salida de alta fidelidad. El generador usa algoritmos modernos para que cada clip sea claro y esté listo para usar. Las salidas están optimizadas para contenido, audio y medios. Obtén resultados consistentes y de calidad de estudio para tu trabajo.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Sobre el generador de sonidos sexuales",
+      "items": [
+        {
+          "question": "¿Qué es un generador de sonidos sexuales?",
+          "answer": "Un generador de sonidos sexuales es una herramienta de IA que convierte texto en vocales de adultos personalizadas y audio expresivo. Produce resultados profesionales y opciones de sonidos sexuales intensos para contenido y proyectos creativos sin necesidad de grabar ni usar bibliotecas grandes. El sistema utiliza síntesis neuronal entrenada con audio de adultos, por lo que obtienes resultados naturales y utilizables. Está diseñado para creadores que necesitan sonidos sexuales rápidos y variados para cualquier proyecto."
+        },
+        {
+          "question": "¿Cómo funciona el generador de sonidos sexuales?",
+          "answer": "Nuestro generador lee tu descripción de texto y extrae características como el ambiente, la intensidad y el estilo. Luego sintetiza vocales a juego—sonidos sexuales suaves, sonidos sexuales intensos o un punto intermedio. Puedes pedir diferentes intensidades, escenarios o audio en capas. El resultado es un archivo limpio y listo para usar que puedes descargar e incorporar a tu proyecto."
+        },
+        {
+          "question": "¿Qué hace único a este generador de sonidos sexuales?",
+          "answer": "A diferencia de bibliotecas fijas, nuestro generador crea nuevas variaciones de sonidos sexuales bajo demanda a partir de texto plano. Obtienes opciones personalizadas de vocales y sonidos sexuales intensos sin tener que buscar en miles de archivos. La IA está entrenada con audio de adultos de alta calidad, así que cada resultado es consistente y profesional. Genera tantas variaciones como necesites para cada escena o edición."
+        },
+        {
+          "question": "¿Cómo escribir prompts eficaces para sonidos sexuales?",
+          "answer": "Usa descripciones claras y concretas. Por ejemplo: \"vocal suave\" o \"sonidos sexuales intensos para el impacto\". Indica el ambiente (intenso, suave, apasionado), la intensidad y el contexto. El generador responde bien a términos descriptivos. Cuanto más detalle, mejor encaja la salida con tu visión."
+        },
+        {
+          "question": "¿Cómo usar los audios generados en contenido?",
+          "answer": "Usa los audios generados para mejorar contenido, proyectos de audio o trabajo creativo. Superpone las vocales bajo el vídeo, añade clips intensos para el impacto o combínalos con otros audios. Varía la intensidad para adaptarla a cada escena. Nuestro generador te permite crear suficientes variaciones para que cada proyecto tenga un resultado adecuado sin repetición."
+        },
+        {
+          "question": "¿Qué tipos de audio puedo crear?",
+          "answer": "Puedes crear una amplia gama de sonidos sexuales: suaves, intensos, distintas intensidades y diversos ambientes. Úsalos para contenido, audio o proyectos creativos. El generador gestiona distintos contextos y estilos con una calidad consistente para vocales y sonidos sexuales intensos."
+        },
+        {
+          "question": "¿Los sonidos sexuales generados son libres de derechos?",
+          "answer": "Sí. Todos los audios de nuestro generador son libres de derechos y vienen con licencia comercial. Puedes usarlos en cualquier proyecto sin costes extra ni atribución. Cada archivo generado está autorizado para uso profesional y comercial. Descarga tantos como necesites para tus proyectos."
+        },
+        {
+          "question": "¿Cuál es la calidad de los sonidos sexuales generados?",
+          "answer": "Nuestro generador de sonidos sexuales produce audios de nivel profesional que cumplen estándares habituales de producción. Obtienes archivos de alta resolución, rango de frecuencias completo y una dinámica controlada para que cada resultado sea claro y esté listo para incorporarse a tu proyecto. Cada archivo generado es adecuado para uso profesional en contenido y medios."
+        }
+      ]
+    }
+  }
+}

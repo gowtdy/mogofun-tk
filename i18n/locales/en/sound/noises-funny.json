@@ -1,0 +1,79 @@
+{
+  "noises-funny": {
+    "meta": {
+      "title": "Noises Funny",
+      "description": "Create unique noises funny with advanced sound effect AI technology, generate various types including natural sounds, musical instruments and more.",
+      "keywords": "noises funny, funny voice"
+    },
+    "hero": {
+      "title": "Noises Funny",
+      "subtitle": "Transform your text descriptions into high-quality noises funny "
+    },
+    "generator_subtitle": "Select from popular prompts below or write your own description to generate noises funny",
+    "advantages": {
+      "title": "Why Generate Noises Funny for Skits and Shorts?",
+      "items": [
+        {
+          "title": "Noises Funny From Prompts in Seconds",
+          "description": "Describe honks, squeaks, mouth pops, rubber stretches, or cartoon thuds in plain language and get mix-ready hits without digging through stale libraries. Outputs stay short so punchlines land on the beat for reels, streams, and overlays. Duplicate noises funny for vertical cuts, trim tails on every noises funny pass, and archive spare noises funny for pickups.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Iterate Takes Without Rebuilding Timelines",
+          "description": "Duplicate a gag across vertical, square, and landscape cuts by nudging adjectives or duration (\"0.25s squeak\"). Keep timbre consistent while varying intensity so each platform version still feels intentional. When crowded noises funny mask VO, shorten hits; when thin noises funny miss punch, widen verbs; QC every batch of noises funny before the dub stage.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Phone-Speaker Friendly Dynamics",
+          "description": "Peaks stay controlled for typical mobile playback and duck cleanly under dialogue. Batch export noises funny stems for a campaign while keeping levels predictable with light mastering afterward. Route promo noises funny on Monday, refresh older noises funny midweek, and print deliverable noises funny after picture lock.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Noises Funny: Questions & Answers",
+      "items": [
+        {
+          "question": "What counts as noises funny in this tool?",
+          "answer": "Goofy non-dialogue hits—cartoon boings, wet splats, kazoo buzzes, exaggerated footsteps, or silly UI bleeps—authored from text instead of ripping unknown clips. You get legal stems sized for rapid punch-ins on shorts, podcasts, and game UI. Casting a scratch funny voice for timing helps editors place honks before final VO."
+        },
+        {
+          "question": "How does a text line become a goofy hit?",
+          "answer": "Prompts capture material (rubber, metal, air), motion (stretch, pop, flutter), and length. Models synthesize tight waveforms, then light processing tames harsh peaks for phone speakers. Regenerate until the sting syncs to your frame. Producers balancing funny voice tags against SFX should leave headroom for ducking."
+        },
+        {
+          "question": "Can I pair a funny voice line with a squeak or honk?",
+          "answer": "Yes—print a comedic spoken beat in your voice pipeline, then layer a separate squeak or honk stem underneath. Match loudness so the spoken line stays intelligible; trim tails so the stack does not smear the joke. If the funny voice line fights the honk, sidechain gently or shorten the honk tail."
+        },
+        {
+          "question": "How should I prompt for meme timing?",
+          "answer": "State the gag trope, the emotional flip, and a duration (\"dry honk 0.3s\"). Mention platform if it matters—vertical mixes often need brighter transients. Compare lines like \"squeaky hinge\" with \"rubber chicken stretch\" and refine. Mention a funny voice beat in the same prompt when you want call-and-response timing."
+        },
+        {
+          "question": "Good for stream alerts or chat bots?",
+          "answer": "Generate sibling honks and pops for follows, raids, and redeems so alerts stay fresh. Keep a family of cues that share timbre but differ in length for different event tiers. Bots routing funny voice replies beside honks should cap limiter gain so chat stays intelligible."
+        },
+        {
+          "question": "Will these sit under dialogue?",
+          "answer": "Stems target typical ducking workflows. Sidechain or clip-gain in your DAW as usual. If a hit still masks VO, shorten the decay or notch shared frequencies lightly. Mixers ducking funny voice stacks under music should carve space around consonants."
+        },
+        {
+          "question": "What styles work best?",
+          "answer": "Cartoon foley, mouth percussion, spring boings, slide whistles, buzzer wrong-answer tones, and exaggerated impacts. Split bed vs. poke when you need both, or print layers to tweak in post. Designers syncing funny voice callouts with UI pulses should align transients to button animations."
+        },
+        {
+          "question": "Are downloads royalty-free?",
+          "answer": "Files ship under the license shown at download—usually covering ads, streams, and client edits without extra sync fees. Archive agreements and re-check when terms change. Lawyers archiving funny voice releases before syndication should bundle SFX stems in the same folder."
+        },
+        {
+          "question": "What quality should I expect?",
+          "answer": "High-resolution stems with controlled dynamics so hits read on earbuds. Apply your loudness preset like any third-party SFX. Cinema or broadcast still rides through your normal chain. Mastering engineers printing funny voice plus SFX stems should match integrated loudness targets."
+        },
+        {
+          "question": "Who benefits most?",
+          "answer": "Editors shipping daily comedy, indie devs wiring playful UI, and educators spicing explainers. Anyone who needs fresh quirky noises funny packs for fast iteration can skip dubious rips and stay on schedule. Rotate seasonal noises funny whenever hooks swap; teachers previewing funny voice drops in class should mind playback volume."
+        }
+      ]
+    }
+  }
+}

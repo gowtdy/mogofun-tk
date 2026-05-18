@@ -1,0 +1,71 @@
+{
+  "scream-louder": {
+    "meta": {
+      "title": "Lauter schreien",
+      "description": "Erstellen Sie sofort „lauter schreien“ mit unserer fortschrittlichen KI. Generieren Sie verschiedene Klangtypen – Naturgeräusche, Instrumente und mehr.",
+      "keywords": "lauter schreien, lautes schreien"
+    },
+    "hero": {
+      "title": "Lauter schreien",
+      "subtitle": "Verwandeln Sie Textbeschreibungen sofort in hochwertiges „lauter schreien“ und lautes Schreien"
+    },
+    "generator_subtitle": "Wählen Sie unten beliebte Prompts oder schreiben Sie Ihre eigene Beschreibung, um „lauter schreien“ zu erzeugen",
+    "advantages": {
+      "title": "Warum unseren Generator „lauter schreien“ wählen?",
+      "items": [
+        {
+          "title": "„Lauter schreien“-Cues in Sekunden erstellen",
+          "description": "Kurzer Prompt-Text wird zu intensiven Vocal-Effekten und „lauter schreien“-Momenten – ohne riesige Sound-Bibliotheken zu durchwühlen. Das Modell erfasst Dringlichkeit, Ton und Timing, sodass jeder Clip zu Trailern, Spiel-Zwischensequenzen und dramatischen Schnitten passt. Schnelle Iteration ermöglicht Versionsvergleiche vor dem finalen Lock.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Flexible Intensität von angespannt bis explosiv",
+          "description": "Verfeinern Sie Prompt-Details, um von kontrollierter Spannung zu lautem Schrei-Energie überzugehen und die Szene weiter lesbar zu halten. Dauer, Stimmtextur und emotionale Färbung lassen sich pro Anwendungsfall einstellen, dann Alternativen für A/B-Timing-Checks exportieren. So bleibt das Sounddesign ausdrucksstark ohne repetitive Stock-Cues.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professionelle Audioqualität",
+          "description": "Ausgaben sind mixbereit mit stabiler Lautheit und sauberen Transienten – „lauter schreien“-Takes und laute Schrei-Schichten sitzen sauber im Mix. Dateien bleiben nach üblicher Plattformkompression klar, damit emotionale Höhepunkte auf Mobil, Desktop und in Broadcast-Pipelines wirken.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Über unseren Generator „lauter schreien“",
+      "items": [
+        {
+          "question": "Was ist ein Generator für „lauter schreien“?",
+          "answer": "Ein KI-Audio-Tool, das Textprompts in dramatische Vocals und „lauter schreien“-Bursts für Hoch-Impact-Szenen verwandelt. Statt vieler Aufnahmen generieren Sie schnell passende Clips und testen sie direkt auf der Timeline."
+        },
+        {
+          "question": "Wie funktioniert das „lauter schreien“-Tool?",
+          "answer": "Das System wertet Emotion, Tempo, Intensität und Kontext aus Ihrem Prompt aus und synthetisiert dann passendes Audio – von sanfter Spannung bis zu lautem Schreien. Zwischen Durchläufen können Sie die Formulierung verfeinern, um Attack, Sustain und Timing zu straffen, bis der Effekt zum Schnitt passt."
+        },
+        {
+          "question": "Warum das statt Stock-Bibliotheken?",
+          "answer": "Stock-Bibliotheken wirken oft repetitiv und passen nicht immer exakt zum Szenentempo. Prompt-getriebene Generierung liefert frische „lauter schreien“- und laute-Schrei-Takes auf Abruf und spart manuelle Suchzeit."
+        },
+        {
+          "question": "Wie schreibe ich Prompts für „lauter schreien“?",
+          "answer": "Beschreiben Sie, wer reagiert, was den Vocal-Burst auslöst und wie lange die Cue halten soll. Konkrete Prompts wie „kurzer Kommandoruf vor dem Aufprall“ oder „lautes Schreien über einstürzendem Schutt“ liefern meist besseres Timing als vage Ein-Wort-Wünsche."
+        },
+        {
+          "question": "Wann setze ich lautes Schreien im Mix ein?",
+          "answer": "Nutzen Sie lautes Schreien für Übergänge im Höhepunkt, Kampf-Spitzen, Panik-Beats oder stressige Reveals. Pegel unter primärem Dialog halten und Gain automatisieren, damit emotionale Wirkung steigt, ohne wichtige Sprache zu verdecken."
+        },
+        {
+          "question": "Welche Varianten kann ich erzeugen?",
+          "answer": "Sie können kurze Rufe, angespannte Schreie, geschichtete Publikumsreaktionen, stilisierte filmische Bursts sowie „lauter schreien“-Peaks neben anhaltendem lautem Schreien erzeugen. Diese Bandbreite hilft Schnitt und Entwicklung, emotionales Timing vor dem finalen Export zu testen."
+        },
+        {
+          "question": "Ist generiertes Audio lizenzfrei?",
+          "answer": "Ja. Generierte Dateien sind unter unserer Lizenz für typische Creator- und kommerzielle Nutzung lizenzfrei. Prüfen Sie die aktuellen Bedingungen vor großen Werbekampagnen oder Broadcast-Vertrieb."
+        },
+        {
+          "question": "Welche Qualität kann ich von Exporten erwarten?",
+          "answer": "Erwarten Sie produktionsreifes Material mit klarem Detail, stabiler Dynamik und vorhersehbarem Abspielverhalten auf allen Geräten – auch wenn Sie „lauter schreien“-Pegel anheben oder lautes Schreien stapeln. Für die finale Auslieferung wenden Sie Ihre übliche Mastering-Kette an, um Plattform-Loudness-Ziele zu treffen."
+        }
+      ]
+    }
+  }
+}

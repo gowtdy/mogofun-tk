@@ -1,0 +1,71 @@
+{
+  "sound-bottons": {
+    "meta": {
+      "title": "Sound Bottons",
+      "description": "Erstellen Sie sofort sound bottons mit unserer fortschrittlichen KI. Generieren Sie verschiedene Audiotypen – natürliche Klänge, Instrumente und mehr.",
+      "keywords": "sound bottons, sounds button"
+    },
+    "hero": {
+      "title": "Sound Bottons",
+      "subtitle": "Verwandeln Sie Textbeschreibungen sofort in hochwertige sound bottons"
+    },
+    "generator_subtitle": "Wählen Sie unten beliebte Prompts oder schreiben Sie Ihre eigene Beschreibung, um sound bottons zu erzeugen",
+    "advantages": {
+      "title": "Warum unseren Sound-Bottons-Generator wählen?",
+      "items": [
+        {
+          "title": "Sound-Bottons-Clips in Sekunden erstellen",
+          "description": "Erzeugen Sie kurze, prägnante Cues aus einfachen Prompts – ohne Aufnahmesessions oder komplexe Bearbeitungsketten. So prototypisieren Creator eine sound-bottons-Sammlung für Streams, App-Interaktionen und Social-Schnitte und exportieren konsistente Assets mit weniger Revisionen.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Flexible Stile für jede Interaktion",
+          "description": "Stimmen Sie Attack, Decay und Charakter so ab, dass jeder Cue zu Ihrer UX oder Ihrem Content passt. Sie können verspielte Klicks, dramatische Stings und minimale Bestätigungstöne erzeugen und sie als klare sound-bottons-Bibliothek ordnen. Optionale Metadaten-Tags können gängige Tippfehler für Landingpage-Traffic abbilden, ohne den Haupttext zu überladen.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professionelle Audioqualität",
+          "description": "Jeder Export ist sauber, mixfertig und auf allen Geräten stabil. Kontrollierte Dynamik und klare Transienten helfen Ihrer sound-bottons-Linie von Mobile bis Desktop und Streaming.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Über unseren Sound-Bottons-Generator",
+      "items": [
+        {
+          "question": "Was ist ein sound-bottons-Generator?",
+          "answer": "Ein KI-Audio-Tool, das Textprompts in kurze interaktive Cues für UI, Video und Live-Content verwandelt. Sie bauen schnell ein sound-bottons-Set für bestimmte Aktionen, halten Benennungen konsistent und nutzen Assets über Seiten und Produkte hinweg wieder."
+        },
+        {
+          "question": "Wie funktioniert das sound-bottons-Tool?",
+          "answer": "Das Modell liest Merkmale wie Dauer, Klangfarbe, Punch und Wiedergabekontext und synthetisiert passendes Audio. Starten Sie mit einer neutralen Basis, iterieren Sie zu hellerem oder weicherem Ton und finalisieren Sie das Timing, damit Ihre sound-bottons-Cues exakt zur Oberfläche passen."
+        },
+        {
+          "question": "Warum ist das besser als statische Packs?",
+          "answer": "Statische Packs wirken oft repetitiv und brauchen zusätzliche Bereinigung. Prompt-basierte Generierung liefert szenenspezifische Ergebnisse auf Abruf – so bleibt Ihr sound-bottons-System über Menüs, Alerts und Übergänge hinweg unterscheidbar."
+        },
+        {
+          "question": "Wie schreibe ich effektive Prompts?",
+          "answer": "Nutzen Sie knappe Anweisungen mit Absicht und Timing, z. B. „kurzer heller Bestätigungsklick“ oder „warmes UI-Blip mit schnellem Decay“. Ergänzen Sie Kontext wie Zielbildschirm, Dauer und Stimmung, um Revisionen zu reduzieren und Konsistenz zu erhöhen."
+        },
+        {
+          "question": "Kann ich Suchanfragen mit Tippfehlern abdecken?",
+          "answer": "Ja. Sie können sound bottons als Hauptbegriff behalten und eine begrenzte Variante „sounds button“ in Metadaten oder internen Links ergänzen, damit Tippfehler-Suchende die richtigen Assets finden, ohne die Lesbarkeit zu beeinträchtigen."
+        },
+        {
+          "question": "Wo kann ich die generierten Cues einsetzen?",
+          "answer": "In Spiel-UI-Events, Onboarding-Flows, Social-Clips, Stream-Overlays, Quiz-Interaktionen und Schnitt-Übergängen. Eine wiederverwendbare sound-bottons-Palette hilft Teams, eine wiedererkennbare Audio-Identität zu halten, ohne generische Stock-Artefakte."
+        },
+        {
+          "question": "Ist der generierte Sound lizenzfrei?",
+          "answer": "Ja. Die Ausgaben sind nach unseren Standardbedingungen für gängige Creator- und kommerzielle Projekte lizenzfrei. Prüfen Sie die aktuelle Lizenzierung vor großen bezahlten Kampagnen oder speziellen Vertriebsanforderungen."
+        },
+        {
+          "question": "Welche Qualität kann ich von Exporten erwarten?",
+          "answer": "Produktionsreife Dateien mit klaren Transienten, kontrollierten Peaks und zuverlässigem Wiedergabeverhalten auf allen Geräten. Sie können noch finales EQ und Loudness anwenden, um jeden Cue an Ihren Gesamtmix und Plattformziele anzupassen."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "train-noise": {
+    "meta": {
+      "title": "Zug-Geräusch",
+      "description": "Erstellen Sie sofort Zug-Geräusch mit unserer fortschrittlichen KI-Technologie. Erzeugen Sie verschiedene Audiotypen inkl. natürlicher Töne, Instrumente und mehr.",
+      "keywords": "Zug-Geräusch, Zug-Audio"
+    },
+    "hero": {
+      "title": "Zug-Geräusch",
+      "subtitle": "Verwandeln Sie Textbeschreibungen sofort in hochwertiges Zug-Geräusch"
+    },
+    "generator_subtitle": "Wählen Sie aus beliebten Prompts unten oder schreiben Sie Ihre eigene Beschreibung, um Zug-Geräusch zu erzeugen",
+    "advantages": {
+      "title": "Warum unseren Zug-Geräusch-Generator wählen?",
+      "items": [
+        {
+          "title": "Sofortige Zug-Geräusch-Erstellung",
+          "description": "Erstellen Sie professionelles Zug-Geräusch und Zug-Audio-Clips sofort aus Text. Unsere KI verwandelt Ihre Beschreibungen in Sekunden in Dieselmotor-, Pfeifen- und Ambiente-Clips—ohne Sample-Bibliotheken oder manuelle Bearbeitung. Brauchen Sie musikalisches Zug-Geräusch oder volles Zug-Audio für eine Szene? Erzeugen Sie unbegrenzte Variationen in sendefähiger Qualität für jedes Projekt.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Unbegrenzte kreative Möglichkeiten",
+          "description": "Erstellen Sie jeden gewünschten Stil: Dieselmotor-Geräusch, Pfeife und Ambiente oder musikalisches Zug-Geräusch. Das Tool versteht detaillierte Beschreibungen und gibt Ihnen volle kreative Freiheit. Erkunden Sie endlose Optionen für Videos, Spiele und Apps. Von subtilem Zug-Audio bis zu mehrschichtigen Clips für Film—den passenden Clip für jedes Szenario.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professionelle Audioqualität",
+          "description": "Jeder Clip aus unserem Generator erfüllt Sendestandards mit High-Fidelity-Ausgabe. Moderne Algorithmen sorgen für Studioqualität bei Clips und Zug-Audio. Alle Clips sind produktionsreif und für den professionellen Einsatz optimiert, mit voller Frequenzabdeckung und natürlichen, authentischen Ergebnissen.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Zug-Geräusch FAQ",
+      "items": [
+        {
+          "question": "Was ist ein Zug-Geräusch-Generator?",
+          "answer": "Unser Generator ist ein KI-Tool, das Text in maßgeschneiderte Zug-Geräusche und Zug-Audio umwandelt. Es nutzt natürliche Sprachverarbeitung und neuronale Synthese für professionelle Clips—von Dieselmotor-Geräusch bis Pfeife und Ambiente. Geeignet für Creator, Videoeditoren und Spieleentwickler, die schnelles, authentisches Zug-Geräusch und Zug-Audio mit präzisen, hochauflösenden Ergebnissen brauchen."
+        },
+        {
+          "question": "Wie funktioniert der Generator?",
+          "answer": "Das Tool nutzt eine mehrstufige Pipeline, um Text in hochwertige Clips zu verwandeln. Es analysiert Ihre Beschreibung für Intensität, Stil und Kontext und leitet diese durch für Bahn- und Motor-Synthese trainierte neuronale Netze. Sie können kurze Clips für die UI oder längeres Zug-Geräusch für Ambiente anfordern. Jeder Clip erfüllt Sendestandards."
+        },
+        {
+          "question": "Was macht diesen Zug-Geräusch-Generator einzigartig?",
+          "answer": "Unser Generator zeichnet sich durch sofortige Anpassung und professionelle Qualität aus. Anders als statische Bibliotheken erstellt er maßgeschneiderte Clips on demand. Mit hochwertigen Samples trainiert, liefert er realistische Zug-Geräusche und Zug-Audio. Sie erhalten unbegrenzte Variationen und kreative Freiheit mit feiner Kontrolle."
+        },
+        {
+          "question": "Wie schreibe ich wirksame Prompts für Zug-Geräusch?",
+          "answer": "Schreiben Sie klare, konkrete Beschreibungen. Probieren Sie „musikalisches Zug-Geräusch“ oder „Zug-Audio für Dieselmotor“. Nennen Sie Stil (realistisch, filmisch), Intensität und Kontext. Der Generator reagiert gut auf Begriffe wie Diesel, Pfeife, Ambiente und Zug-Audio. Mehr Kontext liefert bessere Ergebnisse."
+        },
+        {
+          "question": "Wie kann ich Zug-Geräusch in Videoinhalten nutzen?",
+          "answer": "Planen Sie die Szenen Ihres Videos und platzieren Sie maßgeschneiderte Clips dort, wo sie Atmosphäre schaffen. Erstellen Sie Diesel- und Pfeifen-Clips für jeden Moment—von subtilem Hintergrund bis zu dramatischen Hits. Legen Sie Zug-Audio übereinander für reiche, fesselnde Ausgabe, die Zeit oder Ort unterstreicht."
+        },
+        {
+          "question": "Wie kann ich den Generator in der Spieleentwicklung nutzen?",
+          "answer": "Unser Generator unterstützt prozedurale Clips für Spiele. Erstellen Sie Variationen, sodass Spieler selten denselben Clip zweimal hören. Erzeugen Sie verschiedene Optionen für UI, Levels und Events bei einheitlichem Stil. Das Tool liefert professionelles Zug-Geräusch und Zug-Audio für bessere Immersion und Feedback."
+        },
+        {
+          "question": "Welche Arten von Zug-Geräusch kann ich erstellen?",
+          "answer": "Sie können eine breite Palette erstellen: musikalisches Zug-Geräusch, Dieselmotor-Geräusch, Pfeife und Ambiente sowie allgemeines Zug-Audio. Stile von leise bis laut (realistisch, filmisch, Vintage). Das Tool behandelt diese mit gleichbleibender Qualität und liefert professionelle Ergebnisse für jedes Projekt."
+        },
+        {
+          "question": "Sind die generierten Clips lizenzfrei?",
+          "answer": "Ja. Alle Clips aus unserem Generator sind lizenzfrei und enthalten eine gewerbliche Lizenz. Sie können die generierten Clips in jedem Projekt ohne zusätzliche Gebühren oder Namensnennung nutzen. Jeder Clip ist für sofortige Verwendung in professioneller und gewerblicher Arbeit freigegeben."
+        },
+        {
+          "question": "Welche Qualität liefert der Generator?",
+          "answer": "Unser Generator liefert professionelle Clips nach Industriestandards. Sie erhalten hochauflösende Zug-Audio-Optionen bis 192 kHz/24-bit, vollen Frequenzbereich und kontrollierte Dynamik. Jeder Clip ist sendefähig und für professionelle Produktion und kreative Projekte geeignet."
+        }
+      ]
+    }
+  }
+}

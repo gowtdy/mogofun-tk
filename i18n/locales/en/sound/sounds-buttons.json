@@ -1,0 +1,71 @@
+{
+  "sounds-buttons": {
+    "meta": {
+      "title": "Sounds Buttons",
+      "description": "Instantly create sounds buttons with our advanced AI technology. Generate various types of audio including natural audio, musical instruments and more.",
+      "keywords": "sounds buttons, sounds buttions"
+    },
+    "hero": {
+      "title": "Sounds Buttons",
+      "subtitle": "Instantly transform text description into high-quality sounds buttons"
+    },
+    "generator_subtitle": "Select from popular prompts below or write your own description to generate sounds buttons",
+    "advantages": {
+      "title": "Why Choose Our Sounds Buttons Generator?",
+      "items": [
+        {
+          "title": "Build Sounds Buttons Clips in Seconds",
+          "description": "Create short, punchy cues from simple prompts without recording sessions or complex editing chains. This workflow helps creators build sounds buttons assets quickly for streams, apps, and social edits while keeping naming and output style consistent.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Flexible Styles for Any Interaction",
+          "description": "Tune attack, decay, and character so each cue fits your UX or content style. Generate playful clicks, dramatic stings, and clean confirm tones, then organize them into a reusable sounds buttons library. Optional metadata can include a limited sound buttions variant to help typo searches without cluttering primary copy.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professional-Grade Audio Quality",
+          "description": "Every export is clean, mix-ready, and stable across devices. Controlled dynamics and clear transients help your sounds buttons collection translate from mobile playback to desktop and streaming platforms.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "About Our Sounds Buttons Generator",
+      "items": [
+        {
+          "question": "What is a sounds buttons generator?",
+          "answer": "It is an AI sound tool that turns text prompts into short interactive cues for product UI, content editing, and live interactions. You can create sounds buttons sets for specific actions, then reuse them across pages and workflows with consistent quality."
+        },
+        {
+          "question": "How does the sounds buttons tool work?",
+          "answer": "The model reads descriptors such as duration, timbre, punch, and playback context, then synthesizes matching audio. Start with a neutral baseline and iterate tone, energy, and timing until your cue set fits each interface event."
+        },
+        {
+          "question": "Why is this better than static packs?",
+          "answer": "Static packs can feel repetitive and often need extra cleanup. Prompt-based generation gives you scene-specific results on demand, helping teams keep sounds buttons interactions distinct across menus, alerts, and transitions."
+        },
+        {
+          "question": "How should I write effective prompts?",
+          "answer": "Use concise instructions with intent and timing, such as \"short bright confirm click\" or \"warm UI blip with quick decay.\" Add context like target screen, duration, and emotion to reduce revisions and improve output consistency."
+        },
+        {
+          "question": "Can I capture searches for common misspellings?",
+          "answer": "Yes. Keep sounds buttons as the primary keyword and add a limited sound buttions variant in metadata or FAQ copy to help typo searches find the right assets without hurting readability."
+        },
+        {
+          "question": "Where can I use generated cues?",
+          "answer": "Use them in game UI events, onboarding flows, social clips, stream overlays, quiz interactions, and editing transitions. A structured sounds buttons palette helps products maintain a recognizable audio identity without repetitive stock artifacts."
+        },
+        {
+          "question": "Is generated sound royalty-free?",
+          "answer": "Yes. Generated outputs are royalty-free under our standard terms for common creator and commercial projects. Review current licensing details before large paid campaigns or specialized distribution requirements."
+        },
+        {
+          "question": "What quality can I expect from exports?",
+          "answer": "Expect production-ready files with clear transients, controlled peaks, and reliable playback behavior across devices. You can still apply final EQ and loudness processing to align each cue with your full mix and platform targets."
+        }
+      ]
+    }
+  }
+}

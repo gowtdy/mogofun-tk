@@ -1,0 +1,79 @@
+{
+  "sound-simulator": {
+    "meta": {
+      "title": "Sound Simulator",
+      "description": "Erstellen Sie einzigartige Soundeffekte mit unserem fortschrittlichen Sound-Simulator, der verschiedene Arten generiert, einschließlich Naturgeräusche, Musikinstrumente und mehr.",
+      "keywords": "Sound Simulator, Generator Sound"
+    },
+    "hero": {
+      "title": "Sound Simulator",
+      "subtitle": "Verwandeln Sie Ihre Textbeschreibungen in hochwertige Soundeffekte"
+    },
+    "generator_subtitle": "Wählen Sie aus beliebten Eingabeaufforderungen unten oder schreiben Sie Ihre eigene Beschreibung, um Soundeffekte zu generieren",
+    "advantages": {
+      "title": "Warum unseren Sound Simulator wählen?",
+      "items": [
+        {
+          "title": "Sofortige Sound-Generierung",
+          "description": "Generieren Sie professionelle Generator-Sounds in Sekunden aus Texteingaben mit unserem Audio-Simulator. Dieser Audio-Simulator verwandelt Absichten schnell in sauberes Audio—keine großen Bibliotheken, kein manuelles Schneiden—sodass Sie Projekte schneller mit konsistenten Ergebnissen abschließen können.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Unbegrenzte kreative Möglichkeiten",
+          "description": "Erstellen Sie jeden Typ von Generator-Sound, den Sie sich vorstellen, von Natur-Ambiente bis hin zu futuristischen Texturen. Der Audio-Simulator versteht detaillierte Eingabeaufforderungen und bietet kontrollierbare Variationen, sodass Ihr Generator-Sound thematisch über Szenen und Stile hinweg bleibt.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professionelle Audioqualität",
+          "description": "Jeder Generator-Sound wird mit hochwertiger Ausgabe und ausgewogener Dynamik produziert. Unser Audio-Simulator liefert produktionsreifes Audio, das zu modernen Workflows passt und Ihrem Generator-Sound hilft, sich natürlich in einem Mix mit minimaler Nachbearbeitung einzufügen.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Über Sound Simulator",
+      "items": [
+        {
+          "question": "Was ist ein Sound Simulator?",
+          "answer": "Ein Sound Simulator ist ein Tool, das Textbeschreibungen mithilfe von KI in benutzerdefiniertes Generator-Audio umwandelt. Mit einem Audio-Simulator können Ersteller schnell Generator-Sounds für Inhalte, Spiele und Produkterlebnisse prototypisieren und dabei die Ausgaben konsistent und verwendbar halten."
+        },
+        {
+          "question": "Wie funktioniert der Sound Simulator?",
+          "answer": "Der Sound Simulator analysiert Ihre Eingabeaufforderung (Quelle, Umgebung, Intensität, Dauer), ordnet sie akustischen Attributen zu und synthetisiert dann Generator-Sound mit neuronalen Modellen. Es endet mit leichter Verarbeitung, sodass der Generator-Sound klar, stabil und einfach zu bearbeiten ist."
+        },
+        {
+          "question": "Was macht diesen Sound Simulator einzigartig?",
+          "answer": "Dieser Sound Simulator ist für schnelle Iteration und Kontrolle konzipiert. Anstatt Packs zu durchsuchen, beschreiben Sie, was Sie benötigen, und generieren kohärente Generator-Audio-Variationen, die repetitive Arbeit reduzieren und die Produktion beschleunigen."
+        },
+        {
+          "question": "Wie schreibe ich effektive Eingabeaufforderungen für den Sound Simulator?",
+          "answer": "Verwenden Sie klare, spezifische Details: Quelle (\"Metallschlag\"), Umgebung (\"Lagerhaus\"), Entfernung (\"nah\") und Timing (\"0,8s Ausklang\"). Fügen Sie Modifikatoren wie \"gedämpft\" oder \"hell\" hinzu, damit der Audio-Simulator Generator-Sound generieren kann, der zu Ihrem Zielmix passt."
+        },
+        {
+          "question": "Wie verwende ich den Sound Simulator effektiv in Videoinhalten?",
+          "answer": "Verwenden Sie den Sound Simulator, um Generator-Sound für Übergänge, Einschläge und Ambiente-Betten zu generieren. Erstellen Sie einige nahe Varianten, schichten Sie sie dann und automatisieren Sie die Pegel unter dem Dialog, um das Tempo straff und den Mix natürlich zu halten."
+        },
+        {
+          "question": "Wie nutze ich den Sound Simulator in der Spieleentwicklung?",
+          "answer": "Verwenden Sie in Spielen den Sound Simulator, um Generator-Audio-Familien (Schritte, UI-Klicks, Fähigkeiten) mit Variationen zu generieren, um Wiederholungen zu reduzieren. Sie können auch frühzeitig Ambiente für neue Bereiche prototypisieren und später verfeinern."
+        },
+        {
+          "question": "Wie erstelle ich effektives weißes Rauschen und Umgebungsgeräusche mit dem Sound Simulator?",
+          "answer": "Beschreiben Sie Textur und Bewegung (\"weiches braunes Rauschen mit sanfter Luft\" oder \"Raumton mit entferntem Verkehr\"). Der Audio-Simulator kann Generator-Audio-Ebenen generieren, die Sie für lange Szenen schleifen, ausblenden und stapeln können."
+        },
+        {
+          "question": "Welche Arten von Sounds kann ich mit dem Sound Simulator erstellen?",
+          "answer": "Der Audio-Simulator kann Generator-Audio in vielen Kategorien generieren: Natur-Ambiente, mechanische Effekte, UI-Feedback, filmische Hits, Sci-Fi-Texturen und musikalische Elemente. Es unterstützt schnelle Entwürfe und produktionsreife Ergebnisse."
+        },
+        {
+          "question": "Sind die generierten Sounds vom Sound Simulator lizenzfrei?",
+          "answer": "Ja. Mit dem Audio-Simulator erstellter Generator-Sound ist lizenzfrei und für den kommerziellen Gebrauch geeignet, sodass Sie Inhalte veröffentlichen und Produkte ohne zusätzliche Lizenzierungsschritte ausliefern können."
+        },
+        {
+          "question": "Wie ist die Qualität der vom Audio-Simulator generierten Audios?",
+          "answer": "Der Audio-Simulator zielt auf saubere, professionelle Ausgabe mit stabiler Dynamik und niedrigen Artefakten ab. Für beste Ergebnisse generieren Sie einige Varianten, wählen Sie den natürlichsten Generator-Sound aus und führen Sie dann leichte EQ- oder Pegelanpassungen in Ihrem Editor durch."
+        }
+      ]
+    }
+  }
+}

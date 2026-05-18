@@ -1,0 +1,71 @@
+{
+  "funny-scream": {
+    "meta": {
+      "title": "Lustiger Schrei",
+      "description": "Erstellen Sie sofort lustigen Schrei mit fortschrittlicher KI. Naturgeräusche, Instrumente und mehr.",
+      "keywords": "lustiger Schrei, lustiges Schreien"
+    },
+    "hero": {
+      "title": "Lustiger Schrei",
+      "subtitle": "Verwandeln Sie Textbeschreibungen sofort in hochwertigen lustigen Schrei"
+    },
+    "generator_subtitle": "Wählen Sie unten beliebte Prompts oder schreiben Sie eine eigene Beschreibung, um lustigen Schrei zu erzeugen",
+    "advantages": {
+      "title": "Warum unseren Generator für lustige Schreie wählen?",
+      "items": [
+        {
+          "title": "Lustige Schrei-Takes aus einfachem Text",
+          "description": "Beschreiben Sie übertriebenes Jaulen, cartoonhaftes Heulen oder parodistischen Horror-Schrei und erhalten Sie einen polierten Clip ohne Sprecher oder Horror-Packs zu wühlen. Das Modell erfasst Tonhöhe, Dauer und komisches Timing, damit Ergebnisse zu Animations-Punchlines, Game-Fails oder Podcast-Gags passen. Schnell iterieren, wenn jede Episode eine neue Reaktion braucht. Ein sauberer lustiger Schrei-Durchgang lässt Szenen wirken und hält lustiges Schreien im Mix kontrolliert.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Energie steuern ohne den Witz zu verlieren",
+          "description": "Fordern Sie manische, tote oder überdrehte Lieferung; klarere Notizen zu Distanz und Atem halten die Performance im Mix lesbar. Erwähnen Sie, wenn die Cue unter Dialog liegt, damit der Generator Sustain kürzt. Exportieren Sie Tails zum Gaten oder Faden für enge Montagen. Stimmen Sie jeden lustigen Schrei ans Bild—lustiges Schreien als Akzent begräbt nie Untertitel.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Pegel, die echter Wiedergabe standhalten",
+          "description": "Downloads zielen auf verständliche Peaks und handhabbare Dynamik, damit Master-Limiting den Witz nicht platt macht. Auf Laptop-Lautsprechern und Ohrhörern vorhören—wo komische Hinweise landen oder verschwinden. Loudness-gematchte lustige Schrei-Schnitte lassen lustige Schrei-Momente geräteübergreifend wirken.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Über lustigen Schrei-Audio",
+      "items": [
+        {
+          "question": "Was ist ein Generator für lustige Schreie?",
+          "answer": "Ein KI-Workflow, der komische Schrei-Clips aus Text synthetisiert statt Schauspieler zu buchen oder zufällige Uploads zu samplen. Sie nennen Charakter, Intensität und Kontext—Cartoon-Bösewicht, panischer Gamer, sarkastischer Erzähler—und laden eine Datei für Timeline oder Game-Middleware. So kann ein lustiger Schrei-Konzept schnell in mehrere lustige Schrei-Takes verzweigen."
+        },
+        {
+          "question": "Wie werden Prompts in Audio verwandelt?",
+          "answer": "Das System leitet Eigenschaften wie Helligkeit, Raspeln, Dauer und Atempausen aus Ihrer Beschreibung ab und rendert einen Take passend zum Brief. Passen Sie Adjektive, Hinweise zu Geschlecht oder Alter und Szenario zwischen Durchläufen an, bis der lustige Schrei zu Ihrem Beat passt. Iterieren Sie, bis der Rhythmus des lustigen Schreiens mit dem Bildschnitt verschließt."
+        },
+        {
+          "question": "Wann synthetisiertes lustiges Schreien statt Stock-Schreie?",
+          "answer": "Stock-Bibliotheken neigen zu gruselig oder generisch. Maßsynthese folgt Ihrer Formulierung—hilfreich, wenn lustiges Schreien zur Markenfigur oder Show passt und kein derselbe virale Rip. Ein maßgeschneiderter lustiger Schrei hält wiederkehrende lustige Schrei-Motive über Episoden frisch."
+        },
+        {
+          "question": "Wie schreibe ich Prompts für glaubwürdigen lustigen Schrei?",
+          "answer": "Nennen Sie Persona, Grund für den Schrei und wie lange der Tail klingen soll. Beispiele wie „kurzer nasaler Schrei nach falschem Jump-Scare“ oder „langer keuchender Cartoon-Schrei mit Hall-Tail“ schlagen Ein-Wort-Requests. Nennen Sie, wenn der Clip unter Musik ducken muss. Ein spezifischer lustiger Schrei-Prompt liefert lustiges Schreien mit weniger Versuchen."
+        },
+        {
+          "question": "Wie mixe ich lustigen Schrei in Shorts oder Streams?",
+          "answer": "Transienten auf visuellen Hit ausrichten, Hintergrundmusik ein paar dB senken, sanften Clipper oder Limiter bei Spitzen. Mono-Kompatibilität prüfen, damit der Witz auf Telefon und billigen Headsets bleibt. Jeden lustigen Schrei leicht vor Bewegung setzen, wenn lustiges Schreien knackig wirken soll."
+        },
+        {
+          "question": "Welche Variationen jenseits eines einfachen lustigen Schreis?",
+          "answer": "Probieren Sie Gruppenschreie, stakkato Panik-Bursts, Flüstern-zu-Schrei-Gags oder falsche Opern-Jammereien. Setting—Büro-Streich, Bosskampf, Spukhaus-Parodie—hält Ton zur Story stimmig. Rotieren Sie lustige Schrei-Varianten, damit lustige Schrei-Callbacks überraschend bleiben."
+        },
+        {
+          "question": "Ist der generierte Audio-Inhalt lizenzfrei?",
+          "answer": "Ja. Downloads sind unter unserer Lizenz für typische Creator- und kommerzielle Nutzung lizenzfrei, ohne extra Gebühr pro Clip. Lesen Sie vor großen Werbekampagnen oder Broadcast die aktuellen Bedingungen auf der Produktseite."
+        },
+        {
+          "question": "Welche Qualität ist zu erwarten?",
+          "answer": "Erwarten Sie volle Bandbreite für Schnitt-Suites und Mobile-Wiedergabe. Laufen Sie Ihre übliche Mastering-Passage bei Broadcast-Lautheit, damit jeder lustige Schrei mit Erzählung und Score balanciert. Konsistentes Mastering hält lustige Schrei-Texturen in dichten Mixes klar."
+        }
+      ]
+    }
+  }
+}

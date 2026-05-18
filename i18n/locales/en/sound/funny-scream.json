@@ -1,0 +1,71 @@
+{
+  "funny-scream": {
+    "meta": {
+      "title": "Funny Scream",
+      "description": "Instantly create funny scream with our advanced AI technology. Generate various type sounds including natural sounds, musical instruments and more.",
+      "keywords": "funny scream, funny screaming"
+    },
+    "hero": {
+      "title": "Funny Scream",
+      "subtitle": "Instantly transform text description into high-quality funny scream"
+    },
+    "generator_subtitle": "Select from popular prompts below or write your own description to generate funny scream",
+    "advantages": {
+      "title": "Why Choose Our Funny Scream Generator?",
+      "items": [
+        {
+          "title": "Funny Scream Takes from Plain Text",
+          "description": "Describe an exaggerated yelp, cartoonish howl, or mock-horror shriek and receive a polished clip without recording talent or digging through horror packs. The model reads pitch, length, and comedic timing so results fit animation punchlines, game fails, or podcast bits. Iterate quickly when each episode needs a fresh reaction. A clean funny scream pass helps scenes land while funny screaming remains controlled in the mix.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Control Energy Without Losing the Joke",
+          "description": "Ask for manic, deadpan, or over-the-top delivery; clearer notes about distance and breath keep the performance readable in a mix. Mention if the cue sits under dialogue so the generator trims sustain. Export tails you can gate or fade for tight montages. Tune each funny scream to picture so funny screaming accents never bury captions.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Levels That Survive Real Playback",
+          "description": "Downloads target intelligible peaks and manageable dynamics so limiting on the master does not flatten the joke. Preview on laptop speakers and earbuds—the places where comedic cues either land or disappear. Loudness-matched funny scream edits make funny screaming moments translate across devices.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "About Funny Scream Audio",
+      "items": [
+        {
+          "question": "What is a funny scream generator?",
+          "answer": "It is an AI workflow that synthesizes comedic shout clips from text instead of booking actors or sampling random uploads. You specify character, intensity, and context—cartoon villain, panicked gamer, sarcastic narrator—and download a file ready for timelines or game middleware. This lets one funny scream concept branch into multiple funny screaming takes fast."
+        },
+        {
+          "question": "How does this tool turn prompts into audio?",
+          "answer": "The system infers traits like brightness, rasp, duration, and breath gaps from your description, then renders a take aligned with that brief. Tweak adjectives, gender or age hints, and scenario cues between passes until the funny scream matches your beat. Iterate until funny screaming rhythm locks to the visual cut."
+        },
+        {
+          "question": "When should I pick synthesized funny screaming over stock screams?",
+          "answer": "Stock libraries often skew scary or generic. Custom synthesis follows your wording, which helps when you need funny screaming that still feels on-brand for a character or show, and it avoids the same viral rip everyone else uses. A bespoke funny scream also keeps recurring funny screaming motifs fresh across episodes."
+        },
+        {
+          "question": "How do I write prompts for a believable funny scream?",
+          "answer": "Name the persona, the reason for the yell, and how long the tail should ring. Examples such as \"short nasal shriek after a fake jump scare\" or \"long wheezing cartoon scream with reverb tail\" outperform one-word requests. Mention if the clip must duck under music. A specific funny scream prompt gives funny screaming results with fewer retries."
+        },
+        {
+          "question": "How do I mix a funny scream in shorts or streams?",
+          "answer": "Align the transient to the visual hit, dip background music a few decibels, and use a gentle clipper or limiter if peaks spike. Check mono compatibility so the joke survives phone playback and cheap headsets. Place each funny scream slightly ahead of motion when funny screaming must feel snappy."
+        },
+        {
+          "question": "What variations can I explore beyond a basic funny scream?",
+          "answer": "Try group shouts, staccato panic bursts, whisper-to-yell gags, or faux-operatic wails. Adding setting notes—office prank, boss battle, haunted-house parody—keeps tone consistent with your storyline. Rotate funny scream variants so funny screaming callbacks stay surprising."
+        },
+        {
+          "question": "Is the generated audio royalty-free?",
+          "answer": "Yes. Downloads are royalty-free for typical creator and commercial use under our license, without extra per-clip fees. Review the latest terms on the product page before large ad campaigns or broadcast placements."
+        },
+        {
+          "question": "What quality should I expect?",
+          "answer": "Expect full-range clarity suited to editing suites and mobile playback. Run your usual mastering pass if you need broadcast-loud delivery so each funny scream balances evenly with narration and score. Consistent mastering helps funny screaming textures remain clear in dense mixes."
+        }
+      ]
+    }
+  }
+}

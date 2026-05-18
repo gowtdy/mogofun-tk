@@ -1,0 +1,75 @@
+{
+  "screaming-noise": {
+    "meta": {
+      "title": "Bruit de cri",
+      "description": "Créez un bruit de cri instantanément avec notre technologie IA avancée. Générez divers types de sons : naturels, instruments musicaux et plus.",
+      "keywords": "bruit de cri, bruits de cri"
+    },
+    "hero": {
+      "title": "Bruit de cri",
+      "subtitle": "Transformez instantanément une description textuelle en bruit de cri de haute qualité"
+    },
+    "generator_subtitle": "Choisissez parmi les invites populaires ci-dessous ou rédigez votre propre description pour générer un bruit de cri",
+    "advantages": {
+      "title": "Pourquoi choisir notre générateur ?",
+      "items": [
+        {
+          "title": "Création instantanée de bruit de cri",
+          "description": "Créez des clips de bruit professionnels instantanément à partir de texte avec notre générateur IA. L'outil transforme vos idées en audio vocal et d'impact de haute qualité en quelques secondes, sans banques d'échantillons ni montage manuel. Générez des variations illimitées pour jeux, vidéos et apps. Que vous ayez besoin de woooooaah, de ton synthé, ou de bruit de cri pour l'horreur, le générateur livre un bruit de cri en qualité studio pour vos projets.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Possibilités créatives illimitées",
+          "description": "Utilisez notre générateur pour créer tout style de bruit que vous imaginez—des gémissements subtils aux cris intenses. L'outil comprend les descriptions complexes et vous donne une liberté créative totale. Explorez des options adaptées aux jeux, films et médias. Des gémissements de personnage aux styles vocaux variés pour chaque scénario, obtenez le clip de bruit de cri parfait pour votre projet.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualité audio professionnelle",
+          "description": "Chaque clip de notre générateur respecte les normes de diffusion avec une sortie haute fidélité. Des algorithmes de pointe garantissent des résultats en qualité studio. Tous les bruits de cri sont prêts pour la production et optimisés pour un usage professionnel. Le générateur offre une couverture fréquentielle complète et une dynamique claire pour des bruits de cri authentiques. Bruits de cri qui paraissent cohérents dans tout projet.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "FAQ générateur",
+      "items": [
+        {
+          "question": "Qu'est-ce que ce générateur ?",
+          "answer": "C'est un outil IA qui transforme des descriptions textuelles en bruit de cri personnalisé. Le nôtre utilise le traitement du langage naturel et la synthèse neuronale audio pour produire des clips de bruit de qualité professionnelle. Vous pouvez créer des clips vocaux pour horreur, jeux ou films. Il convient aux créateurs de contenu, développeurs de jeux et cinéastes qui ont besoin d'une sortie rapide et authentique. Le générateur prend aussi en charge le bruit de cri pour styles et ambiances variés. Utilisez-le pour un bruit de cri personnalisé dans tout projet."
+        },
+        {
+          "question": "Comment ça fonctionne ?",
+          "answer": "Notre générateur utilise un pipeline en plusieurs étapes pour transformer le texte en audio de haute qualité. Il analyse d'abord votre description pour capturer des traits comme l'intensité, le personnage et la durée. Ces informations passent par des réseaux neuronaux entraînés pour la synthèse vocale et de bruit. Entraînée sur des échantillons professionnels, l'IA produit une sortie naturelle. Le filtrage et le post-traitement maintiennent une qualité élevée et garantissent que chaque clip respecte les normes de diffusion."
+        },
+        {
+          "question": "Qu'est-ce qui rend ce générateur unique ?",
+          "answer": "Notre générateur se distingue par la personnalisation instantanée et la qualité professionnelle. Contrairement aux banques statiques, il crée un bruit de cri sur mesure à la demande. Le système comprend les descriptions complexes et produit une sortie avec un contrôle fin de l'intensité et du style. Vous obtenez des variations illimitées et une liberté créative. Le bruit de cri pour jeux et films est facile à adapter sans travail de production supplémentaire."
+        },
+        {
+          "question": "Comment rédiger des invites efficaces pour lui ?",
+          "answer": "Rédigez des descriptions claires et précises. Essayez « woooooaah » ou « ton synthé ». Pour le bruit, dites « gémissement intense » ou « cri effrayant ». Incluez l'intensité, le type de personnage et le contexte. Notre générateur répond bien aux termes comme cri, gémissement et pleurs. Plus de contexte donne de meilleurs résultats pour le bruit de cri et autres tons vocaux."
+        },
+        {
+          "question": "Comment l'utiliser dans du contenu vidéo ?",
+          "answer": "Placez des clips de bruit de cri personnalisés où les scènes ont besoin de tension ou de réaction. Le générateur vous aide à créer bruit et audio d'impact pour intros, transitions et moments clés. Superposez des variations de bruit de cri pour un design sonore riche et engageant. Utilisez-le pour films, vlogs et tutoriels. L'outil vous permet de construire un style audio unique qui correspond à votre contenu."
+        },
+        {
+          "question": "Comment l'utiliser en développement de jeux ?",
+          "answer": "Notre générateur prend en charge l'audio procédural pour les jeux. Créez des variations de bruit de cri pour que les joueurs entendent rarement deux fois le même clip. Construisez des systèmes qui réagissent à l'état du jeu, aux dangers et aux événements. Produisez différentes options pour personnages, jumpscares et cinématiques tout en gardant un style cohérent. Les clips peuvent être mixés dynamiquement à partir des paramètres du jeu. Le générateur livre un bruit de cri de qualité professionnelle qui renforce l'immersion et l'impact."
+        },
+        {
+          "question": "Quels types de bruit de cri puis-je créer ?",
+          "answer": "Vous pouvez créer une large gamme de bruit de cri : woooooaah, ton synthé, gémissements intenses, cris effrayants, et options personnalisées. Le générateur traite ces catégories de bruit et bruits de cri avec une qualité constante. Que vous ayez besoin de gémissements subtils ou de clips vocaux marqués pour tout scénario, l'outil livre des résultats professionnels. Le bruit de cri pour horreur et jeux est pris en charge avec un contrôle créatif total."
+        },
+        {
+          "question": "Les clips de bruit de cri générés sont-ils libres de droits ?",
+          "answer": "Oui. Tout l'audio de notre générateur est libre de droits et inclut une licence commerciale. Vous pouvez utiliser les clips de bruit de cri générés dans tout projet sans frais supplémentaires ni attribution. Chaque clip est autorisé pour une utilisation immédiate en usage professionnel et commercial."
+        },
+        {
+          "question": "Quelle qualité produit-il ?",
+          "answer": "Notre générateur produit un bruit de cri de qualité professionnelle qui respecte les normes de l'industrie. Vous obtenez des options haute résolution, une plage de fréquences complète et une dynamique claire. Toute la sortie est prête pour la diffusion et convient à la production professionnelle et aux projets créatifs."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "shouting-sound-effect": {
+    "meta": {
+      "title": "Shouting Sound Effect",
+      "description": "Instantly create shouting sound effect with our advanced AI technology. Generate various type sounds including natural sounds, musical instruments and more.",
+      "keywords": "shouting sound effect, shouting meme"
+    },
+    "hero": {
+      "title": "Shouting Sound Effect",
+      "subtitle": "Instantly transform text description into high-quality shouting sound effect"
+    },
+    "generator_subtitle": "Select from popular prompts below or write your own description to generate shouting sound effect",
+    "advantages": {
+      "title": "Why Choose Our Shouting Sound Effect Generator?",
+      "items": [
+        {
+          "title": "Create Intense Vocal Cues in Seconds",
+          "description": "Generate action-ready vocal clips directly from text without searching huge libraries or recording extra takes. The model interprets urgency, distance, and emotional pressure so outputs align with game edits, trailers, streams, and cinematic cuts. Fast iteration helps teams compare options before lock.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Flexible Style for Battle and Reaction Moments",
+          "description": "From controlled callouts to high-energy crowd vocals, prompt detail lets you shape texture, rhythm, and perceived space. This makes each shouting sound effect easier to fit under dialogue, over music beds, or in standalone stingers. You can produce alternates for A/B timing checks in one workflow. For shareable social moments, you can also bias toward short meme-style shout bursts.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professional-Grade Audio Quality",
+          "description": "Files export with stable dynamics and clean transients, reducing cleanup during post-production. Loudness behavior remains predictable after platform compression, so your shout cues retain punch on both mobile and desktop playback.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "About Our Shouting Sound Effect Generator",
+      "items": [
+        {
+          "question": "What is a shouting sound effect generator?",
+          "answer": "It is an AI tool that converts text prompts into vocal shout cues for games, videos, and social content. Instead of manually browsing sound packs, you can generate scene-specific clips quickly and keep workflow focused on storytelling."
+        },
+        {
+          "question": "How does this shouting sound effect tool work?",
+          "answer": "The model parses your prompt for intent, intensity, pacing, and context, then synthesizes audio matching those attributes. You can refine wording between passes until the cue lands on the exact frame and emotional beat you need."
+        },
+        {
+          "question": "Why use this instead of stock assets?",
+          "answer": "Stock assets can feel repetitive and may not match scene timing. Prompt-driven generation creates fresh takes on demand, making each shouting sound effect more specific and better aligned with visual pacing."
+        },
+        {
+          "question": "How should I write prompts for shouting sound effect results?",
+          "answer": "Describe who is shouting, why they shout, and how long the call should sustain. Specific prompt language such as \"short command yell before impact\" usually yields cleaner timing than vague single-word requests."
+        },
+        {
+          "question": "Where does a shouting sound effect work best in edits?",
+          "answer": "Use it for combat peaks, dramatic transitions, urgency cues, and high-energy reveals. Keep levels under primary dialogue and automate gain to preserve speech intelligibility in dense mixes."
+        },
+        {
+          "question": "What kinds of variants can I generate?",
+          "answer": "You can produce short commands, battle cries, layered crowd calls, stressed vocal bursts, and stylized cinematic shouts. Multiple variants help editors choose the best emotional arc before final delivery. Short meme-style bursts are also available when you need punchy, shareable clips."
+        },
+        {
+          "question": "Is generated audio royalty-free?",
+          "answer": "Yes. Generated files are royalty-free under our standard license for typical creator and commercial use. Review the latest terms before large ad campaigns or broadcast deployment."
+        },
+        {
+          "question": "What quality should I expect from exports?",
+          "answer": "Expect production-ready output with clear transients, reliable dynamics, and consistent performance across devices. For release, apply your normal mastering chain to match project loudness targets."
+        }
+      ]
+    }
+  }
+}

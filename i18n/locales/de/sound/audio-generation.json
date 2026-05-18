@@ -1,0 +1,79 @@
+{
+  "audio-generation": {
+    "meta": {
+      "title": "Audio-Generierung",
+      "description": "Erstellen Sie KI-generierte Audioeffekte mit fortschrittlicher Audio-Generierung, die verschiedene Typen umfasst, einschließlich natürlicher Klänge, Musikinstrumente und mehr.",
+      "keywords": "Audio-Generierung, KI-generiertes Audio"
+    },
+    "hero": {
+      "title": "Audio-Generierung",
+      "subtitle": "Verwandeln Sie Ihre Textbeschreibungen in hochwertige KI-generierte Audioeffekte"
+    },
+    "generator_subtitle": "Wählen Sie aus beliebten Eingabeaufforderungen unten oder schreiben Sie Ihre eigene Beschreibung, um KI-generierte Audioeffekte zu erstellen",
+    "advantages": {
+      "title": "Warum unsere Audio-Generierung wählen?",
+      "items": [
+        {
+          "title": "Sofortige Klanggenerierung",
+          "description": "Verwandeln Sie Texteingaben in sekundenschnelle produktionsreife Effekte mit unserem Audio-Generierungstool. Dieses leistungsstarke System erstellt KI-generiertes Audio sofort. Verwenden Sie eine klare Beschreibung, um Klänge für Videos, Spiele, Werbung und Apps zu erstellen – keine sperrigen Bibliotheken, kein manuelles Zuschneiden, nur schnelle Ergebnisse.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Unbegrenzte kreative Möglichkeiten",
+          "description": "Von filmischen Einschlägen bis hin zu subtiler Atmosphäre versteht unsere von KI-generiertem Audio angetriebene Audio-Generierung detaillierte Absichten und bietet kontrollierbare Variationen. Fügen Sie Stimmung, Textur, Distanz und Timing hinzu, um die Ausgabe für Ihre Szene zu formen. Für Teams, die schnellere Iterationen wünschen, hält dieses Tool die Ergebnisse über Versionen hinweg konsistent.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professionelle Klangqualität",
+          "description": "Erhalten Sie saubere, hochwertige Ausgabe mit ausgewogener Dynamik, die sofort in Ihren Workflow integriert werden kann. Unsere Audio-Generierung mit KI-generiertem Audio produziert stabile Ergebnisse mit weniger Artefakten, sodass die Bearbeitung leicht und vorhersehbar bleibt. Erleben Sie professionelle Klangqualität bei jeder Generierung.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Über Audio-Generierung",
+      "items": [
+        {
+          "question": "Was ist Audio-Generierung?",
+          "answer": "Audio-Generierung ist der Prozess der Umwandlung von Textbeschreibungen in sofort einsatzbereite Effekte und Atmosphären. Mit unserem Klanggenerierungstool können Sie beschreiben, was Sie benötigen, und schnell KI-generiertes Audio erstellen, das zu Inhalten, Produkten oder interaktiven Erfahrungen passt. Für schnellere Workflows hilft dieses Tool, die Ergebnisse konsistent zu halten."
+        },
+        {
+          "question": "Wie funktioniert Audio-Generierung?",
+          "answer": "Unsere Audio-Generierung analysiert Ihre Eingabe (Quelle, Umgebung, Intensität, Dauer), ordnet sie akustischen Attributen zu und synthetisiert dann die Ausgabe mithilfe neuronaler Modelle. Der Prozess verwendet KI-generierte Audio-Technologie, um Ihre Anfragen zu verarbeiten. Leichte Nachbearbeitung hilft, die Ergebnisse klar, verwendbar und konsistent zu machen. Kurz gesagt, dieses System automatisiert die schwere Arbeit von der Beschreibung bis zum Export."
+        },
+        {
+          "question": "Was macht diese Klanggenerierung einzigartig?",
+          "answer": "Diese Klanggenerierung konzentriert sich auf Geschwindigkeit, Kontrolle und zuverlässige Ausgabe. Anstatt durch Preset-Pakete zu suchen, beschreiben Sie, was Sie benötigen, und erstellen Klangvariationen, die thematisch bleiben, was die Iteration viel schneller macht. Unser Tool mit KI-generiertem Audio liefert schnell professionelle Ergebnisse."
+        },
+        {
+          "question": "Wie schreibe ich effektive Eingabeaufforderungen für Audio-Generierung?",
+          "answer": "Seien Sie spezifisch: Beschreiben Sie die Quelle (\"Metallschlag\"), die Umgebung (\"Lagerhaus\"), die Distanz (\"nah\"), die Emotion (\"angespannt\") und das Timing (\"0,8s Nachhall\"). Fügen Sie Modifikatoren wie \"gedämpft\" oder \"hell\" hinzu, um dem Tool zu helfen, Klänge zu erstellen, die zu Ihrer Mischung passen. Die KI-generierte Audio-Technologie versteht detaillierte Beschreibungen."
+        },
+        {
+          "question": "Wie kann ich Audio-Generierung für Videoinhalte verwenden?",
+          "answer": "Verwenden Sie unsere Audio-Generierung, um Klänge für Übergänge, Einschläge, Atmosphärenbetten und szenenspezifische Details zu erstellen. Das System mit KI-generierter Audio-Technologie produziert professionelle Klänge. Generieren Sie einige ähnliche Varianten, legen Sie sie dann übereinander und ducken Sie sie unter den Dialog, um die Mischung natürlich und ansprechend zu halten."
+        },
+        {
+          "question": "Wie kann ich Audio-Generierung in der Spieleentwicklung verwenden?",
+          "answer": "Erstellen Sie Klangfamilien für Aktionen (Schritte, UI-Klicks, Fähigkeiten) und generieren Sie Variationen, um Wiederholungen zu reduzieren. Ein Audio-Generierungs-Workflow mit KI-generiertem Audio hilft auch dabei, Atmosphären für neue Levels vor dem finalen Polieren zu prototypisieren. Dieses Tool rationalisiert die Spielklangproduktion."
+        },
+        {
+          "question": "Wie erstelle ich weißes Rauschen und Atmosphäre mit Audio-Generierung?",
+          "answer": "Beschreiben Sie die Textur und Bewegung (\"weiches braunes Rauschen mit sanfter Luft\" oder \"Stadtraumton mit entferntem Verkehr\"). Das Tool kann Klangschichten erstellen, die Sie für lange Szenen loopen, ausblenden und stapeln können. Unsere Klanggenerierung behandelt komplexe Atmosphärenanfragen effektiv."
+        },
+        {
+          "question": "Was kann ich mit Audio-Generierung erstellen?",
+          "answer": "Sie können Klänge in vielen Kategorien erstellen: Natur, Maschinen, UI-Feedback, filmische Hits, Sci-Fi-Texturen, musikalische Elemente und Umgebungsatmosphäre. Die Klanggenerierung ist flexibel für schnelle Entwürfe und Produktionsnutzung. Dieses Tool, angetrieben von KI-generiertem Audio, deckt vielfältige Klangbedürfnisse ab."
+        },
+        {
+          "question": "Ist der Klang aus der Audio-Generierung lizenzfrei?",
+          "answer": "Ja. KI-generiertes Audio aus unserer Audio-Generierung ist lizenzfrei und für den kommerziellen Gebrauch geeignet, sodass Sie Videos veröffentlichen, Spiele veröffentlichen und Produkte starten können, ohne zusätzliche Lizenzierungsschritte. Das Tool mit KI-generierter Audio-Technologie stellt sicher, dass Sie die Rechte an allen generierten Inhalten besitzen."
+        },
+        {
+          "question": "Welche Ausgabequalität kann ich von der Audio-Generierung erwarten?",
+          "answer": "Die Audio-Generierung zielt auf saubere, hochwertige Ausgabe ab, die für moderne Produktion geeignet ist. Für beste Ergebnisse generieren Sie einige Varianten, wählen Sie die natürlichste Version aus und führen Sie leichte EQ- oder Pegelanpassungen in Ihrem Editor durch. Unser Tool liefert konsistent professionelle Ergebnisse."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "funny-scream": {
+    "meta": {
+      "title": "Grito divertido",
+      "description": "Crea al instante grito divertido con nuestra IA avanzada: sonidos naturales, instrumentos y más.",
+      "keywords": "grito divertido, grito cómico"
+    },
+    "hero": {
+      "title": "Grito divertido",
+      "subtitle": "Transforma al instante descripciones de texto en grito divertido de alta calidad"
+    },
+    "generator_subtitle": "Elige entre los prompts populares de abajo o escribe tu propia descripción para generar grito divertido",
+    "advantages": {
+      "title": "¿Por qué elegir nuestro generador de gritos divertidos?",
+      "items": [
+        {
+          "title": "Tomas de grito divertido desde texto llano",
+          "description": "Describe un aullido exagerado, aullido de dibujo o grito de horror paródico y obtén un clip pulido sin grabar talentos ni hurgar en packs de terror. El modelo lee altura, duración y timing cómico para que los resultados encajen en punchlines de animación, fallos de juego o segmentos de podcast. Itera rápido cuando cada episodio necesita una reacción nueva. Una pasada limpia de grito divertido ayuda a que las escenas funcionen mientras el grito cómico sigue controlado en la mezcla.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Controla la energía sin perder el chiste",
+          "description": "Pide interpretación maníaca, deadpan o exagerada; notas más claras sobre distancia y respiración mantienen la actuación legible en la mezcla. Menciona si la cue va bajo diálogo para que el generador acorte el sustain. Exporta colas que puedas gatear o fundir en montajes ajustados. Ajusta cada grito divertido a la imagen para que los acentos de grito cómico nunca tapen los subtítulos.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Niveles que aguantan la reproducción real",
+          "description": "Las descargas buscan picos inteligibles y dinámica manejable para que el limitador del master no aplaste el chiste. Preescucha en altavoces de portátil y auriculares—donde las pistas cómicas o funcionan o desaparecen. Ediciones de grito divertido con loudness igualado hacen que los momentos de grito cómico se traduzcan entre dispositivos.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Sobre audio de grito divertido",
+      "items": [
+        {
+          "question": "¿Qué es un generador de grito divertido?",
+          "answer": "Es un flujo de IA que sintetiza clips de gritos cómicos a partir de texto en lugar de contratar actores o muestrear subidas aleatorias. Especificas personaje, intensidad y contexto—villano de dibujo, jugador en pánico, narrador sarcástico—y descargas un archivo listo para línea de tiempo o middleware de juego. Así un concepto de grito divertido puede ramificarse en varias tomas de grito cómico con rapidez."
+        },
+        {
+          "question": "¿Cómo convierte la herramienta los prompts en audio?",
+          "answer": "El sistema infiere brillo, aspereza, duración y pausas de respiración de tu descripción y renderiza una toma alineada con ese brief. Ajusta adjetivos, pistas de género o edad y pistas de escenario entre pases hasta que el grito divertido encaje con tu beat. Itera hasta que el ritmo del grito cómico encaje con el corte visual."
+        },
+        {
+          "question": "¿Cuándo elegir grito cómico sintetizado en lugar de gritos stock?",
+          "answer": "Las bibliotecas stock suelen tender a lo aterrador o genérico. La síntesis a medida sigue tu redacción, útil cuando necesitas grito cómico que siga sonando a la marca del personaje o del show, y evita el mismo rip viral que todos usan. Un grito divertido a medida también mantiene frescos los motivos recurrentes de grito cómico entre episodios."
+        },
+        {
+          "question": "¿Cómo escribo prompts para un grito divertido creíble?",
+          "answer": "Nombra la persona, el motivo del grito y cuánto debe sonar la cola. Ejemplos como \"grito nasal corto tras un falso jump scare\" o \"grito de dibujo largo y jadeante con cola de reverb\" superan peticiones de una palabra. Menciona si el clip debe ir bajo la música. Un prompt específico de grito divertido da resultados de grito cómico con menos reintentos."
+        },
+        {
+          "question": "¿Cómo mezclo un grito divertido en shorts o streams?",
+          "answer": "Alinea el transiente al golpe visual, baja la música de fondo unos dB y usa un clipador o limitador suave si los picos explotan. Comprueba compatibilidad mono para que el chiste sobreviva en móvil y auriculares baratos. Coloca cada grito divertido ligeramente delante del movimiento cuando el grito cómico deba sonar seco."
+        },
+        {
+          "question": "¿Qué variaciones más allá de un grito divertido básico?",
+          "answer": "Prueba gritos en grupo, ráfagas de pánico en staccato, gags de susurro a grito o lamentos pseudooperáticos. Añadir escenario—broma de oficina, batalla de jefe, parodia de casa encantada—mantiene el tono alineado con la trama. Rota variantes de grito divertido para que los callbacks de grito cómico sigan sorprendiendo."
+        },
+        {
+          "question": "¿El audio generado es libre de royalties?",
+          "answer": "Sí. Las descargas son libres de royalties para uso típico de creadores y comercial bajo nuestra licencia, sin tasas extra por clip. Revisa los términos más recientes en la página del producto antes de grandes campañas publicitarias o emisiones en broadcast."
+        },
+        {
+          "question": "¿Qué calidad debo esperar?",
+          "answer": "Espera claridad de banda completa adecuada para suites de edición y reproducción móvil. Ejecuta tu pasada habitual de masterización si necesitas entrega en loudness de broadcast para que cada grito divertido equilibre con narración y partitura. La masterización coherente ayuda a que las texturas de grito cómico sigan claras en mezclas densas."
+        }
+      ]
+    }
+  }
+}

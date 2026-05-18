@@ -1,0 +1,79 @@
+{
+  "audio-ai": {
+    "meta": {
+      "title": "Audio AI",
+      "description": "Crie efeitos de áudio AI com gerador de áudio AI avançado, gerando vários tipos incluindo sons naturais, instrumentos musicais e muito mais.",
+      "keywords": "audio AI, gerador de áudio AI"
+    },
+    "hero": {
+      "title": "Audio AI",
+      "subtitle": "Transforme suas descrições de texto em efeitos de áudio AI de alta qualidade"
+    },
+    "generator_subtitle": "Selecione entre os prompts populares abaixo ou escreva sua própria descrição para gerar efeitos de áudio AI",
+    "advantages": {
+      "title": "Por que escolher nosso Audio AI?",
+      "items": [
+        {
+          "title": "Geração Instantânea de Som",
+          "description": "Transforme prompts de texto em efeitos prontos para produção em segundos com gerador de áudio AI. Use uma descrição clara para criar som para vídeos, jogos, anúncios e aplicativos—sem bibliotecas volumosas, sem edição manual, apenas resultados rápidos.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Possibilidades Criativas Ilimitadas",
+          "description": "De impactos cinematográficos a ambientes sutis, o gerador de áudio AI entende intenções detalhadas e oferece variações controláveis. Adicione humor, textura, distância e timing para moldar a saída para sua cena. Quando você precisa de iteração confiável, um gerador de áudio AI ajuda a manter os resultados consistentes entre versões.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualidade de Som Profissional",
+          "description": "Obtenha saída limpa e de alta fidelidade com dinâmicas equilibradas, pronta para usar em seu fluxo de trabalho. O gerador de áudio AI produz resultados estáveis com menos artefatos, para que a edição permaneça leve e previsível.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Sobre Audio AI",
+      "items": [
+        {
+          "question": "O que é áudio AI?",
+          "answer": "Áudio AI transforma descrições de texto em efeitos e ambientes prontos para uso. Com gerador de áudio AI, você pode descrever o que precisa e criar rapidamente som que se adapta a conteúdo, produtos ou experiências interativas. Para fluxos de trabalho mais rápidos, um gerador de áudio AI ajuda a manter os resultados consistentes."
+        },
+        {
+          "question": "Como funciona o áudio AI?",
+          "answer": "Áudio AI analisa seu prompt (fonte, ambiente, intensidade, duração), mapeia para atributos acústicos e depois sintetiza a saída usando modelos neurais. Pós-processamento leve ajuda a tornar os resultados claros e consistentes. Em resumo, sistemas geradores de áudio AI automatizam o trabalho pesado da descrição à exportação."
+        },
+        {
+          "question": "O que torna este som AI único?",
+          "answer": "Este gerador de som AI foca em velocidade, controle e saída confiável. Em vez de procurar em pacotes de predefinições, você descreve o que precisa e cria variações que permanecem no tema, tornando a iteração muito mais rápida."
+        },
+        {
+          "question": "Como escrevo prompts eficazes para áudio AI?",
+          "answer": "Seja específico: descreva a fonte (\"impacto de metal\"), ambiente (\"armazém\"), distância (\"perto\"), emoção (\"tenso\") e timing (\"cauda de 0,8s\"). Adicione modificadores como \"abafado\" ou \"brilhante\" para ajudar o som AI a criar saída que corresponda à sua mixagem."
+        },
+        {
+          "question": "Como posso usar áudio AI para conteúdo de vídeo?",
+          "answer": "Use áudio AI para criar áudio para transições, impactos, camadas de ambiente e detalhes específicos da cena. Gere algumas variantes próximas, depois sobreponha e reduza-as sob o diálogo para manter a mixagem natural e envolvente."
+        },
+        {
+          "question": "Como posso usar som AI no desenvolvimento de jogos?",
+          "answer": "Crie famílias de som para ações (passos, cliques de UI, habilidades) e gere variações para reduzir a repetição. Fluxos de trabalho de gerador de áudio AI também ajudam a prototipar ambiente para novos níveis antes do polimento final."
+        },
+        {
+          "question": "Como crio ruído branco e ambiente com som AI?",
+          "answer": "Descreva a textura e o movimento (\"ruído marrom suave com ar suave\" ou \"tom de sala urbana com tráfego distante\"). Som AI pode criar camadas que você pode fazer loop, esmaecer e empilhar para cenas longas."
+        },
+        {
+          "question": "O que posso criar com som AI?",
+          "answer": "Você pode criar som em muitas categorias: natureza, máquinas, feedback de UI, impactos cinematográficos, texturas de ficção científica, elementos musicais e ambiente ambiental. Gerador de áudio AI é flexível tanto para rascunhos rápidos quanto para uso em produção."
+        },
+        {
+          "question": "O som gerado por áudio AI é livre de royalties?",
+          "answer": "Sim. Áudio gerado com gerador de áudio AI é livre de royalties e adequado para uso comercial, então você pode publicar vídeos, lançar jogos e lançar produtos sem etapas extras de licenciamento."
+        },
+        {
+          "question": "Qual qualidade de saída posso esperar do áudio AI?",
+          "answer": "Áudio AI visa saída limpa e de alta qualidade adequada para produção moderna. Para melhores resultados, gere algumas variantes, escolha a tomada mais natural e faça EQ leve ou correspondência de nível em seu editor."
+        }
+      ]
+    }
+  }
+}

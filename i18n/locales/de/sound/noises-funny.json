@@ -1,0 +1,79 @@
+{
+  "noises-funny": {
+    "meta": {
+      "title": "Lustige Geräusche",
+      "description": "Erstellen Sie einzigartige lustige Geräusche mit fortschrittlicher Soundeffekt-KI – inklusive Naturklängen, Instrumenten und mehr.",
+      "keywords": "lustige Geräusche, lustige Stimme"
+    },
+    "hero": {
+      "title": "Lustige Geräusche",
+      "subtitle": "Verwandeln Sie Ihre Textbeschreibungen in hochwertige lustige Geräusche"
+    },
+    "generator_subtitle": "Wählen Sie unten beliebte Prompts oder schreiben Sie Ihre eigene Beschreibung, um lustige Geräusche zu erzeugen",
+    "advantages": {
+      "title": "Warum lustige Geräusche für Skits und Shorts?",
+      "items": [
+        {
+          "title": "Lustige Geräusche aus Prompts in Sekunden",
+          "description": "Beschreiben Sie Hupen, Quietschen, Mouth-Pops, Rubber-Stretches oder Cartoon-Thuds und erhalten Sie mixfertige Hits ohne alte Libraries zu durchsuchen. Kurz und punchy, damit Punchlines auf dem Beat landen. Duplizieren, Tails trimmen, Varianten archivieren.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Takes iterieren ohne Timelines neu zu bauen",
+          "description": "Duplizieren Sie Gags für Vertikal/Quadrat/Landscape durch Adjektive oder Dauer (\"0.25s squeak\"). Timbre konstant halten, Intensität variieren. Wenn lustige Geräusche VO maskieren: kürzen; wenn zu dünn: Verben erweitern; QC vor Dub.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Handy-Speaker-freundliche Dynamik",
+          "description": "Peaks kontrolliert, ducking unter Dialog klappt sauber. Batch-Export für Kampagnen, danach leichtes Mastering. Promo montags routen, midweek refresh, Deliverables nach Picture-Lock.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Lustige Geräusche: Fragen & Antworten",
+      "items": [
+        {
+          "question": "Was zählt hier als lustige Geräusche?",
+          "answer": "Alberne Non-Dialogue-Hits—Cartoon-Boings, nasse Splats, Kazoo-Buzz, übertriebene Schritte, UI-Bleeps—aus Text statt dubiosen Rips. Legale Stems für Shorts, Podcasts und Game-UI. Eine Scratch-lustige Stimme fürs Timing hilft beim Platzieren von Hupen vor finaler VO."
+        },
+        {
+          "question": "Wie wird Text zum Hit?",
+          "answer": "Prompts beschreiben Material, Bewegung, Länge. Synthese + leichte Bearbeitung für Handy-Peaks. Regenerieren bis zum Frame-Sync. Headroom lassen, wenn lustige Stimme + SFX gebalanced werden."
+        },
+        {
+          "question": "Lustige Stimme mit Quietschen/Hupe kombinieren?",
+          "answer": "Ja: Voice separat drucken, dann Squeak/Honk-Stem layern. Loudness matchen, Tails trimmen. Bei Konflikt: leicht sidechainen oder Tail kürzen."
+        },
+        {
+          "question": "Prompting für Meme-Timing?",
+          "answer": "Trope, emotionaler Flip, Dauer (\"dry honk 0.3s\"). Vertikal braucht oft hellere Transients. Konkrete Zeilen vergleichen und verfeinern. Lustige-Stimme-Beat erwähnen für Call-and-Response."
+        },
+        {
+          "question": "Gut für Stream-Alerts/Chat-Bots?",
+          "answer": "Ja: Schwester-Hits für Follows/Raids/Redeems, Cue-Familie mit gleichem Timbre. Limiter-Gain cappen, damit lustige Stimme verständlich bleibt."
+        },
+        {
+          "question": "Sitzen die unter Dialog?",
+          "answer": "Für Ducking gedacht. Sidechain/Clip-Gain, bei Masking Decay kürzen oder Frequenzen notchen. Platz um Konsonanten für lustige Stimme lassen."
+        },
+        {
+          "question": "Welche Styles funktionieren?",
+          "answer": "Cartoon-Foley, Mouth-Percussion, Boings, Slide-Whistles, Wrong-Answer-Buzzer, übertriebene Impacts. Bed/Poke splitten, Layers in Post tweaken, Transients an Button-Animationen ausrichten."
+        },
+        {
+          "question": "Royalty-free?",
+          "answer": "Nach Lizenz beim Download, meist ohne Extra-Sync-Gebühren. Agreements archivieren und bei Änderungen prüfen."
+        },
+        {
+          "question": "Welche Qualität?",
+          "answer": "Hochauflösende Stems mit kontrollierter Dynamik, gut auf Earbuds. Presets anwenden, Chain wie üblich. Loudness-Ziele für lustige Stimme + SFX matchen."
+        },
+        {
+          "question": "Wer profitiert?",
+          "answer": "Comedy-Editoren, Indie-UI-Designer, Lehrkräfte. Schnelle Iteration ohne dubiose Rips. Saisonale Packs rotieren; im Unterricht auf Lautstärke achten."
+        }
+      ]
+    }
+  }
+}

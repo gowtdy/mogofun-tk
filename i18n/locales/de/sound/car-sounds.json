@@ -1,0 +1,75 @@
+{
+  "car-sounds": {
+    "meta": {
+      "title": "Auto-Sounds",
+      "description": "Erstellen Sie sofort Auto-Sounds mit unserer fortschrittlichen KI-Technologie. Erzeugen Sie verschiedene Audiotypen inkl. natürlicher Töne, Instrumente und mehr.",
+      "keywords": "Auto-Sounds, Autosound"
+    },
+    "hero": {
+      "title": "Auto-Sounds",
+      "subtitle": "Verwandeln Sie Textbeschreibungen sofort in hochwertige Auto-Sounds"
+    },
+    "generator_subtitle": "Wählen Sie aus beliebten Prompts unten oder schreiben Sie Ihre eigene Beschreibung, um Auto-Sounds zu erzeugen",
+    "advantages": {
+      "title": "Warum unseren Auto-Sounds-Generator wählen?",
+      "items": [
+        {
+          "title": "Sofortige Auto-Sounds-Erstellung",
+          "description": "Erstellen Sie professionelle Auto-Sounds und Autosound-Clips sofort aus Text. Unsere KI verwandelt Ihre Beschreibungen in Hupen, Motorbrüllen und Türzuschlagen in Sekunden—ohne Sample-Bibliotheken oder manuelle Bearbeitung. Brauchen Sie klare Auto-Sounds für die UI oder vollen Autosound für eine Szene? Erzeugen Sie unbegrenzte Variationen in sendefähiger Qualität für jedes Projekt.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Unbegrenzte kreative Möglichkeiten",
+          "description": "Erstellen Sie jeden gewünschten Stil: Hupen, Motorbrüllen, Türzuschlagen oder Autosound-Ambiente. Das Tool versteht detaillierte Beschreibungen und gibt Ihnen volle kreative Freiheit. Erkunden Sie endlose Optionen für Videos, Spiele und Apps. Von subtilen Auto-Sounds bis zu mehrschichtigen Autosound für Film—den passenden Clip für jedes Szenario.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professionelle Audioqualität",
+          "description": "Jeder Clip aus unserem Generator erfüllt Sendestandards mit High-Fidelity-Ausgabe. Moderne Algorithmen sorgen für Studioqualität bei Clips und Autosound. Alle Clips sind produktionsreif und für den professionellen Einsatz optimiert, mit voller Frequenzabdeckung und authentischen, natürlichen Ergebnissen.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Auto-Sounds FAQ",
+      "items": [
+        {
+          "question": "Was ist ein Auto-Sounds-Generator?",
+          "answer": "Unser Generator ist ein KI-Tool, das Text in maßgeschneiderte Auto-Sounds und Autosound umwandelt. Es nutzt natürliche Sprachverarbeitung und neuronale Synthese für professionelle Clips—von Hupen und Motorbrüllen bis Türzuschlagen. Geeignet für Creator, Videoeditoren und Spieleentwickler, die schnelle, authentische Auto-Sounds und Autosound mit präzisen, hochauflösenden Ergebnissen brauchen."
+        },
+        {
+          "question": "Wie funktioniert der Generator?",
+          "answer": "Das Tool nutzt eine mehrstufige Pipeline, um Text in hochwertige Clips zu verwandeln. Es analysiert Ihre Beschreibung für Intensität, Stil und Kontext und leitet diese durch für Fahrzeug- und Motor-Synthese trainierte neuronale Netze. Sie können kurze Auto-Sounds für die UI oder längeren Autosound für Ambience anfordern. Jeder Clip erfüllt Sendestandards."
+        },
+        {
+          "question": "Was macht diesen Auto-Sounds-Generator einzigartig?",
+          "answer": "Unser Generator zeichnet sich durch sofortige Anpassung und professionelle Qualität aus. Anders als statische Bibliotheken erstellt er maßgeschneiderte Clips on demand. Mit hochwertigen Samples trainiert, liefert er realistische Auto-Sounds und Autosound. Sie erhalten unbegrenzte Variationen und kreative Freiheit mit feiner Kontrolle."
+        },
+        {
+          "question": "Wie schreibe ich wirksame Prompts für Auto-Sounds?",
+          "answer": "Schreiben Sie klare, konkrete Beschreibungen. Probieren Sie „Auto-Sounds für Hupen“ oder „Autosound für Motorbrüllen“. Nennen Sie Stil (realistisch, filmisch), Intensität und Kontext. Der Generator reagiert gut auf Begriffe wie Hupen, Motor, Türzuschlagen und Autosound. Mehr Kontext liefert bessere Ergebnisse."
+        },
+        {
+          "question": "Wie kann ich Auto-Sounds in Videoinhalten nutzen?",
+          "answer": "Planen Sie die Szenen Ihres Videos und platzieren Sie maßgeschneiderte Clips dort, wo sie Wirkung erzeugen. Erstellen Sie Hupen- und Motor-Clips für jeden Moment—von subtilem Hintergrund bis zu dramatischen Hits. Legen Sie Autosound übereinander für reiches, fesselndes Audio, das Zeit oder Ort unterstreicht."
+        },
+        {
+          "question": "Wie kann ich den Generator in der Spieleentwicklung nutzen?",
+          "answer": "Unser Generator unterstützt prozedurale Clips für Spiele. Erstellen Sie Variationen, sodass Spieler selten denselben Clip zweimal hören. Erzeugen Sie verschiedene Optionen für UI, Levels und Events bei einheitlichem Stil. Das Tool liefert professionelle Auto-Sounds und Autosound für bessere Immersion und Feedback."
+        },
+        {
+          "question": "Welche Arten von Auto-Sounds kann ich erstellen?",
+          "answer": "Sie können eine breite Palette erstellen: Hupen, Motorbrüllen, Türzuschlagen und Autosound-Ambiente. Stile von leise bis laut (realistisch, filmisch, Vintage). Das Tool behandelt diese mit gleichbleibender Qualität und liefert professionelle Ergebnisse für jedes Projekt."
+        },
+        {
+          "question": "Sind die generierten Clips lizenzfrei?",
+          "answer": "Ja. Alle Clips aus unserem Generator sind lizenzfrei und enthalten eine gewerbliche Lizenz. Sie können die generierten Clips in jedem Projekt ohne zusätzliche Gebühren oder Namensnennung nutzen. Jeder Clip ist für sofortige Verwendung in professioneller und gewerblicher Arbeit freigegeben."
+        },
+        {
+          "question": "Welche Qualität liefert der Generator?",
+          "answer": "Unser Generator liefert professionelle Clips nach Industriestandards. Sie erhalten hochauflösende Autosound-Optionen bis 192 kHz/24-bit, vollen Frequenzbereich und kontrollierte Dynamik. Jeder Clip ist sendefähig und für professionelle Produktion und kreative Projekte geeignet."
+        }
+      ]
+    }
+  }
+}

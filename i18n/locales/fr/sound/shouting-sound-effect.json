@@ -1,0 +1,71 @@
+{
+  "shouting-sound-effect": {
+    "meta": {
+      "title": "Effet sonore de cri",
+      "description": "Créez instantanément un effet sonore de cri grâce à notre IA avancée. Générez divers types de sons : nature, instruments, et plus encore.",
+      "keywords": "effet sonore de cri, cri mème"
+    },
+    "hero": {
+      "title": "Effet sonore de cri",
+      "subtitle": "Transformez instantanément une description textuelle en effet sonore de cri de haute qualité"
+    },
+    "generator_subtitle": "Choisissez parmi les invites populaires ci-dessous ou rédigez votre propre description pour générer un effet sonore de cri",
+    "advantages": {
+      "title": "Pourquoi choisir notre générateur d’effet sonore de cri ?",
+      "items": [
+        {
+          "title": "Créez des indices vocaux intenses en quelques secondes",
+          "description": "Générez des clips vocaux prêts pour l’action directement à partir du texte sans parcourir d’immenses bibliothèques ni enregistrer des prises supplémentaires. Le modèle interprète l’urgence, la distance et la pression émotionnelle pour que les sorties s’alignent sur les montages de jeux, bandes-annonces, streams et plans cinéma. L’itération rapide aide les équipes à comparer les options avant verrouillage.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Style flexible pour combat et réactions",
+          "description": "Des callouts maîtrisés aux voix de foule très énergiques, le détail de l’invite permet de façonner texture, rythme et espace perçu. Chaque effet sonore de cri se place plus facilement sous le dialogue, sur un lit musical ou en stinger isolé. Vous pouvez produire des alternatives pour des tests de timing A/B dans un même flux. Pour les moments viraux sur les réseaux, orientez-vous vers des cris courts façon mème.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualité audio digne du pro",
+          "description": "Les fichiers exportent avec une dynamique stable et des transitoires propres, ce qui réduit le nettoyage en post-production. Le comportement du niveau sonore reste prévisible après compression des plateformes, pour que vos indices de cri gardent du punch sur mobile comme sur bureau.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "À propos de notre générateur d’effet sonore de cri",
+      "items": [
+        {
+          "question": "Qu’est-ce qu’un générateur d’effet sonore de cri ?",
+          "answer": "C’est un outil IA qui transforme des invites textuelles en indices vocaux de cri pour jeux, vidéos et contenus sociaux. Au lieu de parcourir manuellement des packs sonores, vous générez rapidement des clips adaptés à la scène et gardez le flux centré sur la narration."
+        },
+        {
+          "question": "Comment fonctionne cet outil d’effet sonore de cri ?",
+          "answer": "Le modèle analyse votre invite pour l’intention, l’intensité, le rythme et le contexte, puis synthétise un audio qui correspond à ces attributs. Vous pouvez affiner la formulation entre les passes jusqu’à ce que la cue tombe sur l’image exacte et le bon accent émotionnel."
+        },
+        {
+          "question": "Pourquoi l’utiliser plutôt que des assets stock ?",
+          "answer": "Les assets stock peuvent sembler répétitifs et ne pas coller au timing de la scène. La génération pilotée par invite crée des prises neuves à la demande, rendant chaque effet sonore de cri plus précis et mieux aligné sur le rythme visuel."
+        },
+        {
+          "question": "Comment rédiger des invites pour un bon effet sonore de cri ?",
+          "answer": "Décrivez qui crie, pourquoi, et combien de temps le cri doit tenir. Une invite précise comme « court cri d’ordre avant l’impact » donne en général un meilleur timing qu’un seul mot vague."
+        },
+        {
+          "question": "Où un effet sonore de cri fonctionne le mieux au montage ?",
+          "answer": "Utilisez-le pour les pics de combat, les transitions dramatiques, les indices d’urgence et les révélations très énergiques. Gardez les niveaux sous le dialogue principal et automatisez le gain pour préserver l’intelligibilité dans les mix denses."
+        },
+        {
+          "question": "Quelles variantes puis-je générer ?",
+          "answer": "Vous pouvez produire de courts ordres, des cris de guerre, des appels de foule en couches, des éclats vocaux tendus et des cris cinématographiques stylisés. Plusieurs variantes aident à choisir le meilleur arc émotionnel avant livraison finale ; des bursts courts façon mème sont aussi possibles pour le social."
+        },
+        {
+          "question": "L’audio généré est-il libre de droits ?",
+          "answer": "Oui. Les fichiers générés sont libres de droits sous notre licence standard pour un usage créateur et commercial courant. Consultez les dernières conditions avant grandes campagnes ou diffusion broadcast."
+        },
+        {
+          "question": "Quelle qualité puis-je attendre des exports ?",
+          "answer": "Attendez-vous à une sortie prête prod avec des transitoires nets, une dynamique fiable et une lecture cohérente sur tous les appareils. Pour la release, appliquez votre chaîne de mastering habituelle pour viser les objectifs loudness du projet."
+        }
+      ]
+    }
+  }
+}

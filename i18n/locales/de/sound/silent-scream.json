@@ -1,0 +1,71 @@
+{
+  "silent-scream": {
+    "meta": {
+      "title": "Stiller Schrei",
+      "description": "Erstellen Sie sofort „stillen Schrei“ mit unserer fortschrittlichen KI. Generieren Sie verschiedene Klangtypen – Naturgeräusche, Instrumente und mehr.",
+      "keywords": "stiller schrei, extremer schrei"
+    },
+    "hero": {
+      "title": "Stiller Schrei",
+      "subtitle": "Verwandeln Sie Textbeschreibungen sofort in hochwertigen „stillen Schrei“"
+    },
+    "generator_subtitle": "Wählen Sie unten beliebte Prompts oder schreiben Sie Ihre eigene Beschreibung, um „stillen Schrei“ zu erzeugen",
+    "advantages": {
+      "title": "Warum unseren Generator für stillen Schrei wählen?",
+      "items": [
+        {
+          "title": "Stille-Schrei-Cues in Sekunden erzeugen",
+          "description": "Kurze Textprompts werden zu angespannten, ausdrucksstarken Vocal-Cues – ohne riesige Bibliotheken zu durchsuchen. Das Modell erfasst Tempo, Atemform und emotionalen Druck, sodass jede Ausgabe zu filmischen Schnitten, Spielmomenten oder dramatischen Übergängen passt. Sie können schnell iterieren, wenn eine Szene mehrere Intensitätsstufen braucht. Ein fokussierter stiller Schrei steigert sich nur dann zu extremem Schreien, wenn der Schnitt es wirklich braucht.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Flexibler Ton von subtil bis extrem",
+          "description": "Stellen Sie die Auslieferung von gehaltenem Druck bis zu extremem Schreien ein, indem Sie Kontext, Dauer und Stimmtextur im Prompt verfeinern. So lässt sich die visuelle Erzählung leichter treffen, während Platz für Dialog bleibt. Der Workflow unterstützt realistisches Drama und stilisierte Horror-Akzente. Schnitt-Teams kombinieren oft eine Stille-Schrei-Take mit einer extremen Schrei-Take für schnelle A/B-Zeitabgleiche.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professionelle Audioqualität",
+          "description": "Exports sind mixbereit mit stabiler Lautheit und kontrollierten Transienten – Austausch spät in der Produktion fällt leichter. Dateien bleiben nach üblicher Plattformkompression klar, damit emotionale Beats auf allen Geräten konsistent wirken. Einheitliches Pegeln hält jeden stillen Schrei verständlich, während jede extreme Schrei-Schicht kontrolliert bleibt.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Über unseren Generator für stillen Schrei",
+      "items": [
+        {
+          "question": "Was ist ein Generator für stillen Schrei?",
+          "answer": "Ein KI-Audio-Tool, das Textprompts in dramatische Vocals mit Fokus auf Spannung und Wirkung verwandelt. Statt vieler Aufnahmen generieren Sie schnell eine Cue im Stil „stiller Schrei“ und testen sie direkt auf der Timeline. Ein Konzept kann sich in mehrere Varianten extremen Schreiens für verschiedene Schnitte verzweigen."
+        },
+        {
+          "question": "Wie funktioniert dieses Tool für stillen Schrei?",
+          "answer": "Das System liest Prompt-Attribute wie Emotion, Druck, Tempo und Textur und synthetisiert dann Audio, das zu diesen Merkmalen passt. Sie können die Formulierung zwischen Durchläufen verfeinern, bis Timing und Intensität zum visuellen Schnitt passen. Iteration hilft, jeden stillen Schrei bildgenau zu setzen und jede extreme Schrei-Welle bewusst zu halten."
+        },
+        {
+          "question": "Warum das statt Stock-Bibliotheken?",
+          "answer": "Stock-Bibliotheken wirken oft repetitiv und passen nicht immer exakt zum Szenenrhythmus. Prompt-basierte Generierung liefert frische Variationen auf Abruf – dramatische Momente werden spezifischer und weniger generisch. So bleibt jeder stille Schrei einzigartig und extreme Schreie klingen weniger recycelt."
+        },
+        {
+          "question": "Wie schreibe ich Prompts für stillen Schrei?",
+          "answer": "Nutzen Sie konkreten Kontext: wer reagiert, was löst den Moment aus, und wie lange soll die Cue halten. Spezifische Prompts wie „kurzer, gehaltener Keucher vor dem Aufprall“ liefern meist besseres Timing als vage Schlagwörter. Mehr Detail schärft das Timing des stillen Schreis und hält extremes Schreien in dichten Mixes sauberer."
+        },
+        {
+          "question": "Wann setze ich extremes Schreien im Mix ein?",
+          "answer": "Nutzen Sie extremes Schreien bei zentralen Impact-Momenten wie Reveals, Jump Cuts oder Übergängen im Höhepunkt. Halten Sie es leicht unter kritischem Dialog und automatisieren Sie den Pegel, damit Spannung entsteht, ohne Sprache zu überdecken. Ein stiller Schrei als Einleitung vor extremem Schreien verbessert oft das dramatische Timing."
+        },
+        {
+          "question": "Welche Varianten kann ich erzeugen?",
+          "answer": "Sie können gehaltene Atemzüge, scharfe Panik-Spikes, geschichtete Vocal-Swells oder lange Distress-Texturen erstellen. Diese Bandbreite hilft, verschiedene emotionale Bögen vor dem finalen Lock zu testen. Bauen Sie eine wiederverwendbare Stille-Schrei-Bank und markieren Sie jeden extremen Schrei nach Intensität für schnellere Revisionen."
+        },
+        {
+          "question": "Ist generiertes Audio lizenzfrei?",
+          "answer": "Ja. Generierte Dateien sind unter unserer Lizenz für typische Creator- und kommerzielle Nutzung lizenzfrei. Prüfen Sie die aktuellen Lizenzbedingungen vor großen Kampagnen oder Broadcast-Veröffentlichung."
+        },
+        {
+          "question": "Welche Qualität kann ich von Exporten erwarten?",
+          "answer": "Erwarten Sie sauberes, produktionsreifes Material mit konsistenter Dynamik und zuverlässiger Wiedergabe auf Mobilgeräten und Desktop. Für die finale Auslieferung wenden Sie Ihre übliche Mastering-Kette an, um das Loudness-Ziel des Projekts zu treffen. Die finale QC sollte bestätigen, dass jeder stille Schrei klar bleibt und jeder extreme Schrei-Moment die Plattformkompression übersteht."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "audio-generation": {
+    "meta": {
+      "title": "Geração de Áudio",
+      "description": "Crie efeitos de áudio gerados por IA com geração de áudio avançada, gerando vários tipos incluindo sons naturais, instrumentos musicais e muito mais.",
+      "keywords": "geração de áudio, áudio gerado por IA"
+    },
+    "hero": {
+      "title": "Geração de Áudio",
+      "subtitle": "Transforme suas descrições de texto em efeitos de áudio gerados por IA de alta qualidade"
+    },
+    "generator_subtitle": "Selecione entre os prompts populares abaixo ou escreva sua própria descrição para gerar efeitos de áudio gerados por IA",
+    "advantages": {
+      "title": "Por Que Escolher Nossa Geração de Áudio?",
+      "items": [
+        {
+          "title": "Geração Instantânea de Som",
+          "description": "Transforme prompts de texto em efeitos prontos para produção em segundos com nossa ferramenta de geração de áudio. Este sistema poderoso cria áudio gerado por IA instantaneamente. Use uma descrição clara para criar som para vídeos, jogos, anúncios e aplicativos—sem bibliotecas volumosas, sem edição manual, apenas resultados rápidos.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Possibilidades Criativas Ilimitadas",
+          "description": "De impactos cinematográficos a ambientes sutis, nossa geração de áudio alimentada por tecnologia de áudio gerado por IA entende intenções detalhadas e oferece variações controláveis. Adicione humor, textura, distância e timing para moldar a saída para sua cena. Para equipes que querem iteração mais rápida, esta ferramenta mantém os resultados consistentes entre versões.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualidade de Som Profissional",
+          "description": "Obtenha saída limpa e de alta fidelidade com dinâmicas equilibradas, pronta para usar em seu fluxo de trabalho. Nossa geração de áudio com áudio gerado por IA produz resultados estáveis com menos artefatos, então a edição permanece leve e previsível. Experimente qualidade de som profissional com cada geração.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Sobre Geração de Áudio",
+      "items": [
+        {
+          "question": "O que é geração de áudio?",
+          "answer": "Geração de áudio é o processo de transformar descrições de texto em efeitos e ambientes prontos para uso. Com nossa ferramenta de geração de som, você pode descrever o que precisa e criar rapidamente áudio gerado por IA que se encaixa em conteúdo, produtos ou experiências interativas. Para fluxos de trabalho mais rápidos, esta ferramenta ajuda a manter os resultados consistentes."
+        },
+        {
+          "question": "Como funciona a geração de áudio?",
+          "answer": "Nossa geração de áudio analisa seu prompt (fonte, ambiente, intensidade, duração), mapeia para atributos acústicos, depois sintetiza a saída usando modelos neurais. O processo usa tecnologia de áudio gerado por IA para processar suas solicitações. Pós-processamento leve ajuda a tornar os resultados claros, utilizáveis e consistentes. Em resumo, este sistema automatiza o trabalho pesado da descrição à exportação."
+        },
+        {
+          "question": "O que torna esta geração de som única?",
+          "answer": "Esta geração de som foca em velocidade, controle e saída confiável. Em vez de procurar em pacotes de predefinições, você descreve o que precisa e cria variações de som que permanecem no tema, tornando a iteração muito mais rápida. Nossa ferramenta com áudio gerado por IA entrega resultados profissionais rapidamente."
+        },
+        {
+          "question": "Como escrevo prompts eficazes para geração de áudio?",
+          "answer": "Seja específico: descreva a fonte (\"impacto de metal\"), ambiente (\"armazém\"), distância (\"perto\"), emoção (\"tenso\") e timing (\"cauda de 0,8s\"). Adicione modificadores como \"abafado\" ou \"brilhante\" para ajudar a ferramenta a criar som que corresponda à sua mixagem. A tecnologia de áudio gerado por IA entende descrições detalhadas."
+        },
+        {
+          "question": "Como posso usar geração de áudio para conteúdo de vídeo?",
+          "answer": "Use nossa geração de áudio para criar som para transições, impactos, camadas de ambiente e detalhes específicos da cena. O sistema com tecnologia de áudio gerado por IA produz sons de qualidade profissional. Gere algumas variantes próximas, depois sobreponha e reduza-as sob o diálogo para manter a mixagem natural e envolvente."
+        },
+        {
+          "question": "Como posso usar geração de áudio no desenvolvimento de jogos?",
+          "answer": "Crie famílias de som para ações (passos, cliques de UI, habilidades) e gere variações para reduzir a repetição. Um fluxo de trabalho de geração de áudio com áudio gerado por IA também ajuda a prototipar ambiente para novos níveis antes do polimento final. Esta ferramenta agiliza a produção de som de jogos."
+        },
+        {
+          "question": "Como crio ruído branco e ambiente com geração de áudio?",
+          "answer": "Descreva a textura e o movimento (\"ruído marrom suave com ar suave\" ou \"tom de sala urbana com tráfego distante\"). A ferramenta pode criar camadas de som que você pode fazer loop, esmaecer e empilhar para cenas longas. Nossa geração de som lida efetivamente com solicitações complexas de ambiente."
+        },
+        {
+          "question": "O que posso criar com geração de áudio?",
+          "answer": "Você pode criar som em muitas categorias: natureza, máquinas, feedback de UI, impactos cinematográficos, texturas sci-fi, elementos musicais e ambiente ambiental. A geração de som é flexível tanto para rascunhos rápidos quanto para uso em produção. Esta ferramenta alimentada por áudio gerado por IA cobre diversas necessidades de som."
+        },
+        {
+          "question": "O som da geração de áudio é livre de royalties?",
+          "answer": "Sim. O áudio gerado por IA de nossa geração de áudio é livre de royalties e adequado para uso comercial, então você pode publicar vídeos, lançar jogos e lançar produtos sem etapas extras de licenciamento. A ferramenta com tecnologia de áudio gerado por IA garante que você possui os direitos de todo o conteúdo gerado."
+        },
+        {
+          "question": "Que qualidade de saída posso esperar da geração de áudio?",
+          "answer": "A geração de áudio visa saída limpa e de alta qualidade adequada para produção moderna. Para melhores resultados, gere algumas variantes, escolha a tomada mais natural e faça equalização leve ou correspondência de nível em seu editor. Nossa ferramenta entrega resultados de nível profissional consistentemente."
+        }
+      ]
+    }
+  }
+}

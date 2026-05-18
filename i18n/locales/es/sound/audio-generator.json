@@ -1,0 +1,79 @@
+{
+  "audio-generator": {
+    "meta": {
+      "title": "Generador de Audio",
+      "description": "Crea efectos de audio con tecnología avanzada de generador de audio IA, generando varios tipos incluyendo sonidos naturales, instrumentos musicales y más.",
+      "keywords": "generador de audio, generador de audio IA"
+    },
+    "hero": {
+      "title": "Generador de Audio",
+      "subtitle": "Transforma tus descripciones de texto en efectos de sonido de alta calidad"
+    },
+    "generator_subtitle": "Selecciona de los prompts populares a continuación o escribe tu propia descripción para generar efectos de sonido",
+    "advantages": {
+      "title": "¿Por Qué Elegir Nuestro Generador de Audio?",
+      "items": [
+        {
+          "title": "Generación Instantánea de Sonido",
+          "description": "Convierte prompts de texto en efectos listos para producción en segundos con nuestro generador de audio. Usa una descripción clara para crear sonido para videos, juegos, anuncios y aplicaciones—sin bibliotecas voluminosas, sin recorte manual, solo resultados rápidos.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Posibilidades Creativas Ilimitadas",
+          "description": "Desde impactos cinematográficos hasta ambiente sutil, la tecnología de generador de audio IA entiende la intención detallada y ofrece variaciones controlables. Añade estado de ánimo, textura, distancia y tiempo para dar forma a la salida para tu escena. Para equipos que quieren iteración más rápida, el generador de audio IA mantiene los resultados consistentes entre versiones.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Calidad de Sonido de Grado Profesional",
+          "description": "Obtén una salida limpia y de alta fidelidad con dinámicas equilibradas, lista para usar en tu flujo de trabajo. Esta tecnología de generador de audio IA produce resultados estables con menos artefactos, por lo que la edición se mantiene ligera y predecible.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Acerca del Generador de Audio",
+      "items": [
+        {
+          "question": "¿Qué es un generador de audio?",
+          "answer": "Un generador de audio convierte descripciones de texto en efectos y ambiente listos para usar. Con un generador de sonido, puedes describir lo que necesitas y crear rápidamente audio que se ajuste a contenido, productos o experiencias interactivas. Para flujos de trabajo más rápidos, el generador de audio IA ayuda a mantener los resultados consistentes."
+        },
+        {
+          "question": "¿Cómo funciona el generador de audio?",
+          "answer": "El generador de audio analiza tu prompt (fuente, entorno, intensidad, duración), lo mapea a atributos acústicos, luego sintetiza la salida usando modelos neuronales. El post-procesamiento ligero ayuda a hacer los resultados claros, utilizables y consistentes. En resumen, el generador de audio IA automatiza el trabajo pesado desde la descripción hasta la exportación."
+        },
+        {
+          "question": "¿Qué hace único a este generador de audio?",
+          "answer": "Este generador de audio se enfoca en velocidad, control y salida confiable. En lugar de buscar en paquetes preestablecidos, describes lo que necesitas y creas variaciones de sonido que se mantienen en el tema, haciendo la iteración mucho más rápida."
+        },
+        {
+          "question": "¿Cómo escribo prompts efectivos para el generador de audio?",
+          "answer": "Sé específico: describe la fuente (\"golpe de metal\"), el entorno (\"almacén\"), la distancia (\"cerca\"), la emoción (\"tenso\"), y el tiempo (\"cola de 0.8s\"). Añade modificadores como \"amortiguado\" o \"brillante\" para ayudar a la tecnología de generador de audio IA a crear sonido que coincida con tu mezcla."
+        },
+        {
+          "question": "¿Cómo puedo usar el generador de audio para contenido de video?",
+          "answer": "Usa la tecnología de generador de audio IA para crear sonido para transiciones, impactos, lechos de ambiente y detalles específicos de escena. Genera algunas variantes cercanas, luego superpón y atenúa bajo el diálogo para mantener la mezcla natural y atractiva."
+        },
+        {
+          "question": "¿Cómo puedo usar el generador de audio en el desarrollo de juegos?",
+          "answer": "Crea familias de audio para acciones (pasos, clics de UI, habilidades) y genera variaciones para reducir la repetición. Un flujo de trabajo de generador de audio IA también ayuda a prototipar ambiente para nuevos niveles antes del pulido final."
+        },
+        {
+          "question": "¿Cómo creo ruido blanco y ambiente con el generador de audio?",
+          "answer": "Describe la textura y el movimiento (\"ruido marrón suave con aire suave\" o \"tono de habitación de ciudad con tráfico distante\"). El generador de audio puede crear capas de sonido que puedes hacer en bucle, desvanecer y apilar para escenas largas."
+        },
+        {
+          "question": "¿Qué puedo crear con el generador de audio?",
+          "answer": "Puedes crear audio en muchas categorías: naturaleza, máquinas, retroalimentación de UI, impactos cinematográficos, texturas de ciencia ficción, elementos musicales y ambiente ambiental. El generador de sonido es flexible tanto para borradores rápidos como para uso en producción."
+        },
+        {
+          "question": "¿El audio generado por el generador de audio está libre de regalías?",
+          "answer": "Sí. El sonido generado con la tecnología de generador de audio IA está libre de regalías y es adecuado para uso comercial, por lo que puedes publicar videos, lanzar juegos y productos sin pasos adicionales de licencia."
+        },
+        {
+          "question": "¿Qué calidad de salida puedo esperar del generador de audio?",
+          "answer": "El generador de audio apunta a una salida limpia y de alta calidad adecuada para producción moderna. Para mejores resultados, genera algunas variantes, elige la toma más natural y haz un EQ ligero o ajuste de nivel en tu editor."
+        }
+      ]
+    }
+  }
+}

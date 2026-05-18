@@ -1,0 +1,75 @@
+{
+  "bell-hop": {
+    "meta": {
+      "title": "Bell Hop",
+      "description": "Instantly create bell hop with our advanced AI technology. Generate various type sounds including natural sounds, musical instruments and more.",
+      "keywords": "bell hop, notification bell"
+    },
+    "hero": {
+      "title": "Bell Hop",
+      "subtitle": "Instantly transform text description into high-quality bell hop"
+    },
+    "generator_subtitle": "Select from popular prompts below or write your own description to generate bell hop",
+    "advantages": {
+      "title": "Why Choose Our Generator?",
+      "items": [
+        {
+          "title": "Instant Bell Hop Creation",
+          "description": "Create professional chime and peal clips instantly from text with our AI generator. The tool turns your ideas into high-quality bell hop in seconds, without sample libraries or manual editing. Generate unlimited variations for any project with a few clicks. Whether you need notification bell, church chime, or layered peal, it delivers studio-quality output for your creative projects.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Unlimited Creative Possibilities",
+          "description": "Use our generator to create any style of chime and peal you imagine—from church peal to door chime. The tool understands complex descriptions and gives you full creative freedom. Explore endless options tailored to videos, games, and apps. From single strikes to layered notification bell, get the perfect clip for every scenario.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professional-Grade Output Quality",
+          "description": "Every bell hop from our generator meets broadcast standards with high-fidelity output. Cutting-edge algorithms ensure studio-quality results. All notification bell output is production-ready and optimized for professional use. It delivers full frequency coverage and controlled dynamics for authentic chime and peal.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Generator FAQ",
+      "items": [
+        {
+          "question": "What is a bell hop generator?",
+          "answer": "A bell hop generator is an AI tool that turns text descriptions into custom chime and peal. Ours uses natural language processing and neural synthesis to produce professional-quality clips. Deep learning models trained on chime datasets understand your description and generate matching variations. It suits content creators, video editors, and game developers who need quick, authentic chime output. It uses your context and details to create nuanced, layered results. For polished notification bell or other styles, it delivers precise, high-fidelity output."
+        },
+        {
+          "question": "How does it work?",
+          "answer": "The tool uses a multi-stage pipeline to turn text into high-quality output. It first analyzes your description to capture traits like tone, resonance, duration, and style. That information goes through neural networks trained for chime and peal synthesis, which handle frequency, dynamics, and decay. Trained on professional samples, the AI produces natural-sounding bell hop. Filtering and post-processing keep quality high and ensure every notification bell clip meets broadcast standards."
+        },
+        {
+          "question": "What makes this bell hop generator unique?",
+          "answer": "Our generator stands out through instant customization and professional quality. Unlike static libraries, it creates tailored chime clips on demand. It is trained on high-quality samples for realistic results, including notification bell and varied chime styles. The system understands complex descriptions and produces chime output with fine control over tone and context. You get unlimited variations and creative freedom."
+        },
+        {
+          "question": "How do I write effective prompts for it?",
+          "answer": "Write clear, specific descriptions with multiple details. Instead of just \"chime,\" try prompts like \"bell hop with reverb\" or \"notification bell with echo.\" Include style, tone, duration, and any distinctive traits. It responds well to terms like church chime, door peal, and resonance. For complex scenarios, break them into parts and say how they combine. More context yields better results for bell hop and notification bell."
+        },
+        {
+          "question": "How can I use it in video content?",
+          "answer": "Map your video's scenes and place custom chime and peal clips where they add impact. It helps you create bell hop for every moment—from subtle cues to dramatic hits. Layer several variations of bell hop and notification bell for rich, engaging output. Use it for transitions, titles, and key scenes. Use distinct moments such as notification bell to underline time or place. The tool lets you build a unique style that fits your content."
+        },
+        {
+          "question": "How can I use it in game development?",
+          "answer": "It supports procedural output for games. Create bell hop and notification bell variations so players rarely hear the same clip twice. Build systems that react to game state, player actions, and conditions. Produce different options for UI, levels, and events while keeping a consistent style. Layered output can be mixed dynamically from game parameters. It delivers professional-quality results that enhance immersion and feedback."
+        },
+        {
+          "question": "What types of bell hop can I create?",
+          "answer": "You can create a wide range of bell hop: church chime, door peal, notification bell for ambience or UI, intensities (soft to loud), and styles (church, door, cartoon, cinematic). The tool handles these bell hop and notification bell categories with consistent quality. Whether you need light chime or strong peal clips, it delivers professional results for any project."
+        },
+        {
+          "question": "Are the generated clips royalty-free?",
+          "answer": "Yes. All output from our generator is royalty-free and includes a commercial license. You can use the generated bell hop clips in any project without extra fees or attribution. Every clip, including notification bell output, is cleared for immediate use in professional and commercial work."
+        },
+        {
+          "question": "What quality does it produce?",
+          "answer": "It outputs professional-grade bell hop that meets industry standards. You get high-resolution options up to 192kHz/24-bit for notification bell, full frequency range, and controlled dynamics. All output is broadcast-ready. Every clip is suitable for professional production and creative projects."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "scream-sfx": {
+    "meta": {
+      "title": "Schrei-SFX",
+      "description": "Erstellen Sie sofort Schrei-SFX mit unserer fortschrittlichen KI-Technologie. Erzeugen Sie verschiedene Klangtypen: Naturklänge, Musikinstrumente und mehr.",
+      "keywords": "Schrei-SFX, Schrei-Soundeffekte"
+    },
+    "hero": {
+      "title": "Schrei-SFX",
+      "subtitle": "Verwandeln Sie Textbeschreibungen sofort in hochwertige Schrei-SFX"
+    },
+    "generator_subtitle": "Wählen Sie aus den beliebten Prompts unten oder schreiben Sie Ihre eigene Beschreibung, um Schrei-SFX zu erzeugen",
+    "advantages": {
+      "title": "Warum unseren Generator wählen?",
+      "items": [
+        {
+          "title": "Sofortige Schrei-SFX-Erstellung",
+          "description": "Erstellen Sie professionelle Schrei-SFX-Clips sofort aus Text mit unserem KI-Generator. Das Tool verwandelt Ihre Ideen in Sekunden in hochwertige Schrei-SFX und Charakter-Audio – ohne Sample-Bibliotheken oder manuelle Bearbeitung. Erzeugen Sie unbegrenzte Variationen für Spiele, Videos und Apps. Ob Jungen-Charakter-Schrei, Soundeffekte für Horror oder Baby-Weinen – der Generator liefert Studioqualität für Ihre Projekte.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Unbegrenzte kreative Möglichkeiten",
+          "description": "Nutzen Sie unseren Generator, um jeden gewünschten Stil von Schrei-SFX zu erstellen – von subtilen Rufen bis zu intensiven Schreien. Das Tool versteht komplexe Beschreibungen und gibt Ihnen volle kreative Freiheit. Erkunden Sie Optionen für Spiele, Filme und Medien. Von Charakter-Schreien bis zu vielfältigen Vokalstilen für jedes Szenario – holen Sie sich den perfekten Schrei-SFX-Clip für Ihr Projekt.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professionelle Audioqualität",
+          "description": "Jeder Schrei-SFX unseres Generators erfüllt Rundfunkstandards mit High-Fidelity-Ausgabe. Moderne Algorithmen sorgen für Studioqualität. Alle Soundeffekte sind produktionsreif und für den professionellen Einsatz optimiert. Der Generator liefert vollständige Frequenzabdeckung und klare Dynamik für authentische Schreie. Sie wirken in jedem Projekt konsistent.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Generator FAQ",
+      "items": [
+        {
+          "question": "Was ist dieser Generator?",
+          "answer": "Es ist ein KI-Tool, das Textbeschreibungen in individuelle Schrei-SFX und Schrei-Soundeffekte umwandelt. Unserer nutzt natürliche Sprachverarbeitung und neuronale Audiosynthese für professionelle Schrei-SFX-Clips. Sie können Vokal-Clips für Horror, Spiele oder Filme erstellen. Es eignet sich für Content-Ersteller, Spieleentwickler und Filmemacher, die schnelle, authentische Ausgabe brauchen. Der Generator unterstützt auch Schrei-Soundeffekte und Schrei-SFX für verschiedene Stile und Stimmungen."
+        },
+        {
+          "question": "Wie funktioniert er?",
+          "answer": "Unser Generator nutzt eine mehrstufige Pipeline, um Text in hochwertiges Audio zu verwandeln. Zuerst analysiert er Ihre Beschreibung, um Merkmale wie Intensität, Charakter und Dauer zu erfassen. Diese Informationen durchlaufen für Schrei- und Vokal-Synthese trainierte neuronale Netze. Mit professionellen Samples trainiert, erzeugt die KI natürlich klingende Schrei-SFX. Filterung und Nachbearbeitung halten die Qualität hoch und sorgen dafür, dass jeder Vokal-Soundeffekt-Clip Rundfunkstandards erfüllt."
+        },
+        {
+          "question": "Was macht diesen Generator einzigartig?",
+          "answer": "Unser Generator zeichnet sich durch sofortige Anpassung und professionelle Qualität aus. Anders als statische Bibliotheken erstellt er maßgeschneiderte Schrei-SFX und Schrei-Soundeffekte auf Abruf. Das System versteht komplexe Beschreibungen und erzeugt Schrei-SFX-Ausgabe mit feiner Kontrolle über Intensität und Stil. Sie erhalten unbegrenzte Variationen und kreative Freiheit. Soundeffekte für Spiele und Filme lassen sich ohne zusätzliche Produktionsarbeit anpassen."
+        },
+        {
+          "question": "Wie schreibe ich wirksame Prompts dafür?",
+          "answer": "Schreiben Sie klare, konkrete Beschreibungen. Probieren Sie „Jungen-Charakter-Schrei“ oder „Baby weint“. Für Schrei-SFX sagen Sie „gruseliger Schrei“ oder „lustiger Schrei“. Nennen Sie Intensität, Charaktertyp und Kontext. Unser Generator reagiert gut auf Begriffe wie Schrei, Rufen und Weinen. Mehr Kontext liefert bessere Ergebnisse für Schrei-SFX und Schrei-Soundeffekte."
+        },
+        {
+          "question": "Wie kann ich ihn in Videoinhalten nutzen?",
+          "answer": "Platzieren Sie angepasste Schrei-SFX- und Schrei-Soundeffekt-Clips dort, wo Szenen Spannung oder Reaktion brauchen. Der Generator hilft Ihnen, Schrei-SFX und Charakter-Audio für Intros, Übergänge und Schlüsselmomente zu erstellen. Legen Sie Schrei-SFX- und Schrei-Soundeffekt-Variationen für reiches, fesselndes Sounddesign übereinander. Nutzen Sie ihn für Filme, Vlogs und Tutorials. Das Tool ermöglicht einen einzigartigen Audiostil, der zu Ihrem Inhalt passt."
+        },
+        {
+          "question": "Wie kann ich ihn in der Spieleentwicklung nutzen?",
+          "answer": "Unser Generator unterstützt prozedurales Audio für Spiele. Erstellen Sie Schrei-SFX- und Schrei-Soundeffekt-Variationen, damit Spieler selten denselben Clip zweimal hören. Bauen Sie Systeme, die auf Spielzustand, Gefahren und Ereignisse reagieren. Erzeugen Sie verschiedene Optionen für Charaktere, Jumpscares und Cutscenes bei konsistentem Stil. Soundeffekte können dynamisch aus Spielparametern gemischt werden. Der Generator liefert professionelle Schrei-SFX, die Immersion und Wirkung steigern."
+        },
+        {
+          "question": "Welche Arten von Schrei-SFX kann ich erstellen?",
+          "answer": "Sie können ein breites Spektrum an Schrei-SFX erstellen: Jungen-Charakter-Schrei, Baby weint, Schrei-Soundeffekte für Horror oder Spiele, gruseliger Schrei und individuelle Stile. Der Generator behandelt diese Schrei-SFX- und Schrei-Soundeffekt-Kategorien mit gleichbleibender Qualität. Ob subtile Rufe oder markante Vokal-Clips für jedes Szenario – das Tool liefert professionelle Schrei-SFX-Ergebnisse."
+        },
+        {
+          "question": "Sind die generierten Schrei-SFX-Clips lizenzfrei?",
+          "answer": "Ja. Alle Audios unseres Generators sind lizenzfrei und enthalten eine gewerbliche Lizenz. Sie können die generierten Schrei-SFX und Schrei-Soundeffekte in jedem Projekt ohne zusätzliche Gebühren oder Namensnennung verwenden. Jeder Clip ist für sofortige Nutzung in professioneller und gewerblicher Arbeit freigegeben."
+        },
+        {
+          "question": "Welche Qualität produziert er?",
+          "answer": "Unser Generator liefert professionelle Schrei-SFX und Schrei-Soundeffekte, die Industriestandards entsprechen. Sie erhalten Hochauflösungs-Optionen, vollen Frequenzbereich und klare Dynamik. Alle Ausgaben sind rundfunkbereit und geeignet für professionelle Produktion und kreative Projekte."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "sound-effect-board": {
+    "meta": {
+      "title": "Tablero de Efectos de Sonido",
+      "description": "Crea efectos de sonido únicos con nuestro tablero de efectos de sonido, generando varios tipos incluyendo sonidos naturales, instrumentos musicales y más.",
+      "keywords": "tablero de efectos de sonido, tablero de sonidos efectos"
+    },
+    "hero": {
+      "title": "Tablero de Efectos de Sonido",
+      "subtitle": "Transforma tus descripciones de texto en efectos de sonido de alta calidad"
+    },
+    "generator_subtitle": "Selecciona de los prompts populares a continuación o escribe tu propia descripción para generar efectos de sonido",
+    "advantages": {
+      "title": "¿Por Qué Elegir Nuestro Tablero de Efectos de Sonido?",
+      "items": [
+        {
+          "title": "Creación Instantánea de Efectos de Sonido",
+          "description": "Genera efectos profesionales al instante desde texto con nuestro tablero de efectos de sonido. El tablero de efectos de sonido convierte tus ideas en audio de alta calidad en segundos, eliminando la necesidad de grandes bibliotecas o edición manual. Crea recursos de efectos ilimitados para cualquier proyecto con unos pocos clics usando nuestro tablero de efectos de sonido.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Posibilidades Creativas Ilimitadas",
+          "description": "Crea cualquier tipo de efecto que imagines, desde ambiente natural hasta texturas de audio futuristas. Nuestro tablero de efectos de sonido entiende prompts detallados y produce lo que visualizas. Explora variaciones adaptadas a tus necesidades con este versátil tablero de efectos de sonido.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Calidad de Audio de Grado Profesional",
+          "description": "Cada efecto se genera con salida de alta fidelidad y dinámicas equilibradas. Nuestro tablero de efectos de sonido ofrece audio listo para producción, y el tablero de efectos de sonido ayuda a mantener resultados consistentes en todos los flujos de trabajo.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Acerca del Tablero de Efectos de Sonido",
+      "items": [
+        {
+          "question": "¿Qué es un tablero de efectos de sonido?",
+          "answer": "Un tablero de efectos de sonido es una herramienta que convierte descripciones de texto en efectos de audio personalizados usando IA. Un tablero de efectos de audio ayuda a los creadores a generar recursos de efectos rápidamente para contenido, juegos y experiencias interactivas, con salida consistente y editable."
+        },
+        {
+          "question": "¿Cómo funciona el tablero de efectos de sonido?",
+          "answer": "El tablero de efectos de sonido analiza tu prompt (fuente, entorno, intensidad, duración), lo mapea a atributos acústicos, luego genera audio con modelos neuronales. El tablero de efectos de sonido termina con procesamiento ligero para que las salidas sean limpias, estables y listas para editar."
+        },
+        {
+          "question": "¿Qué hace único a este tablero de efectos de sonido?",
+          "answer": "Este tablero de efectos de sonido se enfoca en iteración rápida y variaciones controlables. En lugar de navegar por paquetes, describes lo que necesitas y el tablero de efectos de sonido genera opciones que se mantienen coherentes, acelerando la producción."
+        },
+        {
+          "question": "¿Cómo escribir prompts efectivos para generar efectos de audio?",
+          "answer": "Escribe prompts con detalles específicos: fuente (\"golpe de metal\"), escenario (\"almacén\"), distancia (\"cerca\"), y tiempo (\"cola de 0.8s\"). Agrega modificadores como \"amortiguado\" o \"brillante\" para que el tablero de efectos de sonido pueda generar efectos que coincidan con tu mezcla. El tablero de efectos de sonido funciona mejor con contexto y restricciones claras."
+        },
+        {
+          "question": "¿Cómo usar efectos de audio efectivamente en contenido de video?",
+          "answer": "Usa el tablero de efectos de sonido para generar efectos para transiciones, impactos y camas de ambiente. Crea algunas variantes cercanas, luego superpón y automatiza niveles bajo el diálogo. El tablero de efectos de sonido ayuda a mantener las ediciones rápidas y la mezcla natural."
+        },
+        {
+          "question": "¿Cómo utilizar efectos de audio en desarrollo de juegos?",
+          "answer": "En juegos, usa el tablero de efectos de sonido para construir familias de efectos (pasos, clics de UI, habilidades) con variaciones para reducir la repetición. El tablero de efectos de sonido también ayuda a prototipar ambiente temprano, luego refinar después para el pulido final."
+        },
+        {
+          "question": "¿Cómo crear ruido blanco y audio ambiente efectivos?",
+          "answer": "Describe textura y movimiento (\"ruido marrón suave con aire suave\" o \"tono de habitación con tráfico distante\"). El tablero de efectos de audio puede generar ambiente en capas que puedes hacer en bucle y desvanecer, y el tablero de efectos de sonido te ayuda a iterar rápidamente."
+        },
+        {
+          "question": "¿Qué tipos de efectos de audio puedo crear?",
+          "answer": "Con el tablero de efectos de sonido, puedes crear efectos en muchas categorías: ambiente natural, impactos mecánicos, retroalimentación de UI, golpes cinematográficos, texturas de ciencia ficción, elementos musicales y tono de habitación. El tablero de efectos de sonido soporta tanto borradores rápidos como salida lista para producción."
+        },
+        {
+          "question": "¿Los efectos de audio generados están libres de regalías?",
+          "answer": "Sí. Los efectos generados con el tablero de efectos de audio están libres de regalías y son adecuados para uso comercial. Puedes usar las salidas del tablero de efectos de sonido en proyectos sin pasos adicionales de licencia."
+        },
+        {
+          "question": "¿Cuál es la calidad de los efectos de audio generados?",
+          "answer": "El tablero de efectos de sonido apunta a salida limpia y profesional con dinámicas estables y bajos artefactos. Para mejores resultados, genera algunas variantes en el tablero de efectos de sonido, elige la toma más natural, luego haz ecualización ligera o coincidencia de niveles."
+        }
+      ]
+    }
+  }
+}

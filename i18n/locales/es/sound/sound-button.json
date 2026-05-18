@@ -1,0 +1,71 @@
+{
+  "sound-button": {
+    "meta": {
+      "title": "Botón de sonido",
+      "description": "Crea al instante indicadores de botón de sonido con nuestra IA avanzada. Genera varios tipos de audio, incluidos natural, instrumentos y más.",
+      "keywords": "botón de sonido, clic de interfaz"
+    },
+    "hero": {
+      "title": "Botón de sonido",
+      "subtitle": "Transforma al instante una descripción en texto en audio de botón de sonido de alta calidad"
+    },
+    "generator_subtitle": "Elige entre los prompts populares de abajo o escribe tu propia descripción para generar audio de botón de sonido",
+    "advantages": {
+      "title": "Por qué elegir nuestro generador de botón de sonido",
+      "items": [
+        {
+          "title": "Crea clips de botón de sonido en segundos",
+          "description": "Crea indicaciones cortas y contundentes a partir de prompts sencillos sin sesiones de grabación ni cadenas de edición complejas. El generador ayuda a probar timing y tono con rapidez para streams, ediciones meme, interacciones de app y contenido de marca. Duplica pasadas para comparar un clic firme frente a una variante más suave hasta que tu conjunto de botones de sonido suene coherente en cada acción.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Estilos flexibles para cualquier interacción",
+          "description": "Ajusta ataque, caída y carácter para que cada botón de sonido encaje en tu UX o estilo de contenido. Genera clics juguetones, stings dramáticos, toques retro y tonos de confirmación mínimos manteniendo identidad sonora coherente. Menciona intención y duración en el prompt para resultados más claros.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Calidad de audio profesional",
+          "description": "Cada exportación es limpia, lista para mezclar y estable entre dispositivos. El modelo preserva detalle transitorio y dinámica controlada para que cada botón de sonido siga claro en mezclas densas. Un perfil de loudness coherente ayuda a que las indicaciones funcionen bien del móvil al escritorio y al streaming.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Sobre nuestro generador de botón de sonido",
+      "items": [
+        {
+          "question": "¿Qué es un generador de botón de sonido?",
+          "answer": "Es una herramienta de sonido con IA que convierte prompts de texto en indicaciones interactivas cortas. En lugar de hojear bibliotecas largas, generas un botón de sonido que coincide con timing, estado de ánimo y requisitos de plataforma en segundos. Puedes crear una indicación por acción, agrupar un conjunto para un flujo de producto y mantener coherencia entre pantallas."
+        },
+        {
+          "question": "¿Cómo funciona la herramienta de botón de sonido?",
+          "answer": "El modelo lee descriptores como duración, timbre, punch y contexto de reproducción, luego sintetiza audio alrededor de esas señales. Empieza con una línea base neutra e itera hacia una toma más brillante o suave hasta que encaje en tu UI. Puedes ajustar timing, suavizar dureza o aumentar energía hasta que el resultado encaje en la interfaz."
+        },
+        {
+          "question": "¿Por qué es mejor que packs estáticos?",
+          "answer": "Los packs estáticos pueden sonar repetitivos y suelen exigir limpieza extra. La generación por prompts permite crear indicaciones con timing exacto y variantes para casos límite. Así es más fácil mantener interacciones distintas entre menús, alertas y segmentos de contenido con un sistema sonoro coherente."
+        },
+        {
+          "question": "¿Cómo debo escribir prompts eficaces?",
+          "answer": "Usa instrucciones concisas con intención y timing, como \"confirmación corta y brillante\" o \"bip cálido con caída rápida\". Añade contexto como \"para interruptor de ajustes\" o \"para estado de error\" para guiar el tono. La redacción específica suele devolver resultados más limpios con menos revisiones."
+        },
+        {
+          "question": "¿Puedo mejorar la visibilidad en búsquedas para errores tipográficos comunes?",
+          "answer": "Sí. Si publicas páginas de apoyo o metadatos, puedes incluir errores frecuentes en etiquetas o alias para que las búsquedas lleguen al activo correcto, manteniendo la experiencia en el producto centrada en casos de uso claros de botón de sonido."
+        },
+        {
+          "question": "¿Dónde puedo usar indicaciones generadas?",
+          "answer": "Úsalas en eventos de UI de juegos, flujos de incorporación, clips sociales, overlays de stream, cuestionarios y transiciones de edición. Las variantes personalizadas ayudan a mantener identidad de audio reconocible sin artefactos repetitivos de stock."
+        },
+        {
+          "question": "¿El sonido generado es libre de regalías?",
+          "answer": "Sí. Las salidas son libres de regalías según nuestros términos estándar para proyectos típicos de creadores y comerciales. Revisa los detalles de licencia antes de grandes campañas de pago o requisitos especiales de distribución."
+        },
+        {
+          "question": "¿Qué calidad debo esperar de las exportaciones?",
+          "answer": "Espera archivos listos para producción con transientes claros, picos controlados y reproducción fiable en todos los dispositivos, lo que ayuda a que tu paquete de botones de sonido se mantenga coherente. Aún puedes aplicar EQ final y procesamiento de loudness para alinear cada indicación con tu mezcla completa y objetivos de plataforma."
+        }
+      ]
+    }
+  }
+}

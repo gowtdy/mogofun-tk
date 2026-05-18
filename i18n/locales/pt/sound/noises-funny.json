@@ -1,0 +1,79 @@
+{
+  "noises-funny": {
+    "meta": {
+      "title": "Barulhos engraçados",
+      "description": "Crie barulhos engraçados únicos com IA avançada de efeitos sonoros, gerando tipos variados como sons naturais, instrumentos e muito mais.",
+      "keywords": "barulhos engraçados, voz engraçada"
+    },
+    "hero": {
+      "title": "Barulhos engraçados",
+      "subtitle": "Transforme descrições em texto em barulhos engraçados de alta qualidade"
+    },
+    "generator_subtitle": "Escolha entre os prompts populares abaixo ou escreva sua própria descrição para gerar barulhos engraçados",
+    "advantages": {
+      "title": "Por que gerar barulhos engraçados para skits e shorts?",
+      "items": [
+        {
+          "title": "Barulhos engraçados a partir de prompts em segundos",
+          "description": "Descreva buzinas, guinchos, pops de boca, estalos de borracha ou batidas cartoon e obtenha hits prontos para mix sem vasculhar bibliotecas velhas. As saídas ficam curtas para a punchline cair no beat. Duplique para cortes verticais, corte caudas e arquive sobras.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Itere takes sem reconstruir timelines",
+          "description": "Duplique o gag em vertical/quadrado/paisagem ajustando adjetivos ou duração (\"0.25s squeak\"). Mantenha timbre e varie intensidade. Se barulhos engraçados mascararem a locução, encurte; se faltou punch, enriqueça; QC antes do dublagem.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Dinâmica amigável para alto-falante de celular",
+          "description": "Picos controlados para mobile e duck limpo sob diálogo. Exporte stems em batch para campanha com níveis previsíveis e mastering leve depois. Segunda promo, meio da semana refresh, após picture lock imprima entregáveis.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Barulhos engraçados: perguntas e respostas",
+      "items": [
+        {
+          "question": "O que conta como barulhos engraçados aqui?",
+          "answer": "Hits sem diálogo—boings cartoon, splats molhados, buzz de kazoo, passos exagerados, bleeps de UI—criados do texto em vez de rips desconhecidos. Stems legais para shorts, podcasts e UI de jogos. Uma voz engraçada scratch ajuda a marcar timing antes da VO final."
+        },
+        {
+          "question": "Como o texto vira um hit?",
+          "answer": "O prompt descreve material, movimento e duração. Síntese + processamento leve para domar picos. Regenere até sincronizar com o frame. Deixe headroom ao balancear tags de voz engraçada e SFX."
+        },
+        {
+          "question": "Posso combinar voz engraçada com guincho/buzina?",
+          "answer": "Sim: gere a fala e depois coloque um stem separado por baixo. Igualar loudness e cortar caudas. Se brigar, sidechain leve ou cauda menor."
+        },
+        {
+          "question": "Como promptear timing de meme?",
+          "answer": "Trope, virada emocional e duração (\"dry honk 0.3s\"). Mencione plataforma se necessário. Compare frases concretas e refine. Cite um beat de voz engraçada para call-and-response."
+        },
+        {
+          "question": "Bom para alerts de stream/chat bots?",
+          "answer": "Sim: stings irmãos para follows/raids/redeems. Família com mesmo timbre e comprimentos diferentes. Limite o ganho do limiter para a voz engraçada ficar inteligível."
+        },
+        {
+          "question": "Fica sob diálogo?",
+          "answer": "Pensado para ducking. Sidechain/clip-gain. Se mascarar, encurte decay ou notch leve. Abra espaço nas consoantes da voz engraçada."
+        },
+        {
+          "question": "Quais estilos funcionam melhor?",
+          "answer": "Foley cartoon, percussão de boca, boings, apitos, buzzer de resposta errada, impactos exagerados. Bed/poke separados ou layers para pós. Alinhe transientes a animações de botão."
+        },
+        {
+          "question": "Downloads são royalty-free?",
+          "answer": "Sob a licença exibida no download, geralmente sem taxas extras. Arquive e reavalie quando termos mudarem."
+        },
+        {
+          "question": "Qualidade esperada?",
+          "answer": "Stems em alta resolução com dinâmica controlada. Use seu preset e cadeia normal. Combine metas de loudness para voz engraçada + SFX."
+        },
+        {
+          "question": "Quem se beneficia?",
+          "answer": "Editores de comédia diária, indies de UI lúdica e educadores. Iteração rápida sem rips duvidosos. Em sala de aula, cuide do volume."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "yelling-sound": {
+    "meta": {
+      "title": "Yelling Sound",
+      "description": "Instantly create yelling sound with our advanced AI technology. Generate various type sounds including natural clips, musical instruments and more.",
+      "keywords": "yelling sound, yelling sound effect"
+    },
+    "hero": {
+      "title": "Yelling Sound",
+      "subtitle": "Instantly transform text description into high-quality yelling sound"
+    },
+    "generator_subtitle": "Select from popular prompts below or write your own description to generate yelling sound",
+    "advantages": {
+      "title": "Why Choose Our Generator?",
+      "items": [
+        {
+          "title": "Instant Vocal Creation",
+          "description": "Create professional vocal clips instantly from text with our AI generator. The tool turns your ideas into high-quality yelling sound and character clips in seconds, without sample libraries or manual editing. Generate unlimited variations for games, videos, and apps. Whether you need yelling sound effect for action, drama, or projects, the generator delivers studio-quality yelling sound output.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Unlimited Creative Possibilities",
+          "description": "Use our generator to create any style of yelling sound you imagine—from subtle shouts to intense yells. The tool understands complex descriptions and gives you full creative freedom. Explore options tailored to games, films, and media. From character vocals to varied yelling sound effect for every scenario, get the perfect clip for your project.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professional-Grade Audio Quality",
+          "description": "Every clip from our generator meets broadcast standards with high-fidelity output. Cutting-edge algorithms ensure studio-quality results. All output is production-ready and optimized for professional use. The generator delivers full frequency coverage and clear dynamics for authentic yelling sound. Yelling sound effect that feels consistent in any project.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Generator FAQ",
+      "items": [
+        {
+          "question": "What is this generator?",
+          "answer": "It is an AI tool that turns text descriptions into custom vocal and character audio. Ours uses natural language processing and neural audio synthesis to produce professional-quality yelling sound effect clips. You can create yelling sound for horror, games, or films. It suits content creators, game developers, and filmmakers who need quick, authentic output. The generator also supports yelling sound effect for varied styles and moods."
+        },
+        {
+          "question": "How does it work?",
+          "answer": "Our generator uses a multi-stage pipeline to turn text into high-quality yelling sound. It first analyzes your description to capture traits like intensity, character, and duration. That information goes through neural networks trained for vocal and yell synthesis. Trained on professional samples, the AI produces natural, lifelike output. Filtering and post-processing keep quality high and ensure every clip meets broadcast standards."
+        },
+        {
+          "question": "What makes this generator unique?",
+          "answer": "Our generator stands out through instant customization and professional quality. Unlike static libraries, it creates tailored yelling sound effect clips on demand. The system understands complex descriptions and produces output with fine control over intensity and style. You get unlimited variations and creative freedom. Yelling sound effect for games and films are easy to tailor without extra production work."
+        },
+        {
+          "question": "How do I write effective prompts for it?",
+          "answer": "Write clear, specific descriptions. Try \"loud yell\" or \"angry shout.\" For yelling sound, say \"intense yell\" or \"desperate shout.\" Include intensity, character type, and context. Our generator responds well to terms like shout, yell, and cry. More context yields better results for yelling sound effect and other vocal tones."
+        },
+        {
+          "question": "How can I use it in video content?",
+          "answer": "Place custom vocal clips where scenes need tension or reaction. The generator helps you create yelling sound and character clips for intros, transitions, and key moments. Layer variations for rich, engaging audio design. Use it for films, vlogs, and tutorials. The tool lets you build a unique audio style that fits your content."
+        },
+        {
+          "question": "How can I use it in game development?",
+          "answer": "Our generator supports procedural audio for games. Create variations so players rarely hear the same clip twice. Build systems that react to game state, hazards, and events. Produce different options for characters, cutscenes, and key moments while keeping a consistent style. Yelling sound effect can be mixed dynamically from game parameters. The generator delivers professional-quality yelling sound effect that enhances immersion and impact."
+        },
+        {
+          "question": "What types of vocal clips can I create?",
+          "answer": "You can create a wide range: yelling sound effect for action, drama, horror, and custom options. The generator handles these with consistent quality. Whether you need subtle shouts or bold vocal clips for any scenario, the tool delivers professional output. Yelling sound effect for horror and games are supported with full creative control."
+        },
+        {
+          "question": "Are the generated clips royalty-free?",
+          "answer": "Yes. All clips from our generator are royalty-free and include a commercial license. You can use the generated yelling sound effect clips in any project without extra fees or attribution. Every clip is cleared for immediate use in professional and commercial work."
+        },
+        {
+          "question": "What quality does it produce?",
+          "answer": "Our generator outputs professional-grade yelling sound that meets industry standards. You get high-resolution options, full frequency range, and clear dynamics. All output is broadcast-ready and suitable for professional production and creative projects."
+        }
+      ]
+    }
+  }
+}

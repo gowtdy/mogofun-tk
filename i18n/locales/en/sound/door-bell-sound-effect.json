@@ -1,0 +1,71 @@
+{
+  "door-bell-sound-effect": {
+    "meta": {
+      "title": "Door Bell Sound Effect",
+      "description": "Instantly create door bell sound effect with our advanced AI technology. Generate various type sounds including natural sounds, musical instruments and more.",
+      "keywords": "door bell sound effect, church bell sound effect"
+    },
+    "hero": {
+      "title": "Door Bell Sound Effect",
+      "subtitle": "Instantly transform text description into high-quality door bell sound effect"
+    },
+    "generator_subtitle": "Select from popular prompts below or write your own description to generate door bell sound effect",
+    "advantages": {
+      "title": "Why Choose Our Door Bell Sound Effect Generator?",
+      "items": [
+        {
+          "title": "Fast Door Bell Sound Effect Creation",
+          "description": "Generate a polished door bell sound effect from simple text in seconds. You can prototype alert tones for apps, videos, and interactive demos without recording sessions or manual layering. Quick iteration helps teams compare multiple ring styles before final export.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Flexible Bell Styles for Different Scenes",
+          "description": "Shape timing, tone, resonance, and attack to match modern interfaces, cinematic transitions, or retro cues. Request a crisp door bell sound effect for everyday scenes, or lean into a traditional church bell sound effect atmosphere when the story calls for it—you can guide the model with context words and duration hints for more authentic results.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professional-Grade Audio Quality",
+          "description": "Every output is clean, mix-ready, and consistent across playback devices. The generator preserves transient detail and balanced dynamics so each door bell sound effect strike and church bell sound effect decay stays clear in dense mixes, making integration easier for production and post workflows.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "About Our Door Bell Sound Effect Generator",
+      "items": [
+        {
+          "question": "What is a door bell sound effect generator?",
+          "answer": "It is an AI audio tool that converts text prompts into custom bell-style cues. Instead of browsing large libraries, you can create a door bell sound effect tailored to your project mood, pacing, and playback context."
+        },
+        {
+          "question": "How does the generator work?",
+          "answer": "The model reads your description for attributes like brightness, decay, and strike strength, then synthesizes audio that matches those instructions. You can refine wording across iterations to move from a tight door bell sound effect ping to a wide church bell sound effect tail with richer metallic textures."
+        },
+        {
+          "question": "Can I create a church bell sound effect style?",
+          "answer": "Yes. Add context such as cathedral space, long resonance, and heavier strike behavior in your prompt. Those details help the model deliver a church bell sound effect character suitable for historical scenes and dramatic openings."
+        },
+        {
+          "question": "How should I write effective prompts?",
+          "answer": "Use concise descriptions that include source style, timing, and environment. For example, mention \"short digital door bell sound effect ring\" or \"church bell sound effect in a stone nave with long tail\" so the tool can return results closer to your intended production use."
+        },
+        {
+          "question": "Where can I use generated bell sounds?",
+          "answer": "They work well in UI interactions, podcast transitions, cinematic cuts, tutorial markers, and game feedback systems. Use a branded door bell sound effect for product demos, or place a distant church bell sound effect under establishing shots—because each output is customizable, you can keep a consistent audio identity across multiple content formats."
+        },
+        {
+          "question": "Is the generated audio royalty-free?",
+          "answer": "Yes. Generated files are royalty-free under our standard terms for typical creator and commercial projects. Review the current license details if you plan large campaigns or special distribution requirements."
+        },
+        {
+          "question": "What quality can I expect from exports?",
+          "answer": "You get production-ready files with clear transients, stable dynamics, and dependable playback across devices. This makes final mix alignment faster whether you are delivering for mobile apps, web media, or broadcast edits that layer a subtle church bell sound effect under score."
+        },
+        {
+          "question": "How do I balance door bell sound effect clarity in a mix?",
+          "answer": "Place the cue with a brief EQ pocket around vocal ranges, then set moderate peak control to avoid masking dialogue. This approach keeps your door bell sound effect audible without overwhelming the rest of the soundtrack."
+        }
+      ]
+    }
+  }
+}

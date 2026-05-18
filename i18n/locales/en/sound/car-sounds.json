@@ -1,0 +1,75 @@
+{
+  "car-sounds": {
+    "meta": {
+      "title": "Car Sounds",
+      "description": "Instantly create car sounds with our advanced AI technology. Generate various types of audio including natural tones, musical instruments and more.",
+      "keywords": "car sounds, sound of car"
+    },
+    "hero": {
+      "title": "Car Sounds",
+      "subtitle": "Instantly transform text description into high-quality car sounds"
+    },
+    "generator_subtitle": "Select from popular prompts below or write your own description to generate car sounds",
+    "advantages": {
+      "title": "Why Choose Our Car Sounds Generator?",
+      "items": [
+        {
+          "title": "Instant Car Sounds Creation",
+          "description": "Create professional car sounds and sound of car clips instantly from text. Our AI turns your descriptions into honk, engine roaring, and door shut clips in seconds—no sample libraries or manual editing. Need crisp car sounds for UI or full sound of car for a scene? Generate unlimited variations with broadcast-ready quality for any project.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Unlimited Creative Possibilities",
+          "description": "Create any style you imagine: honk, engine roaring, door shut, or sound of car ambience. The tool understands detailed descriptions and gives you full creative freedom. Explore endless options for videos, games, and apps. From subtle car sounds to layered sound of car for film, get the right clip for every scenario.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professional-Grade Audio Quality",
+          "description": "Every clip from our generator meets broadcast standards with high-fidelity output. Cutting-edge algorithms ensure studio-quality clips and sound of car. All clips are production-ready and optimized for professional use, with full frequency coverage and authentic, natural results.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Car Sounds FAQ",
+      "items": [
+        {
+          "question": "What is a car sounds generator?",
+          "answer": "Our generator is an AI tool that turns text into custom car sounds and sound of car. It uses natural language processing and neural synthesis to produce professional clips—from honk and engine roaring to door shut. It suits creators, video editors, and game developers who need quick, authentic car sounds and sound of car with precise, high-fidelity results."
+        },
+        {
+          "question": "How does the generator work?",
+          "answer": "The tool uses a multi-stage pipeline to turn text into high-quality clips. It analyzes your description to capture intensity, style, and context, then runs that through neural networks trained for vehicle and engine synthesis. You can request a short car sounds for UI or longer sound of car for ambience. Every clip meets broadcast standards."
+        },
+        {
+          "question": "What makes this car sounds generator unique?",
+          "answer": "Our generator stands out through instant customization and professional quality. Unlike static libraries, it creates tailored clips on demand. Trained on high-quality samples, it delivers realistic car sounds and sound of car. You get unlimited variations and creative freedom with fine control."
+        },
+        {
+          "question": "How do I write effective prompts for car sounds?",
+          "answer": "Write clear, specific descriptions. Try \"car sounds for honk\" or \"sound of car for engine roaring.\" Include style (realistic, cinematic), intensity, and context. The generator responds well to terms like honk, engine, door shut, and sound of car. More context yields better results."
+        },
+        {
+          "question": "How can I use car sounds in video content?",
+          "answer": "Map your video's scenes and place custom clips where they add impact. Create honk and engine clips for every moment—from subtle background to dramatic hits. Layer sound of car for rich, engaging audio that underlines time or place."
+        },
+        {
+          "question": "How can I use the generator in game development?",
+          "answer": "Our generator supports procedural clips for games. Create variations so players rarely hear the same clip twice. Produce different options for UI, levels, and events while keeping a consistent style. The tool delivers professional-quality car sounds and sound of car that enhance immersion and feedback."
+        },
+        {
+          "question": "What types of car sounds can I create?",
+          "answer": "You can create a wide range: honk, engine roaring, door shut, and sound of car ambience. Styles from soft to loud (realistic, cinematic, vintage). The tool handles these with consistent quality and delivers professional results for any project."
+        },
+        {
+          "question": "Are the generated clips royalty-free?",
+          "answer": "Yes. All clips from our generator are royalty-free and include a commercial license. You can use the generated clips in any project without extra fees or attribution. Every clip is cleared for immediate use in professional and commercial work."
+        },
+        {
+          "question": "What quality does the generator produce?",
+          "answer": "Our generator outputs professional-grade clips that meet industry standards. You get high-resolution sound of car options up to 192kHz/24-bit, full frequency range, and controlled dynamics. Every clip is broadcast-ready and suitable for professional production and creative projects."
+        }
+      ]
+    }
+  }
+}

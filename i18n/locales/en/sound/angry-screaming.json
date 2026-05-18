@@ -1,0 +1,71 @@
+{
+  "angry-screaming": {
+    "meta": {
+      "title": "Angry Screaming",
+      "description": "Instantly create angry screaming with our advanced AI technology. Generate various type sounds including natural sounds, musical instruments and more.",
+      "keywords": "angry screaming, harsh impact sting"
+    },
+    "hero": {
+      "title": "Angry Screaming",
+      "subtitle": "Instantly transform text description into high-quality angry screaming"
+    },
+    "generator_subtitle": "Select from popular prompts below or write your own description to generate angry screaming",
+    "advantages": {
+      "title": "Why Choose Our Angry Screaming Generator?",
+      "items": [
+        {
+          "title": "Create Angry Screaming Clips in Seconds",
+          "description": "Turn short prompts into intense angry screaming without searching huge sound libraries. The model captures aggression, timing, and emotional pressure so outputs fit cinematic edits, streams, and gameplay highlights. Rapid iteration lets teams compare alternate takes before final lock.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Flexible Intensity for Any Scene",
+          "description": "Adjust prompt detail to move from restrained tension to explosive outbursts while keeping dialogue space clear. You can shape texture, duration, and character style for trailers, reaction edits, and dramatic transitions. This helps each angry screaming cue feel specific instead of generic, and you can layer harsh impact stings sparingly when the project tone allows.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professional-Grade Audio Quality",
+          "description": "Exports are mix-ready with stable loudness behavior and clean transients, making replacements easier late in post-production. Files remain consistent after platform compression, so angry screaming peaks and harsh impact accents stay intelligible across mobile, desktop, and broadcast workflows.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "About Our Angry Screaming Generator",
+      "items": [
+        {
+          "question": "What is an angry screaming generator?",
+          "answer": "It is an AI audio tool that converts text prompts into aggressive vocal effects and angry screaming for high-intensity moments. Instead of recording many takes, you can generate scene-specific clips quickly and test them directly in your timeline."
+        },
+        {
+          "question": "How does this angry screaming tool work?",
+          "answer": "The model parses mood, force, rhythm, and context from your prompt, then synthesizes output aligned with those cues, including optional harsh impact emphasis when your brief calls for it. You can refine wording between passes to tighten attack, sustain, and pacing until the clip fits your exact cut."
+        },
+        {
+          "question": "Why use this instead of stock packs?",
+          "answer": "Stock assets often repeat and may not match scene timing. Prompt-based generation creates fresh angry screaming and harsh impact takes on demand, helping your edits feel original while reducing manual search and cleanup."
+        },
+        {
+          "question": "How should I write prompts for angry screaming effects?",
+          "answer": "Describe who reacts, what triggers the reaction, and how long the cue should last. Specific wording like \"angry screaming right after the door slams\" or \"tight harsh impact sting on the cut\" usually gives cleaner timing than broad keywords."
+        },
+        {
+          "question": "Where do harsh impact stings fit in this workflow?",
+          "answer": "A harsh impact layer can be used as a stylized emphasis element in mature-themed edits where tone requires stronger impact. Keep levels below key dialogue and automate gain carefully to preserve intelligibility and avoid mix fatigue."
+        },
+        {
+          "question": "What kinds of variants can I generate?",
+          "answer": "You can create short rage bursts, strained calls, layered crowd aggression, distorted peaks, and cinematic vocal swells driven by stacked angry screaming. This variety helps editors and sound designers test emotional pacing before final export."
+        },
+        {
+          "question": "Is generated audio royalty-free?",
+          "answer": "Yes. Generated files are royalty-free under our standard license for typical creator and commercial use. Always review current licensing terms before large campaigns or broadcast deployment."
+        },
+        {
+          "question": "What quality should I expect from exports?",
+          "answer": "Expect production-ready output with clear detail, stable dynamics, and reliable playback behavior across devices, even when stacking angry screaming with harsh impact stings. For final delivery, apply your regular mastering chain to match project loudness targets."
+        }
+      ]
+    }
+  }
+}

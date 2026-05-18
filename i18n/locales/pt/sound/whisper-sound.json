@@ -1,0 +1,75 @@
+{
+  "whisper-sound": {
+    "meta": {
+      "title": "Som de sussurro",
+      "description": "Crie som de sussurro instantaneamente com nossa tecnologia de IA avançada. Gere vários tipos de som, incluindo sons naturais, instrumentos musicais e mais.",
+      "keywords": "som de sussurro, efeito sonoro de sussurro"
+    },
+    "hero": {
+      "title": "Som de sussurro",
+      "subtitle": "Transforme descrições em texto em som de sussurro de alta qualidade instantaneamente"
+    },
+    "generator_subtitle": "Selecione entre os prompts populares abaixo ou escreva sua própria descrição para gerar som de sussurro",
+    "advantages": {
+      "title": "Por que escolher nosso gerador de som de sussurro?",
+      "items": [
+        {
+          "title": "Criação instantânea de som de sussurro",
+          "description": "Crie clipes profissionais instantaneamente a partir de texto com nosso gerador de IA. O gerador transforma suas ideias em áudio de sussurro e murmúrio de alta qualidade em segundos, sem bibliotecas de amostras ou edição manual. Gere variações ilimitadas para qualquer projeto com alguns cliques. Seja efeito sonoro de sussurro, sussurro assustador ou sussurros de fantasma, o gerador entrega saída em qualidade de estúdio para seus projetos criativos.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Possibilidades criativas ilimitadas",
+          "description": "Use nosso gerador para criar qualquer estilo de sussurro que imaginar—de murmúrios suaves a sussurros de fantasma sinistros. O gerador entende descrições complexas e dá liberdade criativa total. Explore opções infinitas para jogos, vídeos e apps. De hits curtos a ambiência prolongada, obtenha o clipe de efeito sonoro de sussurro perfeito para cada cenário.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualidade de áudio profissional",
+          "description": "Todo clipe do nosso gerador atende aos padrões de transmissão com saída de alta fidelidade. Algoritmos de ponta garantem resultados em qualidade de estúdio. Todos os clipes estão prontos para produção e otimizados para uso profissional. O gerador oferece cobertura de frequência completa e dinâmica controlada para saída autêntica de sussurro e murmúrio, incluindo efeito sonoro de sussurro.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "FAQ gerador de som de sussurro",
+      "items": [
+        {
+          "question": "O que é um gerador de som de sussurro?",
+          "answer": "Um gerador de som de sussurro é uma ferramenta de IA que transforma descrições em texto em áudio de sussurro e murmúrio personalizado. O nosso usa processamento de linguagem natural e síntese neural de áudio para produzir clipes de qualidade profissional. Modelos de deep learning treinados em conjuntos de dados vocais e sussurro entendem sua descrição e geram variações correspondentes. É ideal para criadores de conteúdo, desenvolvedores de jogos e profissionais de áudio que precisam de saída rápida e autêntica. O gerador usa seu contexto e detalhes para criar áudio nuanceado e em camadas. Para efeito sonoro de sussurro refinado ou outros estilos, entrega resultados precisos e de alta fidelidade."
+        },
+        {
+          "question": "Como o gerador de som de sussurro funciona?",
+          "answer": "Nosso gerador usa um pipeline em várias etapas para transformar texto em áudio de alta qualidade. Primeiro analisa sua descrição para capturar traços como intensidade, textura, duração e estilo. Essas informações passam por redes neurais treinadas para síntese vocal, que tratam frequência, dinâmica e respiração. Treinado com amostras profissionais, a IA produz saída natural. Filtragem e pós-processamento mantêm a qualidade alta e garantem que todo clipe atenda aos padrões de transmissão."
+        },
+        {
+          "question": "O que torna este gerador de som de sussurro único?",
+          "answer": "Nosso gerador se destaca pela personalização instantânea e qualidade profissional. Diferente de bibliotecas estáticas, ele cria clipes de sussurro sob medida sob demanda. É treinado com amostras de alta qualidade para resultados realistas, incluindo efeito sonoro de sussurro e estilos de murmúrio variados. O sistema entende descrições complexas e produz saída com controle fino de tom e contexto. Você obtém variações ilimitadas e liberdade criativa."
+        },
+        {
+          "question": "Como escrevo prompts eficazes para o gerador de som de sussurro?",
+          "answer": "Escreva descrições claras e específicas com vários detalhes. Em vez de só \"sussurro\", tente \"sussurro assustador com eco\" ou \"sussurros de fantasma.\" Inclua estilo, intensidade, duração e traços distintivos. O gerador responde bem a termos como sussurro, murmúrio e efeito sonoro de sussurro. Para cenários complexos, divida em partes e diga como se combinam. Mais contexto gera melhores resultados."
+        },
+        {
+          "question": "Como usar o gerador de som de sussurro em conteúdo de vídeo?",
+          "answer": "Mapeie as cenas do seu vídeo e coloque clipes de som de sussurro personalizados onde agregam atmosfera. O gerador ajuda a criar áudio de sussurro e murmúrio para cada momento—de fundo sutil à tensão dramática, incluindo efeito sonoro de sussurro. Sobreponha várias variações para áudio rico e envolvente. Use para terror, ASMR e cenas-chave. Use momentos distintos como efeito sonoro de sussurro para sublinhar mistério. O gerador permite construir um estilo de áudio único que combina com seu conteúdo."
+        },
+        {
+          "question": "Como usar o gerador de som de sussurro no desenvolvimento de jogos?",
+          "answer": "Nosso gerador suporta áudio procedural para jogos. Crie variações de efeito sonoro de sussurro para que os jogadores raramente ouçam o mesmo clipe duas vezes. Construa sistemas que reajam ao estado do jogo, ações do jogador e condições. Produza opções diferentes para diálogo, ambiência e eventos mantendo estilo consistente. Saída em camadas pode ser mixada dinamicamente a partir dos parâmetros do jogo. O gerador entrega efeito sonoro de sussurro de qualidade profissional que aumenta imersão e tensão."
+        },
+        {
+          "question": "Que tipos de sussurro posso criar?",
+          "answer": "Você pode criar uma ampla gama: sussurro, sussurro assustador, sussurros de fantasma, murmúrio, efeito sonoro de sussurro para terror ou ASMR, intensidades (suave a intenso) e estilos (sinistro, íntimo, cinematográfico). O gerador trata essas categorias com qualidade consistente. Seja fundo leve ou clipes assustadores fortes, o gerador entrega resultados profissionais de efeito sonoro de sussurro para qualquer projeto."
+        },
+        {
+          "question": "Os clipes gerados são livres de royalties?",
+          "answer": "Sim. Todo o áudio do nosso gerador é livre de royalties e inclui licença comercial. Você pode usar os clipes gerados em qualquer projeto sem taxas extras ou atribuição. Todo clipe, incluindo saída de efeito sonoro de sussurro, está liberado para uso imediato em trabalho profissional e comercial."
+        },
+        {
+          "question": "Que qualidade o gerador de som de sussurro produz?",
+          "answer": "Nosso gerador produz áudio de qualidade profissional que atende aos padrões da indústria. Você obtém opções de efeito sonoro de sussurro de alta resolução até 192 kHz/24-bit, faixa de frequência completa e dinâmica controlada. Toda a saída está pronta para transmissão. Todo clipe é adequado para produção profissional e projetos criativos."
+        }
+      ]
+    }
+  }
+}

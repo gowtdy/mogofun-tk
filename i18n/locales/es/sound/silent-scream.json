@@ -1,0 +1,71 @@
+{
+  "silent-scream": {
+    "meta": {
+      "title": "Grito silencioso",
+      "description": "Crea al instante «grito silencioso» con nuestra IA avanzada. Genera varios tipos de sonidos: naturales, instrumentos y más.",
+      "keywords": "grito silencioso, grito extremo"
+    },
+    "hero": {
+      "title": "Grito silencioso",
+      "subtitle": "Transforma al instante una descripción en texto en «grito silencioso» de alta calidad"
+    },
+    "generator_subtitle": "Elige entre los prompts populares de abajo o escribe tu propia descripción para generar «grito silencioso»",
+    "advantages": {
+      "title": "Por qué elegir nuestro generador de grito silencioso",
+      "items": [
+        {
+          "title": "Genera cues de grito silencioso en segundos",
+          "description": "Convierte prompts de texto concisos en pistas vocales tensas y expresivas sin hurgar bibliotecas enormes. El modelo captura ritmo, forma del aliento y presión emocional para que cada salida encaje en montajes cinematográficos, momentos de juego o transiciones dramáticas. Puedes iterar al vuelo cuando una escena necesita varias opciones de intensidad. Una cue de grito silencioso enfocada solo escala a grito extremo cuando el corte realmente lo exige.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Tono flexible de lo sutil a lo extremo",
+          "description": "Ajusta la entrega desde la tensión contenida al grito extremo refinando contexto, duración y textura vocal en tu prompt. Así es más fácil alinear el relato visual manteniendo espacio limpio para el diálogo. El flujo admite drama realista y acentos de terror estilizados. Los editores suelen emparejar una toma de grito silencioso con una de grito extremo para un A/B rápido de timing.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Calidad de audio profesional",
+          "description": "Las exportaciones vienen listas para mezclar con loudness estable y transientes controlados, lo que facilita sustituciones tardías en producción. Los archivos siguen claros tras la compresión habitual de las plataformas, ayudando a que tus golpes emocionales se mantengan coherentes en todos los dispositivos. Un nivelado coherente mantiene cada grito silencioso inteligible mientras cada capa de grito extremo permanece controlada.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Sobre nuestro generador de grito silencioso",
+      "items": [
+        {
+          "question": "¿Qué es un generador de grito silencioso?",
+          "answer": "Es una herramienta de audio con IA que convierte prompts de texto en efectos vocales dramáticos centrados en tensión e impacto. En lugar de grabar muchas tomas, generas rápidamente una cue al estilo grito silencioso y la pruebas directamente en la línea de tiempo. Un mismo concepto puede ramificarse en varias variantes de grito extremo para distintos montajes."
+        },
+        {
+          "question": "¿Cómo funciona esta herramienta de grito silencioso?",
+          "answer": "El sistema lee atributos del prompt como emoción, presión, ritmo y textura y sintetiza audio alineado con esos rasgos. Puedes pulir la redacción entre pasadas hasta que el timing y la intensidad encajen con tu corte visual. La iteración ayuda a que cada grito silencioso caiga en el fotograma mientras cada oleada de grito extremo sigue siendo intencionada."
+        },
+        {
+          "question": "¿Por qué usar esto en lugar de bibliotecas de stock?",
+          "answer": "Las bibliotecas de stock pueden sonar repetitivas y no encajar en el ritmo exacto de la escena. La generación basada en prompts ofrece variaciones frescas bajo demanda, haciendo los momentos dramáticos más específicos y menos genéricos. Así cada grito silencioso es único y los momentos de grito extremo suenan menos reciclados."
+        },
+        {
+          "question": "¿Cómo debo escribir prompts para efectos de grito silencioso?",
+          "answer": "Usa contexto concreto: quién reacciona, qué dispara el instante y cuánto debe sostenerse la cue. Los prompts específicos como «jadeo corto y contenido antes del impacto» suelen dar mejor timing que palabras clave amplias. Más detalle afina el timing del grito silencioso y mantiene el grito extremo más limpio en mezclas densas."
+        },
+        {
+          "question": "¿Cuándo usar grito extremo en una mezcla?",
+          "answer": "Usa grito extremo en momentos de impacto clave como revelaciones, jump cuts o transiciones de clímax. Mantenlo ligeramente por debajo del diálogo crítico y automatiza la ganancia para que el efecto sume tensión sin aplastar el habla. Emparejar una entrada en grito silencioso antes del grito extremo suele mejorar el ritmo dramático."
+        },
+        {
+          "question": "¿Qué variantes puedo generar?",
+          "answer": "Puedes crear respiraciones contenidas, picos agudos de pánico, swells vocales en capas o texturas largas de angustia. Este rango ayuda a probar distintos arcos emocionales antes del bloqueo final. Construye un banco reutilizable de gritos silenciosos y etiqueta cada clip de grito extremo por intensidad para revisiones más rápidas."
+        },
+        {
+          "question": "¿El audio generado es libre de regalías?",
+          "answer": "Sí. Los archivos generados son libres de regalías bajo nuestra licencia para el uso estándar de creadores y comercial. Revisa siempre los términos de licencia vigentes antes de grandes campañas o lanzamiento en broadcast."
+        },
+        {
+          "question": "¿Qué calidad debo esperar de las exportaciones?",
+          "answer": "Espera una salida limpia y lista para producción con dinámica consistente y reproducción fiable en móviles y escritorio. Para la entrega final, aplica tu cadena habitual de masterización para alinear el loudness del proyecto. El control de calidad final debe confirmar que cada grito silencioso sigue claro y cada momento de grito extremo sobrevive a la compresión de las plataformas."
+        }
+      ]
+    }
+  }
+}

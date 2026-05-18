@@ -1,0 +1,79 @@
+{
+  "funny-noises": {
+    "meta": {
+      "title": "Barulhos engraçados",
+      "description": "Crie barulhos engraçados únicos com IA avançada de efeitos sonoros, gerando tipos variados como sons naturais, instrumentos e muito mais.",
+      "keywords": "barulhos engraçados, efeito sonoro engraçado"
+    },
+    "hero": {
+      "title": "Barulhos engraçados",
+      "subtitle": "Transforme descrições em texto em barulhos engraçados de alta qualidade"
+    },
+    "generator_subtitle": "Escolha entre os prompts populares abaixo ou escreva sua própria descrição para gerar barulhos engraçados",
+    "advantages": {
+      "title": "Por que gerar barulhos engraçados com nossa IA?",
+      "items": [
+        {
+          "title": "Do texto a barulhos engraçados em segundos",
+          "description": "Descreva rangidos, guinchos, gorgolejos bizarros ou caos de desenho animado em palavras simples e obtenha stems equilibrados rapidamente—sem rolar bibliotecas sem fim. O modelo foca textura barulhenta e cômica para o editor permanecer na linha do tempo. Duplique barulhos engraçados para cortes verticais, corte o final de cada um ao quadro e arquive sobras para pickups.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Afine textura e timing",
+          "description": "Ajuste umidade, duração e espaço para acertar slapstick, pausas constrangedoras ou exagero absurdo. Prompts em camadas ajudam a audicionar alternativas para shorts, streams, podcasts ou UI lúdica até a piada ficar clara. Quando barulhos engraçados empilhados mascaram a locução, encurte os hits; quando soam finos, enriqueça os verbos; faça QC de cada lote antes do dublagem.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Níveis prontos para mix e entrega",
+          "description": "As saídas permanecem controladas ao lado de diálogo e música em redes sociais, streaming e especificações de cliente. Processe barulhos engraçados em lote para uma temporada mantendo loudness previsível e minimizando mastering extra. Roteie promos na segunda, atualize os mais antigos no meio da semana e imprima entregáveis após o picture lock.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Barulhos engraçados: perguntas e respostas",
+      "items": [
+        {
+          "question": "O que conta como barulhos engraçados nesta ferramenta?",
+          "answer": "Grasnados brincalhões, guinchos de borracha, gorgolejos bizarros, sinais corporais exagerados e caos de cartoon—qualquer barulho que venda a piada. Você descreve o clima; o sistema imprime stems para colocar sob diálogo, UI ou foley sem estúdio de foley. Compradores que comparam pacotes de efeito sonoro engraçado online ainda devem confirmar contagem de stems e PDFs de licença."
+        },
+        {
+          "question": "Como o texto vira áudio barulhento?",
+          "answer": "Os prompts são analisados por palavras de textura (squelch, buzz, honk), timing (hit curto vs. cauda) e espaço (seco vs. reverberante). Os modelos sintetizam formas de onda compatíveis e um processamento suave doma picos. Itere ajustando adjetivos e regenerando. Pesquisadores que googlam listas de efeito sonoro engraçado ainda precisam de filtros com foco em comédia que evitem drones de terror."
+        },
+        {
+          "question": "O que significa efeito sonoro engraçado num briefing?",
+          "answer": "Estúdios usam essa abreviação quando querem stings bobos—não whooshes heroicos nem drones de terror. Declarar a mesma intenção num prompt aqui direciona a geração para ruído cômico em vez de FX sérios. Repetir efeito sonoro engraçado nas linhas de roteiro alinha assistentes aos bins de comédia."
+        },
+        {
+          "question": "Como devo escrever prompts para gags mais claros?",
+          "answer": "Emparelhe o tipo de ruído com o contexto: \"mastigação molhada + cuspe cômico\", \"porta de mola + olhos de cartoon\". Mencione duração (\"cutucada de 250 ms\") e dinâmica (\"suave e depois alto\"). O concreto vence o vago: compare \"aperto de galinha de borracha\" com \"brinquedo de apertar bobo\". Comece com buzina de efeito sonoro engraçado quando precisar de clareza cartoon imediata."
+        },
+        {
+          "question": "Posso usar stems no YouTube ou TikTok?",
+          "answer": "Sim—os clipes servem a fluxos típicos de criadores. Alinhe hits barulhentos à imagem, varie takes para que repetições não irritem e siga as regras atuais de upload de cada plataforma. Guarde PDFs de licença para clientes de marca. Equipes de canal que testam promos de efeito sonoro engraçado devem seguir a política de áudio publicitário de cada app."
+        },
+        {
+          "question": "Serve para jogos ou UI móvel?",
+          "answer": "Designers simulam estados de falha, power-ups e reações de chat antes de fixar uma biblioteca mestre. Gere variações de barulhos engraçados para toques repetidos permanecerem frescos. Trave vencedores entre builds ou guarde alternativas para easter eggs raros. Designers que ligam toques de UI a efeito sonoro engraçado devem fazer A/B antes do lançamento."
+        },
+        {
+          "question": "Quais estilos barulhentos são comuns?",
+          "answer": "Boings, buzinas, arranhados de disco, estalos de boca, passos rangentes, buzzers com glitch e piadas musicais híbridas. Separe camadas quando precisar de cama e cutucada, ou imprima stems para adoçar numa DAW. Mixers que empilham camas de efeito sonoro engraçado sob a trilha devem entalhar lama compartilhada com a música."
+        },
+        {
+          "question": "Os downloads são livres de royalties?",
+          "answer": "Os arquivos são liberados sob a licença mostrada no download—normalmente cobrindo anúncios, apps, streams e trabalhos de cliente sem taxas extras de sincronização. Arquive acordos e reavalie quando as políticas mudarem. Supervisores que auditam arquivos de efeito sonoro engraçado antes de renovações devem exportar PDFs para finanças."
+        },
+        {
+          "question": "Que qualidade devo esperar?",
+          "answer": "Stems em alta resolução com dinâmica controlada para conviver com locução e trilha. Aplique seu preset de loudness como qualquer FX de terceiro. Passagens de cinema ainda seguem sua cadeia normal de mastering. Engenheiros que imprimem finais de efeito sonoro engraçado ainda executam metas de loudness da casa de ponta a ponta."
+        },
+        {
+          "question": "Quem mais se beneficia?",
+          "answer": "Editores, produtores sociais, educadores e devs independentes com prazos apertados. Quem precisa de barulhos engraçados novos sem engenheiro de foley pode iterar rápido; grandes estúdios podem usar como áudio temporário antes da captura final. Rotacione barulhos engraçados sazonais quando o marketing trocar ganchos. Showrunners que storyboardam sequências de efeito sonoro engraçado devem rotular bins para alinhar assistentes."
+        }
+      ]
+    }
+  }
+}

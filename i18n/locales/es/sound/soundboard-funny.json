@@ -1,0 +1,79 @@
+{
+  "soundboard-funny": {
+    "meta": {
+      "title": "Soundboard gracioso",
+      "description": "Crea un soundboard gracioso único con IA avanzada de efectos de sonido, incluyendo sonidos naturales, instrumentos y más.",
+      "keywords": "soundboard gracioso, voces graciosas"
+    },
+    "hero": {
+      "title": "Soundboard gracioso",
+      "subtitle": "Convierte tus descripciones de texto en clips de soundboard gracioso de alta calidad"
+    },
+    "generator_subtitle": "Elige entre los prompts populares de abajo o escribe tu propia descripción para generar un soundboard gracioso",
+    "advantages": {
+      "title": "¿Por qué construir un soundboard gracioso con prompts?",
+      "items": [
+        {
+          "title": "Hits listos en segundos",
+          "description": "Describe rimshots, airhorns, stings de meme o pops cartoon y obtén stems cortos para mapear a hotkeys o tiles. Salidas punchy mantienen botones rápidos limpios en la mezcla. Duplica, recorta colas y archiva repuestos.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Cambia tiles sin rehacer el board",
+          "description": "Regenera hermanos con el mismo timbre y cambia solo duración/intensidad. Exporta familias consistentes para OBS/Riverside/bots de Discord. Si los stacks tapan la VO, acorta decays; si falta punch, amplía verbos; QC antes del show.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Niveles seguros para stream",
+          "description": "Dinámica pensada para interfaces de stream y earbuds. Bachea clips para gira/temporada con picos previsibles y ajusta loudness en router/DAW como cualquier SFX.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Soundboard gracioso: preguntas y respuestas",
+      "items": [
+        {
+          "question": "¿Qué es soundboard funny aquí?",
+          "answer": "Cues cómicos cortos y repetibles—stings, buzzers, horns, pops cartoon—creados desde texto para asignar legalmente a tiles/hotkeys. Ideal para shows de host, drops de podcast y bots. Normaliza voces graciosas antes de bindear hotkeys."
+        },
+        {
+          "question": "¿Cómo un prompt se vuelve clip listo?",
+          "answer": "Describe timbre, duración y punch (\"dry rimshot 0.25s\"). El modelo renderiza y doma picos. Descarga, normaliza si hace falta y bindea al slot."
+        },
+        {
+          "question": "¿Puedo mezclar voces graciosas con stings?",
+          "answer": "Sí: crea la línea hablada aparte y apila stems debajo. Mantén inteligibilidad y recorta colas para no emborronar la broma."
+        },
+        {
+          "question": "¿Cómo mantener coherencia en la cuadrícula?",
+          "answer": "Reutiliza adjetivos de material y varía solo duración/intensidad. Exporta hermanos numerados para A/B en la misma columna."
+        },
+        {
+          "question": "¿Funciona en OBS/Stream Deck/bots de Discord?",
+          "answer": "Sí: audio estándar para mapear a hotkeys/macros/comandos. Respeta políticas y hábitos de loudness."
+        },
+        {
+          "question": "¿Cómo evitar fatiga en streams largos?",
+          "answer": "Genera alternates y rota tiles. Prefiere decays cortos y high-pass si los stacks se densifican."
+        },
+        {
+          "question": "¿Qué estilos encajan mejor?",
+          "answer": "Rimshots, kazoo buzz, slide whistles, buzzers de respuesta incorrecta, boings e impactos meme-adjacent. Separa one-shots y beds."
+        },
+        {
+          "question": "¿Royalty-free?",
+          "answer": "Según la licencia al descargar. Guarda PDFs y revisa en renovaciones."
+        },
+        {
+          "question": "¿Calidad esperada?",
+          "answer": "Stems de alta resolución con dinámica controlada. Usa tu etapa de loudness si hay specs broadcast."
+        },
+        {
+          "question": "¿Quién se beneficia?",
+          "answer": "Hosts, productores de podcast y community managers. Itera prompts para layouts por temporada y alterna voces graciosas por slot."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "funny-notification": {
+    "meta": {
+      "title": "Funny Notification",
+      "description": "Instantly create funny notification with our advanced AI technology. Generate various type sounds including natural sounds, musical instruments and more.",
+      "keywords": "funny notification, funny notification sounds"
+    },
+    "hero": {
+      "title": "Funny Notification",
+      "subtitle": "Instantly transform text description into high-quality funny notification"
+    },
+    "generator_subtitle": "Select from popular prompts below or write your own description to generate funny notification",
+    "advantages": {
+      "title": "Why Choose Our Funny Notification Generator?",
+      "items": [
+        {
+          "title": "Funny Notification Audio in Seconds",
+          "description": "Describe a chime, bloop, or cartoon ping and receive a polished clip without browsing endless alert packs. The AI reads tone, length, and punchiness so results feel intentional on phones, desktops, and streams. Iterate fast when you need a fresh cue for each campaign or episode. Batch multiple funny notification ideas per sprint, audition funny notification sounds against your motion tests, and lock the funny notification that reads best on real devices.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Styles for Apps, Streams, and Message Alerts",
+          "description": "Ask for playful, deadpan, or exaggerated vibes; the model adapts to the brief you write. Clear notes about pitch, decay, and loudness help the output sit beside voiceovers and UI motion. Export short tails that loop cleanly if you prototype games or chat apps. Align every funny notification with brand voice guidelines, then swap funny notification sounds until stakeholders sign off without another recording session.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Mix-Ready Files for Everyday Workflows",
+          "description": "Downloads aim for crisp transients and predictable loudness so you can slot cues into editors or mobile prototypes with minimal cleanup. Consistent processing means teammates hear the same balance you do when they open the project. Publish funny notification assets with predictable peaks, archive alternate funny notification sounds for seasonal skins, and reuse the same funny notification template across white-label builds.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "About Our Funny Notification Generator",
+      "items": [
+        {
+          "question": "What is a funny notification generator?",
+          "answer": "It is an AI workflow that turns text prompts into short alert-style audio instead of recording bells or buzzers yourself. You specify the character of the ping—cute, cheeky, retro—and get a file you can drop into messaging mockups, creator kits, or livestream overlays. Product teams export a funny notification for each persona flow, then compare funny notification sounds in usability tests before they ship."
+        },
+        {
+          "question": "How does this generator turn prompts into audio?",
+          "answer": "The system interprets traits like brightness, duration, and comedic timing from your description, then synthesizes a clip aligned with that brief. Tweak adjectives or scenario hints between passes until the cue matches your UI beat or punchline. Each pass refines the funny notification timing, and you can catalog funny notification sounds by campaign so editors grab the right funny notification instantly."
+        },
+        {
+          "question": "When should I pick funny notification sounds from AI instead of stock packs?",
+          "answer": "Stock libraries repeat the same handful of tones. AI output can be tailored line by line, which helps when you need a cue that matches a brand voice or a joke that no catalog clip quite lands. Keep prompts specific so funny notification sounds stay distinct across projects. When a funny notification must feel bespoke, regenerate funny notification sounds until the waveform matches your storyboard beat for beat."
+        },
+        {
+          "question": "How do I write prompts for a funny notification?",
+          "answer": "Name the device context (phone ping, desktop toast, chat bubble), the mood (silly, smug, surprised), and timing cues (short decay, double beep). Examples such as \"tiny rubber squeak for a new DM\" or \"retro bloop for a task reminder\" guide the model better than a single adjective. Mention mix headroom if you plan to layer music so funny notification sounds stay intelligible inside dense funny notification stacks."
+        },
+        {
+          "question": "Where can I use these tones in real projects?",
+          "answer": "Common uses include mobile UX demos, creator stream alerts, podcast stingers, and classroom examples. Keep levels a few decibels under speech or music so the ping reads clearly without masking dialogue when you preview funny notification sounds on laptop speakers. Drop the funny notification on the exact frame your toast appears, and route alternate funny notification sounds to QA builds for quick listening tests."
+        },
+        {
+          "question": "What kinds of tones can I request beyond a basic alert chime?",
+          "answer": "You can explore chirps, rubbery slides, faux-minimal chimes, or exaggerated buzzers. Mention genre flavor—arcade, office sitcom, sci-fi panel—so the tone stays coherent with your visuals while still feeling lighthearted. Extend each funny notification family with companion funny notification sounds for success, warning, and idle states so the whole funny notification system feels cohesive."
+        },
+        {
+          "question": "Is the generated audio royalty-free?",
+          "answer": "Yes. Downloads are royalty-free for typical creator and commercial use under our license, without extra per-clip fees. Review the latest terms on the product page before large ad campaigns or broadcast placements. You may bundle a funny notification inside client deliverables and reuse funny notification sounds across channels when usage follows the agreement."
+        },
+        {
+          "question": "What audio quality should I expect?",
+          "answer": "Expect clear bandwidth and controlled dynamics suited to editing suites and mobile playback. If you need broadcast-loud specs, run your usual mastering pass after export so each cue sits evenly with narration and bed music. Master gently so every funny notification keeps transients crisp, and loudness-match funny notification sounds so one funny notification never jumps above the rest of your mix."
+        }
+      ]
+    }
+  }
+}

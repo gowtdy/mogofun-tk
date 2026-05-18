@@ -1,0 +1,75 @@
+{
+  "bicycle-sounds": {
+    "meta": {
+      "title": "Sons de vélo",
+      "description": "Créez instantanément des sons de vélo avec notre technologie IA avancée. Générez divers types d'audio : tons naturels, instruments et plus.",
+      "keywords": "sons de vélo, cycle sonore"
+    },
+    "hero": {
+      "title": "Sons de vélo",
+      "subtitle": "Transformez instantanément une description textuelle en sons de vélo de haute qualité"
+    },
+    "generator_subtitle": "Choisissez parmi les suggestions populaires ci-dessous ou rédigez votre propre description pour générer des sons de vélo",
+    "advantages": {
+      "title": "Pourquoi choisir notre générateur de sons de vélo ?",
+      "items": [
+        {
+          "title": "Création instantanée de sons de vélo",
+          "description": "Générez des sons de vélo professionnels et un cycle sonore instantanément à partir du texte. Notre outil transforme vos descriptions en sonnette, pédale et audio de cyclisme en quelques secondes—sans bibliothèques volumineuses ni montage manuel. Créez des variations illimitées pour tout projet. Que vous ayez besoin d'un clip net pour l'interface ou d'un cycle sonore complet pour une scène, le générateur livre des résultats propres et prêts pour la diffusion.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Possibilités créatives illimitées",
+          "description": "Créez tout style de sons de vélo dont vous avez besoin : sonnettes, pédales, chaînes ou passage de pneu. Le générateur comprend les descriptions détaillées et produit un audio correspondant, pour une liberté créative totale. Explorez des variations infinies de cycle sonore pour jeux, vidéos et applications. Du subtil au marqué, trouvez la bonne option pour chaque projet.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualité audio professionnelle",
+          "description": "Tous les sons de vélo générés respectent les normes de diffusion avec une sortie haute fidélité. Le générateur utilise des algorithmes modernes pour que chaque clip de cycle sonore soit clair et prêt pour la production. Toutes les sorties sont optimisées pour un usage professionnel en vidéo, jeux et contenu. Obtenez une sortie cohérente et de qualité studio.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "À propos du générateur de sons de vélo",
+      "items": [
+        {
+          "question": "Qu'est-ce qu'un générateur de sons de vélo ?",
+          "answer": "Un générateur de sons de vélo est un outil IA qui transforme le texte en sonnette, pédale et audio de cyclisme personnalisés. Il produit une sortie professionnelle et un cycle sonore pour jeux, vidéos et applications. Le système utilise une synthèse audio neuronale entraînée sur de vrais sons de vélo et de cyclisme, pour des résultats naturels et utilisables sans enregistrement ni grandes bibliothèques. Il est conçu pour les créateurs, développeurs de jeux et monteurs qui ont besoin d'une sortie rapide et variée pour tout projet."
+        },
+        {
+          "question": "Comment fonctionne le générateur de sons de vélo ?",
+          "answer": "Notre générateur lit d'abord votre description textuelle et en extrait des traits comme l'intensité, le style et le contexte. Il les fait ensuite passer dans des modèles entraînés sur sonnette, pédale et audio de cyclisme pour synthétiser une sortie correspondante. Vous pouvez demander un cycle sonore court pour l'interface ou des clips plus longs pour l'ambiance. Le résultat est un fichier propre et prêt à l'emploi que vous pouvez télécharger et utiliser dans votre projet."
+        },
+        {
+          "question": "Qu'est-ce qui rend ce générateur de sons de vélo unique ?",
+          "answer": "Contrairement aux bibliothèques fixes, notre générateur crée de nouvelles variations à la demande à partir de texte simple. Vous obtenez une sortie personnalisée et un cycle sonore sans parcourir des milliers de fichiers. L'IA est entraînée sur de l'audio vélo et cyclisme de haute qualité, chaque résultat est donc cohérent et professionnel. Vous pouvez générer autant de variations que nécessaire pour trouver la bonne option pour chaque scène ou interaction."
+        },
+        {
+          "question": "Comment rédiger des prompts efficaces pour les sons de vélo ?",
+          "answer": "Utilisez des descriptions claires et précises. Par exemple : \"sons de vélo pour une sonnette\" ou \"cycle sonore pour grincement de pédale\". Indiquez le style (réaliste, cartoon), le contexte (jeu, vidéo, interface) et l'intensité. Le générateur réagit bien aux termes sonnette, pédale, chaîne et pneu. Plus vous donnez de détails, plus la sortie correspondra à votre vision. Indiquez la durée ou le style si c'est important pour votre projet."
+        },
+        {
+          "question": "Comment utiliser les sons de vélo dans du contenu vidéo ?",
+          "answer": "Utilisez les sons de vélo et le cycle sonore pour ajouter du réalisme aux scènes de cyclisme, aux clips de voyage ou aux pubs. Placez une courte sonnette où l'action le demande. Superposez pédale ou passage de pneu pour un cycle sonore complet dans les montages. Variez l'intensité—subtile en arrière-plan, plus nette pour le focus. Notre générateur permet de créer assez de variations pour que chaque scène ait un résultat adapté sans répétition."
+        },
+        {
+          "question": "Comment utiliser les sons de vélo en développement de jeux ?",
+          "answer": "Les sons de vélo conviennent aux jeux de cyclisme, titres sportifs et interface monde ouvert. Utilisez un cycle sonore net pour la prise de vélo ou le retour menu, et des clips plus complets pour le jeu en course. Notre générateur prend en charge de nombreuses variations pour garder un style cohérent tout en évitant la répétition. Créez des ensembles distincts pour différents vélos ou terrains. Le résultat est une sortie claire et professionnelle adaptée à l'ambiance de votre jeu."
+        },
+        {
+          "question": "Quels types de sons de vélo puis-je créer ?",
+          "answer": "Vous pouvez créer une grande variété de sons de vélo et de cycles sonores : sonnettes, pédales, chaînes, passage de pneu et ambiance cyclisme complète. Utilisez-les pour jeux, vidéos, interface ou tout besoin lié au vélo. Le générateur gère différents contextes et styles avec une qualité constante, du hit unique au cycle sonore en couches. Explorez diverses options pour tout besoin de production."
+        },
+        {
+          "question": "Les sons de vélo générés sont-ils libres de droits ?",
+          "answer": "Oui. Tous les sons de vélo et cycles sonores générés par notre outil sont libres de droits et fournis avec une licence commerciale. Vous pouvez les utiliser dans tout projet sans frais supplémentaires ni attribution. Chaque fichier généré est autorisé pour un usage professionnel et commercial. Téléchargez-en autant que nécessaire pour vos projets."
+        },
+        {
+          "question": "Quelle est la qualité des sons de vélo générés ?",
+          "answer": "Notre générateur produit un audio de qualité professionnelle conforme aux normes courantes de diffusion et de production. Vous obtenez des fichiers haute résolution, une plage de fréquences complète et une dynamique maîtrisée, chaque cycle sonore est clair et prêt à intégrer dans votre projet. Chaque fichier généré convient à un usage professionnel en vidéo, jeux et applications."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "train-horn": {
+    "meta": {
+      "title": "Bocina de tren",
+      "description": "Crea efecto de sonido de bocina de tren al instante con nuestra tecnología de IA avanzada. Genera distintos tipos de audio: tonos naturales, instrumentos musicales y más.",
+      "keywords": "bocina tren, efecto sonido bocina tren"
+    },
+    "hero": {
+      "title": "Bocina de tren",
+      "subtitle": "Transforma descripciones de texto en bocina de tren de alta calidad al instante"
+    },
+    "generator_subtitle": "Elige entre las sugerencias populares de abajo o escribe tu propia descripción para generar bocina de tren",
+    "advantages": {
+      "title": "¿Por qué elegir nuestro generador de bocina de tren?",
+      "items": [
+        {
+          "title": "Creación instantánea de bocina de tren",
+          "description": "Crea bocina de tren profesional y clips de audio ferroviario al instante a partir de texto. Nuestra IA convierte tus descripciones en toques fuertes y claros en segundos—sin bibliotecas de muestras ni edición manual. Genera variaciones ilimitadas para cualquier proyecto. Ya necesites un corto efecto de sonido de bocina para la interfaz o un efecto de sonido de bocina completo para una escena, el generador ofrece resultados listos para emisión.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Posibilidades creativas ilimitadas",
+          "description": "Crea cualquier estilo de bocina de tren que imagines: toque único, aviso largo, vintage o moderno. La herramienta entiende descripciones detalladas y te da libertad creativa total. Explora opciones infinitas para vídeos, juegos y aplicaciones. Desde señales sutiles de efecto de sonido de bocina hasta audio en capas para cine, obtén el clip adecuado para cada escenario.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Calidad de audio profesional",
+          "description": "Cada clip de nuestro generador cumple los estándares de emisión con salida de alta fidelidad. Algoritmos punteros garantizan audio ferroviario de calidad de estudio. Todos los clips están listos para producción y optimizados para uso profesional. El generador ofrece cobertura completa de frecuencias y dinámica controlada para una salida auténtica de bocina de tren.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "FAQ Bocina de tren",
+      "items": [
+        {
+          "question": "¿Qué es un generador de bocina de tren?",
+          "answer": "Nuestro generador es una herramienta de IA que convierte texto en audio ferroviario y efecto de sonido de bocina de tren personalizados. Usa procesamiento de lenguaje natural y síntesis neuronal para producir clips profesionales. Modelos de aprendizaje profundo entrenados con conjuntos de datos ferroviarios entienden tu descripción y generan variaciones coincidentes. Es adecuado para creadores, editores de vídeo y desarrolladores de juegos que necesitan salida rápida y auténtica de efecto de sonido de bocina. Para audio ferroviario pulido u otros estilos, ofrece resultados precisos y de alta fidelidad."
+        },
+        {
+          "question": "¿Cómo funciona el generador?",
+          "answer": "La herramienta usa un pipeline en varias etapas para convertir texto en bocina de tren de alta calidad. Analiza tu descripción para capturar rasgos como intensidad, duración y estilo. Esa información pasa por redes neuronales entrenadas para síntesis ferroviaria, que manejan frecuencia y dinámica. Entrenado con muestras profesionales, la IA produce salida ferroviaria natural. Puedes pedir un corto efecto de sonido de bocina para la interfaz o ambiente más largo. Cada clip cumple los estándares de emisión."
+        },
+        {
+          "question": "¿Qué hace único a este generador?",
+          "answer": "Nuestro generador destaca por la personalización instantánea y la calidad profesional. A diferencia de bibliotecas estáticas, crea clips ferroviarios a medida bajo demanda. Está entrenado con muestras de alta calidad para resultados realistas. El sistema entiende descripciones complejas y produce salida con control fino. Obtienes variaciones ilimitadas y libertad creativa."
+        },
+        {
+          "question": "¿Cómo escribo prompts efectivos para el generador de bocina de tren?",
+          "answer": "Escribe descripciones claras y concretas. En lugar de solo \"bocina\", prueba \"bocina de tren con reverb\" o \"efecto de sonido de bocina de tren para aviso\". Incluye estilo (vintage, moderno), intensidad y duración. Nuestro generador responde bien a términos como locomotora, ferroviario, toque y aviso. Para escenarios complejos, divídelos en partes. Más contexto da mejores resultados para audio ferroviario."
+        },
+        {
+          "question": "¿Cómo puedo usar el generador en contenido de vídeo?",
+          "answer": "Planifica las escenas de tu vídeo y coloca clips de efecto de sonido ferroviario y de bocina de tren personalizados donde aporten impacto. El generador te ayuda a crear audio para cada momento—desde aviso lejano hasta toque cercano. Superpone varias variaciones para un audio rico y atractivo. Usa momentos distintivos como efecto de sonido de bocina de tren para subrayar tiempo o lugar. La herramienta te permite construir un estilo de audio único que encaje con tu contenido."
+        },
+        {
+          "question": "¿Cómo puedo usar el generador en el desarrollo de juegos?",
+          "answer": "Nuestro generador admite audio procedural para juegos. Crea variaciones de audio ferroviario para que los jugadores rara vez escuchen el mismo clip dos veces. Produce opciones distintas para interfaz, niveles y eventos manteniendo un estilo coherente. El generador ofrece bocina de tren y efecto de sonido de bocina de tren de calidad profesional que mejora la inmersión y el feedback."
+        },
+        {
+          "question": "¿Qué tipos de bocina de tren puedo crear?",
+          "answer": "Puedes crear una amplia gama de bocinas de tren: toque único, aviso largo, clips de efecto de sonido de bocina para interfaz o cine, intensidades (suave a fuerte) y estilos (vintage, moderno, cinematográfico). La herramienta maneja estas categorías con calidad consistente. Ya necesites un corto efecto de sonido de bocina o variaciones en capas, la herramienta ofrece resultados profesionales para cualquier proyecto."
+        },
+        {
+          "question": "¿Los clips generados están libres de regalías?",
+          "answer": "Sí. Todos los clips de nuestro generador están libres de regalías e incluyen licencia comercial. Puedes usar el efecto de sonido de bocina de tren generado en cualquier proyecto sin costes adicionales ni atribución. Cada clip está autorizado para uso inmediato en trabajo profesional y comercial."
+        },
+        {
+          "question": "¿Qué calidad produce el generador?",
+          "answer": "Nuestro generador produce bocina de tren de nivel profesional que cumple los estándares de la industria. Tienes opciones en alta resolución hasta 192 kHz/24 bits, rango de frecuencias completo y dinámica controlada para salida ferroviaria. Cada bocina de tren y efecto de sonido de bocina de tren está listo para emisión y es adecuado para producción profesional y proyectos creativos."
+        }
+      ]
+    }
+  }
+}

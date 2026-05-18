@@ -1,0 +1,71 @@
+{
+  "door-bell-sound-effect": {
+    "meta": {
+      "title": "Türklingel-Soundeffekt",
+      "description": "Erstellen Sie sofort Türklingel-Soundeffekte mit unserer fortschrittlichen KI. Generieren Sie verschiedene Klangtypen – Naturgeräusche, Instrumente und mehr.",
+      "keywords": "türklingel-soundeffekt, kirchenglocken-soundeffekt"
+    },
+    "hero": {
+      "title": "Türklingel-Soundeffekt",
+      "subtitle": "Verwandeln Sie Textbeschreibungen sofort in hochwertige Türklingel-Soundeffekte"
+    },
+    "generator_subtitle": "Wählen Sie unten beliebte Prompts oder schreiben Sie Ihre eigene Beschreibung, um Türklingel-Soundeffekte zu erzeugen",
+    "advantages": {
+      "title": "Warum unseren Türklingel-Soundeffekt-Generator wählen?",
+      "items": [
+        {
+          "title": "Schnelle Erstellung von Türklingel-Soundeffekten",
+          "description": "Erzeugen Sie in Sekunden einen ausgereiften Türklingel-Soundeffekt aus einfachem Text. Sie können Alert-Töne für Apps, Videos und interaktive Demos prototypisieren – ohne Aufnahmesessions oder manuelles Layering. Schnelle Iteration hilft Teams, mehrere Klingelstile vor dem finalen Export zu vergleichen.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Flexible Glockenstile für verschiedene Szenen",
+          "description": "Formen Sie Timing, Klangfarbe, Resonanz und Attack passend zu modernen Oberflächen, filmischen Übergängen oder Retro-Cues. Fordern Sie einen knackigen Türklingel-Soundeffekt für Alltagsszenen oder eine traditionelle Kirchenglocken-Atmosphäre, wenn die Story es verlangt – mit Kontextwörtern und Dauer-Hinweisen lenken Sie das Modell zu authentischeren Ergebnissen.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professionelle Audioqualität",
+          "description": "Jede Ausgabe ist sauber, mixbereit und auf allen Wiedergabegeräten konsistent. Der Generator bewahrt Transienten-Detail und ausgewogene Dynamik, sodass jeder Türklingel-Schlag und jeder Kirchenglocken-Abkling in dichten Mixes klar bleibt – einfachere Integration in Produktion und Post.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Über unseren Türklingel-Soundeffekt-Generator",
+      "items": [
+        {
+          "question": "Was ist ein Türklingel-Soundeffekt-Generator?",
+          "answer": "Ein KI-Audio-Tool, das Textprompts in maßgeschneiderte Glocken-Cues verwandelt. Statt großer Bibliotheken durchsuchen Sie erstellen Sie einen Türklingel-Soundeffekt passend zu Stimmung, Tempo und Wiedergabekontext Ihres Projekts."
+        },
+        {
+          "question": "Wie funktioniert der Generator?",
+          "answer": "Das Modell liest Ihre Beschreibung nach Attributen wie Helligkeit, Abklingverhalten und Schlagstärke und synthetisiert passendes Audio. Sie können die Formulierung über Iterationen verfeinern – von einem straffen Türklingel-Ping bis zu einem breiten Kirchenglocken-Tail mit reicheren Metalltexturen."
+        },
+        {
+          "question": "Kann ich einen Kirchenglocken-Stil erzeugen?",
+          "answer": "Ja. Ergänzen Sie Kontext wie Kathedralenraum, lange Nachklangzeit und schwereres Schlagverhalten im Prompt. Diese Details helfen dem Modell, einen Kirchenglocken-Charakter für historische Szenen und dramatische Eröffnungen zu liefern."
+        },
+        {
+          "question": "Wie schreibe ich effektive Prompts?",
+          "answer": "Nutzen Sie knappe Beschreibungen mit Quellstil, Timing und Umgebung. Erwähnen Sie etwa „kurzer digitaler Türklingel-Ring“ oder „Kirchenglocken-Soundeffekt in steinerner Kirchenschiff mit langem Tail“, damit die Ergebnisse näher an Ihrem Produktionsziel liegen."
+        },
+        {
+          "question": "Wo kann ich generierte Glockenklänge einsetzen?",
+          "answer": "Sie eignen sich für UI-Interaktionen, Podcast-Übergänge, filmische Schnitte, Tutorial-Marker und Spiel-Feedback. Nutzen Sie einen markanten Türklingel-Soundeffekt für Produktdemos oder legen Sie eine ferne Kirchenglocken unter Einstellungsschwenks – jede Ausgabe ist anpassbar für eine konsistente Audio-Identität über Formate hinweg."
+        },
+        {
+          "question": "Ist generiertes Audio lizenzfrei?",
+          "answer": "Ja. Generierte Dateien sind unter unseren Standardbedingungen für typische Creator- und kommerzielle Projekte lizenzfrei. Prüfen Sie die aktuelle Lizenz, wenn Sie große Kampagnen oder besondere Vertriebsanforderungen planen."
+        },
+        {
+          "question": "Welche Qualität kann ich von Exporten erwarten?",
+          "answer": "Sie erhalten produktionsreife Dateien mit klaren Transienten, stabiler Dynamik und zuverlässiger Wiedergabe auf allen Geräten. Das beschleunigt den finalen Mix – ob für Mobile-Apps, Web-Medien oder Broadcast-Schnitte mit subtiler Kirchenglocken-Schicht unter der Musik."
+        },
+        {
+          "question": "Wie balanciere ich Türklingel-Klarheit im Mix?",
+          "answer": "Setzen Sie den Cue mit einer kurzen EQ-Lücke um Stimmbereiche und moderater Peak-Begrenzung, um Dialog nicht zu verdecken. So bleibt die Türklingel hörbar, ohne den Rest des Soundtracks zu überlagern."
+        }
+      ]
+    }
+  }
+}

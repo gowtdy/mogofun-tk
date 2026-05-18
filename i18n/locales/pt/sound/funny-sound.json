@@ -1,0 +1,79 @@
+{
+  "funny-sound": {
+    "meta": {
+      "title": "Som engraçado",
+      "description": "Crie um som engraçado único com IA avançada de efeitos sonoros: sons naturais, instrumentos e muito mais.",
+      "keywords": "som engraçado, efeitos engraçados"
+    },
+    "hero": {
+      "title": "Som engraçado",
+      "subtitle": "Transforme descrições de texto em som engraçado de alta qualidade"
+    },
+    "generator_subtitle": "Escolha entre os prompts populares abaixo ou escreva sua própria descrição para gerar som engraçado",
+    "advantages": {
+      "title": "Por que escolher nossa plataforma de IA para som engraçado?",
+      "items": [
+        {
+          "title": "Som engraçado em segundos a partir de texto simples",
+          "description": "Descreva uma piada, reação ou momento de desenho em linguagem cotidiana e receba áudio polido quase na hora. Nossa IA de efeitos sonoros dispensa vasculhar bibliotecas enormes ou cortar clips à mão, para você focar em timing e narrativa. Cada passagem de som engraçado refina as piadas: regenere até o som engraçado encaixar na imagem, compare duas tomadas de som engraçado, guarde o som engraçado mais forte e arquive o som engraçado reserva para outro beat.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Modele efeitos engraçados para cada cena",
+          "description": "Ajuste humor, intensidade e textura para que os efeitos engraçados sustentem cada punchline—não ruído genérico. O modelo aceita prompts em camadas, ajudando a iterar rápido em shorts, streams, podcasts ou edições de cliente até o tom ficar certo. Coloque efeitos engraçados sob o diálogo com cuidado: quando o mix lotar, simplifique; quando os efeitos engraçados precisarem de ar, alargue a prateleira de EQ. Una um acento de som engraçado com efeitos engraçados esparsos para o som engraçado continuar saltando.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Saída consistente, pronta para transmissão",
+          "description": "As exportações são equilibradas para clareza em alto-falantes e fones, adequadas a redes sociais, jogos ou entrega comercial. Cada clip gerado mantém caráter sônico estável, reduzindo masterização extra com acabamento profissional. Normalize cada som engraçado ao mesmo alvo de loudness para os episódios combinarem; revise um stem de som engraçado após o picture lock e imprima o som engraçado final para entrega.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Som engraçado e efeitos engraçados: perguntas frequentes",
+      "items": [
+        {
+          "question": "O que esta ferramenta de som engraçado faz?",
+          "answer": "Transforma prompts de texto curtos em áudio cômico personalizado por síntese com IA. Você descreve a ideia—boings de cartoon, silêncios constrangedores, reações exageradas—e o sistema renderiza um clip original em vez de caçar bancos de imagem. Criadores usam quando precisam de clips cômicos polidos sem equipamento de gravação ou estúdio completo. Equipes costumam versionar um som engraçado para teasers e outro para episódios completos, depois inserem outro som engraçado nas tags. Rotule cada som engraçado claramente para o editor acertar de primeira."
+        },
+        {
+          "question": "Como o gerador transforma texto em áudio?",
+          "answer": "Seu prompt é analisado por intenção, dicas de timing e pistas acústicas. Modelos neurais treinados em material diverso prevêem formas de onda que combinam com a descrição, e pós-processamento leve nivela e reduz aspereza. O fluxo é iterativo: ajuste palavras, gere de novo e compare versões até encaixar no seu corte. Se um som engraçado soar fino, enriqueça verbos; se clipar, domine a dinâmica. Itere cada som engraçado até o som engraçado mestre travar a cena."
+        },
+        {
+          "question": "Como escrever prompts para melhores efeitos engraçados?",
+          "answer": "Nomeie a ação, o personagem ou objeto e o clima—seco, slapstick, impassível ou caótico. Mencione o espaço (sala apertada vs salão) se importar para reverberação. O motor também responde a dicas técnicas como \"sting curto\" ou \"cauda suave\". Específico vence vago: compare \"rangido rápido de borracha\" com \"efeitos engraçados para uma queda desajeitada\" e refine. Catologue efeitos engraçados por humor, duplique famílias para sequências; quando efeitos engraçados brigam com música, passe alto para remover lama; quando precisarem de peso, adicione camas de apoio sob a pilha."
+        },
+        {
+          "question": "Posso usar a saída no YouTube ou TikTok?",
+          "answer": "Sim. Os clips visam fluxos de criadores nas principais plataformas de vídeo e formato curto. Emparelhe cada stem com ação na tela para máximo impacto e varie tomadas para que repetições não cansem. Siga sempre as políticas de conteúdo e direitos autorais mais recentes de cada plataforma."
+        },
+        {
+          "question": "Ajuda em áudio de jogos ou apps?",
+          "answer": "Designers frequentemente prototipam feedback de UI, power-ups e beats cômicos antes de uma biblioteca completa. Gere variações da mesma ideia para que gatilhos pareçam frescos em sessões longas. Quando a tomada fecha, padronize entre builds ou ramifique alternativas para eventos raros."
+        },
+        {
+          "question": "Que tipos de áudio cômico posso pedir?",
+          "answer": "Pedidos típicos incluem impactos de cartoon, vozes bobas, foley exagerado, stings próximos de memes e piadas musicais leves. Você também pode misturar categorias—pense em percussão caprichosa sob uma queda. Se precisar de cama cômica e acentos nítidos, descreva como camadas separadas em um prompt ou rode duas gerações e misture na DAW. Empilhe efeitos engraçados complementares para montagens; silencie efeitos engraçados lotados durante o diálogo; ilumine stings esparsos quando a energia cair."
+        },
+        {
+          "question": "Como evitar usar demais os mesmos efeitos engraçados?",
+          "answer": "Peça performances alternativas: mude adjetivos, duração ou registro. Pequenos ajustes no prompt costumam gerar timbres bem diferentes. Rotacionar efeitos engraçados evita que esquetes, gameplay e anúncios soem repetitivos mantendo um estilo cômico coerente."
+        },
+        {
+          "question": "Os downloads são livres de royalties para projetos comerciais?",
+          "answer": "As saídas são fornecidas para amplo uso comercial e pessoal sob a licença do produto exibida no download. Isso geralmente permite incorporar o áudio em anúncios, apps ou conteúdo pago sem taxas extras de sincronização. Guarde uma cópia dos termos e revise-os sempre que a política do produto mudar."
+        },
+        {
+          "question": "Que qualidade de áudio devo esperar?",
+          "answer": "Os arquivos são produzidos em alta resolução adequada para edição e entrega final após masterização leve, se quiser. Faixa dinâmica e piso de ruído são controlados para que cada faixa se encaixe limpa ao lado de diálogo e música. Para broadcast ou cinema, aplique seus padrões de loudness como faria com qualquer outra fonte."
+        },
+        {
+          "question": "Quem mais se beneficia de áudio cômico gerado por IA?",
+          "answer": "Editores, desenvolvedores independentes, educadores e equipes sociais ganham velocidade com prazos apertados. Qualquer pessoa que precise de áudio cômico credível ou efeitos engraçados sob medida sem sessão de gravação pode iterar em minutos. Grandes estúdios podem usar a ferramenta como áudio rascunho antes de gravações sob medida. Marque bobinas de SFX separadamente para que efeitos engraçados reserva fiquem fáceis de audicionar nas revisões de mix."
+        }
+      ]
+    }
+  }
+}

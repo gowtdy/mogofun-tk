@@ -1,0 +1,71 @@
+{
+  "happy-scream": {
+    "meta": {
+      "title": "Grito feliz",
+      "description": "Crie grito feliz instantaneamente com nossa tecnologia avancada de IA. Gere varios tipos de sons, incluindo sons naturais, instrumentos musicais e mais.",
+      "keywords": "grito feliz, gritos de alegria"
+    },
+    "hero": {
+      "title": "Grito feliz",
+      "subtitle": "Transforme descricoes em texto em grito feliz de alta qualidade instantaneamente"
+    },
+    "generator_subtitle": "Escolha um prompt popular abaixo ou escreva sua propria descricao para gerar grito feliz",
+    "advantages": {
+      "title": "Por que escolher nosso gerador de grito feliz?",
+      "items": [
+        {
+          "title": "Criacao instantanea de grito feliz",
+          "description": "Gere audio profissional de grito feliz em segundos a partir de texto.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Estilos flexiveis para qualquer cena",
+          "description": "Crie estilos com variacao de pitch, humor e intensidade para diferentes contextos.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualidade de audio profissional",
+          "description": "Todos os clipes gerados seguem padroes de producao, com som limpo, estavel e pronto para uso.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Sobre o gerador de grito feliz",
+      "items": [
+        {
+          "question": "O que e um gerador de grito feliz?",
+          "answer": "E uma ferramenta de IA que transforma texto em audio vocal personalizado, sem gravacao ou bibliotecas enormes."
+        },
+        {
+          "question": "Como este gerador funciona?",
+          "answer": "Ele analisa clima, intensidade e estilo da sua descricao e sintetiza um resultado correspondente."
+        },
+        {
+          "question": "O que torna este gerador unico?",
+          "answer": "Diferente de bibliotecas fixas, ele cria novas variacoes sob demanda com base em texto simples."
+        },
+        {
+          "question": "Como escrever prompts eficazes para grito feliz?",
+          "answer": "Use descricoes claras e especificas, como grito curto ou torcida em show, com energia, duracao e contexto."
+        },
+        {
+          "question": "Como usar o audio gerado no conteudo?",
+          "answer": "Voce pode sobrepor no video, usar em pontos de impacto e combinar com outras trilhas."
+        },
+        {
+          "question": "Que tipos de audio posso criar?",
+          "answer": "Voce pode criar gritos curtos, comemoracoes longas, diferentes tons e atmosferas."
+        },
+        {
+          "question": "O audio gerado e livre de royalties?",
+          "answer": "Sim. Todos os arquivos gerados sao royalty-free e incluem licenca comercial."
+        },
+        {
+          "question": "Qual e a qualidade do audio gerado?",
+          "answer": "A qualidade e profissional, com alta clareza e dinamica controlada para uso imediato."
+        }
+      ]
+    }
+  }
+}

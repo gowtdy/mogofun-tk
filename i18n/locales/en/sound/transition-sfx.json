@@ -1,0 +1,75 @@
+{
+  "transition-sfx": {
+    "meta": {
+      "title": "Transition SFX",
+      "description": "Instantly create transition sfx with our advanced AI technology. Generate various type sounds including natural sounds, musical instruments and more.",
+      "keywords": "transition sfx, transition audio"
+    },
+    "hero": {
+      "title": "Transition SFX",
+      "subtitle": "Instantly transform text description into high-quality transition sfx"
+    },
+    "generator_subtitle": "Select from popular prompts below or write your own description to generate transition sfx",
+    "advantages": {
+      "title": "Why Choose Our Transition SFX Generator?",
+      "items": [
+        {
+          "title": "Instant Transition SFX Creation",
+          "description": "Generate professional transition sfx and transition audio instantly from text. Our tool turns your descriptions into whoosh, riser and scene-change audio in seconds—no large libraries or manual editing. Create unlimited variations for any project. Whether you need a sharp pass for cuts or a soft one for fades, the generator delivers clean, broadcast-ready results.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Unlimited Creative Possibilities",
+          "description": "Create any style of transition sfx you need: fast whooshes, slow sweeps, cinematic risers or subtle passes. The generator understands detailed descriptions and produces matching audio, so you get full creative freedom. Explore endless variations of transition audio for intros, scene changes, and edits. From subtle to dramatic, find the right fit for every project.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professional-Grade Audio Quality",
+          "description": "All transition sfx generated meet broadcast standards with high-fidelity output. The generator uses modern algorithms so each transition audio is clear and production-ready. All outputs are optimized for professional use in video, film, and content. Get consistent, studio-quality output for your work.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "About Transition SFX Generator",
+      "items": [
+        {
+          "question": "What is a transition sfx generator?",
+          "answer": "A transition sfx generator is an AI tool that turns text into custom whoosh, swoosh and scene-change audio. It produces professional output and transition audio for cuts, fades, and scene changes. The system uses neural audio synthesis trained on real transition and impact sounds, so you get natural, usable results without recording or large libraries. It's built for editors, creators, and filmmakers who need quick, varied output for any project."
+        },
+        {
+          "question": "How does the transition sfx generator work?",
+          "answer": "Our transition sfx generator first reads your text description and picks out traits like speed, intensity, and style. It then runs this through models trained on whoosh, riser, and scene-change audio to synthesize matching output. You can request a sharp transition audio for hard cuts, a soft one for fades, or something in between. The result is a clean, ready-to-use file you can download and use in your edit."
+        },
+        {
+          "question": "What makes this transition sfx generator unique?",
+          "answer": "Unlike fixed libraries, our transition sfx generator creates new variations on demand from plain text. You get custom output and transition audio without searching through thousands of files. The AI is trained on high-quality scene-change and whoosh audio, so each result is consistent and professional. You can generate as many variations as you need, making it easy to find the right fit for every scene or cut."
+        },
+        {
+          "question": "How to write effective prompts for transition sfx?",
+          "answer": "Use clear, specific descriptions. For example: \"quick transition sfx for a cut\" or \"soft transition audio for a fade.\" Mention speed (fast, slow), weight (light, heavy), and context (film, vlog, promo). The generator responds well to terms like whoosh, swoosh, riser, and cinematic. The more detail you give, the closer the output will match your vision. Include length or style if it matters for your edit."
+        },
+        {
+          "question": "How to use transition sfx in video content?",
+          "answer": "Use transition sfx and transition audio to smooth cuts, highlight scene changes, or add energy. Place a short whoosh on cuts so scenes flow better. Layer a light pass under montages or graphics for a polished feel. Vary the intensity—stronger for action, softer for calm moments. Our generator lets you create enough variations so each cut or scene change has a fitting result without repetition."
+        },
+        {
+          "question": "How to use transition sfx in game development?",
+          "answer": "Transition sfx works well for level loads, menu changes, and UI in games. Use a crisp transition audio for screen changes and stronger whooshes for dramatic moments. Our generator supports many variations so you can keep a consistent style while avoiding repetition. Create distinct sets for different levels or menus. The result is clear, professional output that fits your game's feel."
+        },
+        {
+          "question": "What types of transition sfx can I create?",
+          "answer": "You can create a wide range of transition sfx and transition audio styles: fast or slow, light or heavy, short or long. Use them for video cuts, scene changes, UI, or any whoosh-style need. The generator handles different contexts and styles with consistent quality, from subtle passes to dramatic impacts. Explore various options for any production need."
+        },
+        {
+          "question": "Are the generated transition sfx royalty-free?",
+          "answer": "Yes. All transition sfx and transition audio from our generator are royalty-free and come with a commercial license. You can use them in any project without extra fees or attribution. Every generated file is cleared for professional and commercial use. Download as many as you need for your projects."
+        },
+        {
+          "question": "What is the quality of the generated transition sfx?",
+          "answer": "Our transition sfx generator outputs professional-grade audio that meets common broadcast and production standards. You get high-resolution files, full frequency range, and controlled dynamics so each transition audio is clear and ready to drop into your project. Every generated file is suitable for professional use in video, film, and content."
+        }
+      ]
+    }
+  }
+}

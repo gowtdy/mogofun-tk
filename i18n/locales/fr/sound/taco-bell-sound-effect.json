@@ -1,0 +1,71 @@
+{
+  "taco-bell-sound-effect": {
+    "meta": {
+      "title": "Effet sonore Taco Bell",
+      "description": "Créez instantanément un effet sonore de type Taco Bell grâce à notre IA avancée. Générez divers types de sons : nature, instruments, et plus encore.",
+      "keywords": "effet sonore taco bell, son de canon"
+    },
+    "hero": {
+      "title": "Effet sonore Taco Bell",
+      "subtitle": "Transformez instantanément une description textuelle en effet sonore Taco Bell de haute qualité"
+    },
+    "generator_subtitle": "Choisissez parmi les invites populaires ci-dessous ou rédigez votre propre description pour générer un effet sonore Taco Bell",
+    "advantages": {
+      "title": "Pourquoi choisir notre générateur d’effet sonore Taco Bell ?",
+      "items": [
+        {
+          "title": "Créez des clips Taco Bell en un clin d’œil",
+          "description": "Générez un effet sonore Taco Bell propre à partir d’une courte invite en quelques secondes. Cela accélère l’idéation pour les montages courts, les mèmes, les moments UI et les transitions de marque sans passer des heures dans les bibliothèques stock. Dupliquez les prises pour comparer la brillance de l’effet Taco Bell à un transitoire de son de canon apparié.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Façonnez timbre, punch et résonance",
+          "description": "Réglez attaque, sustain et brillance pour les coupes comiques ou les beats dramatiques. Si une scène demande plus d’impact, intégrez une couche conceptuelle subtile de « son de canon » dans votre invite pour une force perçue plus forte tout en gardant la clarté. Mentionnez d’abord le caractère Taco Bell, puis empilez du grave pour que la cloche reste lisible face à cette masse supplémentaire issue du concept de couche canon.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualité audio digne du pro",
+          "description": "Les sorties sont prêtes au mix avec un niveau sonore stable et un détail transitoire cohérent. Les queues d’effet Taco Bell restent définies lorsque des pics de son de canon frappent à proximité, ce qui aide les indices à se traduire sur mobile, bureau et streaming sans perdre de définition dans des bandes sonores denses.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "À propos de notre générateur d’effet sonore Taco Bell",
+      "items": [
+        {
+          "question": "Qu’est-ce qu’un générateur d’effet sonore Taco Bell ?",
+          "answer": "C’est un outil audio IA qui transforme des invites textuelles en indices de cloche stylisés. Vous pouvez produire rapidement un effet Taco Bell adapté au timing, au rythme et au ton global du montage sans séances d’enregistrement manuel. Ajoutez des descripteurs de son de canon dans la même invite lorsque vous voulez un coup supplémentaire après la frappe Taco Bell."
+        },
+        {
+          "question": "Comment fonctionne le générateur ?",
+          "answer": "Le modèle interprète des descripteurs comme la longueur de sonnerie, la couleur métallique et l’intensité, puis synthétise un audio qui correspond. Itérez d’un léger scintillement Taco Bell à des transitoires de canon francs lorsque l’histoire exige un coup plus fort."
+        },
+        {
+          "question": "Puis-je combiner la couleur de cloche et l’énergie du canon ?",
+          "answer": "Oui. Demandez une courte frappe de canon sous votre piste Taco Bell pour que l’impact se ressente sans perdre l’identité de la cloche. Cela peut créer un coup perçu plus grand pour les transitions tout en gardant le caractère Taco Bell reconnaissable."
+        },
+        {
+          "question": "Comment rédiger des invites efficaces ?",
+          "answer": "Restez concis et précis : mentionnez le caractère source, la durée, la brillance tonale et l’intention de mix. Par exemple demandez un « effet Taco Bell à déclin serré » ou un « coup de canon unique avant le drop » pour un timing UI net."
+        },
+        {
+          "question": "Où utiliser ces sons générés ?",
+          "answer": "Ils conviennent aux montages réaction, clips sociaux, stingers de stream, transitions podcast et retours jeu. Employez des stingers Taco Bell pour le timing comique et des coups de canon pour les beats hype—la personnalisation cohérente facilite un style audio reconnaissable d’un projet à l’autre."
+        },
+        {
+          "question": "L’audio généré est-il libre de droits ?",
+          "answer": "Oui. Les fichiers générés sont libres de droits selon nos conditions de licence standard pour un usage créateur et commercial courant. Consultez la politique en vigueur avant grandes campagnes ou accords de distribution particuliers."
+        },
+        {
+          "question": "Quelle qualité puis-je attendre des exports ?",
+          "answer": "Attendez-vous à des fichiers prêts prod avec réponse transitoire claire, dynamique maîtrisée et lecture fiable, même lorsque des pics de canon voisinent des cloches brillantes. Vous pouvez toujours appliquer votre propre chaîne EQ et limiting pour viser le loudness et le timbre finaux."
+        },
+        {
+          "question": "Comment garder un effet Taco Bell clair dans un mix chargé ?",
+          "answer": "Utilisez des queues courtes, creusez une petite poche EQ autour des fréquences de dialogue concurrentes et gardez un contrôle modéré des pics. L’effet Taco Bell reste présent sans masquer la parole ou les éléments musicaux clés."
+        }
+      ]
+    }
+  }
+}

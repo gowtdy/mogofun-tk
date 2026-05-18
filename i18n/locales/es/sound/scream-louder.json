@@ -1,0 +1,71 @@
+{
+  "scream-louder": {
+    "meta": {
+      "title": "Gritar más fuerte",
+      "description": "Crea al instante «gritar más fuerte» con nuestra IA avanzada. Genera varios tipos de sonidos: naturales, instrumentos y más.",
+      "keywords": "gritar más fuerte, grito fuerte"
+    },
+    "hero": {
+      "title": "Gritar más fuerte",
+      "subtitle": "Transforma al instante una descripción en texto en audio de alta calidad «gritar más fuerte» y grito fuerte"
+    },
+    "generator_subtitle": "Elige entre los prompts populares de abajo o escribe tu propia descripción para generar «gritar más fuerte»",
+    "advantages": {
+      "title": "Por qué elegir nuestro generador «gritar más fuerte»",
+      "items": [
+        {
+          "title": "Crea indicios «gritar más fuerte» en segundos",
+          "description": "Convierte texto de prompt conciso en efectos vocales de alta intensidad y momentos «gritar más fuerte» sin hurgar bibliotecas enormes. El modelo interpreta urgencia, tono y timing para que cada clip encaje en tráilers, cinemáticas de juego y montajes dramáticos. La iteración rápida ayuda a los equipos a comparar versiones antes del cierre final.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Intensidad flexible de lo tenso a lo explosivo",
+          "description": "Refina detalles del prompt para pasar de tensión controlada a la energía del grito fuerte preservando la legibilidad de la escena. Ajusta duración, textura vocal y color emocional para cada caso, luego exporta alternativas para pruebas de timing A/B. El flujo mantiene un diseño sonoro expresivo sin cues de stock repetitivas.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Calidad de audio profesional",
+          "description": "Las salidas vienen listas para mezclar con loudness estable y transientes limpios, para que las tomas «gritar más fuerte» y las capas de grito fuerte encajen con claridad en la mezcla. Los archivos siguen nítidos tras la compresión habitual de plataformas, ayudando a que los picos emocionales se traduzcan en móvil, escritorio y pipelines de broadcast.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Sobre nuestro generador «gritar más fuerte»",
+      "items": [
+        {
+          "question": "¿Qué es un generador «gritar más fuerte»?",
+          "answer": "Es una herramienta de audio con IA que transforma prompts de texto en efectos vocales dramáticos y ráfagas «gritar más fuerte» para escenas de gran impacto. En lugar de grabar muchas tomas, generas clips a medida con rapidez y los pruebas directamente en la línea de tiempo."
+        },
+        {
+          "question": "¿Cómo funciona esta herramienta «gritar más fuerte»?",
+          "answer": "El sistema analiza emoción, ritmo, intensidad y contexto de tu prompt y sintetiza audio alineado con esas señales, desde tensión suave hasta grito fuerte. Puedes pulir la redacción entre pasadas para afinar ataque, sustain y timing hasta que el efecto encaje en el montaje."
+        },
+        {
+          "question": "¿Por qué usar esto en lugar de bibliotecas de stock?",
+          "answer": "Las bibliotecas de stock pueden sonar repetitivas y no coincidir con el ritmo preciso de la escena. La generación guiada por prompts crea tomas «gritar más fuerte» y grito fuerte nuevas bajo demanda, haciendo cada momento más específico y reduciendo la búsqueda manual de audio."
+        },
+        {
+          "question": "¿Cómo debo escribir prompts para efectos «gritar más fuerte»?",
+          "answer": "Describe quién reacciona, qué dispara el estallido vocal y cuánto debe durar la cue. Los prompts específicos como «grito de mando corto antes del impacto» o «grito fuerte sobre escombros al derrumbarse» suelen dar mejor timing que peticiones vagas de una sola palabra."
+        },
+        {
+          "question": "¿Cuándo usar grito fuerte en una mezcla?",
+          "answer": "Usa grito fuerte para transiciones de clímax, picos de batalla, latidos de pánico o revelaciones de mucho estrés. Mantén los niveles por debajo del diálogo principal y automatiza la ganancia para que el impacto emocional suba sin tapar la voz importante."
+        },
+        {
+          "question": "¿Qué tipos de variantes puedo generar?",
+          "answer": "Puedes crear llamadas cortas, gritos tensos, reacciones de multitud en capas, ráfagas cinematográficas estilizadas y picos «gritar más fuerte» junto con grito fuerte sostenido. Este rango ayuda a editores y desarrolladores a probar el ritmo emocional antes de la exportación final."
+        },
+        {
+          "question": "¿El audio generado es libre de regalías?",
+          "answer": "Sí. Los archivos generados son libres de regalías bajo nuestra licencia para el uso estándar de creadores y comercial. Revisa los términos más recientes antes de grandes campañas publicitarias o distribución en broadcast."
+        },
+        {
+          "question": "¿Qué calidad debo esperar de las exportaciones?",
+          "answer": "Espera una salida lista para producción con detalle claro, dinámica estable y reproducción predecible en todos los dispositivos, incluso al subir niveles «gritar más fuerte» o apilar grito fuerte. Para la entrega final, aplica tu cadena habitual de masterización para alinear los objetivos de loudness de las plataformas."
+        }
+      ]
+    }
+  }
+}

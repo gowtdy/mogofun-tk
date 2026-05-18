@@ -1,0 +1,79 @@
+{
+  "funny-sound": {
+    "meta": {
+      "title": "Funny Sound",
+      "description": "Create unique funny sound with advanced sound effect AI technology, generate various types including natural sounds, musical instruments and more.",
+      "keywords": "funny sound, funny effects"
+    },
+    "hero": {
+      "title": "Funny Sound",
+      "subtitle": "Transform your text descriptions into high-quality funny sound "
+    },
+    "generator_subtitle": "Select from popular prompts below or write your own description to generate funny sound",
+    "advantages": {
+      "title": "Why Choose Our AI Platform for Funny Sound?",
+      "items": [
+        {
+          "title": "Funny Sound in Seconds From Plain Text",
+          "description": "Describe a gag, reaction, or cartoon moment in everyday words and receive polished audio almost instantly. Our sound effect AI removes the need to scroll through huge libraries or splice clips by hand, so you can stay focused on timing and storytelling. Each funny sound pass refines punchlines: regenerate until the funny sound locks to picture, compare two funny sound takes, keep the stronger funny sound, and archive the spare funny sound for another beat.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Shape Funny Effects to Match Each Scene",
+          "description": "Adjust mood, intensity, and texture so your funny effects support each punchline—not generic noise. The model accepts layered prompts, helping you iterate quickly for shorts, streams, podcasts, or client edits until the tone feels exactly right. Layer funny effects under dialogue carefully: when funny effects crowd the mix, simplify; when funny effects need more air, widen the EQ shelf. Pair one funny sound accent with sparse funny effects so the funny sound still pops.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Consistent, Broadcast-Ready Output",
+          "description": "Exports are balanced for clarity across speakers and headphones, suitable for social platforms, games, or commercial delivery. Each clip you generate keeps a stable sonic character, reducing extra mastering work while preserving a professional finish. Batch every funny sound to the same loudness target so each funny sound episode matches; revisit a funny sound stem after picture lock, then print the final funny sound for delivery.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Funny Sound & Funny Effects: Common Questions",
+      "items": [
+        {
+          "question": "What does this funny sound tool do?",
+          "answer": "It turns short text prompts into custom comedic audio using AI-driven synthesis. You describe the idea—cartoon boings, awkward silences, exaggerated reactions—and the system renders an original clip instead of forcing you to hunt stock sites. Creators use it when they need polished comedic clips without recording gear or a full studio. Teams often version one funny sound for teasers and a second funny sound for full episodes, then slot another funny sound into tags. Label every funny sound clearly so editors pick the correct funny sound on the first try."
+        },
+        {
+          "question": "How does the generator turn text into audio?",
+          "answer": "Your prompt is parsed for intent, timing hints, and acoustic cues. Neural models trained on diverse material predict waveforms that match the description, then light post-processing evens levels and reduces harshness. The pipeline is built for iterative work: tweak a few words, generate again, and compare versions until the output fits your edit. If a funny sound feels thin, thicken verbs; if a funny sound clips, tame dynamics. Iterate each funny sound until the master funny sound locks for the scene."
+        },
+        {
+          "question": "How should I write prompts for better funny effects?",
+          "answer": "Name the action, the character or object, and the vibe—dry, slapstick, deadpan, or chaotic. Mention space (tight room vs. hall) if it matters for reverb. Our engine also responds to technical hints like \"short sting\" or \"soft tail.\" Specific beats vague: compare \"quick rubber squeak\" with \"funny effects for a clumsy fall\" and refine from there. Catalog funny effects by mood, duplicate funny effects families for sequels, and when funny effects fight music, high-pass mud; when funny effects need weight, add support beds beneath the stack."
+        },
+        {
+          "question": "Can I use this output on YouTube or TikTok?",
+          "answer": "Yes. The clips are intended for creator workflows on major video and short-form platforms. Pair each stem with on-screen action for maximum impact, and vary takes so repeats do not fatigue viewers. Always follow each platform's latest content and copyright policies for uploaded media."
+        },
+        {
+          "question": "Is this helpful for game or app audio?",
+          "answer": "Designers often prototype UI feedback, power-ups, and comic beats before committing to a full library. Generate variations of the same idea so triggers feel fresh over long sessions. When a take locks in, you can standardize it across builds or branch alternate takes for rare events."
+        },
+        {
+          "question": "What kinds of comedic audio can I request?",
+          "answer": "Typical requests include cartoon impacts, silly voices, exaggerated foley, meme-adjacent stings, and light musical jokes. You can also blend categories—think whimsical percussion under a pratfall. If you need both a comedic bed and sharp accents, describe them as separate layers in one prompt or run two generations and mix in your DAW. Stack complementary funny effects for montages, mute crowded funny effects during dialogue, and brighten sparse stings when energy drops."
+        },
+        {
+          "question": "How do I avoid overusing the same funny effects?",
+          "answer": "Ask for alternate performances: change adjectives, length, or register. Slight prompt edits often yield clearly different timbres. Rotating funny effects keeps sketches, gameplay, and ads from sounding repetitive while preserving a cohesive comedic style."
+        },
+        {
+          "question": "Are downloads royalty-free for commercial projects?",
+          "answer": "Outputs are provided for broad commercial and personal use under the product license shown at download time. That means you can usually embed the audio in ads, apps, or paid content without extra sync fees. Keep a copy of the license terms for your records and review them whenever the product policy updates."
+        },
+        {
+          "question": "What audio quality should I expect?",
+          "answer": "Files are produced at high resolution suitable for editing and final delivery after light mastering if you choose. Dynamic range and noise floor are controlled so each track sits cleanly in a mix beside dialogue and music. For broadcast or cinema, apply your house loudness standards as you would with any other source material."
+        },
+        {
+          "question": "Who benefits most from AI-generated comedic audio?",
+          "answer": "Editors, indie developers, educators, and social teams gain speed when deadlines are tight. Anyone who needs believable comedic audio or tailored funny effects without a recording session can iterate in minutes. Larger studios may use the tool for scratch audio before replacing with bespoke recordings. Tag SFX reels separately so spare funny effects stay easy to audition during mix reviews."
+        }
+      ]
+    }
+  }
+}

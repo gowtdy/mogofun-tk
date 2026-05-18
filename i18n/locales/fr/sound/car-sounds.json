@@ -1,0 +1,75 @@
+{
+  "car-sounds": {
+    "meta": {
+      "title": "Sons de voiture",
+      "description": "Créez instantanément des sons de voiture avec notre technologie IA avancée. Générez divers types d'audio : tons naturels, instruments de musique et plus.",
+      "keywords": "sons voiture, son de voiture"
+    },
+    "hero": {
+      "title": "Sons de voiture",
+      "subtitle": "Transformez instantanément une description textuelle en sons de voiture de haute qualité"
+    },
+    "generator_subtitle": "Choisissez parmi les suggestions populaires ci-dessous ou rédigez votre propre description pour générer des sons de voiture",
+    "advantages": {
+      "title": "Pourquoi choisir notre générateur de sons de voiture ?",
+      "items": [
+        {
+          "title": "Création instantanée de sons de voiture",
+          "description": "Créez des sons de voiture professionnels et des extraits son de voiture instantanément à partir du texte. Notre IA transforme vos descriptions en klaxon, moteur qui rugit et portière qui claque en quelques secondes—sans bibliothèques d'échantillons ni montage manuel. Besoin de sons de voiture nets pour l'interface ou de son de voiture complet pour une scène ? Générez des variations illimitées avec une qualité prête à la diffusion pour tout projet.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Possibilités créatives illimitées",
+          "description": "Créez tout style que vous imaginez : klaxon, moteur qui rugit, portière qui claque ou ambiance son de voiture. L'outil comprend les descriptions détaillées et vous offre une liberté créative totale. Explorez des options infinies pour vidéos, jeux et applications. Des sons de voiture discrets au son de voiture superposé pour le cinéma, obtenez le bon extrait pour chaque scénario.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualité audio professionnelle",
+          "description": "Chaque clip de notre générateur respecte les normes de diffusion avec une sortie haute fidélité. Des algorithmes de pointe garantissent des extraits et un son de voiture de qualité studio. Tous les clips sont prêts pour la production et optimisés pour un usage professionnel, avec couverture complète du spectre et résultats authentiques et naturels.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "FAQ Sons de voiture",
+      "items": [
+        {
+          "question": "Qu'est-ce qu'un générateur de sons de voiture ?",
+          "answer": "Notre générateur est un outil IA qui transforme le texte en sons de voiture et son de voiture personnalisés. Il utilise le traitement du langage naturel et la synthèse neuronale pour produire des extraits professionnels—du klaxon et du moteur qui rugit à la portière qui claque. Il convient aux créateurs, monteurs vidéo et développeurs de jeux qui ont besoin de sons de voiture et de son de voiture rapides et authentiques avec des résultats précis et haute fidélité."
+        },
+        {
+          "question": "Comment fonctionne le générateur ?",
+          "answer": "L'outil utilise un pipeline en plusieurs étapes pour transformer le texte en extraits de haute qualité. Il analyse votre description pour capturer l'intensité, le style et le contexte, puis fait passer ces données dans des réseaux de neurones entraînés pour la synthèse véhicule et moteur. Vous pouvez demander des sons de voiture courts pour l'interface ou un son de voiture plus long pour l'ambiance. Chaque clip respecte les normes de diffusion."
+        },
+        {
+          "question": "Qu'est-ce qui rend ce générateur de sons de voiture unique ?",
+          "answer": "Notre générateur se distingue par la personnalisation instantanée et la qualité professionnelle. Contrairement aux bibliothèques statiques, il crée des extraits sur mesure à la demande. Entraîné sur des échantillons de haute qualité, il livre des sons de voiture et un son de voiture réalistes. Vous bénéficiez de variations illimitées et d'une liberté créative avec un contrôle fin."
+        },
+        {
+          "question": "Comment rédiger des prompts efficaces pour les sons de voiture ?",
+          "answer": "Rédigez des descriptions claires et précises. Essayez « sons de voiture pour klaxon » ou « son de voiture pour moteur qui rugit ». Incluez le style (réaliste, cinématique), l'intensité et le contexte. Le générateur répond bien aux termes comme klaxon, moteur, portière qui claque et son de voiture. Plus de contexte donne de meilleurs résultats."
+        },
+        {
+          "question": "Comment utiliser les sons de voiture dans du contenu vidéo ?",
+          "answer": "Cartographiez les scènes de votre vidéo et placez des extraits personnalisés là où ils ajoutent de l'impact. Créez des extraits de klaxon et de moteur pour chaque moment—d'un fond discret à des impacts dramatiques. Superposez le son de voiture pour un audio riche et engageant qui souligne le temps ou le lieu."
+        },
+        {
+          "question": "Comment utiliser le générateur dans le développement de jeux ?",
+          "answer": "Notre générateur prend en charge les extraits procéduraux pour les jeux. Créez des variations pour que les joueurs n'entendent rarement le même clip deux fois. Produisez différentes options pour l'interface, les niveaux et les événements tout en gardant un style cohérent. L'outil livre des sons de voiture et un son de voiture de qualité professionnelle qui renforcent l'immersion et le retour utilisateur."
+        },
+        {
+          "question": "Quels types de sons de voiture puis-je créer ?",
+          "answer": "Vous pouvez créer une large gamme : klaxon, moteur qui rugit, portière qui claque et ambiance son de voiture. Des styles du doux au fort (réaliste, cinématique, vintage). L'outil gère ces cas avec une qualité constante et livre des résultats professionnels pour tout projet."
+        },
+        {
+          "question": "Les clips générés sont-ils libres de droits ?",
+          "answer": "Oui. Tous les clips de notre générateur sont libres de droits et incluent une licence commerciale. Vous pouvez utiliser les clips générés dans tout projet sans frais supplémentaires ni attribution. Chaque clip est autorisé pour une utilisation immédiate dans un cadre professionnel et commercial."
+        },
+        {
+          "question": "Quelle qualité le générateur produit-il ?",
+          "answer": "Notre générateur produit des extraits de niveau professionnel conformes aux normes de l'industrie. Vous disposez d'options son de voiture haute résolution jusqu'à 192 kHz/24 bits, d'une plage de fréquences complète et d'une dynamique maîtrisée. Chaque clip est prêt à la diffusion et adapté à la production professionnelle et aux projets créatifs."
+        }
+      ]
+    }
+  }
+}

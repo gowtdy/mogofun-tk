@@ -1,0 +1,75 @@
+{
+  "celebration-sound-effect": {
+    "meta": {
+      "title": "Celebration Sound Effect",
+      "description": "Instantly create celebration sound effect with our advanced AI technology. Generate various type sounds including natural sounds, musical instruments and more.",
+      "keywords": "celebration sound effect, celebration sound"
+    },
+    "hero": {
+      "title": "Celebration Sound Effect",
+      "subtitle": "Instantly transform text description into high-quality celebration sound effect"
+    },
+    "generator_subtitle": "Select from popular prompts below or write your own description to generate celebration sound effect",
+    "advantages": {
+      "title": "Why Choose Our Celebration Sound Effect Generator?",
+      "items": [
+        {
+          "title": "Instant Celebration Sound Effect Creation",
+          "description": "Generate professional celebration sound effect instantly from text. Our tool turns your descriptions into cheers, applause, party horns and confetti pops in seconds—no large libraries or manual editing. Create unlimited variations for video, ads, or events. Whether you need crowd celebration sound effect, a victory fanfare, or birthday party effects, the generator delivers clean, broadcast-ready results.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Unlimited Creative Possibilities",
+          "description": "Create any style of celebration sound effect you need: crowd cheers, champagne pop, fireworks, or subtle effects. The generator understands detailed descriptions and produces matching audio for full creative freedom. Explore variations for film, podcasts, and content. From quiet applause to big party celebration sound effect, find the right fit for every project.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professional-Grade Audio Quality",
+          "description": "All celebration sound effect generated meets broadcast standards with high-fidelity output. The generator uses modern algorithms so each celebration audio is clear and production-ready. Outputs are optimized for video, film, and media. Get consistent, studio-quality celebration audio for your work.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "About Celebration Sound Effect Generator",
+      "items": [
+        {
+          "question": "What is a celebration sound effect generator?",
+          "answer": "A celebration sound effect generator is an AI tool that turns text into custom celebration sound effect such as cheers, applause, party horns, and fanfares. It produces professional audio for video, games, and ads without recording or large libraries. The system uses neural synthesis trained on real celebration and crowd audio, so you get natural, usable results. It's built for creators who need quick, varied celebration audio for any project."
+        },
+        {
+          "question": "How does the celebration sound effect generator work?",
+          "answer": "Our generator reads your text description and picks out traits like mood, intensity, and event type. It then synthesizes matching celebration sound effect—crowd cheers, applause, party blasts, or victory fanfare. You can request a wedding toast pop, sports crowd roar, or birthday party noise. The result is a clean, ready-to-use file you can download and drop into your project."
+        },
+        {
+          "question": "What makes this celebration sound effect generator unique?",
+          "answer": "Unlike fixed libraries, our celebration sound effect generator creates new variations on demand from plain text. You get custom celebration audio without searching through thousands of files. The AI is trained on high-quality party and crowd audio, so each result is consistent and professional. Generate as many variations as you need for every scene or edit."
+        },
+        {
+          "question": "How to write effective prompts for celebration sound effect?",
+          "answer": "Use clear, specific descriptions. For example: \"crowd cheering at sports victory\" or \"birthday party celebration audio with confetti.\" Mention event (wedding, game, party), intensity (subtle, loud, explosive), and elements (applause, horns, cheers). The generator responds well to terms like cheers, applause, party, and celebration audio. More detail helps the output match your vision."
+        },
+        {
+          "question": "How to use celebration sound effect in video content?",
+          "answer": "Use celebration sound effect to highlight wins, endings, or happy moments. Layer crowd cheers under b-roll, add applause for reveals, or use subtle celebration audio for transitions. Vary the intensity—bigger for climaxes, softer for gentle moments. Our generator lets you create enough variations so each scene has a fitting celebration audio without repetition."
+        },
+        {
+          "question": "How to use celebration sound effect in game development?",
+          "answer": "Celebration sound effect works well for level complete, achievements, and victory screens. Use cheers for wins, fanfares for milestones, and celebration audio for rewards. Our generator supports many variations so you can keep a consistent style. Create distinct sets for different game moments with clear, professional output."
+        },
+        {
+          "question": "What types of celebration sound effect can I create?",
+          "answer": "You can create a wide range of celebration sound effect: crowd cheers, applause, party horns, champagne pop, fireworks, confetti, victory fanfare, and birthday effects. Use them for film, games, podcasts, or any project needing celebration audio. The generator handles different contexts and styles with consistent quality."
+        },
+        {
+          "question": "Are the generated celebration sound effect royalty-free?",
+          "answer": "Yes. All celebration sound effect from our generator are royalty-free and come with a commercial license. You can use them in any project without extra fees or attribution. Every generated celebration sound effect file is cleared for professional and commercial use. Download as many as you need for your projects."
+        },
+        {
+          "question": "What is the quality of the generated celebration sound effect?",
+          "answer": "Our celebration sound effect generator outputs professional-grade audio that meets common broadcast and production standards. You get high-resolution files, full frequency range, and controlled dynamics so each celebration audio is clear and ready to drop into your project. Every generated file is suitable for professional use in video, film, and content."
+        }
+      ]
+    }
+  }
+}

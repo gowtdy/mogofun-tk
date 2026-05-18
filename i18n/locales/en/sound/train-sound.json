@@ -1,0 +1,75 @@
+{
+  "train-sound": {
+    "meta": {
+      "title": "Train Sound",
+      "description": "Instantly create train sound with our advanced AI technology. Generate various types of audio including natural tones, musical instruments and more.",
+      "keywords": "train sound, sound of train"
+    },
+    "hero": {
+      "title": "Train Sound",
+      "subtitle": "Instantly transform text description into high-quality train sound"
+    },
+    "generator_subtitle": "Select from popular prompts below or write your own description to generate train sound",
+    "advantages": {
+      "title": "Why Choose Our Train Sound Generator?",
+      "items": [
+        {
+          "title": "Instant Train Sound Creation",
+          "description": "Generate professional train sound and railway audio instantly from text. Our tool turns your descriptions into whistle and passing clips in seconds—no large libraries or manual editing. Create unlimited variations for any project. Whether you need crisp clips for UI or full sound of train for a scene, the generator delivers clean, broadcast-ready results.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Unlimited Creative Possibilities",
+          "description": "Create any style of railway audio you need: whistle, passing, inside cabin or sound of train ambience. The generator understands detailed descriptions and produces matching audio, so you get full creative freedom. Explore endless variations for games, videos, and apps. From subtle to dramatic, find the right fit for every project.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professional-Grade Audio Quality",
+          "description": "All generated clips meet broadcast standards with high-fidelity output. The generator uses modern algorithms so each clip is clear and production-ready. All outputs are optimized for professional use in video, games, and content. Get consistent, studio-quality railway audio and sound of train for your work.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "About Train Sound Generator",
+      "items": [
+        {
+          "question": "What is a train sound generator?",
+          "answer": "A train sound generator is an AI tool that turns text into custom train sound and sound of train audio. It produces professional output for games, videos, and apps. The system uses neural audio synthesis trained on real railway samples, so you get natural, usable results without recording or large libraries. It's built for creators, game developers, and editors who need quick, varied train sound and sound of train for any project."
+        },
+        {
+          "question": "How does the train sound generator work?",
+          "answer": "Our generator first reads your text description and picks out traits like intensity, style, and context. It then runs this through models trained on whistle, railway, and passing audio to synthesize matching output. You can request a short sound of train for UI or longer train sound for ambience. The result is a clean, ready-to-use file you can download and use in your project."
+        },
+        {
+          "question": "What makes this train sound generator unique?",
+          "answer": "Unlike fixed libraries, our generator creates new train sound and sound of train on demand from plain text. You get custom output without searching through thousands of files. The AI is trained on high-quality railway audio, so each result is consistent and professional. You can generate as many variations as you need, making it easy to find the right train sound for every scene or interaction."
+        },
+        {
+          "question": "How to write effective prompts for train sound?",
+          "answer": "Use clear, specific descriptions. For example: \"train sound for a whistle\" or \"sound of train for passing.\" Mention style (realistic, cinematic), context (game, video, film), and intensity. The generator responds well to terms like whistle, railway, passing, and horn. The more detail you give, the closer the output will match your vision. Include length or style if it matters for your project."
+        },
+        {
+          "question": "How to use railway audio in video content?",
+          "answer": "Use train sound and sound of train to add realism to travel scenes, documentaries, or ads. Place a short whistle or pass-by where it fits the action. Layer clips or cabin ambience for key moments in montages. Vary the intensity—subtle for background, clearer for focus. Our generator lets you create enough variations so each scene has a fitting result without repetition."
+        },
+        {
+          "question": "How to use railway audio in game development?",
+          "answer": "Sound of train and railway clips work well for transport games, open-world titles, and level ambience. Use a crisp sound of train for UI or cutscene, and fuller train sound for in-game scenes. Our generator supports many variations so you can keep a consistent style while avoiding repetition. Create distinct sets of sound of train for different locations or eras. The result is clear, professional train sound that fits your game's feel."
+        },
+        {
+          "question": "What types of train sound can I create?",
+          "answer": "You can create a wide range of train sound: whistle, passing, inside cabin, sound of train ambience, and horn. Use them for games, videos, film, or any railway-related need. The generator handles different contexts and styles with consistent quality, from single hits to layered clips. Explore various railway options for any production need."
+        },
+        {
+          "question": "Are the generated clips royalty-free?",
+          "answer": "Yes. All generated clips from our generator are royalty-free and come with a commercial license. You can use the generated audio in any project without extra fees or attribution. Every generated file is cleared for professional and commercial use. Download as many as you need for your projects."
+        },
+        {
+          "question": "What is the quality of the generated train sound?",
+          "answer": "Our generator outputs professional-grade train sound that meets common broadcast and production standards. You get high-resolution files, full frequency range, and controlled dynamics so each clip is clear and ready to drop into your project. Every generated train sound and sound of train is suitable for professional use in video, games, and apps."
+        }
+      ]
+    }
+  }
+}

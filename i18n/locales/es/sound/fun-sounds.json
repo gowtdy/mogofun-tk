@@ -1,0 +1,75 @@
+{
+  "fun-sounds": {
+    "meta": {
+      "title": "Sonidos divertidos",
+      "description": "Crea al instante sonidos divertidos con nuestra IA avanzada: sonidos naturales, instrumentos y más.",
+      "keywords": "sonidos divertidos, efectos graciosos"
+    },
+    "hero": {
+      "title": "Sonidos divertidos",
+      "subtitle": "Transforma al instante descripciones de texto en sonidos divertidos de alta calidad"
+    },
+    "generator_subtitle": "Elige entre los prompts populares de abajo o escribe tu propia descripción para generar sonidos divertidos",
+    "advantages": {
+      "title": "¿Por qué elegir nuestro generador de sonidos divertidos?",
+      "items": [
+        {
+          "title": "Crea sonidos divertidos al instante desde texto",
+          "description": "Describe un clic juguetón, un rebote o un sting y obtén un clip pulido en segundos—sin sesiones de micrófono ni desplazarte sin fin por bibliotecas. La IA capta humor, timing y textura para que los resultados se sientan vivos y encajen directo en el montaje. Itera rápido para bocetos, alertas o publicaciones sociales manteniendo niveles listos para mezclar. Apila sonidos divertidos extra cuando storyboardees una serie y orienta los prompts hacia golpes de efectos graciosos que sigan limpios en altavoces de móvil.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Estilos flexibles para sketches, juegos y shorts",
+          "description": "Pide pops de dibujo, whooshes tontos o acentos cómicos discretos; el modelo se adapta al ambiente que nombres. Una redacción clara sobre energía y duración da tomas más cerradas, sutiles o exageradas. Coloca las salidas bajo diálogo, transiciones o stingers sin romper el equilibrio de la sesión. Usa el mismo flujo de sonidos divertidos para juegos, pódcasts y reels, reforzando picos de efectos graciosos solo donde el mix tenga margen.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Audio listo para producción en el que puedes confiar",
+          "description": "Las descargas buscan transientes inteligibles y loudness uniforme para simplificar normalización y limitación. Los archivos funcionan bien en timelines, builds ligeros de juegos y camas de pódcast. Un procesamiento coherente significa menos sorpresas cuando compañeros o clientes reabren el mismo proyecto. Pasa sonidos divertidos entre editores con picos predecibles y doma picos de efectos graciosos para loudness segura en emisión.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Sobre nuestro generador de sonidos divertidos",
+      "items": [
+        {
+          "question": "¿Qué es un generador de sonidos divertidos?",
+          "answer": "Es una herramienta de IA que sintetiza clips cortos a partir de prompts en lenguaje natural en lugar de grabación de campo. Escribes el gesto o humor que quieres—toques juguetones, rebotes de goma, impactos raros—y recibes un archivo adecuado para flujos cotidianos, desde streams hasta demos en clase. Los equipos suelen pregenerar sonidos divertidos antes del picture lock, mezclando timing slapstick con color de efectos graciosos cuando el brief lo pide."
+        },
+        {
+          "question": "¿Cómo funciona esta herramienta de sonidos divertidos?",
+          "answer": "El sistema infiere rasgos como energía, duración y carácter desde tu texto y renderiza audio alineado con ese brief. Ajusta adjetivos, pistas de ritmo o referencias de escena entre pases hasta que la toma encaje con tu punchline o transición. Cada revisión ajusta sonidos divertidos a tu lista de corte, y notas explícitas de tempo ayudan a que los golpes de efectos graciosos caigan en el fotograma."
+        },
+        {
+          "question": "¿Qué hace distinto a este generador de las bibliotecas de stock?",
+          "answer": "Los catálogos ofrecen interpretaciones fijas; aquí cada render puede ser único porque la salida se compone a partir de tu redacción. Ayuda cuando necesitas un beat de chiste o un puente que ningún loop prefabricado cubre, sobre todo en ediciones rápidas. Los packs genéricos de sonidos divertidos rara vez entregan matices de efectos graciosos de escena en escena; la redacción a medida gana cuando los sonidos divertidos deben sonar on-brand."
+        },
+        {
+          "question": "¿Cómo debo escribir prompts para sonidos divertidos?",
+          "answer": "Nombra la acción (toque, zip, desliz), el color emocional (pícaro, sorprendido, deadpan) y pistas de tempo. Ejemplos como «rebote de goma rápido para un gag» o «desliz suave bajo una punchline» guían mejor al modelo que un solo adjetivo vago. Verbos fuertes ayudan a que los sonidos divertidos se disparen justo donde cortas; contrastes (línea calmada, luego chasquido) orientan drops de efectos graciosos tras diálogo tranquilo."
+        },
+        {
+          "question": "¿Puedo apuntar a efectos graciosos suficientes para memes o clips de reacción?",
+          "answer": "Sí. Menciona referencias cercanas a memes o dibujos cuando quieras algo compartible y mantén la descripción específica para que el humor se lea en la forma de onda. Combina esos momentos con notas de mezcla más amplias para que el clip siga claro junto a locución o música. Etiqueta callbacks culturales cuando quieras efectos graciosos reconocibles al instante y guarda sonidos divertidos alternativos para pruebas A/B en miniaturas."
+        },
+        {
+          "question": "¿Cómo uso el audio generado en vídeo o pódcasts?",
+          "answer": "Superpone bajo edición de imagen, úsalo como puntuación entre segmentos o colócalo detrás del diálogo a niveles más bajos. Para que los momentos de efectos graciosos se lean en altavoces pequeños, mantén picos unos dB por debajo de la narración para que el chiste siga nítido. Varía la intensidad por escena para dar novedad sin fatiga, y recorta cabezas o colas en tu DAW si necesitas un encuadre más ajustado. Haz sidechain ligero a la música para que los golpes de efectos graciosos respiren y escucha sonidos divertidos compañeros para stingers de reserva."
+        },
+        {
+          "question": "¿Qué tipos de audio puedo pedir más allá de sonidos divertidos básicos?",
+          "answer": "Explora percusión ligera, tonos de UI caprichosos, pasos exagerados y otras texturas lúdicas. Describe contexto—UI de juego móvil, sting de programa, rompehielos en clase—para que el tono sea apropiado y aún animado. Capa sutiles matices de efectos graciosos bajo movimiento de UI y pide sonidos divertidos a juego para personajes o segmentos recurrentes."
+        },
+        {
+          "question": "¿El audio generado es libre de royalties?",
+          "answer": "Sí. Las descargas son libres de royalties para uso típico de creadores y comercial bajo nuestra licencia, sin tasas extra por clip. Revisa siempre los términos más recientes en la página del producto antes de grandes campañas o emisiones en broadcast. Puedes colocar sonidos divertidos en anuncios, entregas a cliente y streams en vivo bajo esos términos cuando el uso permanezca dentro del acuerdo."
+        },
+        {
+          "question": "¿Qué calidad debo esperar de los archivos?",
+          "answer": "Espera ancho de banda claro, dinámica controlada y formatos adecuados para suites de edición y entrega web. Si necesitas especificaciones de loudness para broadcast, ejecuta tu cadena habitual de masterización tras exportar para que los sonidos divertidos se alineen con narración y música. Masteriza con suavidad para que los transientes de efectos graciosos sigan aireados y compara pases hasta que los sonidos divertidos suenen seguros junto a la locución."
+        }
+      ]
+    }
+  }
+}

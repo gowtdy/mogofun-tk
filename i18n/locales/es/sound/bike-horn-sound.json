@@ -1,0 +1,75 @@
+{
+  "bike-horn-sound": {
+    "meta": {
+      "title": "Sonido de bocina de bicicleta",
+      "description": "Crea sonido de bocina de bicicleta al instante con nuestra tecnología de IA avanzada. Genera diversos tipos de audio: tonos naturales, instrumentos y más.",
+      "keywords": "sonido bocina bicicleta, timbre de bicicleta"
+    },
+    "hero": {
+      "title": "Sonido de bocina de bicicleta",
+      "subtitle": "Transforma descripciones de texto en sonido de bocina de bicicleta de alta calidad al instante"
+    },
+    "generator_subtitle": "Elige entre los prompts populares de abajo o escribe tu propia descripción para generar sonido de bocina de bicicleta",
+    "advantages": {
+      "title": "¿Por qué elegir nuestro generador de sonido de bocina de bicicleta?",
+      "items": [
+        {
+          "title": "Creación instantánea de sonido de bocina de bicicleta",
+          "description": "Genera sonido de bocina de bicicleta profesional y timbre de bicicleta al instante desde el texto. Nuestra herramienta convierte tus descripciones en bocina, timbre y audio de alerta en segundos—sin bibliotecas grandes ni edición manual. Crea variaciones ilimitadas para cualquier proyecto. Ya sea un timbre nítido para la interfaz o una bocina completa para una escena, el generador entrega resultados limpios y listos para emisión.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Posibilidades creativas ilimitadas",
+          "description": "Crea cualquier estilo de sonido de bocina de bicicleta que necesites: bocina clásica, timbre de bicicleta o bip estilo juguete. El generador entiende descripciones detalladas y produce audio correspondiente, con total libertad creativa. Explora variaciones infinitas de timbre y bocina para juegos, vídeos y aplicaciones. De sutil a fuerte, encuentra el ajuste adecuado para cada proyecto.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Calidad de audio profesional",
+          "description": "Todos los sonidos de bocina de bicicleta generados cumplen estándares de emisión con salida de alta fidelidad. El generador usa algoritmos modernos para que cada clip de timbre sea claro y listo para producción. Todas las salidas están optimizadas para uso profesional en vídeo, juegos y contenido. Obtén una salida consistente y de calidad de estudio para tu trabajo.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Sobre el generador de sonido de bocina de bicicleta",
+      "items": [
+        {
+          "question": "¿Qué es un generador de sonido de bocina de bicicleta?",
+          "answer": "Un generador de sonido de bocina de bicicleta es una herramienta de IA que convierte texto en bocina, timbre y timbre de bicicleta personalizados. Produce salida profesional para juegos, vídeos y aplicaciones. El sistema usa síntesis de audio neuronal entrenada con muestras reales de bocina y timbre de bicicleta, para resultados naturales y utilizables sin grabación ni bibliotecas grandes. Está pensado para creadores, desarrolladores de juegos y editores que necesitan sonido de bocina de bicicleta rápido y variado para cualquier proyecto."
+        },
+        {
+          "question": "¿Cómo funciona el generador de sonido de bocina de bicicleta?",
+          "answer": "Nuestro generador de sonido de bocina de bicicleta primero lee tu descripción de texto y extrae rasgos como tono, intensidad y estilo. Luego los procesa con modelos entrenados en bocina y timbre de bicicleta para sintetizar la salida correspondiente. Puedes pedir un timbre corto para la interfaz o clips más largos para ambientación. El resultado es un archivo limpio y listo para usar que puedes descargar y usar en tu proyecto."
+        },
+        {
+          "question": "¿Qué hace único a este generador de sonido de bocina de bicicleta?",
+          "answer": "A diferencia de bibliotecas fijas, nuestro generador crea nuevas variaciones bajo demanda a partir de texto plano. Obtienes salida personalizada y timbre de bicicleta sin buscar en miles de archivos. La IA está entrenada con muestras de bocina y bicicleta de alta calidad, así que cada resultado es consistente y profesional. Puedes generar tantas variaciones como necesites para encontrar el ajuste adecuado para cada escena o interacción."
+        },
+        {
+          "question": "¿Cómo escribir prompts efectivos para sonido de bocina de bicicleta?",
+          "answer": "Usa descripciones claras y específicas. Por ejemplo: \"sonido de bocina de bicicleta para una bocina clásica\" o \"timbre de bicicleta para un botón\". Menciona estilo (realista, cartoon), contexto (juego, vídeo, interfaz) e intensidad. El generador responde bien a términos como bocina, timbre, timbre de bicicleta y alerta. Cuantos más detalles des, más se acercará la salida a tu visión. Incluye duración o estilo si es importante para tu proyecto."
+        },
+        {
+          "question": "¿Cómo usar sonido de bocina de bicicleta en contenido de vídeo?",
+          "answer": "Usa sonido de bocina de bicicleta y timbre de bicicleta para dar realismo a escenas de ciclismo, anuncios o interfaz. Coloca una bocina corta donde encaje con la acción. Superpone timbre o alerta para momentos clave en montajes. Varía la intensidad—sutil en fondo, más nítida en foco. Nuestro generador permite crear suficientes variaciones para que cada escena tenga un resultado adecuado sin repetición."
+        },
+        {
+          "question": "¿Cómo usar sonido de bocina de bicicleta en desarrollo de juegos?",
+          "answer": "El sonido de bocina de bicicleta funciona bien para juegos de ciclismo, títulos deportivos y feedback de interfaz. Usa un timbre nítido para menú o recoger la bicicleta, y bocina más completa para pedalear en el juego. Nuestro generador admite muchas variaciones para mantener un estilo consistente y evitar repetición. Crea conjuntos distintos para diferentes bicicletas o acciones. El resultado es una salida clara y profesional que encaja con la sensación de tu juego."
+        },
+        {
+          "question": "¿Qué tipos de sonido de bocina de bicicleta puedo crear?",
+          "answer": "Puedes crear una amplia gama de estilos de sonido de bocina de bicicleta y timbre: bocina clásica, timbre, bip de juguete y tonos de alerta. Úsalos para juegos, vídeos, interfaz o cualquier necesidad relacionada con bicicleta. El generador maneja distintos contextos y estilos con calidad consistente, desde hits únicos hasta timbre en capas. Explora varias opciones para cualquier necesidad de producción."
+        },
+        {
+          "question": "¿Los clips de sonido de bocina de bicicleta generados son libres de regalías?",
+          "answer": "Sí. Todos los sonidos de bocina de bicicleta y timbres de nuestro generador son libres de regalías y vienen con licencia comercial. Puedes usarlos en cualquier proyecto sin costes adicionales ni atribución. Cada archivo generado está autorizado para uso profesional y comercial. Descarga tantos como necesites para tus proyectos."
+        },
+        {
+          "question": "¿Qué calidad tiene el sonido de bocina de bicicleta generado?",
+          "answer": "Nuestro generador de sonido de bocina de bicicleta produce audio de nivel profesional que cumple estándares habituales de emisión y producción. Obtienes archivos de alta resolución, rango de frecuencias completo y dinámica controlada, de modo que cada timbre sea claro y listo para incorporar a tu proyecto. Cada archivo generado es adecuado para uso profesional en vídeo, juegos y aplicaciones."
+        }
+      ]
+    }
+  }
+}

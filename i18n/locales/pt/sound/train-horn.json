@@ -1,0 +1,75 @@
+{
+  "train-horn": {
+    "meta": {
+      "title": "Buzina de trem",
+      "description": "Crie efeito sonoro de buzina de trem instantaneamente com nossa tecnologia de IA avançada. Gere vários tipos de áudio, incluindo tons naturais, instrumentos musicais e mais.",
+      "keywords": "buzina trem, efeito sonoro buzina trem"
+    },
+    "hero": {
+      "title": "Buzina de trem",
+      "subtitle": "Transforme descrições em texto em buzina de trem de alta qualidade na hora"
+    },
+    "generator_subtitle": "Escolha entre os prompts populares abaixo ou escreva sua própria descrição para gerar buzina de trem",
+    "advantages": {
+      "title": "Por que escolher nosso gerador de buzina de trem?",
+      "items": [
+        {
+          "title": "Criação instantânea de buzina de trem",
+          "description": "Crie buzina de trem profissional e clipes de áudio ferroviário instantaneamente a partir de texto. Nossa IA transforma suas descrições em toques altos e claros em segundos—sem bibliotecas de amostras ou edição manual. Gere variações ilimitadas para qualquer projeto. Seja um curto efeito sonoro de buzina para interface ou efeito sonoro de buzina completo para uma cena, o gerador entrega resultados prontos para transmissão.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Possibilidades criativas ilimitadas",
+          "description": "Crie qualquer estilo de buzina de trem que imaginar: toque único, aviso longo, vintage ou moderno. A ferramenta entende descrições detalhadas e dá liberdade criativa total. Explore opções infinitas para vídeos, jogos e aplicativos. De dicas sutis de efeito sonoro de buzina a áudio em camadas para cinema, obtenha o clipe certo para cada cenário.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualidade de áudio profissional",
+          "description": "Cada clipe do nosso gerador atende aos padrões de transmissão com saída de alta fidelidade. Algoritmos de ponta garantem áudio ferroviário de qualidade de estúdio. Todos os clipes estão prontos para produção e otimizados para uso profissional. O gerador oferece cobertura total de frequência e dinâmica controlada para saída autêntica de buzina de trem.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "FAQ Buzina de trem",
+      "items": [
+        {
+          "question": "O que é um gerador de buzina de trem?",
+          "answer": "Nosso gerador é uma ferramenta de IA que transforma texto em áudio ferroviário e efeito sonoro de buzina de trem personalizados. Usa processamento de linguagem natural e síntese neural para produzir clipes profissionais. Modelos de aprendizado profundo treinados em conjuntos de dados ferroviários entendem sua descrição e geram variações correspondentes. Atende criadores, editores de vídeo e desenvolvedores de jogos que precisam de saída rápida e autêntica de efeito sonoro de buzina. Para áudio ferroviário refinado ou outros estilos, entrega resultados precisos e de alta fidelidade."
+        },
+        {
+          "question": "Como o gerador funciona?",
+          "answer": "A ferramenta usa um pipeline em várias etapas para transformar texto em buzina de trem de alta qualidade. Ela analisa sua descrição para capturar traços como intensidade, duração e estilo. Essas informações passam por redes neurais treinadas para síntese ferroviária, que tratam de frequência e dinâmica. Treinado com amostras profissionais, a IA produz saída ferroviária natural. Você pode pedir um curto efeito sonoro de buzina para interface ou ambiência mais longa. Cada clipe atende aos padrões de transmissão."
+        },
+        {
+          "question": "O que torna este gerador único?",
+          "answer": "Nosso gerador se destaca pela personalização instantânea e qualidade profissional. Diferente de bibliotecas estáticas, ele cria clipes ferroviários sob medida sob demanda. É treinado com amostras de alta qualidade para resultados realistas. O sistema entende descrições complexas e produz saída com controle fino. Você obtém variações ilimitadas e liberdade criativa."
+        },
+        {
+          "question": "Como escrevo prompts eficazes para o gerador de buzina de trem?",
+          "answer": "Escreva descrições claras e específicas. Em vez de só \"buzina\", tente \"buzina de trem com reverb\" ou \"efeito sonoro de buzina de trem para aviso\". Inclua estilo (vintage, moderno), intensidade e duração. Nosso gerador responde bem a termos como locomotiva, ferroviário, toque e aviso. Para cenários complexos, divida em partes. Mais contexto gera melhores resultados para áudio ferroviário."
+        },
+        {
+          "question": "Como posso usar o gerador em conteúdo de vídeo?",
+          "answer": "Mapeie as cenas do seu vídeo e coloque clipes de efeito sonoro ferroviário e de buzina de trem personalizados onde agregam impacto. O gerador ajuda a criar áudio para cada momento—de aviso distante a toque próximo. Empilhe várias variações para áudio rico e envolvente. Use momentos distintos como efeito sonoro de buzina de trem para destacar tempo ou lugar. A ferramenta permite construir um estilo de áudio único que combina com seu conteúdo."
+        },
+        {
+          "question": "Como posso usar o gerador no desenvolvimento de jogos?",
+          "answer": "Nosso gerador suporta áudio procedural para jogos. Crie variações de áudio ferroviário para os jogadores raramente ouvirem o mesmo clipe duas vezes. Produza opções diferentes para interface, fases e eventos mantendo um estilo consistente. O gerador entrega buzina de trem e efeito sonoro de buzina de trem de qualidade profissional que aumenta imersão e feedback."
+        },
+        {
+          "question": "Que tipos de buzina de trem posso criar?",
+          "answer": "Você pode criar uma ampla gama de buzinas de trem: toque único, aviso longo, clipes de efeito sonoro de buzina para interface ou filme, intensidades (suave a alto) e estilos (vintage, moderno, cinematográfico). A ferramenta trata essas categorias com qualidade consistente. Seja um curto efeito sonoro de buzina ou variações em camadas, a ferramenta entrega resultados profissionais para qualquer projeto."
+        },
+        {
+          "question": "Os clipes gerados são livres de royalties?",
+          "answer": "Sim. Todos os clipes do nosso gerador são livres de royalties e incluem licença comercial. Você pode usar o efeito sonoro de buzina de trem gerado em qualquer projeto sem taxas extras ou atribuição. Cada clipe está liberado para uso imediato em trabalho profissional e comercial."
+        },
+        {
+          "question": "Qual qualidade o gerador produz?",
+          "answer": "Nosso gerador produz buzina de trem de nível profissional que atende aos padrões da indústria. Você tem opções em alta resolução até 192 kHz/24-bit, faixa de frequência completa e dinâmica controlada para saída ferroviária. Cada buzina de trem e efeito sonoro de buzina de trem está pronto para transmissão e adequado para produção profissional e projetos criativos."
+        }
+      ]
+    }
+  }
+}

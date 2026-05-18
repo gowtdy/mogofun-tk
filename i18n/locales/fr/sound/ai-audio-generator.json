@@ -1,0 +1,79 @@
+{
+  "ai-audio-generator": {
+    "meta": {
+      "title": "Générateur Audio IA",
+      "description": "Créez des effets audio avec un générateur audio IA avancé, générant divers types incluant des sons naturels, des instruments de musique et plus encore.",
+      "keywords": "générateur audio IA, créer audio"
+    },
+    "hero": {
+      "title": "Générateur Audio IA",
+      "subtitle": "Transformez vos descriptions textuelles en effets sonores de haute qualité"
+    },
+    "generator_subtitle": "Sélectionnez parmi les invites populaires ci-dessous ou écrivez votre propre description pour générer des effets sonores",
+    "advantages": {
+      "title": "Pourquoi Choisir Notre Générateur Audio IA ?",
+      "items": [
+        {
+          "title": "Génération Sonore Instantanée",
+          "description": "Transformez des invites textuelles en effets prêts pour la production en quelques secondes avec notre générateur audio IA. Utilisez une description claire pour créer de l'audio pour les montages vidéo, les jeux, les publicités et les applications—pas de bibliothèques volumineuses, pas de découpage manuel, juste des résultats rapides.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Possibilités Créatives Illimitées",
+          "description": "Des impacts cinématographiques à l'ambiance cosy, le générateur audio IA comprend l'intention détaillée et offre des variations contrôlables. Décrivez l'humeur, la texture, la distance et le timing pour créer de l'audio qui correspond à votre scène et votre style.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualité Audio Professionnelle",
+          "description": "Obtenez une sortie propre et haute fidélité avec une dynamique équilibrée, prête à être intégrée dans votre flux de travail. Ce générateur de sons IA vous aide à créer de l'audio qui reste cohérent entre les projets, avec moins de bruit et moins d'artefacts.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "À Propos du Générateur Audio IA",
+      "items": [
+        {
+          "question": "Qu'est-ce qu'un générateur audio IA ?",
+          "answer": "Un générateur audio IA est un outil qui transforme les descriptions textuelles en sons personnalisés. Avec un générateur de sons IA, vous pouvez décrire un effet ou une atmosphère et créer rapidement de l'audio qui correspond à votre intention créative pour le contenu, les produits ou les expériences interactives."
+        },
+        {
+          "question": "Comment fonctionne le générateur audio IA ?",
+          "answer": "Le générateur audio IA analyse votre invite (source, environnement, intensité, durée), la mappe vers des attributs acoustiques, puis synthétise le son en utilisant des modèles neuronaux. Il termine avec un traitement léger pour vous aider à créer de l'audio clair, utilisable et cohérent."
+        },
+        {
+          "question": "Qu'est-ce qui rend ce générateur audio IA unique ?",
+          "answer": "Ce générateur audio IA se concentre sur la vitesse, le contrôle et une sortie fiable. Au lieu de chercher dans des packs prédéfinis, vous décrivez ce dont vous avez besoin et créez des variations audio qui restent dans le thème, rendant l'itération beaucoup plus rapide."
+        },
+        {
+          "question": "Comment écrire des invites efficaces pour le générateur audio IA ?",
+          "answer": "Soyez spécifique : décrivez la source (\"coup métallique\"), le cadre (\"entrepôt\"), la distance (\"proche\"), l'émotion (\"tendu\"), et le timing (\"queue de 0,8s\"). Ajoutez des modificateurs comme \"étouffé\" ou \"brillant\" pour aider le générateur de sons IA à créer de l'audio qui correspond à votre mixage."
+        },
+        {
+          "question": "Comment puis-je utiliser le générateur audio IA pour le contenu vidéo ?",
+          "answer": "Utilisez le générateur audio IA pour créer de l'audio pour les transitions, les impacts, les lits d'ambiance et les détails spécifiques à la scène. Générez quelques variantes proches, puis superposez-les et réduisez-les sous le dialogue pour garder le mixage naturel et engageant."
+        },
+        {
+          "question": "Comment puis-je utiliser le générateur audio IA dans le développement de jeux ?",
+          "answer": "Créez des familles audio pour les actions (pas, clics UI, capacités) et générez des variations pour réduire la répétition. Un générateur de sons IA aide également à prototyper l'ambiance pour les nouveaux niveaux avant le polissage final."
+        },
+        {
+          "question": "Comment créer du bruit blanc et de l'ambiance avec le générateur audio IA ?",
+          "answer": "Décrivez la texture et le mouvement (\"bruit brun doux avec air doux\" ou \"tonus de pièce urbaine avec trafic distant\"). Le générateur de sons IA peut créer des couches audio que vous pouvez boucler, fondu et empiler pour de longues scènes."
+        },
+        {
+          "question": "Que puis-je créer avec le générateur audio IA ?",
+          "answer": "Vous pouvez créer des sons dans de nombreuses catégories : nature, machines, retours UI, impacts cinématographiques, textures sci-fi, éléments musicaux et ambiance environnementale. Le générateur de sons IA est flexible pour les brouillons rapides et l'utilisation en production."
+        },
+        {
+          "question": "L'audio généré par le générateur de sons IA est-il libre de droits ?",
+          "answer": "Oui. L'audio généré avec le générateur de sons IA est libre de droits et adapté à un usage commercial, vous pouvez donc publier des vidéos, expédier des jeux et lancer des produits sans étapes de licence supplémentaires."
+        },
+        {
+          "question": "Quelle qualité de sortie puis-je attendre du générateur audio IA ?",
+          "answer": "Le générateur audio IA cible une sortie propre et de haute qualité adaptée à la production moderne. Pour de meilleurs résultats, générez quelques variantes, choisissez la prise la plus naturelle et faites un égaliseur léger ou un ajustement de niveau dans votre éditeur."
+        }
+      ]
+    }
+  }
+}

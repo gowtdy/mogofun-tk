@@ -1,0 +1,79 @@
+{
+  "silly-sound": {
+    "meta": {
+      "title": "Son loufoque",
+      "description": "Créez un son loufoque unique grâce à une IA avancée d’effets sonores, avec des types variés : sons naturels, instruments et plus.",
+      "keywords": "son loufoque, bruits loufoques"
+    },
+    "hero": {
+      "title": "Son loufoque",
+      "subtitle": "Transformez vos descriptions textuelles en son loufoque de haute qualité"
+    },
+    "generator_subtitle": "Choisissez parmi les prompts populaires ci-dessous ou rédigez votre description pour générer un son loufoque",
+    "advantages": {
+      "title": "Pourquoi générer un son loufoque pour des montages légers ?",
+      "items": [
+        {
+          "title": "Son loufoque depuis du texte en secondes",
+          "description": "Décrivez poulet en caoutchouc, slide whistle, boings idiots ou splats exagérés et obtenez des stems mix-ready sans récupérer des clips au hasard. Court et propre pour shorts, vidéos de classe et apps kids. Dupliquez, coupez les tails, archivez des variantes.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Garder une palette goofy cohérente",
+          "description": "Régénerer des frères qui partagent l’ADN matière/rythme et ajuster longueur ou intensité. Répliquer un gag en vertical/carré/paysage via prompts. Si ça masque la VO, raccourcissez ; si c’est trop fin, élargissez ; QC avant livraison du cours.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Dynamique friendly earbuds",
+          "description": "Pics contrôlés pour téléphone et enceintes de classe. Batcher pour une série, puis limiter/loudness dans la DAW. Promo lundi, refresh milieu de semaine, livrables après picture lock.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Son loufoque : questions et réponses",
+      "items": [
+        {
+          "question": "Qu’est-ce qu’un son loufoque ici ?",
+          "answer": "One-shots et stings ludiques—boings cartoon, buzz de kazoo, splats exagérés, mouth pops—créés depuis du texte. Stems légaux pour explainers, contenu enfants et social léger."
+        },
+        {
+          "question": "Comment un prompt devient un sting ?",
+          "answer": "Décrivez matière, mouvement et durée (\"squeaky balloon release 0.4s\"). Synthèse serrée + traitement léger pour dompter les pics. Régénérez jusqu’au sync au frame."
+        },
+        {
+          "question": "Quand layer des bruits loufoques sous la musique ?",
+          "answer": "Boucles douces sous beds, transients pour punchlines. High-pass la boue commune et duck quelques dB."
+        },
+        {
+          "question": "Prompts family-friendly ?",
+          "answer": "Évitez mots durs/graphique ; visez jouets/instruments/physique cartoon. Mentionnez soft/bouncy/whimsical."
+        },
+        {
+          "question": "Bon pour classe ou UI d’app ?",
+          "answer": "Oui : cues courts non agressifs. Exportez des siblings au même timbre."
+        },
+        {
+          "question": "Sous narration ?",
+          "answer": "Oui, prévu pour ducking. Si ça masque, raccourcissez decay ou notch léger."
+        },
+        {
+          "question": "Styles qui marchent ?",
+          "answer": "Rubber stretches, boings de porte à ressort, slide whistles, party horns, bubble pops, buzzers doux."
+        },
+        {
+          "question": "Royalty-free ?",
+          "answer": "Selon licence au download, souvent sans frais de synchro additionnels. Archivez et revérifiez si termes changent."
+        },
+        {
+          "question": "Qualité ?",
+          "answer": "Stems haute résolution, dynamique contrôlée, lisible sur téléphone et enceintes de classe."
+        },
+        {
+          "question": "Qui en profite ?",
+          "answer": "Enseignants, animateurs et créateurs de comédie wholesome. Itération rapide sans rips douteux."
+        }
+      ]
+    }
+  }
+}

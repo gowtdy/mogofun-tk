@@ -1,0 +1,71 @@
+{
+  "pixel-sounds": {
+    "meta": {
+      "title": "Sons pixel",
+      "description": "Crie sons pixel instantaneamente com nossa tecnologia de IA avançada. Gere diversos tipos de som: naturais, instrumentos musicais e mais.",
+      "keywords": "sons pixel, som pixel"
+    },
+    "hero": {
+      "title": "Sons pixel",
+      "subtitle": "Transforme descrições em texto em sons pixel de alta qualidade instantaneamente"
+    },
+    "generator_subtitle": "Selecione entre os prompts populares abaixo ou escreva sua própria descrição para gerar sons pixel",
+    "advantages": {
+      "title": "Por que escolher nosso gerador de sons pixel?",
+      "items": [
+        {
+          "title": "Criação instantânea",
+          "description": "Crie clipes de sons pixel profissionais instantaneamente a partir de texto com nosso gerador de IA. A ferramenta transforma suas ideias em sons pixel e áudio chiptune de alta qualidade em segundos, sem bibliotecas de amostras ou edição manual. Gere variações ilimitadas para vídeos, jogos e apps. Seja sons pixel clássicos, som pixel para level-up ou UI, ou estilos personalizados, o gerador entrega saída em qualidade de estúdio para seus projetos.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Possibilidades criativas ilimitadas",
+          "description": "Use nosso gerador para criar qualquer estilo de áudio retrô e 8-bit que imaginar—de jingles de jogo a bips de notificação. A ferramenta entende descrições complexas e dá liberdade criativa total. Explore opções para jogos, vídeos e apps. De bips sutis a sons pixel marcantes, obtenha o clipe perfeito para cada cenário.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualidade de áudio profissional",
+          "description": "Todo clipe do nosso gerador atende aos padrões de transmissão com saída de alta fidelidade. Algoritmos de ponta garantem resultados em qualidade de estúdio. Toda a saída está pronta para produção e otimizada para uso profissional. O gerador oferece cobertura de frequência completa e dinâmica clara para som pixel autêntico.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "FAQ gerador de sons pixel",
+      "items": [
+        {
+          "question": "O que é um gerador de sons pixel?",
+          "answer": "É uma ferramenta de IA que transforma descrições em texto em áudio retrô e chiptune personalizado. O nosso usa processamento de linguagem natural e síntese neural de áudio para produzir clipes de qualidade profissional. Você pode criar sons pixel clássicos, som pixel para jogos ou UI ou outros tons retrô. É ideal para criadores de conteúdo, desenvolvedores de jogos e designers de apps que precisam de saída rápida e autêntica."
+        },
+        {
+          "question": "Como funciona o gerador?",
+          "answer": "Nosso gerador usa um pipeline em várias etapas para transformar texto em sons pixel de alta qualidade. Primeiro analisa sua descrição para capturar traços como estilo, duração e tom. Essas informações passam por redes neurais treinadas para síntese retrô e chiptune. Treinado com amostras profissionais, a IA produz saída natural. Filtragem e pós-processamento mantêm a qualidade alta e garantem que todo clipe atenda aos padrões de transmissão."
+        },
+        {
+          "question": "O que torna este gerador único?",
+          "answer": "Nosso gerador de sons pixel se destaca pela personalização instantânea e qualidade profissional. Diferente de bibliotecas estáticas, ele cria clipes sob medida sob demanda. O sistema entende descrições complexas e produz saída com controle fino de tom e duração. Você obtém variações ilimitadas e liberdade criativa para vídeos, jogos e apps."
+        },
+        {
+          "question": "Como escrevo prompts eficazes?",
+          "answer": "Escreva descrições claras e específicas. Tente \"efeito sonoro pixel\" ou \"som level-up pixel\". Para som pixel, diga \"ruído estático\" ou \"jingle 8-bit\". Inclua estilo, duração e tom. Nosso gerador responde bem a termos como chiptune, bip e retrô. Mais contexto gera melhores resultados."
+        },
+        {
+          "question": "Como usar o gerador em conteúdo de vídeo?",
+          "answer": "Coloque sons pixel personalizados onde agreguem nostalgia ou ludicidade. O gerador ajuda a criar som pixel e áudio chiptune para intros, transições e momentos-chave. Sobreponha variações para áudio rico e envolvente. Use para vlogs, dev de jogos e tutoriais. A ferramenta permite construir um estilo de áudio único que combina com seu conteúdo."
+        },
+        {
+          "question": "Que tipos de sons posso criar?",
+          "answer": "Você pode criar uma ampla gama: level-up clássico, som pixel para UI ou jogos, ruído estático e tons chiptune modernos. O gerador trata esses com qualidade consistente. Seja bip sutil ou sons pixel marcantes para qualquer cenário, a ferramenta entrega resultados profissionais."
+        },
+        {
+          "question": "Os clipes gerados são livres de royalties?",
+          "answer": "Sim. Todo o áudio do nosso gerador de sons pixel é livre de royalties e inclui licença comercial. Você pode usar os clipes gerados em qualquer projeto sem taxas extras ou atribuição. Todo clipe está liberado para uso imediato em trabalho profissional e comercial."
+        },
+        {
+          "question": "Que qualidade o gerador produz?",
+          "answer": "Nosso gerador de sons pixel produz áudio de qualidade profissional que atende aos padrões da indústria. Você obtém opções de alta resolução, faixa de frequência completa e dinâmica clara. Toda a saída está pronta para transmissão e é adequada para produção profissional e projetos criativos."
+        }
+      ]
+    }
+  }
+}

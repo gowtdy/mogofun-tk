@@ -1,0 +1,71 @@
+{
+  "moans-sounds": {
+    "meta": {
+      "title": "Sons de gemido",
+      "description": "Crie sons de gemido instantaneamente com nossa tecnologia avancada de IA. Gere diversos tipos de som, incluindo sons naturais, instrumentos musicais e muito mais.",
+      "keywords": "sons de gemido, voz de gemido"
+    },
+    "hero": {
+      "title": "Sons de gemido",
+      "subtitle": "Transforme instantaneamente descricoes de texto em sons de gemido de alta qualidade"
+    },
+    "generator_subtitle": "Escolha entre os prompts populares abaixo ou escreva sua propria descricao para gerar sons de gemido",
+    "advantages": {
+      "title": "Por que escolher nosso gerador de sons de gemido?",
+      "items": [
+        {
+          "title": "Criacao instantanea de sons de gemido",
+          "description": "Gere sons de gemido profissionais e audio de voz de gemido instantaneamente a partir do texto. Nossa ferramenta transforma suas descricoes em gemidos vocais e clipes expressivos em segundos—sem grandes bibliotecas ou edicao manual. Crie variacoes ilimitadas para conteudo, podcasts ou trabalho criativo. Seja para sons de gemido sutis ou uma voz de gemido bem marcada, o gerador entrega resultados limpos e prontos para producao.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Possibilidades criativas ilimitadas",
+          "description": "Crie qualquer estilo que voce precise: intensidade variada, diferentes atmosferas ou voz de gemido para cenas diferentes. O gerador entende descricoes detalhadas e produz uma saida correspondente para total liberdade criativa. Explore variacoes para projetos de audio, conteudo e trabalho criativo. Do suave aos sons de gemido intensos, encontre o ajuste certo para cada projeto.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualidade de audio profissional",
+          "description": "Todos os sons de gemido gerados atendem aos padroes de producao com saida de alta fidelidade. O gerador usa algoritmos modernos para que cada clip e cada voz de gemido estejam claros e prontos para uso. As saidas sao otimizadas para conteudo, audio e midia. Obtenha resultados consistentes e de qualidade de estudio para o seu trabalho.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Sobre o gerador de sons de gemido",
+      "items": [
+        {
+          "question": "O que e um gerador de sons de gemido?",
+          "answer": "Um gerador de sons de gemido e uma ferramenta de IA que transforma texto em gemidos vocais personalizados e audio expressivo. Ele fornece saida profissional e opcoes de voz de gemido para conteudo e projetos criativos sem gravacao ou bibliotecas grandes. O sistema usa sintese neural treinada em audio vocal, entao voce obtem resultados naturais e utilizaveis. Foi feito para criadores que precisam de sons de gemido rapidos e variados para qualquer projeto."
+        },
+        {
+          "question": "Como funciona o gerador de sons de gemido?",
+          "answer": "Nosso gerador le sua descricao em texto e identifica caracteristicas como humor, intensidade e estilo. Em seguida, sintetiza um resultado vocal correspondente—suave, uma voz de gemido bem marcada ou entre os dois. Voce pode solicitar intensidades diferentes, cenarios ou audio em camadas. O resultado e um arquivo limpo e pronto para uso, que voce pode baixar e inserir no seu projeto."
+        },
+        {
+          "question": "O que torna este gerador de sons de gemido unico?",
+          "answer": "Ao contrario de bibliotecas fixas, nosso gerador cria novas variacoes de sons de gemido sob demanda a partir de texto simples. Voce recebe opcoes personalizadas de gemidos vocais e voz de gemido sem precisar procurar em milhares de arquivos. A IA e treinada com audio vocal de alta qualidade, entao cada resultado e consistente e profissional. Gere tantas variacoes quanto voce precisar para cada cena ou edicao."
+        },
+        {
+          "question": "Como escrever prompts eficazes para sons de gemido?",
+          "answer": "Use descricoes claras e especificas. Por exemplo: \"vocal suave\" ou \"voz de gemido bem marcada para uma cena\". Mencione humor (intenso, suave, apaixonado), intensidade e contexto. O gerador responde bem a termos descritivos. Quanto mais detalhes, melhor para a saida corresponder a sua visao."
+        },
+        {
+          "question": "Como usar o audio gerado em conteudo?",
+          "answer": "Use o audio gerado para aprimorar conteudo, podcasts ou trabalho criativo. Coloque gemidos vocais sob o video, adicione voz de gemido para mais impacto ou combine com outros audios. Varie a intensidade para se ajustar a cada cena. Nosso gerador permite criar variacoes suficientes para que cada projeto tenha um resultado adequado sem repeticao."
+        },
+        {
+          "question": "Que tipos de audio posso criar?",
+          "answer": "Voce pode criar uma ampla gama de sons de gemido: suave, intenso, diferentes intensidades e varios humores. Use-os para conteudo, audio ou projetos criativos. O gerador lida com diferentes contextos e estilos com qualidade consistente para gemidos vocais e voz de gemido."
+        },
+        {
+          "question": "Os sons de gemido gerados sao isentos de royalties?",
+          "answer": "Sim. Todo audio do nosso gerador e isento de royalties e vem com licenca comercial. Voce pode usa-los em qualquer projeto sem taxas extras ou atribuicao. Cada arquivo gerado e liberado para uso profissional e comercial. Baixe quantas versoes voce precisar para seus projetos."
+        },
+        {
+          "question": "Qual e a qualidade dos sons de gemido gerados?",
+          "answer": "Nosso gerador produz audio de nivel profissional que atende aos padroes comuns de producao. Voce recebe arquivos em alta resolucao, faixa completa de frequencias e dinamica controlada para que cada resultado fique claro e pronto para inserir no seu projeto. Cada arquivo gerado e adequado para uso profissional em conteudo e midia."
+        }
+      ]
+    }
+  }
+}

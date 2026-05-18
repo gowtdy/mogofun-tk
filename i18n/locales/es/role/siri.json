@@ -1,0 +1,50 @@
+{
+  "siri": {
+    "meta": {
+      "title": "Generador de Voz Siri Online Gratuito | Generador de Voz IA",
+      "keywords": "Generador de Voz Siri, Siri Text to Speech, Generador de Voz IA",
+      "description": "Transforma cualquier texto en voces Siri realistas con nuestro generador de voz Siri. Crea contenido atractivo con miles de voces Siri en más de 20 idiomas."
+    },
+    "hero": {
+      "title": "Generador de Voz Siri",
+      "subtitle": "Transforma fácilmente texto en voces Siri con nuestro Generador de Voz IA."
+    },
+    "faq": {
+      "title": "Sobre el Generador de Voz Siri",
+      "items": [
+        {
+          "question": "¿Qué es el Generador de Voz Siri?",
+          "answer": "El Generador de Voz Siri es una herramienta avanzada de IA que convierte texto en audios naturales similares a Siri. Nuestra tecnología utiliza algoritmos de IA de vanguardia para crear simulaciones auténticas de voz Siri, perfectas para creación de contenido, videos y presentaciones. El sistema ofrece generación de voz de alta calidad con entonación natural y pronunciación clara."
+        },
+        {
+          "question": "¿Cómo usar el Generador de Voz Siri efectivamente?",
+          "answer": "Usar nuestro Generador de Voz Siri es simple: 1) Ingresa tu texto en el cuadro de entrada 2) Selecciona tu estilo de audio preferido 3) Haz clic en generar para crear tu voz Siri 4) Previsualiza el audio 5) Descarga tu archivo de audio. Para mejores resultados, mantén tu texto claro y conciso."
+        },
+        {
+          "question": "¿Qué hace especial a nuestro Generador de Voz Siri?",
+          "answer": "Nuestro Generador de Voz Siri se destaca por: 1) Tecnología IA avanzada para audio natural 2) Soporte para más de 20 idiomas 3) Salida de audio de alta calidad 4) Actualizaciones regulares con nuevos estilos de audio 5) Fácil accesibilidad en cualquier dispositivo 6) Acceso online gratuito sin restricciones."
+        },
+        {
+          "question": "¿Qué estilos de voz son más populares?",
+          "answer": "Los estilos de audio populares incluyen: 1) Audio clásico Siri para uso general 2) Audios emocionales para narración de historias 3) Audios profesionales para presentaciones 4) Audio casual para redes sociales 5) Audios educativos para tutoriales. Cada estilo está optimizado para tipos específicos de contenido."
+        },
+        {
+          "question": "¿Cuáles son las mejores prácticas para usar el Generador de Voz Siri?",
+          "answer": "Para maximizar el impacto: 1) Escribe guiones claros y concisos 2) Elige estilos de audio apropiados 3) Prueba diferentes audios para engagement 4) Combina con música de fondo adecuada 5) Asegura niveles de audio apropiados."
+        },
+        {
+          "question": "¿Cómo crear contenido atractivo con el Generador de Voz Siri?",
+          "answer": "El éxito viene de: 1) Usar estilos de audio apropiados 2) Crear guiones claros y atractivos 3) Combinar audio con el tipo de contenido 4) Probar diferentes combinaciones 5) Monitorear el engagement de la audiencia."
+        },
+        {
+          "question": "¿Qué idiomas soporta el Generador de Voz Siri?",
+          "answer": "Nuestro generador soporta más de 20 idiomas, incluyendo español, inglés, francés, alemán, italiano, portugués, chino, japonés, coreano y más. Cada idioma ofrece múltiples opciones de audio y acentos regionales."
+        },
+        {
+          "question": "¿El Generador de Voz Siri es gratuito?",
+          "answer": "Sí, ofrecemos opciones gratuitas y premium. Los usuarios gratuitos pueden acceder a funciones básicas, mientras que los suscriptores premium desbloquean acceso ilimitado a todos los audios, salida de mayor calidad y generación prioritaria."
+        }
+      ]
+    }
+  }
+}

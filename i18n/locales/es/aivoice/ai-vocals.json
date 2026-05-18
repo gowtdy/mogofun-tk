@@ -1,0 +1,58 @@
+{
+  "ai-vocals": {
+    "meta": {
+      "title": "Voces AI",
+      "description": "Genera voces AI instantáneamente con nuestra avanzada tecnología de IA vocal. Crea voces AI únicas para videos, podcasts y más.",
+      "keywords": "voces AI, IA vocal"
+    },
+    "hero": {
+      "title": "Voces AI",
+      "subtitle": "Crea instantáneamente voces AI únicas para videos, podcasts y más."
+    },
+    "faq": {
+      "title": "Acerca de las Voces AI",
+      "items": [
+        {
+          "question": "¿Qué es la tecnología de Voces AI?",
+          "answer": "Las Voces AI representan inteligencia artificial de vanguardia que convierte texto en habla de sonido natural. Esta tecnología de IA vocal utiliza algoritmos avanzados de aprendizaje automático para analizar patrones lingüísticos y producir audio similar al humano con emoción e entonación apropiadas. A diferencia de los sistemas tradicionales de texto a voz, nuestra plataforma se especializa en crear contenido de voz atractivo optimizado para medios digitales modernos."
+        },
+        {
+          "question": "¿Cómo funciona la IA vocal para la creación de contenido?",
+          "answer": "Nuestro sistema de IA vocal procesa tu entrada de texto a través de múltiples redes neuronales para entender contexto, emoción y matices lingüísticos. La tecnología luego genera audio de alta calidad que coincide con tu estilo de voz seleccionado y preferencias de idioma. Este proceso toma segundos y produce doblajes de grado profesional perfectos para videos, podcasts, presentaciones y contenido de redes sociales."
+        },
+        {
+          "question": "¿Qué hace única a nuestra plataforma de Voces AI?",
+          "answer": "Nuestra plataforma de Voces AI combina estilos de voz especializados con tecnología avanzada de IA vocal para crear contenido de habla atractivo. Las características clave incluyen soporte para voces de redes sociales en tendencia, capacidades multiidioma, salida de audio de alta calidad y accesibilidad multiplataforma. El sistema de IA vocal se actualiza constantemente con las últimas tendencias de voz y acentos regionales para ayudar a los creadores a llegar a audiencias globales."
+        },
+        {
+          "question": "¿Qué estilos de Voces AI son más populares para creadores de contenido?",
+          "answer": "Los estilos populares de Voces AI incluyen voces de narrador clásico para contar historias, voces basadas en personajes que añaden personalidad, voces de redes sociales en tendencia que se vuelven virales, acentos regionales para audiencias específicas y voces estilo celebridad para valor de entretenimiento. Cada estilo de IA vocal tiene características únicas que pueden hacer que tu contenido se destaque y atraiga segmentos específicos de audiencia."
+        },
+        {
+          "question": "¿Cuáles son las mejores prácticas para usar las Voces AI efectivamente?",
+          "answer": "Para maximizar los resultados de Voces AI: mantén tu texto conversacional y natural, elige estilos de IA vocal que coincidan con el tema de tu contenido, usa ritmo y puntuación apropiados, prueba diferentes opciones de voz para tu audiencia y asegúrate de que tu guión fluya naturalmente cuando se habla. Para contenido de redes sociales, considera guiones más cortos y contundentes que funcionen bien con estilos de IA vocal en tendencia."
+        },
+        {
+          "question": "¿Cómo crear contenido viral con tecnología de IA vocal?",
+          "answer": "El éxito con Voces AI viene de entender las tendencias actuales y preferencias de la audiencia. Mantente actualizado con estilos populares de IA vocal, usa voces que resuenen con tu demografía objetivo, crea contenido que muestre cualidades únicas de IA vocal, experimenta con diferentes combinaciones de voz y monitorea qué estilos de IA vocal funcionan mejor con tus seguidores. El timing y la conciencia de tendencias son cruciales para el potencial viral."
+        },
+        {
+          "question": "¿Qué idiomas soporta el sistema de IA vocal?",
+          "answer": "Nuestro sistema de Voces AI soporta más de 20 idiomas incluyendo inglés (múltiples acentos), español, francés, alemán, italiano, portugués, chino, japonés, coreano y más. Cada idioma presenta múltiples opciones de IA vocal y acentos regionales, permitiendo a los creadores llegar a audiencias globales con voces de sonido auténtico que se sienten naturales para hablantes nativos."
+        },
+        {
+          "question": "¿El servicio de Voces AI es gratuito?",
+          "answer": "Ofrecemos tanto acceso gratuito como premium a nuestro servicio de Voces AI. Los usuarios gratuitos pueden explorar características básicas de IA vocal con uso limitado, mientras que los suscriptores premium obtienen acceso ilimitado a todos los estilos de voz, salida de audio de mayor calidad y generación prioritaria. El servicio premium de IA vocal también incluye características avanzadas como efectos de sonido y capacidades de clonación de voz para creadores de contenido serios."
+        },
+        {
+          "question": "¿Cómo optimizar la IA vocal para diferentes tipos de contenido?",
+          "answer": "Diferentes contenidos requieren diferentes enfoques de Voces AI: usa IA vocal clara y profesional para tutoriales; elige voces en tendencia o basadas en personajes para entretenimiento; selecciona estilos de IA vocal emocionales y atractivos para contar historias; usa voces de sonido confiable para reseñas de productos; y utiliza capacidades multiidioma de IA vocal para contenido internacional. Haz coincidir tu elección de voz con tus objetivos de contenido y expectativas de audiencia."
+        },
+        {
+          "question": "¿Qué hace efectivo un guión para Voces AI?",
+          "answer": "Los guiones efectivos de Voces AI usan tono conversacional que suena natural cuando se habla, mantienen oraciones concisas y fáciles de seguir, usan puntuación para controlar el ritmo del audio, adaptan el estilo de escritura para coincidir con la IA vocal elegida y prueban cómo suena el texto con diferentes opciones de voz. Evita oraciones excesivamente complejas y jerga técnica que podría sonar incómoda cuando se convierte en habla con tecnología de IA vocal."
+        }
+      ]
+    }
+  }
+}

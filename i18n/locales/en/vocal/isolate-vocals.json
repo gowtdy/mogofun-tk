@@ -1,0 +1,73 @@
+{
+  "isolate-vocals": {
+    "meta": {
+      "title": "Isolate Vocals - background music remover",
+      "description": "Instantly isolate vocals from audio and video with our advanced background music remover. Isolate vocals without background music to improve your content creation.",
+      "keywords": "isolate vocals, background music remover"
+    },
+    "hero": {
+      "title": "Background Music Remover",
+      "subtitle": "Instantly isolate vocals from any music, audio, video and more"
+    },
+    "advantages": {
+      "title": "Why Choose Our Background Music Remover?",
+      "items": [
+        {
+          "title": "Professional AI Background Music Remover",
+          "description": "Experience studio-quality audio processing with our advanced background music remover technology. Our AI-powered system precisely removes background music while preserving vocals, delivering crystal-clear results perfect for content creation and music production. This tool excels at isolating vocals from any audio source.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Advanced Audio Processing Technology",
+          "description": "Our background music remover employs cutting-edge machine learning algorithms to separate vocals from instrumental tracks. The result is professional-grade isolated audio that maintains original quality and characteristics, making it ideal for remixing and content creation. Our isolate vocals technology ensures precise vocal extraction.",
+          "icon": "WrenchScrewdriverIcon"
+        },
+        {
+          "title": "Real-time Background Music Removal",
+          "description": "Get your processed audio in seconds with our efficient background music remover. No need to wait for lengthy processing times - our cloud-based system delivers quick results to isolate vocals without compromising quality or audio fidelity.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "High-Quality Audio Output",
+          "description": "Export your processed tracks in high-definition formats. Our background music remover ensures premium quality output suitable for professional use in content creation, music production, and audio editing projects. Isolate vocals with professional-grade quality every time.",
+          "icon": "ArrowDownTrayIcon"
+        },
+        {
+          "title": "Precise Audio Control",
+          "description": "Fine-tune your audio separation with advanced controls. Adjust processing parameters to achieve the perfect balance between vocal clarity and background music removal for your specific creative needs and projects. Customize how you isolate vocals for optimal results.",
+          "icon": "AdjustmentsHorizontalIcon"
+        },
+        {
+          "title": "Multi-format Audio Support",
+          "description": "Our background music remover supports various audio formats including MP3, WAV, M4A, and more. Process your audio files regardless of their format, making it versatile for all your audio separation and content creation needs. Isolate vocals from any supported audio format.",
+          "icon": "AdjustmentsI"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "About Background Music Remover",
+      "items": [
+        {
+          "question": "What is a Background Music Remover?",
+          "answer": "A background music remover is an advanced AI tool that uses artificial intelligence to separate vocals from instrumental tracks in audio files. Our background music remover employs sophisticated machine learning algorithms to identify and remove background music while preserving vocal quality and characteristics. This technology excels at isolating vocals with professional precision, making it perfect for content creators who need to isolate vocals from music."
+        },
+        {
+          "question": "How does our Background Music Remover work?",
+          "answer": "Our AI-powered background music remover uses state-of-the-art machine learning algorithms to analyze the frequency spectrum of your audio. The technology identifies vocal frequencies, separates them from instrumental elements, and creates distinct tracks: one containing only vocals and another with the background music removed. This process effectively isolates vocals while preserving audio quality, allowing you to isolate vocals from any audio source."
+        },
+        {
+          "question": "What types of audio files can I process?",
+          "answer": "Our background music remover supports various audio formats including MP3, WAV, M4A, and more. You can process any audio file to remove background music, whether it's a professional recording or casual audio content. This tool works best with clear vocal recordings and can handle files up to 10MB in size while effectively separating vocals from instrumental tracks. Perfect for anyone looking to isolate vocals from music files."
+        },
+        {
+          "question": "How can I get the best results with the background music remover?",
+          "answer": "For optimal results with our background music remover, use high-quality audio files with clear vocals. Avoid heavily processed or distorted tracks, as they may affect the ability to remove background music effectively. The clearer the original recording, the better our tool can isolate vocals while maintaining quality. This ensures the best results when you isolate vocals from your audio files."
+        },
+        {
+          "question": "Can I use the processed audio commercially?",
+          "answer": "Yes, you can use the processed audio for your personal and commercial projects. However, please ensure you have the necessary rights to use the original audio content. Our background music remover is perfect for content creators, podcasters, and audio remixers looking to separate vocals for new content creation and music production. Whether you need to isolate vocals for remixes or create acapella tracks, our tool delivers professional results."
+        }
+      ]
+    }
+  }
+}

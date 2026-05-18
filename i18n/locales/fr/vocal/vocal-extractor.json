@@ -1,0 +1,73 @@
+{
+  "vocal-extractor": {
+    "meta": {
+      "title": "Extracteur Vocal",
+      "description": "Supprimez instantanément les instruments de toute musique, audio et vidéo avec notre extracteur vocal avancé. Supprimez les instruments de l'audio pour améliorer votre création de contenu.",
+      "keywords": "extracteur vocal, supprimer instruments"
+    },
+    "hero": {
+      "title": "Extracteur Vocal",
+      "subtitle": "Supprimez instantanément les instruments de toute musique, audio, vidéo et plus encore"
+    },
+    "advantages": {
+      "title": "Pourquoi Choisir Notre Extracteur Vocal ?",
+      "items": [
+        {
+          "title": "Extraction Audio IA Professionnelle",
+          "description": "Découvrez un traitement audio de qualité studio avec notre technologie IA avancée. Notre extracteur vocal supprime précisément les pistes d'instruments tout en préservant les voix, offrant des résultats cristallins parfaits pour la création de contenu. Cet extracteur vocal est conçu pour supprimer les éléments instrumentaux avec une précision professionnelle.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Traitement Audio Avancé",
+          "description": "Notre système alimenté par l'IA utilise des algorithmes de pointe pour supprimer les éléments instrumentaux tout en isolant efficacement les voix. Le résultat est une piste séparée de qualité professionnelle qui maintient les caractéristiques audio originales. Cette technologie d'extracteur vocal garantit une suppression propre des instruments.",
+          "icon": "WrenchScrewdriverIcon"
+        },
+        {
+          "title": "Traitement en Temps Réel",
+          "description": "Obtenez votre audio séparé en quelques secondes avec notre technologie IA efficace. Pas besoin d'attendre de longs temps de traitement - notre système basé sur le cloud fournit des résultats rapides pour supprimer les pistes d'instruments sans compromettre la qualité. Notre extracteur vocal traite les fichiers rapidement.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Sortie Haute Qualité",
+          "description": "Exportez votre audio traité dans des formats haute définition. Notre extracteur vocal garantit une sortie de qualité premium adaptée à un usage professionnel dans la création de contenu et la production musicale. Supprimez les pistes d'instruments tout en maintenant la fidélité audio.",
+          "icon": "ArrowDownTrayIcon"
+        },
+        {
+          "title": "Contrôle Précis",
+          "description": "Ajustez finement votre séparation audio avec des contrôles avancés. Ajustez les paramètres de traitement pour obtenir l'équilibre parfait entre la clarté vocale et la suppression d'instruments selon vos besoins spécifiques. Cet extracteur vocal vous donne un contrôle total sur la suppression d'instruments.",
+          "icon": "AdjustmentsHorizontalIcon"
+        },
+        {
+          "title": "Support Multi-format",
+          "description": "Notre système alimenté par l'IA prend en charge divers formats audio incluant MP3, WAV et M4A. Traitez vos fichiers audio quel que soit leur format, le rendant polyvalent pour tous vos besoins de séparation audio. Cet extracteur vocal peut supprimer les pistes d'instruments de tout format pris en charge.",
+          "icon": "AdjustmentsI"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "À Propos de l'Extracteur Vocal",
+      "items": [
+        {
+          "question": "Qu'est-ce qu'un Extracteur Vocal IA ?",
+          "answer": "Un Extracteur Vocal IA est un outil avancé qui utilise l'intelligence artificielle pour supprimer les pistes d'instruments des fichiers audio. Notre extracteur vocal utilise des algorithmes sophistiqués d'apprentissage automatique pour identifier et séparer les éléments audio tout en maintenant leur qualité et caractéristiques originales. Cette technologie excelle dans la suppression précise des éléments instrumentaux."
+        },
+        {
+          "question": "Comment fonctionne notre Extracteur Vocal IA ?",
+          "answer": "Notre extracteur vocal alimenté par l'IA utilise des algorithmes d'apprentissage automatique de pointe pour analyser le spectre de fréquences de votre audio. La technologie identifie les fréquences vocales, les isole des éléments musicaux d'arrière-plan, et crée deux pistes distinctes : une contenant uniquement les voix et une autre avec les parties instrumentales. Ce processus supprime efficacement les pistes d'instruments tout en préservant la qualité vocale."
+        },
+        {
+          "question": "Quels types de fichiers audio puis-je traiter ?",
+          "answer": "Notre extracteur vocal prend en charge divers formats audio incluant MP3, WAV, M4A et plus. Vous pouvez traiter n'importe quel fichier audio pour supprimer les pistes d'instruments, qu'il s'agisse d'un enregistrement professionnel ou d'un fichier audio occasionnel. Cet extracteur vocal fonctionne mieux avec des enregistrements vocaux clairs et peut gérer des fichiers jusqu'à 10MB tout en supprimant efficacement les éléments instrumentaux."
+        },
+        {
+          "question": "Comment puis-je obtenir les meilleurs résultats avec l'extracteur vocal ?",
+          "answer": "Pour des résultats optimaux avec notre extracteur vocal, utilisez des fichiers audio de haute qualité avec des voix claires. Évitez les pistes fortement traitées ou déformées, car elles peuvent affecter la capacité à supprimer efficacement les éléments instrumentaux. Plus l'enregistrement original est clair, mieux notre extracteur vocal peut supprimer les pistes d'instruments tout en maintenant la qualité."
+        },
+        {
+          "question": "Puis-je utiliser l'audio extrait commercialement ?",
+          "answer": "Oui, vous pouvez utiliser l'audio séparé pour vos projets personnels et commerciaux. Cependant, assurez-vous d'avoir les droits nécessaires pour utiliser le contenu audio original. Notre extracteur vocal est parfait pour les créateurs de contenu, podcasteurs et remixeurs audio cherchant à supprimer les pistes d'instruments pour la création de nouveau contenu. Cet extracteur vocal facilite la suppression d'éléments instrumentaux de tout fichier audio."
+        }
+      ]
+    }
+  }
+}

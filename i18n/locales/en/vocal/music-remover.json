@@ -1,0 +1,73 @@
+{
+  "music-remover": {
+    "meta": {
+      "title": "Music Remover - Remove music from audio",
+      "description": "Instantly remove music from audio and video with our advanced music remover. Remove music from audio and video to improve your content creation.",
+      "keywords": "music remover, remove music from audio"
+    },
+    "hero": {
+      "title": "Music Remover",
+      "subtitle": "Instantly remove music from audio, video and more"
+    },
+    "advantages": {
+      "title": "Why Choose Our Music Remover?",
+      "items": [
+        {
+          "title": "Professional Music Remover Tool",
+          "description": "Experience studio-quality sound separation with our advanced AI technology. Our music remover precisely removes background tracks from audio and video files, delivering crystal-clear results perfect for content creation and professional projects.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Advanced Sound Processing Technology",
+          "description": "Our AI-powered music remover employs cutting-edge algorithms to maintain vocal clarity while effectively removing background tracks from sound recordings. The result is a professional-grade output that preserves the original vocal characteristics.",
+          "icon": "WrenchScrewdriverIcon"
+        },
+        {
+          "title": "Real-time Sound Separation",
+          "description": "Get your processed files in seconds with our efficient music remover. No need to wait for lengthy processing times - our cloud-based system delivers quick results when you remove background tracks from recordings without compromising quality.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "High-Quality Sound Output",
+          "description": "Export your processed files in high-definition sound formats. Our music remover ensures premium quality output when you remove background tracks from recordings, suitable for professional use in content creation projects and commercial applications.",
+          "icon": "ArrowDownTrayIcon"
+        },
+        {
+          "title": "Precise Sound Separation Control",
+          "description": "Fine-tune your sound separation process with advanced controls. Adjust separation parameters to achieve the perfect balance when you remove background tracks from recordings, ensuring optimal vocal clarity for your specific content needs.",
+          "icon": "AdjustmentsHorizontalIcon"
+        },
+        {
+          "title": "Multi-format Sound Support",
+          "description": "Our music remover supports various sound formats including MP3, WAV, and M4A. Process your sound files regardless of their format, making it versatile to remove background tracks from recordings of all types.",
+          "icon": "AdjustmentsI"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "About Music Remover",
+      "items": [
+        {
+          "question": "What is a Music Remover?",
+          "answer": "A music remover is an AI-powered tool that helps you remove background tracks from sound and video files, leaving only the vocal or speech parts. Our music remover makes it easy to create content by effectively removing background tracks from sound recordings while preserving vocal quality."
+        },
+        {
+          "question": "How does the Music Remover work?",
+          "answer": "Our music remover analyzes your sound files, detects background track frequencies, and removes background tracks from recordings while keeping the vocal content clear. The process uses advanced machine learning algorithms to remove background tracks from recordings with high accuracy and quality results."
+        },
+        {
+          "question": "Which sound formats are supported by the Music Remover?",
+          "answer": "You can use our music remover with MP3, WAV, M4A, and other popular sound formats. The music remover is designed to remove background tracks from sound files of various formats up to 10MB in size."
+        },
+        {
+          "question": "How can I get the best results when I remove music from audio?",
+          "answer": "For the best results with our music remover, use high-quality sound files with clear separation between background tracks and vocals. Clean recordings help the music remover achieve more accurate results when you remove background tracks from recordings."
+        },
+        {
+          "question": "Can I use the processed sound commercially?",
+          "answer": "Yes, you can use the processed sound created by our music remover for personal or commercial projects. When you remove background tracks from recordings using our tool, ensure you have the rights to the original sound before using it for commercial purposes."
+        }
+      ]
+    }
+  }
+}

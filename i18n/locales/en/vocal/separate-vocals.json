@@ -1,0 +1,73 @@
+{
+  "separate-vocals": {
+    "meta": {
+      "title": "Separate Vocals: Remove background audio",
+      "description": "Instantly separate vocals from any music, audio and video with our advanced vocal separator. Remove background audio to improve your content creation.",
+      "keywords": "separate vocals, remove background audio"
+    },
+    "hero": {
+      "title": "Separate Vocals",
+      "subtitle": "Instantly remove background audio from any music, audio, video and more"
+    },
+    "advantages": {
+      "title": "Why Choose Our Separate Vocals Tool?",
+      "items": [
+        {
+          "title": "Professional Separate Vocals",
+          "description": "Experience studio-quality sound processing with our advanced AI technology. Our separate vocals tool precisely removes background audio while preserving vocals, delivering crystal-clear results perfect for content creation and music production. Easily remove background audio with professional precision.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Advanced Vocal Processing",
+          "description": "Our AI-powered system employs cutting-edge algorithms to remove background audio with advanced precision. The result is a professional-grade separated track that maintains the original sound characteristics and quality for your separate vocals needs.",
+          "icon": "WrenchScrewdriverIcon"
+        },
+        {
+          "title": "Real-time Processing",
+          "description": "Get your separated vocals in seconds with our efficient AI technology. No need to wait for lengthy processing times - our cloud-based system delivers quick results to remove background audio without compromising quality.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "High-Quality Output",
+          "description": "Export your processed vocals in high-definition formats. Our separate vocals tool ensures premium quality output suitable for professional use in content creation, music production, and sound editing. Remove background audio while maintaining sound fidelity.",
+          "icon": "ArrowDownTrayIcon"
+        },
+        {
+          "title": "Precise Control",
+          "description": "Fine-tune your vocal separation with advanced controls. Adjust processing parameters to achieve the perfect balance between vocal clarity and background removal for your specific needs. This separate vocals tool gives you complete control to remove background audio effectively.",
+          "icon": "AdjustmentsHorizontalIcon"
+        },
+        {
+          "title": "Multi-format Support",
+          "description": "Our AI-powered system supports various sound formats including MP3, WAV, and M4A. Process your sound files regardless of their format, making it versatile for all your separate vocals needs. Remove background audio from any supported format.",
+          "icon": "AdjustmentsI"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "About Separate Vocals",
+      "items": [
+        {
+          "question": "What is an AI Vocal Separator?",
+          "answer": "An AI Vocal Separator is an advanced tool that uses artificial intelligence to remove background audio from music tracks. Our separate vocals technology employs sophisticated machine learning algorithms to identify and isolate sound elements while maintaining their original quality and characteristics. This technology excels at removing background audio with precision."
+        },
+        {
+          "question": "How does our AI Vocal Separator work?",
+          "answer": "Our AI-powered separate vocals tool uses state-of-the-art machine learning algorithms to analyze the frequency spectrum of your audio. The technology identifies vocal frequencies, isolates them from background music elements, and creates two distinct tracks: one containing only the vocals and another with the instrument parts. This process effectively removes background audio while preserving vocal quality."
+        },
+        {
+          "question": "What types of audio files can I process?",
+          "answer": "Our separate vocals tool supports various audio formats including MP3, WAV, M4A, and more. You can process any sound file to remove background audio, whether it's a professional recording or a casual sound file. This separate vocals works best with clear vocal recordings and can handle files up to 10MB in size while effectively removing background audio."
+        },
+        {
+          "question": "How can I get the best results with separate vocals?",
+          "answer": "For optimal results with our separate vocals tool, use high-quality sound files with clear vocals. Avoid heavily processed or distorted tracks, as they may affect the ability to remove background audio effectively. The clearer the original recording, the better our separate vocals can remove background audio while maintaining quality."
+        },
+        {
+          "question": "Can I use the separated vocals commercially?",
+          "answer": "Yes, you can use the separated vocals for your personal and commercial projects. However, please ensure you have the necessary rights to use the original audio content. Our separate vocals tool is perfect for content creators, podcasters, and audio remixers looking to remove background audio for new content creation. This makes it easy to remove background audio from any audio file."
+        }
+      ]
+    }
+  }
+}

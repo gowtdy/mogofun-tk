@@ -1,0 +1,73 @@
+{
+  "vocal-extractor": {
+    "meta": {
+      "title": "Extractor de Voces",
+      "description": "Elimina instantáneamente la música instrumental de cualquier canción, audio y video con nuestro extractor de voces avanzado. Elimina la música instrumental del audio para mejorar tu creación de contenido.",
+      "keywords": "extractor de voces, eliminar instrumental"
+    },
+    "hero": {
+      "title": "Extractor de Voces",
+      "subtitle": "Elimina instantáneamente la música instrumental de cualquier canción, audio, video y más"
+    },
+    "advantages": {
+      "title": "¿Por qué elegir nuestro Extractor de Voces?",
+      "items": [
+        {
+          "title": "Extracción de Audio Profesional con IA",
+          "description": "Experimenta procesamiento de audio de calidad de estudio con nuestra tecnología de IA avanzada. Nuestro extractor de voces elimina precisamente las pistas instrumentales mientras preserva las voces, entregando resultados cristalinos perfectos para la creación de contenido. Este extractor de voces está diseñado para eliminar elementos instrumentales con precisión profesional.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Procesamiento de Audio Avanzado",
+          "description": "Nuestro sistema impulsado por IA emplea algoritmos de vanguardia para eliminar elementos instrumentales mientras aísla efectivamente las voces. El resultado es una pista separada de grado profesional que mantiene las características de audio originales. Esta tecnología de extractor de voces asegura una eliminación limpia de instrumentos.",
+          "icon": "WrenchScrewdriverIcon"
+        },
+        {
+          "title": "Procesamiento en Tiempo Real",
+          "description": "Obtén tu audio separado en segundos con nuestra tecnología de IA eficiente. No necesitas esperar largos tiempos de procesamiento - nuestro sistema basado en la nube entrega resultados rápidos para eliminar pistas instrumentales sin comprometer la calidad. Nuestro extractor de voces procesa archivos rápidamente.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Salida de Alta Calidad",
+          "description": "Exporta tu audio procesado en formatos de alta definición. Nuestro extractor de voces asegura una salida de calidad premium adecuada para uso profesional en creación de contenido y producción musical. Elimina pistas instrumentales mientras mantienes la fidelidad del audio.",
+          "icon": "ArrowDownTrayIcon"
+        },
+        {
+          "title": "Control Preciso",
+          "description": "Ajusta finamente tu separación de audio con controles avanzados. Ajusta los parámetros de procesamiento para lograr el equilibrio perfecto entre claridad vocal y eliminación de instrumentos para tus necesidades específicas. Este extractor de voces te da control completo sobre la eliminación de instrumentos.",
+          "icon": "AdjustmentsHorizontalIcon"
+        },
+        {
+          "title": "Soporte Multi-formato",
+          "description": "Nuestro sistema impulsado por IA soporta varios formatos de audio incluyendo MP3, WAV y M4A. Procesa tus archivos de audio independientemente de su formato, haciéndolo versátil para todas tus necesidades de separación de audio. Este extractor de voces puede eliminar pistas instrumentales de cualquier formato soportado.",
+          "icon": "AdjustmentsI"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Acerca del Extractor de Voces",
+      "items": [
+        {
+          "question": "¿Qué es un Extractor de Voces con IA?",
+          "answer": "Un Extractor de Voces con IA es una herramienta avanzada que usa inteligencia artificial para eliminar pistas instrumentales de archivos de audio. Nuestro extractor de voces emplea algoritmos sofisticados de aprendizaje automático para identificar y separar elementos de audio mientras mantiene su calidad y características originales. Esta tecnología sobresale en eliminar elementos instrumentales con precisión."
+        },
+        {
+          "question": "¿Cómo funciona nuestro Extractor de Voces con IA?",
+          "answer": "Nuestro extractor de voces impulsado por IA usa algoritmos de aprendizaje automático de última generación para analizar el espectro de frecuencias de tu audio. La tecnología identifica frecuencias vocales, las aísla de elementos de música de fondo, y crea dos pistas distintas: una conteniendo solo las voces y otra con las partes instrumentales. Este proceso elimina efectivamente las pistas instrumentales mientras preserva la calidad vocal."
+        },
+        {
+          "question": "¿Qué tipos de archivos de audio puedo procesar?",
+          "answer": "Nuestro extractor de voces soporta varios formatos de audio incluyendo MP3, WAV, M4A y más. Puedes procesar cualquier archivo de audio para eliminar pistas instrumentales, ya sea una grabación profesional o un archivo de audio casual. Este extractor de voces funciona mejor con grabaciones vocales claras y puede manejar archivos de hasta 10MB de tamaño mientras elimina efectivamente elementos instrumentales."
+        },
+        {
+          "question": "¿Cómo puedo obtener los mejores resultados con el extractor de voces?",
+          "answer": "Para resultados óptimos con nuestro extractor de voces, usa archivos de audio de alta calidad con voces claras. Evita pistas muy procesadas o distorsionadas, ya que pueden afectar la capacidad de eliminar elementos instrumentales efectivamente. Mientras más clara sea la grabación original, mejor puede nuestro extractor de voces eliminar pistas instrumentales mientras mantiene la calidad."
+        },
+        {
+          "question": "¿Puedo usar el audio extraído comercialmente?",
+          "answer": "Sí, puedes usar el audio separado para tus proyectos personales y comerciales. Sin embargo, por favor asegúrate de tener los derechos necesarios para usar el contenido de audio original. Nuestro extractor de voces es perfecto para creadores de contenido, podcasters y remezcladores de audio que buscan eliminar pistas instrumentales para nueva creación de contenido. Este extractor de voces hace fácil eliminar elementos instrumentales de cualquier archivo de audio."
+        }
+      ]
+    }
+  }
+}

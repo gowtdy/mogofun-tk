@@ -1,0 +1,73 @@
+{
+  "isolate-vocals": {
+    "meta": {
+      "title": "Aislar Voces - eliminador de música de fondo",
+      "description": "Aísla instantáneamente las voces de audio y video con nuestro avanzado eliminador de música de fondo. Aísla voces sin música de fondo para mejorar tu creación de contenido.",
+      "keywords": "aislar voces, eliminador de música de fondo"
+    },
+    "hero": {
+      "title": "Eliminador de Música de Fondo",
+      "subtitle": "Aísla instantáneamente las voces de cualquier música, audio, video y más"
+    },
+    "advantages": {
+      "title": "¿Por qué elegir nuestro eliminador de música de fondo?",
+      "items": [
+        {
+          "title": "Eliminador de Música de Fondo IA Profesional",
+          "description": "Experimenta procesamiento de audio de calidad de estudio con nuestra tecnología avanzada de eliminación de música de fondo. Nuestro sistema impulsado por IA elimina precisamente la música de fondo mientras preserva las voces, entregando resultados cristalinos perfectos para la creación de contenido y producción musical. Esta herramienta sobresale en aislar voces de cualquier fuente de audio.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Tecnología Avanzada de Procesamiento de Audio",
+          "description": "Nuestro eliminador de música de fondo emplea algoritmos de aprendizaje automático de vanguardia para separar voces de pistas instrumentales. El resultado es audio aislado de grado profesional que mantiene la calidad y características originales, haciéndolo ideal para remezclas y creación de contenido. Nuestra tecnología de aislamiento de voces asegura una extracción vocal precisa.",
+          "icon": "WrenchScrewdriverIcon"
+        },
+        {
+          "title": "Eliminación de Música de Fondo en Tiempo Real",
+          "description": "Obtén tu audio procesado en segundos con nuestro eficiente eliminador de música de fondo. No necesitas esperar tiempos de procesamiento largos - nuestro sistema basado en la nube entrega resultados rápidos para aislar voces sin comprometer la calidad o fidelidad del audio.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Salida de Audio de Alta Calidad",
+          "description": "Exporta tus pistas procesadas en formatos de alta definición. Nuestro eliminador de música de fondo asegura una salida de calidad premium adecuada para uso profesional en creación de contenido, producción musical y proyectos de edición de audio. Aísla voces con calidad de grado profesional cada vez.",
+          "icon": "ArrowDownTrayIcon"
+        },
+        {
+          "title": "Control de Audio Preciso",
+          "description": "Ajusta finamente tu separación de audio con controles avanzados. Ajusta los parámetros de procesamiento para lograr el equilibrio perfecto entre claridad vocal y eliminación de música de fondo para tus necesidades creativas específicas y proyectos. Personaliza cómo aíslas voces para resultados óptimos.",
+          "icon": "AdjustmentsHorizontalIcon"
+        },
+        {
+          "title": "Soporte de Audio Multi-formato",
+          "description": "Nuestro eliminador de música de fondo soporta varios formatos de audio incluyendo MP3, WAV, M4A y más. Procesa tus archivos de audio independientemente de su formato, haciéndolo versátil para todas tus necesidades de separación de audio y creación de contenido. Aísla voces de cualquier formato de audio soportado.",
+          "icon": "AdjustmentsI"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Acerca del Eliminador de Música de Fondo",
+      "items": [
+        {
+          "question": "¿Qué es un eliminador de música de fondo?",
+          "answer": "Un eliminador de música de fondo es una herramienta de IA avanzada que usa inteligencia artificial para separar voces de pistas instrumentales en archivos de audio. Nuestro eliminador de música de fondo emplea algoritmos sofisticados de aprendizaje automático para identificar y eliminar música de fondo mientras preserva la calidad y características vocales. Esta tecnología sobresale en aislar voces con precisión profesional, haciéndolo perfecto para creadores de contenido que necesitan aislar voces de música."
+        },
+        {
+          "question": "¿Cómo funciona nuestro eliminador de música de fondo?",
+          "answer": "Nuestro eliminador de música de fondo impulsado por IA usa algoritmos de aprendizaje automático de última generación para analizar el espectro de frecuencias de tu audio. La tecnología identifica frecuencias vocales, las separa de elementos instrumentales y crea pistas distintas: una conteniendo solo voces y otra con la música de fondo eliminada. Este proceso efectivamente aísla voces mientras preserva la calidad del audio, permitiéndote aislar voces de cualquier fuente de audio."
+        },
+        {
+          "question": "¿Qué tipos de archivos de audio puedo procesar?",
+          "answer": "Nuestro eliminador de música de fondo soporta varios formatos de audio incluyendo MP3, WAV, M4A y más. Puedes procesar cualquier archivo de audio para eliminar música de fondo, ya sea una grabación profesional o contenido de audio casual. Esta herramienta funciona mejor con grabaciones vocales claras y puede manejar archivos de hasta 10MB de tamaño mientras efectivamente separa voces de pistas instrumentales. Perfecto para cualquiera que busque aislar voces de archivos de música."
+        },
+        {
+          "question": "¿Cómo puedo obtener los mejores resultados con el eliminador de música de fondo?",
+          "answer": "Para resultados óptimos con nuestro eliminador de música de fondo, usa archivos de audio de alta calidad con voces claras. Evita pistas muy procesadas o distorsionadas, ya que pueden afectar la capacidad de eliminar música de fondo efectivamente. Mientras más clara sea la grabación original, mejor puede nuestra herramienta aislar voces mientras mantiene la calidad. Esto asegura los mejores resultados cuando aíslas voces de tus archivos de audio."
+        },
+        {
+          "question": "¿Puedo usar el audio procesado comercialmente?",
+          "answer": "Sí, puedes usar el audio procesado para tus proyectos personales y comerciales. Sin embargo, por favor asegúrate de tener los derechos necesarios para usar el contenido de audio original. Nuestro eliminador de música de fondo es perfecto para creadores de contenido, podcasters y remezcladores de audio que buscan separar voces para nueva creación de contenido y producción musical. Ya sea que necesites aislar voces para remezclas o crear pistas a capella, nuestra herramienta entrega resultados profesionales."
+        }
+      ]
+    }
+  }
+}

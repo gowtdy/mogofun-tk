@@ -1,0 +1,73 @@
+{
+  "music-remover": {
+    "meta": {
+      "title": "Removedor de Música - Remover música do áudio",
+      "description": "Remova instantaneamente música de áudio e vídeo com nosso removedor de música avançado. Remova música de áudio e vídeo para melhorar sua criação de conteúdo.",
+      "keywords": "removedor de música, remover música do áudio"
+    },
+    "hero": {
+      "title": "Removedor de Música",
+      "subtitle": "Remova instantaneamente música de áudio, vídeo e muito mais"
+    },
+    "advantages": {
+      "title": "Por que Escolher Nosso Removedor de Música?",
+      "items": [
+        {
+          "title": "Ferramenta Profissional de Remoção de Música",
+          "description": "Experimente separação de som de qualidade de estúdio com nossa tecnologia de IA avançada. Nosso removedor de música remove precisamente faixas de fundo de arquivos de áudio e vídeo, entregando resultados cristalinos perfeitos para criação de conteúdo e projetos profissionais.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Tecnologia Avançada de Processamento de Som",
+          "description": "Nosso removedor de música alimentado por IA emprega algoritmos de ponta para manter a clareza vocal enquanto remove efetivamente faixas de fundo de gravações de som. O resultado é uma saída de qualidade profissional que preserva as características vocais originais.",
+          "icon": "WrenchScrewdriverIcon"
+        },
+        {
+          "title": "Separação de Som em Tempo Real",
+          "description": "Obtenha seus arquivos processados em segundos com nosso removedor de música eficiente. Não há necessidade de esperar por tempos de processamento longos - nosso sistema baseado em nuvem entrega resultados rápidos quando você remove faixas de fundo de gravações sem comprometer a qualidade.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Saída de Som de Alta Qualidade",
+          "description": "Exporte seus arquivos processados em formatos de som de alta definição. Nosso removedor de música garante saída de qualidade premium quando você remove faixas de fundo de gravações, adequada para uso profissional em projetos de criação de conteúdo e aplicações comerciais.",
+          "icon": "ArrowDownTrayIcon"
+        },
+        {
+          "title": "Controle Preciso de Separação de Som",
+          "description": "Ajuste fino do seu processo de separação de som com controles avançados. Ajuste parâmetros de separação para alcançar o equilíbrio perfeito quando você remove faixas de fundo de gravações, garantindo clareza vocal ótima para suas necessidades específicas de conteúdo.",
+          "icon": "AdjustmentsHorizontalIcon"
+        },
+        {
+          "title": "Suporte Multi-formato de Som",
+          "description": "Nosso removedor de música suporta vários formatos de som incluindo MP3, WAV e M4A. Processe seus arquivos de som independentemente do formato, tornando-o versátil para remover faixas de fundo de gravações de todos os tipos.",
+          "icon": "AdjustmentsI"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Sobre o Removedor de Música",
+      "items": [
+        {
+          "question": "O que é um Removedor de Música?",
+          "answer": "Um removedor de música é uma ferramenta alimentada por IA que ajuda você a remover faixas de fundo de arquivos de som e vídeo, deixando apenas as partes vocais ou de fala. Nosso removedor de música facilita a criação de conteúdo removendo efetivamente faixas de fundo de gravações de som enquanto preserva a qualidade vocal."
+        },
+        {
+          "question": "Como funciona o Removedor de Música?",
+          "answer": "Nosso removedor de música analisa seus arquivos de som, detecta frequências de faixas de fundo e remove faixas de fundo de gravações mantendo o conteúdo vocal claro. O processo usa algoritmos avançados de aprendizado de máquina para remover faixas de fundo de gravações com alta precisão e resultados de qualidade."
+        },
+        {
+          "question": "Quais formatos de som são suportados pelo Removedor de Música?",
+          "answer": "Você pode usar nosso removedor de música com MP3, WAV, M4A e outros formatos de som populares. O removedor de música é projetado para remover faixas de fundo de arquivos de som de vários formatos até 10MB de tamanho."
+        },
+        {
+          "question": "Como posso obter os melhores resultados quando removo música do áudio?",
+          "answer": "Para os melhores resultados com nosso removedor de música, use arquivos de som de alta qualidade com separação clara entre faixas de fundo e vocais. Gravações limpas ajudam o removedor de música a alcançar resultados mais precisos quando você remove faixas de fundo de gravações."
+        },
+        {
+          "question": "Posso usar o som processado comercialmente?",
+          "answer": "Sim, você pode usar o som processado criado por nosso removedor de música para projetos pessoais ou comerciais. Quando você remove faixas de fundo de gravações usando nossa ferramenta, certifique-se de ter os direitos do som original antes de usá-lo para fins comerciais."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "voice-isolation": {
+    "meta": {
+      "title": "Stimmen-Isolation",
+      "description": "Extrahieren Sie sofort Stimmen aus jeder Musik, Audio- und Videodatei mit unserem fortschrittlichen Stimmen-Isolations-Tool. Extrahieren Sie Stimmen ohne Hintergrundmusik für Ihre Content-Erstellung.",
+      "keywords": "Stimmen-Isolation, Stimme extrahieren"
+    },
+    "hero": {
+      "title": "Stimmen-Isolation",
+      "subtitle": "Extrahieren Sie sofort Stimmen aus jeder Musik, Audio-, Video- und anderen Dateien"
+    },
+    "advantages": {
+      "title": "Warum unsere Stimmen-Isolation wählen?",
+      "items": [
+        {
+          "title": "Professionelle KI-Audio-Extraktion",
+          "description": "Erleben Sie Studio-Qualität bei der Audio-Verarbeitung mit unserer fortschrittlichen KI-Technologie. Unser Stimmen-Isolations-Tool extrahiert präzise Stimmen aus Hintergrundmusik und liefert kristallklare Ergebnisse, perfekt für die Content-Erstellung.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Fortschrittliche Audio-Verarbeitung",
+          "description": "Unser KI-gestütztes System verwendet modernste Algorithmen, um Stimmen zu extrahieren und dabei effektiv Hintergrundmusik zu entfernen. Das Ergebnis ist eine professionelle extrahierte Spur, die die ursprünglichen Audio-Eigenschaften bewahrt.",
+          "icon": "WrenchScrewdriverIcon"
+        },
+        {
+          "title": "Echtzeit-Verarbeitung",
+          "description": "Erhalten Sie Ihr extrahiertes Audio in Sekunden mit unserer effizienten KI-Technologie. Keine langen Wartezeiten - unser cloudbasiertes System liefert schnelle Ergebnisse zur Stimmen-Extraktion ohne Qualitätsverlust.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Hochwertige Ausgabe",
+          "description": "Exportieren Sie Ihr extrahiertes Audio in hochauflösenden Formaten. Unsere Stimmen-Isolation gewährleistet Premium-Qualität für die Stimmen-Extraktion, geeignet für professionelle Anwendungen in der Content-Erstellung und Audio-Produktion.",
+          "icon": "ArrowDownTrayIcon"
+        },
+        {
+          "title": "Präzise Kontrolle",
+          "description": "Feinabstimmung Ihrer Audio-Extraktion mit erweiterten Steuerungen. Passen Sie Extraktionsparameter an, um Stimmen zu extrahieren und das perfekte Gleichgewicht zwischen Stimmklarheit und Hintergrundentfernung für Ihre spezifischen Bedürfnisse zu erreichen.",
+          "icon": "AdjustmentsHorizontalIcon"
+        },
+        {
+          "title": "Multi-Format-Unterstützung",
+          "description": "Unser KI-gestütztes System unterstützt verschiedene Audio-Formate einschließlich MP3, WAV und M4A. Verarbeiten Sie Ihre Audio-Dateien unabhängig von ihrem Format und machen Sie es vielseitig für alle Ihre Extraktionsbedürfnisse.",
+          "icon": "AdjustmentsI"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Über Stimmen-Isolation",
+      "items": [
+        {
+          "question": "Was ist eine KI-Stimmen-Isolation?",
+          "answer": "Eine KI-Stimmen-Isolation ist ein fortschrittliches Tool, das künstliche Intelligenz verwendet, um Stimmen aus Hintergrundmusik zu extrahieren. Unser System verwendet ausgeklügelte Machine-Learning-Algorithmen, um Audio-Elemente zu identifizieren und zu extrahieren, während ihre ursprüngliche Qualität und Eigenschaften erhalten bleiben."
+        },
+        {
+          "question": "Wie funktioniert unsere KI-Stimmen-Isolation?",
+          "answer": "Unser KI-gestütztes System verwendet modernste Machine-Learning-Algorithmen, um das Frequenzspektrum Ihres Audios zu analysieren. Die Technologie identifiziert Stimmfrequenzen, extrahiert sie aus Hintergrundmusik-Elementen und erstellt zwei verschiedene Spuren: eine mit nur den Stimmen und eine andere mit den Hintergrundmusik-Teilen."
+        },
+        {
+          "question": "Welche Arten von Audio-Dateien kann ich verarbeiten?",
+          "answer": "Unser Stimmen-Isolations-Tool unterstützt verschiedene Audio-Formate einschließlich MP3, WAV, M4A und mehr. Sie können jede Audio-Datei zur Stimmen-Extraktion verarbeiten, sei es eine professionelle Aufnahme oder eine normale Audio-Datei. Das System funktioniert am besten mit klaren Stimmaufnahmen und kann Dateien bis zu 10MB verarbeiten."
+        },
+        {
+          "question": "Wie kann ich die besten Ergebnisse mit der Stimmen-Isolation erzielen?",
+          "answer": "Für optimale Ergebnisse mit unserem System verwenden Sie hochwertige Audio-Dateien mit klaren Stimmen. Vermeiden Sie stark verarbeitete oder verzerrte Tracks, da diese die Fähigkeit zur effektiven Stimmen-Extraktion beeinträchtigen können. Je klarer die ursprüngliche Aufnahme, desto besser werden die Stimmen-Isolations-Ergebnisse sein."
+        },
+        {
+          "question": "Kann ich das getrennte Audio kommerziell nutzen?",
+          "answer": "Ja, Sie können das extrahierte Audio für Ihre persönlichen und kommerziellen Projekte verwenden. Stellen Sie jedoch sicher, dass Sie die notwendigen Rechte zur Nutzung des ursprünglichen Audio-Inhalts haben. Unsere Stimmen-Isolation ist perfekt für Content-Ersteller, Podcaster und Audio-Remixer, die Stimmen für neue Content-Erstellung extrahieren möchten."
+        }
+      ]
+    }
+  }
+}

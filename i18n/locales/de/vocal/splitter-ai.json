@@ -1,0 +1,73 @@
+{
+  "splitter-ai": {
+    "meta": {
+      "title": "Splitter AI - Gesangsentfernung und -isolierung",
+      "description": "Erstellen Sie sofort Gesangsentfernung und -isolierung aus Audio- und Videodateien mit unserer fortschrittlichen Splitter AI. Nutzen Sie Gesangsentfernung und -isolierung zur Verbesserung Ihrer Content-Erstellung.",
+      "keywords": "splitter ai, gesangsentfernung und isolierung"
+    },
+    "hero": {
+      "title": "Splitter AI",
+      "subtitle": "Erstellen Sie sofort Gesangsentfernung und -isolierung aus Audio- und Videodateien"
+    },
+    "advantages": {
+      "title": "Warum unsere Splitter AI wählen?",
+      "items": [
+        {
+          "title": "Professionelle Gesangsentfernung und -isolierung Technologie",
+          "description": "Erleben Sie Studio-Qualität bei der Tonverarbeitung mit unserer fortschrittlichen Splitter AI Technologie. Unser Gesangsentfernung und -isolierung Tool trennt präzise Gesang von Audio- und Videodateien und bewahrt dabei die Audiointegrität, liefert kristallklare Ergebnisse, perfekt für Content-Erstellung und Musikproduktion.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Fortschrittliche Audio-Verarbeitungsengine",
+          "description": "Unsere Splitter AI verwendet modernste Algorithmen für Gesangsentfernung und -isolierung und erhält dabei effektiv die ursprünglichen Audioeigenschaften. Das Ergebnis sind professionelle getrennte Spuren, die das Wesen Ihrer ursprünglichen Aufnahme bewahren.",
+          "icon": "WrenchScrewdriverIcon"
+        },
+        {
+          "title": "Echtzeit-Gesangsentfernung und -isolierung",
+          "description": "Erhalten Sie Ihre getrennten Audiodateien in Sekunden mit unserer effizienten Splitter AI Technologie. Keine langen Wartezeiten - unsere cloud-basierte Gesangsentfernung und -isolierung liefert schnelle Ergebnisse zur Gesangstrennung ohne Qualitätsverlust.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Hochwertige Audio-Ausgabe",
+          "description": "Exportieren Sie Ihre verarbeiteten Audiodateien in hochauflösenden Formaten. Unsere Splitter AI gewährleistet Premium-Qualität für professionelle Anwendungen in Content-Erstellung und Musikproduktion und bewahrt dabei die Audio-Treue durch fortschrittliche Gesangsentfernung und -isolierung.",
+          "icon": "ArrowDownTrayIcon"
+        },
+        {
+          "title": "Präzise Audio-Kontrolle",
+          "description": "Feinabstimmung Ihrer Audio-Trennung mit erweiterten Steuerungen. Unser Gesangsentfernung und -isolierung Tool ermöglicht es Ihnen, Verarbeitungsparameter anzupassen, um das perfekte Gleichgewicht bei der Gesangstrennung für Ihre spezifischen Bedürfnisse zu erreichen.",
+          "icon": "AdjustmentsHorizontalIcon"
+        },
+        {
+          "title": "Multi-Format Audio-Unterstützung",
+          "description": "Unsere Splitter AI unterstützt verschiedene Audioformate einschließlich MP3, WAV und M4A. Verarbeiten Sie Ihre Audiodateien unabhängig von ihrem Format und machen Sie unsere Gesangsentfernung und -isolierung vielseitig für jedes unterstützte Audioformat.",
+          "icon": "AdjustmentsI"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Über Splitter AI",
+      "items": [
+        {
+          "question": "Was ist eine Splitter AI?",
+          "answer": "Eine Splitter AI ist ein fortschrittliches Tool, das künstliche Intelligenz für Gesangsentfernung und -isolierung aus Audio- und Videodateien verwendet. Unsere Technologie nutzt ausgeklügelte Machine-Learning-Algorithmen, um Tonelemente zu identifizieren und zu trennen und dabei ihre ursprüngliche Qualität und Eigenschaften zu bewahren. Diese Gesangsentfernung und -isolierung Technologie zeichnet sich durch professionelle Präzision bei der Trennung von Gesang aus Audio- und Videodateien aus."
+        },
+        {
+          "question": "Wie funktioniert unsere Gesangsentfernung und -isolierung?",
+          "answer": "Unsere Splitter AI verwendet modernste Machine-Learning-Algorithmen, um das Frequenzspektrum Ihres Audios zu analysieren. Die Technologie identifiziert Gesangsfrequenzen, isoliert sie von Hintergrundelementen und erstellt zwei verschiedene Spuren: eine mit nur dem instrumentalen Sound und eine andere mit dem Gesang. Dieser Gesangsentfernung und -isolierung Prozess trennt effektiv Gesang und bewahrt dabei die ursprüngliche Qualität."
+        },
+        {
+          "question": "Welche Arten von Audiodateien kann ich verarbeiten?",
+          "answer": "Unsere Splitter AI unterstützt verschiedene Audioformate einschließlich MP3, WAV, M4A und mehr. Sie können jede Audiodatei für Gesangsentfernung und -isolierung verarbeiten, sei es eine professionelle Aufnahme oder eine zufällige Audiodatei. Diese Technologie funktioniert am besten mit klaren Audio- und Gesangsaufnahmen und kann Dateien bis zu 10MB Größe verarbeiten und dabei effektiv Gesang trennen."
+        },
+        {
+          "question": "Wie kann ich die besten Ergebnisse mit Gesangsentfernung und -isolierung erzielen?",
+          "answer": "Für optimale Ergebnisse bei der Trennung von Gesang aus Audio- und Videodateien verwenden Sie hochwertige Audiodateien mit klarem Audio und Gesang. Vermeiden Sie stark verarbeitete oder verzerrte Spuren, da diese die Qualität der Gesangsentfernung und -isolierung beeinträchtigen können. Je klarer die ursprüngliche Aufnahme, desto besser kann unsere Splitter AI Gesang trennen und dabei die Audio-Treue bewahren."
+        },
+        {
+          "question": "Kann ich die getrennten Gesangsspuren kommerziell nutzen?",
+          "answer": "Ja, Sie können die getrennten Gesangsspuren für Ihre persönlichen und kommerziellen Projekte verwenden. Stellen Sie jedoch sicher, dass Sie die notwendigen Rechte zur Nutzung des ursprünglichen Audioinhalts haben. Unsere Splitter AI ist perfekt für Content-Ersteller, Podcaster und Audio-Remixer, die neue Inhalte aus bestehenden Audiospuren erstellen möchten. Diese Gesangsentfernung und -isolierung macht es einfach, Gesang für jedes Projekt zu trennen."
+        }
+      ]
+    }
+  }
+}

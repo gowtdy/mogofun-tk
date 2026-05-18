@@ -1,0 +1,73 @@
+{
+  "vocal-splitter": {
+    "meta": {
+      "title": "Vocal Splitter - Vocals aus Musik extrahieren",
+      "description": "Extrahieren Sie sofort Vocals aus Musik, Audio und Video mit unserem fortschrittlichen Vocal Splitter. Extrahieren Sie Vocals aus Musik, um Ihre Content-Erstellung zu verbessern.",
+      "keywords": "vocal splitter, vocals aus musik extrahieren"
+    },
+    "hero": {
+      "title": "Vocal Splitter",
+      "subtitle": "Extrahieren Sie sofort Vocals aus Musik, Audio, Video und mehr"
+    },
+    "advantages": {
+      "title": "Warum unseren Vocal Splitter wählen?",
+      "items": [
+        {
+          "title": "Professionelle KI-Vocal-Extraktion",
+          "description": "Erleben Sie Studio-Qualität bei der Tonverarbeitung mit unserer fortschrittlichen KI-Technologie. Unser Vocal Splitter extrahiert präzise Vocals aus Musik und bewahrt dabei die Audio-Integrität, liefert kristallklare Ergebnisse, die perfekt für Content-Erstellung und Musikproduktion sind.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Fortschrittliche Tonverarbeitung",
+          "description": "Unser KI-gestützter Vocal Splitter verwendet modernste Algorithmen, um Vocals von Hintergrundmusik zu isolieren und dabei effektiv die ursprünglichen Audio-Eigenschaften zu erhalten. Das Ergebnis sind professionelle getrennte Spuren, die das Wesen Ihrer ursprünglichen Aufnahme bewahren.",
+          "icon": "WrenchScrewdriverIcon"
+        },
+        {
+          "title": "Echtzeit-Verarbeitung",
+          "description": "Erhalten Sie Ihre getrennten Audiodateien in Sekunden mit unserer effizienten KI-Technologie. Keine langen Wartezeiten - unser cloud-basierter Vocal Splitter liefert schnelle Ergebnisse, um Vocals aus Musik zu extrahieren, ohne die Qualität zu beeinträchtigen.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Hochwertige Ausgabe",
+          "description": "Exportieren Sie Ihre verarbeiteten Audiodateien in hochauflösenden Formaten. Unser Vocal Splitter gewährleistet Premium-Qualität für den professionellen Einsatz in Content-Erstellung und Musikproduktion bei gleichzeitiger Wahrung der Audio-Treue.",
+          "icon": "ArrowDownTrayIcon"
+        },
+        {
+          "title": "Präzise Kontrolle",
+          "description": "Feinabstimmung Ihrer Audio-Trennung mit erweiterten Steuerungen. Unser Vocal Splitter ermöglicht es Ihnen, Verarbeitungsparameter anzupassen, um das perfekte Gleichgewicht zu erreichen, wenn Sie Vocals aus Musik für Ihre spezifischen Bedürfnisse extrahieren.",
+          "icon": "AdjustmentsHorizontalIcon"
+        },
+        {
+          "title": "Multi-Format-Unterstützung",
+          "description": "Unser KI-gestütztes System unterstützt verschiedene Audio-Formate einschließlich MP3, WAV und M4A. Verarbeiten Sie Ihre Audiodateien unabhängig von ihrem Format und machen Sie es vielseitig, Vocals aus Musik in jedem unterstützten Format zu extrahieren.",
+          "icon": "AdjustmentsI"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Über Vocal Splitter",
+      "items": [
+        {
+          "question": "Was ist ein KI-Vocal Splitter?",
+          "answer": "Ein KI-Vocal Splitter ist ein fortschrittliches Tool, das künstliche Intelligenz verwendet, um Vocals aus Musikdateien zu extrahieren. Unser System verwendet ausgeklügelte Machine-Learning-Algorithmen, um Audio-Elemente zu identifizieren und zu isolieren, während ihre ursprüngliche Qualität und Eigenschaften erhalten bleiben. Diese Technologie zeichnet sich durch professionelle Präzision beim Extrahieren von Vocals aus Musik aus."
+        },
+        {
+          "question": "Wie funktioniert unser KI-Vocal Splitter?",
+          "answer": "Unser KI-gestützter Vocal Splitter verwendet modernste Machine-Learning-Algorithmen, um das Frequenzspektrum Ihrer Audiodatei zu analysieren. Die Technologie identifiziert Vocal-Frequenzen, isoliert sie von Hintergrundmusik-Elementen und erstellt zwei verschiedene Spuren: eine enthält nur die Vocals und eine andere mit den Instrumental-Teilen. Dieser Prozess extrahiert effektiv Vocals aus Musik und bewahrt dabei die ursprüngliche Qualität."
+        },
+        {
+          "question": "Welche Arten von Audiodateien kann ich verarbeiten?",
+          "answer": "Unser Vocal Splitter unterstützt verschiedene Audio-Formate einschließlich MP3, WAV, M4A und mehr. Sie können jede Audiodatei verarbeiten, um Vocals aus Musik zu extrahieren, sei es eine professionelle Aufnahme oder eine zufällige Audiodatei. Dieser Vocal Splitter funktioniert am besten mit klaren Vocal-Aufnahmen und kann Dateien bis zu 10MB verarbeiten und dabei effektiv Vocals aus Musik extrahieren."
+        },
+        {
+          "question": "Wie kann ich die besten Ergebnisse mit dem Vocal Splitter erzielen?",
+          "answer": "Für optimale Ergebnisse beim Extrahieren von Vocals aus Musik verwenden Sie hochwertige Audiodateien mit klaren Vocals. Vermeiden Sie stark verarbeitete oder verzerrte Spuren, da diese die Trennqualität beeinträchtigen können. Je klarer die ursprüngliche Aufnahme, desto besser kann unser Vocal Splitter Vocals aus Musik extrahieren und dabei die Audio-Treue bewahren."
+        },
+        {
+          "question": "Kann ich die extrahierten Vocals kommerziell nutzen?",
+          "answer": "Ja, Sie können die getrennten Vocals für Ihre persönlichen und kommerziellen Projekte verwenden. Stellen Sie jedoch sicher, dass Sie die notwendigen Rechte zur Nutzung des ursprünglichen Audio-Inhalts haben. Unser Vocal Splitter ist perfekt für Content-Ersteller, Podcaster und Audio-Remixer, die neue Inhalte aus bestehenden Musikspuren erstellen möchten. Dieser Vocal Splitter macht es einfach, Vocals aus Musik für jedes Projekt zu extrahieren."
+        }
+      ]
+    }
+  }
+}

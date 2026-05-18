@@ -1,0 +1,73 @@
+{
+  "music-remover": {
+    "meta": {
+      "title": "Musik-Entferner - Musik aus Audio entfernen",
+      "description": "Entfernen Sie sofort Musik aus Audio und Video mit unserem fortschrittlichen Musik-Entferner. Entfernen Sie Musik aus Audio und Video, um Ihre Content-Erstellung zu verbessern.",
+      "keywords": "musik entferner, musik aus audio entfernen"
+    },
+    "hero": {
+      "title": "Musik-Entferner",
+      "subtitle": "Entfernen Sie sofort Musik aus Audio, Video und mehr"
+    },
+    "advantages": {
+      "title": "Warum unseren Musik-Entferner wählen?",
+      "items": [
+        {
+          "title": "Professionelles Musik-Entferner-Tool",
+          "description": "Erleben Sie Studio-Qualität bei der Klangtrennung mit unserer fortschrittlichen KI-Technologie. Unser Musik-Entferner entfernt präzise Hintergrundmusik aus Audio- und Videodateien und liefert kristallklare Ergebnisse, die perfekt für Content-Erstellung und professionelle Projekte geeignet sind.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Fortschrittliche Klangverarbeitungstechnologie",
+          "description": "Unser KI-gestützter Musik-Entferner verwendet modernste Algorithmen, um die Gesangsklarheit zu erhalten und gleichzeitig effektiv Hintergrundmusik aus Tonaufnahmen zu entfernen. Das Ergebnis ist eine professionelle Ausgabe, die die ursprünglichen Gesangseigenschaften bewahrt.",
+          "icon": "WrenchScrewdriverIcon"
+        },
+        {
+          "title": "Echtzeit-Klangtrennung",
+          "description": "Erhalten Sie Ihre verarbeiteten Dateien in Sekunden mit unserem effizienten Musik-Entferner. Keine langen Wartezeiten - unser cloudbasiertes System liefert schnelle Ergebnisse, wenn Sie Hintergrundmusik aus Aufnahmen entfernen, ohne die Qualität zu beeinträchtigen.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Hochwertige Klangausgabe",
+          "description": "Exportieren Sie Ihre verarbeiteten Dateien in hochauflösenden Klangformaten. Unser Musik-Entferner gewährleistet Premium-Qualität bei der Ausgabe, wenn Sie Hintergrundmusik aus Aufnahmen entfernen, geeignet für professionelle Verwendung in Content-Erstellungsprojekten und kommerziellen Anwendungen.",
+          "icon": "ArrowDownTrayIcon"
+        },
+        {
+          "title": "Präzise Klangtrennungskontrolle",
+          "description": "Feinabstimmung Ihres Klangtrennungsprozesses mit erweiterten Steuerungen. Passen Sie Trennparameter an, um das perfekte Gleichgewicht zu erreichen, wenn Sie Hintergrundmusik aus Aufnahmen entfernen, und gewährleisten Sie optimale Gesangsklarheit für Ihre spezifischen Content-Bedürfnisse.",
+          "icon": "AdjustmentsHorizontalIcon"
+        },
+        {
+          "title": "Multi-Format-Klangunterstützung",
+          "description": "Unser Musik-Entferner unterstützt verschiedene Klangformate einschließlich MP3, WAV und M4A. Verarbeiten Sie Ihre Klangdateien unabhängig von ihrem Format und machen Sie es vielseitig, Hintergrundmusik aus Aufnahmen aller Art zu entfernen.",
+          "icon": "AdjustmentsI"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Über den Musik-Entferner",
+      "items": [
+        {
+          "question": "Was ist ein Musik-Entferner?",
+          "answer": "Ein Musik-Entferner ist ein KI-gestütztes Tool, das Ihnen hilft, Hintergrundmusik aus Ton- und Videodateien zu entfernen und nur die Gesangs- oder Sprachteile zu belassen. Unser Musik-Entferner macht es einfach, Content zu erstellen, indem er effektiv Hintergrundmusik aus Tonaufnahmen entfernt und dabei die Gesangsqualität erhält."
+        },
+        {
+          "question": "Wie funktioniert der Musik-Entferner?",
+          "answer": "Unser Musik-Entferner analysiert Ihre Klangdateien, erkennt Hintergrundmusik-Frequenzen und entfernt Hintergrundmusik aus Aufnahmen, während der Gesangsinhalt klar bleibt. Der Prozess verwendet fortschrittliche Machine-Learning-Algorithmen, um Hintergrundmusik aus Aufnahmen mit hoher Genauigkeit und Qualitätsergebnissen zu entfernen."
+        },
+        {
+          "question": "Welche Klangformate werden vom Musik-Entferner unterstützt?",
+          "answer": "Sie können unseren Musik-Entferner mit MP3, WAV, M4A und anderen beliebten Klangformaten verwenden. Der Musik-Entferner ist darauf ausgelegt, Hintergrundmusik aus Klangdateien verschiedener Formate bis zu 10MB Größe zu entfernen."
+        },
+        {
+          "question": "Wie kann ich die besten Ergebnisse erzielen, wenn ich Musik aus Audio entferne?",
+          "answer": "Für die besten Ergebnisse mit unserem Musik-Entferner verwenden Sie hochwertige Klangdateien mit klarer Trennung zwischen Hintergrundmusik und Gesang. Saubere Aufnahmen helfen dem Musik-Entferner, genauere Ergebnisse zu erzielen, wenn Sie Hintergrundmusik aus Aufnahmen entfernen."
+        },
+        {
+          "question": "Kann ich den verarbeiteten Klang kommerziell nutzen?",
+          "answer": "Ja, Sie können den von unserem Musik-Entferner erstellten verarbeiteten Klang für persönliche oder kommerzielle Projekte verwenden. Wenn Sie Hintergrundmusik aus Aufnahmen mit unserem Tool entfernen, stellen Sie sicher, dass Sie die Rechte an der ursprünglichen Aufnahme haben, bevor Sie sie für kommerzielle Zwecke verwenden."
+        }
+      ]
+    }
+  }
+}

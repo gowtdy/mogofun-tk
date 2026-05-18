@@ -1,0 +1,73 @@
+{
+  "music-remover": {
+    "meta": {
+      "title": "Suppresseur de Musique - Supprimer la musique de l'audio",
+      "description": "Supprimez instantanément la musique de l'audio et de la vidéo avec notre suppresseur de musique avancé. Supprimez la musique de l'audio et de la vidéo pour améliorer votre création de contenu.",
+      "keywords": "suppresseur de musique, supprimer la musique de l'audio"
+    },
+    "hero": {
+      "title": "Suppresseur de Musique",
+      "subtitle": "Supprimez instantanément la musique de l'audio, de la vidéo et plus encore"
+    },
+    "advantages": {
+      "title": "Pourquoi Choisir Notre Suppresseur de Musique ?",
+      "items": [
+        {
+          "title": "Outil Professionnel de Suppression de Musique",
+          "description": "Découvrez une séparation sonore de qualité studio avec notre technologie IA avancée. Notre suppresseur de musique supprime précisément les pistes d'accompagnement des fichiers audio et vidéo, offrant des résultats cristallins parfaits pour la création de contenu et les projets professionnels.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Technologie Avancée de Traitement Sonore",
+          "description": "Notre suppresseur de musique alimenté par l'IA utilise des algorithmes de pointe pour maintenir la clarté vocale tout en supprimant efficacement les pistes d'accompagnement des enregistrements sonores. Le résultat est une sortie de qualité professionnelle qui préserve les caractéristiques vocales originales.",
+          "icon": "WrenchScrewdriverIcon"
+        },
+        {
+          "title": "Séparation Sonore en Temps Réel",
+          "description": "Obtenez vos fichiers traités en quelques secondes avec notre suppresseur de musique efficace. Pas besoin d'attendre de longs temps de traitement - notre système basé sur le cloud fournit des résultats rapides lorsque vous supprimez les pistes d'accompagnement des enregistrements sans compromettre la qualité.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Sortie Sonore de Haute Qualité",
+          "description": "Exportez vos fichiers traités dans des formats sonores haute définition. Notre suppresseur de musique garantit une sortie de qualité premium lorsque vous supprimez les pistes d'accompagnement des enregistrements, adaptée à un usage professionnel dans les projets de création de contenu et les applications commerciales.",
+          "icon": "ArrowDownTrayIcon"
+        },
+        {
+          "title": "Contrôle Précis de la Séparation Sonore",
+          "description": "Ajustez finement votre processus de séparation sonore avec des contrôles avancés. Ajustez les paramètres de séparation pour atteindre l'équilibre parfait lorsque vous supprimez les pistes d'accompagnement des enregistrements, garantissant une clarté vocale optimale pour vos besoins de contenu spécifiques.",
+          "icon": "AdjustmentsHorizontalIcon"
+        },
+        {
+          "title": "Support Multi-format Sonore",
+          "description": "Notre suppresseur de musique prend en charge divers formats sonores incluant MP3, WAV et M4A. Traitez vos fichiers sonores quel que soit leur format, le rendant polyvalent pour supprimer les pistes d'accompagnement des enregistrements de tous types.",
+          "icon": "AdjustmentsI"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "À Propos du Suppresseur de Musique",
+      "items": [
+        {
+          "question": "Qu'est-ce qu'un Suppresseur de Musique ?",
+          "answer": "Un suppresseur de musique est un outil alimenté par l'IA qui vous aide à supprimer les pistes d'accompagnement des fichiers sonores et vidéo, ne laissant que les parties vocales ou parlées. Notre suppresseur de musique facilite la création de contenu en supprimant efficacement les pistes d'accompagnement des enregistrements sonores tout en préservant la qualité vocale."
+        },
+        {
+          "question": "Comment fonctionne le Suppresseur de Musique ?",
+          "answer": "Notre suppresseur de musique analyse vos fichiers sonores, détecte les fréquences des pistes d'accompagnement, et supprime les pistes d'accompagnement des enregistrements tout en gardant le contenu vocal clair. Le processus utilise des algorithmes d'apprentissage automatique avancés pour supprimer les pistes d'accompagnement des enregistrements avec une grande précision et des résultats de qualité."
+        },
+        {
+          "question": "Quels formats sonores sont supportés par le Suppresseur de Musique ?",
+          "answer": "Vous pouvez utiliser notre suppresseur de musique avec MP3, WAV, M4A et d'autres formats sonores populaires. Le suppresseur de musique est conçu pour supprimer les pistes d'accompagnement des fichiers sonores de divers formats jusqu'à 10MB de taille."
+        },
+        {
+          "question": "Comment puis-je obtenir les meilleurs résultats lorsque je supprime la musique de l'audio ?",
+          "answer": "Pour les meilleurs résultats avec notre suppresseur de musique, utilisez des fichiers sonores de haute qualité avec une séparation claire entre les pistes d'accompagnement et les voix. Les enregistrements propres aident le suppresseur de musique à obtenir des résultats plus précis lorsque vous supprimez les pistes d'accompagnement des enregistrements."
+        },
+        {
+          "question": "Puis-je utiliser le son traité commercialement ?",
+          "answer": "Oui, vous pouvez utiliser le son traité créé par notre suppresseur de musique pour des projets personnels ou commerciaux. Lorsque vous supprimez les pistes d'accompagnement des enregistrements en utilisant notre outil, assurez-vous d'avoir les droits sur le son original avant de l'utiliser à des fins commerciales."
+        }
+      ]
+    }
+  }
+}

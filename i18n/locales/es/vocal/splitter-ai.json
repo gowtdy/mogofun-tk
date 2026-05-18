@@ -1,0 +1,73 @@
+{
+  "splitter-ai": {
+    "meta": {
+      "title": "Splitter AI - Separador de voces y aislamiento",
+      "description": "Crea instantáneamente separación de voces y aislamiento de audio y video con nuestro avanzado splitter AI. Usa el separador de voces y aislamiento para mejorar tu creación de contenido.",
+      "keywords": "splitter ai, separador de voces y aislamiento"
+    },
+    "hero": {
+      "title": "Splitter AI",
+      "subtitle": "Crea instantáneamente separación de voces y aislamiento de audio y video"
+    },
+    "advantages": {
+      "title": "¿Por qué elegir nuestro Splitter AI?",
+      "items": [
+        {
+          "title": "Tecnología Profesional de Separación de Voces y Aislamiento",
+          "description": "Experimenta procesamiento de sonido de calidad de estudio con nuestra avanzada tecnología splitter AI. Nuestra herramienta de separación de voces y aislamiento separa precisamente las voces del audio y video mientras preserva la integridad del audio, entregando resultados cristalinos perfectos para creación de contenido y producción musical.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Motor Avanzado de Procesamiento de Audio",
+          "description": "Nuestro splitter AI emplea algoritmos de vanguardia para separación de voces y aislamiento mientras mantiene efectivamente las características originales del audio. El resultado son pistas separadas de grado profesional que preservan la esencia de tu grabación original.",
+          "icon": "WrenchScrewdriverIcon"
+        },
+        {
+          "title": "Separación de Voces y Aislamiento en Tiempo Real",
+          "description": "Obtén tu audio separado en segundos con nuestra eficiente tecnología splitter AI. No necesitas esperar tiempos de procesamiento largos - nuestro separador de voces y aislamiento basado en la nube entrega resultados rápidos para separar voces sin comprometer la calidad.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Salida de Audio de Alta Calidad",
+          "description": "Exporta tu audio procesado en formatos de alta definición. Nuestro splitter AI asegura una salida de calidad premium adecuada para uso profesional en creación de contenido y producción musical mientras mantiene la fidelidad del audio a través de avanzada separación de voces y aislamiento.",
+          "icon": "ArrowDownTrayIcon"
+        },
+        {
+          "title": "Control Preciso de Audio",
+          "description": "Ajusta finamente tu separación de audio con controles avanzados. Nuestra herramienta de separación de voces y aislamiento te permite ajustar parámetros de procesamiento para lograr el equilibrio perfecto al separar voces para tus necesidades específicas.",
+          "icon": "AdjustmentsHorizontalIcon"
+        },
+        {
+          "title": "Soporte Multi-formato de Audio",
+          "description": "Nuestro splitter AI soporta varios formatos de sonido incluyendo MP3, WAV y M4A. Procesa tus archivos de sonido independientemente de su formato, haciendo nuestro separador de voces y aislamiento versátil para cualquier formato de sonido soportado.",
+          "icon": "AdjustmentsI"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Acerca de Splitter AI",
+      "items": [
+        {
+          "question": "¿Qué es un Splitter AI?",
+          "answer": "Un splitter AI es una herramienta avanzada que usa inteligencia artificial para separación de voces y aislamiento de archivos de audio y video. Nuestra tecnología emplea sofisticados algoritmos de aprendizaje automático para identificar y separar elementos de sonido mientras mantiene su calidad y características originales. Esta tecnología de separación de voces y aislamiento sobresale en separar voces de audio y video con precisión profesional."
+        },
+        {
+          "question": "¿Cómo funciona nuestra separación de voces y aislamiento?",
+          "answer": "Nuestro splitter AI usa algoritmos de aprendizaje automático de última generación para analizar el espectro de frecuencias de tu audio. La tecnología identifica frecuencias vocales, las aísla de elementos de fondo, y crea dos pistas distintas: una conteniendo solo el sonido instrumental y otra con las voces. Este proceso de separación de voces y aislamiento separa efectivamente las voces mientras preserva la calidad original."
+        },
+        {
+          "question": "¿Qué tipos de archivos de audio puedo procesar?",
+          "answer": "Nuestro splitter AI soporta varios formatos de audio incluyendo MP3, WAV, M4A y más. Puedes procesar cualquier archivo de sonido para separación de voces y aislamiento, ya sea una grabación profesional o un archivo de audio casual. Esta tecnología funciona mejor con grabaciones de audio y voces claras y puede manejar archivos de hasta 10MB de tamaño mientras separa efectivamente las voces."
+        },
+        {
+          "question": "¿Cómo puedo obtener los mejores resultados con separación de voces y aislamiento?",
+          "answer": "Para resultados óptimos al separar voces de audio y video, usa archivos de audio de alta calidad con audio y voces claras. Evita pistas muy procesadas o distorsionadas, ya que pueden afectar la calidad de la separación de voces y aislamiento. Mientras más clara sea la grabación original, mejor puede nuestro splitter AI separar las voces mientras mantiene la fidelidad del audio."
+        },
+        {
+          "question": "¿Puedo usar las voces separadas comercialmente?",
+          "answer": "Sí, puedes usar las voces separadas para tus proyectos personales y comerciales. Sin embargo, por favor asegúrate de tener los derechos necesarios para usar el contenido de audio original. Nuestro splitter AI es perfecto para creadores de contenido, podcasters y remixers de audio que buscan crear nuevo contenido a partir de pistas de audio existentes. Esta separación de voces y aislamiento hace fácil separar voces para cualquier proyecto."
+        }
+      ]
+    }
+  }
+}

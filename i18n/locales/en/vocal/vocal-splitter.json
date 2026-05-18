@@ -1,0 +1,73 @@
+{
+  "vocal-splitter": {
+    "meta": {
+      "title": "Vocal Splitter-Extract Vocals from Music",
+      "description": "Instantly extract vocals from music, audio and video with our advanced vocal splitter. Extract vocals from music to improve your content creation.",
+      "keywords": "vocal splitter, extract vocals from music"
+    },
+    "hero": {
+      "title": "Vocal Splitter",
+      "subtitle": "Instantly extract vocals from music, audio, video and more"
+    },
+    "advantages": {
+      "title": "Why Choose Our Vocal Splitter?",
+      "items": [
+        {
+          "title": "Professional AI Vocal Extraction",
+          "description": "Experience studio-quality sound processing with our advanced AI technology. Our vocal splitter precisely extracts vocals from music while preserving audio integrity, delivering crystal-clear results perfect for content creation and music production.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Advanced Sound Processing",
+          "description": "Our AI-powered vocal splitter employs cutting-edge algorithms to isolate vocal elements from background music while effectively maintaining original audio characteristics. The result is professional-grade separated tracks that preserve the essence of your original recording.",
+          "icon": "WrenchScrewdriverIcon"
+        },
+        {
+          "title": "Real-time Processing",
+          "description": "Get your separated audio in seconds with our efficient AI technology. No need to wait for lengthy processing times - our cloud-based vocal splitter delivers quick results to extract vocals from music without compromising quality.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "High-Quality Output",
+          "description": "Export your processed audio in high-definition formats. Our vocal splitter ensures premium quality output suitable for professional use in content creation and music production while maintaining audio fidelity.",
+          "icon": "ArrowDownTrayIcon"
+        },
+        {
+          "title": "Precise Control",
+          "description": "Fine-tune your audio separation with advanced controls. Our vocal splitter allows you to adjust processing parameters to achieve the perfect balance when you extract vocals from music for your specific needs.",
+          "icon": "AdjustmentsHorizontalIcon"
+        },
+        {
+          "title": "Multi-format Support",
+          "description": "Our AI-powered system supports various audio formats including MP3, WAV, and M4A. Process your audio files regardless of their format, making it versatile to extract vocals from music in any supported format.",
+          "icon": "AdjustmentsI"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "About Vocal Splitter",
+      "items": [
+        {
+          "question": "What is an AI Vocal Splitter?",
+          "answer": "An AI Vocal Splitter is an advanced tool that uses artificial intelligence to extract vocals from music files. Our system employs sophisticated machine learning algorithms to identify and isolate audio elements while maintaining their original quality and characteristics. This technology excels at extracting vocals from music with professional precision."
+        },
+        {
+          "question": "How does our AI Vocal Splitter work?",
+          "answer": "Our AI-powered vocal splitter uses state-of-the-art machine learning algorithms to analyze the frequency spectrum of your audio. The technology identifies vocal frequencies, isolates them from background music elements, and creates two distinct tracks: one containing only the vocals and another with the instrumental parts. This process effectively extracts vocals from music while preserving the original quality."
+        },
+        {
+          "question": "What types of audio files can I process?",
+          "answer": "Our vocal splitter supports various audio formats including MP3, WAV, M4A, and more. You can process any audio file to extract vocals from music, whether it's a professional recording or a casual audio file. This vocal splitter works best with clear vocal recordings and can handle files up to 10MB in size while effectively extracting vocals from music."
+        },
+        {
+          "question": "How can I get the best results with the vocal splitter?",
+          "answer": "For optimal results when you extract vocals from music, use high-quality audio files with clear vocals. Avoid heavily processed or distorted tracks, as they may affect the separation quality. The clearer the original recording, the better our vocal splitter can extract vocals from music while maintaining audio fidelity."
+        },
+        {
+          "question": "Can I use the extracted vocals commercially?",
+          "answer": "Yes, you can use the separated vocals for your personal and commercial projects. However, please ensure you have the necessary rights to use the original audio content. Our vocal splitter is perfect for content creators, podcasters, and audio remixers looking to create new content from existing music tracks. This vocal splitter makes it easy to extract vocals from music for any project."
+        }
+      ]
+    }
+  }
+}

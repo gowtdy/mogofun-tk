@@ -1,0 +1,73 @@
+{
+  "separate-vocals": {
+    "meta": {
+      "title": "Separar Vocais: Remover áudio de fundo",
+      "description": "Separe instantaneamente vocais de qualquer música, áudio e vídeo com nosso separador vocal avançado. Remova áudio de fundo para melhorar sua criação de conteúdo.",
+      "keywords": "separar vocais, remover áudio de fundo"
+    },
+    "hero": {
+      "title": "Separar Vocais",
+      "subtitle": "Remova instantaneamente áudio de fundo de qualquer música, áudio, vídeo e muito mais"
+    },
+    "advantages": {
+      "title": "Por que Escolher Nossa Ferramenta de Separação de Vocais?",
+      "items": [
+        {
+          "title": "Separação de Vocais Profissional",
+          "description": "Experimente processamento de som de qualidade de estúdio com nossa tecnologia de IA avançada. Nossa ferramenta de separação de vocais remove precisamente o áudio de fundo preservando os vocais, entregando resultados cristalinos perfeitos para criação de conteúdo e produção musical. Remova facilmente áudio de fundo com precisão profissional.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Processamento Vocal Avançado",
+          "description": "Nosso sistema alimentado por IA emprega algoritmos de ponta para remover áudio de fundo com precisão avançada. O resultado é uma faixa separada de nível profissional que mantém as características e qualidade sonora originais para suas necessidades de separação de vocais.",
+          "icon": "WrenchScrewdriverIcon"
+        },
+        {
+          "title": "Processamento em Tempo Real",
+          "description": "Obtenha seus vocais separados em segundos com nossa tecnologia de IA eficiente. Não há necessidade de esperar por tempos de processamento longos - nosso sistema baseado em nuvem entrega resultados rápidos para remover áudio de fundo sem comprometer a qualidade.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Saída de Alta Qualidade",
+          "description": "Exporte seus vocais processados em formatos de alta definição. Nossa ferramenta de separação de vocais garante saída de qualidade premium adequada para uso profissional em criação de conteúdo, produção musical e edição de som. Remova áudio de fundo mantendo a fidelidade sonora.",
+          "icon": "ArrowDownTrayIcon"
+        },
+        {
+          "title": "Controle Preciso",
+          "description": "Ajuste finamente sua separação vocal com controles avançados. Ajuste parâmetros de processamento para alcançar o equilíbrio perfeito entre clareza vocal e remoção de fundo para suas necessidades específicas. Esta ferramenta de separação de vocais oferece controle completo para remover áudio de fundo efetivamente.",
+          "icon": "AdjustmentsHorizontalIcon"
+        },
+        {
+          "title": "Suporte Multi-formato",
+          "description": "Nosso sistema alimentado por IA suporta vários formatos de som incluindo MP3, WAV e M4A. Processe seus arquivos de som independentemente do formato, tornando-o versátil para todas as suas necessidades de separação de vocais. Remova áudio de fundo de qualquer formato suportado.",
+          "icon": "AdjustmentsI"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Sobre Separação de Vocais",
+      "items": [
+        {
+          "question": "O que é um Separador Vocal de IA?",
+          "answer": "Um Separador Vocal de IA é uma ferramenta avançada que usa inteligência artificial para remover áudio de fundo de faixas musicais. Nossa tecnologia de separação de vocais emprega algoritmos sofisticados de aprendizado de máquina para identificar e isolar elementos sonoros mantendo sua qualidade e características originais. Esta tecnologia se destaca na remoção de áudio de fundo com precisão."
+        },
+        {
+          "question": "Como funciona nosso Separador Vocal de IA?",
+          "answer": "Nossa ferramenta de separação de vocais alimentada por IA usa algoritmos de aprendizado de máquina de última geração para analisar o espectro de frequência do seu áudio. A tecnologia identifica frequências vocais, isola-as dos elementos musicais de fundo e cria duas faixas distintas: uma contendo apenas os vocais e outra com as partes instrumentais. Este processo remove efetivamente o áudio de fundo preservando a qualidade vocal."
+        },
+        {
+          "question": "Que tipos de arquivos de áudio posso processar?",
+          "answer": "Nossa ferramenta de separação de vocais suporta vários formatos de áudio incluindo MP3, WAV, M4A e mais. Você pode processar qualquer arquivo de som para remover áudio de fundo, seja uma gravação profissional ou um arquivo de som casual. Esta separação de vocais funciona melhor com gravações vocais claras e pode lidar com arquivos de até 10MB de tamanho removendo efetivamente o áudio de fundo."
+        },
+        {
+          "question": "Como posso obter os melhores resultados com separação de vocais?",
+          "answer": "Para resultados ótimos com nossa ferramenta de separação de vocais, use arquivos de som de alta qualidade com vocais claros. Evite faixas muito processadas ou distorcidas, pois podem afetar a capacidade de remover áudio de fundo efetivamente. Quanto mais clara a gravação original, melhor nossa separação de vocais pode remover áudio de fundo mantendo a qualidade."
+        },
+        {
+          "question": "Posso usar os vocais separados comercialmente?",
+          "answer": "Sim, você pode usar os vocais separados para seus projetos pessoais e comerciais. No entanto, certifique-se de ter os direitos necessários para usar o conteúdo de áudio original. Nossa ferramenta de separação de vocais é perfeita para criadores de conteúdo, podcasters e remixers de áudio procurando remover áudio de fundo para nova criação de conteúdo. Isso facilita a remoção de áudio de fundo de qualquer arquivo de áudio."
+        }
+      ]
+    }
+  }
+}

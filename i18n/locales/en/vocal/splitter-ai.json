@@ -1,0 +1,73 @@
+{
+  "splitter-ai": {
+    "meta": {
+      "title": "Splitter AI - Vocal remover and isolation",
+      "description": "Instantly create vocal remover and isolation from audio and video with our advanced splitter AI. Use vocal remover and isolation to improve your content creation.",
+      "keywords": "splitter ai, vocal remover and isolation"
+    },
+    "hero": {
+      "title": "Splitter AI",
+      "subtitle": "Instantly create vocal remover and isolation from audio and video"
+    },
+    "advantages": {
+      "title": "Why Choose Our Splitter AI?",
+      "items": [
+        {
+          "title": "Professional Vocal Remover and Isolation Technology",
+          "description": "Experience studio-quality sound processing with our advanced splitter AI technology. Our vocal remover and isolation tool precisely separates vocals from audio and video while preserving audio integrity, delivering crystal-clear results perfect for content creation and music production.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Advanced Audio Processing Engine",
+          "description": "Our splitter AI employs cutting-edge algorithms for vocal remover and isolation while effectively maintaining original audio characteristics. The result is professional-grade separated tracks that preserve the essence of your original recording.",
+          "icon": "WrenchScrewdriverIcon"
+        },
+        {
+          "title": "Real-time Vocal Remover and Isolation",
+          "description": "Get your separated audio in seconds with our efficient splitter AI technology. No need to wait for lengthy processing times - our cloud-based vocal remover and isolation delivers quick results to separate vocals without compromising quality.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "High-Quality Audio Output",
+          "description": "Export your processed audio in high-definition formats. Our splitter AI ensures premium quality output suitable for professional use in content creation and music production while maintaining audio fidelity through advanced vocal remover and isolation.",
+          "icon": "ArrowDownTrayIcon"
+        },
+        {
+          "title": "Precise Audio Control",
+          "description": "Fine-tune your audio separation with advanced controls. Our vocal remover and isolation tool allows you to adjust processing parameters to achieve the perfect balance when separating vocals for your specific needs.",
+          "icon": "AdjustmentsHorizontalIcon"
+        },
+        {
+          "title": "Multi-format Audio Support",
+          "description": "Our splitter AI supports various sound formats including MP3, WAV, and M4A. Process your sound files regardless of their format, making our vocal remover and isolation versatile for any supported sound format.",
+          "icon": "AdjustmentsI"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "About Splitter AI",
+      "items": [
+        {
+          "question": "What is a Splitter AI?",
+          "answer": "A splitter AI is an advanced tool that uses artificial intelligence for vocal remover and isolation from audio and video files. Our technology employs sophisticated machine learning algorithms to identify and separate sound elements while maintaining their original quality and characteristics. This vocal remover and isolation technology excels at separating vocals from audio and video with professional precision."
+        },
+        {
+          "question": "How does our vocal remover and isolation work?",
+          "answer": "Our splitter AI uses state-of-the-art machine learning algorithms to analyze the frequency spectrum of your audio. The technology identifies vocal frequencies, isolates them from background elements, and creates two distinct tracks: one containing only the instrumental sound and another with the vocals. This vocal remover and isolation process effectively separates vocals while preserving the original quality."
+        },
+        {
+          "question": "What types of audio files can I process?",
+          "answer": "Our splitter AI supports various audio formats including MP3, WAV, M4A, and more. You can process any sound file for vocal remover and isolation, whether it's a professional recording or a casual audio file. This technology works best with clear audio and vocal recordings and can handle files up to 10MB in size while effectively separating vocals."
+        },
+        {
+          "question": "How can I get the best results with vocal remover and isolation?",
+          "answer": "For optimal results when separating vocals from audio and video, use high-quality audio files with clear audio and vocals. Avoid heavily processed or distorted tracks, as they may affect the vocal remover and isolation quality. The clearer the original recording, the better our splitter AI can separate vocals while maintaining audio fidelity."
+        },
+        {
+          "question": "Can I use the separated vocals commercially?",
+          "answer": "Yes, you can use the separated vocals for your personal and commercial projects. However, please ensure you have the necessary rights to use the original audio content. Our splitter AI is perfect for content creators, podcasters, and audio remixers looking to create new content from existing audio tracks. This vocal remover and isolation makes it easy to separate vocals for any project."
+        }
+      ]
+    }
+  }
+}

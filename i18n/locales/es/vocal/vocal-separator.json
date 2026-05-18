@@ -1,0 +1,73 @@
+{
+  "vocal-separator": {
+    "meta": {
+      "title": "Separador de Voces: Separar Voces de la Música",
+      "description": "Separa instantáneamente voces de música, audio y video con nuestro separador de voces avanzado. Separa voces de música para mejorar tu creación de contenido.",
+      "keywords": "separador de voces, separar voces de música"
+    },
+    "hero": {
+      "title": "Separador de Voces",
+      "subtitle": "Separa instantáneamente voces de música, audio, video y más"
+    },
+    "advantages": {
+      "title": "¿Por Qué Elegir Nuestro Separador de Voces?",
+      "items": [
+        {
+          "title": "Separación de Audio Profesional con IA",
+          "description": "Experimenta procesamiento de audio de calidad de estudio con nuestra tecnología de IA avanzada. Nuestro separador de voces elimina precisamente las pistas de instrumentos mientras preserva las voces, entregando resultados cristalinos perfectos para creación de contenido y producción musical. Separa fácilmente voces de música con precisión profesional.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Procesamiento de Audio Avanzado",
+          "description": "Nuestro sistema impulsado por IA emplea algoritmos de vanguardia para separar voces de música con precisión avanzada. El resultado es una pista separada de grado profesional que mantiene las características y calidad de audio originales.",
+          "icon": "WrenchScrewdriverIcon"
+        },
+        {
+          "title": "Procesamiento en Tiempo Real",
+          "description": "Obtén tu audio separado en segundos con nuestra tecnología de IA eficiente. No necesitas esperar tiempos de procesamiento largos - nuestro sistema basado en la nube entrega resultados rápidos para separar voces de música sin comprometer la calidad.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Salida de Alta Calidad",
+          "description": "Exporta tu audio procesado en formatos de alta definición. Nuestro separador de voces asegura una salida de calidad premium adecuada para uso profesional en creación de contenido, producción musical y edición de audio. Separa voces de música manteniendo la fidelidad del audio.",
+          "icon": "ArrowDownTrayIcon"
+        },
+        {
+          "title": "Control Preciso",
+          "description": "Ajusta finamente tu separación de audio con controles avanzados. Ajusta los parámetros de procesamiento para lograr el equilibrio perfecto entre claridad vocal y eliminación de música para tus necesidades específicas. Este separador de voces te da control completo para separar voces de música.",
+          "icon": "AdjustmentsHorizontalIcon"
+        },
+        {
+          "title": "Soporte Multi-formato",
+          "description": "Nuestro sistema impulsado por IA soporta varios formatos de audio incluyendo MP3, WAV y M4A. Procesa tus archivos de audio independientemente de su formato, haciéndolo versátil para todas tus necesidades de separación de audio. Este separador de voces puede separar voces de música de cualquier formato soportado.",
+          "icon": "AdjustmentsI"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Acerca del Separador de Voces",
+      "items": [
+        {
+          "question": "¿Qué es un Separador de Voces con IA?",
+          "answer": "Un Separador de Voces con IA es una herramienta avanzada que usa inteligencia artificial para separar voces de música. Nuestro separador de voces emplea algoritmos sofisticados de aprendizaje automático para identificar y separar elementos de audio mientras mantiene su calidad y características originales. Esta tecnología sobresale en separar voces de música con precisión."
+        },
+        {
+          "question": "¿Cómo funciona nuestro Separador de Voces con IA?",
+          "answer": "Nuestro separador de voces impulsado por IA usa algoritmos de aprendizaje automático de última generación para analizar el espectro de frecuencias de tu audio. La tecnología identifica frecuencias vocales, las aísla de elementos de música de fondo, y crea dos pistas distintas: una conteniendo solo las voces y otra con las partes instrumentales. Este proceso separa efectivamente voces de música mientras preserva la calidad vocal."
+        },
+        {
+          "question": "¿Qué tipos de archivos de audio puedo procesar?",
+          "answer": "Nuestro separador de voces soporta varios formatos de audio incluyendo MP3, WAV, M4A y más. Puedes procesar cualquier archivo de audio para separar voces de música, ya sea una grabación profesional o un archivo de audio casual. Este separador de voces funciona mejor con grabaciones vocales claras y puede manejar archivos de hasta 10MB de tamaño mientras separa efectivamente voces de música."
+        },
+        {
+          "question": "¿Cómo puedo obtener los mejores resultados con el separador de voces?",
+          "answer": "Para resultados óptimos con nuestro separador de voces, usa archivos de audio de alta calidad con voces claras. Evita pistas muy procesadas o distorsionadas, ya que pueden afectar la capacidad de separar voces de música efectivamente. Mientras más clara sea la grabación original, mejor puede nuestro separador de voces separar voces de música manteniendo la calidad."
+        },
+        {
+          "question": "¿Puedo usar el audio separado comercialmente?",
+          "answer": "Sí, puedes usar el audio separado para tus proyectos personales y comerciales. Sin embargo, por favor asegúrate de tener los derechos necesarios para usar el contenido de audio original. Nuestro separador de voces es perfecto para creadores de contenido, podcasters y remixers de audio que buscan separar voces de música para nueva creación de contenido. Este separador de voces hace fácil separar voces de música para cualquier archivo de audio."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "voice-isolator": {
+    "meta": {
+      "title": "Stimmen-Isolator | KI Video",
+      "description": "Isolieren Sie sofort Stimmen aus jeder Musik, Audio und Video mit unserem Online-Stimmen-Isolator. Isolieren Sie Stimmen ohne Hintergrundmusik für Ihre Content-Erstellung.",
+      "keywords": "stimmen isolator, stimme isolieren"
+    },
+    "hero": {
+      "title": "Stimmen-Isolator",
+      "subtitle": "Isolieren Sie sofort Stimmen aus jeder Musik, Audio, Video und mehr"
+    },
+    "advantages": {
+      "title": "Warum unseren Stimmen-Isolator wählen?",
+      "items": [
+        {
+          "title": "Professionelle KI-Audio-Trennung",
+          "description": "Erleben Sie Studio-Qualität bei der Audio-Trennung mit unserer fortschrittlichen KI-Technologie. Unser Stimmen-Isolator isoliert präzise Gesang von Hintergrundmusik und liefert kristallklare Ergebnisse, perfekt für die Content-Erstellung.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Erweiterte Audio-Verarbeitung",
+          "description": "Unser KI-gestütztes System verwendet modernste Algorithmen, um Stimmen zu isolieren und dabei effektiv Hintergrundmusik zu entfernen. Das Ergebnis ist eine professionelle isolierte Spur, die die ursprünglichen Audio-Eigenschaften bewahrt.",
+          "icon": "WrenchScrewdriverIcon"
+        },
+        {
+          "title": "Echtzeit-Verarbeitung",
+          "description": "Erhalten Sie Ihr isoliertes Audio in Sekunden mit unserer effizienten KI-Technologie. Keine langen Wartezeiten - unser cloud-basiertes System liefert schnelle Ergebnisse zur Stimmen-Isolation ohne Qualitätsverlust.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Hochwertige Ausgabe",
+          "description": "Exportieren Sie Ihr isoliertes Audio in hochauflösenden Formaten. Unser Stimmen-Isolator gewährleistet Premium-Qualität für die professionelle Nutzung in der Content-Erstellung.",
+          "icon": "ArrowDownTrayIcon"
+        },
+        {
+          "title": "Präzise Kontrolle",
+          "description": "Feinabstimmung Ihrer Audio-Trennung mit erweiterten Steuerungen. Passen Sie Trennparameter an, um Stimmen zu isolieren und das perfekte Gleichgewicht zwischen Gesangsklarheit und Hintergrundentfernung für Ihre spezifischen Bedürfnisse zu erreichen.",
+          "icon": "AdjustmentsHorizontalIcon"
+        },
+        {
+          "title": "Multi-Format-Unterstützung",
+          "description": "Unser KI-gestütztes System unterstützt verschiedene Audio-Formate einschließlich MP3, WAV und M4A. Verarbeiten Sie Ihre Audio-Dateien unabhängig von ihrem Format und machen Sie es vielseitig für alle Ihre Isolationsbedürfnisse.",
+          "icon": "AdjustmentsI"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Über den Stimmen-Isolator",
+      "items": [
+        {
+          "question": "Was ist ein KI-Stimmen-Isolator?",
+          "answer": "Ein KI-Stimmen-Isolator ist ein fortschrittliches Tool, das künstliche Intelligenz verwendet, um Stimmen von Hintergrundmusik zu isolieren. Unser System verwendet ausgeklügelte Machine-Learning-Algorithmen, um Audio-Elemente zu identifizieren und zu extrahieren, während die ursprüngliche Qualität und Eigenschaften erhalten bleiben."
+        },
+        {
+          "question": "Wie funktioniert unser KI-Stimmen-Isolator?",
+          "answer": "Unser KI-gestütztes System verwendet modernste Machine-Learning-Algorithmen, um das Frequenzspektrum Ihres Audios zu analysieren. Die Technologie identifiziert Gesangsfrequenzen, isoliert sie von Hintergrundmusik-Elementen und erstellt zwei verschiedene Spuren: eine mit nur dem Gesang und eine andere mit den Hintergrundmusik-Teilen."
+        },
+        {
+          "question": "Welche Arten von Audio-Dateien kann ich verarbeiten?",
+          "answer": "Unser Stimmen-Isolator unterstützt verschiedene Audio-Formate einschließlich MP3, WAV, M4A und mehr. Sie können jede Audio-Datei verarbeiten, um Stimmen zu isolieren, sei es eine professionelle Aufnahme oder eine einfache Audio-Datei. Das System funktioniert am besten mit klaren Gesangsaufnahmen und kann Dateien bis zu 10MB verarbeiten."
+        },
+        {
+          "question": "Wie kann ich die besten Ergebnisse mit dem Stimmen-Isolator erzielen?",
+          "answer": "Für optimale Ergebnisse mit unserem System verwenden Sie hochwertige Audio-Dateien mit klarem Gesang. Vermeiden Sie stark bearbeitete oder verzerrte Tracks, da diese die Fähigkeit zur effektiven Stimmen-Isolation beeinträchtigen können. Je klarer die ursprüngliche Aufnahme, desto besser werden die Stimmen-Isolationsergebnisse sein."
+        },
+        {
+          "question": "Kann ich das isolierte Audio kommerziell nutzen?",
+          "answer": "Ja, Sie können das isolierte Audio für Ihre persönlichen und kommerziellen Projekte verwenden. Stellen Sie jedoch sicher, dass Sie die notwendigen Rechte zur Nutzung des ursprünglichen Audio-Inhalts haben. Unser Stimmen-Isolator ist perfekt für Content-Ersteller, Podcaster und Audio-Remixer, die Stimmen für neue Content-Erstellung isolieren möchten."
+        }
+      ]
+    }
+  }
+}

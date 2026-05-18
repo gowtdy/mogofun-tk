@@ -1,0 +1,73 @@
+{
+  "separate-vocals": {
+    "meta": {
+      "title": "Vocals trennen: Hintergrundmusik entfernen",
+      "description": "Trennen Sie sofort Vocals von jeder Musik, Audio und Video mit unserem fortschrittlichen Vocal-Separator. Entfernen Sie Hintergrundmusik, um Ihre Content-Erstellung zu verbessern.",
+      "keywords": "vocals trennen, hintergrundmusik entfernen"
+    },
+    "hero": {
+      "title": "Vocals trennen",
+      "subtitle": "Entfernen Sie sofort Hintergrundmusik von jeder Musik, Audio, Video und mehr"
+    },
+    "advantages": {
+      "title": "Warum unser Vocal-Trenn-Tool wählen?",
+      "items": [
+        {
+          "title": "Professionelle Vocal-Trennung",
+          "description": "Erleben Sie Studio-Qualität bei der Tonverarbeitung mit unserer fortschrittlichen KI-Technologie. Unser Vocal-Trenn-Tool entfernt präzise Hintergrundmusik und bewahrt dabei die Vocals, liefert kristallklare Ergebnisse, perfekt für Content-Erstellung und Musikproduktion. Entfernen Sie Hintergrundmusik mit professioneller Präzision.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Fortschrittliche Vocal-Verarbeitung",
+          "description": "Unser KI-gestütztes System verwendet modernste Algorithmen, um Hintergrundmusik mit fortgeschrittener Präzision zu entfernen. Das Ergebnis ist eine professionelle getrennte Spur, die die ursprünglichen Klangeigenschaften und Qualität für Ihre Vocal-Trenn-Bedürfnisse bewahrt.",
+          "icon": "WrenchScrewdriverIcon"
+        },
+        {
+          "title": "Echtzeit-Verarbeitung",
+          "description": "Erhalten Sie Ihre getrennten Vocals in Sekunden mit unserer effizienten KI-Technologie. Keine langen Wartezeiten - unser cloud-basiertes System liefert schnelle Ergebnisse, um Hintergrundmusik zu entfernen, ohne die Qualität zu beeinträchtigen.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Hochwertige Ausgabe",
+          "description": "Exportieren Sie Ihre verarbeiteten Vocals in hochauflösenden Formaten. Unser Vocal-Trenn-Tool gewährleistet Premium-Qualität für den professionellen Einsatz in Content-Erstellung, Musikproduktion und Soundbearbeitung. Entfernen Sie Hintergrundmusik und bewahren dabei die Klangtreue.",
+          "icon": "ArrowDownTrayIcon"
+        },
+        {
+          "title": "Präzise Kontrolle",
+          "description": "Feinabstimmung Ihrer Vocal-Trennung mit erweiterten Steuerungen. Passen Sie Verarbeitungsparameter an, um das perfekte Gleichgewicht zwischen Vocal-Klarheit und Hintergrundentfernung für Ihre spezifischen Bedürfnisse zu erreichen. Dieses Vocal-Trenn-Tool gibt Ihnen vollständige Kontrolle, um Hintergrundmusik effektiv zu entfernen.",
+          "icon": "AdjustmentsHorizontalIcon"
+        },
+        {
+          "title": "Multi-Format-Unterstützung",
+          "description": "Unser KI-gestütztes System unterstützt verschiedene Audio-Formate einschließlich MP3, WAV und M4A. Verarbeiten Sie Ihre Audio-Dateien unabhängig von ihrem Format, was es vielseitig für alle Ihre Vocal-Trenn-Bedürfnisse macht. Entfernen Sie Hintergrundmusik von jedem unterstützten Format.",
+          "icon": "AdjustmentsI"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Über Vocal-Trennung",
+      "items": [
+        {
+          "question": "Was ist ein KI Vocal-Separator?",
+          "answer": "Ein KI Vocal-Separator ist ein fortschrittliches Tool, das künstliche Intelligenz verwendet, um Hintergrundmusik von Musikspuren zu entfernen. Unsere Vocal-Trenn-Technologie verwendet ausgeklügelte Machine-Learning-Algorithmen, um Klangelemente zu identifizieren und zu isolieren, während ihre ursprüngliche Qualität und Eigenschaften bewahrt werden. Diese Technologie zeichnet sich durch präzise Entfernung von Hintergrundmusik aus."
+        },
+        {
+          "question": "Wie funktioniert unser KI Vocal-Separator?",
+          "answer": "Unser KI-gestütztes Vocal-Trenn-Tool verwendet modernste Machine-Learning-Algorithmen, um das Frequenzspektrum Ihrer Audio zu analysieren. Die Technologie identifiziert Vocal-Frequenzen, isoliert sie von Hintergrundmusik-Elementen und erstellt zwei verschiedene Spuren: eine mit nur den Vocals und eine andere mit den Instrumenten-Teilen. Dieser Prozess entfernt effektiv Hintergrundmusik und bewahrt dabei die Vocal-Qualität."
+        },
+        {
+          "question": "Welche Arten von Audio-Dateien kann ich verarbeiten?",
+          "answer": "Unser Vocal-Trenn-Tool unterstützt verschiedene Audio-Formate einschließlich MP3, WAV, M4A und mehr. Sie können jede Audio-Datei verarbeiten, um Hintergrundmusik zu entfernen, sei es eine professionelle Aufnahme oder eine zufällige Audio-Datei. Diese Vocal-Trennung funktioniert am besten mit klaren Vocal-Aufnahmen und kann Dateien bis zu 10MB verarbeiten, während effektiv Hintergrundmusik entfernt wird."
+        },
+        {
+          "question": "Wie kann ich die besten Ergebnisse mit Vocal-Trennung erzielen?",
+          "answer": "Für optimale Ergebnisse mit unserem Vocal-Trenn-Tool verwenden Sie hochwertige Audio-Dateien mit klaren Vocals. Vermeiden Sie stark verarbeitete oder verzerrte Spuren, da diese die Fähigkeit beeinträchtigen können, Hintergrundmusik effektiv zu entfernen. Je klarer die ursprüngliche Aufnahme, desto besser kann unsere Vocal-Trennung Hintergrundmusik entfernen und dabei die Qualität bewahren."
+        },
+        {
+          "question": "Kann ich die getrennten Vocals kommerziell nutzen?",
+          "answer": "Ja, Sie können die getrennten Vocals für Ihre persönlichen und kommerziellen Projekte verwenden. Stellen Sie jedoch sicher, dass Sie die notwendigen Rechte zur Nutzung des ursprünglichen Audio-Inhalts haben. Unser Vocal-Trenn-Tool ist perfekt für Content-Ersteller, Podcaster und Audio-Remixer, die Hintergrundmusik für neue Content-Erstellung entfernen möchten. Dies macht es einfach, Hintergrundmusik von jeder Audio-Datei zu entfernen."
+        }
+      ]
+    }
+  }
+}

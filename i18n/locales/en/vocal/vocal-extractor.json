@@ -1,0 +1,73 @@
+{
+  "vocal-extractor": {
+    "meta": {
+      "title": "Vocal Extractor",
+      "description": "Instantly remove instrumental from any music, audio and video with our advanced vocal extractor. Remove instrumental from audio to improve your content creation.",
+      "keywords": "vocal extractor, remove instrumental"
+    },
+    "hero": {
+      "title": "Vocal Extractor",
+      "subtitle": "Instantly remove instrumental from any music, audio, video and more"
+    },
+    "advantages": {
+      "title": "Why Choose Our Vocal Extractor?",
+      "items": [
+        {
+          "title": "Professional AI Audio Extraction",
+          "description": "Experience studio-quality audio processing with our advanced AI technology. Our vocal extractor precisely removes instrument tracks while preserving vocals, delivering crystal-clear results perfect for content creation. This vocal extractor is designed to remove instrument elements with professional precision.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Advanced Audio Processing",
+          "description": "Our AI-powered system employs cutting-edge algorithms to remove instrument elements while effectively isolating vocals. The result is a professional-grade separated track that maintains the original audio characteristics. This vocal extractor technology ensures clean instrument removal.",
+          "icon": "WrenchScrewdriverIcon"
+        },
+        {
+          "title": "Real-time Processing",
+          "description": "Get your separated audio in seconds with our efficient AI technology. No need to wait for lengthy processing times - our cloud-based system delivers quick results to remove instrument tracks without compromising quality. Our vocal extractor processes files rapidly.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "High-Quality Output",
+          "description": "Export your processed audio in high-definition formats. Our vocal extractor ensures premium quality output suitable for professional use in content creation and music production. Remove instrument tracks while maintaining audio fidelity.",
+          "icon": "ArrowDownTrayIcon"
+        },
+        {
+          "title": "Precise Control",
+          "description": "Fine-tune your audio separation with advanced controls. Adjust processing parameters to achieve the perfect balance between vocal clarity and instrument removal for your specific needs. This vocal extractor gives you complete control over instrument removal.",
+          "icon": "AdjustmentsHorizontalIcon"
+        },
+        {
+          "title": "Multi-format Support",
+          "description": "Our AI-powered system supports various audio formats including MP3, WAV, and M4A. Process your audio files regardless of their format, making it versatile for all your audio separation needs. This vocal extractor can remove instrument tracks from any supported format.",
+          "icon": "AdjustmentsI"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "About Vocal Extractor",
+      "items": [
+        {
+          "question": "What is an AI Vocal Extractor?",
+          "answer": "An AI Vocal Extractor is an advanced tool that uses artificial intelligence to remove instrument tracks from audio files. Our vocal extractor employs sophisticated machine learning algorithms to identify and separate audio elements while maintaining their original quality and characteristics. This technology excels at removing instrument elements with precision."
+        },
+        {
+          "question": "How does our AI Vocal Extractor work?",
+          "answer": "Our AI-powered vocal extractor uses state-of-the-art machine learning algorithms to analyze the frequency spectrum of your audio. The technology identifies vocal frequencies, isolates them from background music elements, and creates two distinct tracks: one containing only the vocals and another with the instrument parts. This process effectively removes instrument tracks while preserving vocal quality."
+        },
+        {
+          "question": "What types of audio files can I process?",
+          "answer": "Our vocal extractor supports various audio formats including MP3, WAV, M4A, and more. You can process any audio file to remove instrument tracks, whether it's a professional recording or a casual audio file. This vocal extractor works best with clear vocal recordings and can handle files up to 10MB in size while effectively removing instrument elements."
+        },
+        {
+          "question": "How can I get the best results with the vocal extractor?",
+          "answer": "For optimal results with our vocal extractor, use high-quality audio files with clear vocals. Avoid heavily processed or distorted tracks, as they may affect the ability to remove instrument elements effectively. The clearer the original recording, the better our vocal extractor can remove instrument tracks while maintaining quality."
+        },
+        {
+          "question": "Can I use the extracted audio commercially?",
+          "answer": "Yes, you can use the separated audio for your personal and commercial projects. However, please ensure you have the necessary rights to use the original audio content. Our vocal extractor is perfect for content creators, podcasters, and audio remixers looking to remove instrument tracks for new content creation. This vocal extractor makes it easy to remove instrument elements from any audio file."
+        }
+      ]
+    }
+  }
+}

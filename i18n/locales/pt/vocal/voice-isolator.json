@@ -1,0 +1,73 @@
+{
+  "voice-isolator": {
+    "meta": {
+      "title": "Isolador de Voz | AI Video",
+      "description": "Isole instantaneamente a voz de qualquer música, áudio e vídeo com nosso isolador de voz online. Isole a voz sem música de fundo para sua criação de conteúdo.",
+      "keywords": "isolador de voz, isolar voz"
+    },
+    "hero": {
+      "title": "Isolador de Voz",
+      "subtitle": "Isole instantaneamente a voz de qualquer música, áudio, vídeo e muito mais"
+    },
+    "advantages": {
+      "title": "Por que Escolher Nosso Isolador de Voz?",
+      "items": [
+        {
+          "title": "Separação de Áudio IA Profissional",
+          "description": "Experimente separação de áudio de qualidade de estúdio com nossa tecnologia IA avançada. Nosso isolador de voz isola precisamente vocais da música de fundo, entregando resultados cristalinos perfeitos para criação de conteúdo.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Processamento de Áudio Avançado",
+          "description": "Nosso sistema alimentado por IA emprega algoritmos de ponta para isolar a voz enquanto remove efetivamente a música de fundo. O resultado é uma faixa isolada de nível profissional que preserva as características originais do áudio.",
+          "icon": "WrenchScrewdriverIcon"
+        },
+        {
+          "title": "Processamento em Tempo Real",
+          "description": "Obtenha seu áudio isolado em segundos com nossa tecnologia IA eficiente. Não há necessidade de esperar por tempos de processamento longos - nosso sistema baseado em nuvem entrega resultados rápidos para isolar voz sem comprometer a qualidade.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Saída de Alta Qualidade",
+          "description": "Exporte seu áudio isolado em formatos de alta definição. Nosso isolador de voz garante saída de qualidade premium para isolar voz adequada para uso profissional na criação de conteúdo.",
+          "icon": "ArrowDownTrayIcon"
+        },
+        {
+          "title": "Controle Preciso",
+          "description": "Ajuste finamente sua separação de áudio com controles avançados. Ajuste parâmetros de separação para isolar voz e alcançar o equilíbrio perfeito entre clareza vocal e remoção de fundo para suas necessidades específicas.",
+          "icon": "AdjustmentsHorizontalIcon"
+        },
+        {
+          "title": "Suporte Multi-formato",
+          "description": "Nosso sistema alimentado por IA suporta vários formatos de áudio incluindo MP3, WAV e M4A. Processe seus arquivos de áudio independentemente do formato, tornando-o versátil para isolar voz para todas as suas necessidades de isolamento.",
+          "icon": "AdjustmentsI"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Sobre o Isolador de Voz",
+      "items": [
+        {
+          "question": "O que é um Isolador de Voz IA?",
+          "answer": "Um Isolador de Voz IA é uma ferramenta avançada que usa inteligência artificial para isolar voz da música de fundo. Nosso sistema emprega algoritmos sofisticados de aprendizado de máquina para identificar e extrair elementos de áudio mantendo sua qualidade e características originais."
+        },
+        {
+          "question": "Como funciona nosso Isolador de Voz IA?",
+          "answer": "Nosso sistema alimentado por IA usa algoritmos de aprendizado de máquina de última geração para analisar o espectro de frequência do seu áudio. A tecnologia identifica frequências vocais, isola-as dos elementos de música de fundo e cria duas faixas distintas: uma contendo apenas os vocais e outra com as partes da música de fundo."
+        },
+        {
+          "question": "Que tipos de arquivos de áudio posso processar?",
+          "answer": "Nosso isolador de voz suporta vários formatos de áudio incluindo MP3, WAV, M4A e mais. Você pode processar qualquer arquivo de áudio para isolar voz, seja uma gravação profissional ou um arquivo de áudio casual. O sistema funciona melhor com gravações vocais claras e pode lidar com arquivos de até 10MB de tamanho."
+        },
+        {
+          "question": "Como posso obter os melhores resultados com o isolador de voz?",
+          "answer": "Para resultados ótimos com nosso sistema, use arquivos de áudio de alta qualidade com vocais claros. Evite faixas muito processadas ou distorcidas, pois podem afetar a capacidade de isolar voz efetivamente. Quanto mais clara a gravação original, melhores serão os resultados de isolamento de voz."
+        },
+        {
+          "question": "Posso usar o áudio isolado comercialmente?",
+          "answer": "Sim, você pode usar o áudio isolado para seus projetos pessoais e comerciais. No entanto, certifique-se de ter os direitos necessários para usar o conteúdo de áudio original. Nosso isolador de voz é perfeito para criadores de conteúdo, podcasters e remixers de áudio procurando isolar voz para nova criação de conteúdo."
+        }
+      ]
+    }
+  }
+}

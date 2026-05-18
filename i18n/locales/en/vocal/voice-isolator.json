@@ -1,0 +1,73 @@
+{
+  "voice-isolator": {
+    "meta": {
+      "title": "Voice Isolator",
+      "description": "Instantly isolate voice from any music, audio and video with our voice isolator online. Isolate voice without background music for your content creation.",
+      "keywords": "voice isolator, isolate voice"
+    },
+    "hero": {
+      "title": "Voice Isolator",
+      "subtitle": "Instantly isolate voice from any music, audio, video and more"
+    },
+    "advantages": {
+      "title": "Why Choose Our Voice Isolator?",
+      "items": [
+        {
+          "title": "Professional AI Audio Separation",
+          "description": "Experience studio-quality audio separation with our advanced AI technology. Our voice isolator precisely isolates vocals from background music, delivering crystal-clear results perfect for content creation.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Advanced Audio Processing",
+          "description": "Our AI-powered system employs cutting-edge algorithms to isolate voice while effectively removing background music. The result is a professional-grade isolated track that preserves the original audio characteristics.",
+          "icon": "WrenchScrewdriverIcon"
+        },
+        {
+          "title": "Real-time Processing",
+          "description": "Get your isolated audio in seconds with our efficient AI technology. No need to wait for lengthy processing times - our cloud-based system delivers quick results to isolate voice without compromising quality.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "High-Quality Output",
+          "description": "Export your isolated audio in high-definition formats. Our voice isolator ensures premium quality output to isolate voice suitable for professional use in content creation.",
+          "icon": "ArrowDownTrayIcon"
+        },
+        {
+          "title": "Precise Control",
+          "description": "Fine-tune your audio separation with advanced controls. Adjust separation parameters to isolate voice and achieve the perfect balance between vocal clarity and background removal for your specific needs.",
+          "icon": "AdjustmentsHorizontalIcon"
+        },
+        {
+          "title": "Multi-format Support",
+          "description": "Our AI-powered system supports various audio formats including MP3, WAV, and M4A. Process your audio files regardless of their format, making it versatile to isolate voice for all your isolation needs.",
+          "icon": "AdjustmentsI"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "About Voice Isolator",
+      "items": [
+        {
+          "question": "What is an AI Voice Isolator?",
+          "answer": "An AI Voice Isolator is an advanced tool that uses artificial intelligence to isolate voice from background music. Our system employs sophisticated machine learning algorithms to identify and extract audio elements while maintaining their original quality and characteristics."
+        },
+        {
+          "question": "How does our AI Voice Isolator work?",
+          "answer": "Our AI-powered system uses state-of-the-art machine learning algorithms to analyze the frequency spectrum of your audio. The technology identifies vocal frequencies, isolates them from background music elements, and creates two distinct tracks: one containing only the vocals and another with the background music parts."
+        },
+        {
+          "question": "What types of audio files can I process?",
+          "answer": "Our voice isolator supports various audio formats including MP3, WAV, M4A, and more. You can process any audio file to isolate voice, whether it's a professional recording or a casual audio file. The system works best with clear vocal recordings and can handle files up to 10MB in size."
+        },
+        {
+          "question": "How can I get the best results with the voice isolator?",
+          "answer": "For optimal results with our system, use high-quality audio files with clear vocals. Avoid heavily processed or distorted tracks, as they may affect the ability to isolate voice effectively. The clearer the original recording, the better the voice isolation results will be."
+        },
+        {
+          "question": "Can I use the isolated audio commercially?",
+          "answer": "Yes, you can use the isolated audio for your personal and commercial projects. However, please ensure you have the necessary rights to use the original audio content. Our voice isolator is perfect for content creators, podcasters, and audio remixers looking to isolate voice for new content creation."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "voice-isolation": {
+    "meta": {
+      "title": "Isolation Vocale",
+      "description": "Extrayez instantanément la voix de toute musique, audio et vidéo avec notre outil d'isolation vocale avancé. Extrayez la voix sans musique de fond pour votre création de contenu.",
+      "keywords": "isolation vocale, extraire voix"
+    },
+    "hero": {
+      "title": "Isolation Vocale",
+      "subtitle": "Extrayez instantanément la voix de toute musique, audio, vidéo et plus encore"
+    },
+    "advantages": {
+      "title": "Pourquoi Choisir Notre Isolation Vocale ?",
+      "items": [
+        {
+          "title": "Extraction Audio IA Professionnelle",
+          "description": "Découvrez un traitement audio de qualité studio avec notre technologie IA avancée. Notre outil d'isolation vocale extrait précisément la voix de la musique de fond, offrant des résultats cristallins parfaits pour la création de contenu.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Traitement Audio Avancé",
+          "description": "Notre système alimenté par l'IA utilise des algorithmes de pointe pour extraire la voix tout en supprimant efficacement la musique de fond. Le résultat est une piste extraite de qualité professionnelle qui préserve les caractéristiques audio originales.",
+          "icon": "WrenchScrewdriverIcon"
+        },
+        {
+          "title": "Traitement en Temps Réel",
+          "description": "Obtenez votre audio extrait en quelques secondes avec notre technologie IA efficace. Pas besoin d'attendre de longs temps de traitement - notre système basé sur le cloud livre des résultats rapides pour extraire la voix sans compromettre la qualité.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Sortie Haute Qualité",
+          "description": "Exportez votre audio extrait dans des formats haute définition. Notre isolation vocale garantit une sortie de qualité premium pour extraire la voix adaptée à un usage professionnel dans la création de contenu et la production audio.",
+          "icon": "ArrowDownTrayIcon"
+        },
+        {
+          "title": "Contrôle Précis",
+          "description": "Ajustez finement votre extraction audio avec des contrôles avancés. Ajustez les paramètres d'extraction pour extraire la voix et atteindre l'équilibre parfait entre la clarté vocale et la suppression de l'arrière-plan selon vos besoins spécifiques.",
+          "icon": "AdjustmentsHorizontalIcon"
+        },
+        {
+          "title": "Support Multi-format",
+          "description": "Notre système alimenté par l'IA prend en charge divers formats audio incluant MP3, WAV et M4A. Traitez vos fichiers audio quel que soit leur format, le rendant polyvalent pour extraire la voix pour tous vos besoins d'extraction.",
+          "icon": "AdjustmentsI"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "À Propos de l'Isolation Vocale",
+      "items": [
+        {
+          "question": "Qu'est-ce qu'une Isolation Vocale IA ?",
+          "answer": "Une Isolation Vocale IA est un outil avancé qui utilise l'intelligence artificielle pour extraire la voix de la musique de fond. Notre système emploie des algorithmes sophistiqués d'apprentissage automatique pour identifier et extraire les éléments audio tout en maintenant leur qualité et caractéristiques originales."
+        },
+        {
+          "question": "Comment fonctionne notre Isolation Vocale IA ?",
+          "answer": "Notre système alimenté par l'IA utilise des algorithmes d'apprentissage automatique de pointe pour analyser le spectre de fréquences de votre audio. La technologie identifie les fréquences vocales, les extrait des éléments de musique de fond, et crée deux pistes distinctes : une contenant uniquement les voix et une autre avec les parties de musique de fond."
+        },
+        {
+          "question": "Quels types de fichiers audio puis-je traiter ?",
+          "answer": "Notre outil d'isolation vocale prend en charge divers formats audio incluant MP3, WAV, M4A et plus. Vous pouvez traiter n'importe quel fichier audio pour extraire la voix, qu'il s'agisse d'un enregistrement professionnel ou d'un fichier audio occasionnel. Le système fonctionne mieux avec des enregistrements vocaux clairs et peut gérer des fichiers jusqu'à 10MB."
+        },
+        {
+          "question": "Comment puis-je obtenir les meilleurs résultats avec l'isolation vocale ?",
+          "answer": "Pour des résultats optimaux avec notre système, utilisez des fichiers audio de haute qualité avec des voix claires. Évitez les pistes fortement traitées ou déformées, car elles peuvent affecter la capacité d'extraire la voix efficacement. Plus l'enregistrement original est clair, meilleurs seront les résultats d'isolation vocale."
+        },
+        {
+          "question": "Puis-je utiliser l'audio séparé commercialement ?",
+          "answer": "Oui, vous pouvez utiliser l'audio extrait pour vos projets personnels et commerciaux. Cependant, assurez-vous d'avoir les droits nécessaires pour utiliser le contenu audio original. Notre isolation vocale est parfaite pour les créateurs de contenu, podcasteurs et remixeurs audio cherchant à extraire la voix pour de nouvelles créations de contenu."
+        }
+      ]
+    }
+  }
+}

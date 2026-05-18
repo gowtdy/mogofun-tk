@@ -1,0 +1,73 @@
+{
+  "music-remover": {
+    "meta": {
+      "title": "Eliminador de Música - Eliminar música del audio",
+      "description": "Elimina música de audio y video instantáneamente con nuestro avanzado eliminador de música. Elimina música de audio y video para mejorar tu creación de contenido.",
+      "keywords": "eliminador de música, eliminar música del audio"
+    },
+    "hero": {
+      "title": "Eliminador de Música",
+      "subtitle": "Elimina música de audio, video y más instantáneamente"
+    },
+    "advantages": {
+      "title": "¿Por qué elegir nuestro Eliminador de Música?",
+      "items": [
+        {
+          "title": "Herramienta Profesional de Eliminación de Música",
+          "description": "Experimenta separación de sonido de calidad de estudio con nuestra tecnología de IA avanzada. Nuestro eliminador de música elimina precisamente las pistas de fondo de archivos de audio y video, entregando resultados cristalinos perfectos para creación de contenido y proyectos profesionales.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Tecnología Avanzada de Procesamiento de Sonido",
+          "description": "Nuestro eliminador de música impulsado por IA emplea algoritmos de vanguardia para mantener la claridad vocal mientras elimina efectivamente las pistas de fondo de grabaciones de sonido. El resultado es una salida de grado profesional que preserva las características vocales originales.",
+          "icon": "WrenchScrewdriverIcon"
+        },
+        {
+          "title": "Separación de Sonido en Tiempo Real",
+          "description": "Obtén tus archivos procesados en segundos con nuestro eficiente eliminador de música. No necesitas esperar tiempos de procesamiento largos - nuestro sistema basado en la nube entrega resultados rápidos cuando eliminas pistas de fondo de grabaciones sin comprometer la calidad.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Salida de Sonido de Alta Calidad",
+          "description": "Exporta tus archivos procesados en formatos de sonido de alta definición. Nuestro eliminador de música asegura salida de calidad premium cuando eliminas pistas de fondo de grabaciones, adecuada para uso profesional en proyectos de creación de contenido y aplicaciones comerciales.",
+          "icon": "ArrowDownTrayIcon"
+        },
+        {
+          "title": "Control Preciso de Separación de Sonido",
+          "description": "Ajusta finamente tu proceso de separación de sonido con controles avanzados. Ajusta parámetros de separación para lograr el equilibrio perfecto cuando eliminas pistas de fondo de grabaciones, asegurando claridad vocal óptima para tus necesidades específicas de contenido.",
+          "icon": "AdjustmentsHorizontalIcon"
+        },
+        {
+          "title": "Soporte de Sonido Multi-formato",
+          "description": "Nuestro eliminador de música soporta varios formatos de sonido incluyendo MP3, WAV y M4A. Procesa tus archivos de sonido independientemente de su formato, haciéndolo versátil para eliminar pistas de fondo de grabaciones de todos los tipos.",
+          "icon": "AdjustmentsI"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Acerca del Eliminador de Música",
+      "items": [
+        {
+          "question": "¿Qué es un Eliminador de Música?",
+          "answer": "Un eliminador de música es una herramienta impulsada por IA que te ayuda a eliminar pistas de fondo de archivos de sonido y video, dejando solo las partes vocales o de habla. Nuestro eliminador de música facilita la creación de contenido eliminando efectivamente pistas de fondo de grabaciones de sonido mientras preserva la calidad vocal."
+        },
+        {
+          "question": "¿Cómo funciona el Eliminador de Música?",
+          "answer": "Nuestro eliminador de música analiza tus archivos de sonido, detecta frecuencias de pistas de fondo y elimina pistas de fondo de grabaciones mientras mantiene el contenido vocal claro. El proceso usa algoritmos avanzados de aprendizaje automático para eliminar pistas de fondo de grabaciones con alta precisión y resultados de calidad."
+        },
+        {
+          "question": "¿Qué formatos de sonido son compatibles con el Eliminador de Música?",
+          "answer": "Puedes usar nuestro eliminador de música con MP3, WAV, M4A y otros formatos de sonido populares. El eliminador de música está diseñado para eliminar pistas de fondo de archivos de sonido de varios formatos hasta 10MB de tamaño."
+        },
+        {
+          "question": "¿Cómo puedo obtener los mejores resultados cuando elimino música del audio?",
+          "answer": "Para los mejores resultados con nuestro eliminador de música, usa archivos de sonido de alta calidad con separación clara entre pistas de fondo y voces. Las grabaciones limpias ayudan al eliminador de música a lograr resultados más precisos cuando eliminas pistas de fondo de grabaciones."
+        },
+        {
+          "question": "¿Puedo usar el sonido procesado comercialmente?",
+          "answer": "Sí, puedes usar el sonido procesado creado por nuestro eliminador de música para proyectos personales o comerciales. Cuando elimines pistas de fondo de grabaciones usando nuestra herramienta, asegúrate de tener los derechos del sonido original antes de usarlo para propósitos comerciales."
+        }
+      ]
+    }
+  }
+}

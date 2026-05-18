@@ -1,0 +1,73 @@
+{
+  "splitter-ai": {
+    "meta": {
+      "title": "Splitter AI - Suppression et isolation vocale",
+      "description": "Créez instantanément une suppression et isolation vocale à partir d'audio et vidéo avec notre splitter AI avancé. Utilisez la suppression et isolation vocale pour améliorer votre création de contenu.",
+      "keywords": "splitter ai, suppression et isolation vocale"
+    },
+    "hero": {
+      "title": "Splitter AI",
+      "subtitle": "Créez instantanément une suppression et isolation vocale à partir d'audio et vidéo"
+    },
+    "advantages": {
+      "title": "Pourquoi choisir notre Splitter AI ?",
+      "items": [
+        {
+          "title": "Technologie professionnelle de suppression et isolation vocale",
+          "description": "Découvrez un traitement audio de qualité studio avec notre technologie splitter AI avancée. Notre outil de suppression et isolation vocale sépare précisément les voix de l'audio et de la vidéo tout en préservant l'intégrité audio, offrant des résultats cristallins parfaits pour la création de contenu et la production musicale.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Moteur de traitement audio avancé",
+          "description": "Notre splitter AI utilise des algorithmes de pointe pour la suppression et isolation vocale tout en maintenant efficacement les caractéristiques audio originales. Le résultat est des pistes séparées de qualité professionnelle qui préservent l'essence de votre enregistrement original.",
+          "icon": "WrenchScrewdriverIcon"
+        },
+        {
+          "title": "Suppression et isolation vocale en temps réel",
+          "description": "Obtenez votre audio séparé en quelques secondes avec notre technologie splitter AI efficace. Pas besoin d'attendre de longs temps de traitement - notre suppression et isolation vocale basée sur le cloud livre des résultats rapides pour séparer les voix sans compromettre la qualité.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Sortie audio haute qualité",
+          "description": "Exportez votre audio traité dans des formats haute définition. Notre splitter AI garantit une sortie de qualité premium adaptée à un usage professionnel dans la création de contenu et la production musicale tout en maintenant la fidélité audio grâce à une suppression et isolation vocale avancée.",
+          "icon": "ArrowDownTrayIcon"
+        },
+        {
+          "title": "Contrôle audio précis",
+          "description": "Ajustez finement votre séparation audio avec des contrôles avancés. Notre outil de suppression et isolation vocale vous permet d'ajuster les paramètres de traitement pour atteindre l'équilibre parfait lors de la séparation des voix selon vos besoins spécifiques.",
+          "icon": "AdjustmentsHorizontalIcon"
+        },
+        {
+          "title": "Support audio multi-format",
+          "description": "Notre splitter AI prend en charge divers formats audio incluant MP3, WAV et M4A. Traitez vos fichiers audio quel que soit leur format, rendant notre suppression et isolation vocale polyvalente pour tout format audio pris en charge.",
+          "icon": "AdjustmentsI"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "À propos de Splitter AI",
+      "items": [
+        {
+          "question": "Qu'est-ce qu'un Splitter AI ?",
+          "answer": "Un splitter AI est un outil avancé qui utilise l'intelligence artificielle pour la suppression et isolation vocale à partir de fichiers audio et vidéo. Notre technologie emploie des algorithmes sophistiqués d'apprentissage automatique pour identifier et séparer les éléments sonores tout en maintenant leur qualité et caractéristiques originales. Cette technologie de suppression et isolation vocale excelle dans la séparation des voix de l'audio et de la vidéo avec une précision professionnelle."
+        },
+        {
+          "question": "Comment fonctionne notre suppression et isolation vocale ?",
+          "answer": "Notre splitter AI utilise des algorithmes d'apprentissage automatique de pointe pour analyser le spectre de fréquences de votre audio. La technologie identifie les fréquences vocales, les isole des éléments d'arrière-plan, et crée deux pistes distinctes : une contenant uniquement le son instrumental et une autre avec les voix. Ce processus de suppression et isolation vocale sépare efficacement les voix tout en préservant la qualité originale."
+        },
+        {
+          "question": "Quels types de fichiers audio puis-je traiter ?",
+          "answer": "Notre splitter AI prend en charge divers formats audio incluant MP3, WAV, M4A, et plus encore. Vous pouvez traiter n'importe quel fichier audio pour la suppression et isolation vocale, qu'il s'agisse d'un enregistrement professionnel ou d'un fichier audio occasionnel. Cette technologie fonctionne mieux avec des enregistrements audio et vocaux clairs et peut gérer des fichiers jusqu'à 10MB tout en séparant efficacement les voix."
+        },
+        {
+          "question": "Comment puis-je obtenir les meilleurs résultats avec la suppression et isolation vocale ?",
+          "answer": "Pour des résultats optimaux lors de la séparation des voix de l'audio et de la vidéo, utilisez des fichiers audio de haute qualité avec un audio et des voix clairs. Évitez les pistes fortement traitées ou déformées, car elles peuvent affecter la qualité de la suppression et isolation vocale. Plus l'enregistrement original est clair, mieux notre splitter AI peut séparer les voix tout en maintenant la fidélité audio."
+        },
+        {
+          "question": "Puis-je utiliser les voix séparées commercialement ?",
+          "answer": "Oui, vous pouvez utiliser les voix séparées pour vos projets personnels et commerciaux. Cependant, assurez-vous d'avoir les droits nécessaires pour utiliser le contenu audio original. Notre splitter AI est parfait pour les créateurs de contenu, podcasteurs et remixeurs audio cherchant à créer du nouveau contenu à partir de pistes audio existantes. Cette suppression et isolation vocale facilite la séparation des voix pour tout projet."
+        }
+      ]
+    }
+  }
+}

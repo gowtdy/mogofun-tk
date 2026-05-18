@@ -1,0 +1,79 @@
+{
+  "funny-audios": {
+    "meta": {
+      "title": "Lustige Audios",
+      "description": "Erstellen Sie einzigartige lustige Audios mit fortschrittlicher KI für Soundeffekte – inklusive Naturgeräusche, Instrumente und mehr.",
+      "keywords": "lustige Audios, lustiger Sound"
+    },
+    "hero": {
+      "title": "Lustige Audios",
+      "subtitle": "Verwandeln Sie Ihre Textbeschreibungen in hochwertige lustige Audios"
+    },
+    "generator_subtitle": "Wählen Sie unten beliebte Prompts oder schreiben Sie eine eigene Beschreibung, um lustige Audios zu erzeugen",
+    "advantages": {
+      "title": "Warum lustige Audios aus Text-Prompts erzeugen?",
+      "items": [
+        {
+          "title": "Lustige Audios in Sekunden",
+          "description": "Beschreiben Sie Stings, Reaktions-Hits, Cartoon-Pops oder meme-nahe Vocals in einfacher Sprache und erhalten Sie schnell mixbare Stems—kein endlose Scrollen auf Websites vor der Deadline. Die Ausgaben bleiben kurz, damit Reels, Podcasts und Overlays knackig bleiben. Duplizieren Sie lustige Audios für vertikale Schnitte, kürzen Sie bei jedem Durchlauf die Tails und archivieren Sie Reserve-lustige Audios für Nachdrehs.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Sketche für alle Formate variieren",
+          "description": "Duplizieren Sie einen Witz über vertikal, quadratisch und quer, indem Sie Prompts anpassen statt ganze Sessions neu aufzubauen. Halten Sie die Klangfarbe konsistent, während Sie Länge oder Intensität ändern, damit jeder Plattform-Schnitt bewusst wirkt. Wenn überfüllte lustige Audios die Sprecherstimme überdecken, verkürzen Sie decays; wenn dünne lustige Audios Punch vermissen, weiten Sie Verben; QC jede Charge lustiger Audios vor dem Dub.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Lautheit mit Fokus auf Smartphone",
+          "description": "Die Dynamik zielt auf typische Ohrhörer und Telefonlautsprecher. Bündeln Sie lustige Audios für eine Kampagne bei vorhersehbaren Peaks unter Dialog, dann Ihren üblichen Limiter- oder Loudness-Durchlauf in der DAW. Promo-lustige Audios montags routen, ältere Mitte der Woche auffrischen und lieferbare lustige Audios nach Picture-Lock ausgeben.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Lustige Audios: Fragen und Antworten",
+      "items": [
+        {
+          "question": "Was sind „lustige Audios“ in diesem Tool?",
+          "answer": "Kurze Comedy-Clips—Stings, Summer, Cartoon-Pops oder verspielte Vocals—aus Text statt aus unbekannten Dateien zu rippen. Sie erhalten legale Stems, passend für Reels, Podcasts, Ads und schnelle A/B-Tests. Soll ein Sting auf Handys lustig klingen, hellen Sie Transienten leicht auf statt Gain zu zerquetschen."
+        },
+        {
+          "question": "Wie wird aus einem Prompt ein mixfertiger Clip?",
+          "answer": "Sie beschreiben Klangfarbe, Länge und Punch („trockener Rimshot 0,25 s“). Modelle rendern kompakte Wellenformen, leichte Bearbeitung zähmt Peaks für Mobile-Wiedergabe. Download, normalisieren falls Ihre Kette es verlangt, und in den Schnitt legen. Editoren wollen Kunden-Spots lustig klingen lassen ohne Voiceover-Bed zu maskieren."
+        },
+        {
+          "question": "Wie klingen Exports lustig ohne Clipping?",
+          "answer": "Peaks unter 0 dBFS halten, nach Gain-Staging einen sanften Limiter nutzen und Matsch per High-Pass entkoppeln, der sich mit Musik stapelt. Wenn Helligkeit auf Ohrhörern hart wirkt, 3–6 kHz leicht dämpfen statt den ganzen Bus zu zerquetschen. Schüler hoffen, dass Erklärer lustig klingen und im Klassenzimmer bei leiser Wiedergabe sicher bleiben."
+        },
+        {
+          "question": "Wie prompte ich für Meme-Timing?",
+          "answer": "Nennen Sie Trope, emotionalen Flip und Dauer. Plattform erwähnen wenn relevant—vertikale Mixe brauchen oft hellere Transienten. Vergleichen Sie konkrete Zeilen wie „sad trombone wah“ mit „cartoon fail brass“ und verfeinern. Bots können Alerts lustig klingen lassen ohne billige Laptop-Lautsprecher zu übersteuern."
+        },
+        {
+          "question": "Kann ich unter Dialog legen?",
+          "answer": "Ja—Erzählung um ein paar dB ducken, Decay kürzen wenn der Witz Worte überdeckt, und bei dichter Musik gemeinsame Frequenzen notchen. Sidechain oder Clip-Gain wie bei jedem anderen SFX. Podcast-Teams wollen Bumpers lustig neben trockener VO ohne Bus-Pumping."
+        },
+        {
+          "question": "Geeignet für Stream-Alerts oder Bots?",
+          "answer": "Erzeugen Sie Geschwister-Stings für Follows, Raids und Redeems, damit Alerts frisch bleiben. Dateien auf Hotkeys oder Befehle mappen und die neuesten Audio-Richtlinien jeder Plattform befolgen. QA: Jeder Export soll bei leiser Lautstärke lustig klingen, bevor Sie live gehen."
+        },
+        {
+          "question": "Welche Stile funktionieren am besten?",
+          "answer": "Rimshots, Kazoo-Summen, Ziehpfeifen, Buzzer für falsche Antworten, Feder-Boings und meme-nahe Impacts. One-Shots von Beds trennen, damit Sie Musik ducken können ohne Raumton zu töten. Animatoren brauchen SFX, die gegen flache Musik-Beds lustig klingen ohne Dialog zu verwaschen."
+        },
+        {
+          "question": "Sind Downloads lizenzfrei?",
+          "answer": "Dateien erscheinen unter der beim Download angezeigten Lizenz—typisch Streams, Ads und Kundenschnitte ohne extra Sync-Gebühren. PDFs für Sponsoren archivieren und Bedingungen bei Kampagnen-Renewal prüfen. Sponsoren wollen, dass Promos lustig klingen, bevor Musik einfegt und den Tag verschluckt."
+        },
+        {
+          "question": "Welche Qualität ist zu erwarten?",
+          "answer": "Hochauflösende Stems mit kontrollierter Dynamik, damit Hits auf Telefon und Studio-Monitoren lesbar sind. Durch Ihre übliche Loudness-Stufe, falls Broadcast-Specs gelten. Mastering soll Finals auf Ohrhörern und Wohnzimmer-TVs gleichermaßen lustig klingen lassen."
+        },
+        {
+          "question": "Wer profitiert am meisten?",
+          "answer": "Editoren, Podcast-Produzent:innen und Community-Manager:innen mit täglicher Comedy. Teams, die jede Saison frische lustige Audios brauchen, können Prompts iterieren statt ganze Bibliotheken neu zu bauen. Saisonale lustige Audios rotieren wenn Hooks wechseln; Takes iterieren bis Reels auf jedem Plattform-Preset lustig klingen."
+        }
+      ]
+    }
+  }
+}

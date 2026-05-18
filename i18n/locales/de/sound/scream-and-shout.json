@@ -1,0 +1,71 @@
+{
+  "scream-and-shout": {
+    "meta": {
+      "title": "Schreien und Brüllen",
+      "description": "Erstellen Sie sofort Schreien und Brüllen mit unserer fortschrittlichen KI. Generieren Sie verschiedene Klangtypen – Naturgeräusche, Instrumente und mehr.",
+      "keywords": "schreien und brüllen, schreien und johlen"
+    },
+    "hero": {
+      "title": "Schreien und Brüllen",
+      "subtitle": "Verwandeln Sie Textbeschreibungen sofort in hochwertiges Schreien und Brüllen"
+    },
+    "generator_subtitle": "Wählen Sie unten beliebte Prompts oder schreiben Sie Ihre eigene Beschreibung, um Schreien und Brüllen zu erzeugen",
+    "advantages": {
+      "title": "Warum unseren Generator für Schreien und Brüllen wählen?",
+      "items": [
+        {
+          "title": "Clips in Sekunden erstellen",
+          "description": "Einfacher Prompt-Text wird zu wirkungsvollen Vocal-Momenten – ohne riesige Sound-Bibliotheken zu durchsuchen. Das Modell versteht Dringlichkeit, Tempo und Figurenabsicht, sodass jedes Ergebnis zu Action-Schnitten, Trailern, Spielszenen und Social-Content passt. Schnelle Iteration ermöglicht Vergleiche vor dem finalen Timing-Lock. Ein fokussierter Schreien-und-Brüllen-Prompt kann Schrei- und Gebrüll-Akzente liefern, ohne den Mix zu überladen.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Flexible Intensität für jedes Szenario",
+          "description": "Von gehaltener Spannung bis zur vollen Energie von Schreien und Johlen formen Sie die Auslieferung über Prompt-Detail, Dauer und Stimmtextur. So lässt sich Emotion mit dem Bildschnitt abstimmen und Klarheit in dialoglastigen Szenen wahren. Alternativversionen für A/B sind möglich. Schnitt-Teams behalten oft eine Schreien-und-Brüllen-Version plus eine Schreien-und-Johlen-Version für schnelle Wechsel.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professionelle Audioqualität",
+          "description": "Exports sind mixbereit mit zuverlässiger Lautheit, sauberen Transienten und konsistentem Klangbild. Späte Austausche in der Post werden einfacher, Effekte bleiben nach Plattformkompression auf Mobil und Desktop stabil. Einheitliches Mastering hält jedes Schreien und Brüllen klar, während jeder Schrei-und-Johlen-Peak kontrolliert bleibt.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Über unseren Generator für Schreien und Brüllen",
+      "items": [
+        {
+          "question": "Was ist ein Generator für Schreien und Brüllen?",
+          "answer": "Ein KI-Tool, das Textprompts in ausdrucksstarke Vocals für Hoch-Energie-Momente verwandelt. Statt vieler Schauspieler-Aufnahmen oder manueller Bibliothekssuche erzeugen Sie schnell passende Clips pro Szene. Ein Schreien-und-Brüllen-Konzept kann mehrere Schrei-und-Johlen-Alternativen für verschiedene Schnitte liefern."
+        },
+        {
+          "question": "Wie funktioniert dieses Tool für Schreien und Brüllen?",
+          "answer": "Das System wertet emotionale Absicht, Lautstärkeprofil, Rhythmus und Kontext aus Ihrem Prompt aus und synthetisiert dann passende Ausgabe. Sie können die Formulierung iterieren, um Attack, Sustain oder Tempo zu straffen, bis der Clip exakt zur Timeline passt. Iteration hilft jeder Schreien-und-Brüllen-Cue, bildgenau zu sitzen, während Schreien und Johlen kohärent bleibt."
+        },
+        {
+          "question": "Warum das statt Stock-Packs?",
+          "answer": "Stock-Packs wiederholen oft abgenutzte Assets und passen nicht immer zum Szenentempo. Prompt-getriebene Generierung liefert neue Takes auf Abruf – originellere Schnitte bei synchronem Bild. Jedes Schreien und Brüllen bleibt einzigartig, generische Schrei-und-Johlen-Klischees werden vermieden."
+        },
+        {
+          "question": "Wie schreibe ich Prompts für Schreien und Brüllen?",
+          "answer": "Beschreiben Sie, wer reagiert, was den Vocal-Moment auslöst und wie lange er dauern soll. Spezifische Prompts wie „kurzer Kommandoruf vor dem Aufprall“ liefern meist besseres Timing als vage Formulierungen. Bessere Prompts schärfen das Timing von Schreien und Brüllen und dämpfen Schrei-und-Johlen-Überlauf in dichten Szenen."
+        },
+        {
+          "question": "Wann setze ich Schreien und Johlen im Mix ein?",
+          "answer": "Nutzen Sie Schreien und Johlen für Übergänge im Höhepunkt, Kampf-Cues, Panik-Beats oder hochstressige Reveals. Pegel leicht unter primärem Dialog halten und Gain automatisieren, um Verständlichkeit in dichten Szenen zu wahren. Kurzes Schreien und Brüllen vor Schreien und Johlen verbessert oft das dramatische Timing."
+        },
+        {
+          "question": "Welche Vocal-Varianten kann ich erzeugen?",
+          "answer": "Sie können kurze Kommandos, Kampf-Schreie, geschichtete Crowds, angestrengte Rufe und stilisierte dramatische Akzente erzeugen. Diese Bandbreite erleichtert emotionale Impact-Tests vor dem finalen Export. Bauen Sie eine kleine Schreien-und-Brüllen-Bibliothek und markieren Sie jeden Schrei-und-Johlen-Clip nach Intensität für schnelles Auffinden."
+        },
+        {
+          "question": "Ist generiertes Audio lizenzfrei?",
+          "answer": "Ja. Generierte Dateien sind unter unserer Lizenz für typische Creator- und kommerzielle Nutzung lizenzfrei. Bitte prüfen Sie die aktuellen Lizenzbedingungen vor großflächiger Werbung oder Broadcast."
+        },
+        {
+          "question": "Welche Qualität kann ich von Exporten erwarten?",
+          "answer": "Erwarten Sie produktionsreifes Material mit klarem Detail, stabiler Dynamik und zuverlässiger Wiedergabe auf allen Geräten. Für die finale Auslieferung wenden Sie Ihre übliche Mastering-Kette an, um Plattform-Loudness-Ziele zu treffen. Die finale QC sollte bestätigen, dass jedes Schreien und Brüllen verständlich bleibt und alle Schrei-und-Johlen-Transienten die Kompression überstehen."
+        }
+      ]
+    }
+  }
+}

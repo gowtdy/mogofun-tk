@@ -1,0 +1,75 @@
+{
+  "train-sounds": {
+    "meta": {
+      "title": "Sons de trem",
+      "description": "Crie sons de trem instantaneamente com nossa tecnologia de IA avançada. Gere vários tipos de áudio, incluindo tons naturais, instrumentos e mais.",
+      "keywords": "sons de trem, som de trem"
+    },
+    "hero": {
+      "title": "Sons de trem",
+      "subtitle": "Transforme descrições em texto em sons de trem de alta qualidade na hora"
+    },
+    "generator_subtitle": "Escolha entre os prompts populares abaixo ou escreva sua própria descrição para gerar sons de trem",
+    "advantages": {
+      "title": "Por que escolher nosso gerador de sons de trem?",
+      "items": [
+        {
+          "title": "Criação instantânea de sons de trem",
+          "description": "Gere sons de trem profissionais instantaneamente a partir do texto. Nossa ferramenta transforma suas descrições em apito e passagem em segundos—sem bibliotecas grandes ou edição manual. Crie variações ilimitadas para qualquer projeto. Seja sons de trem nítidos para a interface ou som de trem completo para uma cena, o gerador entrega resultados limpos e prontos para transmissão.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Possibilidades criativas ilimitadas",
+          "description": "Crie qualquer estilo de sons de trem que precisar: apito, passagem, interior da cabine ou ambiente de som de trem. O gerador entende descrições detalhadas e produz áudio correspondente, com total liberdade criativa. Explore variações infinitas de sons de trem para jogos, vídeos e aplicativos. Do sutil ao dramático, encontre o ajuste certo para cada projeto.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualidade de áudio profissional",
+          "description": "Todos os sons de trem gerados atenden a padrões de transmissão com saída de alta fidelidade. O gerador usa algoritmos modernos para que cada clip seja claro e pronto para produção. Todas as saídas são otimizadas para uso profissional em vídeo, jogos e conteúdo. Obtenha sons de trem e som de trem consistentes, de qualidade de estúdio.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Sobre o gerador de sons de trem",
+      "items": [
+        {
+          "question": "O que é um gerador de sons de trem?",
+          "answer": "Um gerador de sons de trem é uma ferramenta de IA que transforma texto em som de trem personalizado e áudio ferroviário. Produz saída profissional para jogos, vídeos e aplicativos. O sistema usa síntese de áudio neural treinada em amostras reais de ferrovia, para resultados naturais e utilizáveis sem gravação ou bibliotecas grandes. É feito para criadores, desenvolvedores de jogos e editores que precisam de clips rápidos e variados para qualquer projeto."
+        },
+        {
+          "question": "Como funciona o gerador de sons de trem?",
+          "answer": "Nosso gerador primeiro lê sua descrição em texto e extrai traços como intensidade, estilo e contexto. Em seguida, processa isso em modelos treinados em apito, ferrovia e passagem para sintetizar clips correspondentes. Você pode pedir um som de trem curto para a interface ou ambientação mais longa. O resultado é um arquivo limpo e pronto para uso que você pode baixar e usar no seu projeto."
+        },
+        {
+          "question": "O que torna este gerador de sons de trem único?",
+          "answer": "Diferente de bibliotecas fixas, nosso gerador cria novo som de trem e áudio ferroviário sob demanda a partir de texto simples. Você obtém clips personalizados sem procurar em milhares de arquivos. A IA é treinada em amostras ferroviárias de alta qualidade, então cada resultado é consistente e profissional. Você pode gerar quantas variações precisar para encontrar o ajuste certo para cada cena ou interação."
+        },
+        {
+          "question": "Como escrever prompts eficazes para sons de trem?",
+          "answer": "Use descrições claras e específicas. Por exemplo: \"som de trem para um apito\" ou \"passagem\". Mencione estilo (realista, cinematográfico), contexto (jogo, vídeo, filme) e intensidade. O gerador responde bem a termos como apito, ferrovia, passagem e buzina. Quanto mais detalhes você der, mais a saída se aproxima da sua visão. Inclua duração ou estilo se for importante para seu projeto."
+        },
+        {
+          "question": "Como usar áudio ferroviário em conteúdo de vídeo?",
+          "answer": "Use som de trem e áudio ferroviário para dar realismo a cenas de viagem, documentários ou anúncios. Coloque um apito curto ou passagem onde combinar com a ação. Coloque clips ou ambiente de cabine para momentos-chave em montagens. Varie a intensidade—sutil no fundo, mais nítida no foco. Nosso gerador permite criar variações suficientes para que cada cena tenha um resultado adequado sem repetição."
+        },
+        {
+          "question": "Como usar áudio ferroviário no desenvolvimento de jogos?",
+          "answer": "Som de trem e clips ferroviários funcionam bem para jogos de transporte, títulos de mundo aberto e ambiente de nível. Use um som de trem nítido para interface ou cutscene, e ambiente mais completo para cenas no jogo. Nosso gerador suporta muitas variações para manter um estilo consistente e evitar repetição. Crie conjuntos distintos para diferentes locais ou épocas. O resultado é áudio claro e profissional que combina com a sensação do seu jogo."
+        },
+        {
+          "question": "Que tipos de sons de trem posso criar?",
+          "answer": "Você pode criar uma ampla gama de som de trem: apito, passagem, interior da cabine, ambiente e buzina. Use-os para jogos, vídeos, filme ou qualquer necessidade relacionada a ferrovia. O gerador lida com diferentes contextos e estilos com qualidade consistente, de hits únicos a clips em camadas. Explore várias opções para qualquer necessidade de produção."
+        },
+        {
+          "question": "Os clips gerados são livres de royalties?",
+          "answer": "Sim. Todos os clips de som de trem do nosso gerador são livres de royalties e vêm com licença comercial. Você pode usar o áudio gerado em qualquer projeto sem taxas extras ou atribuição. Cada arquivo gerado está liberado para uso profissional e comercial. Baixe quantos precisar para seus projetos."
+        },
+        {
+          "question": "Qual é a qualidade dos sons de trem gerados?",
+          "answer": "Nosso gerador produz sons de trem de nível profissional que atenden a padrões comuns de transmissão e produção. Você obtém arquivos de alta resolução, faixa de frequência completa e dinâmica controlada, para que cada clip seja claro e pronto para colocar no seu projeto. Cada som de trem e sons de trem gerados são adequados para uso profissional em vídeo, jogos e aplicativos."
+        }
+      ]
+    }
+  }
+}

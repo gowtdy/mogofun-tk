@@ -1,0 +1,75 @@
+{
+  "fireworks-sound": {
+    "meta": {
+      "title": "Son de feux d'artifice",
+      "description": "Créez instantanément un son de feux d'artifice avec notre technologie IA avancée. Générez divers types de sons, notamment des sons naturels, des instruments de musique et plus encore.",
+      "keywords": "son feux d'artifice, effets sonores feux d'artifice"
+    },
+    "hero": {
+      "title": "Son de feux d'artifice",
+      "subtitle": "Transformez instantanément une description textuelle en son de feux d'artifice haute qualité"
+    },
+    "generator_subtitle": "Choisissez parmi les invites populaires ci-dessous ou rédigez votre propre description pour générer un son de feux d'artifice",
+    "advantages": {
+      "title": "Pourquoi choisir notre générateur de son de feux d'artifice ?",
+      "items": [
+        {
+          "title": "Création instantanée de son de feux d'artifice",
+          "description": "Générez un audio pyrotechnique professionnel et des effets sonores de feux d'artifice instantanément à partir du texte. Notre outil transforme vos descriptions en détonations, sifflements, crépitements et déflagrations en quelques secondes—sans enregistrement sur le terrain ni grandes bibliothèques. Créez des variations illimitées pour la vidéo, les annonces ou les événements. Que vous ayez besoin d'une seule détonation, d'audio pour le Nouvel An, ou d'effets en couches, le générateur livre des résultats propres et prêts à la diffusion.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Possibilités créatives illimitées",
+          "description": "Créez tout style d'audio de feux d'artifice dont vous avez besoin : spectacle lointain, détonation rapprochée, crépitement de cierge magique, ou effets sonores de grand final. Le générateur comprend les descriptions détaillées et produit des effets sonores correspondants pour une liberté créative totale. Explorez des variations pour le cinéma, les podcasts et le contenu. Du scintillement discret à l'audio pyrotechnique massif, trouvez la bonne option pour chaque projet.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualité audio professionnelle",
+          "description": "Tous les audios pyrotechniques générés respectent les normes de diffusion avec une sortie haute fidélité. Le générateur utilise des algorithmes modernes pour que chaque résultat d'effets sonores soit clair et prêt pour la production. Les sorties sont optimisées pour la vidéo, le cinéma et les médias. Obtenez un audio pyrotechnique cohérent et de qualité studio pour votre travail.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "À propos du générateur de son de feux d'artifice",
+      "items": [
+        {
+          "question": "Qu'est-ce qu'un générateur de son de feux d'artifice ?",
+          "answer": "Un générateur de son de feux d'artifice est un outil IA qui transforme le texte en son de feux d'artifice personnalisé et effets sonores comme détonations, sifflements, crépitements et déflagrations. Il produit un audio professionnel pour la vidéo, les jeux et les annonces sans enregistrement ni grandes bibliothèques. Le système utilise une synthèse neuronale entraînée sur de l'audio pyrotechnique réel, pour des résultats naturels et utilisables. Il est conçu pour les créateurs qui ont besoin d'effets sonores de feux d'artifice rapides et variés pour tout projet."
+        },
+        {
+          "question": "Comment fonctionne le générateur d'audio pyrotechnique ?",
+          "answer": "Notre générateur lit votre description textuelle et en extrait des traits comme le type de détonation, la distance et l'intensité. Il synthétise ensuite l'audio pyrotechnique correspondant—déflagration unique, effets rapides, ou spectacle lointain. Vous pouvez demander un crépitement de cierge magique, un grand final, ou des feux du Nouvel An. Le résultat est un fichier propre et prêt à l'emploi que vous pouvez télécharger et intégrer à votre projet."
+        },
+        {
+          "question": "Qu'est-ce qui rend ce générateur de son de feux d'artifice unique ?",
+          "answer": "Contrairement aux bibliothèques fixes, notre générateur d'audio pyrotechnique crée de nouvelles variations à la demande à partir de texte simple. Vous obtenez des effets sonores personnalisés sans parcourir des milliers de fichiers. L'IA est entraînée sur de l'audio pyrotechnique de haute qualité, donc chaque résultat est cohérent et professionnel. Générez autant de variations d'effets sonores que nécessaire pour chaque scène ou montage."
+        },
+        {
+          "question": "Comment rédiger des invites efficaces pour le son de feux d'artifice ?",
+          "answer": "Utilisez des descriptions claires et précises. Par exemple : « détonation unique dans le ciel nocturne » ou « spectacle lointain avec sifflements ». Indiquez le type de détonation (déflagration, crépitement, sifflement), la distance (proche, loin) et le contexte (Nouvel An, célébration, final). Le générateur réagit bien aux termes comme détonation, déflagration, crépitement et effets sonores feux d'artifice. Plus de détails aident le résultat à correspondre à votre vision."
+        },
+        {
+          "question": "Comment utiliser le son de feux d'artifice dans le contenu vidéo ?",
+          "answer": "Utilisez l'audio pyrotechnique pour mettre en valeur les célébrations, fins ou moments clés. Superposez des détonations sous les plans, ajoutez une déflagration pour l'impact, ou utilisez des effets sonores lointains pour l'ambiance. Variez l'intensité—plus fort pour les climax, plus doux pour le fond. Notre générateur vous permet de créer assez de variations pour que chaque scène ait un audio pyrotechnique adapté sans répétition."
+        },
+        {
+          "question": "Comment utiliser le son de feux d'artifice dans le développement de jeux ?",
+          "answer": "L'audio pyrotechnique convient aux écrans de victoire, célébrations et niveaux terminés. Utilisez les détonations pour les récompenses, le grand final pour les jalons et les effets sonores de feux d'artifice pour les moments festifs. Notre générateur prend en charge de nombreuses variations pour garder un style cohérent. Créez des ensembles distincts pour différents événements avec une sortie claire et professionnelle."
+        },
+        {
+          "question": "Quels types de son de feux d'artifice puis-je créer ?",
+          "answer": "Vous pouvez créer une large gamme d'audio pyrotechnique et d'effets sonores : détonation unique, séquence rapide, sifflement, crépitement, déflagration, spectacle lointain, grand final. Utilisez-les pour le cinéma, les jeux, les podcasts ou tout projet nécessitant un audio pyrotechnique. Le générateur gère différents contextes et styles avec une qualité d'effets sonores cohérente."
+        },
+        {
+          "question": "L'audio pyrotechnique généré est-il libre de droits ?",
+          "answer": "Oui. Tous les audios pyrotechniques générés par notre outil sont libres de droits et fournis avec une licence commerciale. Vous pouvez les utiliser dans tout projet sans frais supplémentaires ni attribution. Chaque fichier d'effets sonores généré est autorisé pour un usage professionnel et commercial. Téléchargez autant que nécessaire pour vos projets."
+        },
+        {
+          "question": "Quelle est la qualité de l'audio pyrotechnique généré ?",
+          "answer": "Notre générateur d'audio pyrotechnique produit un audio de qualité professionnelle conforme aux normes courantes de diffusion et de production. Vous obtenez des fichiers haute résolution, une plage de fréquences complète et une dynamique maîtrisée pour que chaque résultat d'effets sonores soit clair et prêt à intégrer à votre projet. Chaque fichier généré convient à un usage professionnel en vidéo, cinéma et contenu."
+        }
+      ]
+    }
+  }
+}

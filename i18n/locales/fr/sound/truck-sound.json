@@ -1,0 +1,75 @@
+{
+  "truck-sound": {
+    "meta": {
+      "title": "Son de camion",
+      "description": "Créez instantanément un son de camion avec notre technologie IA avancée. Générez divers types de sons : sons naturels, instruments de musique et plus.",
+      "keywords": "son de camion, bruit de camion"
+    },
+    "hero": {
+      "title": "Son de camion",
+      "subtitle": "Transformez instantanément une description textuelle en son de camion de haute qualité"
+    },
+    "generator_subtitle": "Choisissez parmi les suggestions ci-dessous ou rédigez votre propre description pour générer un son de camion",
+    "advantages": {
+      "title": "Pourquoi choisir notre générateur de son de camion ?",
+      "items": [
+        {
+          "title": "Création instantanée de son de camion",
+          "description": "Générez un son de camion professionnel instantanément à partir du texte. Notre outil transforme vos descriptions en grondement de moteur, klaxon, freinage et son de route en quelques secondes—sans enregistrement sur le terrain ni grandes bibliothèques. Créez des variations illimitées pour la vidéo, les jeux ou les publicités. Que vous ayez besoin d’un diesel au ralenti, d’un poids lourd qui passe ou d’un bruit de camion dans le trafic, le générateur fournit des résultats propres et prêts à la diffusion pour tout projet.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Possibilités créatives illimitées",
+          "description": "Créez le style de son de camion qu’il vous faut : accélérations de poids lourd, grondement d’autoroute au loin, bips de marche arrière ou ambiance de cabine. Le générateur comprend les descriptions détaillées et produit un audio correspondant pour une liberté créative totale. Explorez des variations pour le cinéma, les podcasts et le contenu. Du bruit de camion discret aux passages dramatiques, trouvez ce qui convient à chaque projet.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualité audio professionnelle",
+          "description": "Tout son de camion généré respecte les normes de diffusion avec une sortie haute fidélité. Le générateur utilise des algorithmes modernes pour que chaque résultat soit clair et prêt pour la production. Les sorties sont optimisées pour la vidéo, le cinéma et les médias. Obtenez un bruit de camion et un son de moteur cohérents et de qualité studio pour votre travail.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "À propos du générateur de son de camion",
+      "items": [
+        {
+          "question": "Qu’est-ce qu’un générateur de son de camion ?",
+          "answer": "Un générateur de son de camion est un outil IA qui transforme le texte en son de camion personnalisé (moteur, klaxon, bruit de route). Il produit un audio professionnel pour la vidéo, les jeux et les publicités sans enregistrement ni grandes bibliothèques. Le système utilise une synthèse neuronale entraînée sur de l’audio véhiculaire réel pour des résultats naturels et utilisables. Il est conçu pour les créateurs qui ont besoin d’effets son de camion et bruit de camion variés et rapides pour tout projet."
+        },
+        {
+          "question": "Comment fonctionne le générateur de son de camion ?",
+          "answer": "Le générateur lit votre description textuelle et en déduit le type de véhicule, la vitesse et l’environnement. Il synthétise ensuite un audio correspondant—accélérations, klaxons, freinage ou trafic. Vous pouvez demander un diesel au ralenti, un poids lourd qui passe ou un bruit de camion sur un parking. Le résultat est un fichier propre et prêt à l’emploi que vous pouvez télécharger et intégrer à votre projet."
+        },
+        {
+          "question": "Qu’est-ce qui rend ce générateur de son de camion unique ?",
+          "answer": "Contrairement aux bibliothèques fixes, notre générateur de son de camion crée de nouvelles variations à la demande à partir de texte simple. Vous obtenez un audio personnalisé sans parcourir des milliers de fichiers. L’IA est entraînée sur de l’audio véhiculaire et routier de qualité, chaque résultat est donc cohérent et professionnel. Générez autant de variations que nécessaire pour chaque scène ou montage."
+        },
+        {
+          "question": "Comment rédiger des prompts efficaces pour le son de camion ?",
+          "answer": "Utilisez des descriptions claires et précises. Par exemple : « diesel au ralenti à un feu » ou « bruit de camion venant du trafic autoroutier ». Indiquez le type de véhicule (semi-remorque, pick-up, poids lourd), l’action (accélération, freinage, marche arrière) et le cadre (autoroute, ville, chantier). Le générateur réagit bien aux termes moteur, klaxon, grondement et accélération. Plus de détails aident le résultat à correspondre à votre vision."
+        },
+        {
+          "question": "Comment utiliser le son de camion dans un contenu vidéo ?",
+          "answer": "Utilisez l’audio pour donner du réalisme aux scènes de conduite, aux publicités ou aux documentaires. Superposez le grondement du moteur sous les rushs, ajoutez des coups de klaxon pour l’accent, ou utilisez un bruit de camion lointain pour la profondeur. Le bruit de camion convient à tout style—plus fort pour l’action, plus doux en fond. Notre générateur permet de créer assez de variations de bruit de camion pour que chaque scène ait un résultat adapté sans répétition."
+        },
+        {
+          "question": "Comment utiliser le son de camion dans le développement de jeux ?",
+          "answer": "L’audio convient aux jeux de conduite, à l’ambiance trafic et au retour UI. Utilisez le bruit de camion pour les accélérations dans la sélection de véhicule, le klaxon pour les alertes et l’ambiance route pour l’atmosphère monde ouvert. Notre générateur prend en charge de nombreuses variations de bruit de camion pour garder un style cohérent. Créez des sets distincts pour différents véhicules ou environnements avec une sortie claire et professionnelle."
+        },
+        {
+          "question": "Quels types de son de camion puis-je créer ?",
+          "answer": "Vous pouvez créer une grande variété de son de camion et bruit de camion : moteur au ralenti ou en accélération, klaxon court ou long, crissement de freins, bip de marche arrière, grondement de route, ambiance cabine ou extérieure. Utilisez le bruit de camion pour le cinéma, les jeux, les podcasts ou tout projet nécessitant de l’audio véhiculaire. Le générateur gère différents contextes et styles avec une qualité constante pour tous vos besoins en bruit de camion."
+        },
+        {
+          "question": "Les sons de camion générés sont-ils libres de droits ?",
+          "answer": "Oui. Tout son de camion de notre générateur est libre de droits et fourni avec une licence commerciale. Vous pouvez l’utiliser dans tout projet sans frais supplémentaires ni attribution. Chaque fichier généré est autorisé pour un usage professionnel et commercial. Téléchargez autant que nécessaire pour vos projets."
+        },
+        {
+          "question": "Quelle est la qualité du son de camion généré ?",
+          "answer": "Notre générateur de son de camion produit un audio de qualité professionnelle conforme aux normes courantes de diffusion et de production. Vous obtenez des fichiers haute résolution, une plage de fréquences complète et une dynamique maîtrisée pour que chaque fichier soit clair et prêt à intégrer à votre projet. Chaque son de camion généré convient à un usage professionnel en vidéo, cinéma et contenu."
+        }
+      ]
+    }
+  }
+}

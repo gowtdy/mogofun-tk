@@ -1,0 +1,75 @@
+{
+  "screaming-audio": {
+    "meta": {
+      "title": "Screaming Audio",
+      "description": "Instantly create screaming audio with our advanced AI technology. Generate various types of audio including natural clips, musical instruments and more.",
+      "keywords": "screaming audio, sound of screaming"
+    },
+    "hero": {
+      "title": "Screaming Audio",
+      "subtitle": "Instantly transform text description into high-quality screaming audio"
+    },
+    "generator_subtitle": "Select from popular prompts below or write your own description to generate screaming audio",
+    "advantages": {
+      "title": "Why Choose Our Screaming Audio Generator?",
+      "items": [
+        {
+          "title": "Instant Audio Creation",
+          "description": "Create professional vocal clips instantly from text with our AI generator. The tool turns your ideas into high-quality screaming audio and character clips in seconds, without sample libraries or manual editing. Generate unlimited variations for games, videos, and apps. Whether you need girl vocal sound effect, crow shriek bird, or sound of screaming for horror, the generator delivers studio-quality output for your projects.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Unlimited Creative Possibilities",
+          "description": "Use our generator to create any style of screaming audio you imagine—from subtle yells to intense shrieks. The tool understands complex descriptions and gives you full creative freedom. Explore options tailored to games, films, and media. From character vocals to varied sound of screaming for every scenario, get the perfect sound of screaming clip for your project.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professional-Grade Audio Quality",
+          "description": "Every screaming audio from our generator meets broadcast standards with high-fidelity output. Cutting-edge algorithms ensure studio-quality results. All output is production-ready and optimized for professional use. The generator delivers full frequency coverage and clear dynamics for authentic screaming audio. Sound of screaming that feels consistent in any project.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Screaming Audio Generator FAQ",
+      "items": [
+        {
+          "question": "What is a audio generator?",
+          "answer": "A audio generator is an AI tool that turns text descriptions into custom screaming audio and sound of screaming. Ours uses natural language processing and neural audio synthesis to produce professional-quality clips. You can create screaming audio for horror, games, or films. It suits content creators, game developers, and filmmakers who need quick, authentic output. The generator also supports sound of screaming for varied styles and moods. Use it for custom sound of screaming in any project."
+        },
+        {
+          "question": "How does the screaming audio generator work?",
+          "answer": "Our generator uses a multi-stage pipeline to turn text into high-quality audio. It first analyzes your description to capture traits like intensity, character, and duration. That information goes through neural networks trained for vocal and scream synthesis. Trained on professional samples, the AI produces natural, lifelike output. Filtering and post-processing keep quality high and ensure every clip meets broadcast standards."
+        },
+        {
+          "question": "What makes this screaming audio generator unique?",
+          "answer": "Our generator stands out through instant customization and professional quality. Unlike static libraries, it creates tailored screaming audio and sound of screaming on demand. The system understands complex descriptions and produces output with fine control over intensity and style. You get unlimited variations and creative freedom. Sound of screaming for games and films are easy to tailor without extra production work."
+        },
+        {
+          "question": "How do I write effective prompts for the screaming audio generator?",
+          "answer": "Write clear, specific descriptions. Try \"girl vocal sound effect\" or \"crow shriek bird.\" For screaming audio, say \"scary scream\" or \"funny scream.\" Include intensity, character type, and context. Our generator responds well to terms like shriek, yell, and cry. More context yields better results for sound of screaming and other vocal tones."
+        },
+        {
+          "question": "How can I use the screaming audio generator in video content?",
+          "answer": "Place custom screaming audio and sound of screaming clips where scenes need tension or reaction. The generator helps you create screaming audio and character clips for intros, transitions, and key moments. Layer variations of sound of screaming for rich, engaging audio design. Use it for films, vlogs, and tutorials. The tool lets you build a unique audio style that fits your content."
+        },
+        {
+          "question": "How can I use the screaming audio generator in game development?",
+          "answer": "Our generator supports procedural audio for games. Create screaming audio and sound of screaming variations so players rarely hear the same clip twice. Build systems that react to game state, hazards, and events. Produce different options for characters, jumpscares, and cutscenes while keeping a consistent style. Sound of screaming can be mixed dynamically from game parameters. The generator delivers professional-quality audio that enhances immersion and impact."
+        },
+        {
+          "question": "What types of audio can I create?",
+          "answer": "You can create a wide range: girl vocal sound effect, crow shriek bird, scary and funny styles, and custom options. The generator handles these sound of screaming categories with consistent quality. Whether you need subtle yells or bold vocal clips for any scenario, the tool delivers professional output. Sound of screaming for horror and games are supported with full creative control."
+        },
+        {
+          "question": "Are the generated screaming audio clips royalty-free?",
+          "answer": "Yes. All audio from our generator is royalty-free and includes a commercial license. You can use the generated screaming audio and sound of screaming clips in any project without extra fees or attribution. Every clip is cleared for immediate use in professional and commercial work."
+        },
+        {
+          "question": "What quality does the screaming audio generator produce?",
+          "answer": "Our generator outputs professional-grade screaming audio and sound of screaming that meet industry standards. You get high-resolution options, full frequency range, and clear dynamics. All output is broadcast-ready and suitable for professional production and creative projects."
+        }
+      ]
+    }
+  }
+}

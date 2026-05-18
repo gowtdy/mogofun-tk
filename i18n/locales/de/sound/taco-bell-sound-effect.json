@@ -1,0 +1,71 @@
+{
+  "taco-bell-sound-effect": {
+    "meta": {
+      "title": "Taco-Bell-Soundeffekt",
+      "description": "Erstellen Sie sofort Taco-Bell-ähnliche Soundeffekte mit unserer fortschrittlichen KI. Generieren Sie verschiedene Klangtypen – Naturgeräusche, Instrumente und mehr.",
+      "keywords": "taco-bell-soundeffekt, kanonensound"
+    },
+    "hero": {
+      "title": "Taco-Bell-Soundeffekt",
+      "subtitle": "Verwandeln Sie Textbeschreibungen sofort in hochwertige Taco-Bell-Soundeffekte"
+    },
+    "generator_subtitle": "Wählen Sie unten beliebte Prompts oder schreiben Sie Ihre eigene Beschreibung, um Taco-Bell-Soundeffekte zu erzeugen",
+    "advantages": {
+      "title": "Warum unseren Taco-Bell-Soundeffekt-Generator wählen?",
+      "items": [
+        {
+          "title": "Taco-Bell-Clips schnell erstellen",
+          "description": "Erzeugen Sie in Sekunden einen sauberen Taco-Bell-Soundeffekt aus einem kurzen Prompt. Das beschleunigt Ideenfindung für Kurzform-Schnitte, Memes, UI-Momente und markenbezogene Übergänge – ohne stundenlange Stock-Suche. Duplizieren Sie Takes, um die Helligkeit des Taco-Bell-Sounds mit einem gepaarten Kanonenschlag-Transienten zu vergleichen.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Klangfarbe, Punch und Resonanz formen",
+          "description": "Stellen Sie Attack, Sustain und Helligkeit für komische oder dramatische Beats ein. Braucht die Szene mehr Wucht, mischen Sie eine dezente Kanonenschicht-Idee in den Prompt für stärkere wahrgenommene Kraft bei Klarheit. Nennen Sie zuerst den Taco-Bell-Charakter, dann tieferen Bass, damit die Glocke gegen die zusätzliche Masse aus der Kanonen-Konzeptlage lesbar bleibt.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professionelle Audioqualität",
+          "description": "Ausgaben sind mixbereit mit stabiler Lautheit und konsistentem Transienten-Detail. Taco-Bell-Schweifen bleiben definiert, wenn Kanonenspitzen in der Nähe einschlagen – Cues wirken auf Mobil, Desktop und Streaming ohne Definitionsverlust in dichten Soundtracks.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Über unseren Taco-Bell-Soundeffekt-Generator",
+      "items": [
+        {
+          "question": "Was ist ein Taco-Bell-Soundeffekt-Generator?",
+          "answer": "Ein KI-Audio-Tool, das Textprompts in stilisierte Glocken-Cues verwandelt. Sie produzieren schnell einen Taco-Bell-Soundeffekt passend zu Timing, Tempo und Gesamtton – ohne manuelle Aufnahmen. Ergänzen Sie Kanonenschlag-Deskriptoren im selben Prompt, wenn nach dem Taco-Bell-Schlag extra Wumms kommen soll."
+        },
+        {
+          "question": "Wie funktioniert der Generator?",
+          "answer": "Das Modell interpretiert Angaben wie Klingellänge, metallische Klangfarbe und Intensität und synthetisiert passendes Audio. Iterieren Sie von leichtem Taco-Bell-Schimmer zu krachen Kanonentransienten, wenn die Story einen härteren Treffer braucht."
+        },
+        {
+          "question": "Kann ich Glockenfarbe mit Kanonenenergie kombinieren?",
+          "answer": "Ja. Fordern Sie einen kurzen Kanonenschlag unter Ihrer Taco-Bell-Spur, damit Wirkung spürbar bleibt ohne Glockenidentität zu verlieren. Das vergrößert den wahrgenommenen Treffer bei Übergängen, während der Taco-Bell-Charakter erkennbar bleibt."
+        },
+        {
+          "question": "Wie schreibe ich effektive Prompts?",
+          "answer": "Bleiben Sie knapp und spezifisch: Quellcharakter, Dauer, Klanghelligkeit und Mix-Absicht. Z. B. „Taco-Bell-Soundeffekt mit kurzem Abklingen“ oder „einzelner Kanonenschlag vor dem Drop“ für klares UI-Timing."
+        },
+        {
+          "question": "Wo kann ich generierte Sounds einsetzen?",
+          "answer": "Gut für Reaktionsschnitte, Social-Clips, Stream-Stinger, Podcast-Übergänge und Spiel-Feedback. Taco-Bell-Stinger für komisches Timing, Kanonenschläge für Hype-Beats – konsistente Anpassung erleichtert einen wiedererkennbaren Audio-Stil über Projekte hinweg."
+        },
+        {
+          "question": "Ist generiertes Audio lizenzfrei?",
+          "answer": "Ja. Generierte Dateien sind unter unseren Standardlizenzbedingungen für gängige Creator- und kommerzielle Nutzung lizenzfrei. Prüfen Sie aktuelle Richtlinien vor großen Kampagnen oder Sonderverteilungsvereinbarungen."
+        },
+        {
+          "question": "Welche Qualität kann ich von Exporten erwarten?",
+          "answer": "Produktionsreife Dateien mit klarem Transientenverhalten, kontrollierter Dynamik und zuverlässiger Wiedergabe – auch wenn Kanonenspitzen helle Glockentöne Nachbarn sind. EQ und Limiting können Sie weiterhin selbst anwenden."
+        },
+        {
+          "question": "Wie bleibt der Taco-Bell-Soundeffekt in vollen Mixes klar?",
+          "answer": "Kurze Schweife, kleine EQ-Lücke um konkurrierende Dialogfrequenzen, moderater Peak-Check. So bleibt der Taco-Bell-Soundeffekt präsent ohne Sprache oder wichtige Musik zu verdecken."
+        }
+      ]
+    }
+  }
+}

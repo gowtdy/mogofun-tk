@@ -1,0 +1,71 @@
+{
+  "shouting-sound-effect": {
+    "meta": {
+      "title": "Efeito sonoro de grito",
+      "description": "Crie instantaneamente efeitos sonoros de grito com nossa IA avançada. Gere vários tipos de sons, incluindo naturais, instrumentos e muito mais.",
+      "keywords": "efeito sonoro de grito, meme de grito"
+    },
+    "hero": {
+      "title": "Efeito sonoro de grito",
+      "subtitle": "Transforme instantaneamente uma descrição em texto em efeito sonoro de grito de alta qualidade"
+    },
+    "generator_subtitle": "Escolha entre os prompts populares abaixo ou escreva sua própria descrição para gerar efeito sonoro de grito",
+    "advantages": {
+      "title": "Por que escolher nosso gerador de efeito sonoro de grito?",
+      "items": [
+        {
+          "title": "Crie indicações vocais intensas em segundos",
+          "description": "Gere clips vocais prontos para ação diretamente do texto sem vasculhar bibliotecas enormes nem gravar takes extras. O modelo interpreta urgência, distância e pressão emocional para que as saídas alinhem com edições de jogos, trailers, streams e cortes cinematográficos. Iteração rápida ajuda equipes a comparar opções antes do lock.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Estilo flexível para combate e reações",
+          "description": "De callouts controlados a vocais de multidão de alta energia, o detalhe do prompt molda textura, ritmo e espaço percebido. Cada efeito sonoro de grito encaixa melhor sob diálogo, sobre camas musicais ou como stinger isolado. Você pode produzir alternativas para testes de timing A/B em um só fluxo. Para momentos virais em redes, use gritos curtos estilo meme.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualidade de áudio profissional",
+          "description": "Os arquivos exportam com dinâmica estável e transientes limpos, reduzindo limpeza na pós-produção. O comportamento de loudness permanece previsível após compressão das plataformas, para que suas indicações de grito mantenham punch no mobile e no desktop.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Sobre nosso gerador de efeito sonoro de grito",
+      "items": [
+        {
+          "question": "O que é um gerador de efeito sonoro de grito?",
+          "answer": "É uma ferramenta de IA que converte prompts de texto em indicações vocais de grito para jogos, vídeos e conteúdo social. Em vez de navegar manualmente por pacotes de som, você gera clips específicos da cena com rapidez e mantém o fluxo focado na narrativa."
+        },
+        {
+          "question": "Como funciona esta ferramenta de efeito sonoro de grito?",
+          "answer": "O modelo analisa seu prompt por intenção, intensidade, ritmo e contexto e sintetiza áudio que combina com esses atributos. Você pode refinar a redação entre passagens até a cue cair no quadro exato e no ritmo emocional desejado."
+        },
+        {
+          "question": "Por que usar isso em vez de assets de stock?",
+          "answer": "Assets de stock podem soar repetitivos e não combinar com o timing da cena. Geração guiada por prompt cria takes novos sob demanda, tornando cada efeito sonoro de grito mais específico e alinhado ao ritmo visual."
+        },
+        {
+          "question": "Como devo escrever prompts para resultados de efeito sonoro de grito?",
+          "answer": "Descreva quem grita, por que grita e quanto tempo o grito deve sustentar. Linguagem específica como «grito de comando curto antes do impacto» costuma dar timing mais limpo do que pedidos vagos de uma palavra."
+        },
+        {
+          "question": "Onde um efeito sonoro de grito funciona melhor em edições?",
+          "answer": "Use-o para picos de combate, transições dramáticas, indicações de urgência e revelações de alta energia. Mantenha níveis abaixo do diálogo principal e automatize ganho para preservar inteligibilidade em mixes densos."
+        },
+        {
+          "question": "Que tipos de variantes posso gerar?",
+          "answer": "Você pode produzir comandos curtos, gritos de batalha, chamados de multidão em camadas, estouros vocais tensos e gritos cinematográficos estilizados. Várias variantes ajudam editores a escolher o melhor arco emocional antes da entrega final; bursts curtos estilo meme também servem para social."
+        },
+        {
+          "question": "O áudio gerado é livre de royalties?",
+          "answer": "Sim. Os arquivos gerados são livres de royalties sob nossa licença padrão para uso típico de criadores e comercial. Revise os termos mais recentes antes de grandes campanhas publicitárias ou implantação em broadcast."
+        },
+        {
+          "question": "Que qualidade devo esperar das exportações?",
+          "answer": "Espere saída pronta para produção com transientes claros, dinâmica confiável e desempenho consistente em todos os dispositivos. Para lançamento, aplique sua cadeia usual de masterização para bater as metas de loudness do projeto."
+        }
+      ]
+    }
+  }
+}

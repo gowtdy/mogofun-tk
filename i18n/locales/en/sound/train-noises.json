@@ -1,0 +1,75 @@
+{
+  "train-noises": {
+    "meta": {
+      "title": "Train Noises",
+      "description": "Instantly create train noises with our advanced AI technology. Generate various types of audio including natural tones, musical instruments and more.",
+      "keywords": "train noises, railway noise"
+    },
+    "hero": {
+      "title": "Train Noises",
+      "subtitle": "Instantly transform text description into high-quality train noises"
+    },
+    "generator_subtitle": "Select from popular prompts below or write your own description to generate train noises",
+    "advantages": {
+      "title": "Why Choose Our Train Noises Generator?",
+      "items": [
+        {
+          "title": "Instant Train Noises Creation",
+          "description": "Create professional train noises and railway noise clips instantly from text. Our AI turns your descriptions into cabin ambience, running clips, and station atmosphere in seconds—no sample libraries or manual editing. Need subtle railway noise or full train noises for a scene? Generate unlimited variations with broadcast-ready quality for any project.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Unlimited Creative Possibilities",
+          "description": "Create any style you imagine: inside cabin, station ambience, railway noise, or layered clips. The tool understands detailed descriptions and gives you full creative freedom. Explore endless options for videos, games, and apps—from subtle railway noise to rich train noises for film.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professional-Grade Audio Quality",
+          "description": "Every clip from our generator meets broadcast standards with high-fidelity output. Cutting-edge algorithms ensure studio-quality ambience and railway noise. All clips are production-ready and optimized for professional use, with full frequency coverage and natural, immersive results.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Train Noises FAQ",
+      "items": [
+        {
+          "question": "What is a train noises generator?",
+          "answer": "Our generator is an AI tool that turns text into custom ambience and railway noise. It uses natural language processing and neural synthesis to produce professional train noises and running clips. You can create cabin, station, or platform atmosphere—or pair your scene with subtle railway noise. It suits creators, video editors, and game developers who need quick, authentic output with precise, high-fidelity results."
+        },
+        {
+          "question": "How does the generator work?",
+          "answer": "The tool uses a multi-stage pipeline to turn text into high-quality ambience and clips. It analyzes your description to capture atmosphere, style, and context, then runs that through neural networks trained for cabin and station synthesis. You can request short clips for UI or longer train noises for ambience. Every clip meets broadcast standards."
+        },
+        {
+          "question": "What makes this train noises generator unique?",
+          "answer": "Our generator stands out through instant customization and professional quality. Unlike static libraries, it creates tailored clips on demand. Trained on high-quality samples, it delivers realistic train noises and railway noise. You get unlimited variations and creative freedom with fine control."
+        },
+        {
+          "question": "How do I write effective prompts for train noises?",
+          "answer": "Write clear, specific descriptions. Try \"train noises inside cabin\" or \"railway noise at platform.\" Include style, intensity, and context. The generator responds well to terms like cabin, station, running, ambience, and railway noise. More context yields better results."
+        },
+        {
+          "question": "How can I use train noises in video content?",
+          "answer": "Map your video's scenes and place custom clips where they add atmosphere. Create cabin and station audio for every moment—from subtle background to dramatic hits. Layer railway noise with train noises for rich, engaging audio that underlines time or place."
+        },
+        {
+          "question": "How can I use the generator in game development?",
+          "answer": "Our generator supports procedural ambience and clips for games. Create cabin and station variations so players rarely hear the same clip twice. Produce different options for UI, levels, and events while keeping a consistent style. The tool delivers professional-quality train noises that enhance immersion and feedback."
+        },
+        {
+          "question": "What types of clips can I create?",
+          "answer": "You can create a wide range: inside cabin, running, station ambience, railway noise, and platform atmosphere. Styles from soft to loud (realistic, cinematic, vintage). The tool handles these with consistent quality and delivers professional results for any project."
+        },
+        {
+          "question": "Are the generated clips royalty-free?",
+          "answer": "Yes. All clips from our generator are royalty-free and include a commercial license. You can use the generated clips in any project without extra fees or attribution. Every clip is cleared for immediate use in professional and commercial work."
+        },
+        {
+          "question": "What quality does the generator produce?",
+          "answer": "Our generator outputs professional-grade ambience that meets industry standards. You get high-resolution options up to 192kHz/24-bit, full frequency range, and controlled dynamics. Every clip is broadcast-ready and suitable for professional production and creative projects."
+        }
+      ]
+    }
+  }
+}

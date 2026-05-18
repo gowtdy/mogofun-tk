@@ -1,0 +1,75 @@
+{
+  "train-horn": {
+    "meta": {
+      "title": "Train Horn",
+      "description": "Instantly create train horn sound effect with our advanced AI technology. Generate various types of audio including natural tones, musical instruments and more.",
+      "keywords": "train horn, train horn sound effect"
+    },
+    "hero": {
+      "title": "Train Horn",
+      "subtitle": "Instantly transform text description into high-quality train horn"
+    },
+    "generator_subtitle": "Select from popular prompts below or write your own description to generate train horn",
+    "advantages": {
+      "title": "Why Choose Our Train Horn Generator?",
+      "items": [
+        {
+          "title": "Instant Train Horn Creation",
+          "description": "Create professional train horn and railway audio clips instantly from text. Our AI turns your descriptions into loud, clear blasts in seconds—no sample libraries or manual editing. Generate unlimited variations for any project. Whether you need a short train horn sound effect for UI or full train horn sound effect for a scene, the generator delivers broadcast-ready results.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Unlimited Creative Possibilities",
+          "description": "Create any style of train horn you imagine: single blast, long warning, vintage or modern. The tool understands detailed descriptions and gives you full creative freedom. Explore endless options for videos, games, and apps. From subtle train horn sound effect cues to layered audio for film, get the right clip for every scenario.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professional-Grade Audio Quality",
+          "description": "Every clip from our generator meets broadcast standards with high-fidelity output. Cutting-edge algorithms ensure studio-quality railway audio. All clips are production-ready and optimized for professional use. The generator delivers full frequency coverage and controlled dynamics for authentic train horn output.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Train Horn FAQ",
+      "items": [
+        {
+          "question": "What is a train horn generator?",
+          "answer": "Our generator is an AI tool that turns text into custom railway and train horn sound effect audio. It uses natural language processing and neural synthesis to produce professional clips. Deep learning models trained on railway datasets understand your description and generate matching variations. It suits creators, video editors, and game developers who need quick, authentic train horn sound effect output. For polished railway audio or other styles, it delivers precise, high-fidelity results."
+        },
+        {
+          "question": "How does the generator work?",
+          "answer": "The tool uses a multi-stage pipeline to turn text into high-quality train horn. It analyzes your description to capture traits like intensity, duration, and style. That information goes through neural networks trained for railway synthesis, which handle frequency and dynamics. Trained on professional samples, the AI produces natural railway output. You can request a short train horn sound effect for UI or longer ambience. Every clip meets broadcast standards."
+        },
+        {
+          "question": "What makes this generator unique?",
+          "answer": "Our generator stands out through instant customization and professional quality. Unlike static libraries, it creates tailored railway clips on demand. It is trained on high-quality samples for realistic results. The system understands complex descriptions and produces output with fine control. You get unlimited variations and creative freedom."
+        },
+        {
+          "question": "How do I write effective prompts for the train horn generator?",
+          "answer": "Write clear, specific descriptions. Instead of just \"horn,\" try \"train horn with reverb\" or \"train horn sound effect for warning.\" Include style (vintage, modern), intensity, and duration. Our generator responds well to terms like locomotive, railway, blast, and warning. For complex scenarios, break them into parts. More context yields better results for railway audio."
+        },
+        {
+          "question": "How can I use the generator in video content?",
+          "answer": "Map your video's scenes and place custom railway and train horn sound effect clips where they add impact. The generator helps you create audio for every moment—from distant warning to close blast. Layer several variations for rich, engaging audio. Use distinct moments such as a train horn sound effect to underline time or place. The tool lets you build a unique audio style that fits your content."
+        },
+        {
+          "question": "How can I use the generator in game development?",
+          "answer": "Our generator supports procedural audio for games. Create railway audio variations so players rarely hear the same clip twice. Produce different options for UI, levels, and events while keeping a consistent style. The generator delivers professional-quality train horn and train horn sound effect that enhances immersion and feedback."
+        },
+        {
+          "question": "What types of train horn can I create?",
+          "answer": "You can create a wide range of train horn: single blast, long warning, train horn sound effect clips for UI or film, intensities (soft to loud), and styles (vintage, modern, cinematic). The tool handles these categories with consistent quality. Whether you need a short train horn sound effect or layered variations, the tool delivers professional results for any project."
+        },
+        {
+          "question": "Are the generated clips royalty-free?",
+          "answer": "Yes. All clips from our generator are royalty-free and include a commercial license. You can use the generated train horn sound effect in any project without extra fees or attribution. Every clip is cleared for immediate use in professional and commercial work."
+        },
+        {
+          "question": "What quality does the generator produce?",
+          "answer": "Our generator outputs professional-grade train horn that meets industry standards. You get high-resolution options up to 192kHz/24-bit, full frequency range, and controlled dynamics for railway output. Every train horn and train horn sound effect is broadcast-ready and suitable for professional production and creative projects."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "fireworks-sound": {
+    "meta": {
+      "title": "Feuerwerk-Sound",
+      "description": "Erstellen Sie sofort Feuerwerk-Sound mit unserer fortschrittlichen KI-Technologie. Erzeugen Sie verschiedene Klangtypen wie Naturgeräusche, Instrumente und mehr.",
+      "keywords": "Feuerwerk-Sound, Feuerwerk-Soundeffekte"
+    },
+    "hero": {
+      "title": "Feuerwerk-Sound",
+      "subtitle": "Verwandeln Sie Textbeschreibungen sofort in hochwertigen Feuerwerk-Sound"
+    },
+    "generator_subtitle": "Wählen Sie aus den beliebten Prompts unten oder schreiben Sie Ihre eigene Beschreibung, um Feuerwerk-Sound zu erzeugen",
+    "advantages": {
+      "title": "Warum unseren Feuerwerk-Sound-Generator wählen?",
+      "items": [
+        {
+          "title": "Sofortige Feuerwerk-Sound-Erstellung",
+          "description": "Erzeugen Sie professionellen Pyrotechnik-Sound und Feuerwerk-Soundeffekte sofort aus Text. Unser Tool verwandelt Ihre Beschreibungen in Explosionen, Pfeifen, Knistern und Bumm in Sekunden—ohne Feldaufnahme oder große Bibliotheken. Erstellen Sie unbegrenzte Variationen für Video, Werbung oder Events. Ob Einzelexplosion, Pyrotechnik-Sound für Silvester oder mehrschichtige Soundeffekte, der Generator liefert saubere, sendefähige Ergebnisse.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Unbegrenzte kreative Möglichkeiten",
+          "description": "Erstellen Sie jeden gewünschten Stil von Feuerwerk-Audio: ferne Show, Nahaufnahme-Explosion, Wunderkerzen-Knistern oder Soundeffekte großer Finale. Der Generator versteht detaillierte Beschreibungen und erzeugt passende Feuerwerk-Soundeffekte für volle kreative Freiheit. Erkunden Sie Variationen für Film, Podcasts und Content. Von dezentem Funkeln bis massivem Pyrotechnik-Sound—finden Sie die passende Variante für jedes Projekt.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professionelle Audioqualität",
+          "description": "Alle erzeugten Pyrotechnik-Sounds erfüllen Sendestandards mit hochauflösender Ausgabe. Der Generator nutzt moderne Algorithmen, sodass jedes Soundeffekt-Ergebnis klar und produktionsreif ist. Die Ausgaben sind für Video, Film und Medien optimiert. Erhalten Sie konsistenten, studiogerechten Pyrotechnik-Sound für Ihre Arbeit.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Über den Feuerwerk-Sound-Generator",
+      "items": [
+        {
+          "question": "Was ist ein Feuerwerk-Sound-Generator?",
+          "answer": "Ein Feuerwerk-Sound-Generator ist ein KI-Tool, das Text in individuellen Feuerwerk-Sound und Feuerwerk-Soundeffekte wie Explosionen, Pfeifen, Knistern und Bumm umwandelt. Es erzeugt professionelles Audio für Video, Spiele und Werbung ohne Aufnahme oder große Bibliotheken. Das System nutzt neuronale Synthese, trainiert auf echtem Pyrotechnik-Audio, für natürliche, nutzbare Ergebnisse. Es ist für Creator gedacht, die schnelle, vielfältige Feuerwerk-Soundeffekte für jedes Projekt brauchen."
+        },
+        {
+          "question": "Wie funktioniert der Pyrotechnik-Sound-Generator?",
+          "answer": "Unser Generator liest Ihre Textbeschreibung und erkennt Merkmale wie Explosionstyp, Distanz und Intensität. Anschließend synthetisiert er den passenden Pyrotechnik-Sound—einzelnem Bumm, schnellen Soundeffekten oder ferner Show. Sie können Wunderkerzen-Knistern, großes Finale oder Silvester-Feuerwerk anfordern. Das Ergebnis ist eine saubere, einsatzbereite Datei zum Herunterladen und Einbinden in Ihr Projekt."
+        },
+        {
+          "question": "Was macht diesen Feuerwerk-Sound-Generator einzigartig?",
+          "answer": "Anders als feste Bibliotheken erstellt unser Pyrotechnik-Sound-Generator auf Anfrage neue Variationen aus reinem Text. Sie erhalten individuelle Feuerwerk-Soundeffekte ohne Tausende von Dateien zu durchsuchen. Die KI ist mit hochwertigem Pyrotechnik-Audio trainiert, sodass jedes Ergebnis konsistent und professionell ist. Erzeugen Sie so viele Soundeffekt-Variationen wie nötig für jede Szene oder jeden Schnitt."
+        },
+        {
+          "question": "Wie schreibt man wirksame Prompts für Feuerwerk-Sound?",
+          "answer": "Nutzen Sie klare, konkrete Beschreibungen. Zum Beispiel: „Einzelne Feuerwerk-Explosion am Nachthimmel“ oder „ferne Show mit Pfeifen“. Nennen Sie Explosionstyp (Bumm, Knistern, Pfeife), Distanz (nah, fern) und Kontext (Silvester, Feier, Finale). Der Generator reagiert gut auf Begriffe wie Explosion, Bumm, Knistern und Feuerwerk-Soundeffekte. Mehr Details helfen der Ausgabe, Ihrer Vorstellung zu entsprechen."
+        },
+        {
+          "question": "Wie nutzt man Feuerwerk-Sound in Video-Content?",
+          "answer": "Setzen Sie Pyrotechnik-Sound ein, um Feiern, Enden oder Schlüsselmomente hervorzuheben. Explosionen unter B-Roll legen, Bumm für Impact hinzufügen oder ferne Soundeffekte für Atmosphäre. Variieren Sie die Lautstärke—lauter bei Höhepunkten, leiser im Hintergrund. Unser Generator ermöglicht genug Variationen, sodass jede Szene einen passenden Pyrotechnik-Sound ohne Wiederholung hat."
+        },
+        {
+          "question": "Wie nutzt man Feuerwerk-Sound in der Spieleentwicklung?",
+          "answer": "Pyrotechnik-Sound eignen sich für Siegesbildschirme, Feiern und Level-Abschluss. Nutzen Sie Explosionen für Belohnungen, großes Finale für Meilensteine und Feuerwerk-Soundeffekte für festliche Momente. Unser Generator unterstützt viele Variationen für einen einheitlichen Stil. Erstellen Sie klare Sets für verschiedene Events mit professioneller Ausgabe."
+        },
+        {
+          "question": "Welche Arten von Feuerwerk-Sound kann ich erstellen?",
+          "answer": "Sie können eine große Bandbreite an Pyrotechnik-Sound und -Soundeffekten erstellen: Einzelexplosion, schnelle Sequenz, Pfeife, Knistern, Bumm, ferne Show, großes Finale. Nutzen Sie sie für Film, Spiele, Podcasts oder jedes Projekt mit Pyrotechnik-Audio. Der Generator behandelt verschiedene Kontexte und Stile mit gleichbleibender Qualität der Soundeffekte."
+        },
+        {
+          "question": "Sind die erzeugten Pyrotechnik-Sounds lizenzfrei?",
+          "answer": "Ja. Alle von unserem Generator erzeugten Pyrotechnik-Sounds sind lizenzfrei und mit kommerzieller Lizenz. Sie können sie in jedem Projekt ohne zusätzliche Gebühren oder Namensnennung verwenden. Jede erzeugte Feuerwerk-Soundeffekt-Datei ist für professionelle und kommerzielle Nutzung freigegeben. Laden Sie so viele herunter, wie Sie für Ihre Projekte benötigen."
+        },
+        {
+          "question": "Wie ist die Qualität der erzeugten Pyrotechnik-Sounds?",
+          "answer": "Unser Pyrotechnik-Sound-Generator liefert professionelles Audio, das gängigen Sendestandards entspricht. Sie erhalten hochauflösende Dateien, vollen Frequenzbereich und kontrollierte Dynamik, sodass jedes Soundeffekt-Ergebnis klar und direkt einsetzbar ist. Jede erzeugte Datei eignet sich für professionelle Nutzung in Video, Film und Content."
+        }
+      ]
+    }
+  }
+}

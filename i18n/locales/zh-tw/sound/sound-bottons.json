@@ -1,0 +1,71 @@
+{
+  "sound-bottons": {
+    "meta": {
+      "title": "Sound Bottons",
+      "description": "以我們先進的 AI 技術即時創作 sound bottons 風格提示音（常見拼寫變體）。可生成自然聲、樂器等多種類型。",
+      "keywords": "sound bottons, sounds button"
+    },
+    "hero": {
+      "title": "Sound Bottons",
+      "subtitle": "即時把文字描述轉化為高品質 sound bottons 音訊"
+    },
+    "generator_subtitle": "從下方熱門提示中選擇，或自行撰寫描述以產生 sound bottons 音訊",
+    "advantages": {
+      "title": "為什麼選擇我們的 Sound Bottons 產生器？",
+      "items": [
+        {
+          "title": "數秒內產生 Sound Bottons 片段",
+          "description": "用簡單提示即可產生短促有力的提示音，無需錄音或複雜效果鏈。該流程便於為直播、應用互動與社交剪輯試作 sound bottons 素材集，並以更少修改匯出一致的資產。",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "適配任意互動的靈活風格",
+          "description": "可微調起音、衰減與質感，使每條提示貼合你的使用者體驗或內容風格。可產生活潑點擊、戲劇性刺點與極簡確認音，再整理成清晰的 sound bottons 素材庫。若落地頁需要承接誤拼流量，可在元資料中使用可選標籤映射常見寫法，而不打亂主文案。",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "專業級音質",
+          "description": "每次匯出都乾淨、可混音，在各裝置上穩定。受控動態與清晰瞬態有助於 sound bottons 系列從手機播放到桌面與串流媒體都保持良好聽感。",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "關於我們的 Sound Bottons 產生器",
+      "items": [
+        {
+          "question": "什麼是 sound bottons 產生器？",
+          "answer": "這是一種把文字提示轉為適用於介面、影片與直播內容的短互動提示音的 AI 聲音工具。可快速為具體動作搭建 sound bottons 集合，保持命名一致，並在頁面與產品間複用資產。"
+        },
+        {
+          "question": "sound bottons 工具如何運作？",
+          "answer": "模型從描述中讀取時長、音色、衝擊力與播放情境，再合成匹配的音訊。從中性基線開始，迭代到更亮或更柔和的音色，並敲定時機，使 sound bottons 提示與介面完全吻合。"
+        },
+        {
+          "question": "為什麼比靜態素材包更好？",
+          "answer": "靜態包容易顯得重複，也常需要額外清理。基於提示的產生可按需給出貼合場景的結果，更容易在選單、提醒與轉場之間保持一套有辨識度的 sound bottons 體系。"
+        },
+        {
+          "question": "怎樣寫提示更有效？",
+          "answer": "用簡潔指令寫清意圖與時機，例如「短促明亮的確認點擊」或「帶快衰減的暖色介面嗶聲」。補充目標介面、時長與情緒等語境，可減少返工並提高一致性。"
+        },
+        {
+          "question": "能否承接常見誤拼搜尋？",
+          "answer": "可以。可將 sound bottons 作為主要用語，並在元資料或內鏈中加入有限度的「sounds button」等變體，幫助誤拼搜尋仍能命中正確素材，同時保持正文可讀。"
+        },
+        {
+          "question": "產生的提示音適合用在哪裡？",
+          "answer": "適合遊戲介面事件、新手引導、社交短片、直播疊加層、問答互動與剪輯轉場等。可複用的 sound bottons 色板有助於團隊保持可識別的聽感標識，又少依賴重複的素材味。"
+        },
+        {
+          "question": "產生聲音是否免版稅？",
+          "answer": "是。在我們標準條款下，輸出對常見創作者與商業專案免版稅。大規模付費投放或特殊分發要求前請查閱當前許可細節。"
+        },
+        {
+          "question": "匯出品質可以期待什麼？",
+          "answer": "可期待瞬態清晰、峰值受控、各裝置播放行為可靠的成片向檔案。仍可用最終 EQ 與響度處理，使每條提示與全片混音及平台目標對齊。"
+        }
+      ]
+    }
+  }
+}

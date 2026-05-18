@@ -1,0 +1,75 @@
+{
+  "beat-sounds": {
+    "meta": {
+      "title": "Beat-Sounds",
+      "description": "Erstellen Sie sofort Beat-Sounds mit unserer fortschrittlichen KI-Technologie. Erzeugen Sie verschiedene Klangtypen inkl. Naturklänge, Musikinstrumente und mehr.",
+      "keywords": "Beat-Sounds, Herzschlag-Soundeffekt"
+    },
+    "hero": {
+      "title": "Beat-Sounds",
+      "subtitle": "Verwandeln Sie Textbeschreibungen sofort in hochwertige Beat-Sounds"
+    },
+    "generator_subtitle": "Wählen Sie aus den beliebten Prompts unten oder schreiben Sie Ihre eigene Beschreibung, um Beat-Sounds zu erzeugen",
+    "advantages": {
+      "title": "Warum unseren Generator wählen?",
+      "items": [
+        {
+          "title": "Sofortige Beat-Sounds-Erstellung",
+          "description": "Erstellen Sie mit unserem KI-Generator sofort professionelle Beat-Sounds aus Textbeschreibungen. Das Tool verwandelt Ihre Ideen in Sekunden in hochwertiges rhythmisches und perkussives Audio – ohne Sample-Bibliotheken oder manuellen Schnitt. Erzeugen Sie mit wenigen Klicks unbegrenzte Varianten für jedes Projekt. Ob Herzschlag-Soundeffekt, Drum-Beats oder mehrschichtiger Rhythmus: Der Generator liefert Studioqualität für Ihre kreativen Projekte.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Unbegrenzte kreative Möglichkeiten",
+          "description": "Nutzen Sie unseren Generator, um jeden gewünschten Beat-Sounds-Stil zu erstellen – von Tribal-Drums bis zu elektronischen Grooves und Herzschlag-Soundeffekt. Das Tool versteht komplexe Beschreibungen und gibt Ihnen volle kreative Freiheit. Erkunden Sie endlose Optionen für Musik, Videos und Apps. Von kurzen Hits bis zu vollen Loops: Holen Sie sich den perfekten Clip für jedes Szenario, inkl. Herzschlag-Soundeffekt und mehr.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professionelle Audioqualität",
+          "description": "Jeder Clip aus unserem Generator erfüllt Sendestandards mit High-Fidelity-Ausgabe. Moderne Algorithmen sichern Studioqualität. Alle Beat-Sounds sind produktionsreif und für den professionellen Einsatz optimiert. Der Generator liefert volle Frequenzabdeckung und straffe Dynamik für authentische rhythmische Ausgabe, inkl. Herzschlag-Soundeffekt.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Beat-Sounds FAQ",
+      "items": [
+        {
+          "question": "Was ist ein Beat-Sounds-Generator?",
+          "answer": "Ein Beat-Sounds-Generator ist ein KI-Tool, das Textbeschreibungen in individuelles rhythmisches und perkussives Audio umwandelt. Unserer nutzt natürliche Sprachverarbeitung und neuronale Audiosynthese für professionelle Clips, inkl. Herzschlag-Soundeffekt. Mit Rhythmus- und Drum-Datensätzen trainierte Deep-Learning-Modelle verstehen Ihre Beschreibung und erzeugen passende Varianten. Geeignet für Produzenten, Content Creator und Spieleentwickler, die schnelle, authentische Beat-Sounds brauchen. Der Generator nutzt Kontext und Details für nuanciertes, geschichtetes Audio. Für einen polierten Herzschlag-Soundeffekt oder andere Stile liefert er präzise High-Fidelity-Ausgabe."
+        },
+        {
+          "question": "Wie funktioniert der Generator?",
+          "answer": "Unser Generator nutzt eine mehrstufige Pipeline, um Text in hochwertiges Audio zu verwandeln, inkl. Herzschlag-Soundeffekt. Zuerst analysiert er Ihre Beschreibung (Tempo, Stil, Dauer, Feel). Diese Informationen laufen durch für Rhythmus-Synthese trainierte neuronale Netze, die Frequenz, Dynamik und Groove steuern. Mit professionellen Samples trainiert, erzeugt die KI natürlich klingende Ausgabe. Filterung und Nachbearbeitung halten die Qualität hoch und stellen sicher, dass jeder Clip Sendestandards erfüllt."
+        },
+        {
+          "question": "Was macht diesen Generator einzigartig?",
+          "answer": "Unser Generator überzeugt durch sofortige Anpassung und professionelle Qualität. Anders als statische Bibliotheken erstellt er maßgeschneiderten Rhythmus auf Abruf. Er ist mit hochwertigen Samples für realistische Ergebnisse trainiert, inkl. Herzschlag-Soundeffekt und vielfältigen Beat-Stilen. Das System versteht komplexe Beschreibungen und erzeugt Beat-Sounds mit feiner Kontrolle über Groove und Kontext. Sie erhalten unbegrenzte Varianten und kreative Freiheit."
+        },
+        {
+          "question": "Wie schreibe ich wirksame Prompts für den Generator?",
+          "answer": "Schreiben Sie klare, konkrete Beschreibungen mit mehreren Details. Statt nur \"Beat\" probieren Sie \"Herzschlag-Soundeffekt mit stetigem Puls\" oder \"Indian Beats mit Tabla und Perkussion.\" Nennen Sie Stil, Tempo, Dauer und besondere Merkmale. Der Generator reagiert gut auf Begriffe wie Drum-Beats, Groove und Rhythmus. Bei komplexen Szenarien teilen Sie sie in Teile und beschreiben Sie die Kombination. Mehr Kontext liefert bessere Ergebnisse."
+        },
+        {
+          "question": "Wie nutze ich den Generator in Video-Content?",
+          "answer": "Ordnen Sie das Pacing Ihres Videos zu und platzieren Sie maßgeschneiderte Beat-Sounds dort, wo sie Wirkung erzeugen. Der Generator hilft Ihnen, rhythmische Beat-Sounds für jeden Moment zu erstellen – von dezenter Untermalung bis zu dramatischen Hits. Legen Sie mehrere Varianten für reiches, fesselndes Audio übereinander. Nutzen Sie ihn für Intros, Übergänge und Montagen. Setzen Sie markante Momente wie einen Herzschlag-Soundeffekt ein, um Schlüsselszenen hervorzuheben. Das Tool ermöglicht einen einzigartigen Audiostil zu Ihrem Content."
+        },
+        {
+          "question": "Wie nutze ich den Generator in der Spieleentwicklung?",
+          "answer": "Unser Generator unterstützt prozedurales Audio für Spiele. Erstellen Sie Varianten, damit Spieler selten denselben Loop zweimal hören. Bauen Sie Systeme, die auf Spielzustand, Spieleraktionen und Bedingungen reagieren. Erzeugen Sie verschiedene Optionen für Menüs, Level und Events bei einheitlichem Stil. Geschichtete Beat-Sounds können dynamisch aus Spielparametern gemischt werden. Der Generator liefert professionelles Audio, das Immersion und Realismus steigert."
+        },
+        {
+          "question": "Welche Arten von Beat-Sounds kann ich erstellen?",
+          "answer": "Sie können ein breites Spektrum erstellen: Drum-Beats (Kick, Snare, Hi-Hat), Herzschlag-Soundeffekt, Stile (Indian Beats, elektronisch, tribal), Intensitäten (subtil bis intensiv), Längen (kurze Hits oder längere Loops) und Stimmungen (antreibend, entspannt, kinoreif). Der Generator bearbeitet diese Beat-Sounds-Kategorien in gleichbleibender Qualität. Ob leichter Hintergrund-Rhythmus oder starke Clips – das Tool liefert professionelle Ergebnisse für jedes Projekt."
+        },
+        {
+          "question": "Sind die generierten Beat-Sounds lizenzfrei?",
+          "answer": "Ja. Alle Beat-Sounds unseres Generators sind lizenzfrei und mit kommerzieller Lizenz. Sie können die generierten Beat-Sounds in jedem Projekt ohne zusätzliche Gebühren oder Namensnennung nutzen. Jeder Clip, inkl. Herzschlag-Soundeffekt-Ausgabe, ist für sofortige Nutzung in professioneller und kommerzieller Arbeit freigegeben. Der Herzschlag-Soundeffekt unseres Generators ist bereit für Film, Spiele und Medien."
+        },
+        {
+          "question": "Welche Qualität liefert der Generator?",
+          "answer": "Unser Generator liefert Beat-Sounds in professioneller Qualität, die Industriestandards erfüllen. Sie erhalten High-Resolution-Optionen bis 192 kHz/24 Bit, vollen Frequenzbereich und kontrollierte Dynamik. Alle Ausgaben sind sendefähig. Jeder Clip eignet sich für professionelle Produktion und kreative Projekte. Die Qualität des Herzschlag-Soundeffekts ist in allen Varianten Studio-Niveau."
+        }
+      ]
+    }
+  }
+}

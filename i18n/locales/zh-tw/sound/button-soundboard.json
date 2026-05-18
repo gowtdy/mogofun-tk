@@ -1,0 +1,71 @@
+{
+  "button-soundboard": {
+    "meta": {
+      "title": "Button Soundboard",
+      "description": "以我們先進的 AI 技術即時搭建 button soundboard。可生成自然聲、樂器等多種類型。",
+      "keywords": "button soundboard, meme buttons"
+    },
+    "hero": {
+      "title": "Button Soundboard",
+      "subtitle": "即時把文字描述轉化為高品質 button soundboard 音訊"
+    },
+    "generator_subtitle": "從下方熱門提示中選擇，或自行撰寫描述以產生 button soundboard 提示音",
+    "advantages": {
+      "title": "為什麼選擇我們的 Button Soundboard 產生器？",
+      "items": [
+        {
+          "title": "數秒內搭建 Button Soundboard 片段",
+          "description": "用簡單提示即可產生短促有力的提示音，無需錄音或複雜效果鏈。該流程便於為直播、應用與社交短片快速搭建 button soundboard，並保持音色與時機一致。",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "適配任意互動的靈活風格",
+          "description": "可微調起音、衰減與質感，使每條提示貼合你的使用者體驗或內容風格。可產生活潑點擊、戲劇性刺點與乾淨確認音，再匯總到同一套 button soundboard。在元資料或短影片包裝中可選用 meme buttons 標籤輔助發現，而不堆砌關鍵字。",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "專業級音質",
+          "description": "每次匯出都乾淨、可混音，在各裝置上穩定。受控動態與清晰瞬態有助於 button soundboard 素材從手機播放到桌面與串流媒體都保持良好聽感。",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "關於我們的 Button Soundboard 產生器",
+      "items": [
+        {
+          "question": "什麼是 button soundboard 產生器？",
+          "answer": "這是一種把文字提示轉為適用於介面、內容編輯與直播互動的短互動提示音的 AI 聲音工具。可為具體動作搭建一套 button soundboard，並在產品頁面與影片工作流程中複用。"
+        },
+        {
+          "question": "button soundboard 工具如何運作？",
+          "answer": "模型從描述中讀取時長、音色、衝擊力與播放情境，再合成匹配的音訊。從中性基線開始，迭代能量與清晰度，最終敲定與介面時機相符的一套提示。"
+        },
+        {
+          "question": "為什麼比靜態素材包更好？",
+          "answer": "靜態包容易顯得重複，也常需要額外清理。基於提示的產生可按需給出貼合場景的結果，使 button soundboard 在選單、提醒與轉場之間更有辨識度。"
+        },
+        {
+          "question": "怎樣寫提示更有效？",
+          "answer": "用簡潔指令寫清意圖與時機，例如「短促明亮的確認點擊」或「帶快衰減的暖色介面嗶聲」。補充目標介面、時長與情緒等語境，可減少返工並提高一致性。"
+        },
+        {
+          "question": "能否針對迷因與社交搜尋做優化？",
+          "answer": "可以。以 button soundboard 為主用語，並在精選的元資料、標題或常見問題中適度加入 meme buttons，以符合社交搜尋意圖，同時保持正文可讀。"
+        },
+        {
+          "question": "產生的提示音適合用在哪裡？",
+          "answer": "適合遊戲介面事件、新手引導、社交短片、直播疊加層、問答互動與剪輯轉場等。結構化的 button soundboard 有助於團隊保持可識別的聽感標識，並快速迭代短影片類提示。"
+        },
+        {
+          "question": "產生聲音是否免版稅？",
+          "answer": "是。在我們標準條款下，輸出對常見創作者與商業專案免版稅。大規模付費投放或特殊分發要求前請查閱當前許可細節。"
+        },
+        {
+          "question": "匯出品質可以期待什麼？",
+          "answer": "可期待瞬態清晰、峰值受控、各裝置播放行為可靠的成片向檔案。仍可用最終 EQ 與響度處理，使每條提示與全片混音及平台目標對齊。"
+        }
+      ]
+    }
+  }
+}

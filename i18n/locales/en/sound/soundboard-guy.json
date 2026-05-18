@@ -1,0 +1,71 @@
+{
+  "soundboard-guy": {
+    "meta": {
+      "title": "Soundboard Guy",
+      "description": "Instantly create soundboard guy with our advanced AI technology. Generate various type sounds including natural sounds, musical instruments and more.",
+      "keywords": "soundboard guy, human scream"
+    },
+    "hero": {
+      "title": "Soundboard Guy",
+      "subtitle": "Instantly transform text description into high-quality soundboard guy"
+    },
+    "generator_subtitle": "Select from popular prompts below or write your own description to generate soundboard guy",
+    "advantages": {
+      "title": "Why Choose Our Soundboard Guy Generator?",
+      "items": [
+        {
+          "title": "Generate Soundboard Guy Clips Fast",
+          "description": "Turn short text prompts into expressive reaction lines without hunting through old sound packs. The model captures timing, tone, and emphasis so each clip fits livestream bits, meme edits, and quick social cuts. You can iterate rapidly when one joke needs multiple versions. A focused soundboard guy prompt can also layer a human scream accent for punchier reveals.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Flexible Style for Reactions and Skits",
+          "description": "Ask for calm, dramatic, sarcastic, or chaotic delivery and refine cadence by adjusting prompt detail. Whether you want a compact callout or a layered human scream moment, outputs stay aligned with your scene intent. This helps creators keep character voice consistent across episodes. Teams often pair one soundboard guy take with one human scream take for quick A/B checks.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professional-Grade Audio Quality",
+          "description": "Files export with stable loudness behavior and clean transients, making them easier to place in timelines and podcast sessions. Quality remains reliable after common platform compression, so late-stage swaps do not break your mix. Consistent leveling keeps each soundboard guy clip clear while each human scream remains controlled.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "About Our Soundboard Guy Generator",
+      "items": [
+        {
+          "question": "What is a soundboard guy generator?",
+          "answer": "It is an AI tool that creates short voice-style reaction clips from plain text prompts. Instead of recording actors or searching huge libraries, you can generate a soundboard guy line that matches your timing and tone in seconds. One soundboard guy concept can branch into multiple human scream variants for different cuts."
+        },
+        {
+          "question": "How does this soundboard guy tool work?",
+          "answer": "The system reads prompt cues such as emotion, pace, and intensity, then synthesizes a clip aligned to those traits. You can refine wording between passes until delivery, punch, and timing fit your exact edit. Iteration helps each soundboard guy beat align while every human scream layer stays intentional."
+        },
+        {
+          "question": "Why use this instead of stock soundboards?",
+          "answer": "Stock boards often repeat overused clips. Here you can generate fresh variations from your own prompt language, which keeps content original and better matched to your scenario. That lets each soundboard guy moment feel unique and each human scream transition avoid cliché."
+        },
+        {
+          "question": "How should I write prompts for soundboard guy output?",
+          "answer": "Use concrete context: who speaks, why they react, and how long the line should last. Specific prompts like \"short confident callout after a game win\" generally produce cleaner results than broad one-word requests. Better prompt detail gives tighter soundboard guy phrasing and cleaner human scream timing."
+        },
+        {
+          "question": "Where does human scream fit in this workflow?",
+          "answer": "A controlled human scream layer works well for high-energy transitions, mock panic beats, or exaggerated reveal moments. Keep the level slightly below narration and music so the effect adds impact without masking speech. Pairing a soundboard guy cue before a human scream can improve comedic rhythm."
+        },
+        {
+          "question": "What kinds of variants can I generate?",
+          "answer": "You can create dry voice stabs, layered reactions, loud callouts, restrained takes, and stylized comedic accents. This makes it easy to test multiple options before locking final timing. Build a reusable soundboard guy bank and tag each human scream by intensity for faster edits."
+        },
+        {
+          "question": "Is generated audio royalty-free?",
+          "answer": "Yes. Outputs are royalty-free under our standard license for typical creator and commercial use. Check current terms before large ad campaigns or broadcast distribution."
+        },
+        {
+          "question": "What quality should I expect from exports?",
+          "answer": "Expect production-ready audio with consistent dynamics, clear top-end detail, and predictable mix behavior. If needed, run your regular mastering chain to match your channel's loudness target. Final QC should confirm every soundboard guy line remains intelligible and each human scream survives platform compression."
+        }
+      ]
+    }
+  }
+}

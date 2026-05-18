@@ -1,0 +1,75 @@
+{
+  "fun-sounds": {
+    "meta": {
+      "title": "Sons amusants",
+      "description": "Créez instantanément des sons amusants avec notre IA avancée : sons naturels, instruments et bien plus encore.",
+      "keywords": "sons amusants, effets drôles"
+    },
+    "hero": {
+      "title": "Sons amusants",
+      "subtitle": "Transformez instantanément une description textuelle en sons amusants de haute qualité"
+    },
+    "generator_subtitle": "Choisissez parmi les prompts populaires ci-dessous ou rédigez votre propre description pour générer des sons amusants",
+    "advantages": {
+      "title": "Pourquoi choisir notre générateur de sons amusants ?",
+      "items": [
+        {
+          "title": "Créez des sons amusants instantanément à partir de texte",
+          "description": "Décrivez un clic ludique, un rebond ou un sting et obtenez un clip poli en quelques secondes—sans séance micro ni défilement infini de bibliothèques. L'IA saisit l'humeur, le timing et la texture pour des résultats vivants qui s'insèrent directement au montage. Itérez vite pour des esquisses, alertes ou posts sociaux tout en gardant des niveaux prêts au mix. Empilez des sons amusants supplémentaires lorsque vous storyboardez une série, et orientez les prompts vers des beats d'effets drôles qui restent propres sur haut-parleurs de téléphone.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Styles flexibles pour esquisses, jeux et formats courts",
+          "description": "Demandez des pops de dessin animé, des whoosh absurdes ou des accents comiques discrets ; le modèle s'adapte à l'ambiance nommée. Une formulation claire sur l'énergie et la durée donne des prises plus serrées, qu'elles soient subtiles ou exagérées. Placez les sorties sous dialogue, transitions ou stings sans casser l'équilibre de votre session. Utilisez le même flux pour jeux, podcasts et reels, en poussant les pics d'effets drôles seulement où le mix a de la marge.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Audio prêt prod et fiable",
+          "description": "Les téléchargements visent des transitoires lisibles et une loudness régulière pour simplifier normalisation et limitation. Les fichiers conviennent aux timelines, builds de jeux légers et lits de podcast. Un traitement cohérent limite les surprises quand collègues ou clients rouvrent le même projet. Transmettez des sons amusants entre monteurs avec des crêtes prévisibles, et domptez les pics d'effets drôles pour rester broadcast-safe.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "À propos de notre générateur de sons amusants",
+      "items": [
+        {
+          "question": "Qu'est-ce qu'un générateur de sons amusants ?",
+          "answer": "C'est un outil d'IA qui synthétise de courts clips à partir de prompts en langage naturel plutôt qu'un enregistrement terrain. Vous tapez le geste ou l'humeur souhaités—taps ludiques, rebonds caoutchouteux, impacts décalés—et recevez un fichier adapté aux flux quotidiens, du stream à la démo en classe. Les équipes pré-génèrent souvent des sons amusants avant verrouillage image, mélangeant timing slapstick et couleur d'effets drôles quand le brief l'exige."
+        },
+        {
+          "question": "Comment fonctionne cet outil de sons amusants ?",
+          "answer": "Le système déduit énergie, durée et caractère depuis votre texte, puis rend l'audio aligné sur ce brief. Ajustez adjectifs, indications de rythme ou références de scène entre passes jusqu'à ce que la prise corresponde à votre punchline ou transition. Chaque révision resserre les sons amusants sur votre liste de coupe, et des notes de tempo explicites aident les hits d'effets drôles à tomber sur l'image."
+        },
+        {
+          "question": "En quoi ce générateur diffère-t-il des bibliothèques de stocks ?",
+          "answer": "Les catalogues offrent des performances figées ; ici chaque rendu peut être unique car la sortie est composée à partir de votre formulation. Utile quand il vous faut un beat de blague ou un pont qu'aucune boucle prête à l'emploi ne colle, surtout en montage express. Les packs génériques de sons amusants livrent rarement la nuance d'effets drôles scène par scène ; une formulation sur mesure gagne quand les sons amusants doivent sonner on-brand."
+        },
+        {
+          "question": "Comment rédiger des prompts pour des sons amusants ?",
+          "answer": "Nommez l'action (tap, zip, slide), la couleur émotionnelle (espiègle, surpris, deadpan) et tout repère de tempo. Des exemples comme « rebond caoutchouc rapide pour un gag » ou « glissement doux sous une punchline » guident mieux le modèle qu'un seul adjectif vague. Des verbes forts aident les sons amusants à se déclencher pile à la coupe ; des contrastes (ligne calme puis snap) orientent les drops d'effets drôles après un dialogue calme."
+        },
+        {
+          "question": "Puis-je viser des effets drôles assez forts pour mèmes ou clips réaction ?",
+          "answer": "Oui. Mentionnez des références proches mèmes ou dessins animés quand vous voulez du partageable, et restez précis pour que l'humour se lise dans la forme d'onde. Associez ces moments à des notes de mix plus larges pour que le clip reste clair à côté de voix off ou musique. Étiquetez les références culturelles si vous voulez des effets drôles reconnaissables instantanément, et gardez des sons amusants alternatifs pour des tests A/B sur miniatures."
+        },
+        {
+          "question": "Comment utiliser l'audio généré en vidéo ou podcast ?",
+          "answer": "Superposez sous le montage image, servez de ponctuation entre segments, ou glissez derrière le dialogue à niveau plus bas. Pour que les moments d'effets drôles se lisent sur petits haut-parleurs, gardez les crêtes quelques dB sous la narration pour que la blague reste nette. Variez l'intensité par scène pour préserver la nouveauté sans fatigue, et taillez têtes ou queues dans votre DAW si vous voulez un cadrage plus serré. Sidechain la musique légèrement pour laisser respirer les coups d'effets drôles, et auditionnez des sons amusants compagnons pour des stings de secours."
+        },
+        {
+          "question": "Quels types d'audio puis-je demander au-delà des sons amusants de base ?",
+          "answer": "Explorez percussions légères, tonalités UI fantaisistes, pas exagérés et autres textures ludiques. Décrivez le contexte—UI de jeu mobile, sting d'émission, brise-glace en classe—pour garder le ton adapté tout en restant enjoué. Superposez des sous-textes d'effets drôles sous le mouvement UI, et demandez des sons amusants assortis pour personnages ou segments récurrents."
+        },
+        {
+          "question": "L'audio généré est-il libre de droits ?",
+          "answer": "Oui. Les téléchargements sont libres de droits pour usage créateur et commercial typique sous notre licence, sans frais par clip. Relisez toujours les dernières conditions sur la page produit avant grosses campagnes ou placements broadcast. Vous pouvez placer des sons amusants dans pubs, livrables clients et streams live sous ces conditions tant l'usage reste dans l'accord."
+        },
+        {
+          "question": "Quelle qualité dois-je attendre des fichiers ?",
+          "answer": "Attendez-vous à une bande passante claire, une dynamique maîtrisée et des formats adaptés aux suites de montage et à la livraison web. Si vous avez besoin de specs broadcast, passez votre chaîne de mastering habituelle après export pour que les sons amusants s'alignent avec narration et musique. Master doucement pour garder les transitoires d'effets drôles aériennes, et comparez les passes jusqu'à ce que les sons amusants sonnent assurés à côté de la voix off."
+        }
+      ]
+    }
+  }
+}

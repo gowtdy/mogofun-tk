@@ -1,0 +1,79 @@
+{
+  "funny-sounds": {
+    "meta": {
+      "title": "Sons drôles",
+      "description": "Créez des sons drôles uniques grâce à une IA avancée d'effets sonores : nature, instruments et plus.",
+      "keywords": "sons drôles, effets sonores drôles"
+    },
+    "hero": {
+      "title": "Sons drôles",
+      "subtitle": "Transformez vos descriptions textuelles en sons drôles de haute qualité"
+    },
+    "generator_subtitle": "Choisissez une suggestion ci-dessous ou rédigez votre propre description pour générer des sons drôles",
+    "advantages": {
+      "title": "Pourquoi générer des sons drôles avec notre IA ?",
+      "items": [
+        {
+          "title": "Des sons drôles à partir de texte simple en quelques secondes",
+          "description": "Décrivez un gag, un sting ou une réaction en langage courant et recevez des stems mixables presque instantanément—sans plongées interminables dans les bibliothèques. L'IA d'effets sonores garde des niveaux raisonnables pour que vous vous concentriez sur le montage image et le rythme. Dupliquez les sons drôles pour les masters vertical et carré, rognez la queue de chaque son drôle sur l'image et archivez les sons drôles de secours pour les repiquages.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Façonnez le ton comédie sans cabine",
+          "description": "Affinez adjectifs, durée et espace pour atterrir slapstick, humour sec ou exagération absurde. Les prompts en couches permettent d'auditionner des alternatives pour reels, sketches, podcasts ou touches d'UI jusqu'à ce que la blague se lise clairement. Quand des sons drôles superposés étouffent la voix off, raccourcissez la décroissance ; quand des sons drôles fins manquent de punch, régénérez ; ne validez qu'après QC de ces sons drôles.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Niveaux prêts à diffuser sur les chaînes",
+          "description": "Les exports restent maîtrisés pour le dialogue, la partition et les objectifs de niveau sonore des plateformes. Les équipes peuvent traiter par lots les sons drôles pour une saison ou une campagne tout en gardant une empreinte sonore cohérente avec peu de mastering supplémentaire. Routez les promos sons drôles lundi, rafraîchissez les anciens sons drôles mardi et imprimez les sons drôles livrables mercredi avec codes date.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Sons drôles : questions et réponses",
+      "items": [
+        {
+          "question": "Que signifie « sons drôles » ici ?",
+          "answer": "De courtes indications comiques intentionnelles—bonks de cartoon, whooshes loufoques, stings mème, foley exagéré—construites à partir du texte plutôt que des micros. Vous obtenez des stems à insérer dans montages, jeux ou coupes sociales sans reconstruire des sessions entières. Les acheteurs qui comparent des bundles d'effets sonores drôles en ligne doivent toujours confirmer le nombre de stems et les pages de licence."
+        },
+        {
+          "question": "Comment le texte devient-il audio ?",
+          "answer": "Les prompts sont lus pour l'action, le personnage, le timing et les indices acoustiques. Les modèles synthétisent des formes d'onde adaptées au brief, puis un traitement léger stabilise la dynamique. Modifiez quelques mots, régénérez et testez A/B sur votre timeline. Les chercheurs qui tapent effets sonores drôles dans la recherche veulent des filtres comédie d'abord, sans bruit thriller."
+        },
+        {
+          "question": "Comment dois-je écrire les prompts ?",
+          "answer": "Commencez par le beat comique (glissade, rimshot, grattement de disque), ajoutez le lieu (petite pièce vs arène) et la durée (\"sting d'une seconde\"). Comparez des lignes concrètes comme \"pop d'élastique étiré\" à des ambiances plus larges et affinez selon les retours. Mentionnez effets sonores drôles sting dans les prompts pour orienter le modèle vers des transitoires comiques."
+        },
+        {
+          "question": "Pourquoi les gens cherchent-ils effets sonores drôles en ligne ?",
+          "answer": "L'expression exacte effets sonores drôles apparaît quand les monteurs veulent des hits comiques sans devoir d'abord fouiller des bandes-annonces sérieuses. Les prompts structurés ici évitent les résultats bruyants et visent directement le ton décrit. Les assistants qui étiquettent des bacs effets sonores drôles gardent les indices comédie séparés des bibliothèques dramatiques."
+        },
+        {
+          "question": "Puis-je utiliser les clips sur YouTube ou TikTok ?",
+          "answer": "Oui—les sorties visent les flux créateurs typiques. Associez les stems à l'image, faites tourner les variations pour éviter la fatigue et suivez les dernières politiques de chaque plateforme. Conservez reçus de téléchargement et notes de licence pour les clients. Les équipes chaîne qui testent des promos effets sonores drôles doivent suivre la politique audio publicitaire de chaque app."
+        },
+        {
+          "question": "Est-ce utile pour les jeux ou apps ?",
+          "answer": "Les designers prototypent des gags d'UI, power-ups et lignes d'échec avant de verrouiller une bibliothèque. Générez des indices jumeaux pour que les déclencheurs restent frais sur le long jeu. Standardisez les gagnants entre builds ou gardez des alternatives pour événements rares. Les designers qui câblent des hits UI effets sonores drôles doivent faire A/B avant d'expédier les builds."
+        },
+        {
+          "question": "Quels styles sont courants ?",
+          "answer": "Impacts slapstick, pauses gênantes, flops cuivrés, vocaux loufoques, buzzers et blagues musicales hybrides. Demandez lits et coups séparément ou imprimez des stems à mixer dans une DAW. Les mixeurs qui empilent des lits effets sonores drôles sous la partition doivent encocher la boue partagée avec la musique."
+        },
+        {
+          "question": "Les téléchargements sont-ils libres de droits ?",
+          "answer": "Les fichiers sont livrés avec des droits commerciaux et personnels larges sous la licence affichée au téléchargement—couvrant généralement pubs, apps et streams sans frais de synchro supplémentaires. Archivez l'accord et relisez lors des mises à jour. Les superviseurs qui examinent les archives effets sonores drôles avant renouvellements doivent exporter des PDF de licence pour la finance."
+        },
+        {
+          "question": "Quelle qualité audio dois-je attendre ?",
+          "answer": "Matériel haute résolution avec dynamique contrôlée pour que les stems se placent à côté du dialogue et de la partition. Appliquez votre niveau maison comme pour tout SFX tiers. Les tirages ciné passent toujours par votre chaîne de mastering habituelle. Les ingénieurs du mastering qui impriment des finaux effets sonores drôles appliquent toujours les cibles de niveau maison de bout en bout."
+        },
+        {
+          "question": "Qui en tire le plus de valeur ?",
+          "answer": "Monteurs, développeurs indépendants, enseignants et équipes sociales sous délais serrés. Toute personne ayant besoin de sons drôles frais sans réserver des talents peut itérer en minutes ; les grands studios peuvent utiliser les sorties comme audio brouillon avant l'enregistrement final. Rafraîchissez les sons drôles saisonniers quand la créative de campagne tourne. Les showrunners qui storyboardent des séquences effets sonores drôles doivent étiqueter les indices pour que les assistants restent alignés."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "meme-scream": {
+    "meta": {
+      "title": "Grito de meme",
+      "description": "Crie na hora grito de meme com nossa IA avançada: sons naturais, instrumentos e muito mais.",
+      "keywords": "grito de meme, som grito meme"
+    },
+    "hero": {
+      "title": "Grito de meme",
+      "subtitle": "Transforme descrições em texto instantaneamente em grito de meme de alta qualidade"
+    },
+    "generator_subtitle": "Escolha entre os prompts populares abaixo ou escreva sua própria descrição para gerar grito de meme",
+    "advantages": {
+      "title": "Por que escolher nosso gerador de grito de meme?",
+      "items": [
+        {
+          "title": "Crie clips de grito de meme em segundos",
+          "description": "Descreva um momento de punchline, beat de reação ou zoom dramático e gere áudio limpo sem vasculhar downloads aleatórios. O modelo lê timing, tom e intensidade para que cada render sirva a edições curtas, streams e posts sociais. Itere rápido quando precisar de várias versões para uma cena. Um prompt focado em grito de meme também pode produzir um som de grito de meme mais limpo para testes rápidos de corte.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Estilos flexíveis para memes e reações",
+          "description": "Peça entrega absurda, dramática ou deadpan e ajuste duração, altura e textura. Uma redação clara do prompt ajuda a saída a bater exatamente no ponto de corte, seja um hit de grito de meme ou uma pilha em camadas de som de grito de meme. Isso mantém edições expressivas sem soar repetitivo. Equipes costumam salvar um alt de grito de meme e um alt de som de grito de meme para trocas A/B rápidas.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualidade de áudio de nível profissional",
+          "description": "As exportações são calibradas para clareza e dinâmica controlada, para que os clips permaneçam utilizáveis após compressão em plataformas móveis. Os arquivos entram em fluxos comuns de edição com limpeza mínima, e a loudness permanece previsível ao processar cenas em lote ou trocar versões tarde na produção. Nivelamento consistente alinha cada grito de meme enquanto cada som de grito de meme segue incisivo após codificação.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Sobre nosso gerador de grito de meme",
+      "items": [
+        {
+          "question": "O que é um gerador de grito de meme?",
+          "answer": "É uma ferramenta de áudio por IA que converte prompts de texto em clips curtos no estilo reação para memes, edições e conteúdo social. Em vez de gravar novas tomadas ou vasculhar bibliotecas enormes, você descreve o momento e gera um arquivo utilizável em segundos. Na prática, um conceito de grito de meme pode ramificar em várias variantes de som de grito de meme para cortes diferentes."
+        },
+        {
+          "question": "Como funciona esta ferramenta de grito de meme?",
+          "answer": "O sistema analisa pistas como humor, força, cadência e personagem do seu prompt e sintetiza áudio que combina com esses traços. Você pode ajustar a redação entre passes para timing mais apertado, ataque mais nítido ou caudas mais suaves conforme a linha do tempo. Iteração ajuda cada grito de meme a cair no quadro preservando textura coerente de som de grito de meme."
+        },
+        {
+          "question": "Por que usar isso em vez de packs stock?",
+          "answer": "Packs stock costumam repetir os mesmos clips reconhecíveis. Este fluxo cria variações novas a partir da sua redação, facilitando encaixar cada cena e evitar sons superusados em formatos virais. Isso mantém momentos de grito de meme originais e cada som de grito de meme menos genérico."
+        },
+        {
+          "question": "Como devo escrever prompts para grito de meme?",
+          "answer": "Use verbos concretos e contexto: quem reage, por que reage e quanto o momento deve durar. Uma frase como \"grito curto de choque após um fail\" funciona melhor que redação vaga e costuma precisar de menos regenerações. Isso melhora a precisão do grito de meme e mantém o som de grito de meme firme no mix."
+        },
+        {
+          "question": "Quando usar som de grito de meme em edições?",
+          "answer": "Use para cortes de reação, revelações cômicas, transições e zooms dramáticos onde o timing vende a piada. Mantenha níveis abaixo de diálogo e camas musicais para o efeito apoiar a cena sem mascarar fala importante. Um grito de meme equilibrado mais uma camada controlada de som de grito de meme costuma ler melhor no mobile."
+        },
+        {
+          "question": "Que tipos de variantes posso gerar?",
+          "answer": "Você pode produzir tomadas sutis, exageradas, distorcidas ou cinematográficas com diferentes durações e curvas de intensidade. Isso permite que um conceito ramifique em várias opções para testar ritmo e impacto emocional. Monte um pequeno set de grito de meme e marque cada som de grito de meme por energia para reutilização editorial mais rápida."
+        },
+        {
+          "question": "O áudio gerado é livre de royalties?",
+          "answer": "Sim. Arquivos gerados são livres de royalties sob nossa licença para uso típico de criadores e comercial. Revise os termos mais recentes antes de grandes campanhas publicitárias ou distribuição em broadcast."
+        },
+        {
+          "question": "Que qualidade devo esperar das exportações?",
+          "answer": "Espere saída pronta para produção com comportamento de loudness estável e transientes nítidos adequados a plataformas sociais modernas. Se necessário, aplique sua cadeia habitual de masterização para combinar com o estilo da casa antes da publicação final. O QC final deve confirmar que cada grito de meme permanece inteligível e cada som de grito de meme sobrevive à compressão."
+        }
+      ]
+    }
+  }
+}

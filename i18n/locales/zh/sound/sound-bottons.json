@@ -1,0 +1,71 @@
+{
+  "sound-bottons": {
+    "meta": {
+      "title": "Sound Bottons",
+      "description": "用我们先进的 AI 技术即时创作 sound bottons 风格提示音（常见拼写变体）。可生成自然声、乐器等多种类型。",
+      "keywords": "sound bottons, sounds button"
+    },
+    "hero": {
+      "title": "Sound Bottons",
+      "subtitle": "即时把文字描述转化为高品质 sound bottons 音频"
+    },
+    "generator_subtitle": "从下方热门提示中选择，或自行撰写描述以生成 sound bottons 音频",
+    "advantages": {
+      "title": "为什么选择我们的 Sound Bottons 生成器？",
+      "items": [
+        {
+          "title": "数秒内生成 Sound Bottons 片段",
+          "description": "用简单提示即可生成短促有力的提示音，无需录音或复杂效果链。该流程便于为直播、应用交互与社交剪辑试作 sound bottons 素材集，并以更少修改导出一致的资产。",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "适配任意交互的灵活风格",
+          "description": "可微调起音、衰减与质感，使每条提示贴合你的用户体验或内容风格。可生成活泼点击、戏剧性刺点与极简确认音，再整理成清晰的 sound bottons 素材库。若落地页需要承接误拼流量，可在元数据中使用可选标签映射常见写法，而不打乱主文案。",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "专业级音质",
+          "description": "每次导出都干净、可混音，在各设备上稳定。受控动态与清晰瞬态有助于 sound bottons 系列从手机播放到桌面与流媒体都保持良好听感。",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "关于我们的 Sound Bottons 生成器",
+      "items": [
+        {
+          "question": "什么是 sound bottons 生成器？",
+          "answer": "这是一种把文字提示转为适用于界面、视频与直播内容的短交互提示音的 AI 声音工具。可快速为具体动作搭建 sound bottons 集合，保持命名一致，并在页面与产品间复用资产。"
+        },
+        {
+          "question": "sound bottons 工具如何工作？",
+          "answer": "模型从描述中读取时长、音色、冲击力与播放情境，再合成匹配的音频。从中性基线开始，迭代到更亮或更柔和的音色，并敲定时机，使 sound bottons 提示与界面完全吻合。"
+        },
+        {
+          "question": "为什么比静态素材包更好？",
+          "answer": "静态包容易显得重复，也常需要额外清理。基于提示的生成可按需给出贴合场景的结果，更容易在菜单、提醒与转场之间保持一套有辨识度的 sound bottons 体系。"
+        },
+        {
+          "question": "怎样写提示更有效？",
+          "answer": "用简洁指令写清意图与时机，例如「短促明亮的确认点击」或「带快衰减的暖色界面哔声」。补充目标界面、时长与情绪等语境，可减少返工并提高一致性。"
+        },
+        {
+          "question": "能否承接常见误拼搜索？",
+          "answer": "可以。可将 sound bottons 作为主要用语，并在元数据或内链中加入有限度的「sounds button」等变体，帮助误拼搜索仍能命中正确素材，同时保持正文可读。"
+        },
+        {
+          "question": "生成的提示音适合用在哪里？",
+          "answer": "适合游戏界面事件、新手引导、社交短片、直播叠加层、问答互动与剪辑转场等。可复用的 sound bottons 色板有助于团队保持可识别的听感标识，又少依赖重复的素材味。"
+        },
+        {
+          "question": "生成声音是否免版税？",
+          "answer": "是。在我们标准条款下，输出对常见创作者与商业项目免版税。大规模付费投放或特殊分发要求前请查阅当前许可细节。"
+        },
+        {
+          "question": "导出质量可以期待什么？",
+          "answer": "可期待瞬态清晰、峰值受控、各设备播放行为可靠的成片向文件。仍可用最终 EQ 与响度处理，使每条提示与全片混音及平台目标对齐。"
+        }
+      ]
+    }
+  }
+}

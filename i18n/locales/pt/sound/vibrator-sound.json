@@ -1,0 +1,71 @@
+{
+  "vibrator-sound": {
+    "meta": {
+      "title": "Som de vibrador",
+      "description": "Crie som de vibrador instantaneamente com nossa tecnologia avancada de IA. Gere varios tipos de sons, incluindo sons naturais, instrumentos musicais e mais.",
+      "keywords": "som de vibrador, sex voice"
+    },
+    "hero": {
+      "title": "Som de vibrador",
+      "subtitle": "Transforme descricoes em texto em som de vibrador de alta qualidade instantaneamente"
+    },
+    "generator_subtitle": "Escolha um prompt popular abaixo ou escreva sua propria descricao para gerar som de vibrador",
+    "advantages": {
+      "title": "Por que escolher nosso gerador de som de vibrador?",
+      "items": [
+        {
+          "title": "Criacao instantanea de som de vibrador",
+          "description": "Gere som de vibrador profissional em segundos a partir de texto, sem bibliotecas enormes ou edicao manual.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Estilos flexiveis para qualquer cena",
+          "description": "Crie estilos com diferentes intensidades e atmosferas para se adequar a cada contexto.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualidade de audio profissional",
+          "description": "Todos os clipes gerados seguem padroes de producao, com som limpo e pronto para uso.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Sobre o gerador de som de vibrador",
+      "items": [
+        {
+          "question": "O que e um gerador de som de vibrador?",
+          "answer": "E uma ferramenta de IA que transforma texto em audio personalizado para projetos de conteudo."
+        },
+        {
+          "question": "Como este gerador funciona?",
+          "answer": "Ele analisa clima, intensidade e estilo da sua descricao e sintetiza um resultado correspondente."
+        },
+        {
+          "question": "O que torna este gerador unico?",
+          "answer": "Em vez de bibliotecas fixas, ele cria novas variacoes sob demanda com base em texto simples."
+        },
+        {
+          "question": "Como escrever prompts eficazes?",
+          "answer": "Use descricoes claras e especificas, incluindo emocao, intensidade e contexto desejado."
+        },
+        {
+          "question": "Como usar o audio gerado no conteudo?",
+          "answer": "Voce pode sobrepor no video, combinar com outras trilhas e ajustar a intensidade por cena."
+        },
+        {
+          "question": "Que tipos de audio posso criar?",
+          "answer": "Voce pode criar variacoes de suave a intenso com diferentes atmosferas."
+        },
+        {
+          "question": "O audio gerado e livre de royalties?",
+          "answer": "Sim. Todos os arquivos gerados sao royalty-free e incluem licenca comercial."
+        },
+        {
+          "question": "Qual e a qualidade do audio gerado?",
+          "answer": "A qualidade e profissional, com alta clareza e dinamica controlada para uso imediato."
+        }
+      ]
+    }
+  }
+}

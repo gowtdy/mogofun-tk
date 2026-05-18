@@ -1,0 +1,75 @@
+{
+  "someone-scream": {
+    "meta": {
+      "title": "Alguém Gritando",
+      "description": "Crie gritos de alguém instantaneamente com nossa tecnologia de IA avançada. Gere vários tipos de som, incluindo sons naturais, instrumentos musicais e mais.",
+      "keywords": "alguém gritando, alguém a gritar"
+    },
+    "hero": {
+      "title": "Alguém Gritando",
+      "subtitle": "Transforme descrições em texto em gritos de alguém de alta qualidade instantaneamente"
+    },
+    "generator_subtitle": "Selecione entre os prompts populares abaixo ou escreva sua própria descrição para gerar gritos de alguém",
+    "advantages": {
+      "title": "Por que escolher nosso gerador?",
+      "items": [
+        {
+          "title": "Criação instantânea de alguém gritando",
+          "description": "Crie clipes profissionais de alguém gritando instantaneamente a partir de texto com nosso gerador de IA. A ferramenta transforma suas ideias em alguém a gritar de alta qualidade e áudio de personagem em segundos, sem bibliotecas de samples ou edição manual. Gere variações ilimitadas para jogos, vídeos e aplicativos. Seja para grito de homem, grito de cartoon ou estilos vocais personalizados, o gerador entrega saída em qualidade de estúdio para seus projetos.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Possibilidades criativas ilimitadas",
+          "description": "Use nosso gerador para criar qualquer estilo de alguém gritando que imaginar—de berros sutis a alguém a gritar intensamente. A ferramenta entende descrições complexas e oferece total liberdade criativa. Explore opções feitas para jogos, filmes e mídia. De gritos de personagem a estilos vocais variados para cada cenário, obtenha o clipe perfeito de alguém gritando para seu projeto.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualidade de áudio profissional",
+          "description": "Cada grito de alguém do nosso gerador atende aos padrões de transmissão com saída de alta fidelidade. Algoritmos de ponta garantem resultados em qualidade de estúdio para alguém a gritar e outros efeitos vocais. Todos os efeitos sonoros estão prontos para produção e otimizados para uso profissional. O gerador oferece cobertura total de frequência e dinâmica clara para gritos autênticos. Eles permanecem consistentes em qualquer projeto.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "FAQ do gerador",
+      "items": [
+        {
+          "question": "O que é este gerador?",
+          "answer": "É uma ferramenta de IA que transforma descrições em texto em efeitos sonoros personalizados de alguém gritando e alguém a gritar. Usa processamento de linguagem natural e síntese neural de áudio para produzir clipes de qualidade profissional. Você pode criar clipes vocais para terror, jogos ou filmes. Atende criadores de conteúdo, desenvolvedores de jogos e cineastas que precisam de saída rápida e autêntica de alguém gritando. O gerador também suporta estilos e climas variados para alguém a gritar."
+        },
+        {
+          "question": "Como funciona?",
+          "answer": "Nosso gerador usa um pipeline em múltiplas etapas para transformar texto em áudio de alta qualidade. Primeiro analisa sua descrição para capturar traços como intensidade, personagem e duração. Essas informações passam por redes neurais treinadas para síntese de gritos e vocal. Treinado com samples profissionais, a IA produz alguém gritando e alguém a gritar com som natural. Filtragem e pós-processamento mantêm a qualidade alta e garantem que cada clipe de efeito sonoro vocal atenda aos padrões de transmissão."
+        },
+        {
+          "question": "O que torna este gerador único?",
+          "answer": "Nosso gerador se destaca pela customização instantânea e qualidade profissional. Diferente de bibliotecas estáticas, ele cria alguém gritando e alguém a gritar sob medida sob demanda. O sistema entende descrições complexas e produz saída com controle fino de intensidade e estilo. Você tem variações ilimitadas e liberdade criativa. Efeitos sonoros para jogos e filmes são fáceis de adaptar sem trabalho extra de produção."
+        },
+        {
+          "question": "Como escrevo prompts eficazes para ele?",
+          "answer": "Escreva descrições claras e específicas. Experimente \"homem gritando\" ou \"grito de cartoon\" para alguém gritando. Inclua intensidade, tipo de personagem e contexto. Nosso gerador responde bem a termos como grito, berro e choro. Mais contexto traz melhores resultados para alguém a gritar e outros efeitos vocais."
+        },
+        {
+          "question": "Como uso em conteúdo de vídeo?",
+          "answer": "Coloque clipes personalizados de alguém gritando e alguém a gritar onde as cenas precisam de tensão ou reação. O gerador ajuda a criar áudio de personagem para intros, transições e momentos-chave. Empilhe variações para um design sonoro rico e envolvente. Use em filmes, vlogs e tutoriais. A ferramenta permite construir um estilo de áudio único que combina com seu conteúdo."
+        },
+        {
+          "question": "Como uso no desenvolvimento de jogos?",
+          "answer": "Nosso gerador suporta áudio procedural para jogos. Crie variações de alguém gritando e alguém a gritar para os jogadores raramente ouvirem o mesmo clipe duas vezes. Construa sistemas que reagem ao estado do jogo, perigos e eventos. Produza opções diferentes para personagens, sustos e cutscenes mantendo um estilo consistente. Efeitos sonoros podem ser mixados dinamicamente a partir dos parâmetros do jogo. O gerador entrega saída de qualidade profissional que aumenta imersão e impacto."
+        },
+        {
+          "question": "Que tipos de alguém gritando posso criar?",
+          "answer": "Você pode criar uma ampla gama: grito de homem, grito de cartoon, alguém a gritar para terror ou jogos, berros assustadores e estilos personalizados. O gerador lida com essas categorias com qualidade consistente. Seja berros sutis ou alguém gritando ousado para qualquer cenário, a ferramenta entrega resultados profissionais."
+        },
+        {
+          "question": "Os clipes de alguém gritando gerados são livres de royalties?",
+          "answer": "Sim. Todo o áudio do nosso gerador é livre de royalties e inclui licença comercial. Você pode usar os gritos de alguém e alguém a gritar gerados em qualquer projeto sem taxas extras ou atribuição. Cada clipe está liberado para uso imediato em trabalho profissional e comercial."
+        },
+        {
+          "question": "Que qualidade ele produz?",
+          "answer": "Nosso gerador produz alguém gritando e alguém a gritar de nível profissional que atendem aos padrões da indústria. Você tem opções de alta resolução, faixa de frequência completa e dinâmica clara. Toda a saída está pronta para transmissão e é adequada para produção profissional e projetos criativos."
+        }
+      ]
+    }
+  }
+}

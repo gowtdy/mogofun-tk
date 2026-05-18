@@ -1,0 +1,75 @@
+{
+  "robot-sounds": {
+    "meta": {
+      "title": "Roboter-Sounds",
+      "description": "Erstellen Sie sofort Roboter-Sounds mit unserer fortschrittlichen KI-Technologie. Erzeugen Sie verschiedene Klangtypen inkl. Naturklänge, Musikinstrumente und mehr.",
+      "keywords": "Roboter-Sounds, Roboter-Sound"
+    },
+    "hero": {
+      "title": "Roboter-Sounds",
+      "subtitle": "Verwandeln Sie Textbeschreibungen sofort in hochwertige Roboter-Sounds"
+    },
+    "generator_subtitle": "Wählen Sie aus den beliebten Prompts unten oder schreiben Sie Ihre eigene Beschreibung, um Roboter-Sounds zu erzeugen",
+    "advantages": {
+      "title": "Warum unseren Generator wählen?",
+      "items": [
+        {
+          "title": "Sofortige Vokal-Erstellung",
+          "description": "Erstellen Sie mit unserem KI-Generator sofort professionelle Roboter-Sounds aus Textbeschreibungen. Das Tool verwandelt Ihre Ideen in Sekunden in hochwertige Roboter-Sounds und mechanisches Audio – ohne Sample-Bibliotheken oder manuellen Schnitt. Erzeugen Sie mit wenigen Klicks unbegrenzte Varianten für jedes Projekt. Ob robotische Stimme, Servo-Pieptöne oder Sci-Fi-Effekte: Der Generator liefert Roboter-Sound in Studioqualität für Ihre kreativen Projekte.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Unbegrenzte kreative Möglichkeiten",
+          "description": "Nutzen Sie unseren Generator, um jeden gewünschten Stil von Roboter-Sounds zu erstellen – von vintage-mechanisch bis futuristischer KI-Stimme. Das Tool versteht komplexe Beschreibungen und gibt Ihnen volle kreative Freiheit für Roboter-Sounds. Erkunden Sie endlose Optionen für Games, Videos und Apps. Von kurzen Pieptönen bis zu mehrschichtigem robotischem Ambiente: Holen Sie sich den perfekten Roboter-Sound-Clip für jedes Szenario.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professionelle Audioqualität",
+          "description": "Jeder Roboter-Sound aus unserem Generator erfüllt Sendestandards mit High-Fidelity-Ausgabe. Moderne Algorithmen sichern Roboter-Sounds in Studioqualität. Alle Roboter-Sounds sind produktionsreif und für den professionellen Einsatz optimiert. Der Generator liefert volle Frequenzabdeckung und kontrollierte Dynamik für authentische Roboter-Sound-Ausgabe.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Generator-FAQ",
+      "items": [
+        {
+          "question": "Was ist dieser Generator?",
+          "answer": "Ein KI-Tool, das Textbeschreibungen in individuelles robotisches und mechanisches Audio umwandelt. Unserer nutzt natürliche Sprachverarbeitung und neuronale Audiosynthese, um professionelle Roboter-Sounds-Clips zu erzeugen. Mit synthetischen und mechanischen Datensätzen trainierte Deep-Learning-Modelle verstehen Ihre Beschreibung und erzeugen passende Varianten. Geeignet für Content Creator, Spieleentwickler und Audio-Profis, die schnelle, authentische Roboter-Sounds brauchen. Der Generator nutzt Kontext und Details für nuancierten, geschichteten Roboter-Sound mit präziser High-Fidelity-Ausgabe."
+        },
+        {
+          "question": "Wie funktioniert er?",
+          "answer": "Unser Generator nutzt eine mehrstufige Pipeline, um Text in hochwertige Roboter-Sounds zu verwandeln. Zuerst analysiert er Ihre Beschreibung (Tonhöhe, Modulation, Dauer, Stil). Diese Informationen laufen durch für synthetische und mechanische Synthese trainierte neuronale Netze, die Frequenz, Dynamik und räumliche Eigenschaften steuern. Mit professionellen Samples trainiert, erzeugt die KI natürlich klingende Roboter-Sound-Ausgabe. Filterung und Nachbearbeitung halten die Qualität hoch und stellen sicher, dass jeder Roboter-Sound-Clip Sendestandards erfüllt."
+        },
+        {
+          "question": "Was macht diesen Generator einzigartig?",
+          "answer": "Unser Generator überzeugt durch sofortige Anpassung und professionelle Qualität. Anders als statische Bibliotheken erstellt er maßgeschneiderte Roboter-Sounds auf Abruf. Er ist mit hochwertigen mechanischen und synthetischen Samples für realistische Ergebnisse trainiert. Das System versteht komplexe Beschreibungen und erzeugt Roboter-Sounds mit feiner Kontrolle über Ton und Kontext. Sie erhalten unbegrenzte Varianten und kreative Freiheit. Die Audioverarbeitung sorgt für ausgewogene Frequenz und Dynamik. Das Tool passt sich Ihrem Anwendungsfall an, sodass jeder Roboter-Sound zu Ihrem Projekt passt – ideal für Profis, die zuverlässige, hochwertige Roboter-Sounds-Ausgabe brauchen."
+        },
+        {
+          "question": "Wie schreibe ich wirksame Prompts?",
+          "answer": "Schreiben Sie klare, konkrete Beschreibungen mit mehreren Details. Statt nur \"Roboter\" probieren Sie \"vintage Servo-Pieptöne mit metallischem Nachhall\" oder \"futuristische KI-Stimme mit leichter Modulation.\" Nennen Sie Stil, Tonhöhe, Dauer, Umgebung und besondere Merkmale. Unser Generator reagiert gut auf technische und akustische Begriffe. Bei komplexen Szenarien teilen Sie sie in Teile und beschreiben Sie die Kombination. Mehr Kontext liefert bessere Ergebnisse. Nennen Sie Länge oder technische Anforderungen, damit der Generator die Ausgabe für Ihren gewünschten Roboter-Sound optimieren kann."
+        },
+        {
+          "question": "Wie nutze ich ihn in Video-Content?",
+          "answer": "Ordnen Sie die Szenen Ihres Videos zu und platzieren Sie maßgeschneiderte Roboter-Sounds dort, wo sie Wirkung erzeugen. Der Generator hilft Ihnen, Roboter-Sounds und mechanisches Audio für jeden Moment zu erstellen – von dezenter Untermalung bis zu dramatischen Hits. Legen Sie mehrere Varianten für reiches, fesselndes Audio übereinander. Nutzen Sie ihn für Übergänge, UI-Elemente und Sci-Fi-Szenen. Setzen Sie markante Roboter-Sound-Momente ein, um Schlüsselszenen hervorzuheben. Das Tool ermöglicht einen einzigartigen Roboter-Sound-Stil zu Ihrem Content."
+        },
+        {
+          "question": "Wie nutze ich ihn in der Spieleentwicklung?",
+          "answer": "Unser Generator unterstützt prozedurales Audio für Spiele. Erstellen Sie Roboter-Sounds-Varianten, damit Spieler selten denselben Clip zweimal hören. Bauen Sie Systeme, die auf Spielzustand, Spieleraktionen und Bedingungen reagieren. Erzeugen Sie verschiedene Roboter-Sounds-Optionen für Charaktere und Umgebungen bei einheitlichem Stil. Nutzen Sie ihn für UI, Fähigkeiten und Events. Geschichtete Roboter-Sounds können dynamisch aus Spielparametern gemischt werden. Der Generator liefert professionelle Roboter-Sounds, die Immersion und Realismus für jeden Roboter-Sound-Bedarf steigern."
+        },
+        {
+          "question": "Welche Arten von Roboter-Sounds kann ich erstellen?",
+          "answer": "Sie können ein breites Spektrum erstellen: robotische Stimme (Sprache, Pieptöne, Glitches), mechanisch (Servos, Motoren, Getriebe), Intensitäten (subtil bis intensiv), Längen (kurze Ausbrüche oder längere) und Stile (vintage, futuristisch, kinoreif). Der Generator bearbeitet diese Roboter-Sounds-Kategorien in gleichbleibender Qualität. Ob leichter Hintergrund-Roboter-Sound oder starke Sci-Fi-Roboter-Sounds-Clips – das Tool liefert professionelle Ergebnisse für jedes Projekt."
+        },
+        {
+          "question": "Sind die generierten Clips lizenzfrei?",
+          "answer": "Ja. Alle Roboter-Sounds unseres Generators sind lizenzfrei und mit kommerzieller Lizenz. Sie können die generierten Roboter-Sounds in jedem Projekt ohne zusätzliche Gebühren oder Namensnennung nutzen. Jeder Roboter-Sound ist für sofortige Nutzung in professioneller und kommerzieller Arbeit freigegeben."
+        },
+        {
+          "question": "Welche Qualität liefert er?",
+          "answer": "Unser Generator liefert Roboter-Sounds in professioneller Qualität, die Industriestandards erfüllen. Sie erhalten Roboter-Sound-Optionen in High Resolution bis 192 kHz/24 Bit, vollen Frequenzbereich und kontrollierte Dynamik. Alle Roboter-Sounds sind sendefähig. Jeder Roboter-Sound eignet sich für professionelle Produktion und kreative Projekte."
+        }
+      ]
+    }
+  }
+}

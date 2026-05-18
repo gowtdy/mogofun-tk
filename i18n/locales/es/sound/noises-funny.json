@@ -1,0 +1,79 @@
+{
+  "noises-funny": {
+    "meta": {
+      "title": "Ruidos graciosos",
+      "description": "Crea ruidos graciosos únicos con IA avanzada de efectos de sonido, incluyendo sonidos naturales, instrumentos y más.",
+      "keywords": "ruidos graciosos, voz graciosa"
+    },
+    "hero": {
+      "title": "Ruidos graciosos",
+      "subtitle": "Convierte tus descripciones de texto en ruidos graciosos de alta calidad"
+    },
+    "generator_subtitle": "Elige entre los prompts populares de abajo o escribe tu propia descripción para generar ruidos graciosos",
+    "advantages": {
+      "title": "¿Por qué generar ruidos graciosos para skits y shorts?",
+      "items": [
+        {
+          "title": "Ruidos graciosos desde prompts en segundos",
+          "description": "Describe bocinas, chirridos, pops de boca, estiramientos de goma o golpes cartoon y obtén hits listos para mezclar sin buscar en bibliotecas viejas. Las salidas son cortas para que el remate caiga al beat. Duplica para cortes verticales, recorta colas y archiva repuestos.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Itera tomas sin reconstruir timelines",
+          "description": "Duplica el gag en vertical/cuadrado/horizontal ajustando adjetivos o duración (\"0.25s squeak\"). Mantén el timbre y varía la intensidad. Si los ruidos graciosos tapan la VO, acorta; si faltó punch, amplía; QC antes del doblaje.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Dinámica friendly para altavoz de móvil",
+          "description": "Picos controlados para móvil y duck limpio bajo diálogo. Exporta stems en batch para campaña con niveles previsibles y mastering ligero después. Lunes promo, mitad de semana refresh, tras picture lock imprime entregables.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Ruidos graciosos: preguntas y respuestas",
+      "items": [
+        {
+          "question": "¿Qué cuenta como ruidos graciosos aquí?",
+          "answer": "Hits sin diálogo—boings cartoon, splats húmedos, zumbidos de kazoo, pasos exagerados, bleeps de UI—creados desde texto en vez de rips desconocidos. Stems legales para shorts, podcasts y UI de juegos. Una voz graciosa scratch ayuda a clavar el timing antes de la VO final."
+        },
+        {
+          "question": "¿Cómo el texto se convierte en un hit?",
+          "answer": "El prompt captura material, movimiento y duración. Síntesis + procesado ligero para domar picos. Regenera hasta sincronizar con el frame. Deja headroom al equilibrar etiquetas de voz graciosa y SFX."
+        },
+        {
+          "question": "¿Puedo combinar voz graciosa con chirrido/bocina?",
+          "answer": "Sí: genera la línea hablada y luego apila un stem separado debajo. Igualar loudness y recortar colas. Si se pelean, sidechain suave o cola más corta."
+        },
+        {
+          "question": "¿Cómo promptear timing meme?",
+          "answer": "Trope, giro emocional y duración (\"dry honk 0.3s\"). Menciona plataforma si importa. Compara frases concretas y refina. Menciona un beat de voz graciosa si quieres call-and-response."
+        },
+        {
+          "question": "¿Sirve para alertas de stream o chat bots?",
+          "answer": "Sí: stings hermanos para follows/raids/redeems. Familia con mismo timbre y longitudes distintas. Limita la ganancia del limiter para que la voz graciosa siga inteligible."
+        },
+        {
+          "question": "¿Se asientan bajo diálogo?",
+          "answer": "Pensado para ducking. Sidechain/clip-gain. Si tapa, acorta decay o notch leve. Deja espacio alrededor de consonantes de la voz graciosa."
+        },
+        {
+          "question": "¿Qué estilos funcionan mejor?",
+          "answer": "Foley cartoon, percusión de boca, boings, silbatos, buzzer de respuesta incorrecta, impactos exagerados. Bed/poke separados o layers para post. Alinea transientes a animaciones de botones."
+        },
+        {
+          "question": "¿Descargas libres de regalías?",
+          "answer": "Bajo la licencia mostrada al descargar, normalmente sin tasas extra. Archiva y revisa cuando cambien términos."
+        },
+        {
+          "question": "¿Qué calidad esperar?",
+          "answer": "Stems de alta resolución con dinámica controlada. Aplica tu preset y cadena normal. Ajusta objetivos de loudness para voz graciosa + SFX."
+        },
+        {
+          "question": "¿Quién se beneficia más?",
+          "answer": "Editores de comedia diaria, indies con UI juguetona y educadores. Iteración rápida sin rips dudosos. En clase, ojo con el volumen."
+        }
+      ]
+    }
+  }
+}

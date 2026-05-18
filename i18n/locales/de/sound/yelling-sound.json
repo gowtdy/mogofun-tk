@@ -1,0 +1,75 @@
+{
+  "yelling-sound": {
+    "meta": {
+      "title": "Ruf-Sound",
+      "description": "Erstellen Sie Ruf-Sound sofort mit unserer fortschrittlichen KI-Technologie. Erzeugen Sie verschiedene Klangtypen: Naturclips, Musikinstrumente und mehr.",
+      "keywords": "Ruf-Sound, Ruf-Soundeffekt"
+    },
+    "hero": {
+      "title": "Ruf-Sound",
+      "subtitle": "Verwandeln Sie Textbeschreibungen sofort in hochwertigen Ruf-Sound"
+    },
+    "generator_subtitle": "Wählen Sie aus den beliebten Prompts unten oder schreiben Sie Ihre eigene Beschreibung, um Ruf-Sound zu erzeugen",
+    "advantages": {
+      "title": "Warum unseren Generator wählen?",
+      "items": [
+        {
+          "title": "Sofortige Vokal-Erstellung",
+          "description": "Erstellen Sie professionelle Vokal-Clips sofort aus Text mit unserem KI-Generator. Das Tool verwandelt Ihre Ideen in Sekunden in hochwertigen Ruf-Sound und Charakter-Clips – ohne Sample-Bibliotheken oder manuelle Bearbeitung. Erzeugen Sie unbegrenzte Variationen für Spiele, Videos und Apps. Ob Ruf-Soundeffekt für Action, Drama oder Projekte – der Generator liefert Studioqualität.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Unbegrenzte kreative Möglichkeiten",
+          "description": "Nutzen Sie unseren Generator, um jeden gewünschten Ruf-Sound-Stil zu erstellen – von subtilen Rufen bis zu intensiven Schreien. Das Tool versteht komplexe Beschreibungen und gibt Ihnen volle kreative Freiheit. Erkunden Sie Optionen für Spiele, Filme und Medien. Von Charakter-Vokalen bis zu vielfältigen Ruf-Soundeffekten für jedes Szenario – holen Sie sich den perfekten Clip für Ihr Projekt.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professionelle Audioqualität",
+          "description": "Jeder Clip unseres Generators erfüllt Rundfunkstandards mit High-Fidelity-Ausgabe. Moderne Algorithmen sorgen für Studioqualität. Alle Ausgaben sind produktionsreif und für den professionellen Einsatz optimiert. Der Generator liefert vollständige Frequenzabdeckung und klare Dynamik für authentischen Ruf-Sound. Ruf-Soundeffekt, der in jedem Projekt konsistent wirkt.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Generator FAQ",
+      "items": [
+        {
+          "question": "Was ist dieser Generator?",
+          "answer": "Es ist ein KI-Tool, das Textbeschreibungen in individuelles Vokal- und Charakter-Audio umwandelt. Unserer nutzt natürliche Sprachverarbeitung und neuronale Audiosynthese für professionelle Ruf-Soundeffekt-Clips. Sie können Ruf-Sound für Horror, Spiele oder Filme erstellen. Es eignet sich für Content-Ersteller, Spieleentwickler und Filmemacher, die schnelle, authentische Ausgabe brauchen. Der Generator unterstützt auch Ruf-Soundeffekt für verschiedene Stile und Stimmungen."
+        },
+        {
+          "question": "Wie funktioniert er?",
+          "answer": "Unser Generator nutzt eine mehrstufige Pipeline, um Text in hochwertigen Ruf-Sound zu verwandeln. Zuerst analysiert er Ihre Beschreibung, um Merkmale wie Intensität, Charakter und Dauer zu erfassen. Diese Informationen durchlaufen für Vokal- und Ruf-Synthese trainierte neuronale Netze. Mit professionellen Samples trainiert, erzeugt die KI natürlich klingende, lebensechte Ausgabe. Filterung und Nachbearbeitung halten die Qualität hoch und sorgen dafür, dass jeder Clip Rundfunkstandards erfüllt."
+        },
+        {
+          "question": "Was macht diesen Generator einzigartig?",
+          "answer": "Unser Generator zeichnet sich durch sofortige Anpassung und professionelle Qualität aus. Anders als statische Bibliotheken erstellt er maßgeschneiderte Ruf-Soundeffekt-Clips auf Abruf. Das System versteht komplexe Beschreibungen und erzeugt Ausgabe mit feiner Kontrolle über Intensität und Stil. Sie erhalten unbegrenzte Variationen und kreative Freiheit. Ruf-Soundeffekt für Spiele und Filme lässt sich ohne zusätzliche Produktionsarbeit anpassen."
+        },
+        {
+          "question": "Wie schreibe ich wirksame Prompts dafür?",
+          "answer": "Schreiben Sie klare, konkrete Beschreibungen. Probieren Sie „lauter Ruf“ oder „wütender Schrei“. Für Ruf-Sound sagen Sie „intensiver Ruf“ oder „verzweifelter Schrei“. Nennen Sie Intensität, Charaktertyp und Kontext. Unser Generator reagiert gut auf Begriffe wie Schrei, Ruf und Weinen. Mehr Kontext liefert bessere Ergebnisse für Ruf-Soundeffekt und andere Vokaltöne."
+        },
+        {
+          "question": "Wie kann ich ihn in Videoinhalten nutzen?",
+          "answer": "Platzieren Sie angepasste Vokal-Clips dort, wo Szenen Spannung oder Reaktion brauchen. Der Generator hilft Ihnen, Ruf-Sound und Charakter-Clips für Intros, Übergänge und Schlüsselmomente zu erstellen. Legen Sie Variationen für reiches, fesselndes Audio-Design übereinander. Nutzen Sie ihn für Filme, Vlogs und Tutorials. Das Tool ermöglicht einen einzigartigen Audiostil, der zu Ihrem Inhalt passt."
+        },
+        {
+          "question": "Wie kann ich ihn in der Spieleentwicklung nutzen?",
+          "answer": "Unser Generator unterstützt prozedurales Audio für Spiele. Erstellen Sie Variationen, damit Spieler selten denselben Clip zweimal hören. Bauen Sie Systeme, die auf Spielzustand, Gefahren und Ereignisse reagieren. Erzeugen Sie verschiedene Optionen für Charaktere, Cutscenes und Schlüsselmomente bei konsistentem Stil. Ruf-Soundeffekt kann dynamisch aus Spielparametern gemischt werden. Der Generator liefert professionellen Ruf-Soundeffekt, der Immersion und Wirkung steigert."
+        },
+        {
+          "question": "Welche Arten von Vokal-Clips kann ich erstellen?",
+          "answer": "Sie können ein breites Spektrum erstellen: Ruf-Soundeffekt für Action, Drama, Horror, und individuelle Optionen. Der Generator behandelt diese mit gleichbleibender Qualität. Ob subtile Rufe oder markante Vokal-Clips für jedes Szenario – das Tool liefert professionelle Ausgabe. Ruf-Soundeffekt für Horror und Spiele wird mit voller kreativer Kontrolle unterstützt."
+        },
+        {
+          "question": "Sind die generierten Clips lizenzfrei?",
+          "answer": "Ja. Alle Clips unseres Generators sind lizenzfrei und enthalten eine gewerbliche Lizenz. Sie können die generierten Ruf-Soundeffekt-Clips in jedem Projekt ohne zusätzliche Gebühren oder Namensnennung verwenden. Jeder Clip ist für sofortige Nutzung in professioneller und gewerblicher Arbeit freigegeben."
+        },
+        {
+          "question": "Welche Qualität produziert er?",
+          "answer": "Unser Generator liefert professionellen Ruf-Sound, der Industriestandards entspricht. Sie erhalten Hochauflösungs-Optionen, vollen Frequenzbereich und klare Dynamik. Alle Ausgaben sind rundfunkbereit und geeignet für professionelle Produktion und kreative Projekte."
+        }
+      ]
+    }
+  }
+}

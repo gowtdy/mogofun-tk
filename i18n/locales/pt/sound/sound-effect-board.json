@@ -1,0 +1,79 @@
+{
+  "sound-effect-board": {
+    "meta": {
+      "title": "Placa de Efeitos Sonoros",
+      "description": "Crie efeitos sonoros únicos com nossa placa de efeitos sonoros, gerando vários tipos incluindo sons naturais, instrumentos musicais e muito mais.",
+      "keywords": "placa de efeitos sonoros, soundboard de efeitos sonoros"
+    },
+    "hero": {
+      "title": "Placa de Efeitos Sonoros",
+      "subtitle": "Transforme suas descrições de texto em efeitos sonoros de alta qualidade"
+    },
+    "generator_subtitle": "Selecione entre os prompts populares abaixo ou escreva sua própria descrição para gerar efeitos sonoros",
+    "advantages": {
+      "title": "Por Que Escolher Nossa Placa de Efeitos Sonoros?",
+      "items": [
+        {
+          "title": "Criação Instantânea de Efeitos Sonoros",
+          "description": "Gere efeitos profissionais instantaneamente a partir de texto com nossa placa de efeitos sonoros. O soundboard de efeitos sonoros transforma suas ideias em áudio de alta qualidade em segundos, eliminando a necessidade de grandes bibliotecas ou edição manual. Crie recursos de efeitos ilimitados para qualquer projeto com alguns cliques usando nossa placa de efeitos sonoros.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Possibilidades Criativas Ilimitadas",
+          "description": "Crie qualquer tipo de efeito que você imaginar, desde ambiente natural até texturas de áudio futuristas. Nossa placa de efeitos sonoros entende prompts detalhados e produz o que você visualiza. Explore variações adaptadas às suas necessidades com este soundboard de efeitos sonoros versátil.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualidade de Áudio Profissional",
+          "description": "Cada efeito é gerado com saída de alta fidelidade e dinâmicas equilibradas. Nossa placa de efeitos sonoros oferece áudio pronto para produção, e o soundboard de efeitos sonoros ajuda a manter os resultados consistentes em todos os fluxos de trabalho.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Sobre a Placa de Efeitos Sonoros",
+      "items": [
+        {
+          "question": "O que é uma placa de efeitos sonoros?",
+          "answer": "Uma placa de efeitos sonoros é uma ferramenta que converte descrições de texto em efeitos de áudio personalizados usando IA. Um soundboard de efeitos de áudio ajuda criadores a gerar recursos de efeitos rapidamente para conteúdo, jogos e experiências interativas, com saída consistente e editável."
+        },
+        {
+          "question": "Como funciona a placa de efeitos sonoros?",
+          "answer": "A placa de efeitos sonoros analisa seu prompt (fonte, ambiente, intensidade, duração), mapeia para atributos acústicos e então gera áudio com modelos neurais. O soundboard de efeitos sonoros finaliza com processamento leve para que as saídas sejam limpas, estáveis e prontas para editar."
+        },
+        {
+          "question": "O que torna esta placa de efeitos sonoros única?",
+          "answer": "Esta placa de efeitos sonoros foca em iteração rápida e variações controláveis. Em vez de navegar por pacotes, você descreve o que precisa e o soundboard de efeitos sonoros gera opções que permanecem coerentes, acelerando a produção."
+        },
+        {
+          "question": "Como escrever prompts eficazes para gerar efeitos de áudio?",
+          "answer": "Escreva prompts com especificidades: fonte (\"batida de metal\"), ambiente (\"armazém\"), distância (\"perto\") e tempo (\"cauda de 0,8s\"). Adicione modificadores como \"abafado\" ou \"brilhante\" para que a placa de efeitos sonoros possa gerar efeitos que correspondam à sua mixagem. O soundboard de efeitos sonoros funciona melhor com contexto e restrições claras."
+        },
+        {
+          "question": "Como usar efeitos de áudio efetivamente em conteúdo de vídeo?",
+          "answer": "Use a placa de efeitos sonoros para gerar efeitos para transições, impactos e camadas de ambiente. Crie algumas variantes próximas, depois sobreponha e automatize os níveis sob o diálogo. O soundboard de efeitos sonoros ajuda a manter as edições rápidas e a mixagem natural."
+        },
+        {
+          "question": "Como utilizar efeitos de áudio no desenvolvimento de jogos?",
+          "answer": "Em jogos, use a placa de efeitos sonoros para construir famílias de efeitos (passos, cliques de UI, habilidades) com variações para reduzir a repetição. O soundboard de efeitos sonoros também ajuda a prototipar ambiente cedo, depois refinar mais tarde para o polimento final."
+        },
+        {
+          "question": "Como criar ruído branco e áudio ambiente eficazes?",
+          "answer": "Descreva textura e movimento (\"ruído marrom suave com ar suave\" ou \"tom de sala com tráfego distante\"). A placa de efeitos de áudio pode gerar ambiente em camadas que você pode fazer loop e fade, e o soundboard de efeitos sonoros ajuda você a iterar rapidamente."
+        },
+        {
+          "question": "Que tipos de efeitos de áudio posso criar?",
+          "answer": "Com a placa de efeitos sonoros, você pode criar efeitos em muitas categorias: ambiente natural, impactos mecânicos, feedback de UI, hits cinematográficos, texturas sci-fi, elementos musicais e tom de sala. O soundboard de efeitos sonoros suporta tanto rascunhos rápidos quanto saída pronta para produção."
+        },
+        {
+          "question": "Os efeitos de áudio gerados são livres de royalties?",
+          "answer": "Sim. Efeitos gerados com a placa de efeitos de áudio são livres de royalties e adequados para uso comercial. Você pode usar saídas do soundboard de efeitos sonoros em projetos sem etapas extras de licenciamento."
+        },
+        {
+          "question": "Qual é a qualidade dos efeitos de áudio gerados?",
+          "answer": "A placa de efeitos sonoros visa saída limpa e profissional com dinâmicas estáveis e baixos artefatos. Para melhores resultados, gere algumas variantes no soundboard de efeitos sonoros, escolha a tomada mais natural e depois faça equalização leve ou correspondência de nível."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "scream-louder": {
+    "meta": {
+      "title": "Gritar mais alto",
+      "description": "Crie instantaneamente «gritar mais alto» com nossa IA avançada. Gere vários tipos de sons, incluindo naturais, instrumentos e muito mais.",
+      "keywords": "gritar mais alto, grito alto"
+    },
+    "hero": {
+      "title": "Gritar mais alto",
+      "subtitle": "Transforme instantaneamente uma descrição em texto em áudio de alta qualidade «gritar mais alto» e grito alto"
+    },
+    "generator_subtitle": "Escolha entre os prompts populares abaixo ou escreva sua própria descrição para gerar «gritar mais alto»",
+    "advantages": {
+      "title": "Por que escolher nosso gerador «gritar mais alto»?",
+      "items": [
+        {
+          "title": "Crie indicações «gritar mais alto» em segundos",
+          "description": "Converta texto de prompt conciso em efeitos vocais de alta intensidade e momentos «gritar mais alto» sem vasculhar bibliotecas enormes. O modelo interpreta urgência, tom e timing para que cada clip sirva a trailers, cutscenes de jogos e edições dramáticas. Iteração rápida ajuda equipes a comparar versões antes do lock final.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Intensidade flexível do tenso ao explosivo",
+          "description": "Refine detalhes do prompt para ir de tensão controlada à energia de grito alto preservando a legibilidade da cena. Ajuste duração, textura vocal e cor emocional para cada caso, depois exporte alternativas para testes de timing A/B. O fluxo mantém o sound design expressivo sem cues de stock repetitivas.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualidade de áudio profissional",
+          "description": "As saídas vêm prontas para mix com loudness estável e transientes limpos, para que takes «gritar mais alto» e camadas de grito alto se encaixem claramente no mix. Os arquivos permanecem nítidos após compressão comum das plataformas, ajudando picos emocionais a se traduzirem em mobile, desktop e pipelines de broadcast.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Sobre nosso gerador «gritar mais alto»",
+      "items": [
+        {
+          "question": "O que é um gerador «gritar mais alto»?",
+          "answer": "É uma ferramenta de áudio com IA que transforma prompts de texto em efeitos vocais dramáticos e explosões «gritar mais alto» para cenas de alto impacto. Em vez de gravar muitas tomadas, você gera clips sob medida com rapidez e os testa direto na linha do tempo."
+        },
+        {
+          "question": "Como funciona esta ferramenta «gritar mais alto»?",
+          "answer": "O sistema analisa emoção, ritmo, intensidade e contexto do seu prompt e sintetiza áudio alinhado a esses sinais, de tensão suave a grito alto. Você pode refinar a redação entre passagens para apertar ataque, sustain e timing até o efeito encaixar na edição."
+        },
+        {
+          "question": "Por que usar isso em vez de bibliotecas de stock?",
+          "answer": "Bibliotecas de stock podem soar repetitivas e não combinar com o ritmo preciso da cena. Geração guiada por prompt cria takes «gritar mais alto» e grito alto novos sob demanda, tornando cada momento mais específico e reduzindo busca manual de áudio."
+        },
+        {
+          "question": "Como devo escrever prompts para efeitos «gritar mais alto»?",
+          "answer": "Descreva quem reage, o que dispara o estouro vocal e quanto tempo a cue deve durar. Prompts específicos como «grito de comando curto antes do impacto» ou «grito alto sobre escombros desabando» costumam dar timing mais limpo do que pedidos vagos de uma palavra."
+        },
+        {
+          "question": "Quando usar grito alto em um mix?",
+          "answer": "Use grito alto para transições de clímax, picos de batalha, batidas de pânico ou revelações de alto estresse. Mantenha níveis abaixo do diálogo principal e automatize ganho para que o impacto emocional aumente sem mascarar fala importante."
+        },
+        {
+          "question": "Que tipos de variantes posso gerar?",
+          "answer": "Você pode criar chamadas curtas, gritos tensos, reações de multidão em camadas, explosões cinematográficas estilizadas e picos «gritar mais alto» junto com grito alto sustentado. Essa faixa ajuda editores e desenvolvedores a testar o ritmo emocional antes da exportação final."
+        },
+        {
+          "question": "O áudio gerado é livre de royalties?",
+          "answer": "Sim. Os arquivos gerados são livres de royalties sob nossa licença para uso padrão de criadores e comercial. Revise os termos mais recentes antes de grandes campanhas publicitárias ou distribuição em broadcast."
+        },
+        {
+          "question": "Que qualidade devo esperar das exportações?",
+          "answer": "Espere saída pronta para produção com detalhe claro, dinâmica estável e reprodução previsível em todos os dispositivos, mesmo ao empurrar níveis «gritar mais alto» ou empilhar grito alto. Para entrega final, aplique sua cadeia usual de masterização para bater as metas de loudness das plataformas."
+        }
+      ]
+    }
+  }
+}

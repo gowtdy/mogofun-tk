@@ -1,0 +1,71 @@
+{
+  "button-soundboard": {
+    "meta": {
+      "title": "Button Soundboard",
+      "description": "Erstellen Sie sofort ein button soundboard mit unserer fortschrittlichen KI. Generieren Sie verschiedene Audiotypen – natürliche Klänge, Instrumente und mehr.",
+      "keywords": "button soundboard, meme buttons"
+    },
+    "hero": {
+      "title": "Button Soundboard",
+      "subtitle": "Verwandeln Sie Textbeschreibungen sofort in hochwertiges button-soundboard-Audio"
+    },
+    "generator_subtitle": "Wählen Sie unten beliebte Prompts oder schreiben Sie Ihre eigene Beschreibung, um button-soundboard-Cues zu erzeugen",
+    "advantages": {
+      "title": "Warum unseren Button-Soundboard-Generator wählen?",
+      "items": [
+        {
+          "title": "Button-Soundboard-Clips in Sekunden erstellen",
+          "description": "Erzeugen Sie kurze, prägnante Cues aus einfachen Prompts – ohne Aufnahmesessions oder komplexe Bearbeitungsketten. So bauen Creator schnell ein button soundboard für Streams, Apps und Social-Clips und halten Klangfarbe und Timing konsistent.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Flexible Stile für jede Interaktion",
+          "description": "Stimmen Sie Attack, Decay und Charakter so ab, dass jeder Cue zu Ihrer UX oder Ihrem Content passt. Erzeugen Sie verspielte Klicks, dramatische Stings und klare Bestätigungen und fassen Sie sie in einem button soundboard zusammen. Optionale meme-buttons-Beschriftungen in Metadaten oder Kurzformat-Verpackung können die Auffindbarkeit unterstützen, ohne Keyword-Stuffing.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professionelle Audioqualität",
+          "description": "Jeder Export ist sauber, mixfertig und auf allen Geräten stabil. Kontrollierte Dynamik und klare Transienten helfen Ihren button-soundboard-Assets von Mobile bis Desktop und Streaming.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Über unseren Button-Soundboard-Generator",
+      "items": [
+        {
+          "question": "Was ist ein button-soundboard-Generator?",
+          "answer": "Ein KI-Audio-Tool, das Textprompts in kurze interaktive Cues für UI, Content-Bearbeitung und Live-Interaktionen verwandelt. Sie erstellen ein button soundboard für bestimmte Aktionen und nutzen es auf Produktseiten und in Video-Workflows wieder."
+        },
+        {
+          "question": "Wie funktioniert das button-soundboard-Tool?",
+          "answer": "Das Modell liest Merkmale wie Dauer, Klangfarbe, Punch und Wiedergabekontext und synthetisiert passendes Audio. Starten Sie mit einer neutralen Basis, iterieren Sie Energie und Klarheit und finalisieren Sie ein Cue-Set, das zum Interface-Timing passt."
+        },
+        {
+          "question": "Warum ist das besser als statische Packs?",
+          "answer": "Statische Packs wirken oft repetitiv und brauchen zusätzliche Bereinigung. Prompt-basierte Generierung liefert szenenspezifische Ergebnisse auf Abruf und macht Ihr button soundboard über Menüs, Alerts und Übergänge hinweg unterscheidbarer."
+        },
+        {
+          "question": "Wie schreibe ich effektive Prompts?",
+          "answer": "Nutzen Sie knappe Anweisungen mit Absicht und Timing, z. B. „kurzer heller Bestätigungsklick“ oder „warmes UI-Blip mit schnellem Decay“. Ergänzen Sie Kontext wie Zielbildschirm, Dauer und Stimmung, um Revisionen zu reduzieren und Konsistenz zu erhöhen."
+        },
+        {
+          "question": "Kann ich für Memes und Social-Suche optimieren?",
+          "answer": "Ja. Behalten Sie button soundboard als Hauptbegriff und ergänzen Sie meme buttons sparsam in ausgewählten Metadaten, Überschriften oder FAQ-Texten, um Social-Suchintention zu treffen und Lesbarkeit zu wahren."
+        },
+        {
+          "question": "Wo kann ich die generierten Cues einsetzen?",
+          "answer": "In Spiel-UI-Events, Onboarding-Flows, Social-Clips, Stream-Overlays, Quiz-Interaktionen und Schnitt-Übergängen. Ein strukturiertes button soundboard hilft Teams, eine wiedererkennbare Audio-Identität zu halten und Kurzformat-Cues schnell zu iterieren."
+        },
+        {
+          "question": "Ist der generierte Sound lizenzfrei?",
+          "answer": "Ja. Die Ausgaben sind nach unseren Standardbedingungen für gängige Creator- und kommerzielle Projekte lizenzfrei. Prüfen Sie die aktuelle Lizenzierung vor großen bezahlten Kampagnen oder speziellen Vertriebsanforderungen."
+        },
+        {
+          "question": "Welche Qualität kann ich von Exporten erwarten?",
+          "answer": "Produktionsreife Dateien mit klaren Transienten, kontrollierten Peaks und zuverlässigem Wiedergabeverhalten auf allen Geräten. Sie können noch finales EQ und Loudness anwenden, um jeden Cue an Ihren Gesamtmix und Plattformziele anzupassen."
+        }
+      ]
+    }
+  }
+}

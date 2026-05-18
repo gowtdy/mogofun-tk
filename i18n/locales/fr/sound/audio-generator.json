@@ -1,0 +1,79 @@
+{
+  "audio-generator": {
+    "meta": {
+      "title": "Générateur Audio",
+      "description": "Créez des effets audio avec une technologie IA de générateur audio avancée, générant divers types incluant des sons naturels, des instruments de musique et plus encore.",
+      "keywords": "générateur audio, générateur audio IA"
+    },
+    "hero": {
+      "title": "Générateur Audio",
+      "subtitle": "Transformez vos descriptions textuelles en effets sonores de haute qualité"
+    },
+    "generator_subtitle": "Sélectionnez parmi les invites populaires ci-dessous ou écrivez votre propre description pour générer des effets sonores",
+    "advantages": {
+      "title": "Pourquoi Choisir Notre Générateur Audio ?",
+      "items": [
+        {
+          "title": "Génération Sonore Instantanée",
+          "description": "Transformez des invites textuelles en effets prêts pour la production en quelques secondes avec notre générateur audio. Utilisez une description claire pour créer du son pour des vidéos, des jeux, des publicités et des applications—pas de bibliothèques volumineuses, pas de découpage manuel, juste des résultats rapides.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Possibilités Créatives Illimitées",
+          "description": "Des impacts cinématographiques à l'ambiance subtile, la technologie IA du générateur audio comprend l'intention détaillée et offre des variations contrôlables. Ajoutez l'humeur, la texture, la distance et le timing pour façonner la sortie pour votre scène. Pour les équipes qui veulent une itération plus rapide, le générateur audio IA maintient les résultats cohérents entre les versions.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualité Sonore Professionnelle",
+          "description": "Obtenez une sortie propre et haute fidélité avec une dynamique équilibrée, prête à être intégrée dans votre flux de travail. Cette technologie IA de générateur audio produit des résultats stables avec moins d'artefacts, donc l'édition reste légère et prévisible.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "À Propos du Générateur Audio",
+      "items": [
+        {
+          "question": "Qu'est-ce qu'un générateur audio ?",
+          "answer": "Un générateur audio transforme les descriptions textuelles en effets et ambiances prêts à l'emploi. Avec un générateur sonore, vous pouvez décrire ce dont vous avez besoin et créer rapidement de l'audio qui correspond au contenu, aux produits ou aux expériences interactives. Pour des flux de travail plus rapides, le générateur audio IA aide à maintenir les résultats cohérents."
+        },
+        {
+          "question": "Comment fonctionne le générateur audio ?",
+          "answer": "Le générateur audio analyse votre invite (source, environnement, intensité, durée), la mappe vers des attributs acoustiques, puis synthétise la sortie en utilisant des modèles neuronaux. Un post-traitement léger aide à rendre les résultats clairs, utilisables et cohérents. En bref, le générateur audio IA automatise le travail lourd de la description à l'exportation."
+        },
+        {
+          "question": "Qu'est-ce qui rend ce générateur audio unique ?",
+          "answer": "Ce générateur audio se concentre sur la vitesse, le contrôle et la sortie fiable. Au lieu de chercher dans des packs de presets, vous décrivez ce dont vous avez besoin et créez des variations sonores qui restent dans le thème, rendant l'itération beaucoup plus rapide."
+        },
+        {
+          "question": "Comment écrire des invites efficaces pour le générateur audio ?",
+          "answer": "Soyez spécifique : décrivez la source (\"coup métallique\"), le cadre (\"entrepôt\"), la distance (\"proche\"), l'émotion (\"tendu\"), et le timing (\"queue de 0,8s\"). Ajoutez des modificateurs comme \"étouffé\" ou \"brillant\" pour aider la technologie IA du générateur audio à créer un son qui correspond à votre mixage."
+        },
+        {
+          "question": "Comment puis-je utiliser le générateur audio pour le contenu vidéo ?",
+          "answer": "Utilisez la technologie IA du générateur audio pour créer du son pour les transitions, les impacts, les lits d'ambiance et les détails spécifiques à la scène. Générez quelques variantes proches, puis superposez-les et réduisez-les sous le dialogue pour garder le mixage naturel et engageant."
+        },
+        {
+          "question": "Comment puis-je utiliser le générateur audio dans le développement de jeux ?",
+          "answer": "Créez des familles audio pour les actions (pas, clics UI, capacités) et générez des variations pour réduire la répétition. Un flux de travail de générateur audio IA aide également à prototyper l'ambiance pour les nouveaux niveaux avant le polissage final."
+        },
+        {
+          "question": "Comment créer du bruit blanc et de l'ambiance avec le générateur audio ?",
+          "answer": "Décrivez la texture et le mouvement (\"bruit brun doux avec air doux\" ou \"ton de pièce urbaine avec trafic distant\"). Le générateur audio peut créer des couches sonores que vous pouvez boucler, fondu et empiler pour de longues scènes."
+        },
+        {
+          "question": "Que puis-je créer avec le générateur audio ?",
+          "answer": "Vous pouvez créer de l'audio dans de nombreuses catégories : nature, machines, retour UI, impacts cinématographiques, textures sci-fi, éléments musicaux et ambiance environnementale. Le générateur sonore est flexible pour les brouillons rapides et l'utilisation en production."
+        },
+        {
+          "question": "L'audio généré par le générateur audio est-il libre de droits ?",
+          "answer": "Oui. Le son généré avec la technologie IA du générateur audio est libre de droits et adapté à un usage commercial, vous pouvez donc publier des vidéos, livrer des jeux et lancer des produits sans étapes de licence supplémentaires."
+        },
+        {
+          "question": "Quelle qualité de sortie puis-je attendre du générateur audio ?",
+          "answer": "Le générateur audio cible une sortie propre et de haute qualité adaptée à la production moderne. Pour de meilleurs résultats, générez quelques variantes, choisissez la prise la plus naturelle et faites un égaliseur léger ou un ajustement de niveau dans votre éditeur."
+        }
+      ]
+    }
+  }
+}

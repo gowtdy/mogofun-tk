@@ -1,0 +1,79 @@
+{
+  "sound-simulator": {
+    "meta": {
+      "title": "Simulador de Sonido",
+      "description": "Crea efectos de sonido únicos con nuestro simulador de sonido avanzado, generando varios tipos incluyendo sonidos naturales, instrumentos musicales y más.",
+      "keywords": "simulador de sonido, generador de sonido"
+    },
+    "hero": {
+      "title": "Simulador de Sonido",
+      "subtitle": "Transforma tus descripciones de texto en efectos de sonido de alta calidad"
+    },
+    "generator_subtitle": "Selecciona de los prompts populares a continuación o escribe tu propia descripción para generar efectos de sonido",
+    "advantages": {
+      "title": "¿Por qué elegir nuestro simulador de sonido?",
+      "items": [
+        {
+          "title": "Generación Instantánea de Sonido",
+          "description": "Genera sonido profesional en segundos desde prompts de texto con nuestro simulador de audio. Este simulador de audio convierte la intención en audio limpio rápidamente—sin bibliotecas grandes, sin corte manual—para que puedas entregar proyectos más rápido con resultados consistentes.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Posibilidades Creativas Ilimitadas",
+          "description": "Crea cualquier tipo de sonido que imagines, desde ambiente natural hasta texturas futuristas. El simulador de audio entiende prompts detallados y proporciona variaciones controlables, para que tu sonido se mantenga en tema a través de escenas y estilos.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Calidad de Audio de Grado Profesional",
+          "description": "Cada sonido se produce con salida de alta fidelidad y dinámicas equilibradas. Nuestro simulador de audio entrega audio listo para producción que se adapta a flujos de trabajo modernos, ayudando a que tu sonido se integre naturalmente en una mezcla con limpieza mínima.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Acerca del Simulador de Sonido",
+      "items": [
+        {
+          "question": "¿Qué es un simulador de sonido?",
+          "answer": "Un simulador de sonido es una herramienta que convierte descripciones de texto en audio personalizado usando IA. Con un simulador de audio, los creadores pueden prototipar sonido rápidamente para contenido, juegos y experiencias de producto mientras mantienen las salidas consistentes y utilizables."
+        },
+        {
+          "question": "¿Cómo funciona el simulador de sonido?",
+          "answer": "El simulador de sonido analiza tu prompt (fuente, entorno, intensidad, duración), lo mapea a atributos acústicos, luego sintetiza sonido con modelos neuronales. Termina con procesamiento ligero para que el sonido sea claro, estable y fácil de editar."
+        },
+        {
+          "question": "¿Qué hace único a este simulador de sonido?",
+          "answer": "Este simulador de sonido está diseñado para iteración rápida y control. En lugar de buscar paquetes, describes lo que necesitas y generas variaciones de audio que se mantienen coherentes, reduciendo trabajo repetitivo y acelerando la producción."
+        },
+        {
+          "question": "¿Cómo escribir prompts efectivos para el simulador de sonido?",
+          "answer": "Usa detalles claros y específicos: fuente (\"golpe de metal\"), escenario (\"almacén\"), distancia (\"cerca\"), y tiempo (\"cola de 0.8s\"). Añade modificadores como \"amortiguado\" o \"brillante\" para que el simulador de audio pueda generar sonido que coincida con tu mezcla objetivo."
+        },
+        {
+          "question": "¿Cómo usar el simulador de sonido efectivamente en contenido de video?",
+          "answer": "Usa el simulador de sonido para generar sonido para transiciones, impactos y camas de ambiente. Crea algunas variantes cercanas, luego superpón y automatiza niveles bajo el diálogo para mantener el ritmo ajustado y la mezcla natural."
+        },
+        {
+          "question": "¿Cómo utilizar el simulador de sonido en desarrollo de juegos?",
+          "answer": "En juegos, usa el simulador de sonido para generar familias de audio (pasos, clics de UI, habilidades) con variaciones para reducir la repetición. También puedes prototipar ambiente para nuevas áreas temprano, luego refinar después."
+        },
+        {
+          "question": "¿Cómo crear ruido blanco y sonidos ambientales efectivos con el simulador de sonido?",
+          "answer": "Describe textura y movimiento (\"ruido marrón suave con aire suave\" o \"tono de habitación con tráfico distante\"). El simulador de audio puede generar capas de audio que puedes hacer en bucle, desvanecer y apilar para escenas largas."
+        },
+        {
+          "question": "¿Qué tipos de sonidos puedo crear con el simulador de sonido?",
+          "answer": "El simulador de audio puede generar audio en muchas categorías: ambiente natural, efectos mecánicos, retroalimentación de UI, golpes cinematográficos, texturas de ciencia ficción y elementos musicales. Soporta borradores rápidos y resultados listos para producción."
+        },
+        {
+          "question": "¿Los sonidos generados por el simulador de sonido están libres de regalías?",
+          "answer": "Sí. El sonido creado con el simulador de audio está libre de regalías y es adecuado para uso comercial, por lo que puedes publicar contenido y enviar productos sin pasos adicionales de licencia."
+        },
+        {
+          "question": "¿Cuál es la calidad de los audios generados por el simulador de audio?",
+          "answer": "El simulador de audio apunta a una salida limpia y profesional con dinámicas estables y pocos artefactos. Para mejores resultados, genera algunas variantes, elige el sonido más natural, luego haz un EQ ligero o igualación de nivel en tu editor."
+        }
+      ]
+    }
+  }
+}

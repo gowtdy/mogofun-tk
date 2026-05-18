@@ -1,0 +1,79 @@
+{
+  "funny-meme-sounds": {
+    "meta": {
+      "title": "Sons de mèmes drôles",
+      "description": "Créez des sons de mèmes drôles uniques grâce à une IA avancée d’effets sonores, avec des types variés : sons naturels, instruments et plus.",
+      "keywords": "sons de mèmes drôles, effect funny"
+    },
+    "hero": {
+      "title": "Sons de mèmes drôles",
+      "subtitle": "Transformez vos descriptions textuelles en sons de mèmes drôles de haute qualité"
+    },
+    "generator_subtitle": "Choisissez un prompt populaire ci-dessous ou rédigez votre propre description pour générer des sons de mèmes drôles",
+    "advantages": {
+      "title": "Pourquoi générer des sons de mèmes drôles avec notre IA ?",
+      "items": [
+        {
+          "title": "Des sons de mèmes drôles depuis du texte en quelques secondes",
+          "description": "Décrivez un sting viral, un beat de réaction ou un hit ironique en mots simples et obtenez vite des stems mixables—sans scroller des sites de mèmes à l’infini. Les sorties restent courtes et percutantes pour que shorts, streams et overlays de chat restent dans le tempo. Dupliquez les sons de mèmes drôles pour les formats verticaux, coupez les tails à chaque passe et archivez des variantes pour les rattrapages.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Itérez les formats sans reconstruire les sessions",
+          "description": "Dupliquez une blague sur des cuts verticaux, carrés et paysage en ajustant les prompts plutôt qu’en rééditant toute la timeline. Superposez des mots de timing (\"0.4s sting\") et de ton (sec vs chaotique) jusqu’à ce que chaque version plateforme paraisse native. Si des sons de mèmes drôles masquent la VO, raccourcissez les hits ; s’ils manquent de punch, élargissez les verbes ; QC chaque lot avant doublage.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Niveaux « feed-safe » dès la sortie",
+          "description": "La dynamique vise les haut-parleurs mobiles et les habitudes de loudness des plateformes. Batcher des sons de mèmes drôles pour une campagne tout en gardant des pics prévisibles et un rendu friendly avec le dialogue, sans mastering supplémentaire. Routez les promos le lundi, rafraîchissez l’ancien en milieu de semaine et imprimez les livrables après picture lock.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Sons de mèmes drôles : questions et réponses",
+      "items": [
+        {
+          "question": "Que sont les sons de mèmes drôles dans cet outil ?",
+          "answer": "De courts signaux comiques partageables—stings ironiques, hits de réaction, pops cartoon ou voix « meme-adjacent »—créés à partir de texte plutôt que d’extraire des sources inconnues. Vous obtenez des stems légaux et mixables, taillés pour shorts, overlays et A/B rapides. Les acheteurs de bundles taggés effect funny doivent vérifier le nombre de stems et les PDF de licence."
+        },
+        {
+          "question": "Comment le texte devient-il un sting ?",
+          "answer": "Les prompts capturent vibe, durée et énergie de punchline. Les modèles synthétisent des formes d’onde serrées, puis un traitement léger dompte les pics pour les haut-parleurs de téléphone. Ajustez les adjectifs, régénérez et gardez la prise qui se cale proprement à l’image. Les chercheurs qui cataloguent des lignes marquées effect funny ont encore besoin de filtres comédie qui évitent les trailers d’horreur."
+        },
+        {
+          "question": "Que signifie effect funny sur une cue sheet de mèmes ?",
+          "answer": "Les monteurs utilisent ce tag pour séparer les hits ironiques des SFX sérieux afin que les assistants prennent le bon bac. Décrire la même intention ici oriente la génération vers des stings ludiques plutôt que des whooshes ciné. Dupliquer des marqueurs effect funny au fil des épisodes garde les assistants alignés avec les bacs mèmes."
+        },
+        {
+          "question": "Comment prompter pour un timing viral ?",
+          "answer": "Indiquez le trope, le flip émotionnel et la durée (\"dry rimshot 0.3s\"). Mentionnez la plateforme si besoin—les mixes verticaux demandent souvent des transients plus brillants. Comparez des lignes concrètes comme \"sad trombone wah\" et \"cartoon fail brass\", puis affinez. Mentionnez effect funny sting dans les slug lines quand vous voulez une clarté ironique immédiate."
+        },
+        {
+          "question": "Puis-je poster sur TikTok ou Reels ?",
+          "answer": "Oui—les stems ciblent les workflows short-form. Associez les hits aux captions, variez les prises pour éviter la fatigue du feed et suivez les politiques audio à jour de chaque app. Conservez les PDF de licence pour les campagnes brandées. Les équipes testant des promos marquées effect funny doivent respecter la politique audio publicitaire de chaque app."
+        },
+        {
+          "question": "Adapté aux alertes de stream ou chat bots ?",
+          "answer": "Générez des stings frères pour follows, raids et redeems afin que les alertes restent fraîches. Verrouillez une famille de cues au même timbre mais à durées différentes selon le tier d’événement. Les designers qui câblent des alertes marquées effect funny devraient A/B les prises avant de livrer les commandes du bot."
+        },
+        {
+          "question": "Quels styles “meme-adjacent” fonctionnent ?",
+          "answer": "Brass flops, scratches de disque, bass drops, rimshots secs, pops de bouche, buzzers glitch et lignes de faux-annonceur. Séparez bed vs poke si vous avez besoin des deux, ou imprimez des couches à ajuster en DAW. Les mixeurs qui empilent des beds taggés effect funny sous la musique devraient encocher la boue partagée avec la musique."
+        },
+        {
+          "question": "Les téléchargements sont-ils libres de droits ?",
+          "answer": "Les fichiers sont publiés sous la licence affichée au téléchargement—couvrant généralement pubs, streams et montages clients sans frais de synchro additionnels. Archivez les accords et revérifiez lorsque les termes changent. Les superviseurs auditant des reels marqués effect funny avant renouvellement devraient exporter les PDF de licence pour la finance."
+        },
+        {
+          "question": "Quelle qualité attendre ?",
+          "answer": "Des stems haute résolution avec dynamique contrôlée pour que les hits passent au-dessus du ducking musique. Appliquez votre preset loudness comme pour tout SFX tiers. Ciné ou broadcast passe toujours par votre chaîne habituelle. Les ingénieurs qui impriment des stems marqués effect funny appliquent les cibles loudness maison de bout en bout."
+        },
+        {
+          "question": "Qui en profite le plus ?",
+          "answer": "Monteurs short-form, community managers et indés qui publient vite. Quiconque a besoin de sons de mèmes drôles neufs sans récupérer des rips douteux peut itérer en minutes ; les grandes équipes peuvent utiliser les sorties en temp avant VO finale ou finition musique. Faites tourner des sons saisonniers quand le marketing change les hooks. Les showrunners qui storyboardent des séquences marquées effect funny devraient étiqueter les bacs pour aligner les assistants."
+        }
+      ]
+    }
+  }
+}

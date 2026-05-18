@@ -1,0 +1,75 @@
+{
+  "scream-soundboard": {
+    "meta": {
+      "title": "Soundboard de Gritos",
+      "description": "Crie soundboard de gritos instantaneamente com nossa tecnologia de IA avançada. Gere vários tipos de som, incluindo sons naturais, instrumentos musicais e mais.",
+      "keywords": "soundboard de gritos, soundboard de gritos múltiplos"
+    },
+    "hero": {
+      "title": "Soundboard de Gritos",
+      "subtitle": "Transforme descrições em texto em soundboard de gritos de alta qualidade instantaneamente"
+    },
+    "generator_subtitle": "Selecione entre os prompts populares abaixo ou escreva sua própria descrição para gerar soundboard de gritos",
+    "advantages": {
+      "title": "Por que escolher nosso gerador?",
+      "items": [
+        {
+          "title": "Criação instantânea de soundboard de gritos",
+          "description": "Crie clipes profissionais de soundboard de gritos instantaneamente a partir de texto com nosso gerador de IA. A ferramenta transforma suas ideias em soundboard de gritos múltiplos de alta qualidade e áudio de personagem em segundos, sem bibliotecas de samples ou edição manual. Gere variações ilimitadas para jogos, vídeos e aplicativos. Seja para soundboard de gritos terror, efeitos de eco ou berros dramáticos, o gerador entrega saída soundboard de gritos em qualidade de estúdio para seus projetos.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Possibilidades criativas ilimitadas",
+          "description": "Use nosso gerador para criar qualquer estilo de soundboard de gritos que imaginar—de berros sutis a soundboard de gritos múltiplos intenso. A ferramenta entende descrições complexas e oferece total liberdade criativa. Explore opções de soundboard feitas para jogos, filmes e mídia. De gritos de personagem a estilos vocais variados para cada cenário, obtenha o clipe perfeito de soundboard de gritos para seu projeto.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualidade de áudio profissional",
+          "description": "Cada soundboard de gritos do nosso gerador atende aos padrões de transmissão com saída de alta fidelidade. Algoritmos de ponta garantem resultados soundboard de gritos múltiplos em qualidade de estúdio e outros efeitos vocais. Todos os efeitos de soundboard estão prontos para produção e otimizados para uso profissional. O gerador oferece cobertura total de frequência e dinâmica clara para gritos autênticos. Eles permanecem consistentes em qualquer projeto.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "FAQ do gerador",
+      "items": [
+        {
+          "question": "O que é este gerador?",
+          "answer": "É uma ferramenta de IA que transforma descrições em texto em efeitos sonoros personalizados de soundboard de gritos e soundboard de gritos múltiplos. Usa processamento de linguagem natural e síntese neural de áudio para produzir clipes de soundboard de gritos de qualidade profissional. Você pode criar clipes vocais para terror, jogos ou filmes. Atende criadores de conteúdo, desenvolvedores de jogos e cineastas que precisam de saída rápida e autêntica de soundboard de gritos. O gerador também suporta estilos e climas variados para soundboard de gritos múltiplos."
+        },
+        {
+          "question": "Como funciona?",
+          "answer": "Nosso gerador usa um pipeline em múltiplas etapas para transformar texto em áudio de alta qualidade. Primeiro analisa sua descrição para capturar traços como intensidade, personagem e duração. Essas informações passam por redes neurais treinadas para síntese de gritos e vocal. Treinado com samples profissionais, a IA produz soundboard de gritos e soundboard de gritos múltiplos com som natural. Filtragem e pós-processamento mantêm a qualidade alta e garantem que cada clipe de efeito sonoro vocal atenda aos padrões de transmissão."
+        },
+        {
+          "question": "O que torna este gerador único?",
+          "answer": "Nosso gerador se destaca pela customização instantânea e qualidade profissional. Diferente de bibliotecas estáticas, ele cria soundboard de gritos e soundboard de gritos múltiplos sob medida sob demanda. O sistema entende descrições complexas e produz saída com controle fino de intensidade e estilo. Você tem variações ilimitadas e liberdade criativa. Efeitos sonoros para jogos e filmes são fáceis de adaptar sem trabalho extra de produção."
+        },
+        {
+          "question": "Como escrevo prompts eficazes para ele?",
+          "answer": "Escreva descrições claras e específicas. Experimente \"grito de morte masculino horror\" ou \"grito eco\" para soundboard de gritos. Inclua intensidade, tipo de personagem e contexto. Nosso gerador responde bem a termos como grito de homem caindo, gemido e berro. Mais contexto traz melhores resultados para soundboard de gritos múltiplos e outros efeitos vocais."
+        },
+        {
+          "question": "Como uso em conteúdo de vídeo?",
+          "answer": "Coloque clipes personalizados de soundboard de gritos e soundboard de gritos múltiplos onde as cenas precisam de tensão ou reação. O gerador ajuda a criar áudio de personagem para intros, transições e momentos-chave. Empilhe variações de soundboard para um design sonoro rico e envolvente. Use em filmes, vlogs e tutoriais. A ferramenta permite construir um estilo de áudio único que combina com seu conteúdo."
+        },
+        {
+          "question": "Como uso no desenvolvimento de jogos?",
+          "answer": "Nosso gerador suporta áudio procedural para jogos. Crie variações de soundboard de gritos e soundboard de gritos múltiplos para os jogadores raramente ouvirem o mesmo clipe duas vezes. Construa sistemas que reagem ao estado do jogo, perigos e eventos. Produza opções diferentes para personagens, sustos e cutscenes mantendo um estilo consistente. Efeitos sonoros podem ser mixados dinamicamente a partir dos parâmetros do jogo. O gerador entrega soundboard de gritos múltiplos de qualidade profissional que aumenta imersão e impacto."
+        },
+        {
+          "question": "Que tipos de soundboard de gritos posso criar?",
+          "answer": "Você pode criar uma ampla gama: soundboard de gritos terror, soundboard de gritos para jogos ou filmes, grito eco, grito de homem caindo e estilos personalizados. O gerador lida com essas categorias com qualidade consistente. Seja berros sutis ou soundboard de gritos múltiplos ousado para qualquer cenário, a ferramenta entrega resultados profissionais."
+        },
+        {
+          "question": "Os clipes de soundboard de gritos gerados são livres de royalties?",
+          "answer": "Sim. Todo o áudio do nosso gerador é livre de royalties e inclui licença comercial. Você pode usar o soundboard de gritos e soundboard de gritos múltiplos gerados em qualquer projeto sem taxas extras ou atribuição. Cada clipe está liberado para uso imediato em trabalho profissional e comercial."
+        },
+        {
+          "question": "Que qualidade ele produz?",
+          "answer": "Nosso gerador produz soundboard de gritos e soundboard de gritos múltiplos de nível profissional que atendem aos padrões da indústria. Você tem opções de alta resolução, faixa de frequência completa e dinâmica clara. Toda a saída está pronta para transmissão e é adequada para produção profissional e projetos criativos."
+        }
+      ]
+    }
+  }
+}

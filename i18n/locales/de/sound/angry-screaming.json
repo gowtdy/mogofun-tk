@@ -1,0 +1,71 @@
+{
+  "angry-screaming": {
+    "meta": {
+      "title": "Wütendes Schreien",
+      "description": "Erstellen Sie sofort wütendes Schreien mit unserer fortschrittlichen KI. Generieren Sie verschiedene Klangtypen – Naturgeräusche, Instrumente und mehr.",
+      "keywords": "wütendes schreien, harter impact-sting"
+    },
+    "hero": {
+      "title": "Wütendes Schreien",
+      "subtitle": "Verwandeln Sie Textbeschreibungen sofort in hochwertiges wütendes Schreien"
+    },
+    "generator_subtitle": "Wählen Sie unten beliebte Prompts oder schreiben Sie Ihre eigene Beschreibung, um wütendes Schreien zu erzeugen",
+    "advantages": {
+      "title": "Warum unseren Generator für wütendes Schreien wählen?",
+      "items": [
+        {
+          "title": "Wütende Schrei-Clips in Sekunden erstellen",
+          "description": "Kurze Prompts werden zu intensivem wütendem Schreien – ohne riesige Bibliotheken zu durchsuchen. Das Modell erfasst Aggression, Timing und emotionalen Druck, sodass Ausgaben zu filmischen Schnitten, Streams und Gameplay-Highlights passen. Schnelle Iteration ermöglicht Teams den Vergleich alternativer Takes vor dem Lock.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Flexible Intensität für jede Szene",
+          "description": "Verfeinern Sie Prompt-Details, um von gehaltener Spannung zu explosiven Ausbrüchen überzugehen und gleichzeitig Platz für Dialog zu lassen. Textur, Dauer und Figurenstil lassen sich für Trailer, Reaktionsschnitte und dramatische Übergänge formen. So wirkt jede wütende Schrei-Cue spezifischer statt generisch; bei passendem Projekt-Ton können Sie sparsam harte Impact-Stings einblenden.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professionelle Audioqualität",
+          "description": "Exports sind mixbereit mit stabiler Lautheit und sauberen Transienten – späte Austausche in der Post fallen leichter. Dateien bleiben nach Plattformkompression konsistent, damit wütende Schrei-Peaks und harte Impact-Akzente auf Mobil, Desktop und in Broadcast-Workflows verständlich bleiben.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Über unseren Generator für wütendes Schreien",
+      "items": [
+        {
+          "question": "Was ist ein Generator für wütendes Schreien?",
+          "answer": "Ein KI-Audio-Tool, das Textprompts in aggressive Vocals und wütendes Schreien für Hochintensitäts-Momente verwandelt. Statt vieler Aufnahmen erzeugen Sie schnell szenenspezifische Clips und testen sie direkt auf der Timeline."
+        },
+        {
+          "question": "Wie funktioniert dieses Tool für wütendes Schreien?",
+          "answer": "Das Modell wertet Stimmung, Kraft, Rhythmus und Kontext aus Ihrem Prompt aus und synthetisiert passende Ausgabe – optional mit harter Impact-Betonung, wenn der Brief es verlangt. Zwischen Durchläufen können Sie die Formulierung verfeinern, um Attack, Sustain und Tempo zu straffen, bis der Clip exakt zum Schnitt passt."
+        },
+        {
+          "question": "Warum das statt Stock-Packs?",
+          "answer": "Stock-Material wiederholt sich oft und passt nicht immer zum Szenentempo. Prompt-basierte Generierung liefert frische Takes von wütendem Schreien und hartem Impact auf Abruf – originellere Schnitte bei weniger manueller Suche und Nachbearbeitung."
+        },
+        {
+          "question": "Wie schreibe ich Prompts für wütendes Schreien?",
+          "answer": "Beschreiben Sie, wer reagiert, was die Reaktion auslöst und wie lange die Cue halten soll. Konkrete Formulierungen wie „wütendes Schreien direkt nach dem Zuknallen der Tür“ oder „knapp harter Impact-Sting am Schnitt“ liefern meist besseres Timing als vage Schlagwörter."
+        },
+        {
+          "question": "Wo passen harte Impact-Stings in diesen Workflow?",
+          "answer": "Eine Impact-Schicht kann als stilisiertes Betonungselement in erwachsenen Themen-Montagen dienen, wenn der Ton härtere Wirkung braucht. Pegel unter wichtigem Dialog halten und Gain sorgfältig automatisieren, um Verständlichkeit zu wahren und Mix-Müdigkeit zu vermeiden."
+        },
+        {
+          "question": "Welche Varianten kann ich erzeugen?",
+          "answer": "Sie können kurze Wutausbrüche, angespannte Rufe, geschichtete Publikumsaggression, verzerrte Peaks und filmische Vocal-Swells erzeugen, angetrieben von gestapeltem wütendem Schreien. Diese Bandbreite hilft Schnitt und Sounddesign, emotionales Timing vor dem finalen Export zu testen."
+        },
+        {
+          "question": "Ist generiertes Audio lizenzfrei?",
+          "answer": "Ja. Generierte Dateien sind unter unserer Standardlizenz für typische Creator- und kommerzielle Nutzung lizenzfrei. Prüfen Sie die aktuellen Bedingungen vor großen Kampagnen oder Broadcast-Einsatz."
+        },
+        {
+          "question": "Welche Qualität kann ich von Exporten erwarten?",
+          "answer": "Erwarten Sie produktionsreifes Material mit klarem Detail, stabiler Dynamik und zuverlässiger Wiedergabe auf allen Geräten – auch beim Stapeln von wütendem Schreien mit harten Impact-Stings. Für die finale Auslieferung wenden Sie Ihre übliche Mastering-Kette an, um die Loudness-Ziele des Projekts zu treffen."
+        }
+      ]
+    }
+  }
+}

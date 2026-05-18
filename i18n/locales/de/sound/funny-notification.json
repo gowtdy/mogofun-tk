@@ -1,0 +1,71 @@
+{
+  "funny-notification": {
+    "meta": {
+      "title": "Lustige Benachrichtigung",
+      "description": "Erstellen Sie sofort lustige Benachrichtigungstöne mit unserer fortschrittlichen KI – inklusive Naturgeräusche, Instrumente und mehr.",
+      "keywords": "lustige Benachrichtigung, lustige Benachrichtigungstöne"
+    },
+    "hero": {
+      "title": "Lustige Benachrichtigung",
+      "subtitle": "Verwandeln Sie Textbeschreibungen sofort in hochwertige lustige Benachrichtigungstöne"
+    },
+    "generator_subtitle": "Wählen Sie unten beliebte Prompts oder schreiben Sie eine eigene Beschreibung, um lustige Benachrichtigungstöne zu erzeugen",
+    "advantages": {
+      "title": "Warum unseren Generator für lustige Benachrichtigungen wählen?",
+      "items": [
+        {
+          "title": "Lustige Benachrichtigung in Sekunden",
+          "description": "Beschreiben Sie einen Chime, Bloop oder Cartoon-Ping und erhalten Sie einen polierten Clip, ohne endlose Alert-Packs zu durchsuchen. Die KI erfasst Klangfarbe, Länge und Punch, damit Ergebnisse auf Phones, Desktops und Streams bewusst wirken. Iterieren Sie schnell, wenn Sie für jede Kampagne oder Episode ein frisches Signal brauchen. Testen Sie pro Sprint mehrere Ideen für lustige Benachrichtigungen, hören Sie lustige Benachrichtigungstöne gegen Motion-Tests ab und fixieren Sie die lustige Benachrichtigung, die auf echten Geräten am besten sitzt.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Stile für Apps, Streams und Nachrichten-Alerts",
+          "description": "Fordern Sie verspielte, tote oder übertriebene Stimmungen; das Modell passt sich Ihrem Brief an. Klare Angaben zu Tonhöhe, Decay und Lautheit helfen, dass die Ausgabe neben Voiceover und UI-Motion passt. Exportieren Sie kurze Tails, die sauber loopen, wenn Sie Spiele oder Chat-Apps prototypisieren. Richten Sie jede lustige Benachrichtigung an Marken-Stimme aus, tauschen Sie lustige Benachrichtigungstöne, bis Stakeholder ohne neue Session zustimmen.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Mixfertige Dateien für den Alltag",
+          "description": "Downloads zielen auf knackige Transienten und vorhersehbare Lautheit, damit Sie Cues mit minimalem Cleanup in Editoren oder Mobile-Prototypen legen können. Konsistente Verarbeitung bedeutet: Kolleg:innen hören beim Öffnen dasselbe Gleichgewicht. Veröffentlichen Sie Assets für lustige Benachrichtigungen mit vorhersehbaren Peaks, archivieren Sie alternative lustige Benachrichtigungstöne für saisonale Skins und nutzen Sie dieselbe Vorlage für lustige Benachrichtigungen über White-Label-Builds hinweg.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Über unseren Generator für lustige Benachrichtigungen",
+      "items": [
+        {
+          "question": "Was ist ein Generator für lustige Benachrichtigungen?",
+          "answer": "Ein KI-Workflow, der Text-Prompts in kurze Alert-Audio-Clips verwandelt, statt Glocken oder Summer selbst aufzunehmen. Sie beschreiben den Charakter des Pings—niedlich, frech, retro—und erhalten eine Datei für Messaging-Mockups, Creator-Kits oder Livestream-Overlays. Produktteams exportieren eine lustige Benachrichtigung pro Persona-Flow und vergleichen lustige Benachrichtigungstöne in Usability-Tests vor dem Release."
+        },
+        {
+          "question": "Wie werden Prompts in Audio verwandelt?",
+          "answer": "Das System interpretiert Helligkeit, Dauer und komisches Timing aus Ihrer Beschreibung und synthetisiert einen Clip passend zum Brief. Passen Sie Adjektive oder Szenario-Hinweise zwischen Durchläufen an, bis der Cue zu UI-Beat oder Pointline passt. Jeder Durchlauf verfeinert das Timing der lustigen Benachrichtigung; Sie können lustige Benachrichtigungstöne kampagnenweise katalogisieren, damit Editor:innen sofort die richtige lustige Benachrichtigung greifen."
+        },
+        {
+          "question": "Wann lustige Benachrichtigungstöne per KI statt Stock-Packs?",
+          "answer": "Stock-Bibliotheken wiederholen dieselben wenigen Töne. KI-Ausgabe kann Zeile für Zeile angepasst werden—hilfreich, wenn ein Cue zur Markenstimme oder einem Witz passen soll, den kein Katalog-Clip trifft. Halten Sie Prompts spezifisch, damit lustige Benachrichtigungstöne zwischen Projekten unterscheidbar bleiben. Wenn eine lustige Benachrichtigung maßgeschneidert wirken soll, regenerieren Sie, bis die Wellenform Ihrem Storyboard schlag für schlag folgt."
+        },
+        {
+          "question": "Wie schreibe ich Prompts für eine lustige Benachrichtigung?",
+          "answer": "Nennen Sie Gerätekontext (Phone-Ping, Desktop-Toast, Chat-Blase), Stimmung (albern, selbstgefällig, überrascht) und Timing (kurzer Decay, Doppelpiep). Beispiele wie „winziger Gummi-Quietschen für neue DM“ oder „Retro-Bloop für Aufgaben-Erinnerung“ führen das Modell besser als ein einzelnes Adjektiv. Erwähnen Sie Mix-Headroom, wenn Sie Musik legen, damit lustige Benachrichtigungstöne in dichten Stapeln verständlich bleiben."
+        },
+        {
+          "question": "Wo nutze ich diese Töne in echten Projekten?",
+          "answer": "Typisch: Mobile-UX-Demos, Creator-Stream-Alerts, Podcast-Stinger, Klassenbeispiele. Halten Sie Pegel einige dB unter Sprache oder Musik, damit der Ping auf Laptop-Lautsprechern klar bleibt, ohne Dialog zu maskieren. Setzen Sie die lustige Benachrichtigung auf genau den Frame des Toasts und routen Sie alternative lustige Benachrichtigungstöne in QA-Builds für schnelle Hörtests."
+        },
+        {
+          "question": "Welche Töne jenseits eines einfachen Alert-Chimes?",
+          "answer": "Erkunden Sie Chirps, gummige Slides, pseudo-minimal Chimes oder übertriebene Buzzer. Nennen Sie Genre—Arcade, Büro-Sitcom, Sci-Fi-Panel—für kohärenten Ton bei leichtem Gefühl. Erweitern Sie jede Familie lustiger Benachrichtigungen mit Begleit-lustigen Benachrichtigungstönen für Erfolg, Warnung und Idle, damit das ganze System stimmig wirkt."
+        },
+        {
+          "question": "Ist der generierte Audio-Inhalt lizenzfrei?",
+          "answer": "Ja. Downloads sind unter unserer Lizenz für typische Creator- und kommerzielle Nutzung lizenzfrei, ohne extra Gebühr pro Clip. Lesen Sie vor großen Werbekampagnen oder Broadcast die aktuellen Bedingungen auf der Produktseite. Sie dürfen eine lustige Benachrichtigung in Kundenlieferungen bündeln und lustige Benachrichtigungstöne kanalübergreifend wiederverwenden, wenn die Nutzung im Vertrag bleibt."
+        },
+        {
+          "question": "Welche Audioqualität ist zu erwarten?",
+          "answer": "Erwarten Sie klare Bandbreite und kontrollierte Dynamik für Schnitt-Suites und Mobile-Wiedergabe. Bei Broadcast-Lautheit nach Export Ihre übliche Mastering-Passage laufen lassen, damit jeder Cue mit Erzählung und Bed-Musik ebenmäßig sitzt. Master sanft, damit jede lustige Benachrichtigung knackige Transienten behält, und loudness-matchen Sie lustige Benachrichtigungstöne, damit keine lustige Benachrichtigung über den Rest des Mixes springt."
+        }
+      ]
+    }
+  }
+}

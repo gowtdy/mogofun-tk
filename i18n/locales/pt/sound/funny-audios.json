@@ -1,0 +1,79 @@
+{
+  "funny-audios": {
+    "meta": {
+      "title": "Áudios engraçados",
+      "description": "Crie áudios engraçados únicos com IA avançada de efeitos sonoros, gerando sons naturais, instrumentos e muito mais.",
+      "keywords": "áudios engraçados, som engraçado"
+    },
+    "hero": {
+      "title": "Áudios engraçados",
+      "subtitle": "Transforme descrições em texto em áudios engraçados de alta qualidade"
+    },
+    "generator_subtitle": "Escolha entre os prompts populares abaixo ou escreva sua própria descrição para gerar áudios engraçados",
+    "advantages": {
+      "title": "Por que gerar áudios engraçados a partir de prompts de texto?",
+      "items": [
+        {
+          "title": "Áudios engraçados em segundos",
+          "description": "Descreva stings, hits de reação, estalos de desenho ou vocais próximos de memes em linguagem simples e obtenha stems mixáveis rápido—sem rolar sites sem fim antes do prazo. As saídas permanecem curtas para reels, podcasts e overlays continuarem incisivos. Duplique áudios engraçados para cortes verticais, corte caudas em cada passagem e arquive áudios engraçados extras para pickups.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Versionar esquetes em todos os formatos",
+          "description": "Duplique uma piada em vertical, quadrado e paisagem ajustando prompts em vez de reconstruir sessões inteiras. Mantenha o timbre consistente ao variar duração ou intensidade para que cada edição de plataforma pare intencional. Quando áudios engraçados lotados mascaram a VO, encurte decaimentos; quando áudios engraçados finos perdem punch, alargue verbos; faça QC de cada lote de áudios engraçados antes do dub.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Loudness pensado para o celular",
+          "description": "A dinâmica mira fones e alto-falantes típicos de telefone. Processe áudios engraçados em lote para uma campanha mantendo picos previsíveis sob o diálogo e depois rode seu limitador ou passagem de loudness habitual na DAW. Programe áudios engraçados promocionais na segunda, atualize os mais antigos no meio da semana e imprima os finais após o picture lock.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Áudios engraçados: perguntas e respostas",
+      "items": [
+        {
+          "question": "O que são “áudios engraçados” nesta ferramenta?",
+          "answer": "Clipes cômicos curtos—stings, buzzers, estalos de desenho ou vocalizações brincalhonas—criados a partir de texto em vez de arrancar arquivos desconhecidos. Você recebe stems legais no tamanho certo para reels, podcasts, anúncios e testes A/B rápidos. Se um sting deve soar engraçado no telefone, clareie transientes com leveza em vez de esmagar o ganho."
+        },
+        {
+          "question": "Como um prompt vira um clipe pronto para mix?",
+          "answer": "Você descreve timbre, duração e impacto (“rimshot seco 0,25 s”). Os modelos renderizam formas de onda apertadas; um processamento leve doma picos para reprodução móvel. Baixe, normalize se sua cadeia exigir e encaixe na edição. Editores querem que spots de cliente soem engraçados sem mascarar a cama de locução."
+        },
+        {
+          "question": "Como faço as exportações soarem engraçadas sem clipping?",
+          "answer": "Mantenha picos abaixo de 0 dBFS, use um limitador suave após o gain staging e passe alto no lodo que empilha com a música. Se o brilho parecer áspero em fones, domine levemente 3–6 kHz em vez de esmagar o barramento inteiro. Alunos querem que explicadores soem engraçados e continuem seguros em sala em volumes baixos."
+        },
+        {
+          "question": "Como devo escrever prompts para timing de meme?",
+          "answer": "Declare o tropo, a virada emocional e uma duração. Mencione a plataforma se importar—mixes verticais costumam precisar de transientes mais brilhantes. Compare linhas concretas como “sad trombone wah” com “cartoon fail brass” e refine. Bots podem deixar alertas engraçados sem clipar alto-falantes baratos de notebook."
+        },
+        {
+          "question": "Posso sobrepor clipes ao diálogo?",
+          "answer": "Sim—abaixe a narração alguns dB, encurte o decaimento se a piada cobrir palavras e faça notch nas frequências compartilhadas quando a música estiver densa. Sidechain ou ganho de clipe como qualquer outro SFX. Times de podcast querem bumpers engraçados ao lado de VO seca sem bombear o barramento."
+        },
+        {
+          "question": "Serve para alertas de stream ou bots?",
+          "answer": "Gere stings irmãos para follows, raids e resgates para manter alertas frescos. Mapeie arquivos para atalhos ou comandos e siga as diretrizes de áudio mais recentes de cada plataforma. QA: cada exportação deve soar engraçada em volume baixo antes de ir ao ar."
+        },
+        {
+          "question": "Quais estilos funcionam melhor?",
+          "answer": "Rimshots, zumbidos de kazoo, apitos de corrediça, buzzers de resposta errada, boings de mola e impactos próximos de memes. Separe one-shots das camas para poder fazer duck da música sem matar o tom ambiente. Animadores precisam de SFX que soem engraçados sobre camas musicais planas sem lavar o diálogo."
+        },
+        {
+          "question": "Os downloads são livres de royalties?",
+          "answer": "Os arquivos são lançados sob a licença mostrada no download—normalmente cobrindo streams, anúncios e edições de cliente sem taxas extras de sincronização. Arquive PDFs para patrocinadores e reveja termos quando campanhas renovarem. Patrocinadores pedem que promos soem engraçadas antes da música entrar e engolir o tag."
+        },
+        {
+          "question": "Que qualidade devo esperar?",
+          "answer": "Stems em alta resolução com dinâmica controlada para que hits leiam em telefones e monitores de estúdio. Passe pela sua etapa habitual de loudness se normas de broadcast se aplicarem. Masterização deve deixar finais engraçados tanto em fones quanto em TVs de sala."
+        },
+        {
+          "question": "Quem mais se beneficia?",
+          "answer": "Editores, produtores de podcast e gestores de comunidade que entregam comédia diária. Equipes que precisam de áudios engraçados novos a cada temporada podem iterar prompts em vez de reconstruir bibliotecas inteiras. Rotacione áudios engraçados sazonais quando os ganchos mudarem; itere takes até reels soarem engraçados em cada preset de plataforma."
+        }
+      ]
+    }
+  }
+}

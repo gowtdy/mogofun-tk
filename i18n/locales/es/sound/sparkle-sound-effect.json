@@ -1,0 +1,75 @@
+{
+  "sparkle-sound-effect": {
+    "meta": {
+      "title": "Efecto de sonido de destello",
+      "description": "Crea efecto de sonido de destello al instante con nuestra tecnología de IA avanzada. Genera diversos tipos de sonido: naturales, instrumentos musicales y más.",
+      "keywords": "efecto de sonido de destello, sonido de destello"
+    },
+    "hero": {
+      "title": "Efecto de sonido de destello",
+      "subtitle": "Transforma descripciones de texto en efecto de sonido de destello de alta calidad al instante"
+    },
+    "generator_subtitle": "Elige entre los prompts populares de abajo o escribe tu propia descripción para generar efecto de sonido de destello",
+    "advantages": {
+      "title": "¿Por qué elegir nuestro generador?",
+      "items": [
+        {
+          "title": "Creación instantánea de efecto de sonido de destello",
+          "description": "Crea clips de efecto de sonido de destello profesionales al instante desde texto con nuestro generador de IA. El generador convierte tus ideas en audio de destello de alta calidad en segundos, sin bibliotecas de muestras ni edición manual. Genera variaciones ilimitadas para cualquier proyecto con unos clics. Ya sea destello mágico, loops de brillo o tonos destellantes, el generador ofrece una salida de efecto de sonido de destello en calidad de estudio para tus proyectos creativos.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Posibilidades creativas ilimitadas",
+          "description": "Usa nuestro generador para crear cualquier estilo de efecto de sonido de destello que imagines—desde destellos sutiles hasta brillo intenso. El generador entiende descripciones complejas y te da libertad creativa total. Explora opciones infinitas para juegos, vídeos y apps. Desde hits cortos hasta loop de destello, obtén el clip de efecto de sonido de destello perfecto para cada escenario.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Calidad de audio profesional",
+          "description": "Cada efecto de sonido de destello de nuestro generador cumple estándares de emisión con salida de alta fidelidad. Algoritmos punteros garantizan resultados en calidad de estudio. Todos los clips están listos para producción y optimizados para uso profesional. El generador ofrece cobertura de frecuencia completa y dinámica controlada para una salida auténtica de efecto de sonido de destello.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "FAQ efecto de sonido de destello",
+      "items": [
+        {
+          "question": "¿Qué es un generador de efecto de sonido de destello?",
+          "answer": "Un generador de efecto de sonido de destello es una herramienta de IA que convierte descripciones de texto en audio de destello y brillo personalizado. El nuestro usa procesamiento de lenguaje natural y síntesis neural de audio para producir clips de calidad profesional. Modelos de deep learning entrenados con conjuntos de datos de destello y brillo entienden tu descripción y generan variaciones coincidentes. Es adecuado para creadores de contenido, desarrolladores de juegos y profesionales del audio que necesitan salida de efecto de sonido de destello rápida y auténtica. El generador usa tu contexto y detalles para crear audio matizado y en capas. Para destello pulido u otros estilos, ofrece resultados precisos y de alta fidelidad."
+        },
+        {
+          "question": "¿Cómo funciona el generador?",
+          "answer": "Nuestro generador usa un pipeline en varias etapas para convertir texto en efecto de sonido de destello de alta calidad. Primero analiza tu descripción para capturar rasgos como brillo, textura, duración y estilo. Esa información pasa por redes neuronales entrenadas para síntesis de brillo, que manejan frecuencia, dinámica y tono. Entrenado con muestras profesionales, la IA produce una salida natural. El filtrado y el postprocesado mantienen la calidad alta y garantizan que cada clip cumpla estándares de emisión."
+        },
+        {
+          "question": "¿Qué hace único este generador?",
+          "answer": "Nuestro generador destaca por la personalización instantánea y la calidad profesional. A diferencia de bibliotecas estáticas, crea efecto de sonido de destello a medida bajo demanda. Está entrenado con muestras de alta calidad para resultados realistas, incluidos estilos de destello variados. El sistema entiende descripciones complejas y produce salida de efecto de sonido de destello con control fino del brillo y el contexto. Obtienes variaciones ilimitadas y libertad creativa."
+        },
+        {
+          "question": "¿Cómo escribo prompts efectivos para el generador?",
+          "answer": "Escribe descripciones claras y concretas con varios detalles. En lugar de solo \"destello\", prueba \"destello mágico con eco\" o \"loop de brillo.\" Incluye estilo, brillo, duración y rasgos distintivos. El generador responde bien a términos como destello, loop de brillo y brillo. Para escenarios complejos, divídelos en partes y explica cómo se combinan. Más contexto da mejores resultados."
+        },
+        {
+          "question": "¿Cómo uso el generador en contenido de vídeo?",
+          "answer": "Mapea los momentos de tu vídeo y coloca clips de efecto de sonido de destello personalizados donde aporten magia. El generador te ayuda a crear audio de destello para cada escena—desde fondo sutil hasta hits de resalte. Superpone varias variaciones de efecto de sonido de destello para un audio rico y envolvente. Úsalo para transiciones, títulos y escenas clave. Usa momentos de destello distintos para subrayar asombro. El generador te permite construir un estilo único de efecto de sonido de destello que encaje con tu contenido."
+        },
+        {
+          "question": "¿Cómo uso el generador en desarrollo de juegos?",
+          "answer": "Nuestro generador soporta audio procedural para juegos. Crea variaciones de efecto de sonido de destello para que los jugadores rara vez oigan el mismo clip dos veces. Construye sistemas que reaccionen al estado del juego, acciones del jugador y condiciones. Produce opciones distintas para UI, recompensas y eventos manteniendo un estilo consistente. La salida en capas puede mezclarse dinámicamente a partir de los parámetros del juego. El generador ofrece efecto de sonido de destello de calidad profesional que mejora la inmersión y el deleite."
+        },
+        {
+          "question": "¿Qué tipos de efecto de sonido de destello puedo crear?",
+          "answer": "Puedes crear una amplia gama: destello mágico, loop de brillo, brillo y destello, destello para UI o ambiente, intensidades (sutil a brillante) y estilos (mágico, cinematográfico, juguetón). El generador trata estas categorías de efecto de sonido de destello con calidad consistente. Ya necesites destello ligero o clips de brillo fuertes, el generador ofrece resultados profesionales de efecto de sonido de destello para cualquier proyecto."
+        },
+        {
+          "question": "¿Los clips de efecto de sonido de destello generados son libres de derechos?",
+          "answer": "Sí. Todos los clips de efecto de sonido de destello de nuestro generador son libres de derechos e incluyen licencia comercial. Puedes usar los clips generados en cualquier proyecto sin cargos adicionales ni atribución. Cada clip, incluida la salida de efecto de sonido de destello, está autorizado para uso inmediato en trabajo profesional y comercial."
+        },
+        {
+          "question": "¿Qué calidad produce el generador?",
+          "answer": "Nuestro generador produce efecto de sonido de destello de calidad profesional que cumple estándares de la industria. Obtienes opciones de alta resolución hasta 192 kHz/24-bit, rango de frecuencia completo y dinámica controlada. Toda la salida está lista para emisión. Cada efecto de sonido de destello es adecuado para producción profesional y proyectos creativos."
+        }
+      ]
+    }
+  }
+}

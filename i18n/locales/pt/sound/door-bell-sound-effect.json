@@ -1,0 +1,71 @@
+{
+  "door-bell-sound-effect": {
+    "meta": {
+      "title": "Efeito sonoro de campainha",
+      "description": "Crie instantaneamente efeitos sonoros de campainha com nossa IA avançada. Gere vários tipos de sons, incluindo naturais, instrumentos e muito mais.",
+      "keywords": "efeito sonoro de campainha, efeito sonoro de sino de igreja"
+    },
+    "hero": {
+      "title": "Efeito sonoro de campainha",
+      "subtitle": "Transforme instantaneamente uma descrição em texto em efeito sonoro de campainha de alta qualidade"
+    },
+    "generator_subtitle": "Escolha entre os prompts populares abaixo ou escreva sua própria descrição para gerar efeito sonoro de campainha",
+    "advantages": {
+      "title": "Por que escolher nosso gerador de efeito sonoro de campainha?",
+      "items": [
+        {
+          "title": "Criação rápida de efeito sonoro de campainha",
+          "description": "Gere um efeito sonoro de campainha polido a partir de texto simples em segundos. Você pode prototipar tons de alerta para apps, vídeos e demos interativas sem sessões de gravação ou camadas manuais. Iteração rápida ajuda equipes a comparar vários estilos de toque antes da exportação final.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Estilos de sino flexíveis para diferentes cenas",
+          "description": "Modele timing, timbre, ressonância e ataque para combinar com interfaces modernas, transições cinematográficas ou indicações retrô. Peça um efeito sonoro de campainha nítido para o dia a dia, ou incline-se a uma atmosfera de sino de igreja tradicional quando a história pedir—você orienta o modelo com palavras de contexto e dicas de duração para resultados mais autênticos.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualidade de áudio profissional",
+          "description": "Cada saída é limpa, pronta para mix e consistente entre dispositivos de reprodução. O gerador preserva detalhe transiente e dinâmica equilibrada para que cada batida de efeito sonoro de campainha e cada decaimento de efeito sonoro de sino de igreja permaneçam claros em mixes densos, facilitando integração em produção e pós.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Sobre nosso gerador de efeito sonoro de campainha",
+      "items": [
+        {
+          "question": "O que é um gerador de efeito sonoro de campainha?",
+          "answer": "É uma ferramenta de áudio com IA que converte prompts de texto em indicações estilo sino personalizadas. Em vez de navegar por bibliotecas enormes, você cria um efeito sonoro de campainha alinhado ao humor, ritmo e contexto de reprodução do projeto."
+        },
+        {
+          "question": "Como funciona o gerador?",
+          "answer": "O modelo lê sua descrição em busca de atributos como brilho, decaimento e força do golpe, depois sintetiza áudio que corresponde a essas instruções. Você pode refinar a redação ao longo das iterações para ir de um ping apertado de efeito sonoro de campainha a uma cauda ampla de efeito sonoro de sino de igreja com texturas metálicas mais ricas."
+        },
+        {
+          "question": "Posso criar um estilo de sino de igreja?",
+          "answer": "Sim. Adicione contexto como espaço de catedral, ressonância longa e comportamento de golpe mais pesado no prompt. Esses detalhes ajudam o modelo a entregar um caráter de efeito sonoro de sino de igreja adequado a cenas históricas e aberturas dramáticas."
+        },
+        {
+          "question": "Como devo escrever prompts eficazes?",
+          "answer": "Use descrições concisas que incluam estilo de fonte, timing e ambiente. Por exemplo, mencione \"toque digital curto de efeito sonoro de campainha\" ou \"efeito sonoro de sino de igreja em nave de pedra com cauda longa\" para resultados mais próximos do uso pretendido na produção."
+        },
+        {
+          "question": "Onde posso usar sons de sino gerados?",
+          "answer": "Funcionam bem em interações de UI, transições de podcast, cortes cinematográficos, marcadores de tutorial e sistemas de feedback de jogos. Use um efeito sonoro de campainha com identidade de marca para demos de produto, ou coloque um sino de igreja distante sob planos de estabelecimento—como cada saída é personalizável, você mantém identidade de áudio consistente em vários formatos."
+        },
+        {
+          "question": "O áudio gerado é livre de royalties?",
+          "answer": "Sim. Os arquivos gerados são livres de royalties sob nossos termos padrão para projetos típicos de criadores e comerciais. Revise os detalhes da licença atual se planejar grandes campanhas ou requisitos especiais de distribuição."
+        },
+        {
+          "question": "Que qualidade devo esperar das exportações?",
+          "answer": "Você obtém arquivos prontos para produção com transientes claros, dinâmica estável e reprodução confiável em todos os dispositivos. Isso acelera o alinhamento do mix final, seja para apps móveis, mídia web ou edições de broadcast que colocam uma camada sutil de efeito sonoro de sino de igreja sob a trilha."
+        },
+        {
+          "question": "Como equilibro a clareza do efeito sonoro de campainha em um mix?",
+          "answer": "Coloque a indicação com um breve bolso de EQ em torno das faixas vocais, depois aplique controle moderado de picos para evitar mascarar o diálogo. Assim o efeito sonoro de campainha permanece audível sem dominar a trilha sonora."
+        }
+      ]
+    }
+  }
+}

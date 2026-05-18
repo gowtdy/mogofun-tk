@@ -1,0 +1,71 @@
+{
+  "moan-sound": {
+    "meta": {
+      "title": "Sonido de gemidos",
+      "description": "Crea al instante un sonido de gemidos con nuestra avanzada tecnología de IA. Genera diversos tipos de sonido, incluidos sonidos naturales, instrumentos musicales y más.",
+      "keywords": "sonido de gemidos, gemidos intensos"
+    },
+    "hero": {
+      "title": "Sonido de gemidos",
+      "subtitle": "Transforma al instante descripciones de texto en un sonido de gemidos de alta calidad"
+    },
+    "generator_subtitle": "Elige entre los prompts populares de abajo o escribe tu propia descripción para generar sonido de gemidos",
+    "advantages": {
+      "title": "¿Por qué elegir nuestro generador de sonido de gemidos?",
+      "items": [
+        {
+          "title": "Creación instantánea de sonido de gemidos",
+          "description": "Genera un sonido de gemidos profesional y audios de gemidos intensos al instante a partir de texto. Nuestra herramienta convierte tus descripciones en gemidos vocales y clips expresivos en segundos, sin bibliotecas grandes ni edición manual. Crea variaciones ilimitadas para contenido, podcasts o trabajo creativo. Tanto si necesitas un sonido de gemidos sutil como audios de gemidos intensos, el generador ofrece resultados limpios y listos para producción.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Posibilidades creativas ilimitadas",
+          "description": "Crea cualquier estilo que necesites: intensidad variada, diferentes ambientes o audios de gemidos intensos para escenas con impacto. El generador entiende descripciones detalladas y produce un resultado a juego para una libertad creativa total. Explora variaciones para proyectos de audio, contenido y trabajo creativo. De lo suave a lo intenso, encuentra el ajuste adecuado para cada proyecto.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Calidad de audio profesional",
+          "description": "Todos los sonidos de gemidos generados cumplen estándares de producción con salida de alta fidelidad. El generador usa algoritmos modernos para que cada clip sea claro y esté listo para usar. Las salidas están optimizadas para contenido, audios y medios. Obtén resultados consistentes y de calidad de estudio para tu trabajo.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Sobre el generador de sonido de gemidos",
+      "items": [
+        {
+          "question": "¿Qué es un generador de sonido de gemidos?",
+          "answer": "Un generador de sonido de gemidos es una herramienta de IA que convierte texto en gemidos vocales personalizados y audios expresivos. Produce resultados profesionales y opciones de audios de gemidos intensos para contenido y proyectos creativos sin necesidad de grabación o bibliotecas grandes. El sistema usa síntesis neuronal entrenada con audios vocales, por lo que obtienes resultados naturales y utilizables. Está diseñado para creadores que necesitan un sonido de gemidos rápido y variado en cualquier proyecto."
+        },
+        {
+          "question": "¿Cómo funciona el generador de sonido de gemidos?",
+          "answer": "Nuestro generador lee tu descripción de texto y extrae características como el ambiente, la intensidad y el estilo. Luego sintetiza un resultado vocal a juego: suave, audios de gemidos intensos o entre medias. Puedes solicitar diferentes intensidades, escenarios o audios en capas. El resultado es un archivo limpio y listo para usar que puedes descargar e incorporar a tu proyecto."
+        },
+        {
+          "question": "¿Qué hace único a este generador de sonido de gemidos?",
+          "answer": "A diferencia de bibliotecas fijas, nuestro generador crea nuevas variaciones de sonido de gemidos bajo demanda a partir de texto plano. Obtienes opciones personalizadas de vocal y audios de gemidos intensos sin tener que buscar entre miles de archivos. La IA está entrenada con audios vocales de alta calidad, por lo que cada resultado es consistente y profesional. Genera tantas variaciones como necesites para cada escena o edición."
+        },
+        {
+          "question": "¿Cómo escribir prompts efectivos para sonido de gemidos?",
+          "answer": "Usa descripciones claras y concretas. Por ejemplo: \"vocal suave\" o \"audios de gemidos intensos para una escena\". Indica el ambiente (intenso, suave, apasionado), la intensidad y el contexto. El generador responde bien a términos descriptivos. Cuanto más detalle, mejor encaja la salida con tu visión."
+        },
+        {
+          "question": "¿Cómo usar los audios generados en contenido?",
+          "answer": "Usa los audios generados para mejorar contenido, podcasts o trabajo creativo. Superpone la vocal bajo el vídeo, añade audios de gemidos intensos para aumentar el impacto o combínalos con otros audios. Varía la intensidad para cada escena. Nuestro generador te permite crear suficientes variaciones para que cada proyecto tenga un resultado adecuado sin repetición."
+        },
+        {
+          "question": "¿Qué tipos de audios puedo crear?",
+          "answer": "Puedes crear una amplia gama de sonido de gemidos: suave, intenso, distintas intensidades y diversos ambientes. Úsalos para contenido, audios o proyectos creativos. El generador maneja distintos contextos y estilos con calidad consistente para sonido de gemidos y audios de gemidos intensos."
+        },
+        {
+          "question": "¿Los sonidos de gemidos generados son libres de derechos?",
+          "answer": "Sí. Todos los audios de nuestro generador son libres de derechos y vienen con licencia comercial. Puedes usarlos en cualquier proyecto sin costes extra ni atribución. Cada archivo generado está autorizado para uso profesional y comercial. Descarga tantos como necesites para tus proyectos."
+        },
+        {
+          "question": "¿Cuál es la calidad del sonido de gemidos generado?",
+          "answer": "Nuestro generador de sonido de gemidos produce audios de nivel profesional que cumplen estándares habituales de producción. Obtienes archivos de alta resolución, rango de frecuencias completo y una dinámica controlada para que cada resultado sea claro y esté listo para incorporarse a tu proyecto. Cada archivo generado es adecuado para uso profesional en contenido y medios."
+        }
+      ]
+    }
+  }
+}

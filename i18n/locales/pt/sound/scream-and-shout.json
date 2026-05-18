@@ -1,0 +1,71 @@
+{
+  "scream-and-shout": {
+    "meta": {
+      "title": "Grito e brado",
+      "description": "Crie instantaneamente «grito e brado» com nossa IA avançada. Gere vários tipos de sons, incluindo naturais, instrumentos e muito mais.",
+      "keywords": "grito e brado, gritos e berros"
+    },
+    "hero": {
+      "title": "Grito e brado",
+      "subtitle": "Transforme instantaneamente uma descrição em texto em «grito e brado» de alta qualidade"
+    },
+    "generator_subtitle": "Escolha entre os prompts populares abaixo ou escreva sua própria descrição para gerar «grito e brado»",
+    "advantages": {
+      "title": "Por que escolher nosso gerador de grito e brado?",
+      "items": [
+        {
+          "title": "Crie clips em segundos",
+          "description": "Transforme texto de prompt simples em momentos vocais de alto impacto sem vasculhar bibliotecas enormes. O modelo entende urgência, ritmo e intenção de personagem para que cada resultado sirva a edições de ação, trailers, cenas de jogos e conteúdo social. Iteração rápida permite comparar takes antes do lock final de timing. Um prompt focado em grito e brado pode impulsionar sotaques de gritos e berros sem poluir o mix.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Intensidade flexível para cada cenário",
+          "description": "Da tensão controlada à energia plena de gritos e berros, você molda a entrega ajustando detalhe do prompt, duração e textura vocal. Isso ajuda a alinhar emoção com o corte de imagem preservando clareza em cenas cheias de diálogo. Também dá para gerar versões alternativas para revisão A/B. Editores costumam manter uma versão grito e brado mais uma versão gritos e berros para trocas rápidas.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualidade de áudio profissional",
+          "description": "As exportações vêm prontas para mix com loudness confiável, transientes limpos e equilíbrio tonal consistente. Substituições tardias na pós ficam mais fáceis e os efeitos permanecem estáveis após compressão das plataformas em mobile e desktop. Mastering consistente mantém cada grito e brado claro enquanto cada pico de gritos e berros permanece controlado.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Sobre nosso gerador de grito e brado",
+      "items": [
+        {
+          "question": "O que é um gerador de grito e brado?",
+          "answer": "É uma ferramenta de IA que converte prompts de texto em efeitos vocais expressivos para momentos de alta energia. Em vez de gravar muitos atores ou buscar bibliotecas manualmente, você gera clips sob medida para cada cena rapidamente. Um conceito de grito e brado pode produzir várias alternativas de gritos e berros para edições diferentes."
+        },
+        {
+          "question": "Como funciona esta ferramenta de grito e brado?",
+          "answer": "O sistema interpreta intenção emocional, perfil de volume, ritmo e contexto do seu prompt e sintetiza saída alinhada a esses sinais. Você pode iterar a redação para apertar ataque, sustain ou ritmo até o clip encaixar exatamente na linha do tempo. A iteração ajuda cada cue de grito e brado a cair no quadro enquanto gritos e berros permanecem coerentes."
+        },
+        {
+          "question": "Por que usar isso em vez de packs de stock?",
+          "answer": "Packs de stock costumam repetir assets batidos e podem não combinar com o ritmo da cena. Geração guiada por prompt cria novas takes sob demanda, deixando edições mais originais e sincronizadas com o visual. Isso mantém cada grito e brado único e evita clichês genéricos de gritos e berros."
+        },
+        {
+          "question": "Como devo escrever prompts para efeitos de grito e brado?",
+          "answer": "Descreva quem reage, o que dispara o momento vocal e quanto tempo deve durar. Prompts específicos como «grito de comando curto antes do impacto» costumam dar melhor timing do que redação genérica. Melhores prompts afiam o timing de grito e brado e reduzem vazamento de gritos e berros em cenas densas."
+        },
+        {
+          "question": "Quando usar gritos e berros em um mix?",
+          "answer": "Use gritos e berros para transições de clímax, cues de batalha, batidas de pânico ou revelações de alto estresse. Mantenha níveis levemente abaixo do diálogo principal e automatize ganho para preservar inteligibilidade em cenas carregadas. Emparelhar uma entrada curta em grito e brado antes de gritos e berros pode melhorar o ritmo dramático."
+        },
+        {
+          "question": "Que tipos de variantes vocais posso gerar?",
+          "answer": "Você pode gerar comandos curtos, gritos de batalha, multidões em camadas, chamados tensos e sotaques dramáticos estilizados. Essa faixa facilita testar impacto emocional antes da exportação final. Monte uma pequena biblioteca de grito e brado e marque cada clip de gritos e berros por intensidade para recuperação rápida."
+        },
+        {
+          "question": "O áudio gerado é livre de royalties?",
+          "answer": "Sim. Os arquivos gerados são livres de royalties sob nossa licença para uso padrão de criadores e comercial. Revise os termos de licença vigentes antes de grandes campanhas publicitárias ou implantação em broadcast."
+        },
+        {
+          "question": "Que qualidade devo esperar das exportações?",
+          "answer": "Espere saída pronta para produção com detalhe claro, dinâmica estável e reprodução confiável em todos os dispositivos. Para o lançamento final, aplique sua cadeia usual de masterização para bater as metas de loudness das plataformas. O QC final deve confirmar que cada grito e brado permanece inteligível e todos os transientes de gritos e berros sobrevivem à compressão."
+        }
+      ]
+    }
+  }
+}

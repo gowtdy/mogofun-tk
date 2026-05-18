@@ -1,0 +1,71 @@
+{
+  "sex-sounds": {
+    "meta": {
+      "title": "Sons sexuels",
+      "description": "Créez instantanément des sons sexuels avec notre technologie IA avancée. Générez divers types de sons, notamment des sons naturels, des instruments de musique et plus encore.",
+      "keywords": "sons sexuels, sons sexuels intenses"
+    },
+    "hero": {
+      "title": "Sons sexuels",
+      "subtitle": "Transformez instantanément une description textuelle en sons sexuels de haute qualité"
+    },
+    "generator_subtitle": "Choisissez parmi les invites populaires ci-dessous ou rédigez votre propre description pour générer des sons sexuels",
+    "advantages": {
+      "title": "Pourquoi choisir notre générateur de sons sexuels ?",
+      "items": [
+        {
+          "title": "Création instantanée de sons sexuels",
+          "description": "Générez des sons sexuels professionnels et des sons sexuels intenses instantanément à partir du texte. Notre outil transforme vos descriptions en voix d’adulte et en extraits expressifs en quelques secondes—sans grandes bibliothèques ni montage manuel. Créez des variations illimitées pour le contenu, des projets audio ou le travail créatif. Que vous ayez besoin de sons sexuels discrets ou de sons sexuels intenses, le générateur fournit des résultats propres et prêts pour la production.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Possibilités créatives illimitées",
+          "description": "Créez le style dont vous avez besoin : intensité variée, ambiances différentes, ou sons sexuels intenses pour l’impact. Le générateur comprend les descriptions détaillées et produit une sortie correspondante pour une liberté créative totale. Explorez des variations pour les projets audio, le contenu et le travail créatif. Des sons doux aux sons intenses, trouvez le bon ajustement pour chaque projet.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualité audio professionnelle",
+          "description": "Tous les sons sexuels générés répondent aux standards de production avec une sortie haute fidélité. Le générateur utilise des algorithmes modernes pour que chaque extrait soit clair et prêt à l’emploi. Les sorties sont optimisées pour le contenu, l’audio et les médias. Obtenez des résultats cohérents et de qualité studio pour votre travail.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "À propos du générateur de sons sexuels",
+      "items": [
+        {
+          "question": "Qu’est-ce qu’un générateur de sons sexuels ?",
+          "answer": "Un générateur de sons sexuels est un outil IA qui transforme le texte en voix d’adulte personnalisées et en audio expressif. Il produit des résultats professionnels et des options de sons sexuels intenses pour le contenu et les projets créatifs, sans enregistrement ni grandes bibliothèques. Le système utilise une synthèse neuronale entraînée sur des audios d’adulte, ce qui permet d’obtenir des résultats naturels et utilisables. Conçu pour les créateurs qui ont besoin de sons sexuels rapides et variés pour n’importe quel projet."
+        },
+        {
+          "question": "Comment fonctionne le générateur de sons sexuels ?",
+          "answer": "Notre générateur lit votre description textuelle et repère des traits comme l’ambiance, l’intensité et le style. Il synthétise ensuite des voix correspondantes—des sons sexuels doux, des sons sexuels intenses, ou un juste milieu. Vous pouvez demander différentes intensités, des scénarios ou un audio superposé. Le résultat est un fichier propre et prêt à l’emploi que vous pouvez télécharger et intégrer à votre projet."
+        },
+        {
+          "question": "Qu’est-ce qui rend ce générateur de sons sexuels unique ?",
+          "answer": "Contrairement aux bibliothèques fixes, notre générateur crée de nouvelles variations de sons sexuels à la demande à partir d’un texte simple. Vous obtenez des options vocales personnalisées et des sons sexuels intenses sans devoir chercher dans des milliers de fichiers. L’IA est entraînée sur des audios d’adulte de haute qualité, donc chaque résultat est cohérent et professionnel. Générez autant de variations que nécessaire pour chaque scène ou montage."
+        },
+        {
+          "question": "Comment rédiger des invites efficaces pour les sons sexuels ?",
+          "answer": "Utilisez des descriptions claires et précises. Par exemple : « voix douce » ou « sons sexuels intenses pour l’impact ». Mentionnez l’ambiance (intense, douce, passionnée), l’intensité et le contexte. Le générateur répond bien aux termes descriptifs. Plus de détails aide la sortie à correspondre à votre vision."
+        },
+        {
+          "question": "Comment utiliser l’audio généré dans le contenu ?",
+          "answer": "Utilisez l’audio généré pour améliorer le contenu, des projets audio ou le travail créatif. Superposez la voix sous la vidéo, ajoutez des extraits intenses pour l’impact ou combinez avec d’autres audios. Variez l’intensité pour chaque scène. Notre générateur vous permet de créer assez de variations pour que chaque projet ait un résultat adapté, sans répétition."
+        },
+        {
+          "question": "Quels types d’audio puis-je créer ?",
+          "answer": "Vous pouvez créer une large gamme de sons sexuels : doux, intenses, différentes intensités et diverses ambiances. Utilisez-les pour le contenu, l’audio ou des projets créatifs. Le générateur gère différents contextes et styles avec une qualité constante pour la voix et les sons sexuels intenses."
+        },
+        {
+          "question": "Les sons sexuels générés sont-ils libres de droits ?",
+          "answer": "Oui. Tout l’audio de notre générateur est libre de droits et fourni avec une licence commerciale. Vous pouvez l’utiliser dans n’importe quel projet sans frais supplémentaires ni attribution. Chaque fichier généré est autorisé pour un usage professionnel et commercial. Téléchargez autant que nécessaire pour vos projets."
+        },
+        {
+          "question": "Quelle est la qualité des sons sexuels générés ?",
+          "answer": "Notre générateur produit un audio de niveau professionnel qui répond aux standards de production courants. Vous obtenez des fichiers haute résolution, une plage de fréquences complète et des dynamiques contrôlées pour que chaque résultat soit clair et prêt à être intégré à votre projet. Chaque fichier généré convient à un usage professionnel dans le contenu et les médias."
+        }
+      ]
+    }
+  }
+}

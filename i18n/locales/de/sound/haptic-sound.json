@@ -1,0 +1,71 @@
+{
+  "haptic-sound": {
+    "meta": {
+      "title": "Haptischer Sound",
+      "description": "Erstellen Sie sofort haptischen Sound mit unserer fortschrittlichen KI-Technologie. Erzeugen Sie verschiedene Audiotypen: natürliche Töne, Musikinstrumente und mehr.",
+      "keywords": "haptischer Sound, Sound-Haptik"
+    },
+    "hero": {
+      "title": "Haptischer Sound",
+      "subtitle": "Verwandeln Sie Textbeschreibungen sofort in hochwertigen haptischen Sound"
+    },
+    "generator_subtitle": "Wählen Sie aus den beliebten Prompts unten oder schreiben Sie Ihre eigene Beschreibung, um haptischen Sound zu erzeugen",
+    "advantages": {
+      "title": "Warum unseren Generator wählen?",
+      "items": [
+        {
+          "title": "Sofortige Haptik-Sound-Erstellung",
+          "description": "Erstellen Sie professionelle Haptik-Sound-Clips sofort aus Text mit unserem KI-Generator. Das Tool verwandelt Ihre Ideen in Sekunden in hochwertiges taktiles Feedback-Audio – ohne Sample-Bibliotheken oder manuelle Bearbeitung. Erzeugen Sie unbegrenzte Variationen für Apps, Spiele und UI. Ob dumpfer Schlag, Screenshot-Klick oder individuelle Vibrationsnote – der Generator liefert Studioqualität. Sound-Haptik für Benachrichtigungen und Interaktionen lässt sich mit wenigen Klicks erzeugen.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Unbegrenzte kreative Möglichkeiten",
+          "description": "Nutzen Sie unseren Generator, um jeden gewünschten Stil von Haptik-Sound zu erstellen – von weichen Taps bis zu starken Impacts. Das Tool versteht komplexe Beschreibungen und gibt Ihnen volle kreative Freiheit. Erkunden Sie Optionen für Mobile Apps, Spiele und Interfaces. Von subtilem Feedback bis zu markanter Sound-Haptik – holen Sie sich den perfekten Clip für jedes Szenario. Erstellen Sie vielfältiges taktiles Feedback für Buttons, Alerts und Gesten.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professionelle Audioqualität",
+          "description": "Jeder Haptik-Sound unseres Generators erfüllt Rundfunkstandards mit High-Fidelity-Ausgabe. Moderne Algorithmen sorgen für Studioqualität. Alle Sound-Haptik-Ausgabe ist produktionsreif und für den professionellen Einsatz optimiert. Der Generator liefert vollständige Frequenzabdeckung und kontrollierte Dynamik für authentisches taktiles Feedback. Sound-Haptik, die sich in jeder App oder jedem Spiel natürlich anfühlt.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Generator FAQ",
+      "items": [
+        {
+          "question": "Was ist ein Haptik-Sound-Generator?",
+          "answer": "Es ist ein KI-Tool, das Textbeschreibungen in individuellen Haptik-Sound und taktiles Feedback-Audio umwandelt. Unserer nutzt natürliche Sprachverarbeitung und neuronale Audiosynthese für professionelle Sound-Haptik-Clips. Sie können Feedback für Benachrichtigungen, UI-Taps oder Spieleinsatz erstellen. Es eignet sich für App-Entwickler, Spieldesigner und Content-Ersteller, die schnelle, authentische Sound-Haptik brauchen. Der Generator liefert präzisen, hochauflösenden Haptik-Sound für jedes Projekt."
+        },
+        {
+          "question": "Wie funktioniert er?",
+          "answer": "Unser Generator nutzt eine mehrstufige Pipeline, um Text in hochwertiges Audio zu verwandeln. Zuerst analysiert er Ihre Beschreibung, um Merkmale wie Intensität, Dauer und Stil zu erfassen. Diese Informationen durchlaufen für Impact- und Feedback-Synthese trainierte neuronale Netze. Mit professionellen Samples trainiert, erzeugt die KI natürlich klingendes haptisches Feedback. Filterung und Nachbearbeitung halten die Qualität hoch und sorgen dafür, dass jeder Sound-Haptik-Clip Rundfunkstandards erfüllt."
+        },
+        {
+          "question": "Was macht diesen Generator einzigartig?",
+          "answer": "Unser Generator zeichnet sich durch sofortige Anpassung und professionelle Qualität aus. Anders als statische Bibliotheken erstellt er maßgeschneiderte Haptik- und taktile Feedback-Clips auf Abruf. Das System versteht komplexe Beschreibungen und erzeugt Ausgabe mit feiner Kontrolle über Punch und Ton. Sie erhalten unbegrenzte Variationen und kreative Freiheit. Sound-Haptik für Apps und Spiele lässt sich ohne zusätzliche Produktionsarbeit anpassen."
+        },
+        {
+          "question": "Wie schreibe ich wirksame Prompts?",
+          "answer": "Schreiben Sie klare, konkrete Beschreibungen. Probieren Sie „Dumpfer-Schlag-Effekt“ oder „Screenshot-iPhone-Ton“. Für Haptik-Sound sagen Sie „Mitternachts-Ton“ oder „weicher Tap“. Nennen Sie Intensität, Dauer und Kontext. Unser Generator reagiert gut auf Begriffe wie Vibration, Tap und Impact. Mehr Kontext liefert bessere Ergebnisse für Haptik-Sound und Sound-Haptik."
+        },
+        {
+          "question": "Wie kann ich den Generator in Apps nutzen?",
+          "answer": "Platzieren Sie angepasste Haptik-Feedback-Clips dort, wo Nutzer tippen oder Alerts erhalten. Der Generator hilft Ihnen, Haptik-Sound und Sound-Haptik für Buttons, Benachrichtigungen und Gesten zu erstellen. Legen Sie Sound-Haptik-Variationen für reiches, fesselndes UX übereinander. Nutzen Sie ihn für Mobile Apps, Wearables und Interfaces. Das Tool ermöglicht einen einzigartigen Audiostil, der zu Ihrem Produkt passt. Sound-Haptik verbessert Klarheit und Zufriedenheit in jeder App."
+        },
+        {
+          "question": "Welche Arten von Haptik-Sound kann ich erstellen?",
+          "answer": "Sie können ein breites Spektrum an Haptik-Sound erstellen: dumpfer Schlag, Screenshot-Klick, weicher Tap, starker Impact und individuelle Vibrationsstile. Der Generator behandelt diese Haptik-Sound- und Sound-Haptik-Kategorien mit gleichbleibender Qualität. Ob subtiles Feedback oder markante Clips für Spiele und Apps – das Tool liefert professionelle Ergebnisse. Sound-Haptik für Benachrichtigungen und UI wird mit voller kreativer Kontrolle unterstützt."
+        },
+        {
+          "question": "Sind die generierten Clips lizenzfrei?",
+          "answer": "Ja. Alle Audios unseres Generators sind lizenzfrei und enthalten eine gewerbliche Lizenz. Sie können die generierten Haptik-Sound- und Sound-Haptik-Clips in jedem Projekt ohne zusätzliche Gebühren oder Namensnennung verwenden. Jeder Clip ist für sofortige Nutzung in professioneller und gewerblicher Arbeit freigegeben, inklusive Apps und Spiele."
+        },
+        {
+          "question": "Welche Qualität liefert der Generator?",
+          "answer": "Er liefert professionellen Haptik-Sound, der Industriestandards entspricht. Sie erhalten Hochauflösungs-Optionen für Sound-Haptik, vollen Frequenzbereich und kontrollierte Dynamik. Alle Ausgaben sind rundfunkbereit und geeignet für professionelle Produktion, Apps und kreative Projekte."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "robot-sounds": {
+    "meta": {
+      "title": "Robot Sounds",
+      "description": "Instantly create robot sounds with our advanced AI technology. Generate various type sounds including natural sounds, musical instruments and more.",
+      "keywords": "robot sounds, robot sound"
+    },
+    "hero": {
+      "title": "Robot Sounds",
+      "subtitle": "Instantly transform text description into high-quality robot sounds"
+    },
+    "generator_subtitle": "Select from popular prompts below or write your own description to generate robot sounds",
+    "advantages": {
+      "title": "Why Choose Our Generator?",
+      "items": [
+        {
+          "title": "Instant Vocal Creation",
+          "description": "Create professional robot sounds instantly from text descriptions with our AI generator. The tool turns your ideas into high-quality robot sounds and mechanical audio in seconds, without sample libraries or manual editing. Generate unlimited variations for any project with a few clicks. Whether you need robotic voice, servo beeps, or sci-fi effects, the generator delivers studio-quality robot sound for your creative projects.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Unlimited Creative Possibilities",
+          "description": "Use our generator to create any style of robot sounds you imagine- from vintage mechanical to futuristic AI voice. The tool understands complex descriptions and gives you full creative freedom for robot sounds. Explore endless options tailored to games, videos, and apps. From short beeps to layered robotic ambience, get the perfect robot sound clip for every scenario.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professional-Grade Audio Quality",
+          "description": "Every robot sound from our generator meets broadcast standards with high-fidelity output. Cutting-edge algorithms ensure studio-quality robot sounds. All robot sounds are production-ready and optimized for professional use. The generator delivers full frequency coverage and controlled dynamics for authentic robot sound output.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Generator FAQ",
+      "items": [
+        {
+          "question": "What is this generator?",
+          "answer": "It is an AI tool that turns text descriptions into custom robotic and mechanical audio. Ours uses natural language processing and neural audio synthesis to produce professional-quality robot sounds clips. Deep learning models trained on synthetic and mechanical datasets understand your description and generate matching variations. It suits content creators, game developers, and audio pros who need quick, authentic robot sounds. The generator uses your context and details to create nuanced, layered robot sound with precise, high-fidelity output."
+        },
+        {
+          "question": "How does it work?",
+          "answer": "Our generator uses a multi-stage pipeline to turn text into high-quality robot sounds. It first analyzes your description to capture traits like pitch, modulation, duration, and style. That information goes through neural networks trained for synthetic and mechanical synthesis, which handle frequency, dynamics, and spatial qualities. Trained on professional samples, the AI produces natural-sounding robot sound output. Filtering and post-processing keep quality high and ensure every robot sound clip meets broadcast standards."
+        },
+        {
+          "question": "What makes this generator unique?",
+          "answer": "Our generator stands out through instant customization and professional quality. Unlike static libraries, it creates tailored robot sounds on demand. It is trained on high-quality mechanical and synthetic samples for realistic results. The system understands complex descriptions and produces robot sounds with fine control over tone and context. You get unlimited variations and creative freedom. Audio processing ensures balanced frequency and dynamics. The tool adapts to your use case so each robot sound fits your project- ideal for pros who need reliable, high-quality robot sounds output."
+        },
+        {
+          "question": "How do I write effective prompts for it?",
+          "answer": "Write clear, specific descriptions with multiple details. Instead of just \"robot,\" try \"vintage servo beeps with metallic resonance\" or \"futuristic AI voice with slight modulation.\" Include style, pitch, duration, environment, and any distinctive traits. Our generator responds well to technical and acoustic terms. For complex scenarios, break them into parts and say how they combine. More context yields better results. Mention length or technical needs so the generator can optimize the output for your desired robot sound."
+        },
+        {
+          "question": "How can I use it in video content?",
+          "answer": "Map your video's scenes and place custom robot sounds where they add impact. The generator helps you create robot sounds and mechanical audio for every moment- from subtle background to dramatic hits. Layer several variations for rich, engaging audio. Use it for transitions, UI elements, and sci-fi scenes. Use distinct robot sound moments to underline key scenes. The tool lets you build a unique robot sound style that fits your content."
+        },
+        {
+          "question": "How can I use it in game development?",
+          "answer": "Our generator supports procedural audio for games. Create robot sounds variations so players rarely hear the same clip twice. Build systems that react to game state, player actions, and conditions. Produce different robot sounds options for characters and environments while keeping a consistent style. Use it for UI, abilities, and events. Layered robot sounds can be mixed dynamically from game parameters. The generator delivers professional-quality robot sounds that enhance immersion and realism for any robot sound need."
+        },
+        {
+          "question": "What types of robot sounds can I create?",
+          "answer": "You can create a wide range: robotic voice (speech, beeps, glitches), mechanical (servos, motors, gears), intensities (subtle to intense), lengths (short bursts or extended), and styles (vintage, futuristic, cinematic). The generator handles these robot sounds categories with consistent quality. Whether you need light background robot sound or strong sci-fi robot sounds clips, the tool delivers professional results for any project."
+        },
+        {
+          "question": "Are the generated clips royalty-free?",
+          "answer": "Yes. All robot sounds from our generator are royalty-free and include a commercial license. You can use the generated robot sounds in any project without extra fees or attribution. Every robot sound is cleared for immediate use in professional and commercial work."
+        },
+        {
+          "question": "What quality does it produce?",
+          "answer": "Our generator outputs professional-grade robot sounds that meet industry standards. You get high-resolution robot sound options up to 192kHz/24-bit, full frequency range, and controlled dynamics. All robot sounds are broadcast-ready. Every robot sound is suitable for professional production and creative projects."
+        }
+      ]
+    }
+  }
+}

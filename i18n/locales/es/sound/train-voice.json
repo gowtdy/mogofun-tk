@@ -1,0 +1,75 @@
+{
+  "train-voice": {
+    "meta": {
+      "title": "Voz de tren",
+      "description": "Crea voz de tren al instante con nuestra tecnología de IA avanzada. Genera distintos tipos de audio: tonos naturales, instrumentos musicales y más.",
+      "keywords": "voz tren, efecto sonido silbido tren"
+    },
+    "hero": {
+      "title": "Voz de tren",
+      "subtitle": "Transforma descripciones de texto en voz de tren de alta calidad al instante"
+    },
+    "generator_subtitle": "Elige entre las sugerencias populares de abajo o escribe tu propia descripción para generar voz de tren",
+    "advantages": {
+      "title": "¿Por qué elegir nuestro generador de voz de tren?",
+      "items": [
+        {
+          "title": "Creación instantánea de voz de tren",
+          "description": "Crea voz de tren profesional y audio de anuncios de estación a partir de texto en segundos. Nuestra IA convierte tus descripciones en anuncios electrónicos, señales de metro y voz de andén—sin bibliotecas de muestras ni edición manual. ¿Necesitas un efecto de sonido de silbido de tren para acompañar tu clip? Genera variaciones ilimitadas de voz de tren con calidad lista para emisión. Añade un efecto de sonido de silbido de tren para impacto en cualquier proyecto.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Posibilidades creativas ilimitadas",
+          "description": "Crea cualquier estilo de voz de tren que imagines: anuncios de estación, voz de andén electrónica, ambiente de metro o un clásico efecto de sonido de silbido de tren. La herramienta te da libertad creativa total. Explora opciones infinitas—desde señales sutiles de andén hasta efecto de sonido de silbido de tren y audio en capas para cine.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Calidad de audio profesional",
+          "description": "Cada clip de nuestro generador cumple los estándares de emisión con salida de alta fidelidad. Algoritmos punteros garantizan voz de tren y audio ferroviario de calidad de estudio. Todos los clips están listos para producción y optimizados para uso profesional, con cobertura completa de frecuencias y resultados claros y naturales.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "FAQ Voz de tren",
+      "items": [
+        {
+          "question": "¿Qué es un generador de voz de tren?",
+          "answer": "Nuestro generador es una herramienta de IA que convierte texto en voz de tren personalizada y audio de anuncios de estación. Usa procesamiento de lenguaje natural y síntesis neuronal para producir clips ferroviarios profesionales. Puedes crear voz de andén electrónica, señales de metro o combinar tu escena con un efecto de sonido de silbido de tren. Es adecuado para creadores que necesitan voz de tren rápida y auténtica—y un efecto de sonido de silbido de tren cuando quieras impacto—con resultados precisos y de alta fidelidad."
+        },
+        {
+          "question": "¿Cómo funciona el generador?",
+          "answer": "La herramienta usa un pipeline en varias etapas para convertir texto en voz de tren y audio ferroviario de alta calidad. Analiza tu descripción para capturar tono, estilo y contexto, y lo procesa en redes neuronales entrenadas para síntesis de estación y anuncios. Puedes pedir señales cortas para la interfaz o ambiente más largo, más un efecto de sonido de silbido de tren cuando haga falta. Cada clip de voz de tren cumple los estándares de emisión."
+        },
+        {
+          "question": "¿Qué hace único a este generador de voz de tren?",
+          "answer": "Nuestro generador destaca por la personalización instantánea y la calidad profesional. A diferencia de bibliotecas estáticas, crea voz de tren a medida bajo demanda. Entrenado con muestras de alta calidad, ofrece voz de estación realista y estilos de anuncio variados. Obtienes variaciones ilimitadas de voz de tren y un efecto de sonido de silbido de tren cuando lo necesites, con control fino."
+        },
+        {
+          "question": "¿Cómo escribo prompts efectivos para voz de tren?",
+          "answer": "Escribe descripciones claras y concretas con varios detalles. Prueba \"voz de tren electrónica en andén\" o \"efecto de sonido de silbido de tren con reverb\". Incluye estilo, tono y contexto. El generador responde bien a términos como anuncio, estación, metro, andén y silbido. Más contexto da mejores resultados."
+        },
+        {
+          "question": "¿Cómo puedo usar voz de tren en contenido de vídeo?",
+          "answer": "Planifica las escenas de tu vídeo y coloca voz de tren personalizada donde aporten atmósfera. Crea audio de anuncio y ambiente para cada momento—desde señales sutiles de andén hasta un efecto de sonido dramático de silbido de tren. Superpone un efecto de sonido de silbido de tren con voz de tren para un audio rico y atractivo que subraya tiempo o lugar."
+        },
+        {
+          "question": "¿Cómo puedo usar el generador en el desarrollo de juegos?",
+          "answer": "Nuestro generador admite voz de tren procedural para juegos. Crea variaciones para que los jugadores rara vez escuchen el mismo clip dos veces. Produce opciones distintas para interfaz, niveles y eventos. Usa un efecto de sonido de silbido de tren para momentos clave. La herramienta ofrece clips de calidad profesional que mejoran la inmersión y el feedback."
+        },
+        {
+          "question": "¿Qué tipos de clips puedo crear?",
+          "answer": "Puedes crear una amplia gama de voz de tren: anuncios de estación, voz de andén electrónica, señales de metro, ambiente ferroviario y un efecto de sonido de silbido de tren para escenas. La herramienta ofrece resultados de voz de tren y efecto de sonido de silbido de tren profesionales para cualquier proyecto."
+        },
+        {
+          "question": "¿Los clips generados están libres de regalías?",
+          "answer": "Sí. Todos los clips de nuestro generador están libres de regalías e incluyen licencia comercial. Puedes usar los clips generados en cualquier proyecto sin costes adicionales ni atribución. Cada clip está autorizado para uso inmediato en trabajo profesional y comercial."
+        },
+        {
+          "question": "¿Qué calidad produce el generador?",
+          "answer": "Nuestro generador produce voz de tren de nivel profesional que cumple los estándares de la industria. Tienes opciones en alta resolución hasta 192 kHz/24 bits, rango de frecuencias completo y dinámica controlada. Cada clip y salida de efecto de sonido de silbido de tren está listo para emisión y es adecuado para producción profesional y proyectos creativos."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "train-noises": {
+    "meta": {
+      "title": "Ruídos de trem",
+      "description": "Crie ruídos de trem instantaneamente com nossa tecnologia de IA avançada. Gere vários tipos de áudio, incluindo tons naturais, instrumentos musicais e mais.",
+      "keywords": "ruídos trem, ruído ferroviário"
+    },
+    "hero": {
+      "title": "Ruídos de trem",
+      "subtitle": "Transforme descrições em texto em ruídos de trem de alta qualidade na hora"
+    },
+    "generator_subtitle": "Escolha entre os prompts populares abaixo ou escreva sua própria descrição para gerar ruídos de trem",
+    "advantages": {
+      "title": "Por que escolher nosso gerador de ruídos de trem?",
+      "items": [
+        {
+          "title": "Criação instantânea de ruídos de trem",
+          "description": "Crie ruídos de trem profissionais e clipes de ruído ferroviário instantaneamente a partir de texto. Nossa IA transforma suas descrições em ambiência de cabine, clipes de rodagem e atmosfera de estação em segundos—sem bibliotecas de amostras ou edição manual. Precisa de ruído ferroviário sutil ou ruídos de trem completos para uma cena? Gere variações ilimitadas com qualidade pronta para transmissão para qualquer projeto.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Possibilidades criativas ilimitadas",
+          "description": "Crie qualquer estilo que imaginar: interior da cabine, ambiência de estação, ruído ferroviário ou clipes em camadas. A ferramenta entende descrições detalhadas e dá liberdade criativa total. Explore opções infinitas para vídeos, jogos e aplicativos—de ruído ferroviário sutil a ruídos de trem ricos para cinema.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualidade de áudio profissional",
+          "description": "Cada clip do nosso gerador atende aos padrões de transmissão com saída de alta fidelidade. Algoritmos de ponta garantem ambiência e ruído ferroviário de qualidade de estúdio. Todos os clips estão prontos para produção e otimizados para uso profissional, com cobertura total de frequência e resultados naturais e imersivos.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "FAQ Ruídos de trem",
+      "items": [
+        {
+          "question": "O que é um gerador de ruídos de trem?",
+          "answer": "Nosso gerador é uma ferramenta de IA que transforma texto em ambiência e ruído ferroviário personalizados. Usa processamento de linguagem natural e síntese neural para produzir ruídos de trem profissionais e clipes de rodagem. Você pode criar atmosfera de cabine, estação ou plataforma—ou combinar sua cena com ruído ferroviário sutil. Atende criadores, editores de vídeo e desenvolvedores de jogos que precisam de saída rápida e autêntica com resultados precisos e de alta fidelidade."
+        },
+        {
+          "question": "Como o gerador funciona?",
+          "answer": "A ferramenta usa um pipeline em várias etapas para transformar texto em ambiência e clipes de alta qualidade. Ela analisa sua descrição para capturar atmosfera, estilo e contexto, depois processa isso em redes neurais treinadas para síntese de cabine e estação. Você pode pedir clipes curtos para a interface ou ruídos de trem mais longos para ambiência. Cada clip atende aos padrões de transmissão."
+        },
+        {
+          "question": "O que torna este gerador de ruídos de trem único?",
+          "answer": "Nosso gerador se destaca pela personalização instantânea e qualidade profissional. Diferente de bibliotecas estáticas, ele cria clipes sob medida sob demanda. Treinado com amostras de alta qualidade, entrega ruídos de trem realistas e ruído ferroviário. Você obtém variações ilimitadas e liberdade criativa com controle fino."
+        },
+        {
+          "question": "Como escrevo prompts eficazes para ruídos de trem?",
+          "answer": "Escreva descrições claras e específicas. Tente \"ruídos de trem dentro da cabine\" ou \"ruído ferroviário na plataforma\". Inclua estilo, intensidade e contexto. O gerador responde bem a termos como cabine, estação, rodagem, ambiência e ruído ferroviário. Mais contexto gera melhores resultados."
+        },
+        {
+          "question": "Como posso usar ruídos de trem em conteúdo de vídeo?",
+          "answer": "Mapeie as cenas do seu vídeo e coloque clipes personalizados onde agregam atmosfera. Crie áudio de cabine e estação para cada momento—de fundo sutil a hits dramáticos. Empilhe ruído ferroviário com ruídos de trem para um áudio rico e envolvente que destaca tempo ou lugar."
+        },
+        {
+          "question": "Como posso usar o gerador no desenvolvimento de jogos?",
+          "answer": "Nosso gerador suporta ambiência e clipes procedurais para jogos. Crie variações de cabine e estação para os jogadores raramente ouvirem o mesmo clip duas vezes. Produza opções diferentes para interface, fases e eventos mantendo um estilo consistente. A ferramenta entrega ruídos de trem de qualidade profissional que aumentam imersão e feedback."
+        },
+        {
+          "question": "Que tipos de clips posso criar?",
+          "answer": "Você pode criar uma ampla gama: interior da cabine, rodagem, ambiência de estação, ruído ferroviário e atmosfera de plataforma. Estilos de suave a alto (realista, cinematográfico, vintage). A ferramenta trata esses com qualidade consistente e entrega resultados profissionais para qualquer projeto."
+        },
+        {
+          "question": "Os clips gerados são livres de royalties?",
+          "answer": "Sim. Todos os clips do nosso gerador são livres de royalties e incluem licença comercial. Você pode usar os clips gerados em qualquer projeto sem taxas extras ou atribuição. Cada clip está liberado para uso imediato em trabalho profissional e comercial."
+        },
+        {
+          "question": "Qual qualidade o gerador produz?",
+          "answer": "Nosso gerador produz ambiência de nível profissional que atende aos padrões da indústria. Você tem opções em alta resolução até 192 kHz/24-bit, faixa de frequência completa e dinâmica controlada. Cada clip está pronto para transmissão e adequado para produção profissional e projetos criativos."
+        }
+      ]
+    }
+  }
+}

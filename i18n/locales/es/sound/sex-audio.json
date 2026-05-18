@@ -1,0 +1,71 @@
+{
+  "sex-audio": {
+    "meta": {
+      "title": "Audio sexual",
+      "description": "Crea audio sexual al instante con nuestra avanzada tecnologia de IA. Genera varios tipos de sonidos, incluidos sonidos naturales, instrumentos musicales y mas.",
+      "keywords": "audio sexual, sonido de orgasmo"
+    },
+    "hero": {
+      "title": "Audio sexual",
+      "subtitle": "Transforma al instante descripciones en texto en audio sexual de alta calidad"
+    },
+    "generator_subtitle": "Elige entre los prompts populares de abajo o escribe tu propia descripcion para generar audio sexual",
+    "advantages": {
+      "title": "Por que elegir nuestro generador de audio sexual?",
+      "items": [
+        {
+          "title": "Creacion instantanea de audio sexual",
+          "description": "Genera audio sexual profesional y sonido de orgasmo al instante a partir de texto. En segundos convierte descripciones en vocales adultos y clips expresivos.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Posibilidades creativas ilimitadas",
+          "description": "Crea el estilo que necesites: intensidad variada, diferentes ambientes o sonido de orgasmo para impacto.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Calidad de audio profesional",
+          "description": "Todo audio sexual generado cumple estandares de produccion con salida de alta fidelidad.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Sobre el generador de audio sexual",
+      "items": [
+        {
+          "question": "Que es un generador de audio sexual?",
+          "answer": "Es una herramienta de IA que convierte texto en vocales adultos personalizados y audio expresivo, con opciones de sonido de orgasmo."
+        },
+        {
+          "question": "Como funciona?",
+          "answer": "Analiza la descripcion de texto y sintetiza una voz correspondiente con la intensidad y estilo indicados."
+        },
+        {
+          "question": "Que lo hace unico?",
+          "answer": "A diferencia de bibliotecas fijas, crea nuevas variaciones de audio sexual bajo demanda a partir de texto simple."
+        },
+        {
+          "question": "Como escribir prompts eficaces?",
+          "answer": "Usa descripciones claras y concretas, por ejemplo: \"vocal suave\" o \"sonido de orgasmo intenso para impacto\"."
+        },
+        {
+          "question": "Como usar el audio generado en contenido?",
+          "answer": "Usalo en video y proyectos de sonido: superpone vocales, añade sonido de orgasmo para impacto o combinalo con otros elementos."
+        },
+        {
+          "question": "Que tipos de audio puedo crear?",
+          "answer": "Desde suave hasta intenso, con diferentes intensidades y ambientes para varios proyectos."
+        },
+        {
+          "question": "El audio sexual generado es libre de derechos?",
+          "answer": "Si. Todo el audio es royalty-free e incluye licencia comercial."
+        },
+        {
+          "question": "Cual es la calidad del audio generado?",
+          "answer": "Audio de nivel profesional con alta resolucion, rango completo de frecuencia y dinamica controlada."
+        }
+      ]
+    }
+  }
+}

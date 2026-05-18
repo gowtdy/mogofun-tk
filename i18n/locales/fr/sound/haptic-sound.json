@@ -1,0 +1,71 @@
+{
+  "haptic-sound": {
+    "meta": {
+      "title": "Son haptique",
+      "description": "Créez un son haptique instantanément avec notre technologie IA avancée. Générez divers types d'audio : tons naturels, instruments musicaux et plus.",
+      "keywords": "son haptique, sons haptiques"
+    },
+    "hero": {
+      "title": "Son haptique",
+      "subtitle": "Transformez instantanément une description textuelle en son haptique de haute qualité"
+    },
+    "generator_subtitle": "Choisissez parmi les invites populaires ci-dessous ou rédigez votre propre description pour générer un son haptique",
+    "advantages": {
+      "title": "Pourquoi choisir notre générateur ?",
+      "items": [
+        {
+          "title": "Création instantanée de son haptique",
+          "description": "Créez des clips de son haptique professionnels instantanément à partir de texte avec notre générateur IA. L'outil transforme vos idées en audio de retour tactile de haute qualité en quelques secondes, sans banques d'échantillons ni montage manuel. Générez des variations illimitées pour apps, jeux et interface. Que vous ayez besoin d'un bruit sourd, d'un clic de capture d'écran ou d'une tonalité de vibration personnalisée, le générateur livre une sortie en qualité studio. Les sons haptiques pour notifications et interactions sont faciles à produire en quelques clics.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Possibilités créatives illimitées",
+          "description": "Utilisez notre générateur pour créer tout style de son haptique que vous imaginez—des tapotements doux aux impacts forts. L'outil comprend les descriptions complexes et vous donne une liberté créative totale. Explorez des options adaptées aux apps mobiles, jeux et interfaces. Des retours subtils aux sons haptiques marqués, obtenez le clip parfait pour chaque scénario. Créez des retours tactiles variés pour boutons, alertes et gestes.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualité audio professionnelle",
+          "description": "Chaque son haptique de notre générateur respecte les normes de diffusion avec une sortie haute fidélité. Des algorithmes de pointe garantissent des résultats en qualité studio. Toute la sortie sons haptiques est prête pour la production et optimisée pour un usage professionnel. Le générateur offre une couverture fréquentielle complète et une dynamique maîtrisée pour un retour tactile authentique. Sons haptiques qui paraissent naturels dans toute app ou jeu.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "FAQ générateur",
+      "items": [
+        {
+          "question": "Qu'est-ce qu'un générateur de son haptique ?",
+          "answer": "C'est un outil IA qui transforme des descriptions textuelles en son haptique personnalisé et audio de retour tactile. Le nôtre utilise le traitement du langage naturel et la synthèse neuronale audio pour produire des clips de sons haptiques de qualité professionnelle. Vous pouvez créer des retours pour notifications, tapotements d'interface ou usage jeu. Il convient aux développeurs d'apps, designers de jeux et créateurs de contenu qui ont besoin de sons haptiques rapides et authentiques. Le générateur livre un son haptique précis et haute fidélité pour tout projet."
+        },
+        {
+          "question": "Comment ça fonctionne ?",
+          "answer": "Notre générateur utilise un pipeline en plusieurs étapes pour transformer le texte en audio de haute qualité. Il analyse d'abord votre description pour capturer des traits comme l'intensité, la durée et le style. Ces informations passent par des réseaux neuronaux entraînés pour la synthèse d'impact et de retour. Entraînée sur des échantillons professionnels, l'IA produit un retour haptique naturel. Le filtrage et le post-traitement maintiennent une qualité élevée et garantissent que chaque clip sons haptiques respecte les normes de diffusion."
+        },
+        {
+          "question": "Qu'est-ce qui rend ce générateur unique ?",
+          "answer": "Notre générateur se distingue par la personnalisation instantanée et la qualité professionnelle. Contrairement aux banques statiques, il crée des clips de retour haptique et tactile sur mesure à la demande. Le système comprend les descriptions complexes et produit une sortie avec un contrôle fin du punch et du ton. Vous obtenez des variations illimitées et une liberté créative. Les sons haptiques pour apps et jeux sont faciles à adapter sans travail de production supplémentaire."
+        },
+        {
+          "question": "Comment rédiger des invites efficaces ?",
+          "answer": "Rédigez des descriptions claires et précises. Essayez « effet bruit sourd » ou « ton capture iPhone ». Pour un son haptique, dites « ton minuit » ou « tapotement doux ». Incluez l'intensité, la durée et le contexte. Notre générateur répond bien aux termes comme vibration, tapotement et impact. Plus de contexte donne de meilleurs résultats pour son haptique et sons haptiques."
+        },
+        {
+          "question": "Comment utiliser le générateur dans les apps ?",
+          "answer": "Placez des clips de retour haptique personnalisés où les utilisateurs tapent ou reçoivent des alertes. Le générateur vous aide à créer son haptique et sons haptiques pour boutons, notifications et gestes. Superposez des variations de sons haptiques pour une UX riche et engageante. Utilisez-le pour apps mobiles, wearables et interfaces. L'outil vous permet de construire un style audio unique qui correspond à votre produit. Les sons haptiques améliorent la clarté et la satisfaction dans toute app."
+        },
+        {
+          "question": "Quels types de son haptique puis-je créer ?",
+          "answer": "Vous pouvez créer une large gamme de son haptique : bruit sourd, clic capture d'écran, tapotement doux, impact fort et styles de vibration personnalisés. Le générateur traite ces catégories de son haptique et sons haptiques avec une qualité constante. Que vous ayez besoin d'un retour subtil ou de clips marqués pour jeux et apps, l'outil livre des résultats professionnels. Les sons haptiques pour notifications et interface sont pris en charge avec un contrôle créatif total."
+        },
+        {
+          "question": "Les clips générés sont-ils libres de droits ?",
+          "answer": "Oui. Tout l'audio de notre générateur est libre de droits et inclut une licence commerciale. Vous pouvez utiliser les clips de son haptique et sons haptiques générés dans tout projet sans frais supplémentaires ni attribution. Chaque clip est autorisé pour une utilisation immédiate en usage professionnel et commercial, y compris apps et jeux."
+        },
+        {
+          "question": "Quelle qualité produit le générateur ?",
+          "answer": "Il produit un son haptique de qualité professionnelle qui respecte les normes de l'industrie. Vous obtenez des options haute résolution pour les sons haptiques, une plage de fréquences complète et une dynamique maîtrisée. Toute la sortie est prête pour la diffusion et convient à la production professionnelle, aux apps et aux projets créatifs."
+        }
+      ]
+    }
+  }
+}

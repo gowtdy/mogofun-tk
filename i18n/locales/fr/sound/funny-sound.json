@@ -1,0 +1,79 @@
+{
+  "funny-sound": {
+    "meta": {
+      "title": "Son drôle",
+      "description": "Créez un son drôle unique grâce à une IA avancée d'effets sonores : nature, instruments et bien plus.",
+      "keywords": "son drôle, effets drôles"
+    },
+    "hero": {
+      "title": "Son drôle",
+      "subtitle": "Transformez vos descriptions textuelles en son drôle de haute qualité"
+    },
+    "generator_subtitle": "Choisissez une suggestion ci-dessous ou rédigez votre propre description pour générer un son drôle",
+    "advantages": {
+      "title": "Pourquoi choisir notre plateforme IA pour son drôle ?",
+      "items": [
+        {
+          "title": "Un son drôle en quelques secondes à partir de texte simple",
+          "description": "Décrivez un gag, une réaction ou un moment de dessin animé en langage courant et recevez un audio presque instantanément. Notre IA d'effets sonores évite de parcourir d'immenses bibliothèques ou de monter à la main, pour vous concentrer sur le timing et la narration. Chaque passage son drôle affine les punchlines : régénérez jusqu'à ce que le son drôle colle à l'image, comparez deux prises son drôle, gardez le meilleur son drôle et archivez le son drôle de secours pour un autre beat.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Façonnez les effets drôles pour chaque scène",
+          "description": "Ajustez l'humeur, l'intensité et la texture pour que vos effets drôles soutiennent chaque punchline—pas du bruit générique. Le modèle accepte des prompts en couches pour itérer vite sur les shorts, streams, podcasts ou montages clients jusqu'au ton juste. Placez les effets drôles sous le dialogue avec soin : quand le mix est saturé, simplifiez ; quand les effets drôles ont besoin d'air, élargissez l'étagère EQ. Associez une touche son drôle à des effets drôles sobres pour que le son drôle reste percutant.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Sortie cohérente, prête pour la diffusion",
+          "description": "Les exports sont équilibrés pour la clarté sur enceintes et casques, adaptés aux réseaux, jeux ou livraison commerciale. Chaque clip généré garde un caractère sonore stable, réduisant le mastering supplémentaire tout en restant pro. Traitez chaque son drôle au même objectif de niveau pour que les épisodes s'alignent ; revoyez une tige son drôle après le verrouillage image, puis imprimez le son drôle final pour livraison.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Son drôle et effets drôles : questions fréquentes",
+      "items": [
+        {
+          "question": "À quoi sert cet outil son drôle ?",
+          "answer": "Il transforme de courts prompts texte en audio comique personnalisé par synthèse IA. Vous décrivez l'idée—boings de cartoon, silences gênants, réactions exagérées—et le système rend un clip original sans fouiller les banques. Les créateurs l'utilisent pour des clips comiques polis sans matériel ni studio complet. Les équipes versionnent souvent un son drôle pour les teasers, un second pour les épisodes complets, puis insèrent un autre son drôle dans les tags. Étiquetez chaque son drôle clairement pour que le monteur choisisse du premier coup."
+        },
+        {
+          "question": "Comment le générateur transforme-t-il le texte en audio ?",
+          "answer": "Votre prompt est analysé pour l'intention, les indices de timing et les indices acoustiques. Des modèles neuronaux entraînés sur des données variées prédisent des formes d'onde conformes à la description, puis un léger post-traitement nivele et adoucit. Le flux est itératif : modifiez quelques mots, régénérez, comparez jusqu'à ce que ça colle au montage. Si un son drôle semble maigre, enrichissez les verbes ; s'il clippe, domptez la dynamique. Itérez chaque son drôle jusqu'à ce que le son drôle maître verrouille la scène."
+        },
+        {
+          "question": "Comment écrire des prompts pour de meilleurs effets drôles ?",
+          "answer": "Nommez l'action, le personnage ou l'objet, et l'ambiance—sec, slapstick, impassible ou chaotique. Mentionnez l'espace (petite pièce vs salle) si la réverbération compte. Le moteur répond aussi à des indices techniques comme « court sting » ou « queue douce ». Le précis bat le vague : comparez « grincement de caoutchouc rapide » à « effets drôles pour une chute maladroite » et affinez. Classez les effets drôles par humeur, dupliquez les familles pour les suites ; quand les effets drôles luttent contre la musique, passez-haut pour enlever la boue ; pour du poids, ajoutez des lits de soutien sous la pile."
+        },
+        {
+          "question": "Puis-je utiliser la sortie sur YouTube ou TikTok ?",
+          "answer": "Oui. Les clips visent les flux créateurs sur les grandes plateformes vidéo et courtes. Associez chaque piste à l'action à l'écran pour un impact maximal, et variez les prises pour éviter la fatigue. Respectez toujours les dernières règles de contenu et de droits d'auteur de chaque plateforme."
+        },
+        {
+          "question": "Est-ce utile pour l'audio de jeu ou d'app ?",
+          "answer": "Les designers prototypent souvent le retour UI, les power-ups et les beats comiques avant une bibliothèque complète. Générez des variations d'une même idée pour que les déclencheurs restent frais sur de longues sessions. Une fois la prise validée, standardisez sur les builds ou créez des alternatives pour rares événements."
+        },
+        {
+          "question": "Quels types d'audio comique puis-je demander ?",
+          "answer": "Demandes typiques : impacts cartoon, voix loufoques, foley exagéré, stings proches des mèmes, blagues musicales légères. Vous pouvez mélanger les catégories—pensez à une percussion fantasiste sous une gamelle. Pour un lit comique et des accents nets, décrivez-les en couches séparées dans un prompt ou lancez deux générations et mixez dans votre DAW. Empilez des effets drôles complémentaires pour les montages ; coupez les effets drôles surchargés pendant le dialogue ; éclaircissez les stings clairsemés quand l'énergie baisse."
+        },
+        {
+          "question": "Comment éviter de surutiliser les mêmes effets drôles ?",
+          "answer": "Demandez des performances alternatives : changez adjectifs, longueur ou registre. De légers ajustements de prompt donnent souvent des timbres nettement différents. Faire tourner les effets drôles évite la répétition dans sketches, jeux et pubs tout en gardant un style comique cohérent."
+        },
+        {
+          "question": "Les téléchargements sont-ils libres de droits pour le commercial ?",
+          "answer": "Les sorties sont fournies pour un usage commercial et personnel large sous la licence produit affichée au téléchargement. Vous pouvez généralement intégrer l'audio dans pubs, apps ou contenu payant sans frais de synchro supplémentaires. Conservez une copie des conditions et relisez-les quand la politique produit change."
+        },
+        {
+          "question": "Quelle qualité audio puis-je attendre ?",
+          "answer": "Les fichiers sont en haute résolution, adaptés au montage et à la livraison finale après un mastering léger si vous le souhaitez. Plage dynamique et plancher de bruit maîtrisés pour que chaque piste se place proprement à côté du dialogue et de la musique. Pour diffusion ou cinéma, appliquez vos normes de niveau maison comme pour toute autre source."
+        },
+        {
+          "question": "Qui profite le plus de l'audio comique généré par IA ?",
+          "answer": "Monteurs, développeurs indépendants, enseignants et équipes social gagnent du temps quand les délais sont serrés. Toute personne ayant besoin d'audio comique crédible ou d'effets drôles sur mesure sans séance d'enregistrement peut itérer en minutes. Les grands studios peuvent l'utiliser comme audio brouillon avant enregistrements sur mesure. Étiquetez les bobines SFX séparément pour auditer facilement les effets drôles de secours pendant les revues de mix."
+        }
+      ]
+    }
+  }
+}

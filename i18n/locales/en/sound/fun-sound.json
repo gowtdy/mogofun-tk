@@ -1,0 +1,71 @@
+{
+  "fun-sound": {
+    "meta": {
+      "title": "Fun Sound",
+      "description": "Instantly create fun sound with our advanced AI technology. Generate various type sounds including natural sounds, musical instruments and more.",
+      "keywords": "fun sound, sounds funny"
+    },
+    "hero": {
+      "title": "Fun Sound",
+      "subtitle": "Instantly transform text description into high-quality fun sound"
+    },
+    "generator_subtitle": "Select from popular prompts below or write your own description to generate fun sound",
+    "advantages": {
+      "title": "Why Choose Our Fun Sound Generator?",
+      "items": [
+        {
+          "title": "Fun Sound from Text in Seconds",
+          "description": "Describe a playful bounce, cartoon zip, or cheeky sting and get a mix-ready clip without recording gear or deep library dives. The model reads energy, length, and texture so each take feels intentional for shorts, games, or classroom demos. Iterate quickly when you need a fresh beat for every upload. Batch alternate fun sound options each sprint, A/B a fun sound against picture, and check that the winning fun sound still sounds funny after a light limiter.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Character That Fits Sketches and Social Cuts",
+          "description": "Ask for deadpan, exaggerated, or softly whimsical tones; clearer adjectives yield tighter matches. Mention pacing or reference scenes so the output lines up with your edit. Export short tails that loop cleanly when you prototype UI or sticker reactions. Map every fun sound variant to a character beat so the fun sound library stays consistent, and trim tails until each sting sounds funny beside on-screen text.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Predictable Loudness for Real Timelines",
+          "description": "Files aim for clear transients and even levels so normalization and limiting stay simple in your DAW. Results translate well to phone speakers, which matters when a punchline has to land in noisy feeds. Publish fun sound with measured peaks, hand off the fun sound to audio post, and confirm the bounce sounds funny when listeners scroll with half their attention.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "About Our Fun Sound Generator",
+      "items": [
+        {
+          "question": "What is a fun sound generator?",
+          "answer": "It is an AI workflow that synthesizes a single playful clip from plain text instead of capturing foley yourself. You name the gesture, mood, and context—rubbery boing, smug ping, retro slide—and download a file suited to lightweight edits and prototypes. Teams export a fun sound per storyline, compare takes until the fun sound matches the joke, and verify the fun sound still sounds funny on cheap earbuds."
+        },
+        {
+          "question": "How does this generator turn prompts into audio?",
+          "answer": "The system infers traits like brightness, decay, and comedic timing from your wording, then renders audio aligned with that brief. Adjust verbs, references, or intensity notes between passes until the cue matches your gag or transition. Each revision tightens fun sound envelope and tags the fun sound for your asset bin so the poke sounds funny exactly on the frame you cut."
+        },
+        {
+          "question": "Why not just use stock libraries?",
+          "answer": "Libraries recycle the same performances. Here each render can be unique because output follows your sentence-level direction, which helps when you need a beat no catalog loop quite matches. Generic fun sound packs rarely feel bespoke, so regenerate until the fun sound lands your punchline and the timing sounds funny next to your caption animation."
+        },
+        {
+          "question": "How should I write prompts for a fun sound?",
+          "answer": "Pair an action word with a mood and optional genre cue. Examples such as \"quick squeaky honk for a prank reveal\" or \"soft slide under a dad joke\" outperform one-word requests. Mention speaker size or distance if you need the clip to sit realistically in a scene. Call out contrast if you need the fun sound after silence so the pop sounds funny without clipping."
+        },
+        {
+          "question": "How do I know a take works for short-form video?",
+          "answer": "Creators often want one fun sound that sounds funny in the opening second of a reel yet stays clear beside voiceover. Preview on phone speakers after export so you can confirm it still sounds funny once compression trims the highs. Duplicate the fun sound to a safety track, level-match the fun sound against music, and reject any fun sound that stops sounding funny when the codec smears the top end."
+        },
+        {
+          "question": "What kinds of tones can I explore beyond a basic playful clip?",
+          "answer": "Try rubber impacts, tiny brass stabs, faux-8-bit bleeps, or whispery whooshes. Adding a setting—arcade lobby, office sitcom, sci-fi panel—keeps the humor coherent with your visuals. Build companion fun sound layers for reactions, stash bonus fun sound stingers for callbacks, and audition them until the stack sounds funny without masking dialogue."
+        },
+        {
+          "question": "Is the generated audio royalty-free?",
+          "answer": "Yes. Downloads are royalty-free for typical creator and commercial use under our license, without extra per-clip fees. Review the latest terms on the product page before large campaigns or broadcast placements. You can bundle the fun sound in client reels, reuse the fun sound across episodes when the license allows, and distribute cuts where the joke sounds funny in every territory you cover."
+        },
+        {
+          "question": "What quality should I expect from exports?",
+          "answer": "Expect full-range clarity suited to editing suites and mobile playback. Run your usual mastering chain if you need broadcast-loud delivery so each playful cue balances evenly with narration and music. Loudness-match every fun sound in the episode, archive the fun sound masters lossless, and confirm each fun sound sounds funny on studio monitors and on phones so the joke sounds funny everywhere."
+        }
+      ]
+    }
+  }
+}

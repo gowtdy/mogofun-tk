@@ -1,0 +1,79 @@
+{
+  "sound-effect-board": {
+    "meta": {
+      "title": "Sound-Effekt-Board",
+      "description": "Erstellen Sie einzigartige Soundeffekte mit unserem Sound-Effekt-Board, das verschiedene Typen generiert, einschließlich Naturgeräusche, Musikinstrumente und mehr.",
+      "keywords": "Sound-Effekt-Board, Soundeffekte Soundboard"
+    },
+    "hero": {
+      "title": "Sound-Effekt-Board",
+      "subtitle": "Verwandeln Sie Ihre Textbeschreibungen in hochwertige Soundeffekte"
+    },
+    "generator_subtitle": "Wählen Sie aus den beliebten Eingabeaufforderungen unten oder schreiben Sie Ihre eigene Beschreibung, um Soundeffekte zu generieren",
+    "advantages": {
+      "title": "Warum unser Sound-Effekt-Board wählen?",
+      "items": [
+        {
+          "title": "Sofortige Sound-Effekt-Erstellung",
+          "description": "Generieren Sie professionelle Effekte sofort aus Text mit unserem Sound-Effekt-Board. Das Soundeffekte-Soundboard verwandelt Ihre Ideen in Sekunden in hochwertige Audioinhalte und macht große Bibliotheken oder manuelle Bearbeitung überflüssig. Erstellen Sie mit wenigen Klicks unbegrenzte Effekt-Assets für jedes Projekt mit unserem Sound-Effekt-Board.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Unbegrenzte kreative Möglichkeiten",
+          "description": "Erstellen Sie jeden Effekttyp, den Sie sich vorstellen können, von natürlicher Atmosphäre bis hin zu futuristischen Audio-Texturen. Unser Sound-Effekt-Board versteht detaillierte Eingabeaufforderungen und produziert das, was Sie sich vorstellen. Erkunden Sie mit diesem vielseitigen Soundeffekte-Soundboard Variationen, die auf Ihre Bedürfnisse zugeschnitten sind.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professionelle Audioqualität",
+          "description": "Jeder Effekt wird mit hochwertiger Ausgabe und ausgewogener Dynamik generiert. Unser Sound-Effekt-Board liefert produktionsreife Audioinhalte, und das Soundeffekte-Soundboard hilft dabei, die Ergebnisse in allen Workflows konsistent zu halten.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Über das Sound-Effekt-Board",
+      "items": [
+        {
+          "question": "Was ist ein Sound-Effekt-Board?",
+          "answer": "Ein Sound-Effekt-Board ist ein Tool, das Textbeschreibungen mithilfe von KI in benutzerdefinierte Audioeffekte umwandelt. Ein Audioeffekte-Soundboard hilft Kreativen, schnell Effekt-Assets für Inhalte, Spiele und interaktive Erfahrungen zu generieren, mit konsistenter, bearbeitbarer Ausgabe."
+        },
+        {
+          "question": "Wie funktioniert das Sound-Effekt-Board?",
+          "answer": "Das Sound-Effekt-Board analysiert Ihre Eingabeaufforderung (Quelle, Umgebung, Intensität, Dauer), ordnet sie akustischen Attributen zu und generiert dann Audio mit neuronalen Modellen. Das Soundeffekte-Soundboard schließt mit leichter Verarbeitung ab, sodass die Ausgaben sauber, stabil und bearbeitungsbereit sind."
+        },
+        {
+          "question": "Was macht dieses Sound-Effekt-Board einzigartig?",
+          "answer": "Dieses Sound-Effekt-Board konzentriert sich auf schnelle Iteration und kontrollierbare Variationen. Anstatt durch Packs zu stöbern, beschreiben Sie, was Sie benötigen, und das Soundeffekte-Soundboard generiert Optionen, die kohärent bleiben und die Produktion beschleunigen."
+        },
+        {
+          "question": "Wie schreibe ich effektive Eingabeaufforderungen zur Generierung von Audioeffekten?",
+          "answer": "Schreiben Sie Eingabeaufforderungen mit Details: Quelle (\"Metallschlag\"), Umgebung (\"Lagerhaus\"), Entfernung (\"nah\") und Timing (\"0,8s Ausklang\"). Fügen Sie Modifikatoren wie \"gedämpft\" oder \"hell\" hinzu, damit das Sound-Effekt-Board Effekte generieren kann, die zu Ihrer Mischung passen. Das Soundeffekte-Soundboard funktioniert am besten mit klarem Kontext und Einschränkungen."
+        },
+        {
+          "question": "Wie verwende ich Audioeffekte effektiv in Videoinhalten?",
+          "answer": "Verwenden Sie das Sound-Effekt-Board, um Effekte für Übergänge, Einschläge und Atmosphärenbetten zu generieren. Erstellen Sie einige ähnliche Varianten, schichten Sie sie dann und automatisieren Sie die Pegel unter dem Dialog. Das Soundeffekte-Soundboard hilft dabei, Bearbeitungen schnell und die Mischung natürlich zu halten."
+        },
+        {
+          "question": "Wie nutze ich Audioeffekte in der Spieleentwicklung?",
+          "answer": "Verwenden Sie in Spielen das Sound-Effekt-Board, um Effektfamilien (Schritte, UI-Klicks, Fähigkeiten) mit Variationen zu erstellen, um Wiederholungen zu reduzieren. Das Soundeffekte-Soundboard hilft auch dabei, Atmosphäre früh zu prototypisieren und später für den finalen Schliff zu verfeinern."
+        },
+        {
+          "question": "Wie erstelle ich effektives weißes Rauschen und Ambient-Audio?",
+          "answer": "Beschreiben Sie Textur und Bewegung (\"weiches braunes Rauschen mit sanfter Luft\" oder \"Raumton mit entferntem Verkehr\"). Das Audioeffekt-Board kann geschichtete Atmosphäre generieren, die Sie schleifen und ausblenden können, und das Soundeffekte-Soundboard hilft Ihnen, schnell zu iterieren."
+        },
+        {
+          "question": "Welche Arten von Audioeffekten kann ich erstellen?",
+          "answer": "Mit dem Sound-Effekt-Board können Sie Effekte in vielen Kategorien erstellen: Naturatmosphäre, mechanische Einschläge, UI-Feedback, filmische Hits, Sci-Fi-Texturen, musikalische Elemente und Raumton. Das Soundeffekte-Soundboard unterstützt sowohl schnelle Entwürfe als auch produktionsreife Ausgaben."
+        },
+        {
+          "question": "Sind die generierten Audioeffekte lizenzfrei?",
+          "answer": "Ja. Mit dem Audioeffekt-Board generierte Effekte sind lizenzfrei und für den kommerziellen Gebrauch geeignet. Sie können Ausgaben vom Soundeffekte-Soundboard in Projekten ohne zusätzliche Lizenzierungsschritte verwenden."
+        },
+        {
+          "question": "Wie ist die Qualität der generierten Audioeffekte?",
+          "answer": "Das Sound-Effekt-Board zielt auf saubere, professionelle Ausgabe mit stabiler Dynamik und niedrigen Artefakten ab. Für beste Ergebnisse generieren Sie einige Varianten im Soundeffekte-Soundboard, wählen Sie die natürlichste Version und führen Sie dann leichte EQ- oder Pegelanpassungen durch."
+        }
+      ]
+    }
+  }
+}

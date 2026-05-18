@@ -1,0 +1,75 @@
+{
+  "air-sound-effect": {
+    "meta": {
+      "title": "Efecto de sonido de aire",
+      "description": "Crea efecto de sonido de aire al instante con nuestra tecnología de IA avanzada. Genera distintos tipos de audio: tonos naturales, instrumentos musicales y más.",
+      "keywords": "efecto sonido aire, sonido aire"
+    },
+    "hero": {
+      "title": "Efecto de sonido de aire",
+      "subtitle": "Transforma descripciones de texto en efecto de sonido de aire de alta calidad al instante"
+    },
+    "generator_subtitle": "Elige entre las sugerencias populares de abajo o escribe tu propia descripción para generar efecto de sonido de aire",
+    "advantages": {
+      "title": "¿Por qué elegir nuestro generador de efecto de sonido de aire?",
+      "items": [
+        {
+          "title": "Creación instantánea de efecto de sonido de aire",
+          "description": "Crea efecto de sonido de aire profesional y clips atmosféricos al instante a partir de texto. Nuestra IA convierte tus descripciones en viento, whoosh y ambiente en segundos—sin bibliotecas de muestras ni edición manual. ¿Necesitas clips nítidos para la interfaz o atmósfera completa para una escena? Genera variaciones ilimitadas con calidad lista para emisión. Obtén sonido de aire auténtico para cualquier proyecto.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Posibilidades creativas ilimitadas",
+          "description": "Crea cualquier estilo que imagines: viento, whoosh, brisa o ambiente de aire. La herramienta entiende descripciones detalladas y te da libertad creativa total. Explora opciones infinitas para vídeos, juegos y aplicaciones. Desde sonido de aire sutil hasta audio atmosférico en capas para cine, obtén el clip adecuado para cada escenario.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Calidad de audio profesional",
+          "description": "Cada clip de nuestro generador de efecto de sonido de aire cumple los estándares de emisión con salida de alta fidelidad. Algoritmos punteros garantizan sonido de aire y audio atmosférico de calidad de estudio. Todos los clips están listos para producción y optimizados para uso profesional, con cobertura completa de frecuencias y resultados auténticos y naturales.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "FAQ Efecto de sonido de aire",
+      "items": [
+        {
+          "question": "¿Qué es un generador de efecto de sonido de aire?",
+          "answer": "Nuestro generador es una herramienta de IA que convierte texto en efecto de sonido de aire personalizado. Usa procesamiento de lenguaje natural y síntesis neuronal para producir clips profesionales—desde viento y whoosh hasta efectos atmosféricos. Es adecuado para creadores, editores de vídeo y desarrolladores de juegos que necesitan sonido de aire rápido y auténtico con resultados precisos y de alta fidelidad."
+        },
+        {
+          "question": "¿Cómo funciona el generador?",
+          "answer": "La herramienta usa un pipeline en varias etapas para convertir texto en clips de sonido de aire de alta calidad. Analiza tu descripción para capturar intensidad, estilo y contexto, y lo procesa en redes neuronales entrenadas para síntesis atmosférica y de viento. Puedes pedir clips cortos para la interfaz o ambiente más largo. Cada clip cumple los estándares de emisión."
+        },
+        {
+          "question": "¿Qué hace único a este generador de efecto de sonido de aire?",
+          "answer": "Nuestro generador destaca por la personalización instantánea y la calidad profesional. A diferencia de bibliotecas estáticas, crea sonido de aire a medida bajo demanda. Entrenado con muestras de alta calidad, ofrece resultados realistas. Obtienes variaciones ilimitadas y libertad creativa con control fino."
+        },
+        {
+          "question": "¿Cómo escribo prompts efectivos para efecto de sonido de aire?",
+          "answer": "Escribe descripciones claras y concretas. Prueba \"sonido de aire para viento\" o \"efecto de sonido de aire para whoosh\". Incluye estilo (realista, cinematográfico), intensidad y contexto. El generador responde bien a términos como viento, whoosh, brisa y ambiente. Más contexto da mejores resultados."
+        },
+        {
+          "question": "¿Cómo puedo usar efecto de sonido de aire en contenido de vídeo?",
+          "answer": "Planifica las escenas de tu vídeo y coloca clips de sonido de aire personalizados donde aporten impacto. Crea clips de viento y whoosh para cada momento—desde fondo sutil hasta hits dramáticos. Superpone audio atmosférico para resultados ricos y atractivos que subrayan tiempo o lugar."
+        },
+        {
+          "question": "¿Cómo puedo usar el generador en el desarrollo de juegos?",
+          "answer": "Nuestro generador admite clips de sonido de aire procedurales para juegos. Crea variaciones para que los jugadores rara vez escuchen el mismo clip dos veces. Produce opciones distintas para interfaz, niveles y eventos manteniendo un estilo coherente. La herramienta ofrece efecto de sonido de aire de calidad profesional que mejoran la inmersión y el feedback."
+        },
+        {
+          "question": "¿Qué tipos de efecto de sonido de aire puedo crear?",
+          "answer": "Puedes crear una amplia gama: viento, whoosh, brisa y ambiente de aire. Estilos de suave a fuerte (realista, cinematográfico, vintage). La herramienta maneja estos con calidad consistente. Obtén el sonido de aire adecuado para cualquier proyecto."
+        },
+        {
+          "question": "¿Los clips generados están libres de regalías?",
+          "answer": "Sí. Todos los clips de nuestro generador están libres de regalías e incluyen licencia comercial. Puedes usar el sonido de aire generado en cualquier proyecto sin costes adicionales ni atribución. Cada clip está autorizado para uso inmediato en trabajo profesional y comercial."
+        },
+        {
+          "question": "¿Qué calidad produce el generador?",
+          "answer": "Nuestro generador produce clips de nivel profesional que cumple los estándares de la industria. Tienes opciones en alta resolución hasta 192 kHz/24 bits, rango de frecuencias completo y dinámica controlada. Cada clip está listo para emisión y es adecuado para producción profesional y proyectos creativos."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "noise-buttons": {
+    "meta": {
+      "title": "Noise Buttons",
+      "description": "以我們先進的 AI 技術即時創作 noise buttons。可生成自然聲、樂器等多種類型。",
+      "keywords": "noise buttons, button noise"
+    },
+    "hero": {
+      "title": "Noise Buttons",
+      "subtitle": "即時把文字描述轉化為高品質 noise buttons 音訊"
+    },
+    "generator_subtitle": "從下方熱門提示中選擇，或自行撰寫描述以產生 noise buttons",
+    "advantages": {
+      "title": "為什麼選擇我們的 Noise Buttons 產生器？",
+      "items": [
+        {
+          "title": "數秒內產生 Noise Buttons 片段",
+          "description": "用簡單提示即可產生短促有力的提示音，無需錄音或複雜效果鏈。該流程便於團隊為應用互動、直播疊加層與社交剪輯快速交付 noise buttons，並保持時機與風格一致。",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "適配任意互動的靈活風格",
+          "description": "可微調起音、衰減與質感，使每條提示貼合你的使用者體驗或內容風格。可產生俐落點擊、帶質感敲擊與粗獷提醒音，再整理為 noise buttons 素材。可為不同互動添加有針對性的 button noise 變體，同時保持素材庫命名清楚。",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "專業級音質",
+          "description": "每次匯出都乾淨、可混音，在各裝置上穩定。受控動態與清晰瞬態有助於 noise buttons 素材庫從手機播放到桌面與串流媒體都保持良好聽感。",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "關於我們的 Noise Buttons 產生器",
+      "items": [
+        {
+          "question": "什麼是 noise buttons 產生器？",
+          "answer": "這是一種把文字提示轉為適用於介面、產品流程與內容編輯的短互動提示音的 AI 聲音工具。可為具體動作建立 noise buttons 集合，並在各頁面複用且保持品質一致。"
+        },
+        {
+          "question": "noise buttons 工具如何運作？",
+          "answer": "模型從描述中讀取時長、音色、衝擊力與播放情境，再合成匹配的音訊。從中性基線開始，迭代音色、質感與時機，直到每條提示契合你的介面與 button noise 使用情境。"
+        },
+        {
+          "question": "為什麼比靜態素材包更好？",
+          "answer": "靜態包容易顯得重複，也常需要額外清理。基於提示的產生可按需給出貼合場景的結果，使 noise buttons 體系在選單、提醒與轉場之間更有辨識度。"
+        },
+        {
+          "question": "怎樣寫提示更有效？",
+          "answer": "用簡潔指令寫清意圖與時機，例如「短促粗獷點擊」或「帶快衰減的暖色敲擊」。補充目標介面、時長與情緒等語境，可減少返工並提高一致性。"
+        },
+        {
+          "question": "能否針對 button noise 等相關搜尋做優化？",
+          "answer": "可以。以 noise buttons 為主用語，並在精選的元資料、標題或常見問題中適度加入 button noise，以符合相關搜尋意圖，同時保持正文可讀。"
+        },
+        {
+          "question": "產生的提示音適合用在哪裡？",
+          "answer": "適合遊戲介面事件、新手引導、社交短片、直播疊加層、問答互動與剪輯轉場等。結構化的 noise buttons 色板有助於團隊保持可識別的聽感標識，並針對不同使用者狀態試驗 button noise 變體。"
+        },
+        {
+          "question": "產生聲音是否免版稅？",
+          "answer": "是。在我們標準條款下，輸出對常見創作者與商業專案免版稅。大規模付費投放或特殊分發要求前請查閱當前許可細節。"
+        },
+        {
+          "question": "匯出品質可以期待什麼？",
+          "answer": "可期待瞬態清晰、峰值受控、各裝置播放行為可靠的成片向檔案。仍可用最終 EQ 與響度處理，使每條提示與全片混音及平台目標對齊。"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "moan-sounds": {
+    "meta": {
+      "title": "Moan Sounds",
+      "description": "Instantly create moan sounds with our advanced AI technology. Generate various type sounds including natural sounds, musical instruments and more.",
+      "keywords": "moan sounds, moan soundboard"
+    },
+    "hero": {
+      "title": "Moan Sounds",
+      "subtitle": "Instantly transform text description into high-quality moan sounds"
+    },
+    "generator_subtitle": "Select from popular prompts below or write your own description to generate moan sounds",
+    "advantages": {
+      "title": "Why Choose Our Moan Sounds Generator?",
+      "items": [
+        {
+          "title": "Instant Moan Sounds Creation",
+          "description": "Generate professional moan sounds and moan soundboard-style audio instantly from text. Our tool turns your descriptions into vocal moan and expressive clips in seconds—no large libraries or manual editing. Create unlimited variations for content, podcasts, or creative work. Whether you need subtle moan sounds, a focused moan soundboard row, or a full moan soundboard set, the generator delivers clean, production-ready results.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Unlimited Creative Possibilities",
+          "description": "Create any style you need: varied intensity, different moods, or moan soundboard collections for different scenes. The generator understands detailed descriptions and produces matching output for full creative freedom. Explore variations for audio projects, content, and creative work. From soft to intense, you can build a moan soundboard that fits every project and workflow.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professional-Grade Audio Quality",
+          "description": "All moan sounds generated meet production standards with high-fidelity output. The generator uses modern algorithms so each clip is clear and ready to use. Outputs are optimized for content, audio, and media. Get consistent, studio-quality results for your work.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "About Moan Sounds Generator",
+      "items": [
+        {
+          "question": "What is a moan sounds generator?",
+          "answer": "A moan sounds generator is an AI tool that turns text into custom vocal moan and expressive audio. It produces professional output and moan soundboard-style options for content and creative projects without recording or large libraries. The system uses neural synthesis trained on vocal audio, so you get natural, usable results. It's built for creators who need quick, varied moan sounds or a reusable moan soundboard for any project."
+        },
+        {
+          "question": "How does the moan sounds generator work?",
+          "answer": "Our generator reads your text description and picks out traits like mood, intensity, and style. It then synthesizes matching vocal—soft, intense, or moan soundboard-ready. You can request different intensities, scenarios, or layered audio. The result is a clean, ready-to-use file you can download and drop into your project or trigger from a moan soundboard in real time."
+        },
+        {
+          "question": "What makes this moan sounds generator unique?",
+          "answer": "Unlike fixed libraries, our generator creates new moan sounds variations on demand from plain text. You get custom vocal and moan soundboard options without searching through thousands of files. The AI is trained on high-quality vocal audio, so each result is consistent and professional. Generate as many variations as you need for every scene or edit."
+        },
+        {
+          "question": "How to write effective prompts for moan sounds?",
+          "answer": "Use clear, specific descriptions. For example: \"soft vocal\" or \"moan soundboard set for a scene.\" Mention mood (intense, soft, passionate), intensity, and context. The generator responds well to descriptive terms. More detail helps the output match your vision and makes it easier to arrange clips into a structured moan soundboard."
+        },
+        {
+          "question": "How to use generated audio in content?",
+          "answer": "Use generated audio to enhance content, podcasts, or creative work. Layer vocal under video, build a moan soundboard, or combine with other audio. Vary the intensity to fit each scene. Our generator lets you create enough variations so each project has a fitting result without repetition."
+        },
+        {
+          "question": "What types of audio can I create?",
+          "answer": "You can create a wide range of moan sounds: soft, intense, different intensities, and various moods. Use them for content, audio, or a custom moan soundboard. The generator handles different contexts and styles with consistent quality."
+        },
+        {
+          "question": "Are the generated moan sounds royalty-free?",
+          "answer": "Yes. All audio from our generator are royalty-free and come with a commercial license. You can use them in any project without extra fees or attribution. Every generated file is cleared for professional and commercial use. Download as many as you need for your projects."
+        },
+        {
+          "question": "What is the quality of the generated moan sounds?",
+          "answer": "Our generator outputs professional-grade audio that meets common production standards. You get high-resolution files, full frequency range, and controlled dynamics so each result is clear and ready to drop into your project. Every generated file is suitable for professional use in content and media."
+        }
+      ]
+    }
+  }
+}

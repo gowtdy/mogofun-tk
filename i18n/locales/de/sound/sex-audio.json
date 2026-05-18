@@ -1,0 +1,71 @@
+{
+  "sex-audio": {
+    "meta": {
+      "title": "Sex-Audio",
+      "description": "Erstellen Sie sofort Sex-Audio mit unserer fortschrittlichen KI-Technologie. Erzeugen Sie verschiedene Klangtypen, darunter Naturgeräusche, Instrumente und mehr.",
+      "keywords": "Sex-Audio, Orgasmus-Sound"
+    },
+    "hero": {
+      "title": "Sex-Audio",
+      "subtitle": "Verwandeln Sie Textbeschreibungen sofort in hochwertiges Sex-Audio"
+    },
+    "generator_subtitle": "Wählen Sie aus den beliebten Prompts unten oder schreiben Sie Ihre eigene Beschreibung, um Sex-Audio zu erzeugen",
+    "advantages": {
+      "title": "Warum unseren Sex-Audio-Generator wählen?",
+      "items": [
+        {
+          "title": "Sofortige Erstellung von Sex-Audio",
+          "description": "Erzeugen Sie professionelles Sex-Audio und Orgasmus-Sounds sofort aus Text. Unser Tool verwandelt Ihre Beschreibungen in Sekunden in erwachsene Vocals und ausdrucksstarke Clips—ohne große Bibliotheken oder manuelle Bearbeitung. Erstellen Sie unbegrenzte Variationen für Content, Audio-Projekte oder kreative Arbeit.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Unbegrenzte kreative Möglichkeiten",
+          "description": "Erstellen Sie jeden Stil, den Sie brauchen: variierende Intensität, unterschiedliche Stimmungen oder Orgasmus-Sounds für mehr Wirkung. Der Generator versteht detaillierte Beschreibungen und erzeugt passende Ergebnisse für volle kreative Freiheit.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professionelle Audioqualität",
+          "description": "Alle generierten Sex-Audios erfüllen Produktionsstandards mit hochwertiger Ausgabe. Der Generator nutzt moderne Algorithmen, sodass jeder Clip klar und sofort nutzbar ist.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Über den Sex-Audio-Generator",
+      "items": [
+        {
+          "question": "Was ist ein Sex-Audio-Generator?",
+          "answer": "Ein Sex-Audio-Generator ist ein KI-Tool, das Text in angepasste erwachsene Vocals und ausdrucksstarken Sound umwandelt. Er liefert professionelle Ergebnisse und Orgasmus-Sound-Optionen für Content und kreative Projekte."
+        },
+        {
+          "question": "Wie funktioniert der Sex-Audio-Generator?",
+          "answer": "Unser Generator liest Ihre Textbeschreibung und erkennt Merkmale wie Stimmung, Intensität und Stil. Anschließend synthetisiert er passende Vocals—weich, intensive Orgasmus-Sounds oder dazwischen."
+        },
+        {
+          "question": "Was macht diesen Generator einzigartig?",
+          "answer": "Im Gegensatz zu festen Bibliotheken erstellt unser Generator neue Sex-Audio-Variationen auf Anfrage aus einfachem Text. Sie erhalten angepasste Vocals und Orgasmus-Sound-Optionen ohne die Suche in tausenden Dateien."
+        },
+        {
+          "question": "Wie schreibt man wirksame Prompts?",
+          "answer": "Nutzen Sie klare, konkrete Beschreibungen. Zum Beispiel: „weiche Vocals“ oder „intensiver Orgasmus-Sound für mehr Wirkung“. Nennen Sie Stimmung, Intensität und Kontext."
+        },
+        {
+          "question": "Wie nutzt man generiertes Audio im Content?",
+          "answer": "Nutzen Sie generiertes Audio zur Verbesserung von Content, Sound-Projekten oder kreativer Arbeit. Legen Sie Vocals unter Video, fügen Sie Orgasmus-Sounds für Wirkung hinzu oder kombinieren Sie sie mit anderen Sound-Elementen."
+        },
+        {
+          "question": "Welche Arten von Audio kann ich erstellen?",
+          "answer": "Sie können eine breite Palette an Sex-Audio erstellen: weich, intensiv, verschiedene Intensitäten und unterschiedliche Stimmungen."
+        },
+        {
+          "question": "Ist das generierte Sex-Audio lizenzfrei?",
+          "answer": "Ja. Alle Audios aus unserem Generator sind lizenzfrei und enthalten eine kommerzielle Lizenz."
+        },
+        {
+          "question": "Wie ist die Qualität des generierten Sex-Audios?",
+          "answer": "Unser Generator liefert professionelles Audio nach gängigen Produktionsstandards, inklusive hoher Auflösung und klarer Dynamik."
+        }
+      ]
+    }
+  }
+}

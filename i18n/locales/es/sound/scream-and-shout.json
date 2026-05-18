@@ -1,0 +1,71 @@
+{
+  "scream-and-shout": {
+    "meta": {
+      "title": "Grito y bramido",
+      "description": "Crea al instante «grito y bramido» con nuestra IA avanzada. Genera varios tipos de sonidos: naturales, instrumentos y más.",
+      "keywords": "grito y bramido, gritos y chillidos"
+    },
+    "hero": {
+      "title": "Grito y bramido",
+      "subtitle": "Transforma al instante una descripción en texto en «grito y bramido» de alta calidad"
+    },
+    "generator_subtitle": "Elige entre los prompts populares de abajo o escribe tu propia descripción para generar «grito y bramido»",
+    "advantages": {
+      "title": "Por qué elegir nuestro generador de grito y bramido",
+      "items": [
+        {
+          "title": "Crea clips en segundos",
+          "description": "Convierte texto de prompt sencillo en momentos vocales de gran impacto sin hurgar bibliotecas enormes. El modelo entiende urgencia, ritmo e intención de personaje para que cada resultado encaje en montajes de acción, tráilers, escenas de juego y contenido social. La iteración rápida permite comparar tomas antes del cierre final de timing. Un prompt centrado en grito y bramido puede impulsar acentos de gritos y chillidos sin saturar la mezcla.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Intensidad flexible para cada escenario",
+          "description": "De la tensión contenida a la energía plena de gritos y chillidos, moldeas la entrega ajustando detalle del prompt, duración y textura vocal. Así alineas la emoción con el corte de imagen y preservas claridad en escenas con mucho diálogo. También puedes generar versiones alternativas para revisión A/B. Los editores suelen guardar una versión grito y bramido más una de gritos y chillidos para cambios rápidos.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Calidad de audio profesional",
+          "description": "Las exportaciones vienen listas para mezclar con loudness fiable, transientes limpios y equilibrio tonal coherente. Las sustituciones tardías en post son más sencillas y los efectos se mantienen estables tras la compresión de plataformas en móvil y escritorio. Un mastering coherente mantiene cada grito y bramido claro mientras cada pico de gritos y chillidos permanece controlado.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Sobre nuestro generador de grito y bramido",
+      "items": [
+        {
+          "question": "¿Qué es un generador de grito y bramido?",
+          "answer": "Es una herramienta de IA que convierte prompts de texto en efectos vocales expresivos para momentos de alta energía. En lugar de grabar a muchos actores o buscar en bibliotecas a mano, generas clips a medida para cada escena con rapidez. Un mismo concepto de grito y bramido puede producir varias alternativas de gritos y chillidos para distintos montajes."
+        },
+        {
+          "question": "¿Cómo funciona esta herramienta de grito y bramido?",
+          "answer": "El sistema interpreta la intención emocional, el perfil de volumen, el ritmo y el contexto de tu prompt y sintetiza una salida alineada con esas señales. Puedes iterar la redacción para afinar ataque, sustain o ritmo hasta que el clip encaje exactamente en la línea de tiempo. La iteración ayuda a que cada cue de grito y bramido caiga en el fotograma mientras gritos y chillidos siguen coherentes."
+        },
+        {
+          "question": "¿Por qué usar esto en lugar de packs de stock?",
+          "answer": "Los packs de stock suelen repetir activos muy usados y pueden no coincidir con el ritmo de la escena. La generación guiada por prompts crea nuevas tomas bajo demanda, haciendo los montajes más originales y sincronizados con el visual. Así cada grito y bramido es único y se evitan clichés genéricos de gritos y chillidos."
+        },
+        {
+          "question": "¿Cómo debo escribir prompts para efectos de grito y bramido?",
+          "answer": "Describe quién reacciona, qué dispara el momento vocal y cuánto debe durar. Los prompts específicos como «grito de mando corto antes del impacto» suelen dar mejor timing que una redacción vaga. Mejores prompts afilan el timing de grito y bramido y reducen el desbordamiento de gritos y chillidos en escenas densas."
+        },
+        {
+          "question": "¿Cuándo usar gritos y chillidos en una mezcla?",
+          "answer": "Usa gritos y chillidos para transiciones de clímax, cues de batalla, latidos de pánico o revelaciones de mucho estrés. Mantén los niveles ligeramente por debajo del diálogo principal y automatiza la ganancia para preservar inteligibilidad en escenas cargadas. Emparejar una entrada corta en grito y bramido antes de gritos y chillidos suele mejorar el ritmo dramático."
+        },
+        {
+          "question": "¿Qué variantes vocales puedo generar?",
+          "answer": "Puedes generar órdenes cortas, gritos de batalla, multitudes en capas, llamadas tensas y acentos dramáticos estilizados. Este rango facilita probar el impacto emocional antes de la exportación final. Construye una pequeña biblioteca de grito y bramido y etiqueta cada clip de gritos y chillidos por intensidad para recuperarlo rápido."
+        },
+        {
+          "question": "¿El audio generado es libre de regalías?",
+          "answer": "Sí. Los archivos generados son libres de regalías bajo nuestra licencia para el uso estándar de creadores y comercial. Revisa los términos de licencia vigentes antes de grandes campañas publicitarias o despliegue en broadcast."
+        },
+        {
+          "question": "¿Qué calidad debo esperar de las exportaciones?",
+          "answer": "Espera una salida lista para producción con detalle claro, dinámica estable y reproducción fiable en todos los dispositivos. Para el lanzamiento final, aplica tu cadena habitual de masterización para alinear los objetivos de loudness de las plataformas. El control de calidad final debe confirmar que cada grito y bramido sigue siendo inteligible y que todos los transientes de gritos y chillidos sobreviven a la compresión."
+        }
+      ]
+    }
+  }
+}

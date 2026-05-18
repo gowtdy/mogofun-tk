@@ -1,0 +1,71 @@
+{
+  "sex-moans": {
+    "meta": {
+      "title": "Gemidos sexuales",
+      "description": "Crea gemidos sexuales al instante con nuestra tecnologia avanzada de IA. Genera varios tipos de sonidos, incluidos sonidos naturales, instrumentos musicales y mas.",
+      "keywords": "gemidos sexuales, sonido de gemido sexual"
+    },
+    "hero": {
+      "title": "Gemidos sexuales",
+      "subtitle": "Convierte descripciones de texto en gemidos sexuales de alta calidad al instante"
+    },
+    "generator_subtitle": "Elige un prompt popular abajo o escribe tu propia descripcion para generar gemidos sexuales",
+    "advantages": {
+      "title": "Por que elegir nuestro generador de gemidos sexuales?",
+      "items": [
+        {
+          "title": "Creacion instantanea",
+          "description": "Genera gemidos sexuales profesionales y variantes expresivas de audio en segundos a partir de texto.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Creatividad sin limites",
+          "description": "Crea estilos con distintas intensidades, ambientes y contextos para cada escena.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Calidad profesional",
+          "description": "Todos los audios generados cumplen estandares de produccion, con sonido limpio y listo para usar.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Sobre el generador de gemidos sexuales",
+      "items": [
+        {
+          "question": "Que es un generador de gemidos sexuales?",
+          "answer": "Es una herramienta de IA que convierte texto en audio vocal adulto y expresivo de forma personalizada."
+        },
+        {
+          "question": "Como funciona el generador?",
+          "answer": "Lee tu descripcion, detecta ambiente, intensidad y estilo, y luego sintetiza un resultado acorde."
+        },
+        {
+          "question": "Que hace unico a este generador?",
+          "answer": "A diferencia de bibliotecas fijas, crea nuevas variaciones bajo demanda a partir de texto simple."
+        },
+        {
+          "question": "Como escribir prompts efectivos?",
+          "answer": "Usa descripciones claras y especificas, incluyendo contexto, intensidad y emocion deseada."
+        },
+        {
+          "question": "Como usar el audio generado en contenido?",
+          "answer": "Puedes superponerlo en video, combinarlo con otras pistas y ajustar la intensidad segun cada escena."
+        },
+        {
+          "question": "Que tipos de audio puedo crear?",
+          "answer": "Puedes crear gemidos suaves o intensos, con diferentes estilos y atmosferas."
+        },
+        {
+          "question": "Los archivos generados son libres de derechos?",
+          "answer": "Si. Todos los archivos generados son royalty-free e incluyen licencia comercial."
+        },
+        {
+          "question": "Que calidad tiene el audio generado?",
+          "answer": "La calidad es profesional, estable y lista para uso directo en proyectos de produccion."
+        }
+      ]
+    }
+  }
+}

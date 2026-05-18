@@ -1,0 +1,79 @@
+{
+  "audio-maker": {
+    "meta": {
+      "title": "Criador de Áudio",
+      "description": "Crie efeitos de áudio com nosso criador de áudio avançado alimentado por IA para áudio, gerando vários tipos incluindo sons naturais, instrumentos musicais e muito mais.",
+      "keywords": "criador de áudio, IA para áudio"
+    },
+    "hero": {
+      "title": "Criador de Áudio",
+      "subtitle": "Transforme suas descrições de texto em efeitos sonoros de alta qualidade"
+    },
+    "generator_subtitle": "Selecione entre os prompts populares abaixo ou escreva sua própria descrição para gerar efeitos sonoros",
+    "advantages": {
+      "title": "Por Que Escolher Nosso Criador de Áudio?",
+      "items": [
+        {
+          "title": "Geração Instantânea de Som",
+          "description": "Transforme prompts de texto em efeitos prontos para produção em segundos com nosso criador de áudio. Esta ferramenta poderosa usa tecnologia de IA para áudio para transformar descrições em som instantaneamente. Use uma descrição clara para criar som para vídeos, jogos, anúncios e aplicativos—sem bibliotecas volumosas, sem edição manual, apenas resultados rápidos.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Possibilidades Criativas Ilimitadas",
+          "description": "De impactos cinematográficos a ambientes sutis, nosso criador de áudio alimentado por IA para áudio entende intenções detalhadas e oferece variações controláveis. Adicione humor, textura, distância e timing para moldar a saída para sua cena. Para equipes que querem iteração mais rápida, este sistema mantém os resultados consistentes entre versões.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualidade de Som Profissional",
+          "description": "Obtenha saída limpa e de alta fidelidade com dinâmicas equilibradas, pronta para usar em seu fluxo de trabalho. Nosso criador de áudio com tecnologia de IA para áudio produz resultados estáveis com menos artefatos, então a edição permanece leve e previsível. Experimente qualidade de som profissional com cada geração.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Sobre o Criador de Áudio",
+      "items": [
+        {
+          "question": "O que é um criador de áudio?",
+          "answer": "Um criador de áudio é uma ferramenta que transforma descrições de texto em efeitos e ambientes prontos para uso. Com nosso criador de áudio alimentado por IA para áudio, você pode descrever o que precisa e criar rapidamente som que se encaixa em conteúdo, produtos ou experiências interativas. Para fluxos de trabalho mais rápidos, esta ferramenta ajuda a manter os resultados consistentes."
+        },
+        {
+          "question": "Como funciona o criador de áudio?",
+          "answer": "Nosso criador de áudio analisa seu prompt (fonte, ambiente, intensidade, duração), mapeia para atributos acústicos e depois sintetiza a saída usando modelos neurais. O sistema usa tecnologia de IA para áudio para processar suas solicitações. O pós-processamento leve ajuda a tornar os resultados claros, utilizáveis e consistentes. Em resumo, esta ferramenta automatiza o trabalho pesado da descrição à exportação."
+        },
+        {
+          "question": "O que torna este criador de áudio único?",
+          "answer": "Este criador de áudio foca em velocidade, controle e saída confiável. Em vez de procurar em pacotes predefinidos, você descreve o que precisa e cria variações de som que permanecem no tema, tornando a iteração muito mais rápida. Nossa ferramenta com IA para áudio entrega resultados profissionais rapidamente."
+        },
+        {
+          "question": "Como escrevo prompts eficazes para o criador de áudio?",
+          "answer": "Seja específico: descreva a fonte (\"batida de metal\"), ambiente (\"armazém\"), distância (\"perto\"), emoção (\"tenso\") e timing (\"cauda de 0,8s\"). Adicione modificadores como \"abafado\" ou \"brilhante\" para ajudar a ferramenta a criar som que corresponda à sua mixagem. A tecnologia de IA para áudio entende descrições detalhadas."
+        },
+        {
+          "question": "Como posso usar o criador de áudio para conteúdo de vídeo?",
+          "answer": "Use nosso criador de áudio para criar som para transições, impactos, camadas de ambiente e detalhes específicos da cena. O sistema com tecnologia de IA para áudio gera sons de qualidade profissional. Gere algumas variantes próximas, depois sobreponha e reduza-as sob o diálogo para manter a mixagem natural e envolvente."
+        },
+        {
+          "question": "Como posso usar o criador de áudio no desenvolvimento de jogos?",
+          "answer": "Crie famílias de som para ações (passos, cliques de UI, habilidades) e gere variações para reduzir a repetição. Um fluxo de trabalho de criador de áudio com IA para áudio também ajuda a prototipar ambiente para novos níveis antes do polimento final. Esta ferramenta agiliza a produção de som de jogos."
+        },
+        {
+          "question": "Como crio ruído branco e ambiente com o criador de áudio?",
+          "answer": "Descreva a textura e o movimento (\"ruído marrom suave com ar suave\" ou \"tom de sala urbana com tráfego distante\"). A ferramenta pode criar camadas de som que você pode fazer loop, esmaecer e empilhar para cenas longas. Nosso criador de áudio lida com solicitações de ambiente complexas de forma eficaz."
+        },
+        {
+          "question": "O que posso criar com o criador de áudio?",
+          "answer": "Você pode criar som em muitas categorias: natureza, máquinas, feedback de UI, impactos cinematográficos, texturas de ficção científica, elementos musicais e ambiente ambiental. O criador de áudio é flexível tanto para rascunhos rápidos quanto para uso em produção. Esta ferramenta alimentada por IA para áudio cobre diversas necessidades de som."
+        },
+        {
+          "question": "O som gerado pelo criador de áudio é livre de royalties?",
+          "answer": "Sim. O som gerado com nosso criador de áudio é livre de royalties e adequado para uso comercial, então você pode publicar vídeos, lançar jogos e lançar produtos sem etapas extras de licenciamento. A ferramenta com tecnologia de IA para áudio garante que você possui os direitos de todo o conteúdo gerado."
+        },
+        {
+          "question": "Que qualidade de saída posso esperar do criador de áudio?",
+          "answer": "O criador de áudio visa saída limpa e de alta qualidade adequada para produção moderna. Para melhores resultados, gere algumas variantes, escolha a tomada mais natural e faça equalização leve ou correspondência de nível em seu editor. Nossa ferramenta entrega resultados de nível profissional consistentemente."
+        }
+      ]
+    }
+  }
+}

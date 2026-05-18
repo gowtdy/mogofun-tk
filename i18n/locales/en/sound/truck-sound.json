@@ -1,0 +1,75 @@
+{
+  "truck-sound": {
+    "meta": {
+      "title": "Truck Sound",
+      "description": "Instantly create truck sound with our advanced AI technology. Generate various type sounds including natural sounds, musical instruments and more.",
+      "keywords": "truck sound, truck noise"
+    },
+    "hero": {
+      "title": "Truck Sound",
+      "subtitle": "Instantly transform text description into high-quality truck sound"
+    },
+    "generator_subtitle": "Select from popular prompts below or write your own description to generate truck sound",
+    "advantages": {
+      "title": "Why Choose Our Truck Sound Generator?",
+      "items": [
+        {
+          "title": "Instant Truck Sound Creation",
+          "description": "Generate professional truck sound instantly from text. Our tool turns your descriptions into engine rumble, horn, braking and road audio in seconds—no field recording or large libraries. Create unlimited variations for video, games, or ads. Whether you need a diesel idle, heavy rig passing, or truck noise in traffic, the generator delivers clean, broadcast-ready results for any project.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Unlimited Creative Possibilities",
+          "description": "Create any style of truck sound you need: big rig revs, distant highway rumble, reverse beeps, or cabin ambience. The generator understands detailed descriptions and produces matching audio for full creative freedom. Explore variations for film, podcasts, and content. From subtle truck noise to dramatic pass-bys, find the right fit for every project.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professional-Grade Audio Quality",
+          "description": "All truck sound generated meets broadcast standards with high-fidelity output. The generator uses modern algorithms so each result is clear and production-ready. Outputs are optimized for video, film, and media. Get consistent, studio-quality truck noise and engine audio for your work.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "About Truck Sound Generator",
+      "items": [
+        {
+          "question": "What is a truck sound generator?",
+          "answer": "A truck sound generator is an AI tool that turns text into custom truck sound such as engine, horn, and road noise. It produces professional audio for video, games, and ads without recording or large libraries. The system uses neural synthesis trained on real vehicle audio, so you get natural, usable results. It's built for creators who need quick, varied truck sound and truck noise effects for any project."
+        },
+        {
+          "question": "How does the truck sound generator work?",
+          "answer": "Our generator reads your text description and picks out traits like vehicle type, speed, and environment. It then synthesizes matching audio—engine revs, horns, braking, or traffic. You can request a diesel idle, a passing rig, or truck noise in a parking lot. The result is clean, ready-to-use file you can download and drop into your project."
+        },
+        {
+          "question": "What makes this truck sound generator unique?",
+          "answer": "Unlike fixed libraries, our truck sound generator creates new variations on demand from plain text. You get custom audio without searching through thousands of files. The AI is trained on high-quality vehicle and road audio, so each result is consistent and professional. Generate as many variations as you need for every scene or edit."
+        },
+        {
+          "question": "How to write effective prompts for truck sound?",
+          "answer": "Use clear, specific descriptions. For example: \"diesel idling at a stop\" or \"truck noise from highway traffic.\" Mention vehicle type (semi, pickup, heavy rig), action (accelerating, braking, reversing), and setting (highway, city, construction). The generator responds well to terms like engine, horn, rumble, and rev. More detail helps the output match your vision."
+        },
+        {
+          "question": "How to use truck sound in video content?",
+          "answer": "Use audio to add realism to driving scenes, ads, or documentaries. Layer engine rumble under b-roll, add horn hits for emphasis, or use distant truck noise for depth. Truck noise works for any style—louder for action, softer for background. Our generator lets you create enough truck noise variations so each scene has a fitting result without repetition."
+        },
+        {
+          "question": "How to use truck sound in game development?",
+          "answer": "Audio works well for driving games, traffic ambience, and UI feedback. Use truck noise for engine revs in vehicle selection, horn for alerts, and road ambience for open-world atmosphere. Our generator supports many truck noise variations so you can keep a consistent style. Create distinct sets for different vehicles or environments with clear, professional output."
+        },
+        {
+          "question": "What types of truck sound can I create?",
+          "answer": "You can create a wide range of truck sound and truck noise: engine idle or rev, horn short or long, braking squeal, reverse beep, road rumble, and cabin or exterior ambience. Use truck noise for film, games, podcasts, or any project needing vehicle audio. The generator handles different contexts and styles with consistent quality for all your truck noise needs."
+        },
+        {
+          "question": "Are the generated truck sound royalty-free?",
+          "answer": "Yes. All truck sound from our generator are royalty-free and come with a commercial license. You can use them in any project without extra fees or attribution. Every generated file is cleared for professional and commercial use. Download as many as you need for your projects."
+        },
+        {
+          "question": "What is the quality of the generated truck sound?",
+          "answer": "Our truck sound generator outputs professional-grade audio that meets common broadcast and production standards. You get high-resolution files, full frequency range, and controlled dynamics so each file is clear and ready to drop into your project. Every generated truck sound is suitable for professional use in video, film, and content."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "ai-audio-generator": {
+    "meta": {
+      "title": "Generador de Audio con IA",
+      "description": "Crea efectos de audio con generador de audio con IA avanzado, generando varios tipos incluyendo sonidos naturales, instrumentos musicales y más.",
+      "keywords": "generador de audio con IA, crear audio"
+    },
+    "hero": {
+      "title": "Generador de Audio con IA",
+      "subtitle": "Transforma tus descripciones de texto en efectos de sonido de alta calidad"
+    },
+    "generator_subtitle": "Selecciona entre los prompts populares a continuación o escribe tu propia descripción para generar efectos de sonido",
+    "advantages": {
+      "title": "¿Por qué elegir nuestro Generador de Audio con IA?",
+      "items": [
+        {
+          "title": "Generación Instantánea de Sonido",
+          "description": "Convierte prompts de texto en efectos listos para producción en segundos con nuestro generador de audio con IA. Usa una descripción clara para crear audio para ediciones de video, juegos, anuncios y aplicaciones—sin bibliotecas voluminosas, sin recorte manual, solo resultados rápidos.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Posibilidades Creativas Ilimitadas",
+          "description": "Desde impactos cinematográficos hasta ambientes acogedores, el generador de audio con IA entiende la intención detallada y ofrece variaciones controlables. Describe el estado de ánimo, la textura, la distancia y el tiempo para crear audio que se ajuste a tu escena y estilo.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Calidad de Audio de Grado Profesional",
+          "description": "Obtén una salida limpia y de alta fidelidad con dinámicas equilibradas, lista para integrar en tu flujo de trabajo. Este generador de sonido con IA te ayuda a crear audio que se siente consistente en todos los proyectos, con menos ruido y menos artefactos.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Acerca del Generador de Audio con IA",
+      "items": [
+        {
+          "question": "¿Qué es un generador de audio con IA?",
+          "answer": "Un generador de audio con IA es una herramienta que convierte descripciones de texto en sonido personalizado. Con un generador de sonido con IA, puedes describir un efecto o atmósfera y crear rápidamente audio que coincida con tu intención creativa para contenido, productos o experiencias interactivas."
+        },
+        {
+          "question": "¿Cómo funciona el generador de audio con IA?",
+          "answer": "El generador de audio con IA analiza tu prompt (fuente, entorno, intensidad, duración), lo mapea a atributos acústicos, luego sintetiza sonido usando modelos neuronales. Termina con un procesamiento ligero para ayudarte a crear audio que sea claro, utilizable y consistente."
+        },
+        {
+          "question": "¿Qué hace único a este generador de audio con IA?",
+          "answer": "Este generador de audio con IA se enfoca en velocidad, control y salida confiable. En lugar de buscar en paquetes preestablecidos, describes lo que necesitas y creas variaciones de audio que se mantienen en el tema, haciendo que la iteración sea mucho más rápida."
+        },
+        {
+          "question": "¿Cómo escribo prompts efectivos para el generador de audio con IA?",
+          "answer": "Sé específico: describe la fuente (\"golpe de metal\"), el entorno (\"almacén\"), la distancia (\"cerca\"), la emoción (\"tenso\") y el tiempo (\"cola de 0.8s\"). Agrega modificadores como \"amortiguado\" o \"brillante\" para ayudar al generador de sonido con IA a crear audio que coincida con tu mezcla."
+        },
+        {
+          "question": "¿Cómo puedo usar el generador de audio con IA para contenido de video?",
+          "answer": "Usa el generador de audio con IA para crear audio para transiciones, impactos, lechos de ambiente y detalles específicos de la escena. Genera algunas variantes cercanas, luego superpón y atenúa debajo del diálogo para mantener la mezcla natural y atractiva."
+        },
+        {
+          "question": "¿Cómo puedo usar el generador de audio con IA en el desarrollo de juegos?",
+          "answer": "Crea familias de audio para acciones (pasos, clics de UI, habilidades) y genera variaciones para reducir la repetición. Un generador de sonido con IA también ayuda a prototipar ambiente para nuevos niveles antes del pulido final."
+        },
+        {
+          "question": "¿Cómo creo ruido blanco y ambiente con el generador de audio con IA?",
+          "answer": "Describe la textura y el movimiento (\"ruido marrón suave con aire suave\" o \"tono de habitación urbana con tráfico distante\"). El generador de sonido con IA puede crear capas de audio que puedes hacer en bucle, desvanecer y apilar para escenas largas."
+        },
+        {
+          "question": "¿Qué puedo crear con el generador de audio con IA?",
+          "answer": "Puedes crear sonido en muchas categorías: naturaleza, máquinas, retroalimentación de UI, impactos cinematográficos, texturas de ciencia ficción, elementos musicales y ambiente ambiental. El generador de sonido con IA es flexible tanto para borradores rápidos como para uso en producción."
+        },
+        {
+          "question": "¿El audio generado por el generador de sonido con IA está libre de regalías?",
+          "answer": "Sí. El audio generado con el generador de sonido con IA está libre de regalías y es adecuado para uso comercial, por lo que puedes publicar videos, lanzar juegos y lanzar productos sin pasos adicionales de licencia."
+        },
+        {
+          "question": "¿Qué calidad de salida puedo esperar del generador de audio con IA?",
+          "answer": "El generador de audio con IA apunta a una salida limpia y de alta calidad adecuada para producción moderna. Para mejores resultados, genera algunas variantes, elige la toma más natural y haz un EQ ligero o ajuste de nivel en tu editor."
+        }
+      ]
+    }
+  }
+}

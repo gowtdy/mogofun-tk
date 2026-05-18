@@ -1,0 +1,71 @@
+{
+  "soundboard-guy": {
+    "meta": {
+      "title": "Soundboard Guy",
+      "description": "Créez instantanément des clips « soundboard guy » grâce à notre IA avancée. Générez divers types de sons : nature, instruments, et plus encore.",
+      "keywords": "soundboard guy, cri humain"
+    },
+    "hero": {
+      "title": "Soundboard Guy",
+      "subtitle": "Transformez instantanément une description textuelle en clips « soundboard guy » de haute qualité"
+    },
+    "generator_subtitle": "Choisissez parmi les invites populaires ci-dessous ou rédigez votre propre description pour générer un « soundboard guy »",
+    "advantages": {
+      "title": "Pourquoi choisir notre générateur Soundboard Guy ?",
+      "items": [
+        {
+          "title": "Générez des clips rapidement",
+          "description": "Transformez de courtes invites textuelles en répliques de réaction expressives sans fouiller d’anciennes banques de sons. Le modèle capte le timing, le ton et l’emphase pour que chaque clip convienne aux lives, montages mèmes et courts formats sociaux. Vous pouvez itérer vite quand une blague nécessite plusieurs versions. Une invite ciblée peut aussi superposer un accent de cri humain pour des révélations plus percutantes.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Style flexible pour réactions et sketches",
+          "description": "Demandez une lecture calme, dramatique, sarcastique ou chaotique et affinez le débit en détaillant l’invite. Que vous vouliez une punchline compacte ou un moment de cri humain en couches, les sorties restent alignées avec l’intention de la scène. Les créateurs gardent ainsi une voix de personnage cohérente d’un épisode à l’autre. Les équipes associent souvent une prise « soundboard guy » et une prise de cri humain pour des A/B rapides.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualité audio digne du pro",
+          "description": "Les fichiers exportés ont un niveau sonore stable et des transitoires propres, ce qui facilite le placement sur la timeline et en podcast. La qualité reste fiable après la compression courante des plateformes, pour que les remplacements tardifs ne cassent pas le mix. Un nivelement cohérent garde chaque clip « soundboard guy » clair tandis que chaque cri humain reste maîtrisé.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "À propos de notre générateur Soundboard Guy",
+      "items": [
+        {
+          "question": "Qu’est-ce qu’un générateur « soundboard guy » ?",
+          "answer": "C’est un outil d’IA qui crée de courts clips de réaction façon voix à partir d’invites textuelles simples. Au lieu d’enregistrer des acteurs ou de parcourir d’immenses bibliothèques, vous générez une réplique « soundboard guy » qui correspond à votre timing et à votre ton en quelques secondes. Un même concept peut se décliner en plusieurs variantes de cri humain pour différents montages."
+        },
+        {
+          "question": "Comment fonctionne cet outil « soundboard guy » ?",
+          "answer": "Le système lit les indices d’invite — émotion, rythme, intensité — puis synthétise un clip aligné sur ces traits. Vous pouvez affiner la formulation entre les passes jusqu’à ce que le jeu, l’impact et le timing correspondent exactement à votre montage. L’itération aide chaque beat « soundboard guy » à s’aligner tout en gardant chaque couche de cri humain intentionnelle."
+        },
+        {
+          "question": "Pourquoi l’utiliser plutôt que des soundboards stock ?",
+          "answer": "Les banques répètent souvent des clips usés. Ici vous générez des variations fraîches avec votre propre langage d’invite, ce qui garde le contenu original et mieux adapté à votre scénario. Chaque moment « soundboard guy » paraît unique et chaque transition de cri humain évite le cliché."
+        },
+        {
+          "question": "Comment rédiger des invites pour un bon résultat « soundboard guy » ?",
+          "answer": "Donnez un contexte concret : qui parle, pourquoi il réagit, et combien de temps doit durer la ligne. Des invites précises comme « court appel confiant après une victoire en jeu » donnent en général de meilleurs résultats qu’un seul mot vague. Plus de détail resserre la formulation « soundboard guy » et le timing du cri humain."
+        },
+        {
+          "question": "Où place-t-on le cri humain dans le flux ?",
+          "answer": "Une couche de cri humain contrôlée convient aux transitions très énergiques, aux fausses paniques ou aux révélations exagérées. Gardez le niveau légèrement sous narration et musique pour que l’effet frappe sans masquer la parole. Enchaîner une cue « soundboard guy » avant un cri humain peut améliorer le rythme comique."
+        },
+        {
+          "question": "Quelles variantes puis-je générer ?",
+          "answer": "Vous pouvez créer des stabs secs, des réactions multicouches, des appels forts, des prises retenues et des accents comiques stylisés. C’est idéal pour tester plusieurs options avant de figer le timing final. Constituez une banque « soundboard guy » réutilisable et étiquetez chaque cri humain par intensité pour monter plus vite."
+        },
+        {
+          "question": "L’audio généré est-il libre de droits ?",
+          "answer": "Oui. Les sorties sont libres de droits sous notre licence standard pour un usage créateur et commercial courant. Vérifiez les conditions actuelles avant de grandes campagnes publicitaires ou une diffusion broadcast."
+        },
+        {
+          "question": "Quelle qualité puis-je attendre des exports ?",
+          "answer": "Attendez-vous à un audio prêt prod avec une dynamique cohérente, des aigus nets et un comportement de mix prévisible. Au besoin, passez votre chaîne de mastering habituelle pour viser le loudness de votre chaîne. Le contrôle qualité final doit confirmer que chaque ligne « soundboard guy » reste intelligible et que chaque cri humain survit à la compression des plateformes."
+        }
+      ]
+    }
+  }
+}

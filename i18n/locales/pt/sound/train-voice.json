@@ -1,0 +1,75 @@
+{
+  "train-voice": {
+    "meta": {
+      "title": "Voz de trem",
+      "description": "Crie voz de trem instantaneamente com nossa tecnologia de IA avançada. Gere vários tipos de áudio, incluindo tons naturais, instrumentos musicais e mais.",
+      "keywords": "voz trem, efeito sonoro apito trem"
+    },
+    "hero": {
+      "title": "Voz de trem",
+      "subtitle": "Transforme descrições em texto em voz de trem de alta qualidade na hora"
+    },
+    "generator_subtitle": "Escolha entre os prompts populares abaixo ou escreva sua própria descrição para gerar voz de trem",
+    "advantages": {
+      "title": "Por que escolher nosso gerador de voz de trem?",
+      "items": [
+        {
+          "title": "Criação instantânea de voz de trem",
+          "description": "Crie voz de trem profissional e áudio de anúncios de estação a partir de texto em segundos. Nossa IA transforma suas descrições em anúncios eletrônicos, avisos de metrô e voz de plataforma—sem bibliotecas de amostras ou edição manual. Precisa de um efeito sonoro de apito de trem para acompanhar seu clip? Gere variações ilimitadas de voz de trem com qualidade pronta para transmissão. Adicione um efeito sonoro de apito de trem para impacto em qualquer projeto.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Possibilidades criativas ilimitadas",
+          "description": "Crie qualquer estilo de voz de trem que imaginar: anúncios de estação, voz de plataforma eletrônica, ambiência de metrô ou um clássico efeito sonoro de apito de trem. A ferramenta dá liberdade criativa total. Explore opções infinitas—de dicas sutis de plataforma a efeito sonoro de apito de trem e áudio em camadas para cinema.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualidade de áudio profissional",
+          "description": "Cada clip do nosso gerador atende aos padrões de transmissão com saída de alta fidelidade. Algoritmos de ponta garantem voz de trem e áudio ferroviário de qualidade de estúdio. Todos os clips estão prontos para produção e otimizados para uso profissional, com cobertura total de frequência e resultados claros e naturais.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "FAQ Voz de trem",
+      "items": [
+        {
+          "question": "O que é um gerador de voz de trem?",
+          "answer": "Nosso gerador é uma ferramenta de IA que transforma texto em voz de trem personalizada e áudio de anúncios de estação. Usa processamento de linguagem natural e síntese neural para produzir clips ferroviários profissionais. Você pode criar voz de plataforma eletrônica, avisos de metrô ou combinar sua cena com um efeito sonoro de apito de trem. Atende criadores que precisam de voz de trem rápida e autêntica—e um efeito sonoro de apito de trem quando quiser impacto—com resultados precisos e de alta fidelidade."
+        },
+        {
+          "question": "Como o gerador funciona?",
+          "answer": "A ferramenta usa um pipeline em várias etapas para transformar texto em voz de trem e áudio ferroviário de alta qualidade. Ela analisa sua descrição para capturar tom, estilo e contexto, depois processa isso em redes neurais treinadas para síntese de estação e anúncios. Você pode pedir avisos curtos para a interface ou ambiência mais longa, mais um efeito sonoro de apito de trem quando necessário. Cada clip de voz de trem atende aos padrões de transmissão."
+        },
+        {
+          "question": "O que torna este gerador de voz de trem único?",
+          "answer": "Nosso gerador se destaca pela personalização instantânea e qualidade profissional. Diferente de bibliotecas estáticas, ele cria voz de trem sob medida sob demanda. Treinado com amostras de alta qualidade, entrega voz de estação realista e estilos de anúncio variados. Você obtém variações ilimitadas de voz de trem e um efeito sonoro de apito de trem quando precisar, com controle fino."
+        },
+        {
+          "question": "Como escrevo prompts eficazes para voz de trem?",
+          "answer": "Escreva descrições claras e específicas com vários detalhes. Tente \"voz de trem eletrônica na plataforma\" ou \"efeito sonoro de apito de trem com reverb\". Inclua estilo, tom e contexto. O gerador responde bem a termos como anúncio, estação, metrô, plataforma e apito. Mais contexto gera melhores resultados."
+        },
+        {
+          "question": "Como posso usar voz de trem em conteúdo de vídeo?",
+          "answer": "Mapeie as cenas do seu vídeo e coloque voz de trem personalizada onde agregam atmosfera. Crie áudio de anúncio e ambiente para cada momento—de dicas sutis de plataforma a um efeito sonoro dramático de apito de trem. Empilhe um efeito sonoro de apito de trem com voz de trem para um áudio rico e envolvente que destaca tempo ou lugar."
+        },
+        {
+          "question": "Como posso usar o gerador no desenvolvimento de jogos?",
+          "answer": "Nosso gerador suporta voz de trem procedural para jogos. Crie variações para os jogadores raramente ouvirem o mesmo clip duas vezes. Produza opções diferentes para interface, fases e eventos. Use um efeito sonoro de apito de trem para momentos-chave. A ferramenta entrega clips de qualidade profissional que aumentam imersão e feedback."
+        },
+        {
+          "question": "Que tipos de clips posso criar?",
+          "answer": "Você pode criar uma ampla gama de voz de trem: anúncios de estação, voz de plataforma eletrônica, avisos de metrô, ambiência ferroviária e um efeito sonoro de apito de trem para cenas. A ferramenta entrega resultados de voz de trem e efeito sonoro de apito de trem profissionais para qualquer projeto."
+        },
+        {
+          "question": "Os clips gerados são livres de royalties?",
+          "answer": "Sim. Todos os clips do nosso gerador são livres de royalties e incluem licença comercial. Você pode usar os clips gerados em qualquer projeto sem taxas extras ou atribuição. Cada clip está liberado para uso imediato em trabalho profissional e comercial."
+        },
+        {
+          "question": "Qual qualidade o gerador produz?",
+          "answer": "Nosso gerador produz voz de trem de nível profissional que atende aos padrões da indústria. Você tem opções em alta resolução até 192 kHz/24-bit, faixa de frequência completa e dinâmica controlada. Cada clip e saída de efeito sonoro de apito de trem está pronto para transmissão e adequado para produção profissional e projetos criativos."
+        }
+      ]
+    }
+  }
+}

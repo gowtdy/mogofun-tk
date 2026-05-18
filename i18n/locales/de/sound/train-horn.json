@@ -1,0 +1,75 @@
+{
+  "train-horn": {
+    "meta": {
+      "title": "Zughorn",
+      "description": "Erstellen Sie sofort Zughorn-Soundeffekte mit unserer fortschrittlichen KI-Technologie. Erzeugen Sie verschiedene Audiotypen inkl. natürlicher Töne, Instrumente und mehr.",
+      "keywords": "Zughorn, Zughorn-Soundeffekt"
+    },
+    "hero": {
+      "title": "Zughorn",
+      "subtitle": "Verwandeln Sie Textbeschreibungen sofort in hochwertiges Zughorn"
+    },
+    "generator_subtitle": "Wählen Sie aus beliebten Prompts unten oder schreiben Sie Ihre eigene Beschreibung, um Zughorn zu erzeugen",
+    "advantages": {
+      "title": "Warum unseren Zughorn-Generator wählen?",
+      "items": [
+        {
+          "title": "Sofortige Zughorn-Erstellung",
+          "description": "Erstellen Sie professionelles Zughorn und Bahn-Audio-Clips sofort aus Text. Unsere KI verwandelt Ihre Beschreibungen in Sekunden in laute, klare Signale—ohne Sample-Bibliotheken oder manuelle Bearbeitung. Erzeugen Sie unbegrenzte Variationen für jedes Projekt. Ob Sie einen kurzen Zughorn-Soundeffekt für die UI oder einen vollen Zughorn-Soundeffekt für eine Szene brauchen, der Generator liefert sendefähige Ergebnisse.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Unbegrenzte kreative Möglichkeiten",
+          "description": "Erstellen Sie jeden gewünschten Stil von Zughorn: Einzelsignal, langes Warnsignal, Vintage oder modern. Das Tool versteht detaillierte Beschreibungen und gibt Ihnen volle kreative Freiheit. Erkunden Sie endlose Optionen für Videos, Spiele und Apps. Von subtilen Zughorn-Soundeffekt-Cues bis zu mehrschichtigen Clips für Film—den passenden Clip für jedes Szenario.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professionelle Audioqualität",
+          "description": "Jeder Clip aus unserem Generator erfüllt Sendestandards mit High-Fidelity-Ausgabe. Moderne Algorithmen sorgen für Studioqualität bei Bahn-Audio. Alle Clips sind produktionsreif und für den professionellen Einsatz optimiert. Der Generator liefert volle Frequenzabdeckung und kontrollierte Dynamik für authentische Zughorn-Ausgabe.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Zughorn FAQ",
+      "items": [
+        {
+          "question": "Was ist ein Zughorn-Generator?",
+          "answer": "Unser Generator ist ein KI-Tool, das Text in maßgeschneiderte Bahn- und Zughorn-Soundeffekt-Audio umwandelt. Es nutzt natürliche Sprachverarbeitung und neuronale Synthese für professionelle Clips. Mit Bahndatensätzen trainierte Deep-Learning-Modelle verstehen Ihre Beschreibung und erzeugen passende Variationen. Geeignet für Creator, Videoeditoren und Spieleentwickler, die schnelle, authentische Zughorn-Soundeffekt-Ausgabe brauchen. Für poliertes Bahn-Audio oder andere Stile liefert er präzise, hochauflösende Ergebnisse."
+        },
+        {
+          "question": "Wie funktioniert der Generator?",
+          "answer": "Das Tool nutzt eine mehrstufige Pipeline, um Text in hochwertiges Zughorn zu verwandeln. Es analysiert Ihre Beschreibung und erfasst Merkmale wie Intensität, Dauer und Stil. Diese Informationen laufen durch für Bahn-Synthese trainierte neuronale Netze, die Frequenz und Dynamik steuern. Mit professionellen Samples trainiert, erzeugt die KI natürliche Bahn-Ausgabe. Sie können einen kurzen Zughorn-Soundeffekt für die UI oder längere Ambience anfordern. Jeder Clip erfüllt Sendestandards."
+        },
+        {
+          "question": "Was macht diesen Generator einzigartig?",
+          "answer": "Unser Generator zeichnet sich durch sofortige Anpassung und professionelle Qualität aus. Anders als statische Bibliotheken erstellt er maßgeschneiderte Bahn-Clips on demand. Er ist mit hochwertigen Samples für realistische Ergebnisse trainiert. Das System versteht komplexe Beschreibungen und erzeugt Ausgabe mit feiner Kontrolle. Sie erhalten unbegrenzte Variationen und kreative Freiheit."
+        },
+        {
+          "question": "Wie schreibe ich wirksame Prompts für den Zughorn-Generator?",
+          "answer": "Schreiben Sie klare, konkrete Beschreibungen. Statt nur „Horn“ probieren Sie „Zughorn mit Hall“ oder „Zughorn-Soundeffekt für Warnung“. Nennen Sie Stil (Vintage, modern), Intensität und Dauer. Unser Generator reagiert gut auf Begriffe wie Lokomotive, Bahn, Signal und Warnung. Bei komplexen Szenarien teilen Sie sie in Teile. Mehr Kontext liefert bessere Ergebnisse für Bahn-Audio."
+        },
+        {
+          "question": "Wie kann ich den Generator in Videoinhalten nutzen?",
+          "answer": "Planen Sie die Szenen Ihres Videos und platzieren Sie maßgeschneiderte Bahn- und Zughorn-Soundeffekt-Clips dort, wo sie Wirkung erzeugen. Der Generator hilft Ihnen, Audio für jeden Moment zu erstellen—von fernem Warnsignal bis zu nahem Signal. Legen Sie mehrere Variationen für reiches, fesselndes Audio übereinander. Nutzen Sie markante Momente wie Zughorn-Soundeffekt, um Zeit oder Ort zu unterstreichen. Das Tool ermöglicht einen einzigartigen Audio-Stil, der zu Ihrem Content passt."
+        },
+        {
+          "question": "Wie kann ich den Generator in der Spieleentwicklung nutzen?",
+          "answer": "Unser Generator unterstützt prozedurales Audio für Spiele. Erstellen Sie Bahn-Audio-Variationen, sodass Spieler selten denselben Clip zweimal hören. Erzeugen Sie verschiedene Optionen für UI, Levels und Events bei einheitlichem Stil. Der Generator liefert Zughorn und Zughorn-Soundeffekt in professioneller Qualität für bessere Immersion und Feedback."
+        },
+        {
+          "question": "Welche Arten von Zughorn kann ich erstellen?",
+          "answer": "Sie können eine breite Palette an Zughorn erstellen: Einzelsignal, langes Warnsignal, Zughorn-Soundeffekt-Clips für UI oder Film, Intensitäten (leise bis laut) und Stile (Vintage, modern, filmisch). Das Tool behandelt diese Kategorien mit gleichbleibender Qualität. Ob kurzer Zughorn-Soundeffekt oder mehrschichtige Variationen—es liefert professionelle Ergebnisse für jedes Projekt."
+        },
+        {
+          "question": "Sind die generierten Clips lizenzfrei?",
+          "answer": "Ja. Alle Clips aus unserem Generator sind lizenzfrei und enthalten eine gewerbliche Lizenz. Sie können den generierten Zughorn-Soundeffekt in jedem Projekt ohne zusätzliche Gebühren oder Namensnennung nutzen. Jeder Clip ist für sofortige Verwendung in professioneller und gewerblicher Arbeit freigegeben."
+        },
+        {
+          "question": "Welche Qualität liefert der Generator?",
+          "answer": "Unser Generator liefert professionelles Zughorn nach Industriestandards. Sie erhalten hochauflösende Optionen bis 192 kHz/24-bit, vollen Frequenzbereich und kontrollierte Dynamik für Bahn-Ausgabe. Jedes Zughorn und jeder Zughorn-Soundeffekt ist sendefähig und für professionelle Produktion und kreative Projekte geeignet."
+        }
+      ]
+    }
+  }
+}

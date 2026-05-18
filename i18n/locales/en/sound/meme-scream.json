@@ -1,0 +1,71 @@
+{
+  "meme-scream": {
+    "meta": {
+      "title": "Meme Scream",
+      "description": "Instantly create meme scream with our advanced AI technology. Generate various type sounds including natural sounds, musical instruments and more.",
+      "keywords": "meme scream, scream meme sound"
+    },
+    "hero": {
+      "title": "Meme Scream",
+      "subtitle": "Instantly transform text description into high-quality meme scream"
+    },
+    "generator_subtitle": "Select from popular prompts below or write your own description to generate meme scream",
+    "advantages": {
+      "title": "Why Choose Our Meme Scream Generator?",
+      "items": [
+        {
+          "title": "Create Meme Scream Clips in Seconds",
+          "description": "Describe a punchline moment, reaction beat, or dramatic zoom and generate clean audio without digging through random downloads. The model reads timing, tone, and intensity so each render lands on short-form edits, streams, and social posts. Iterate quickly when you need multiple versions for one scene. A focused meme scream prompt can also produce a cleaner scream meme sound for rapid cut testing.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Flexible Styles for Memes and Reactions",
+          "description": "Ask for absurd, dramatic, or deadpan delivery and fine-tune length, pitch, and texture. Clear prompt wording helps the output match your exact cut point, whether you need one meme scream hit or a layered scream meme sound stack. This keeps edits expressive without sounding repetitive. Teams often save one meme scream alt and one scream meme sound alt for quick A/B swaps.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professional-Grade Audio Quality",
+          "description": "Exports are tuned for clarity and controlled dynamics, so clips remain usable after compression on mobile platforms. The files drop into common editing workflows with minimal cleanup, and loudness stays predictable when you batch scenes or swap versions late in production. Consistent leveling keeps each meme scream aligned while every scream meme sound remains punchy after encoding.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "About Our Meme Scream Generator",
+      "items": [
+        {
+          "question": "What is a meme scream generator?",
+          "answer": "It is an AI audio tool that converts text prompts into short reaction-style clips for memes, edits, and social content. Instead of recording new takes or searching large libraries, you describe the moment and generate a usable file in seconds. In practice, one meme scream concept can branch into multiple scream meme sound variants for different cuts."
+        },
+        {
+          "question": "How does this meme scream tool work?",
+          "answer": "The system parses cues such as mood, force, cadence, and character from your prompt, then synthesizes audio that fits those traits. You can adjust wording between passes to get tighter timing, sharper attack, or softer tails based on your timeline. Iteration helps each meme scream land on frame while preserving a coherent scream meme sound texture."
+        },
+        {
+          "question": "Why use this instead of stock packs?",
+          "answer": "Stock packs often repeat the same recognizable clips. This workflow creates fresh variations from your own wording, making it easier to fit each scene and avoid overused sounds in viral formats. That means your meme scream moments stay original and every scream meme sound feels less generic."
+        },
+        {
+          "question": "How should I write prompts for meme scream?",
+          "answer": "Use concrete verbs and context: who is reacting, why they react, and how long the moment should last. A phrase like \"short shocked yell after a fail\" works better than vague wording and usually needs fewer regeneration attempts. Prompting this way improves meme scream precision and keeps the scream meme sound tight in mixes."
+        },
+        {
+          "question": "When should I use scream meme sound in edits?",
+          "answer": "Use it for reaction cuts, comedic reveals, transitions, and dramatic zoom-ins where timing sells the joke. Keep levels under dialogue and music beds so the effect supports the scene without masking important speech. A balanced meme scream plus a controlled scream meme sound layer usually reads best on mobile."
+        },
+        {
+          "question": "What kinds of variants can I generate?",
+          "answer": "You can produce subtle, exaggerated, distorted, or cinematic takes with different lengths and intensity curves. This lets one concept branch into multiple options for testing pacing and emotional impact. Build a small meme scream set and tag each scream meme sound by energy for faster editorial reuse."
+        },
+        {
+          "question": "Is generated audio royalty-free?",
+          "answer": "Yes. Generated files are royalty-free under our license for typical creator and commercial usage. Review the latest terms before major ad campaigns or broadcast distribution."
+        },
+        {
+          "question": "What quality should I expect from exports?",
+          "answer": "Expect production-ready output with stable loudness behavior and clear transients suitable for modern social platforms. If needed, apply your normal mastering chain to match house style before final publishing. Final QC should confirm every meme scream stays intelligible and each scream meme sound survives compression."
+        }
+      ]
+    }
+  }
+}

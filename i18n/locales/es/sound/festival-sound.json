@@ -1,0 +1,75 @@
+{
+  "festival-sound": {
+    "meta": {
+      "title": "Sonido de festival",
+      "description": "Crea sonidos de festival al instante con nuestra tecnología de IA avanzada. Genera diversos tipos de sonidos, incluidos sonidos naturales, instrumentos musicales y más.",
+      "keywords": "sonido de festival, sonido festival"
+    },
+    "hero": {
+      "title": "Sonido de festival",
+      "subtitle": "Transforma descripciones de texto en sonido de festival de alta calidad al instante"
+    },
+    "generator_subtitle": "Selecciona entre los prompts populares de abajo o escribe tu propia descripción para generar sonido de festival",
+    "advantages": {
+      "title": "¿Por qué elegir nuestro generador de sonido de festival?",
+      "items": [
+        {
+          "title": "Creación instantánea de sonido de festival",
+          "description": "Genera sonido de festival y ambiente de evento profesional al instante a partir del texto. Nuestra herramienta convierte tus descripciones en vítores de multitud, música en vivo, escenarios y bullicio de puestos de comida en segundos—sin grabación de campo ni bibliotecas grandes. Crea variaciones ilimitadas para vídeo, anuncios o eventos. Ya sea sonido de festival al aire libre, multitud de evento o energía del escenario principal, el generador ofrece resultados limpios y listos para emisión.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Posibilidades creativas ilimitadas",
+          "description": "Crea cualquier estilo de sonido de festival que necesites: multitud de concierto, ambiente de set DJ, evento folk o ambiente de evento lejano. El generador entiende descripciones detalladas y produce audio correspondiente para total libertad creativa. Explora variaciones para cine, podcasts y contenido. De la carpa íntima al sonido de festival masivo, encuentra el ajuste adecuado para cada proyecto.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Calidad de audio profesional",
+          "description": "Todo sonido de festival generado cumple los estándares de emisión con salida de alta fidelidad. El generador usa algoritmos modernos para que cada resultado sonido festival sea claro y listo para producción. Las salidas están optimizadas para vídeo, cine y medios. Obtén audio de festival consistente y con calidad de estudio para tu trabajo.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Sobre el generador de sonido de festival",
+      "items": [
+        {
+          "question": "¿Qué es un generador de sonido de festival?",
+          "answer": "Un generador de sonido de festival es una herramienta de IA que convierte texto en sonido de festival personalizado y ambiente sonido festival como multitud, música en vivo y ruido de escenario. Produce audio profesional para vídeo, juegos y anuncios sin grabación ni bibliotecas grandes. El sistema usa síntesis neuronal entrenada en audio real de evento y multitud, así que obtienes resultados naturales y utilizables. Está pensado para creadores que necesitan sonido de festival rápido y variado para cualquier proyecto."
+        },
+        {
+          "question": "¿Cómo funciona el generador de sonido de festival?",
+          "answer": "Nuestro generador lee tu descripción de texto y extrae rasgos como tipo de evento, tamaño de multitud y distancia. Luego sintetiza el sonido de festival correspondiente—rugido de multitud, graves del escenario o sonido festival lejano. Puedes pedir escenario principal de festival de música, ambiente de food-court o multitud al aire libre. El resultado es un archivo limpio y listo para usar que puedes descargar e incorporar a tu proyecto."
+        },
+        {
+          "question": "¿Qué hace único a este generador de sonido de festival?",
+          "answer": "A diferencia de bibliotecas fijas, nuestro generador de sonido de festival crea nuevas variaciones bajo demanda a partir de texto plano. Obtienes ambiente de evento personalizado sin buscar en miles de archivos. La IA está entrenada con audio de evento y multitud de alta calidad, así que cada resultado es consistente y profesional. Genera tantas variaciones como necesites para cada escena o edición."
+        },
+        {
+          "question": "¿Cómo escribir prompts efectivos para sonido de festival?",
+          "answer": "Usa descripciones claras y concretas. Por ejemplo: \"sonido de festival de música al aire libre multitud vitoreando\" o \"sonido festival lejano con graves.\" Menciona el tipo de evento (música, comida, folk), el escenario (principal, carpa, exterior) y la intensidad (fuerte, ambiente, lejano). El generador responde bien a términos como multitud, escenario, graves y sonido festival. Más detalle ayuda a que la salida coincida con tu visión."
+        },
+        {
+          "question": "¿Cómo usar sonido de festival en contenido de vídeo?",
+          "answer": "Usa el sonido de festival para dar realismo a resúmenes de evento, anuncios o documentales. Superpone multitud bajo material de apoyo, añade graves del escenario para energía o usa sonido festival lejano para ambiente. Varía la intensidad—más fuerte para clímax, más suave para transiciones. Nuestro generador te permite crear suficientes variaciones para que cada escena tenga un sonido de festival adecuado sin repetición."
+        },
+        {
+          "question": "¿Cómo usar sonido de festival en desarrollo de juegos?",
+          "answer": "El sonido de festival funciona bien para escenas de evento, ambiente de mundo abierto e interfaz. Usa multitud para fondo, audio de escenario para momentos clave y sonido festival para sensación de ubicación. Nuestro generador admite muchas variaciones para mantener un estilo consistente. Crea conjuntos distintos para distintos lugares o eventos con salida clara y profesional."
+        },
+        {
+          "question": "¿Qué tipos de sonido de festival puedo crear?",
+          "answer": "Puedes crear una amplia gama de sonidos de festival: vítores de multitud, graves de escenario en vivo, set DJ, evento folk o al aire libre, bullicio de zona de comida, ambiente lejano o cercano. Úsalos para cine, juegos, podcasts o cualquier proyecto que necesite audio de evento. El generador maneja distintos contextos y estilos con calidad consistente."
+        },
+        {
+          "question": "¿Los sonidos de festival generados son libres de regalías?",
+          "answer": "Sí. Todo sonido de festival generado por nuestro generador es libre de regalías y viene con licencia comercial. Puedes usarlos en cualquier proyecto sin cargos extra ni atribución. Cada archivo sonido festival generado está autorizado para uso profesional y comercial. Descarga tantos como necesites para tus proyectos."
+        },
+        {
+          "question": "¿Cuál es la calidad del sonido de festival generado?",
+          "answer": "Nuestro generador de sonido de festival produce audio de nivel profesional que cumple los estándares habituales de emisión y producción. Obtienes archivos de alta resolución, rango de frecuencias completo y dinámica controlada para que cada salida sea clara y listo para incorporar a tu proyecto. Todo archivo generado es adecuado para uso profesional en vídeo, cine y contenido."
+        }
+      ]
+    }
+  }
+}

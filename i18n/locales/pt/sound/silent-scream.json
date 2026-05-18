@@ -1,0 +1,71 @@
+{
+  "silent-scream": {
+    "meta": {
+      "title": "Grito silencioso",
+      "description": "Crie instantaneamente «grito silencioso» com nossa IA avançada. Gere vários tipos de sons, incluindo naturais, instrumentos e muito mais.",
+      "keywords": "grito silencioso, grito extremo"
+    },
+    "hero": {
+      "title": "Grito silencioso",
+      "subtitle": "Transforme instantaneamente uma descrição em texto em «grito silencioso» de alta qualidade"
+    },
+    "generator_subtitle": "Escolha entre os prompts populares abaixo ou escreva sua própria descrição para gerar «grito silencioso»",
+    "advantages": {
+      "title": "Por que escolher nosso gerador de grito silencioso?",
+      "items": [
+        {
+          "title": "Gere cues de grito silencioso em segundos",
+          "description": "Transforme prompts de texto concisos em indicações vocais tensas e expressivas sem vasculhar bibliotecas enormes. O modelo captura ritmo, forma do fôlego e pressão emocional para que cada saída sirva a edições cinematográficas, momentos de jogo ou transições dramáticas. Você pode iterar rápido quando uma cena precisa de várias opções de intensidade. Uma cue de grito silencioso focada só escala para grito extremo quando o corte realmente precisa.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Tom flexível do sutil ao extremo",
+          "description": "Ajuste a entrega da tensão contida ao grito extremo refinando contexto, duração e textura vocal no prompt. Fica mais fácil alinhar o storytelling visual mantendo espaço limpo para diálogo. O fluxo cobre drama realista e sotaques de horror estilizados. Editores costumam emparelhar uma take de grito silencioso com uma de grito extremo para A/B rápido de timing.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualidade de áudio profissional",
+          "description": "As exportações vêm prontas para mix com loudness estável e transientes controlados, facilitando substituições tardias na produção. Os arquivos permanecem claros após a compressão comum das plataformas, ajudando seus beats emocionais a ficarem consistentes em todos os dispositivos. Nivelamento consistente mantém cada grito silencioso inteligível enquanto cada camada de grito extremo permanece controlada.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Sobre nosso gerador de grito silencioso",
+      "items": [
+        {
+          "question": "O que é um gerador de grito silencioso?",
+          "answer": "É uma ferramenta de áudio com IA que converte prompts de texto em efeitos vocais dramáticos focados em tensão e impacto. Em vez de gravar muitas tomadas, você gera rapidamente uma cue no estilo grito silencioso e testa direto na linha do tempo. Um mesmo conceito pode ramificar em várias variantes de grito extremo para edições diferentes."
+        },
+        {
+          "question": "Como funciona esta ferramenta de grito silencioso?",
+          "answer": "O sistema lê atributos do prompt como emoção, pressão, ritmo e textura e sintetiza áudio alinhado a esses traços. Você pode refinar a redação entre passagens até timing e intensidade baterem com o corte visual. A iteração ajuda cada grito silencioso a cair no quadro enquanto cada surto de grito extremo permanece intencional."
+        },
+        {
+          "question": "Por que usar isso em vez de bibliotecas de stock?",
+          "answer": "Bibliotecas de stock podem soar repetitivas e não encaixar no ritmo exato da cena. A geração por prompt oferece variações novas sob demanda, tornando momentos dramáticos mais específicos e menos genéricos. Isso mantém cada grito silencioso único e evita que momentos de grito extremo pareçam reciclados."
+        },
+        {
+          "question": "Como devo escrever prompts para efeitos de grito silencioso?",
+          "answer": "Use contexto concreto: quem reage, o que dispara o momento e quanto tempo a cue deve sustentar. Prompts específicos como «suspiro curto e contido antes do impacto» costumam dar melhor timing do que palavras-chave amplas. Mais detalhe afina o timing do grito silencioso e mantém o grito extremo mais limpo em mixes densos."
+        },
+        {
+          "question": "Quando usar grito extremo em um mix?",
+          "answer": "Use grito extremo em momentos de impacto-chave como revelações, jump cuts ou transições de clímax. Mantenha-o levemente abaixo do diálogo crítico e automatize o ganho para que o efeito acrescente tensão sem dominar a fala. Emparelhar uma entrada em grito silencioso antes do grito extremo costuma melhorar o ritmo dramático."
+        },
+        {
+          "question": "Que tipos de variantes posso gerar?",
+          "answer": "Você pode criar respirações contidas, picos agudos de pânico, swells vocais em camadas ou texturas longas de angústia. Essa faixa ajuda editores a testar arcos emocionais diferentes antes do lock final. Monte um banco reutilizável de gritos silenciosos e marque cada clipe de grito extremo por intensidade para revisões mais rápidas."
+        },
+        {
+          "question": "O áudio gerado é livre de royalties?",
+          "answer": "Sim. Os arquivos gerados são livres de royalties sob nossa licença para uso padrão de criadores e comercial. Sempre revise os termos de licença vigentes antes de grandes campanhas ou lançamento em broadcast."
+        },
+        {
+          "question": "Que qualidade devo esperar das exportações?",
+          "answer": "Espere saída limpa e pronta para produção com dinâmica consistente e reprodução confiável em dispositivos móveis e desktop. Para entrega final, aplique sua cadeia usual de masterização para bater a meta de loudness do projeto. O QC final deve confirmar que cada grito silencioso permanece claro e cada momento de grito extremo sobrevive à compressão das plataformas."
+        }
+      ]
+    }
+  }
+}

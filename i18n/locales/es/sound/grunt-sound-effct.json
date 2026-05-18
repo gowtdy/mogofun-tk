@@ -1,0 +1,75 @@
+{
+  "grunt-sound-effect": {
+    "meta": {
+      "title": "Efecto de sonido de gruñido",
+      "description": "Crea efecto de sonido de gruñido al instante con nuestra tecnología de IA avanzada. Genera diversos tipos de sonidos: naturales, instrumentos musicales y más.",
+      "keywords": "efecto de sonido gruñido, ruido de gemido"
+    },
+    "hero": {
+      "title": "Efecto de sonido de gruñido",
+      "subtitle": "Transforma descripciones de texto en efecto de sonido de gruñido de alta calidad al instante"
+    },
+    "generator_subtitle": "Elige entre los prompts populares de abajo o escribe tu propia descripción para generar efecto de sonido de gruñido",
+    "advantages": {
+      "title": "¿Por qué usar nuestro generador de efectos de sonido de gruñido?",
+      "items": [
+        {
+          "title": "Creación instantánea de efecto de sonido de gruñido",
+          "description": "Genera efecto de sonido de gruñido profesional a partir de texto en segundos. Nuestra herramienta convierte tus descripciones en audio de calidad de estudio sin bibliotecas de muestras ni edición manual. Crea variaciones ilimitadas para cualquier proyecto. ¿Necesitas estilo esfuerzo, dolor o reacción? El generador maneja efecto de sonido de gruñido realista y estilizado con calidad consistente. Ideal para creadores que quieren ruido de gemido rápido y natural para juegos, películas u otros medios.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Opciones creativas flexibles",
+          "description": "Usa el generador para el estilo que necesites—sutil a intenso, único o en capas. Entiende descripciones detalladas y te da control creativo total. Explora variaciones de ruido de gemido adaptadas a tu escena o personaje. Cada salida está hecha para tu proyecto. La herramienta soporta escenarios diversos y entrega efecto de sonido de gruñido listo para emisión en juegos, vídeos y proyectos de audio.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Calidad de audio profesional",
+          "description": "Cada efecto de sonido de gruñido de nuestro generador cumple estándares de emisión con salida de alta fidelidad. Algoritmos punteros garantizan resultados claros y naturales. Todos los clips de efecto de sonido de gruñido generados están listos para producción y optimizados para uso profesional. El sistema ofrece calidad consistente en todas las variaciones, tu ruido de gemido y efectos vocales siempre suenan pulidos y listos para publicar. Ideal para ruido de gemido en juegos, películas y otros medios.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Sobre el generador de efectos de sonido de gruñido",
+      "items": [
+        {
+          "question": "¿Qué es un generador de efectos de sonido de gruñido?",
+          "answer": "Es una herramienta de IA que convierte texto en audio vocal y gruñido personalizado. La nuestra usa procesamiento de lenguaje natural y síntesis neuronal para producir efecto de sonido de gruñido profesional y ruido de gemido. Describes el sonido que quieres—intensidad, contexto, estilo—y el generador crea el audio correspondiente. Sirve para desarrolladores de juegos, cineastas y creadores de contenido que necesitan efecto de sonido de gruñido rápido y realista para personajes o escenas. La herramienta soporta distintos estados de ánimo y estilos para que obtengas el sonido adecuado cada vez."
+        },
+        {
+          "question": "¿Cómo funciona el generador de efectos de sonido de gruñido?",
+          "answer": "Nuestro generador analiza tu texto con NLP y luego lo procesa en redes entrenadas para síntesis vocal y de gruñidos. Captura rasgos como intensidad, duración y tipo de personaje para dar forma a la salida. Entrenado con muestras vocales profesionales, la IA produce variaciones naturales de efecto de sonido de gruñido. Filtrado y postprocesado mantienen la calidad alta para que cada efecto de sonido cumpla estándares de emisión. Obtienes clips de calidad de estudio sin grabación ni edición."
+        },
+        {
+          "question": "¿Qué hace diferente a este generador de efectos de sonido de gruñido?",
+          "answer": "Nuestra herramienta destaca por velocidad, calidad y facilidad de uso. A diferencia de bibliotecas estáticas, crea efecto de sonido de gruñido personalizado bajo demanda a partir de descripciones simples. El sistema entiende matices y entrega ruido de gemido variado para distintos contextos. Tienes variaciones ilimitadas y control creativo total. La tecnología asegura una salida equilibrada y natural para que tus clips encajen en cualquier proyecto."
+        },
+        {
+          "question": "¿Cómo escribir buenos prompts para efecto de sonido de gruñido?",
+          "answer": "Escribe descripciones claras y concretas. Menciona intensidad (suave, medio, fuerte), contexto (esfuerzo, dolor, reacción) y estilo (realista, estilizado). Nuestro generador de efectos de sonido de gruñido responde bien al detalle—p. ej. \"gruñido corto tras impacto\" o \"ruido de gemido en capas a lo lejos\". Incluye ambiente y duración cuando proceda. Cuanto más contexto des, mejor el resultado. Prueba distintas redacciones para explorar variaciones de efecto de sonido de gruñido que encajen con tu escena."
+        },
+        {
+          "question": "¿Cómo usar efecto de sonido de gruñido en contenido de vídeo?",
+          "answer": "Coloca efectos de sonido donde las escenas necesiten reacción o impacto—golpes, esfuerzo o momentos dramáticos. Nuestro generador permite crear ruido de gemido y audio a medida para cada momento para que sea coherente con la historia. Superpone varias variaciones para profundidad. Usa la herramienta para transiciones, cortes o énfasis. El generador produce suficiente variación de ruido de gemido para evitar repetición manteniendo un estilo coherente en todo el vídeo."
+        },
+        {
+          "question": "¿Puedo usar efecto de sonido de gruñido en juegos?",
+          "answer": "Sí. El generador soporta efecto de sonido de gruñido procedural para juegos—clips distintos para golpes, daño o eventos para que los jugadores rara vez oigan el mismo clip dos veces. Crea ruido de gemido y audio adaptativos que reaccionan al estado del juego y a las acciones. Obtienes ruido de gemido variado para personajes, NPCs y cinemáticas con calidad consistente. La salida es ideal para juegos de combate, terror o narrativos. Úsalo para habilidades, heridas o capas de ruido de gemido ambiente para mejorar la inmersión."
+        },
+        {
+          "question": "¿Qué tipos de efecto de sonido de gruñido puedo crear?",
+          "answer": "Puedes crear un amplio rango: suave a intenso, voz única o múltiple, realista o estilizado. El generador maneja esfuerzo, dolor, reacción y otros contextos con calidad profesional. Ya sea ruido de gemido sutil de fondo o fuerte ruido de gemido vocal para escenas clave, la herramienta lo entrega. Combina prompts para obtener el efecto de sonido exacto que tu proyecto necesita."
+        },
+        {
+          "question": "¿Los efectos de sonido de gruñido generados son libres de regalías?",
+          "answer": "Sí. Todos los efectos de sonido de gruñido y ruido de gemido de nuestro generador son libres de regalías y vienen con licencia comercial. Puedes usarlos en cualquier proyecto sin cargos extra ni atribución. Cada clip está autorizado para uso profesional y comercial, incluidos juegos, vídeos y podcasts."
+        },
+        {
+          "question": "¿Qué calidad tienen los clips de efecto de sonido de gruñido?",
+          "answer": "Nuestro generador de efectos de sonido de gruñido produce audio de nivel profesional que cumple estándares de la industria. Tienes opciones de alta resolución, rango de frecuencias completo y dinámicas claras. Toda salida de efecto de sonido de gruñido y ruido de gemido está lista para emisión y es adecuada para producción de cine, juego y medios. El generador mantiene la calidad consistente en todas las variaciones de ruido de gemido."
+        }
+      ]
+    }
+  }
+}

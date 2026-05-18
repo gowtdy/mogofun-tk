@@ -1,0 +1,71 @@
+{
+  "shouting-sound-effect": {
+    "meta": {
+      "title": "Ruf-Soundeffekt",
+      "description": "Erstellen Sie sofort Ruf-Soundeffekte mit unserer fortschrittlichen KI. Generieren Sie verschiedene Klangtypen – Naturgeräusche, Instrumente und mehr.",
+      "keywords": "ruf-soundeffekt, ruf-meme"
+    },
+    "hero": {
+      "title": "Ruf-Soundeffekt",
+      "subtitle": "Verwandeln Sie Textbeschreibungen sofort in hochwertige Ruf-Soundeffekte"
+    },
+    "generator_subtitle": "Wählen Sie unten beliebte Prompts oder schreiben Sie Ihre eigene Beschreibung, um Ruf-Soundeffekte zu erzeugen",
+    "advantages": {
+      "title": "Warum unseren Generator für Ruf-Soundeffekte wählen?",
+      "items": [
+        {
+          "title": "Intensive Vocal-Cues in Sekunden erstellen",
+          "description": "Erzeugen Sie einsatzbereite Vocal-Clips direkt aus Text – ohne riesige Bibliotheken zu durchsuchen oder Extra-Takes aufzunehmen. Das Modell erfasst Dringlichkeit, Distanz und emotionalen Druck, sodass Ausgaben zu Spiel-Schnitten, Trailern, Streams und filmischen Einstellungen passen. Schnelle Iteration hilft Teams, Optionen vor dem Lock zu vergleichen.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Flexibler Stil für Kampf- und Reaktionsmomente",
+          "description": "Von kontrollierten Callouts bis zu energiegeladenen Chor-Vocals: Prompt-Detail formt Textur, Rhythmus und wahrgenommenen Raum. So lässt sich jeder Ruf-Soundeffekt leichter unter Dialog, über Musikbetten oder als eigenständiger Stinger platzieren. Alternativen für A/B-Timing-Checks laufen in einem Workflow. Für shareable Social-Momente eignen sich kurze, meme-artige Rufe.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professionelle Audioqualität",
+          "description": "Dateien exportieren mit stabiler Dynamik und sauberen Transienten – weniger Cleanup in der Postproduktion. Lautheitsverhalten bleibt nach Plattformkompression vorhersehbar, damit Ruf-Cues auf Mobil und Desktop punch behalten.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Über unseren Generator für Ruf-Soundeffekte",
+      "items": [
+        {
+          "question": "Was ist ein Generator für Ruf-Soundeffekte?",
+          "answer": "Ein KI-Tool, das Textprompts in stimmliche Ruf-Cues für Spiele, Videos und Social-Content verwandelt. Statt Sound-Packs manuell zu durchsuchen, erzeugen Sie schnell szenenspezifische Clips und bleiben im Storytelling-Fokus."
+        },
+        {
+          "question": "Wie funktioniert dieses Tool für Ruf-Soundeffekte?",
+          "answer": "Das Modell wertet Ihren Prompt nach Absicht, Intensität, Tempo und Kontext aus und synthetisiert dann passendes Audio. Sie können die Formulierung zwischen Durchläufen verfeinern, bis die Cue exakt auf Frame und emotionalen Beat sitzt."
+        },
+        {
+          "question": "Warum das statt Stock-Assets?",
+          "answer": "Stock-Material wirkt oft repetitiv und passt nicht immer zum Szenentempo. Prompt-getriebene Generierung liefert frische Takes auf Abruf – jeder Ruf-Soundeffekt wird spezifischer und besser ans visuelle Timing gekoppelt."
+        },
+        {
+          "question": "Wie schreibe ich Prompts für Ruf-Soundeffekte?",
+          "answer": "Beschreiben Sie, wer ruft, warum, und wie lange der Ruf halten soll. Konkrete Prompts wie „kurzer Kommandoruf vor dem Aufprall“ liefern meist besseres Timing als vage Ein-Wort-Wünsche."
+        },
+        {
+          "question": "Wo wirkt ein Ruf-Soundeffekt im Schnitt am besten?",
+          "answer": "Nutzen Sie ihn für Kampf-Höhepunkte, dramatische Übergänge, Dringlichkeits-Cues und energiegeladene Reveals. Pegel unter primärem Dialog halten und Gain automatisieren, um Verständlichkeit in dichten Mixes zu wahren."
+        },
+        {
+          "question": "Welche Varianten kann ich erzeugen?",
+          "answer": "Sie können kurze Kommandos, Kampf-Schreie, geschichtete Chor-Rufe, angespannte Vocal-Bursts und stilisierte Film-Rufe erzeugen. Mehrere Varianten helfen, den besten emotionalen Bogen vor der finalen Auslieferung zu wählen; kurze meme-artige Rufe sind für Social ebenfalls möglich."
+        },
+        {
+          "question": "Ist generiertes Audio lizenzfrei?",
+          "answer": "Ja. Generierte Dateien sind unter unserer Standardlizenz für typische Creator- und kommerzielle Nutzung lizenzfrei. Prüfen Sie die aktuellen Bedingungen vor großen Werbekampagnen oder Broadcast."
+        },
+        {
+          "question": "Welche Qualität kann ich von Exporten erwarten?",
+          "answer": "Erwarten Sie produktionsreifes Material mit klaren Transienten, zuverlässiger Dynamik und konsistenter Wiedergabe auf allen Geräten. Für Release wenden Sie Ihre übliche Mastering-Kette an, um die Loudness-Ziele des Projekts zu treffen."
+        }
+      ]
+    }
+  }
+}

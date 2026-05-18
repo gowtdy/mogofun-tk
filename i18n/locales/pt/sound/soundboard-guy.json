@@ -1,0 +1,71 @@
+{
+  "soundboard-guy": {
+    "meta": {
+      "title": "Soundboard Guy",
+      "description": "Crie instantaneamente “soundboard guy” com nossa IA avançada. Gere vários tipos de sons, incluindo naturais, instrumentos e muito mais.",
+      "keywords": "soundboard guy, grito humano"
+    },
+    "hero": {
+      "title": "Soundboard Guy",
+      "subtitle": "Transforme instantaneamente uma descrição em texto em “soundboard guy” de alta qualidade"
+    },
+    "generator_subtitle": "Escolha entre os prompts populares abaixo ou escreva sua própria descrição para gerar “soundboard guy”",
+    "advantages": {
+      "title": "Por que escolher nosso gerador Soundboard Guy?",
+      "items": [
+        {
+          "title": "Gere clipes rapidamente",
+          "description": "Transforme prompts curtos em linhas de reação expressivas sem vasculhar pacotes antigos de som. O modelo captura timing, tom e ênfase para que cada clipe sirva para lives, edições de meme e cortes rápidos para redes sociais. Você pode iterar rápido quando uma piada precisa de várias versões. Um prompt focado em “soundboard guy” também pode sobrepor um acento de grito humano para revelações mais fortes.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Estilo flexível para reações e esquetes",
+          "description": "Peça entrega calma, dramática, sarcástica ou caótica e refine o ritmo com mais detalhe no prompt. Quer um callout compacto ou um momento de grito humano em camadas, as saídas permanecem alinhadas à intenção da cena. Isso ajuda criadores a manter a voz do personagem ao longo dos episódios. Equipes costumam emparelhar uma take de “soundboard guy” com uma de grito humano para A/B rápidos.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualidade de áudio profissional",
+          "description": "Os arquivos exportam com loudness estável e transientes limpos, facilitando o encaixe na linha do tempo e em sessões de podcast. A qualidade segue confiável após a compressão comum das plataformas, para que trocas tardias não quebrem o mix. Nivelamento consistente mantém cada clipe de “soundboard guy” claro enquanto cada grito humano permanece controlado.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Sobre nosso gerador Soundboard Guy",
+      "items": [
+        {
+          "question": "O que é um gerador de “soundboard guy”?",
+          "answer": "É uma ferramenta de IA que cria clipes curtos estilo voz de reação a partir de prompts de texto simples. Em vez de gravar atores ou vasculhar bibliotecas enormes, você gera uma linha de “soundboard guy” que combina com seu timing e tom em segundos. Um mesmo conceito pode ramificar em várias variantes de grito humano para cortes diferentes."
+        },
+        {
+          "question": "Como funciona esta ferramenta de “soundboard guy”?",
+          "answer": "O sistema lê pistas do prompt como emoção, ritmo e intensidade e sintetiza um clipe alinhado a esses traços. Você pode refinar a redação entre passagens até entrega, impacto e timing baterem exatamente com sua edição. A iteração ajuda cada beat de “soundboard guy” a alinhar enquanto cada camada de grito humano permanece intencional."
+        },
+        {
+          "question": "Por que usar isso em vez de soundboards de stock?",
+          "answer": "Bancos de stock costumam repetir clipes batidos. Aqui você gera variações novas com a linguagem do seu próprio prompt, mantendo o conteúdo original e mais adequado ao cenário. Assim cada momento de “soundboard guy” parece único e cada transição de grito humano evita clichê."
+        },
+        {
+          "question": "Como devo escrever prompts para saída de “soundboard guy”?",
+          "answer": "Use contexto concreto: quem fala, por que reage e quanto a linha deve durar. Prompts específicos como “callout curto e confiante após uma vitória no jogo” costumam dar resultados mais limpos do que pedidos de uma só palavra vaga. Mais detalhe deixa a formulação de “soundboard guy” mais firme e o timing do grito humano mais limpo."
+        },
+        {
+          "question": "Onde o grito humano entra neste fluxo?",
+          "answer": "Uma camada de grito humano controlada funciona bem para transições de alta energia, momentos de pânico exagerado ou revelações amplificadas. Mantenha o nível um pouco abaixo de narração e música para que o efeito acrescente impacto sem mascarar a fala. Emparelhar um cue de “soundboard guy” antes de um grito humano pode melhorar o ritmo cômico."
+        },
+        {
+          "question": "Que tipos de variantes posso gerar?",
+          "answer": "Você pode criar stabs de voz seca, reações em camadas, callouts altos, takes contidos e sotaques cômicos estilizados. Isso facilita testar várias opções antes de fixar o timing final. Monte um banco reutilizável de “soundboard guy” e marque cada grito humano por intensidade para edições mais rápidas."
+        },
+        {
+          "question": "O áudio gerado é livre de royalties?",
+          "answer": "Sim. As saídas são livres de royalties sob nossa licença padrão para uso típico de criadores e comercial. Consulte os termos atuais antes de grandes campanhas publicitárias ou distribuição em broadcast."
+        },
+        {
+          "question": "Que qualidade devo esperar das exportações?",
+          "answer": "Espere áudio pronto para produção com dinâmica consistente, detalhe de agudos claro e comportamento de mix previsível. Se necessário, passe pela sua cadeia usual de masterização para bater a meta de loudness do seu canal. O QC final deve confirmar que cada linha de “soundboard guy” permanece inteligível e cada grito humano sobrevive à compressão das plataformas."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "soundboard-funny": {
+    "meta": {
+      "title": "Soundboard engraçado",
+      "description": "Crie um soundboard engraçado único com IA avançada de efeitos sonoros, gerando sons naturais, instrumentos e muito mais.",
+      "keywords": "soundboard engraçado, vozes engraçadas"
+    },
+    "hero": {
+      "title": "Soundboard engraçado",
+      "subtitle": "Transforme descrições em texto em clipes de soundboard engraçado de alta qualidade"
+    },
+    "generator_subtitle": "Escolha entre os prompts populares abaixo ou escreva sua própria descrição para gerar um soundboard engraçado",
+    "advantages": {
+      "title": "Por que montar um soundboard engraçado com prompts?",
+      "items": [
+        {
+          "title": "Hits prontos em segundos",
+          "description": "Descreva rimshots, airhorns, stings de meme ou pops cartoon e receba stems curtos para mapear em hotkeys ou tiles. Saídas punchy mantêm botões em sequência limpos no mix. Duplique, corte caudas e arquive sobras.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Troque tiles sem refazer o board",
+          "description": "Regenere irmãos com o mesmo timbre e mude só duração/intensidade. Exporte famílias consistentes para OBS/Riverside/Discord bots. Se stacks mascararem a locução, encurte decays; se faltou punch, enriqueça verbos; QC antes do show.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Níveis seguros para stream",
+          "description": "Dinâmica voltada a interfaces de stream e earbuds. Bache clipes para tour/temporada com picos previsíveis e ajuste loudness no router/DAW como qualquer SFX.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Soundboard engraçado: perguntas e respostas",
+      "items": [
+        {
+          "question": "O que é conteúdo soundboard engraçado aqui?",
+          "answer": "Cues cômicos curtos e repetíveis—stings, buzzers, horns, pops cartoon—criados por texto para você atribuir legalmente a tiles/hotkeys. Bom para shows de host, drops de podcast e bots. Normalize vozes engraçadas antes de bindar hotkeys."
+        },
+        {
+          "question": "Como o prompt vira um clipe pronto?",
+          "answer": "Descreva timbre, duração e punch (\"dry rimshot 0.25s\"). O modelo renderiza e doma picos. Baixe, normalize se precisar e bind no slot."
+        },
+        {
+          "question": "Posso misturar vozes engraçadas com stings?",
+          "answer": "Sim: grave/sintetize a fala e empilhe stems por baixo. Mantenha inteligibilidade e corte caudas para não borrar a piada."
+        },
+        {
+          "question": "Como manter o grid coeso?",
+          "answer": "Reutilize adjetivos de material e varie só duração/intensidade. Exporte irmãos numerados para A/B na mesma coluna."
+        },
+        {
+          "question": "Funciona em OBS/Stream Deck/Discord bots?",
+          "answer": "Sim: áudio padrão para mapear em hotkeys/macros/comandos. Siga políticas e hábitos de loudness."
+        },
+        {
+          "question": "Como evitar fadiga em streams longas?",
+          "answer": "Gere alternates e rode tiles. Prefira decays curtos e faça high-pass se stacks ficarem densos."
+        },
+        {
+          "question": "Quais estilos combinam?",
+          "answer": "Rimshots, kazoo buzz, slide whistles, buzzer de resposta errada, boings e impactos meme-adjacent. Separe one-shots e beds."
+        },
+        {
+          "question": "Royalty-free?",
+          "answer": "Conforme licença no download. Arquive PDFs e revise em renovações."
+        },
+        {
+          "question": "Qualidade?",
+          "answer": "Stems em alta resolução com dinâmica controlada. Use seu estágio de loudness se houver specs broadcast."
+        },
+        {
+          "question": "Quem se beneficia?",
+          "answer": "Hosts, produtores de podcast e community managers. Atualize layouts por temporada iterando prompts, e varie vozes engraçadas por slot."
+        }
+      ]
+    }
+  }
+}

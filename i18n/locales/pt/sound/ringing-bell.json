@@ -1,0 +1,75 @@
+{
+  "ringing-bell": {
+    "meta": {
+      "title": "Sino tocando",
+      "description": "Crie sino tocando instantaneamente com nossa tecnologia de IA avançada. Gere diversos tipos de som: tocar sino, sons naturais, instrumentos musicais e mais.",
+      "keywords": "sino tocando, tocar sino"
+    },
+    "hero": {
+      "title": "Sino tocando",
+      "subtitle": "Transforme descrições em texto em sino tocando e tocar sino de alta qualidade instantaneamente"
+    },
+    "generator_subtitle": "Selecione entre os prompts populares abaixo ou escreva sua própria descrição para gerar sino tocando",
+    "advantages": {
+      "title": "Por que escolher nosso gerador?",
+      "items": [
+        {
+          "title": "Criação instantânea de sino tocando",
+          "description": "Crie clipes de sino tocando profissionais instantaneamente a partir de texto com nosso gerador de IA. A ferramenta transforma suas ideias em áudio de carrilhão e repique de alta qualidade em segundos, sem bibliotecas de amostras ou edição manual. Gere variações ilimitadas para qualquer projeto com alguns cliques. Seja tocar sino, carrilhão de igreja ou repiques em camadas, entrega saída em qualidade de estúdio para seus projetos criativos.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Possibilidades criativas ilimitadas",
+          "description": "Use nosso gerador para criar qualquer estilo de sino tocando que imaginar—de repiques de igreja a carrilhão de porta. A ferramenta entende descrições complexas e dá liberdade criativa total. Explore opções infinitas para vídeos, jogos e apps. De golpes únicos a carrilhão e repique em camadas, obtenha o clipe tocar sino perfeito para cada cenário.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualidade de áudio profissional",
+          "description": "Todo sino tocando do nosso gerador atende aos padrões de transmissão com saída de alta fidelidade. Algoritmos de ponta garantem resultados em qualidade de estúdio para sino tocando. Toda a saída está pronta para produção e otimizada para uso profissional. Oferece cobertura de frequência completa e dinâmica controlada para saída autêntica de carrilhão e repique, incluindo tocar sino.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "FAQ do gerador",
+      "items": [
+        {
+          "question": "O que é um gerador de sino tocando?",
+          "answer": "É uma ferramenta de IA que transforma descrições em texto em áudio personalizado de carrilhão e repique. A nossa usa processamento de linguagem natural e síntese neural de áudio para produzir clipes de qualidade profissional. Modelos de deep learning treinados em conjuntos de dados de carrilhão entendem sua descrição e geram variações correspondentes. É ideal para criadores de conteúdo, editores de vídeo e desenvolvedores de jogos que precisam de saída rápida e autêntica de sino tocando. A ferramenta usa seu contexto e detalhes para criar áudio nuanceado e em camadas. Para tocar sino refinado ou outros estilos, entrega resultados precisos e de alta fidelidade."
+        },
+        {
+          "question": "Como funciona?",
+          "answer": "A ferramenta usa um pipeline em várias etapas para transformar texto em áudio de alta qualidade. Primeiro analisa sua descrição para capturar traços como tom, ressonância, duração e estilo. Essas informações passam por redes neurais treinadas para síntese de carrilhão e repique, que tratam frequência, dinâmica e decaimento. Treinada com amostras profissionais, a IA produz saída de tocar sino natural. Filtragem e pós-processamento mantêm a qualidade alta e garantem que todo clipe atenda aos padrões de transmissão."
+        },
+        {
+          "question": "O que torna este gerador único?",
+          "answer": "Nosso gerador se destaca pela personalização instantânea e qualidade profissional. Diferente de bibliotecas estáticas, ele cria clipes de carrilhão sob medida sob demanda. É treinado com amostras de alta qualidade para resultados realistas, incluindo estilos de carrilhão variados. O sistema entende descrições complexas e produz saída de sino tocando com controle fino de tom e contexto. Você obtém variações ilimitadas e liberdade criativa."
+        },
+        {
+          "question": "Como escrevo prompts eficazes para o gerador?",
+          "answer": "Escreva descrições claras e específicas com vários detalhes. Em vez de só \"carrilhão\" ou \"tocar sino\", tente \"sino tocando com reverb\" ou \"repique com eco.\" Inclua estilo, tom, duração e traços distintivos. A ferramenta responde bem a termos como carrilhão de igreja, repique de porta e ressonância. Para cenários complexos, divida em partes e diga como se combinam. Mais contexto gera melhores resultados para sino tocando e tocar sino."
+        },
+        {
+          "question": "Como usar em conteúdo de vídeo?",
+          "answer": "Mapeie as cenas do seu vídeo e coloque clipes de sino tocando personalizados onde agregam impacto. Ajuda a criar áudio de carrilhão e repique para cada momento—de dicas sutis a hits dramáticos. Sobreponha várias variações de sino tocando para áudio rico e envolvente. Use para transições, títulos e cenas-chave. Use momentos distintos como tocar sino para sublinhar tempo ou lugar. A ferramenta permite construir um estilo de áudio único que combina com seu conteúdo."
+        },
+        {
+          "question": "Como usar no desenvolvimento de jogos?",
+          "answer": "Suporta áudio procedural para jogos. Crie variações de sino tocando e tocar sino para que os jogadores raramente ouçam o mesmo clipe duas vezes—de dicas de UI a tocar sino ambiente. Construa sistemas que reajam ao estado do jogo, ações do jogador e condições. Produza opções diferentes para UI, fases e eventos mantendo estilo consistente. Saída em camadas pode ser mixada dinamicamente a partir dos parâmetros do jogo. A ferramenta entrega áudio de qualidade profissional que aumenta imersão e feedback."
+        },
+        {
+          "question": "Que tipos de sino tocando posso criar?",
+          "answer": "Você pode criar uma ampla gama de sino tocando: carrilhão de igreja, repique de porta, tocar sino para ambiente ou UI, intensidades (suave a alto) e estilos (igreja, porta, cartoon, cinematográfico). A ferramenta trata essas categorias com qualidade consistente. Seja carrilhão leve, tocar sino ou clipes de repique fortes, entrega resultados profissionais para qualquer projeto."
+        },
+        {
+          "question": "Os clipes de sino tocando gerados são livres de royalties?",
+          "answer": "Sim. Todo o áudio do nosso gerador é livre de royalties e inclui licença comercial. Você pode usar os clipes gerados em qualquer projeto sem taxas extras ou atribuição. Todo clipe, incluindo saída de tocar sino, está liberado para uso imediato em trabalho profissional e comercial."
+        },
+        {
+          "question": "Que qualidade produz?",
+          "answer": "Produz áudio de qualidade profissional que atende aos padrões da indústria. Você obtém opções de alta resolução até 192 kHz/24-bit para sino tocando e tocar sino, faixa de frequência completa e dinâmica controlada. Toda a saída está pronta para transmissão. Todo clipe é adequado para produção profissional e projetos criativos."
+        }
+      ]
+    }
+  }
+}

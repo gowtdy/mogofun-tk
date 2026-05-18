@@ -1,0 +1,75 @@
+{
+  "train-voice": {
+    "meta": {
+      "title": "Zug-Stimme",
+      "description": "Erstellen Sie sofort Zug-Stimme mit unserer fortschrittlichen KI-Technologie. Erzeugen Sie verschiedene Audiotypen inkl. natürlicher Töne, Instrumente und mehr.",
+      "keywords": "Zug-Stimme, Pfeifen-Soundeffekt Zug"
+    },
+    "hero": {
+      "title": "Zug-Stimme",
+      "subtitle": "Verwandeln Sie Textbeschreibungen sofort in hochwertige Zug-Stimme"
+    },
+    "generator_subtitle": "Wählen Sie aus beliebten Prompts unten oder schreiben Sie Ihre eigene Beschreibung, um Zug-Stimme zu erzeugen",
+    "advantages": {
+      "title": "Warum unseren Zug-Stimmen-Generator wählen?",
+      "items": [
+        {
+          "title": "Sofortige Zug-Stimmen-Erstellung",
+          "description": "Erstellen Sie professionelle Zug-Stimme und Bahnhofsansagen-Audio aus Text in Sekunden. Unsere KI verwandelt Ihre Beschreibungen in elektronische Ansagen, U-Bahn-Signale und Bahnsteig-Stimme—ohne Sample-Bibliotheken oder manuelle Bearbeitung. Brauchen Sie einen Pfeifen-Soundeffekt für Ihren Clip? Erzeugen Sie unbegrenzte Zug-Stimmen-Variationen in sendefähiger Qualität. Fügen Sie einen Pfeifen-Soundeffekt für Wirkung in jedem Projekt hinzu.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Unbegrenzte kreative Möglichkeiten",
+          "description": "Erstellen Sie jeden gewünschten Stil von Zug-Stimme: Bahnhofsansagen, elektronische Bahnsteig-Stimme, U-Bahn-Ambiente oder klassischer Pfeifen-Soundeffekt. Das Tool gibt Ihnen volle kreative Freiheit. Erkunden Sie endlose Optionen—von subtilen Bahnsteig-Cues bis Pfeifen-Soundeffekt und mehrschichtigen Clips für Film.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professionelle Audioqualität",
+          "description": "Jeder Clip aus unserem Generator erfüllt Sendestandards mit High-Fidelity-Ausgabe. Moderne Algorithmen sorgen für Studioqualität bei Zug-Stimme und Bahn-Audio. Alle Clips sind produktionsreif und für den professionellen Einsatz optimiert, mit voller Frequenzabdeckung und klaren, natürlich klingenden Ergebnissen.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Zug-Stimme FAQ",
+      "items": [
+        {
+          "question": "Was ist ein Zug-Stimmen-Generator?",
+          "answer": "Unser Generator ist ein KI-Tool, das Text in maßgeschneiderte Zug-Stimme und Bahnhofsansagen-Audio umwandelt. Es nutzt natürliche Sprachverarbeitung und neuronale Synthese für professionelle Bahn-Clips. Sie können elektronische Bahnsteig-Stimme, U-Bahn-Cues erstellen oder Ihre Szene mit einem Pfeifen-Soundeffekt kombinieren. Geeignet für Creator, die schnelle, authentische Zug-Stimme brauchen—und einen Pfeifen-Soundeffekt bei Bedarf an Wirkung—mit präzisen, hochauflösenden Ergebnissen."
+        },
+        {
+          "question": "Wie funktioniert der Generator?",
+          "answer": "Das Tool nutzt eine mehrstufige Pipeline, um Text in hochwertige Zug-Stimme und Bahn-Audio zu verwandeln. Es analysiert Ihre Beschreibung für Ton, Stil und Kontext und leitet diese durch für Bahnhofs- und Ansagen-Synthese trainierte neuronale Netze. Sie können kurze Cues für die UI oder längere Ambience anfordern, plus Pfeifen-Soundeffekt bei Bedarf. Jeder Zug-Stimmen-Clip erfüllt Sendestandards."
+        },
+        {
+          "question": "Was macht diesen Zug-Stimmen-Generator einzigartig?",
+          "answer": "Unser Generator zeichnet sich durch sofortige Anpassung und professionelle Qualität aus. Anders als statische Bibliotheken erstellt er maßgeschneiderte Zug-Stimme on demand. Mit hochwertigen Samples trainiert, liefert er realistische Bahnhofs-Stimme und verschiedene Ansagen-Stile. Sie erhalten unbegrenzte Zug-Stimmen-Variationen und einen Pfeifen-Soundeffekt bei Bedarf, mit feiner Kontrolle."
+        },
+        {
+          "question": "Wie schreibe ich wirksame Prompts für Zug-Stimme?",
+          "answer": "Schreiben Sie klare, konkrete Beschreibungen mit mehreren Details. Probieren Sie „elektronische Zug-Stimme am Bahnsteig“ oder „Pfeifen-Soundeffekt mit Hall“. Nennen Sie Stil, Ton und Kontext. Der Generator reagiert gut auf Begriffe wie Ansage, Bahnhof, U-Bahn, Bahnsteig und Pfeife. Mehr Kontext liefert bessere Ergebnisse."
+        },
+        {
+          "question": "Wie kann ich Zug-Stimme in Videoinhalten nutzen?",
+          "answer": "Planen Sie die Szenen Ihres Videos und platzieren Sie maßgeschneiderte Zug-Stimme dort, wo sie Atmosphäre schafft. Erstellen Sie Ansagen- und Ambiente-Audio für jeden Moment—von subtilen Bahnsteig-Cues bis dramatischem Pfeifen-Soundeffekt. Legen Sie Pfeifen-Soundeffekt mit Zug-Stimme übereinander für reiches, fesselndes Audio, das Zeit oder Ort unterstreicht."
+        },
+        {
+          "question": "Wie kann ich den Generator in der Spieleentwicklung nutzen?",
+          "answer": "Unser Generator unterstützt prozedurale Zug-Stimme für Spiele. Erstellen Sie Variationen, sodass Spieler selten denselben Clip zweimal hören. Erzeugen Sie verschiedene Optionen für UI, Levels und Events. Nutzen Sie einen Pfeifen-Soundeffekt für Schlüsselmomente. Das Tool liefert professionelle Clips für bessere Immersion und Feedback."
+        },
+        {
+          "question": "Welche Arten von Clips kann ich erstellen?",
+          "answer": "Sie können eine breite Palette an Zug-Stimme erstellen: Bahnhofsansagen, elektronische Bahnsteig-Stimme, U-Bahn-Cues, Bahn-Ambiente und einen Pfeifen-Soundeffekt für Szenen. Das Tool liefert professionelle Zug-Stimmen- und Pfeifen-Soundeffekt-Ergebnisse für jedes Projekt."
+        },
+        {
+          "question": "Sind die generierten Clips lizenzfrei?",
+          "answer": "Ja. Alle Clips aus unserem Generator sind lizenzfrei und enthalten eine gewerbliche Lizenz. Sie können die generierten Clips in jedem Projekt ohne zusätzliche Gebühren oder Namensnennung nutzen. Jeder Clip ist für sofortige Verwendung in professioneller und gewerblicher Arbeit freigegeben."
+        },
+        {
+          "question": "Welche Qualität liefert der Generator?",
+          "answer": "Unser Generator liefert professionelle Zug-Stimme nach Industriestandards. Sie erhalten hochauflösende Optionen bis 192 kHz/24-bit, vollen Frequenzbereich und kontrollierte Dynamik. Jeder Clip und jede Pfeifen-Soundeffekt-Ausgabe ist sendefähig und für professionelle Produktion und kreative Projekte geeignet."
+        }
+      ]
+    }
+  }
+}

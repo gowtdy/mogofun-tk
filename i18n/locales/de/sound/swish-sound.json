@@ -1,0 +1,75 @@
+{
+  "swish-sound": {
+    "meta": {
+      "title": "Swish-Sound",
+      "description": "Erstellen Sie mit unserer fortschrittlichen KI-Technologie sofort Swish-Sound. Erzeugen Sie verschiedene Klangtypen: natürliche Klänge, Musikinstrumente und mehr.",
+      "keywords": "Swish-Sound, Swish-Soundeffekt"
+    },
+    "hero": {
+      "title": "Swish-Sound",
+      "subtitle": "Verwandeln Sie Textbeschreibungen sofort in hochwertigen Swish-Sound"
+    },
+    "generator_subtitle": "Wählen Sie aus den beliebten Prompts unten oder schreiben Sie Ihre eigene Beschreibung, um Swish-Sound zu erzeugen",
+    "advantages": {
+      "title": "Warum unseren Swish-Sound-Generator wählen?",
+      "items": [
+        {
+          "title": "Sofortige Swish-Sound-Erstellung",
+          "description": "Erzeugen Sie professionellen Swish-Sound und Swish-Soundeffekt sofort aus Text. Unser Tool wandelt Ihre Beschreibungen in Sekunden in Whoosh-, Swoosh- und bewegungsbasiertes Audio um—ohne große Bibliotheken oder manuelle Bearbeitung. Erstellen Sie unbegrenzte Variationen für jedes Projekt. Ob scharfer Whoosh für Übergänge oder weicher Pass für die UI, der Generator liefert klare, sendefähige Ergebnisse.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Unbegrenzte kreative Möglichkeiten",
+          "description": "Erstellen Sie jeden Swish-Sound-Stil, den Sie brauchen: schnelle Whooshes, langsame Swooshes, leichte oder schwere Bewegungseffekte. Der Generator versteht detaillierte Beschreibungen und erzeugt passendes Audio, Sie haben volle kreative Freiheit. Erkunden Sie endlose Variationen von Swish-Soundeffekt für Intros, Übergänge und UI. Von dezenten Pässen bis zu starken Impacts—finden Sie das Richtige für jede Szene.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professionelle Audioqualität",
+          "description": "Jeder erzeugte Swish-Sound erfüllt Sendestandards mit High-Fidelity-Ausgabe. Der Generator nutzt moderne Algorithmen, sodass jeder Swish-Soundeffekt klar und produktionsreif ist. Alle Ausgaben sind für professionelle Nutzung in Video, Games und Apps optimiert. Erhalten Sie konsistente Studioqualität für Ihre Projekte.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Über den Swish-Sound-Generator",
+      "items": [
+        {
+          "question": "Was ist ein Swish-Sound-Generator?",
+          "answer": "Ein Swish-Sound-Generator ist ein KI-Tool, das Text in individuelles Whoosh- und Swoosh-Style-Audio umwandelt. Er erzeugt professionellen Swish-Sound und Swish-Soundeffekt für Übergänge, UI, Sport und Bewegung. Das System nutzt neuronale Audiosynthese, trainiert auf echte Bewegungs- und Aufprallklänge, Sie erhalten also natürliches, nutzbares Audio ohne Aufnahme oder große Bibliotheken. Geeignet für Creator, Editoren und Entwickler, die schnelle, vielfältige Swish-Soundeffekte für jedes Projekt brauchen."
+        },
+        {
+          "question": "Wie funktioniert der Swish-Sound-Generator?",
+          "answer": "Unser Generator liest zuerst Ihre Textbeschreibung und erfasst Merkmale wie Geschwindigkeit, Intensität und Stil. Anschließend verarbeitet er dies in Modellen, die auf Whoosh-, Swoosh- und Bewegungs-Audio trainiert sind, um passende Ausgabe zu synthetisieren. Sie können einen scharfen Swish-Soundeffekt für Schnitte, einen weichen für die UI oder etwas dazwischen anfordern. Das Ergebnis ist ein sauberer, einsatzbereiter Swish-Sound zum Download und Einsatz in Ihrer Arbeit."
+        },
+        {
+          "question": "Was macht diesen Swish-Sound-Generator einzigartig?",
+          "answer": "Anders als feste Bibliotheken erstellt unser Generator auf Anfrage neue Variationen aus Klartext. Sie erhalten individuellen Swish-Sound und Swish-Soundeffekt ohne Suche in tausenden Dateien. Die KI ist mit hochwertigem Bewegungs- und Übergangs-Audio trainiert, jedes Ergebnis ist konsistent und professionell. Sie können beliebig viele Variationen erzeugen und so den passenden Swish-Soundeffekt für jede Szene oder Interaktion finden."
+        },
+        {
+          "question": "Wie schreibe ich wirksame Prompts für Swish-Sound?",
+          "answer": "Nutzen Sie klare, konkrete Beschreibungen. Z. B.: \"schneller Swish-Sound für einen Schnitt\" oder \"weicher Swish-Soundeffekt für Button-Hover.\" Nennen Sie Geschwindigkeit (schnell, langsam), Gewicht (leicht, schwer) und Kontext (UI, Übergang, Sport). Der Generator reagiert gut auf Begriffe wie Whoosh, Swoosh und Bewegung. Je mehr Detail Sie angeben, desto näher die Ausgabe an Ihrer Vorstellung. Fügen Sie Länge oder Stil hinzu, wenn für Ihr Projekt relevant."
+        },
+        {
+          "question": "Wie setze ich Swish-Sound in Videoinhalten ein?",
+          "answer": "Nutzen Sie Swish-Sound und Swish-Soundeffekt für weiche Schnitte, Betonung von Bewegung oder mehr Energie. Setzen Sie einen kurzen Whoosh auf Übergänge, damit Szenen flüssiger wirken. Legen Sie einen leichten Pass unter UI oder Grafik für einen polierten Eindruck. Variieren Sie die Intensität—stärker bei Action, weicher bei ruhigen Momenten. Unser Generator ermöglicht genug Variationen, sodass jeder Übergang oder jede Bewegung einen passenden Swish-Sound ohne Wiederholung hat."
+        },
+        {
+          "question": "Wie nutze ich Swish-Sound in der Spieleentwicklung?",
+          "answer": "Swish-Sound eignet sich gut für UI, Fähigkeiten und Bewegung in Games. Verwenden Sie einen klaren Swish-Soundeffekt für Menüs und Buttons, stärkere Whooshes für Angriffe oder Dash. Unser Generator unterstützt viele Variationen, Sie können einen einheitlichen Stil beibehalten und Wiederholung vermeiden. Erstellen Sie eigene Sets für verschiedene Aktionen oder Figuren. Das Ergebnis ist klares, professionelles Audio, das zum Game-Feel passt und das Spieler-Feedback verbessert."
+        },
+        {
+          "question": "Welche Arten von Swish-Sound kann ich erstellen?",
+          "answer": "Sie können ein breites Spektrum an Swish-Sound- und Swish-Soundeffekt-Stilen erstellen: schnell oder langsam, leicht oder schwer, kurz oder lang. Nutzen Sie sie für Video-Übergänge, UI-Feedback, Sport und Bewegung oder jeden Whoosh-Style-Bedarf. Der Generator behandelt verschiedene Kontexte und Stile mit gleichbleibender Qualität—von dezenten Pässen bis zu starken Impacts. Erkunden Sie verschiedene Optionen für jeden Produktionsbedarf."
+        },
+        {
+          "question": "Sind die erzeugten Swish-Sounds lizenzfrei?",
+          "answer": "Ja. Alle Swish-Sound und Swish-Soundeffekt unseres Generators sind lizenzfrei und mit gewerblicher Lizenz nutzbar. Sie können sie in jedem Projekt ohne zusätzliche Gebühren oder Namensnennung verwenden. Jede erzeugte Datei ist für professionelle und gewerbliche Nutzung freigegeben. Laden Sie so viele herunter, wie Sie für Ihre Projekte brauchen."
+        },
+        {
+          "question": "Wie ist die Qualität des erzeugten Swish-Sounds?",
+          "answer": "Unser Generator liefert professionelles Audio, das gängige Sendestandards und Produktionsnormen erfüllt. Sie erhalten hochauflösende Dateien, vollen Frequenzbereich und kontrollierte Dynamik, sodass jeder Swish-Soundeffekt klar und einsatzbereit für Ihr Projekt ist. Jede erzeugte Datei eignet sich für professionelle Nutzung in Video, Games und Apps."
+        }
+      ]
+    }
+  }
+}

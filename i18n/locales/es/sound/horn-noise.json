@@ -1,0 +1,75 @@
+{
+  "horn-noise": {
+    "meta": {
+      "title": "Ruido de bocina",
+      "description": "Crea ruido de bocina al instante con nuestra tecnología de IA avanzada. Genera diversos tipos de audio, incluidos tonos naturales, instrumentos musicales y más.",
+      "keywords": "ruido de bocina, ruidos de bocina"
+    },
+    "hero": {
+      "title": "Ruido de bocina",
+      "subtitle": "Transforma descripciones de texto en ruido de bocina de alta calidad al instante"
+    },
+    "generator_subtitle": "Elige entre las sugerencias populares de abajo o escribe tu propia descripción para generar ruido de bocina",
+    "advantages": {
+      "title": "¿Por qué elegir nuestro generador de ruido de bocina?",
+      "items": [
+        {
+          "title": "Creación instantánea de ruido de bocina",
+          "description": "Crea ruido de bocina profesional y clips de señal al instante a partir del texto. Nuestra IA convierte tus descripciones en bocina de coche, bocina eléctrica y clips de señal de camión en segundos—sin bibliotecas de muestras ni edición manual. ¿Necesitas clips nítidos para la interfaz o audio de señal completo para una escena? Genera variaciones ilimitadas con calidad lista para emisión. Obtén ruidos de bocina auténticos para cualquier proyecto.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Posibilidades creativas ilimitadas",
+          "description": "Crea cualquier estilo que imagines: bocina de coche, bocina eléctrica o señal de camión. La herramienta entiende descripciones detalladas y te da libertad creativa total. Explora opciones infinitas para vídeos, juegos y aplicaciones. Desde ruidos de bocina sutiles hasta efectos de señal en capas para cine, obtén el clip adecuado para cada escenario.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Calidad de audio profesional",
+          "description": "Cada clip de nuestro generador de ruido de bocina cumple estándares de emisión con salida de alta fidelidad. Algoritmos de vanguardia garantizan ruidos de bocina y audio de señal de calidad de estudio. Todos los clips están listos para producción y optimizados para uso profesional, con cobertura completa de frecuencias y resultados auténticos y naturales.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Preguntas frecuentes sobre ruido de bocina",
+      "items": [
+        {
+          "question": "¿Qué es un generador de ruido de bocina?",
+          "answer": "Nuestro generador es una herramienta de IA que convierte texto en ruido de bocina personalizado y ruidos de bocina. Utiliza procesamiento de lenguaje natural y síntesis neuronal para producir clips profesionales—desde bocina de coche y bocina eléctrica hasta señal de camión. Adecuado para creadores, editores de vídeo y desarrolladores de juegos que necesitan ruidos de bocina rápidos y auténticos con resultados precisos y de alta fidelidad."
+        },
+        {
+          "question": "¿Cómo funciona el generador?",
+          "answer": "La herramienta utiliza un pipeline de varias etapas para convertir texto en clips de ruidos de bocina de alta calidad. Analiza tu descripción para capturar intensidad, estilo y contexto y los procesa mediante redes neuronales entrenadas para síntesis de señal. Puedes solicitar clips cortos para la interfaz o ambiencia más larga. Cada clip cumple estándares de emisión."
+        },
+        {
+          "question": "¿Qué hace único a este generador de ruido de bocina?",
+          "answer": "Nuestro generador destaca por la personalización instantánea y la calidad profesional. A diferencia de bibliotecas estáticas, crea ruidos de bocina a medida bajo demanda. Entrenado con muestras de alta calidad, ofrece resultados realistas. Obtienes variaciones ilimitadas y libertad creativa con control fino."
+        },
+        {
+          "question": "¿Cómo escribo prompts efectivos para ruido de bocina?",
+          "answer": "Escribe descripciones claras y específicas. Prueba \"ruido de bocina para coche\" o \"ruido de bocina para camión\". Incluye estilo (realista, cinematográfico), intensidad y contexto. El generador responde bien a términos como bocina de coche, bocina eléctrica, señal de camión y ruido de bocina. Más contexto da mejores resultados."
+        },
+        {
+          "question": "¿Cómo puedo usar ruido de bocina en contenido de vídeo?",
+          "answer": "Planifica las escenas de tu vídeo y coloca clips de ruidos de bocina personalizados donde aporten impacto. Crea clips de bocina de coche y ruido de bocina para cada momento—desde fondo sutil hasta golpes dramáticos. Superpone audio de señal para resultados de ruidos de bocina ricos y envolventes que subrayen tiempo o lugar."
+        },
+        {
+          "question": "¿Cómo puedo usar el generador en desarrollo de juegos?",
+          "answer": "Nuestro generador admite clips de ruidos de bocina procedural para juegos. Crea variaciones para que los jugadores rara vez escuchen el mismo clip dos veces. Produce opciones distintas para interfaz, niveles y eventos manteniendo un estilo consistente. La herramienta ofrece ruido de bocina de calidad profesional que mejora la inmersión y el feedback."
+        },
+        {
+          "question": "¿Qué tipos de ruido de bocina puedo crear?",
+          "answer": "Puedes crear una amplia gama: bocina de coche, bocina eléctrica, señal de camión y ambiente de señal. Estilos de suave a fuerte (realista, cinematográfico, vintage). La herramienta maneja ruidos de bocina con calidad consistente. Obtén los ruidos de bocina adecuados para cualquier proyecto. Cada clip está listo para producción."
+        },
+        {
+          "question": "¿Los clips generados están libres de derechos?",
+          "answer": "Sí. Todos los clips de nuestro generador están libres de derechos e incluyen licencia comercial. Puedes usar el ruido de bocina y los ruidos de bocina generados en cualquier proyecto sin cargos adicionales ni atribución. Cada clip está autorizado para uso inmediato en trabajo profesional y comercial."
+        },
+        {
+          "question": "¿Qué calidad produce el generador?",
+          "answer": "Nuestro generador produce clips de ruidos de bocina de nivel profesional que cumplen estándares de la industria. Obtienes opciones de ruidos de bocina de alta resolución hasta 192 kHz/24-bit, rango de frecuencias completo y dinámica controlada. Cada clip está listo para emisión y es adecuado para producción profesional y proyectos creativos."
+        }
+      ]
+    }
+  }
+}

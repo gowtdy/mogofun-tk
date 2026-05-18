@@ -1,0 +1,75 @@
+{
+  "car-sounds": {
+    "meta": {
+      "title": "Sons de carro",
+      "description": "Crie sons de carro instantaneamente com nossa tecnologia de IA avançada. Gere vários tipos de áudio, incluindo tons naturais, instrumentos musicais e mais.",
+      "keywords": "sons carro, som de carro"
+    },
+    "hero": {
+      "title": "Sons de carro",
+      "subtitle": "Transforme descrições em texto em sons de carro de alta qualidade na hora"
+    },
+    "generator_subtitle": "Escolha entre os prompts populares abaixo ou escreva sua própria descrição para gerar sons de carro",
+    "advantages": {
+      "title": "Por que escolher nosso gerador de sons de carro?",
+      "items": [
+        {
+          "title": "Criação instantânea de sons de carro",
+          "description": "Crie sons de carro profissionais e clipes de som de carro instantaneamente a partir de texto. Nossa IA transforma suas descrições em buzina, motor rugindo e porta batendo em segundos—sem bibliotecas de amostras ou edição manual. Precisa de sons de carro nítidos para a interface ou som de carro completo para uma cena? Gere variações ilimitadas com qualidade pronta para transmissão para qualquer projeto.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Possibilidades criativas ilimitadas",
+          "description": "Crie qualquer estilo que imaginar: buzina, motor rugindo, porta batendo ou ambiência de som de carro. A ferramenta entende descrições detalhadas e dá liberdade criativa total. Explore opções infinitas para vídeos, jogos e aplicativos. De sons de carro sutis a som de carro em camadas para cinema, obtenha o clipe certo para cada cenário.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualidade de áudio profissional",
+          "description": "Cada clip do nosso gerador atende aos padrões de transmissão com saída de alta fidelidade. Algoritmos de ponta garantem clipes e som de carro de qualidade de estúdio. Todos os clips estão prontos para produção e otimizados para uso profissional, com cobertura total de frequência e resultados autênticos e naturais.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "FAQ Sons de carro",
+      "items": [
+        {
+          "question": "O que é um gerador de sons de carro?",
+          "answer": "Nosso gerador é uma ferramenta de IA que transforma texto em sons de carro e som de carro personalizados. Usa processamento de linguagem natural e síntese neural para produzir clipes profissionais—de buzina e motor rugindo a porta batendo. Atende criadores, editores de vídeo e desenvolvedores de jogos que precisam de sons de carro e som de carro rápidos e autênticos com resultados precisos e de alta fidelidade."
+        },
+        {
+          "question": "Como o gerador funciona?",
+          "answer": "A ferramenta usa um pipeline em várias etapas para transformar texto em clipes de alta qualidade. Ela analisa sua descrição para capturar intensidade, estilo e contexto, depois processa isso em redes neurais treinadas para síntese de veículo e motor. Você pode pedir sons de carro curtos para a interface ou som de carro mais longo para ambiência. Cada clip atende aos padrões de transmissão."
+        },
+        {
+          "question": "O que torna este gerador de sons de carro único?",
+          "answer": "Nosso gerador se destaca pela personalização instantânea e qualidade profissional. Diferente de bibliotecas estáticas, ele cria clipes sob medida sob demanda. Treinado com amostras de alta qualidade, entrega sons de carro e som de carro realistas. Você obtém variações ilimitadas e liberdade criativa com controle fino."
+        },
+        {
+          "question": "Como escrevo prompts eficazes para sons de carro?",
+          "answer": "Escreva descrições claras e específicas. Tente \"sons de carro para buzina\" ou \"som de carro para motor rugindo\". Inclua estilo (realista, cinematográfico), intensidade e contexto. O gerador responde bem a termos como buzina, motor, porta batendo e som de carro. Mais contexto gera melhores resultados."
+        },
+        {
+          "question": "Como posso usar sons de carro em conteúdo de vídeo?",
+          "answer": "Mapeie as cenas do seu vídeo e coloque clipes personalizados onde agregam impacto. Crie clipes de buzina e motor para cada momento—de fundo sutil a hits dramáticos. Empilhe som de carro para um áudio rico e envolvente que destaca tempo ou lugar."
+        },
+        {
+          "question": "Como posso usar o gerador no desenvolvimento de jogos?",
+          "answer": "Nosso gerador suporta clipes procedurais para jogos. Crie variações para os jogadores raramente ouvirem o mesmo clip duas vezes. Produza opções diferentes para interface, fases e eventos mantendo um estilo consistente. A ferramenta entrega sons de carro e som de carro de qualidade profissional que aumentam imersão e feedback."
+        },
+        {
+          "question": "Que tipos de sons de carro posso criar?",
+          "answer": "Você pode criar uma ampla gama: buzina, motor rugindo, porta batendo e ambiência de som de carro. Estilos de suave a alto (realista, cinematográfico, vintage). A ferramenta trata esses com qualidade consistente e entrega resultados profissionais para qualquer projeto."
+        },
+        {
+          "question": "Os clips gerados são livres de royalties?",
+          "answer": "Sim. Todos os clips do nosso gerador são livres de royalties e incluem licença comercial. Você pode usar os clips gerados em qualquer projeto sem taxas extras ou atribuição. Cada clip está liberado para uso imediato em trabalho profissional e comercial."
+        },
+        {
+          "question": "Qual qualidade o gerador produz?",
+          "answer": "Nosso gerador produz clipes de nível profissional que atende aos padrões da indústria. Você tem opções de som de carro em alta resolução até 192 kHz/24-bit, faixa de frequência completa e dinâmica controlada. Cada clip está pronto para transmissão e adequado para produção profissional e projetos criativos."
+        }
+      ]
+    }
+  }
+}

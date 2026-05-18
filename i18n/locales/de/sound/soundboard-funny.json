@@ -1,0 +1,79 @@
+{
+  "soundboard-funny": {
+    "meta": {
+      "title": "Lustiges Soundboard",
+      "description": "Erstellen Sie ein einzigartiges lustiges Soundboard mit fortschrittlicher Soundeffekt-KI – inklusive Naturklängen, Instrumenten und mehr.",
+      "keywords": "lustiges Soundboard, lustige Stimmen"
+    },
+    "hero": {
+      "title": "Lustiges Soundboard",
+      "subtitle": "Verwandeln Sie Textbeschreibungen in hochwertige lustige Soundboard-Clips"
+    },
+    "generator_subtitle": "Wählen Sie unten beliebte Prompts oder schreiben Sie Ihre eigene Beschreibung, um ein lustiges Soundboard zu erzeugen",
+    "advantages": {
+      "title": "Warum lustige Soundboard-Reihen per Text-Prompts bauen?",
+      "items": [
+        {
+          "title": "Soundboard-Hits in Sekunden",
+          "description": "Beschreiben Sie Rimshots, Airhorns, Meme-Stings oder Cartoon-Pops und erhalten Sie kurze Stems für Hotkeys oder Grid-Tiles—ohne endloses Scrollen vor der Show. Punchy Outputs halten Rapid-Fire-Buttons sauber im Mix. Duplizieren, Tails trimmen, Varianten archivieren.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Tiles tauschen ohne das ganze Board neu zu bauen",
+          "description": "Schwester-Clips mit gleichem Timbre, aber anderer Länge/Intensität regenerieren, damit jeder Slot on-brand bleibt. Exportieren Sie konsistente Familien für OBS, Riverside oder Discord-Bots statt One-off-Rips. Wenn Stacks VO maskieren: Decays kürzen; wenn zu dünn: Verben erweitern; QC vor der Show.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Stream-sichere Pegel ab Werk",
+          "description": "Dynamik zielt auf typische Streaming-Interfaces und Earbuds. Batchen Sie Clips für Tour/Staffel mit vorhersagbaren Peaks und justieren Sie Loudness im Router/DAW wie bei jedem SFX. Promo montags routen, midweek refresh, Deliverables nach Picture-Lock.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Lustiges Soundboard: Fragen & Antworten",
+      "items": [
+        {
+          "question": "Was ist soundboard-funny Content hier?",
+          "answer": "Kurze, wiederholbare Comedy-Cues—Stings, Buzzer, Horn-Blasts, Cartoon-Pops—aus Text erstellt, damit Sie sie legal auf Tiles/Hotkeys legen. Für Host-Shows, Podcast-Drops und Chat-Bots ohne dubiose Rips. Hosts sollten lustige Stimmen-Drops vor dem Binden normalisieren."
+        },
+        {
+          "question": "Wie wird ein Prompt zum Board-Clip?",
+          "answer": "Sie beschreiben Timbre, Länge und Punch (\"dry rimshot 0.25s\"). Modelle rendern straffe Waveforms, leichte Bearbeitung zähmt Peaks für Streaming-Decks. Download, ggf. normalisieren, Slot binden. Bei lustige Stimmen-Bussen Kompressor-Attack sanft halten."
+        },
+        {
+          "question": "Lustige Stimmen mit Button-Stings mischen?",
+          "answer": "Ja: Spoken Lines separat, darunter Stems layern. Sprachverständlichkeit sichern, Tails trimmen. Bei Tile-Spam brauchen lustige Stimmen-Skits engere Gates als Solo-Horns."
+        },
+        {
+          "question": "Wie bleibt das Grid kohärent?",
+          "answer": "Adjektive für gemeinsames Material wiederverwenden, nur Länge/Intensität variieren. Nummerierte Siblings für A/B in derselben Spalte exportieren. Lustige Stimmen-Stems nach Reihen nummerieren beschleunigt QA."
+        },
+        {
+          "question": "Funktioniert in OBS/Stream Deck/Discord-Bots?",
+          "answer": "Ja: Standard-Audio wie jedes SFX routen. Hotkeys/Makros/Bot-Commands mappen und aktuelle Audio-Guidelines beachten. Mods sollten Bot-Limits mit Deck-Makros synchronisieren."
+        },
+        {
+          "question": "Wie vermeide ich Ear-Fatigue?",
+          "answer": "Alternates mit gleicher Prompt-DNA erzeugen, Tiles rotieren, shared mud high-passen. Kurze Decays schlagen lange Reverbs. Lustige Stimmen-Tags monatlich rotieren hilft gegen Ermüdung."
+        },
+        {
+          "question": "Welche Styles passen?",
+          "answer": "Rimshots, Kazoo-Buzz, Slide-Whistles, Wrong-Answer-Buzzer, Spring-Boings, Meme-Impacts. One-shots vs Beds trennen. Lustige Stimmen-One-shots mit Kazoo-Reihen kombinieren hält das Thema."
+        },
+        {
+          "question": "Royalty-free?",
+          "answer": "Nach Lizenz beim Download, typischerweise Streams/Ads/Kunden-Edits ohne Extra-Sync-Gebühren. PDFs archivieren und bei Renewals prüfen."
+        },
+        {
+          "question": "Welche Qualität?",
+          "answer": "Hochauflösende Stems mit kontrollierter Dynamik, auf Phone und Studio klar. Bei Broadcast Specs üblichen Loudness-Stage nutzen. Lustige Stimmen + Button-Hits gemeinsam mastern balanciert transients."
+        },
+        {
+          "question": "Wer profitiert?",
+          "answer": "Hosts, Podcast-Produzenten, Community-Manager. Teams iterieren Prompts statt Libraries neu zu bauen. Saisonale Boards rotieren; alternative lustige Stimmen für denselben Slot halten Boards frisch."
+        }
+      ]
+    }
+  }
+}

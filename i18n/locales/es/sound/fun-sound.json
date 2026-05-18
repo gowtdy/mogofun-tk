@@ -1,0 +1,71 @@
+{
+  "fun-sound": {
+    "meta": {
+      "title": "Sonido divertido",
+      "description": "Crea al instante sonido divertido con nuestra IA avanzada: sonidos naturales, instrumentos y más.",
+      "keywords": "sonido divertido, sonidos graciosos"
+    },
+    "hero": {
+      "title": "Sonido divertido",
+      "subtitle": "Transforma al instante descripciones de texto en sonido divertido de alta calidad"
+    },
+    "generator_subtitle": "Elige entre los prompts populares de abajo o escribe tu propia descripción para generar sonido divertido",
+    "advantages": {
+      "title": "¿Por qué elegir nuestro generador de sonidos divertidos?",
+      "items": [
+        {
+          "title": "Sonido divertido desde texto en segundos",
+          "description": "Describe un rebote juguetón, zip de dibujo o sting descarado y obtén un clip listo para mezclar sin equipo de grabación ni excavar bibliotecas sin fin. El modelo capta energía, duración y textura para que cada toma parezca intencionada en shorts, juegos o demos en clase. Itera rápido cuando necesites un beat nuevo en cada subida. Prueba varias opciones de sonido divertido por sprint, haz A/B de sonido divertido frente a imagen y comprueba que el sonido divertido ganador siga sonando gracioso tras un limiter suave.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Carácter que encaja en bocetos y cortes sociales",
+          "description": "Pide tonos deadpan, exagerados o suavemente caprichosos; adjetivos más claros dan mejores coincidencias. Menciona ritmo o escenas de referencia para alinear la salida con tu corte. Exporta colas cortas que hacen loop limpio al prototipar UI o reacciones de stickers. Asigna cada variante de sonido divertido a un beat de personaje para mantener coherente la biblioteca y recorta colas hasta que cada sting suene gracioso junto al texto en pantalla.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Loudness predecible para timelines reales",
+          "description": "Los archivos buscan transientes nítidos y niveles uniformes para simplificar normalización y limitación en tu DAW. Los resultados se traducen bien a altavoces de móvil—clave cuando una punchline debe caer en feeds ruidosos. Publica sonido divertido con picos medidos, entrega el sonido divertido a postaudio y confirma que el rebote siga sonando gracioso cuando la gente hace scroll con media atención.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Sobre nuestro generador de sonidos divertidos",
+      "items": [
+        {
+          "question": "¿Qué es un generador de sonidos divertidos?",
+          "answer": "Es un flujo de IA que sintetiza un único clip juguetón a partir de texto llano en lugar de capturar foley tú mismo. Nombras el gesto, el humor y el contexto—boing de goma, ping engreído, slide retro—y descargas un archivo para ediciones ligeras y prototipos. Los equipos exportan un sonido divertido por línea argumental, comparan tomas hasta que el sonido divertido encaje con el chiste y verifican que el sonido divertido siga sonando gracioso en auriculares baratos."
+        },
+        {
+          "question": "¿Cómo convierte el generador los prompts en audio?",
+          "answer": "El sistema infiere brillo, decay y timing cómico de tu redacción y renderiza audio alineado con ese brief. Ajusta verbos, referencias o notas de intensidad entre pases hasta que la cue encaje con tu gag o transición. Cada revisión aprieta el envolvente del sonido divertido y etiqueta el sonido divertido para tu bin de assets para que el pinchazo suene gracioso exactamente en el fotograma que cortas."
+        },
+        {
+          "question": "¿Por qué no solo bibliotecas stock?",
+          "answer": "Las bibliotecas reciclan las mismas interpretaciones. Aquí cada render puede ser único porque la salida sigue tu dirección frase a frase, útil cuando necesitas un beat que ningún loop de catálogo alcanza. Los packs genéricos de sonido divertido rara vez parecen a medida; regenera hasta que el sonido divertido cargue tu punchline y el timing suene gracioso junto a la animación del subtítulo."
+        },
+        {
+          "question": "¿Cómo debo escribir prompts para sonido divertido?",
+          "answer": "Junta palabra de acción con humor y pista de género opcional. Ejemplos como \"bocina chirriante rápida para revelar una broma\" o \"desliz suave bajo un chiste de papa\" superan peticiones de una palabra. Menciona tamaño de altavoz o distancia si el clip debe sentarse de forma realista en la escena. Señala contraste si quieres el sonido divertido tras el silencio para que el pop sea gracioso sin clipping."
+        },
+        {
+          "question": "¿Cómo sé si una toma sirve para vídeo corto?",
+          "answer": "Los creadores suelen querer un sonido divertido que suene gracioso en el primer segundo de un reel y siga claro junto a la locución. Preescucha en el móvil tras exportar para confirmar que sigue gracioso una vez la compresión recorta agudos. Duplica el sonido divertido a una pista de seguridad, iguala el sonido divertido contra música y descarta cualquier sonido divertido que deje de sonar gracioso cuando el codec borra el extremo agudo."
+        },
+        {
+          "question": "¿Qué tonos explorar más allá de un clip juguetón básico?",
+          "answer": "Prueba impactos de goma, pequeñas stabs de metal, bips pseudo-8-bit o whooshes susurrados. Añadir escenario—lobby de arcade, sitcom de oficina, panel sci-fi—mantiene el humor alineado con tus visuales. Construye capas compañeras para reacciones, guarda stingers extra para callbacks y escucha hasta que la pila suene graciosa sin tapar el diálogo."
+        },
+        {
+          "question": "¿El audio generado es libre de royalties?",
+          "answer": "Sí. Las descargas son libres de royalties para uso típico de creadores y comercial bajo nuestra licencia, sin tasas extra por clip. Revisa los términos más recientes en la página del producto antes de grandes campañas o emisiones en broadcast. Puedes incluir el sonido divertido en reels de clientes, reutilizar el sonido divertido entre episodios cuando la licencia lo permita y distribuir cortes donde el chiste suene gracioso en cada territorio que cubras."
+        },
+        {
+          "question": "¿Qué calidad debo esperar de los exports?",
+          "answer": "Espera claridad de banda completa y dinámica controlada adecuada para suites de edición y reproducción móvil. Ejecuta tu cadena habitual de masterización si necesitas entrega en loudness de broadcast para que cada cue juguetón equilibre con narración y música. Haz loudness-match de cada sonido divertido en el episodio, archiva masters sin pérdidas y confirma que cada sonido divertido siga sonando gracioso en monitores de estudio y en móviles para que el chiste suene gracioso en todas partes."
+        }
+      ]
+    }
+  }
+}

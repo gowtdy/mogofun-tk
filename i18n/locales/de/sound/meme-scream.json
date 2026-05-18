@@ -1,0 +1,71 @@
+{
+  "meme-scream": {
+    "meta": {
+      "title": "Meme-Schrei",
+      "description": "Erstellen Sie sofort Meme-Schrei mit fortschrittlicher KI. Naturgeräusche, Instrumente und mehr.",
+      "keywords": "Meme-Schrei, Meme-Schrei-Sound"
+    },
+    "hero": {
+      "title": "Meme-Schrei",
+      "subtitle": "Verwandeln Sie Textbeschreibungen sofort in hochwertigen Meme-Schrei"
+    },
+    "generator_subtitle": "Wählen Sie unten beliebte Prompts oder schreiben Sie eine eigene Beschreibung, um Meme-Schrei zu erzeugen",
+    "advantages": {
+      "title": "Warum unseren Meme-Schrei-Generator wählen?",
+      "items": [
+        {
+          "title": "Meme-Schrei-Clips in Sekunden erstellen",
+          "description": "Beschreiben Sie einen Punchline-Moment, Reaktions-Beat oder dramatischen Zoom und erzeugen Sie sauberes Audio ohne in zufälligen Downloads zu wühlen. Das Modell erfasst Timing, Ton und Intensität, damit jeder Render zu Shorts, Streams und Social Posts passt. Schnell iterieren, wenn Sie mehrere Versionen für eine Szene brauchen. Ein fokussierter Meme-Schrei-Prompt kann auch einen saubereren Meme-Schrei-Sound für schnelle Schnitt-Tests liefern.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Flexible Stile für Memes und Reaktionen",
+          "description": "Fordern Sie absurde, dramatische oder deadpan Lieferung und feilen Sie an Länge, Tonhöhe und Textur. Klare Prompt-Formulierung hilft der Ausgabe, exakt auf Ihren Schnittpunkt zu passen—ob ein Meme-Schrei-Hit oder geschichteter Meme-Schrei-Sound-Stack. So bleiben Edits ausdrucksstark ohne repetitiv zu wirken. Teams speichern oft einen Meme-Schrei-Alt und einen Meme-Schrei-Sound-Alt für schnelle A/B-Wechsel.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professionelle Audioqualität",
+          "description": "Exports sind auf Klarheit und kontrollierte Dynamik abgestimmt, damit Clips nach Kompression auf Mobilplattformen nutzbar bleiben. Dateien lassen sich mit minimalem Cleanup in gängige Editing-Workflows fallen, und Loudness bleibt vorhersehbar beim Batch-Szenen oder spätem Versionswechsel. Konsequentes Pegeln hält jeden Meme-Schrei ausgerichtet, während jeder Meme-Schrei-Sound nach Encoding wuchtig bleibt.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Über unseren Meme-Schrei-Generator",
+      "items": [
+        {
+          "question": "Was ist ein Meme-Schrei-Generator?",
+          "answer": "Ein KI-Audio-Tool, das Text-Prompts in kurze Reaktions-Clips für Memes, Edits und Social Content verwandelt. Statt neue Takes aufzunehmen oder große Bibliotheken zu durchsuchen, beschreiben Sie den Moment und erzeugen in Sekunden eine nutzbare Datei. Praktisch kann ein Meme-Schrei-Konzept in mehrere Meme-Schrei-Sound-Varianten für verschiedene Schnitte verzweigen."
+        },
+        {
+          "question": "Wie funktioniert dieses Meme-Schrei-Tool?",
+          "answer": "Das System parst Hinweise wie Stimmung, Kraft, Kadenz und Charakter aus Ihrem Prompt und synthetisiert passenden Audio. Sie können die Formulierung zwischen Durchläufen anpassen für engeres Timing, schärferen Attack oder weichere Tails je nach Timeline. Iteration hilft jedem Meme-Schrei aufs Bild zu landen bei kohärenter Meme-Schrei-Sound-Textur."
+        },
+        {
+          "question": "Warum das statt Stock-Packs?",
+          "answer": "Stock-Packs wiederholen oft dieselben erkennbaren Clips. Dieser Workflow erzeugt frische Variationen aus Ihrer Formulierung—passt leichter zu jeder Szene und vermeidet überstrapazierte Sounds in viralen Formaten. Ihre Meme-Schrei-Momente bleiben origineller und jeder Meme-Schrei-Sound wirkt weniger generisch."
+        },
+        {
+          "question": "Wie schreibe ich Prompts für Meme-Schrei?",
+          "answer": "Nutzen Sie konkrete Verben und Kontext: wer reagiert, warum, wie lange der Moment dauert. Ein Satz wie „kurzer Schreckenschrei nach Fail“ schlägt vage Formulierung und braucht meist weniger Regenerationen. So steigt Meme-Schrei-Präzision und Meme-Schrei-Sound bleibt im Mix straff."
+        },
+        {
+          "question": "Wann Meme-Schrei-Sound in Edits nutzen?",
+          "answer": "Für Reaktionsschnitte, komische Reveals, Übergänge und dramatische Zooms, wo Timing den Witz trägt. Halten Sie Pegel unter Dialog und Musik-Beds, damit der Effekt die Szene stützt ohne wichtige Sprache zu maskieren. Ausgewogener Meme-Schrei plus kontrollierte Meme-Schrei-Sound-Schicht liest sich auf Mobile oft am besten."
+        },
+        {
+          "question": "Welche Varianten kann ich erzeugen?",
+          "answer": "Subtile, übertriebene, verzerrte oder kinematische Takes mit verschiedenen Längen und Intensitätskurven. Ein Konzept verzweigt in mehrere Optionen zum Testen von Pacing und emotionaler Wirkung. Bauen Sie ein kleines Meme-Schrei-Set und taggen Sie jeden Meme-Schrei-Sound nach Energie für schnellere Editor-Wiederverwendung."
+        },
+        {
+          "question": "Ist generiertes Audio lizenzfrei?",
+          "answer": "Ja. Generierte Dateien sind unter unserer Lizenz für typische Creator- und kommerzielle Nutzung lizenzfrei. Lesen Sie die aktuellen Bedingungen vor großen Werbekampagnen oder Broadcast-Vertrieb."
+        },
+        {
+          "question": "Welche Qualität ist von Exports zu erwarten?",
+          "answer": "Produktionsreife Ausgabe mit stabilem Loudness-Verhalten und klaren Transienten für moderne Social-Plattformen. Bei Bedarf Ihre übliche Mastering-Kette anwenden, um House-Style vor finalem Publishing zu treffen. Finales QC sollte bestätigen, dass jeder Meme-Schrei verständlich bleibt und jeder Meme-Schrei-Sound Kompression übersteht."
+        }
+      ]
+    }
+  }
+}

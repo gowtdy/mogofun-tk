@@ -1,0 +1,75 @@
+{
+  "transition-sound-effect": {
+    "meta": {
+      "title": "Efecto de sonido de transición",
+      "description": "Crea efecto de sonido de transición al instante con nuestra tecnología de IA avanzada. Genera diversos tipos de sonidos: naturales, instrumentos musicales y más.",
+      "keywords": "efecto sonido transición, transición de audio"
+    },
+    "hero": {
+      "title": "Efecto de sonido de transición",
+      "subtitle": "Transforma descripciones de texto en efecto de sonido de transición de alta calidad al instante"
+    },
+    "generator_subtitle": "Elige entre los prompts populares de abajo o escribe tu propia descripción para generar efecto de sonido de transición",
+    "advantages": {
+      "title": "¿Por qué elegir nuestro generador de efecto de sonido de transición?",
+      "items": [
+        {
+          "title": "Creación instantánea de efecto de sonido de transición",
+          "description": "Genera efecto de sonido de transición y transición de audio profesionales al instante a partir de texto. Nuestra herramienta convierte tus descripciones en whoosh, riser y audio de cambio de escena en segundos—sin grandes bibliotecas ni edición manual. Crea variaciones ilimitadas para cualquier proyecto. Ya sea paso marcado para cortes o suave para fades, el generador entrega resultados limpios y listos para emisión.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Posibilidades creativas ilimitadas",
+          "description": "Crea cualquier estilo de efecto de sonido de transición que necesites: whooshes rápidos, barridos lentos, risers cinematográficos o pasos sutiles. El generador entiende descripciones detalladas y produce audio correspondiente, tienes libertad creativa total. Explora variaciones infinitas de transición de audio para intros, cambios de escena y ediciones. De sutil a dramático, encuentra el adecuado para cada proyecto.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Calidad de audio profesional",
+          "description": "Cada efecto de sonido de transición generado cumple estándares de emisión con salida de alta fidelidad. El generador usa algoritmos modernos para que cada transición de audio sea clara y lista para producción. Todas las salidas están optimizadas para uso profesional en vídeo, cine y contenido. Obtén salida de calidad de estudio consistente para tu trabajo.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Sobre el generador de efecto de sonido de transición",
+      "items": [
+        {
+          "question": "¿Qué es un generador de efecto de sonido de transición?",
+          "answer": "Un generador de efecto de sonido de transición es una herramienta de IA que convierte texto en audio personalizado whoosh, swoosh y cambio de escena. Produce salida profesional y transición de audio para cortes, fades y cambios de escena. El sistema usa síntesis neuronal de audio entrenada en sonidos reales de transición e impacto, así que obtienes resultados naturales y utilizables sin grabación ni grandes bibliotecas. Pensado para editores, creadores y cineastas que necesitan efecto de sonido de transición rápido y variado para cualquier proyecto."
+        },
+        {
+          "question": "¿Cómo funciona el generador de efecto de sonido de transición?",
+          "answer": "Nuestro generador primero lee tu descripción de texto y extrae rasgos como velocidad, intensidad y estilo. Luego lo procesa en modelos entrenados en audio whoosh, riser y cambio de escena para sintetizar la salida correspondiente. Puedes pedir una transición de audio marcada para cortes duros, una suave para fades, o algo intermedio. El resultado es un archivo limpio y listo para usar que puedes descargar y usar en tu edición."
+        },
+        {
+          "question": "¿Qué hace único a este generador de efecto de sonido de transición?",
+          "answer": "A diferencia de bibliotecas fijas, nuestro generador crea nuevas variaciones bajo demanda a partir de texto simple. Obtienes salida y transición de audio personalizadas sin buscar en miles de archivos. La IA está entrenada en audio de cambio de escena y whoosh de alta calidad, así que cada resultado es consistente y profesional. Puedes generar tantas variaciones como necesites para encontrar fácilmente el efecto de sonido de transición adecuado para cada escena o corte."
+        },
+        {
+          "question": "¿Cómo escribir prompts efectivos para efecto de sonido de transición?",
+          "answer": "Usa descripciones claras y concretas. Por ejemplo: \"efecto de sonido de transición rápido para un corte\" o \"transición de audio suave para un fade.\" Menciona velocidad (rápido, lento), peso (ligero, pesado) y contexto (cine, vlog, promo). El generador responde bien a términos como whoosh, swoosh, riser y cinematográfico. Cuanto más detalle des, más se acercará la salida a tu visión. Incluye duración o estilo si es relevante para tu edición."
+        },
+        {
+          "question": "¿Cómo usar efecto de sonido de transición en contenido de vídeo?",
+          "answer": "Usa efecto de sonido de transición y transición de audio para suavizar cortes, resaltar cambios de escena o añadir energía. Coloca un whoosh corto en los cortes para que las escenas fluyan mejor. Superpone un paso ligero bajo montajes o gráficos para un acabado pulido. Varía la intensidad—más fuerte para acción, más suave para momentos tranquilos. Nuestro generador permite crear suficientes variaciones para que cada corte o cambio de escena tenga un resultado adecuado sin repetición."
+        },
+        {
+          "question": "¿Cómo usar efecto de sonido de transición en desarrollo de juegos?",
+          "answer": "El efecto de sonido de transición funciona bien para carga de niveles, cambios de menú e interfaz en juegos. Usa transición de audio nítida para cambios de pantalla y whooshes más fuertes para momentos dramáticos. Nuestro generador soporta muchas variaciones para mantener un estilo coherente evitando repetición. Crea conjuntos distintos para diferentes niveles o menús. El resultado es salida clara y profesional que encaja con la sensación del juego."
+        },
+        {
+          "question": "¿Qué tipos de efecto de sonido de transición puedo crear?",
+          "answer": "Puedes crear un amplio rango de estilos de efecto de sonido de transición y transición de audio: rápido o lento, ligero o pesado, corto o largo. Úsalos para cortes de vídeo, cambios de escena, interfaz o cualquier necesidad al estilo whoosh. El generador maneja distintos contextos y estilos con calidad consistente—de pasos sutiles a impactos dramáticos. Explora varias opciones para cualquier necesidad de producción."
+        },
+        {
+          "question": "¿Los efectos de sonido de transición generados son libres de regalías?",
+          "answer": "Sí. Todos los efectos de sonido de transición y transiciones de audio de nuestro generador son libres de regalías y vienen con licencia comercial. Puedes usarlos en cualquier proyecto sin cargos extra ni atribución. Cada archivo generado está autorizado para uso profesional y comercial. Descarga los que necesites para tus proyectos."
+        },
+        {
+          "question": "¿Qué calidad tiene el efecto de sonido de transición generado?",
+          "answer": "Nuestro generador produce audio de nivel profesional que cumple estándares habituales de emisión y producción. Tienes archivos de alta resolución, rango de frecuencias completo y dinámicas controladas para que cada transición de audio sea clara y listo para tu proyecto. Cada archivo generado es adecuado para uso profesional en vídeo, cine y contenido."
+        }
+      ]
+    }
+  }
+}

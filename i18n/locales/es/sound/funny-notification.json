@@ -1,0 +1,71 @@
+{
+  "funny-notification": {
+    "meta": {
+      "title": "Notificación divertida",
+      "description": "Crea al instante una notificación divertida con nuestra IA avanzada: sonidos naturales, instrumentos y más.",
+      "keywords": "notificación divertida, sonidos de notificación divertidos"
+    },
+    "hero": {
+      "title": "Notificación divertida",
+      "subtitle": "Transforma al instante descripciones de texto en notificación divertida de alta calidad"
+    },
+    "generator_subtitle": "Elige entre los prompts populares de abajo o escribe tu propia descripción para generar notificación divertida",
+    "advantages": {
+      "title": "¿Por qué elegir nuestro generador de notificaciones divertidas?",
+      "items": [
+        {
+          "title": "Audio de notificación divertida en segundos",
+          "description": "Describe un chime, bloop o ping de dibujo y obtén un clip pulido sin hojear infinitos packs de alertas. La IA interpreta tono, duración y contundencia para que los resultados se sientan intencionados en móviles, escritorios y streams. Itera rápido cuando necesites una señal nueva para cada campaña o episodio. Prueba varias ideas de notificación divertida por sprint, escucha sonidos de notificación divertidos frente a pruebas de motion y fija la notificación divertida que mejor se lee en dispositivos reales.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Estilos para apps, streams y alertas de mensajes",
+          "description": "Pide ambientes juguetones, deadpan o exagerados; el modelo se adapta al brief que escribas. Notas claras sobre altura, decay y loudness ayudan a que la salida conviva con locución y motion de UI. Exporta colas cortas que hacen loop limpio si prototipas juegos o apps de chat. Alinea cada notificación divertida con las pautas de voz de marca y cambia sonidos de notificación divertidos hasta que los stakeholders aprueben sin otra sesión de grabación.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Archivos listos para mezcla en flujos cotidianos",
+          "description": "Las descargas buscan transientes nítidos y loudness predecible para insertar cues en editores o prototipos móviles con poca limpieza. Un procesamiento coherente significa que los compañeros oyen el mismo equilibrio al reabrir el proyecto. Publica assets de notificación divertida con picos predecibles, archiva sonidos de notificación divertidos alternativos para skins estacionales y reutiliza la misma plantilla de notificación divertida en builds white-label.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Sobre nuestro generador de notificaciones divertidas",
+      "items": [
+        {
+          "question": "¿Qué es un generador de notificaciones divertidas?",
+          "answer": "Es un flujo de IA que convierte prompts de texto en audio corto tipo alerta en lugar de grabar campanas o zumbadores tú mismo. Especificas el carácter del ping—mono, travieso, retro—y recibes un archivo para maquetas de mensajería, kits de creador o overlays de directo. Los equipos de producto exportan una notificación divertida por flujo de persona y comparan sonidos de notificación divertidos en pruebas de usabilidad antes del lanzamiento."
+        },
+        {
+          "question": "¿Cómo el generador convierte prompts en audio?",
+          "answer": "El sistema interpreta brillo, duración y timing cómico de tu descripción y sintetiza un clip alineado con ese brief. Ajusta adjetivos o pistas de escenario entre pases hasta que la cue encaje con tu beat de UI o punchline. Cada paso refina el timing de la notificación divertida; puedes catalogar sonidos de notificación divertidos por campaña para que los editores tomen la notificación divertida correcta al instante."
+        },
+        {
+          "question": "¿Cuándo elegir sonidos de notificación divertidos con IA en lugar de packs stock?",
+          "answer": "Las bibliotecas stock repiten los mismos tonos. La salida de IA puede ajustarse línea a línea, útil cuando necesitas una cue que coincida con la voz de marca o un chiste que ningún clip de catálogo clava. Mantén prompts específicos para que los sonidos de notificación divertidos sigan distintos entre proyectos. Cuando una notificación divertida deba sentirse a medida, regenera hasta que la forma de onda siga tu storyboard al detalle."
+        },
+        {
+          "question": "¿Cómo escribo prompts para notificación divertida?",
+          "answer": "Nombra el contexto del dispositivo (ping de móvil, toast de escritorio, burbuja de chat), el humor (tonto, presumido, sorprendido) y pistas de timing (decay corto, doble pitido). Ejemplos como «chirrido de goma diminuto para un DM nuevo» o «bloop retro para recordatorio de tarea» guían mejor al modelo que un solo adjetivo. Menciona margen de mezcla si vas a capas con música para que los sonidos de notificación divertidos sigan inteligibles dentro de pilas densas de notificaciones divertidas."
+        },
+        {
+          "question": "¿Dónde usar estos tonos en proyectos reales?",
+          "answer": "Usos habituales: demos de UX móvil, alertas de stream de creador, stingers de pódcast, ejemplos en clase. Mantén niveles unos dB por debajo de voz o música para que el ping se lea claro sin tapar el diálogo al preescuchar sonidos de notificación divertidos en altavoces de portátil. Coloca la notificación divertida en el fotograma exacto del toast y enruta sonidos de notificación divertidos alternativos a builds de QA para escuchas rápidas."
+        },
+        {
+          "question": "¿Qué tipos de tono más allá de un carillón de alerta básico?",
+          "answer": "Explora chirridos, deslizados gomosos, carillones pseudo minimalistas o zumbadores exagerados. Menciona sabor de género—arcade, sitcom de oficina, panel sci-fi—para que el tono sea coherente con los visuales y siga ligero. Extiende cada familia de notificación divertida con sonidos de notificación divertidos compañeros para éxito, aviso e inactividad para que todo el sistema de notificaciones divertidas se sienta unificado."
+        },
+        {
+          "question": "¿El audio generado es libre de royalties?",
+          "answer": "Sí. Las descargas son libres de royalties para uso típico de creadores y comercial bajo nuestra licencia, sin tasas extra por clip. Revisa los términos más recientes en la página del producto antes de grandes campañas publicitarias o emisiones en broadcast. Puedes incluir una notificación divertida en entregas a cliente y reutilizar sonidos de notificación divertidos entre canales cuando el uso siga el acuerdo."
+        },
+        {
+          "question": "¿Qué calidad de audio debo esperar?",
+          "answer": "Espera ancho de banda claro y dinámica controlada adecuada para suites de edición y reproducción móvil. Si necesitas especificaciones de loudness para broadcast, ejecuta tu pasada habitual de masterización tras exportar para que cada cue se alinee con narración y música de cama. Masteriza con suavidad para que cada notificación divertida mantenga transientes nítidos y haz loudness-match de sonidos de notificación divertidos para que ninguna notificación divertida salte por encima del resto de la mezcla."
+        }
+      ]
+    }
+  }
+}

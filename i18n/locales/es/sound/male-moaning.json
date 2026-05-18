@@ -1,0 +1,75 @@
+{
+  "male-moaning": {
+    "meta": {
+      "title": "Gemido masculino",
+      "description": "Crea gemidos masculinos al instante con nuestra tecnología de IA avanzada. Genera varios tipos de sonido, incluidos sonidos naturales, instrumentos musicales y más.",
+      "keywords": "gemido masculino, sonido de gemido masculino"
+    },
+    "hero": {
+      "title": "Gemido masculino",
+      "subtitle": "Transforma descripciones de texto en gemidos masculinos de alta calidad al instante"
+    },
+    "generator_subtitle": "Elige entre los prompts populares de abajo o escribe tu propia descripción para generar gemidos masculinos",
+    "advantages": {
+      "title": "¿Por qué elegir nuestro generador?",
+      "items": [
+        {
+          "title": "Creación instantánea de gemidos masculinos",
+          "description": "Crea clips profesionales de gemidos masculinos al instante desde texto con nuestro generador de IA. La herramienta convierte tus ideas en sonido de gemido masculino de alta calidad y audio de personajes en segundos, sin bibliotecas de muestras ni edición manual. Genera variaciones ilimitadas para juegos, vídeos y aplicaciones. Ya necesites gemidos de dolor, gruñidos de desaprobación o sonidos de herida, el generador ofrece una salida de calidad de estudio para tus proyectos.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Posibilidades creativas ilimitadas",
+          "description": "Usa nuestro generador para crear cualquier estilo de gemido masculino que imagines—desde gemidos sutiles hasta sonido de gemido masculino intenso. La herramienta entiende descripciones complejas y te da total libertad creativa. Explora opciones adaptadas a juegos, películas y medios. Desde gemidos de personajes hasta estilos vocales variados para cada escena, obtén el clip perfecto de gemido masculino para tu proyecto.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Calidad de audio profesional",
+          "description": "Cada gemido masculino de nuestro generador cumple los estándares de emisión con salida de alta fidelidad. Algoritmos punteros garantizan resultados de calidad de estudio para sonido de gemido masculino y otros efectos vocales. Todos los efectos de sonido están listos para producción y optimizados para uso profesional. El generador ofrece cobertura total de frecuencias y dinámica clara para gemidos auténticos. Se mantienen coherentes en cualquier proyecto.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "FAQ del generador",
+      "items": [
+        {
+          "question": "¿Qué es este generador?",
+          "answer": "Es una herramienta de IA que convierte descripciones de texto en efectos de sonido personalizados de gemido masculino y sonido de gemido masculino. Usa procesamiento del lenguaje natural y síntesis neural de audio para producir clips de calidad profesional. Puedes crear clips vocales para terror, juegos o películas. Es adecuado para creadores de contenido, desarrolladores de juegos y cineastas que necesitan una salida rápida y auténtica de gemido masculino. El generador también admite estilos y atmósferas variados para sonido de gemido masculino."
+        },
+        {
+          "question": "¿Cómo funciona?",
+          "answer": "Nuestro generador usa un pipeline de varias etapas para convertir texto en audio de alta calidad. Primero analiza tu descripción para captar rasgos como intensidad, personaje y duración. Esa información pasa por redes neuronales entrenadas para síntesis de gemidos y vocal. Entrenado con muestras profesionales, la IA produce gemidos masculinos y sonido de gemido masculino de sonido natural. El filtrado y el posprocesado mantienen la calidad alta y garantizan que cada clip de efecto de sonido vocal cumpla los estándares de emisión."
+        },
+        {
+          "question": "¿Qué hace único a este generador?",
+          "answer": "Nuestro generador destaca por la personalización instantánea y la calidad profesional. A diferencia de bibliotecas estáticas, crea gemidos masculinos y sonido de gemido masculino a medida bajo demanda. El sistema entiende descripciones complejas y produce salida con control fino de intensidad y estilo. Obtienes variaciones ilimitadas y libertad creativa. Los efectos de sonido para juegos y películas son fáciles de adaptar sin trabajo de producción extra."
+        },
+        {
+          "question": "¿Cómo escribo prompts efectivos para él?",
+          "answer": "Escribe descripciones claras y concretas. Prueba \"gruñido masculino de desaprobación\" o \"gemido masculino de dolor\" para gemidos masculinos. Incluye intensidad, tipo de personaje y contexto. Nuestro generador responde bien a términos como sonido de herida masculino, gemido y gruñido. Más contexto da mejores resultados para sonido de gemido masculino y otros efectos vocales."
+        },
+        {
+          "question": "¿Cómo lo uso en contenido de vídeo?",
+          "answer": "Coloca clips personalizados de gemido masculino y sonido de gemido masculino donde las escenas necesiten tensión o reacción. El generador te ayuda a crear audio de personajes para intros, transiciones y momentos clave. Superpone variaciones para un diseño de sonido rico y atractivo. Úsalo en películas, vlogs y tutoriales. La herramienta te permite construir un estilo de audio único que encaje con tu contenido."
+        },
+        {
+          "question": "¿Cómo lo uso en el desarrollo de juegos?",
+          "answer": "Nuestro generador admite audio procedural para juegos. Crea variaciones de gemido masculino y sonido de gemido masculino para que los jugadores rara vez oigan el mismo clip dos veces. Construye sistemas que reaccionen al estado del juego, peligros y eventos. Produce opciones distintas para personajes, cinemáticas y reacciones a heridas manteniendo un estilo coherente. Los efectos de sonido pueden mezclarse dinámicamente desde los parámetros del juego. El generador ofrece una salida de calidad profesional que mejora la inmersión y el impacto."
+        },
+        {
+          "question": "¿Qué tipos de gemidos masculinos puedo crear?",
+          "answer": "Puedes crear una amplia gama: gemido masculino de dolor, sonido de gemido masculino para terror o juegos, gruñidos de desaprobación, sonidos de herida y estilos personalizados. El generador maneja estas categorías con calidad consistente. Ya necesites gemidos sutiles o gemido masculino contundente para cualquier escena, la herramienta ofrece resultados profesionales."
+        },
+        {
+          "question": "¿Los clips de gemidos masculinos generados son libres de derechos?",
+          "answer": "Sí. Todo el audio de nuestro generador es libre de derechos e incluye licencia comercial. Puedes usar los gemidos masculinos y sonido de gemido masculino generados en cualquier proyecto sin tasas adicionales ni atribución. Cada clip está autorizado para uso inmediato en trabajo profesional y comercial."
+        },
+        {
+          "question": "¿Qué calidad produce?",
+          "answer": "Nuestro generador produce gemidos masculinos y sonido de gemido masculino de nivel profesional que cumplen estándares de la industria. Tienes opciones de alta resolución, rango de frecuencias completo y dinámica clara. Toda la salida está lista para emisión y es adecuada para producción profesional y proyectos creativos."
+        }
+      ]
+    }
+  }
+}

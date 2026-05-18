@@ -1,0 +1,75 @@
+{
+  "festival-sound": {
+    "meta": {
+      "title": "Festival Sound",
+      "description": "Instantly create festival sound with our advanced AI technology. Generate various type sounds including natural sounds, musical instruments and more.",
+      "keywords": "festival sound, sound festival"
+    },
+    "hero": {
+      "title": "Festival Sound",
+      "subtitle": "Instantly transform text description into high-quality festival sound"
+    },
+    "generator_subtitle": "Select from popular prompts below or write your own description to generate festival sound",
+    "advantages": {
+      "title": "Why Choose Our Festival Sound Generator?",
+      "items": [
+        {
+          "title": "Instant Festival Sound Creation",
+          "description": "Generate professional festival audio and event ambience instantly from text. Our tool turns your descriptions into crowd cheers, live music, stages and food-vendor buzz in seconds—no field recording or large libraries. Create unlimited variations for video, ads, or events. Whether you need outdoor festival sound, an event crowd, or main-stage energy, the generator delivers clean, broadcast-ready results.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Unlimited Creative Possibilities",
+          "description": "Create any style of festival sound you need: concert crowd, DJ set ambience, folk event, or distant event ambience. The generator understands detailed descriptions and produces matching audio for full creative freedom. Explore variations for film, podcasts, and content. From intimate tent to massive festival sound, find the right fit for every project.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professional-Grade Audio Quality",
+          "description": "All festival sound generated meets broadcast standards with high-fidelity output. The generator uses modern algorithms so each sound festival result is clear and production-ready. Outputs are optimized for video, film, and media. Get consistent, studio-quality festival audio for your work.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "About Festival Sound Generator",
+      "items": [
+        {
+          "question": "What is a festival sound generator?",
+          "answer": "A festival sound generator is an AI tool that turns text into custom festival sound and sound festival ambience such as crowd, live music, and stage noise. It produces professional audio for video, games, and ads without recording or large libraries. The system uses neural synthesis trained on real event and crowd audio, so you get natural, usable results. It's built for creators who need quick, varied festival sound for any project."
+        },
+        {
+          "question": "How does the festival sound generator work?",
+          "answer": "Our generator reads your text description and picks out traits like event type, crowd size, and distance. It then synthesizes matching festival sound—crowd roar, bass from a stage, or distant sound festival. You can request a music festival main stage, a food-court ambience, or outdoor crowd. The result is a clean, ready-to-use file you can download and drop into your project."
+        },
+        {
+          "question": "What makes this festival sound generator unique?",
+          "answer": "Unlike fixed libraries, our festival sound generator creates new variations on demand from plain text. You get custom event ambience without searching through thousands of files. The AI is trained on high-quality event and crowd audio, so each result is consistent and professional. Generate as many variations as you need for every scene or edit."
+        },
+        {
+          "question": "How to write effective prompts for festival sound?",
+          "answer": "Use clear, specific descriptions. For example: \"outdoor music festival sound crowd cheering\" or \"distant sound festival with bass.\" Mention event type (music, food, folk), stage (main, tent, outdoor), and intensity (loud, ambient, distant). The generator responds well to terms like crowd, stage, bass, and sound festival. More detail helps the output match your vision."
+        },
+        {
+          "question": "How to use festival sound in video content?",
+          "answer": "Use festival sound to add realism to event recaps, ads, or documentaries. Layer crowd under b-roll, add stage bass for energy, or use distant sound festival for atmosphere. Vary the intensity—louder for climaxes, softer for transitions. Our generator lets you create enough variations so each scene has a fitting festival sound without repetition."
+        },
+        {
+          "question": "How to use festival sound in game development?",
+          "answer": "Festival sound works well for event scenes, open-world ambience, and UI. Use crowd for background, stage audio for key moments, and sound festival for location feel. Our generator supports many variations so you can keep a consistent style. Create distinct sets for different venues or events with clear, professional output."
+        },
+        {
+          "question": "What types of festival sound can I create?",
+          "answer": "You can create a wide range of festival sound and sound festival: crowd cheers, live stage bass, DJ set, folk or outdoor event, food area buzz, and distant or close ambience. Use them for film, games, podcasts, or any project needing event audio. The generator handles different contexts and styles with consistent quality."
+        },
+        {
+          "question": "Are the generated festival sound royalty-free?",
+          "answer": "Yes. All festival sound from our generator are royalty-free and come with a commercial license. You can use them in any project without extra fees or attribution. Every generated sound festival file is cleared for professional and commercial use. Download as many as you need for your projects."
+        },
+        {
+          "question": "What is the quality of the generated festival sound?",
+          "answer": "Our festival sound generator outputs professional-grade audio that meets common broadcast and production standards. You get high-resolution files, full frequency range, and controlled dynamics so each output is clear and ready to drop into your project. Every generated file is suitable for professional use in video, film, and content."
+        }
+      ]
+    }
+  }
+}

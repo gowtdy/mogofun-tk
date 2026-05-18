@@ -1,0 +1,75 @@
+{
+  "men-moaning": {
+    "meta": {
+      "title": "Hombres gimiendo",
+      "description": "Crea gemidos de hombres al instante con nuestra tecnología de IA avanzada. Genera varios tipos de sonido, incluidos sonidos naturales, instrumentos musicales y más.",
+      "keywords": "hombres gimiendo, gemidos de hombre"
+    },
+    "hero": {
+      "title": "Hombres gimiendo",
+      "subtitle": "Transforma descripciones de texto en gemidos de hombres de alta calidad al instante"
+    },
+    "generator_subtitle": "Elige entre los prompts populares de abajo o escribe tu propia descripción para generar gemidos de hombres",
+    "advantages": {
+      "title": "¿Por qué elegir nuestro generador?",
+      "items": [
+        {
+          "title": "Creación instantánea de gemidos de hombres",
+          "description": "Crea clips profesionales de hombres gimiendo al instante desde texto con nuestro generador de IA. La herramienta convierte tus ideas en gemidos de hombre de alta calidad y audio de personajes en segundos, sin bibliotecas de muestras ni edición manual. Genera variaciones ilimitadas para juegos, vídeos y aplicaciones. Ya necesites gemidos de terror, gemidos de demonio o gemidos de hombre dramáticos, el generador ofrece una salida de calidad de estudio para tus proyectos.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Posibilidades creativas ilimitadas",
+          "description": "Usa nuestro generador para crear cualquier estilo de hombres gimiendo que imagines—desde gemidos sutiles hasta gemidos de hombre intensos. La herramienta entiende descripciones complejas y te da total libertad creativa. Explora opciones adaptadas a juegos, películas y medios. Desde gemidos de personajes hasta estilos vocales variados para cada escena, obtén el clip perfecto de hombres gimiendo para tu proyecto.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Calidad de audio profesional",
+          "description": "Cada gemido de hombres de nuestro generador cumple los estándares de emisión con salida de alta fidelidad. Algoritmos punteros garantizan resultados de calidad de estudio para gemidos de hombre y otros efectos vocales. Todos los efectos de sonido están listos para producción y optimizados para uso profesional. El generador ofrece cobertura total de frecuencias y dinámica clara para gemidos auténticos. Se mantienen coherentes en cualquier proyecto.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "FAQ del generador",
+      "items": [
+        {
+          "question": "¿Qué es este generador?",
+          "answer": "Es una herramienta de IA que convierte descripciones de texto en efectos de sonido personalizados de hombres gimiendo y gemidos de hombre. Usa procesamiento del lenguaje natural y síntesis neural de audio para producir clips de calidad profesional. Puedes crear clips vocales para terror, juegos o películas. Es adecuado para creadores de contenido, desarrolladores de juegos y cineastas que necesitan una salida rápida y auténtica de hombres gimiendo. El generador también admite estilos y atmósferas variados para gemidos de hombre."
+        },
+        {
+          "question": "¿Cómo funciona?",
+          "answer": "Nuestro generador usa un pipeline de varias etapas para convertir texto en audio de alta calidad. Primero analiza tu descripción para captar rasgos como intensidad, personaje y duración. Esa información pasa por redes neuronales entrenadas para síntesis de gemidos y vocal. Entrenado con muestras profesionales, la IA produce hombres gimiendo y gemidos de hombre de sonido natural. El filtrado y el posprocesado mantienen la calidad alta y garantizan que cada clip de efecto de sonido vocal cumpla los estándares de emisión."
+        },
+        {
+          "question": "¿Qué hace único a este generador?",
+          "answer": "Nuestro generador destaca por la personalización instantánea y la calidad profesional. A diferencia de bibliotecas estáticas, crea hombres gimiendo y gemidos de hombre a medida bajo demanda. El sistema entiende descripciones complejas y produce salida con control fino de intensidad y estilo. Obtienes variaciones ilimitadas y libertad creativa. Los efectos de sonido para juegos y películas son fáciles de adaptar sin trabajo de producción extra."
+        },
+        {
+          "question": "¿Cómo escribo prompts efectivos para él?",
+          "answer": "Escribe descripciones claras y concretas. Prueba \"gemido de hombres mayores grandes\" o \"gemidos y gemidos de terror\" para hombres gimiendo. Incluye intensidad, tipo de personaje y contexto. Nuestro generador responde bien a términos como gemido de demonio, gemido y gruñido. Más contexto da mejores resultados para gemidos de hombre y otros efectos vocales."
+        },
+        {
+          "question": "¿Cómo lo uso en contenido de vídeo?",
+          "answer": "Coloca clips personalizados de hombres gimiendo y gemidos de hombre donde las escenas necesiten tensión o reacción. El generador te ayuda a crear audio de personajes para intros, transiciones y momentos clave. Superpone variaciones para un diseño de sonido rico y atractivo. Úsalo en películas, vlogs y tutoriales. La herramienta te permite construir un estilo de audio único que encaje con tu contenido."
+        },
+        {
+          "question": "¿Cómo lo uso en el desarrollo de juegos?",
+          "answer": "Nuestro generador admite audio procedural para juegos. Crea variaciones de hombres gimiendo y gemidos de hombre para que los jugadores rara vez oigan el mismo clip dos veces. Construye sistemas que reaccionen al estado del juego, peligros y eventos. Produce opciones distintas para personajes, cinemáticas y reacciones de terror manteniendo un estilo coherente. Los efectos de sonido pueden mezclarse dinámicamente desde los parámetros del juego. El generador ofrece una salida de calidad profesional que mejora la inmersión y el impacto."
+        },
+        {
+          "question": "¿Qué tipos de hombres gimiendo puedo crear?",
+          "answer": "Puedes crear una amplia gama: hombres gimiendo de terror, gemidos de hombre para terror o juegos, gemido de hombres mayores grandes, gemido de demonio y estilos personalizados. El generador maneja estas categorías con calidad consistente. Ya necesites gemidos sutiles o gemidos de hombre contundente para cualquier escena, la herramienta ofrece resultados profesionales."
+        },
+        {
+          "question": "¿Los clips de hombres gimiendo generados son libres de derechos?",
+          "answer": "Sí. Todo el audio de nuestro generador es libre de derechos e incluye licencia comercial. Puedes usar los hombres gimiendo y gemidos de hombre generados en cualquier proyecto sin tasas adicionales ni atribución. Cada clip está autorizado para uso inmediato en trabajo profesional y comercial."
+        },
+        {
+          "question": "¿Qué calidad produce?",
+          "answer": "Nuestro generador produce hombres gimiendo y gemidos de hombre de nivel profesional que cumplen estándares de la industria. Tienes opciones de alta resolución, rango de frecuencias completo y dinámica clara. Toda la salida está lista para emisión y es adecuada para producción profesional y proyectos creativos."
+        }
+      ]
+    }
+  }
+}

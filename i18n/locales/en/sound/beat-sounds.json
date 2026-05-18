@@ -1,0 +1,75 @@
+{
+  "beat-sounds": {
+    "meta": {
+      "title": "Beat Sounds",
+      "description": "Instantly create beat sound with our advanced AI technology. Generate various type sounds including natural sounds, musical instruments and more.",
+      "keywords": "beat sounds, heartbeat sound effect"
+    },
+    "hero": {
+      "title": "Beat Sounds",
+      "subtitle": "Instantly transform text description into high-quality beat sounds"
+    },
+    "generator_subtitle": "Select from popular prompts below or write your own description to generate beat sounds",
+    "advantages": {
+      "title": "Why Choose Our Generator?",
+      "items": [
+        {
+          "title": "Instant Beat Sounds Creation",
+          "description": "Create professional beat sounds instantly from text descriptions with our AI generator. The tool turns your ideas into high-quality rhythmic and percussive audio in seconds, without sample libraries or manual editing. Generate unlimited variations for any project with a few clicks. Whether you need a heartbeat sound effect, drum beats, or layered rhythm, the generator delivers studio-quality output for your creative projects.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Unlimited Creative Possibilities",
+          "description": "Use our generator to create any style of beat sounds you imagine—from tribal drums to electronic grooves and heartbeat sound effect. The tool understands complex descriptions and gives you full creative freedom. Explore endless options tailored to music, videos, and apps. From short hits to full loops, get the perfect clip for every scenario, including heartbeat sound effect and more.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professional-Grade Audio Quality",
+          "description": "Every clip from our generator meets broadcast standards with high-fidelity output. Cutting-edge algorithms ensure studio-quality results. All beat sounds are production-ready and optimized for professional use. The generator delivers full frequency coverage and tight dynamics for authentic rhythmic output, including heartbeat sound effect.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Beat Sounds FAQ",
+      "items": [
+        {
+          "question": "What is a beat sounds generator?",
+          "answer": "A beat sounds generator is an AI tool that turns text descriptions into custom rhythmic and percussive audio. Ours uses natural language processing and neural audio synthesis to produce professional-quality clips, including heartbeat sound effect. Deep learning models trained on rhythm and drum datasets understand your description and generate matching variations. It suits producers, content creators, and game developers who need quick, authentic beat sounds. The generator uses your context and details to create nuanced, layered audio. For a polished heartbeat sound effect or other styles, it delivers precise, high-fidelity output."
+        },
+        {
+          "question": "How does the generator work?",
+          "answer": "Our generator uses a multi-stage pipeline to turn text into high-quality audio, including heartbeat sound effect. It first analyzes your description to capture traits like tempo, style, duration, and feel. That information goes through neural networks trained for rhythm synthesis, which handle frequency, dynamics, and groove. Trained on professional samples, the AI produces natural-sounding output. Filtering and post-processing keep quality high and ensure every clip meets broadcast standards."
+        },
+        {
+          "question": "What makes this generator unique?",
+          "answer": "Our generator stands out through instant customization and professional quality. Unlike static libraries, it creates tailored rhythm on demand. It is trained on high-quality samples for realistic results, including heartbeat sound effect and varied beat styles. The system understands complex descriptions and produces beat sounds with fine control over groove and context. You get unlimited variations and creative freedom."
+        },
+        {
+          "question": "How do I write effective prompts for the generator?",
+          "answer": "Write clear, specific descriptions with multiple details. Instead of just \"beat,\" try \"heartbeat sound effect with steady pulse\" or \"Indian beats with tabla and percussion.\" Include style, tempo, duration, and any distinctive traits. The generator responds well to terms like drum beats, groove, and rhythm. For complex scenarios, break them into parts and say how they combine. More context yields better results."
+        },
+        {
+          "question": "How can I use the generator in video content?",
+          "answer": "Map your video's pacing and place custom beat sounds where they add impact. The generator helps you create rhythmic beat sounds for every moment—from subtle background to dramatic hits. Layer several variations for rich, engaging audio. Use it for intros, transitions, and montages. Use distinct moments such as a heartbeat sound effect to underline key scenes. The tool lets you build a unique audio style that fits your content."
+        },
+        {
+          "question": "How can I use the generator in game development?",
+          "answer": "Our generator supports procedural audio for games. Create variations so players rarely hear the same loop twice. Build systems that react to game state, player actions, and conditions. Produce different options for menus, levels, and events while keeping a consistent style. Layered beat sounds can be mixed dynamically from game parameters. The generator delivers professional-quality audio that enhances immersion and realism."
+        },
+        {
+          "question": "What types of beat sounds can I create?",
+          "answer": "You can create a wide range: drum beats (kick, snare, hi-hat), heartbeat sound effect, styles (Indian beats, electronic, tribal), intensities (subtle to intense), lengths (short hits or extended loops), and moods (driving, relaxed, cinematic). The generator handles these beat sounds categories with consistent quality. Whether you need light background rhythm or strong clips, the tool delivers professional results for any project."
+        },
+        {
+          "question": "Are the generated beat sounds royalty-free?",
+          "answer": "Yes. All beat sounds from our generator are royalty-free and include a commercial license. You can use the generated beat sounds in any project without extra fees or attribution. Every clip, including heartbeat sound effect output, is cleared for immediate use in professional and commercial work. Heartbeat sound effect from our generator is ready for film, games, and media."
+        },
+        {
+          "question": "What quality does the generator produce?",
+          "answer": "Our generator outputs professional-grade beat sounds that meet industry standards. You get high-resolution options up to 192kHz/24-bit, full frequency range, and controlled dynamics. All output is broadcast-ready. Every clip is suitable for professional production and creative projects. Heartbeat sound effect quality is studio-grade across all variations."
+        }
+      ]
+    }
+  }
+}

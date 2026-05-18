@@ -1,0 +1,75 @@
+{
+  "transition-sound": {
+    "meta": {
+      "title": "Son de transition",
+      "description": "Créez instantanément des sons de transition avec notre technologie IA avancée. Générez divers types de sons : naturels, instruments, etc.",
+      "keywords": "son de transition, effet sonore de transition"
+    },
+    "hero": {
+      "title": "Son de transition",
+      "subtitle": "Transformez instantanément une description textuelle en son de transition de haute qualité"
+    },
+    "generator_subtitle": "Choisissez parmi les suggestions populaires ci-dessous ou rédigez votre propre description pour générer un son de transition",
+    "advantages": {
+      "title": "Pourquoi choisir notre générateur de sons de transition ?",
+      "items": [
+        {
+          "title": "Création instantanée de sons de transition",
+          "description": "Générez des sons de transition professionnels et des effets sonores de transition instantanément à partir du texte. Notre outil transforme vos descriptions en whoosh, riser et audio de changement de scène en quelques secondes—sans bibliothèques volumineuses ni montage manuel. Créez des variations illimitées pour tout projet. Que vous ayez besoin d’un passage net pour des cuts ou d’un passage doux pour des fondus, le générateur livre des résultats propres et prêts pour la diffusion.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Possibilités créatives illimitées",
+          "description": "Créez tout style de son de transition dont vous avez besoin : whoosh rapides, balayages lents, risers cinématographiques ou passages subtils. Le générateur comprend les descriptions détaillées et produit un audio correspondant, pour une liberté créative totale. Explorez des variations infinies d’effets sonores de transition pour intros, changements de scène et montages. Du subtil au dramatique, trouvez la bonne option pour chaque projet.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualité audio professionnelle",
+          "description": "Chaque son de transition généré respecte les normes de diffusion avec une sortie haute fidélité. Le générateur utilise des algorithmes modernes pour que chaque effet sonore de transition soit clair et prêt pour la production. Toutes les sorties sont optimisées pour un usage professionnel en vidéo, film et contenu. Obtenez une sortie cohérente et de qualité studio.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "À propos du générateur de sons de transition",
+      "items": [
+        {
+          "question": "Qu’est-ce qu’un générateur de sons de transition ?",
+          "answer": "Un générateur de sons de transition est un outil IA qui transforme le texte en whoosh, swoosh et audio de changement de scène personnalisés. Il produit une sortie professionnelle et des effets sonores de transition pour les cuts, fondus et changements de scène. Le système utilise une synthèse audio neuronale entraînée sur de vrais sons de transition et d’impact, pour des résultats naturels et utilisables sans enregistrement ni grandes bibliothèques. Il est conçu pour les monteurs, créateurs et réalisateurs qui ont besoin d’une sortie rapide et variée pour tout projet."
+        },
+        {
+          "question": "Comment fonctionne le générateur de sons de transition ?",
+          "answer": "Notre générateur lit d’abord votre description textuelle et en extrait des traits comme la vitesse, l’intensité et le style. Il les fait ensuite passer dans des modèles entraînés sur du whoosh, des risers et de l’audio de changement de scène pour synthétiser une sortie correspondante. Vous pouvez demander un effet sonore de transition net pour des cuts secs, un plus doux pour des fondus, ou un intermédiaire. Le résultat est un fichier propre et prêt à l’emploi que vous pouvez télécharger et utiliser dans votre montage."
+        },
+        {
+          "question": "Qu’est-ce qui rend ce générateur de sons de transition unique ?",
+          "answer": "Contrairement aux bibliothèques fixes, notre générateur crée de nouvelles variations à la demande à partir de texte simple. Vous obtenez une sortie personnalisée et des effets sonores de transition sans parcourir des milliers de fichiers. L’IA est entraînée sur de l’audio de changement de scène et de whoosh de haute qualité, chaque résultat est donc cohérent et professionnel. Vous pouvez générer autant de variations que nécessaire pour trouver la bonne option pour chaque scène ou cut."
+        },
+        {
+          "question": "Comment rédiger des prompts efficaces pour les sons de transition ?",
+          "answer": "Utilisez des descriptions claires et précises. Par exemple : « son de transition rapide pour un cut » ou « effet sonore de transition doux pour un fondu ». Indiquez la vitesse (rapide, lent), le poids (léger, lourd) et le contexte (film, vlog, promo). Le générateur réagit bien aux termes whoosh, swoosh, riser et cinématique. Plus vous donnez de détails, plus la sortie correspondra à votre vision. Indiquez la durée ou le style si c’est important pour votre montage."
+        },
+        {
+          "question": "Comment utiliser les sons de transition dans du contenu vidéo ?",
+          "answer": "Utilisez les sons de transition et les effets sonores de transition pour fluidifier les cuts, souligner les changements de scène ou ajouter de l’énergie. Placez un court whoosh sur les cuts pour une meilleure fluidité entre les scènes. Superposez un passage léger sous les montages ou graphiques pour un rendu soigné. Variez l’intensité—plus fort pour l’action, plus doux pour les moments calmes. Notre générateur permet de créer assez de variations pour que chaque cut ou changement de scène ait un résultat adapté sans répétition."
+        },
+        {
+          "question": "Comment utiliser les sons de transition en développement de jeux ?",
+          "answer": "Les sons de transition conviennent aux chargements de niveaux, changements de menus et à l’interface des jeux. Utilisez un effet sonore de transition net pour les changements d’écran et des whoosh plus marqués pour les moments dramatiques. Notre générateur prend en charge de nombreuses variations pour garder un style cohérent tout en évitant la répétition. Créez des ensembles distincts pour différents niveaux ou menus. Le résultat est une sortie claire et professionnelle adaptée à l’ambiance de votre jeu."
+        },
+        {
+          "question": "Quels types de sons de transition puis-je créer ?",
+          "answer": "Vous pouvez créer une grande variété de sons de transition et d’effets sonores de transition : rapides ou lents, légers ou lourds, courts ou longs. Utilisez-les pour les cuts vidéo, changements de scène, interfaces ou tout besoin de type whoosh. Le générateur gère différents contextes et styles avec une qualité constante, des passages subtils aux impacts dramatiques. Explorez diverses options pour tout besoin de production."
+        },
+        {
+          "question": "Les sons de transition générés sont-ils libres de droits ?",
+          "answer": "Oui. Tous les sons de transition et effets sonores de transition générés par notre outil sont libres de droits et fournis avec une licence commerciale. Vous pouvez les utiliser dans tout projet sans frais supplémentaires ni attribution. Chaque fichier généré est autorisé pour un usage professionnel et commercial. Téléchargez-en autant que nécessaire pour vos projets."
+        },
+        {
+          "question": "Quelle est la qualité des sons de transition générés ?",
+          "answer": "Notre générateur produit un audio de qualité professionnelle conforme aux normes courantes de diffusion et de production. Vous obtenez des fichiers haute résolution, une plage de fréquences complète et une dynamique maîtrisée, chaque effet sonore de transition est clair et prêt à intégrer dans votre projet. Chaque fichier généré convient à un usage professionnel en vidéo, film et contenu."
+        }
+      ]
+    }
+  }
+}

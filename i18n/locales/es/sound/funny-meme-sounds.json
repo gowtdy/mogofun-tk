@@ -1,0 +1,79 @@
+{
+  "funny-meme-sounds": {
+    "meta": {
+      "title": "Sonidos de memes graciosos",
+      "description": "Crea sonidos de memes graciosos únicos con IA avanzada de efectos de sonido, incluyendo sonidos naturales, instrumentos y más.",
+      "keywords": "sonidos de memes graciosos, effect funny"
+    },
+    "hero": {
+      "title": "Sonidos de memes graciosos",
+      "subtitle": "Convierte tus descripciones de texto en sonidos de memes graciosos de alta calidad"
+    },
+    "generator_subtitle": "Elige entre los prompts populares de abajo o escribe tu propia descripción para generar sonidos de memes graciosos",
+    "advantages": {
+      "title": "¿Por qué generar sonidos de memes graciosos con nuestra IA?",
+      "items": [
+        {
+          "title": "Sonidos de memes graciosos desde texto en segundos",
+          "description": "Describe un sting viral, un beat de reacción o un golpe irónico con palabras sencillas y consigue stems mezclables al instante—sin scrollear sitios de memes sin fin. Las salidas son cortas y con punch para que shorts, streams y overlays de chat sigan el tempo. Duplica sonidos de memes graciosos para cortes verticales, recorta colas en cada pase y archiva repuestos para retoques.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Itera formatos sin reconstruir sesiones",
+          "description": "Duplica el chiste en cortes verticales, cuadrados y horizontales ajustando prompts en lugar de re-editar timelines enteras. Combina palabras de timing (\"0.4s sting\") y tono (seco vs. caótico) hasta que cada versión se sienta nativa. Cuando sonidos de memes graciosos muy cargados tapen la voz en off, acorta los golpes; cuando queden flojos, amplía los verbos; haz QC de cada lote antes del doblaje.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Niveles seguros para el feed desde el inicio",
+          "description": "La dinámica apunta a altavoces móviles típicos y hábitos de loudness de las plataformas. Haz batch de sonidos de memes graciosos para una campaña manteniendo picos predecibles y amigables con el diálogo, con mínimo mastering extra. Enruta promos el lunes, refresca los antiguos a mitad de semana e imprime entregables tras el picture lock.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Sonidos de memes graciosos: preguntas y respuestas",
+      "items": [
+        {
+          "question": "¿Qué son los sonidos de memes graciosos en esta herramienta?",
+          "answer": "Cues cómicos cortos y compartibles—stings irónicos, golpes de reacción, pops cartoon o voces con vibra de meme—creados desde texto en vez de extraer fuentes desconocidas. Obtienes stems legales y mezclables, pensados para shorts, overlays y A/B rápidos. Los compradores que comparan bundles con la etiqueta effect funny deben confirmar recuento de stems y PDFs de licencia."
+        },
+        {
+          "question": "¿Cómo el texto se convierte en un sting?",
+          "answer": "Los prompts capturan vibra, duración y energía del remate. Los modelos sintetizan formas de onda ajustadas y un procesado suave doma picos para altavoces de móvil. Ajusta adjetivos, regenera y quédate con la toma que sincroniza limpia al fotograma. Los investigadores que catalogan filas etiquetadas effect funny aún necesitan filtros centrados en comedia que eviten tráilers de terror."
+        },
+        {
+          "question": "¿Qué significa effect funny en una cue sheet de memes?",
+          "answer": "Los editores usan esa etiqueta para separar golpes irónicos de SFX serios y que los asistentes saquen el bin correcto. Describir la misma intención aquí orienta la generación hacia stings juguetones en lugar de whooshes cinematográficos. Duplicar marcadores effect funny a lo largo de episodios mantiene a los asistentes alineados con los bins de memes."
+        },
+        {
+          "question": "¿Cómo debo promptear para timing viral?",
+          "answer": "Indica el tropo del meme, el giro emocional y la duración (\"dry rimshot 0.3s\"). Menciona la plataforma si importa—las mezclas verticales suelen necesitar transientes más brillantes. Compara líneas concretas como \"sad trombone wah\" y \"cartoon fail brass\" y refina. Menciona effect funny sting en las slug lines cuando necesites claridad irónica al instante."
+        },
+        {
+          "question": "¿Puedo publicar clips en TikTok o Reels?",
+          "answer": "Sí—los stems apuntan a flujos típicos de short-form. Alinea golpes con captions, varía tomas para que el feed no se fatigue y sigue las políticas de audio más recientes de cada app. Guarda PDFs de licencia para campañas de marca. Los equipos que prueban promos marcadas effect funny deben seguir la política de audio publicitario de cada app."
+        },
+        {
+          "question": "¿Sirve para alertas de stream o chat bots?",
+          "answer": "Genera stings hermanos para follows, raids y redeems para mantener alertas frescas. Bloquea una familia de cues que compartan timbre pero cambien de duración según el tier del evento. Los diseñadores que cablean alertas marcadas effect funny deberían hacer A/B antes de lanzar comandos del bot."
+        },
+        {
+          "question": "¿Qué estilos con vibra de meme funcionan?",
+          "answer": "Brass flops, scratches de disco, bass drops, rimshots secos, pops de boca, zumbadores glitch y frases de falso locutor. Separa bed y poke si necesitas ambos, o imprime capas para ajustar en una DAW. Los mezcladores que apilan beds con tag effect funny bajo la música deben hacer notch al barro compartido con la música."
+        },
+        {
+          "question": "¿Las descargas son libres de regalías?",
+          "answer": "Los archivos se publican bajo la licencia mostrada al descargar—normalmente cubriendo anuncios, streams y ediciones de cliente sin tasas extra de sincronización. Archiva acuerdos y vuelve a comprobar cuando cambien los términos. Los supervisores que auditan reels etiquetados effect funny antes de renovaciones deberían exportar PDFs de licencia para finanzas."
+        },
+        {
+          "question": "¿Qué calidad puedo esperar?",
+          "answer": "Stems de alta resolución con dinámica controlada para que los golpes queden por encima del ducking de la música. Aplica tu preset de loudness como cualquier SFX de terceros. Cine o broadcast siguen tu cadena normal. Los ingenieros que imprimen stems marcados effect funny aún ejecutan objetivos de loudness de la casa de extremo a extremo."
+        },
+        {
+          "question": "¿Quién se beneficia más?",
+          "answer": "Editores de short-form, community managers y devs indie publicando contenido rápido. Quien necesite sonidos de memes graciosos frescos sin buscar rips dudosos puede iterar en minutos; equipos grandes pueden usarlos como temp antes de VO final o pulido musical. Rota sonidos estacionales cuando marketing cambie ganchos. Los showrunners que storyboardean secuencias marcadas effect funny deberían etiquetar bins para alinear asistentes."
+        }
+      ]
+    }
+  }
+}

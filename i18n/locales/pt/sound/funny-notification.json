@@ -1,0 +1,71 @@
+{
+  "funny-notification": {
+    "meta": {
+      "title": "Notificação engraçada",
+      "description": "Crie na hora uma notificação engraçada com nossa IA avançada: sons naturais, instrumentos e muito mais.",
+      "keywords": "notificação engraçada, sons de notificação engraçados"
+    },
+    "hero": {
+      "title": "Notificação engraçada",
+      "subtitle": "Transforme descrições em texto instantaneamente em notificação engraçada de alta qualidade"
+    },
+    "generator_subtitle": "Escolha entre os prompts populares abaixo ou escreva sua própria descrição para gerar notificação engraçada",
+    "advantages": {
+      "title": "Por que escolher nosso gerador de notificações engraçadas?",
+      "items": [
+        {
+          "title": "Áudio de notificação engraçada em segundos",
+          "description": "Descreva um chime, bloop ou ping de desenho e receba um clipe polido sem navegar por infinitos packs de alertas. A IA interpreta tom, duração e impacto para resultados intencionais em telefones, desktops e streams. Itere rápido quando precisar de um sinal novo para cada campanha ou episódio. Teste várias ideias de notificação engraçada por sprint, audicione sons de notificação engraçados nos testes de motion e fixe a notificação engraçada que melhor se lê em dispositivos reais.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Estilos para apps, streams e alertas de mensagem",
+          "description": "Peça vibrações lúdicas, deadpan ou exageradas; o modelo adapta-se ao brief que você escrever. Notas claras sobre altura, decay e loudness ajudam a saída a conviver com locução e motion de UI. Exporte caudas curtas que fazem loop limpo se você prototipar jogos ou apps de chat. Alinhe cada notificação engraçada às diretrizes de voz da marca e troque sons de notificação engraçados até os stakeholders aprovarem sem nova sessão de gravação.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Arquivos prontos para mix em fluxos do dia a dia",
+          "description": "Os downloads visam transientes nítidos e loudness previsível para encaixar cues em editores ou protótipos móveis com limpeza mínima. Processamento consistente significa que colegas ouvem o mesmo equilíbrio ao reabrir o projeto. Publique assets de notificação engraçada com picos previsíveis, arquive sons de notificação engraçados alternativos para skins sazonais e reutilize o mesmo template de notificação engraçada em builds white-label.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Sobre nosso gerador de notificações engraçadas",
+      "items": [
+        {
+          "question": "O que é um gerador de notificações engraçadas?",
+          "answer": "É um fluxo de IA que transforma prompts de texto em áudio curto estilo alerta em vez de gravar sinos ou buzzers você mesmo. Você especifica o caráter do ping—fofo, maroto, retrô—e recebe um arquivo para mockups de mensagens, kits de criador ou overlays de live. Equipes de produto exportam uma notificação engraçada para cada fluxo de persona e comparam sons de notificação engraçados em testes de usabilidade antes do lançamento."
+        },
+        {
+          "question": "Como o gerador transforma prompts em áudio?",
+          "answer": "O sistema interpreta brilho, duração e timing cômico da sua descrição e sintetiza um clipe alinhado ao brief. Ajuste adjetivos ou dicas de cenário entre passes até a cue casar com o beat da UI ou a punchline. Cada passo refina o timing da notificação engraçada; você pode catalogar sons de notificação engraçados por campanha para editores pegarem a notificação engraçada certa na hora."
+        },
+        {
+          "question": "Quando escolher sons de notificação engraçados por IA em vez de packs stock?",
+          "answer": "Bibliotecas stock repetem os mesmos tons. A saída de IA pode ser ajustada linha a linha, o que ajuda quando você precisa de uma cue que combine com voz de marca ou uma piada que nenhum clip de catálogo acerta. Mantenha prompts específicos para sons de notificação engraçados ficarem distintos entre projetos. Quando uma notificação engraçada deve parecer sob medida, regenere até a forma de onda acompanhar o storyboard passo a passo."
+        },
+        {
+          "question": "Como escrever prompts para notificação engraçada?",
+          "answer": "Nomeie o contexto do dispositivo (ping de telefone, toast de desktop, bolha de chat), o humor (bobo, presunçoso, surpreso) e pistas de timing (decay curto, bip duplo). Exemplos como \"rangido de borracha minúsculo para novo DM\" ou \"bloop retrô para lembrete de tarefa\" guiam o modelo melhor que um único adjetivo. Mencione headroom de mix se for sobrepor música para sons de notificação engraçados permanecerem inteligíveis em pilhas densas de notificações engraçadas."
+        },
+        {
+          "question": "Onde usar esses tons em projetos reais?",
+          "answer": "Usos comuns incluem demos de UX mobile, alertas de stream de criador, stingers de podcast e exemplos em sala. Mantenha níveis alguns dB abaixo de fala ou música para o ping soar claro sem mascarar diálogo ao pré-ouvir sons de notificação engraçados em alto-falantes de notebook. Solte a notificação engraçada no quadro exato do toast e encaminhe sons de notificação engraçados alternativos para builds de QA para testes rápidos de escuta."
+        },
+        {
+          "question": "Que tipos de tom além de um chime de alerta básico?",
+          "answer": "Explore chirps, slides borrachudos, chimes pseudo-minimalistas ou buzzers exagerados. Mencione sabor de gênero—arcade, sitcom de escritório, painel sci-fi—para o tom ficar coerente com os visuais e ainda leve. Estenda cada família de notificação engraçada com sons de notificação engraçados companheiros para sucesso, aviso e ociosidade para o sistema inteiro de notificações engraçadas parecer coeso."
+        },
+        {
+          "question": "O áudio gerado é livre de royalties?",
+          "answer": "Sim. Os downloads são livres de royalties para uso típico de criadores e comercial sob nossa licença, sem taxas extras por clipe. Revise os termos mais recentes na página do produto antes de grandes campanhas publicitárias ou veiculação em broadcast. Você pode incluir uma notificação engraçada em entregas a clientes e reutilizar sons de notificação engraçados entre canais quando o uso seguir o acordo."
+        },
+        {
+          "question": "Que qualidade de áudio devo esperar?",
+          "answer": "Espere largura de banda clara e dinâmica controlada adequada a suítes de edição e reprodução mobile. Se precisar de especificações de loudness para broadcast, rode sua passagem habitual de masterização após exportar para cada cue alinhar com narração e música de fundo. Masterize com leveza para cada notificação engraçada manter transientes nítidos e faça loudness-match dos sons de notificação engraçados para que nenhuma notificação engraçada salte acima do restante do mix."
+        }
+      ]
+    }
+  }
+}

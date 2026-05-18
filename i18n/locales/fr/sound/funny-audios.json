@@ -1,0 +1,79 @@
+{
+  "funny-audios": {
+    "meta": {
+      "title": "Audios drôles",
+      "description": "Créez des audios drôles uniques grâce à une IA avancée d'effets sonores, avec des types variés : sons naturels, instruments et plus encore.",
+      "keywords": "audios drôles, son drôle"
+    },
+    "hero": {
+      "title": "Audios drôles",
+      "subtitle": "Transformez vos descriptions textuelles en audios drôles de haute qualité"
+    },
+    "generator_subtitle": "Choisissez parmi les prompts populaires ci-dessous ou rédigez votre propre description pour générer des audios drôles",
+    "advantages": {
+      "title": "Pourquoi générer des audios drôles à partir de prompts texte ?",
+      "items": [
+        {
+          "title": "Des audios drôles en quelques secondes",
+          "description": "Décrivez en langage simple des stings, des hits de réaction, des pops de dessin animé ou des voix proches des mèmes et obtenez rapidement des stems mixables—plus besoin de faire défiler des sites sans fin avant une deadline. Les sorties restent courtes pour que reels, podcasts et overlays restent percutants. Dupliquez des audios drôles pour le vertical, taillez la queue à chaque passe et archivez des audios drôles de rechange pour les rattrapages.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Adapter les sketches à tous les formats",
+          "description": "Dupliquez une blague en vertical, carré et paysage en ajustant les prompts plutôt qu'en reconstruisant des sessions entières. Gardez un timbre cohérent tout en variant longueur ou intensité pour que chaque montage plateforme reste intentionnel. Quand des audios drôles surchargés masquent la VO, raccourcissez les queues ; quand des audios drôles trop fins manquent de punch, élargissez le verbe ; contrôlez qualité chaque lot d'audios drôles avant le doublage.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Niveau sonore pensé pour le téléphone",
+          "description": "La dynamique cible les écouteurs et haut-parleurs de téléphone typiques. Traitez des audios drôles en lot pour une campagne tout en gardant des crêtes prévisibles sous la voix, puis appliquez votre limiteur ou étape loudness habituelle dans la DAW. Planifiez les audios promo en début de semaine, rafraîchissez les plus anciens en milieu de semaine et imprimez les livrables après verrouillage image.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Audios drôles : questions et réponses",
+      "items": [
+        {
+          "question": "Que sont les « audios drôles » dans cet outil ?",
+          "answer": "De courts clips comiques—stings, buzzers, pops de dessin animé ou vocalisations ludiques—créés à partir de texte plutôt qu'en extrayant des fichiers inconnus. Vous obtenez des stems légaux dimensionnés pour reels, podcasts, pubs et tests A/B rapides. Si un sting doit sonner drôle sur téléphone, éclaircissez légèrement les transitoires plutôt que de pousser le gain."
+        },
+        {
+          "question": "Comment un prompt devient-il un clip prêt au mix ?",
+          "answer": "Vous décrivez timbre, durée et impact (« dry rimshot 0,25 s »). Les modèles rendent des formes d'onde serrées, puis un léger traitement dompte les crêtes pour la lecture mobile. Téléchargez, normalisez si votre chaîne l'exige, et insérez au montage. Les monteurs veulent que les spots client sonnent drôles sans masquer le lit de voix off."
+        },
+        {
+          "question": "Comment faire sonner les exports drôles sans écrêtage ?",
+          "answer": "Gardez les crêtes sous 0 dBFS, utilisez un limiteur doux après le gain staging, et passez haut le boue qui s'empile avec la musique. Si la brillance agresse sur écouteurs, atténuez légèrement 3–6 kHz plutôt que d'écraser tout le bus. Les étudiants veulent que les explications sonnent drôles tout en restant adaptées à la classe à faible volume."
+        },
+        {
+          "question": "Comment formuler un prompt pour le timing mème ?",
+          "answer": "Indiquez le trope, le retournement émotionnel et une durée. Mentionnez la plateforme si c'est pertinent—les mix vertical ont souvent besoin de transitoires plus brillants. Comparez des formulations concrètes comme « sad trombone wah » et « cartoon fail brass » et affinez. Les bots peuvent rendre les alertes drôles sans écrêter les haut-parleurs d'ordinateur bon marché."
+        },
+        {
+          "question": "Puis-je superposer sous la voix ?",
+          "answer": "Oui—baissez la narration de quelques dB, raccourcissez la queue si la blague masque les mots, et encochez les fréquences communes quand la musique est dense. Sidechain ou gain de clip comme pour tout autre SFX. Les équipes podcast veulent des bumpers drôles à côté d'une VO sèche sans pomper le bus."
+        },
+        {
+          "question": "Adapté aux alertes de stream ou aux bots ?",
+          "answer": "Générez des stings jumeaux pour follows, raids et redeems pour garder des alertes fraîches. Associez les fichiers aux raccourcis ou commandes et suivez les dernières règles audio de chaque plateforme. Contrôlez que chaque export sonne drôle à faible volume avant le live."
+        },
+        {
+          "question": "Quels styles fonctionnent le mieux ?",
+          "answer": "Rimshots, bourdonnements de kazoo, sifflets à coulisse, buzzers de mauvaise réponse, boings à ressort et impacts proches des mèmes. Séparez les one-shots des lits pour pouvoir duck la musique sans tuer l'ambiance. Les animateurs ont besoin de SFX qui sonnent drôles sur des lits plats sans laver le dialogue."
+        },
+        {
+          "question": "Les téléchargements sont-ils libres de droits ?",
+          "answer": "Les fichiers sont publiés sous la licence indiquée au téléchargement—couvrant en général streams, pubs et montages clients sans frais de synchro supplémentaires. Archivez les PDF pour sponsors et revérifiez les conditions au renouvellement des campagnes. Les sponsors veulent que les promos sonnent drôles avant que la musique n'engloutisse le tag."
+        },
+        {
+          "question": "Quelle qualité puis-je attendre ?",
+          "answer": "Des stems haute résolution avec une dynamique contrôlée pour que les hits se lisent aussi bien sur téléphone que sur moniteurs studio. Passez par votre étape loudness habituelle si les normes broadcast s'appliquent. Le mastering doit rendre les finaux drôles sur écouteurs comme sur téléviseurs de salon."
+        },
+        {
+          "question": "Qui en tire le plus profit ?",
+          "answer": "Monteurs, producteurs de podcasts et community managers qui livrent de la comédie au quotidien. Les équipes qui ont besoin d'audios drôles frais chaque saison peuvent itérer les prompts plutôt que reconstruire des bibliothèques entières. Faites tourner les audios saisonniers quand les accroches changent ; itérez jusqu'à ce que les reels sonnent drôles sur chaque preset plateforme."
+        }
+      ]
+    }
+  }
+}

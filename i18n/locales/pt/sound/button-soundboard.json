@@ -1,0 +1,71 @@
+{
+  "button-soundboard": {
+    "meta": {
+      "title": "Button Soundboard",
+      "description": "Crie instantaneamente um button soundboard com nossa IA avançada. Gere vários tipos de áudio, incluindo sons naturais e instrumentos.",
+      "keywords": "button soundboard, meme buttons"
+    },
+    "hero": {
+      "title": "Button Soundboard",
+      "subtitle": "Transforme instantaneamente descrições em texto em áudio button soundboard de alta qualidade"
+    },
+    "generator_subtitle": "Escolha um dos prompts populares abaixo ou escreva sua própria descrição para gerar sinais button soundboard",
+    "advantages": {
+      "title": "Por que escolher nosso gerador Button Soundboard?",
+      "items": [
+        {
+          "title": "Crie um Button Soundboard em segundos",
+          "description": "Crie sinais curtos e impactantes a partir de prompts simples, sem sessões de gravação ou cadeias de edição complexas. Esse fluxo ajuda criadores a montar um button soundboard rapidamente para streams, apps e clips sociais, mantendo tom e timing consistentes.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Estilos flexíveis para qualquer interação",
+          "description": "Ajuste ataque, decay e caráter para que cada sinal combine com seu UX ou estilo de conteúdo. Gere cliques divertidos, stings dramáticos e confirmações limpas e organize-os em um único button soundboard. Rótulos opcionais meme buttons em metadados ou empacotamento para formatos curtos podem apoiar a descoberta sem excesso de palavras-chave.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualidade de áudio profissional",
+          "description": "Cada exportação é limpa, pronta para mixagem e estável em todos os dispositivos. Dinâmica controlada e transientes claros ajudam seus assets button soundboard a soar bem do mobile ao desktop e streaming.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Sobre nosso gerador Button Soundboard",
+      "items": [
+        {
+          "question": "O que é um gerador button soundboard?",
+          "answer": "É uma ferramenta de áudio com IA que transforma prompts de texto em sinais interativos curtos para UI, edição de conteúdo e interações ao vivo. Você pode criar um button soundboard para ações específicas e reutilizá-lo em páginas de produto e fluxos de vídeo."
+        },
+        {
+          "question": "Como funciona a ferramenta button soundboard?",
+          "answer": "O modelo lê descritores como duração, timbre, impacto e contexto de reprodução e sintetiza o áudio correspondente. Comece com uma linha de base neutra, itere energia e clareza e finalize um conjunto de sinais que encaixe no timing da interface."
+        },
+        {
+          "question": "Por que isso é melhor que pacotes estáticos?",
+          "answer": "Pacotes estáticos podem soar repetitivos e costumam exigir limpeza extra. A geração por prompts oferece resultados específicos da cena sob demanda, tornando seu button soundboard mais distinto em menus, alertas e transições."
+        },
+        {
+          "question": "Como escrever prompts eficazes?",
+          "answer": "Use instruções concisas com intenção e timing, como \"clique de confirmação curto e brilhante\" ou \"bip de interface quente com decay rápido\". Adicione contexto como tela alvo, duração e humor para reduzir revisões e melhorar a consistência."
+        },
+        {
+          "question": "Posso otimizar para memes e busca social?",
+          "answer": "Sim. Mantenha button soundboard como termo principal e adicione meme buttons com moderação em metadados, títulos ou FAQ selecionados para alinhar à intenção de busca social mantendo o texto legível."
+        },
+        {
+          "question": "Onde posso usar os sinais gerados?",
+          "answer": "Em eventos de UI de jogos, fluxos de onboarding, clips sociais, overlays de stream, interações de quiz e transições de edição. Um button soundboard estruturado ajuda equipes a manter uma identidade sonora reconhecível e iterar rápido em sinais para formatos curtos."
+        },
+        {
+          "question": "O som gerado é livre de royalties?",
+          "answer": "Sim. As saídas são livres de royalties conforme nossos termos padrão para projetos de criadores e comerciais comuns. Revise os detalhes de licenciamento antes de grandes campanhas pagas ou requisitos de distribuição especializados."
+        },
+        {
+          "question": "Que qualidade posso esperar das exportações?",
+          "answer": "Arquivos prontos para produção com transientes claros, picos controlados e reprodução confiável em todos os dispositivos. Você ainda pode aplicar EQ final e loudness para alinhar cada sinal ao mix completo e às metas da plataforma."
+        }
+      ]
+    }
+  }
+}

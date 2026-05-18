@@ -1,0 +1,75 @@
+{
+  "cry-sounds": {
+    "meta": {
+      "title": "Sonidos de llanto",
+      "description": "Crea sonidos de llanto al instante con nuestra tecnología de IA avanzada. Genera diversos tipos de sonidos de llanto: clips naturales, instrumentos musicales y más.",
+      "keywords": "sonidos de llanto, llanto y grito"
+    },
+    "hero": {
+      "title": "Sonidos de llanto",
+      "subtitle": "Transforma descripciones de texto en sonidos de llanto de alta calidad al instante"
+    },
+    "generator_subtitle": "Elige entre los prompts populares de abajo o escribe tu propia descripción para generar sonidos de llanto",
+    "advantages": {
+      "title": "¿Por qué elegir nuestro generador?",
+      "items": [
+        {
+          "title": "Creación instantánea de sonidos de llanto",
+          "description": "Crea clips vocales profesionales al instante desde texto con nuestro generador de IA. La herramienta convierte tus ideas en sonidos de llanto y audio de personaje de alta calidad en segundos, sin bibliotecas de muestras ni edición manual. Genera variaciones ilimitadas para juegos, vídeos y apps. Ya sea llanto de dolor, efecto de sonido de llanto, o llanto y grito para terror, el generador ofrece sonidos de llanto en calidad de estudio para tus proyectos.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Posibilidades creativas ilimitadas",
+          "description": "Usa nuestro generador para crear cualquier estilo de sonidos de llanto que imagines—de sollozos sutiles a lamentos intensos. La herramienta entiende descripciones complejas y te da libertad creativa total. Explora opciones para juegos, películas y medios. Desde vocales de personaje hasta llanto y grito variado para cada escenario, obtén el clip perfecto para tu proyecto.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Calidad de audio profesional",
+          "description": "Cada clip de nuestro generador cumple estándares de emisión con salida de alta fidelidad. Algoritmos punteros garantizan resultados en calidad de estudio. Toda la salida está lista para producción y optimizada para uso profesional. El generador ofrece cobertura de frecuencia completa y dinámica clara para sonidos de llanto auténticos. Llanto y grito que suenan consistentes en cualquier proyecto.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "FAQ generador",
+      "items": [
+        {
+          "question": "¿Qué es este generador?",
+          "answer": "Es una herramienta de IA que convierte descripciones de texto en audio vocal y de personaje personalizado, incluyendo sonidos de llanto. El nuestro usa procesamiento de lenguaje natural y síntesis neural de audio para producir clips de calidad profesional. Puedes crear sonidos de llanto para terror, juegos o películas. Es adecuado para creadores de contenido, desarrolladores de juegos y cineastas que necesitan salida rápida y auténtica. El generador también soporta llanto y grito para estilos y atmósferas variados."
+        },
+        {
+          "question": "¿Cómo funciona?",
+          "answer": "Nuestro generador usa un pipeline en varias etapas para convertir texto en sonidos de llanto de alta calidad. Primero analiza tu descripción para capturar rasgos como intensidad, personaje y duración. Esa información pasa por redes neuronales entrenadas para síntesis vocal y de llanto. Entrenado con muestras profesionales, la IA produce sonidos de llanto naturales y realistas. El filtrado y el postprocesado mantienen la calidad alta y garantizan que cada clip cumpla estándares de emisión."
+        },
+        {
+          "question": "¿Qué hace único este generador?",
+          "answer": "Nuestro generador destaca por la personalización instantánea y la calidad profesional. A diferencia de bibliotecas estáticas, crea clips a medida bajo demanda. El sistema entiende descripciones complejas y produce salida con control fino de intensidad y estilo. Obtienes variaciones ilimitadas y libertad creativa. El llanto y grito para juegos y películas es fácil de adaptar sin trabajo de producción extra."
+        },
+        {
+          "question": "¿Cómo escribo prompts efectivos para él?",
+          "answer": "Escribe descripciones claras y concretas. Prueba \"llanto de dolor\" o \"efecto de sonido de llanto\". Para sonidos de llanto, di \"llanto\" o \"llanto y grito\". Incluye intensidad, tipo de personaje y contexto. Nuestro generador responde bien a términos como sollozo, lamento y llanto. Más contexto da mejores resultados para llanto y grito y otros tonos vocales."
+        },
+        {
+          "question": "¿Cómo puedo usarlo en contenido de vídeo?",
+          "answer": "Coloca clips vocales personalizados donde las escenas necesiten tensión o reacción. El generador te ayuda a crear sonidos de llanto y audio de personaje para intros, transiciones y momentos clave. Superpone variaciones de sonidos de llanto para un diseño de audio rico y envolvente. Úsalo para películas, vlogs y tutoriales. La herramienta te permite construir un estilo de audio único que encaje con tu contenido."
+        },
+        {
+          "question": "¿Cómo puedo usarlo en desarrollo de juegos?",
+          "answer": "Nuestro generador soporta audio procedural para juegos. Crea variaciones para que los jugadores rara vez oigan el mismo clip dos veces. Construye sistemas que reaccionen al estado del juego, peligros y eventos. Produce opciones distintas para personajes, cinemáticas y momentos emocionales manteniendo un estilo consistente. El llanto y grito puede mezclarse dinámicamente desde los parámetros del juego. El generador ofrece audio de calidad profesional que mejora inmersión e impacto."
+        },
+        {
+          "question": "¿Qué tipos de sonidos de llanto puedo crear?",
+          "answer": "Puedes crear una amplia gama: llanto de dolor, efecto de sonido de llanto, llanto y grito, y opciones personalizadas. El generador los trata con calidad consistente. Ya necesites sollozos sutiles o clips vocales marcados para cualquier escenario, la herramienta ofrece salida profesional. El llanto y grito para terror y juegos está soportado con control creativo total."
+        },
+        {
+          "question": "¿Los clips de sonidos de llanto generados son libres de derechos?",
+          "answer": "Sí. Todos los sonidos de llanto de nuestro generador son libres de derechos e incluyen licencia comercial. Puedes usar los clips de sonidos de llanto generados en cualquier proyecto sin cargos adicionales ni atribución. Cada clip está autorizado para uso inmediato en trabajo profesional y comercial."
+        },
+        {
+          "question": "¿Qué calidad produce?",
+          "answer": "Nuestro generador produce sonidos de llanto de calidad profesional que cumplen estándares de la industria. Obtienes opciones de alta resolución, rango de frecuencia completo y dinámica clara. Toda la salida está lista para emisión y es adecuada para producción profesional y proyectos creativos."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "truck-honking": {
+    "meta": {
+      "title": "Klaxon de camion",
+      "description": "Créez instantanément des klaxons de camion avec notre technologie IA avancée. Générez divers types de sons, notamment des sons naturels, des instruments de musique et plus encore.",
+      "keywords": "klaxon de camion, klaxon camion"
+    },
+    "hero": {
+      "title": "Klaxon de camion",
+      "subtitle": "Transformez instantanément une description textuelle en klaxon de camion haute qualité"
+    },
+    "generator_subtitle": "Choisissez parmi les invites populaires ci-dessous ou rédigez votre propre description pour générer un klaxon de camion",
+    "advantages": {
+      "title": "Pourquoi choisir notre générateur de klaxon de camion ?",
+      "items": [
+        {
+          "title": "Création instantanée de klaxon de camion",
+          "description": "Générez des klaxons de camion et des sons de klaxon professionnels instantanément à partir du texte. Notre outil transforme vos descriptions en bips courts, coups longs et rafales répétées en quelques secondes—sans enregistrement sur le terrain ni grandes bibliothèques. Créez des variations illimitées pour la vidéo, les jeux ou les publicités. Que vous ayez besoin d’un seul coup de klaxon, de klaxons dans le trafic ou d’un son de klaxon en couches, le générateur livre des résultats propres et prêts à la diffusion.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Possibilités créatives illimitées",
+          "description": "Créez tout style de klaxon de camion dont vous avez besoin : bips rapides, rafales soutenues ou son de klaxon lointain. Le générateur comprend les descriptions détaillées et produit un audio correspondant pour une liberté créative totale. Explorez des variations pour le cinéma, les podcasts et le contenu. Du avertissement discret au klaxon agressif, trouvez la bonne option pour chaque projet.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualité audio professionnelle",
+          "description": "Tous les klaxons de camion générés respectent les normes de diffusion avec une sortie haute fidélité. Le générateur utilise des algorithmes modernes pour que chaque son de klaxon soit clair et prêt pour la production. Les sorties sont optimisées pour la vidéo, le cinéma et les médias. Obtenez un audio de klaxon cohérent et de qualité studio pour votre travail.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "À propos du générateur de klaxon de camion",
+      "items": [
+        {
+          "question": "Qu’est-ce qu’un générateur de klaxon de camion ?",
+          "answer": "Un générateur de klaxon de camion est un outil IA qui transforme le texte en klaxon de camion personnalisé et en son de klaxon, par exemple bip court, coup long ou rafale répétée. Il produit un audio professionnel pour la vidéo, les jeux et les publicités sans enregistrement ni grandes bibliothèques. Le système utilise une synthèse neuronale entraînée sur de vrais klaxons de véhicules, pour des résultats naturels et utilisables. Il est conçu pour les créateurs qui ont besoin d’effets de klaxon de camion rapides et variés pour tout projet."
+        },
+        {
+          "question": "Comment fonctionne le générateur de klaxon de camion ?",
+          "answer": "Notre générateur lit votre description textuelle et en extrait des traits comme le style de klaxon, la durée et la répétition. Il synthétise ensuite le klaxon de camion correspondant—bip unique, double coup ou son de klaxon soutenu. Vous pouvez demander des coups d’avertissement, des klaxons dans le trafic ou un klaxon lointain. Le résultat est un fichier propre et prêt à l’emploi que vous pouvez télécharger et intégrer à votre projet."
+        },
+        {
+          "question": "Qu’est-ce qui rend ce générateur de klaxon de camion unique ?",
+          "answer": "Contrairement aux bibliothèques fixes, notre générateur de klaxon de camion crée de nouvelles variations à la demande à partir de texte simple. Vous obtenez un son de klaxon personnalisé sans parcourir des milliers de fichiers. L’IA est entraînée sur des enregistrements de klaxons de véhicules de haute qualité, donc chaque résultat est cohérent et professionnel. Générez autant de variations que nécessaire pour chaque scène ou montage."
+        },
+        {
+          "question": "Comment rédiger des invites efficaces pour le klaxon de camion ?",
+          "answer": "Utilisez des descriptions claires et précises. Par exemple : « klaxon de camion bip court à l’intersection » ou « son de klaxon fort dans le trafic ». Indiquez le style (rapide, long, répété), le contexte (trafic, avertissement, lointain) et l’intensité. Le générateur réagit bien aux termes comme klaxon, rafale, bip et son de klaxon. Plus de détails aident le résultat à correspondre à votre vision."
+        },
+        {
+          "question": "Comment utiliser le klaxon de camion dans le contenu vidéo ?",
+          "answer": "Utilisez le klaxon pour ajouter du réalisme aux scènes de conduite, aux publicités ou aux documentaires. Ajoutez un seul coup pour l’accent, superposez le klaxon sous des plans de trafic, ou utilisez un son de klaxon lointain pour l’ambiance. Variez l’intensité—plus fort pour l’action, plus doux en arrière-plan. Notre générateur vous permet de créer assez de variations de klaxon pour que chaque scène ait un résultat adapté sans répétition."
+        },
+        {
+          "question": "Comment utiliser le klaxon de camion dans le développement de jeux ?",
+          "answer": "Le klaxon de camion convient aux jeux de conduite, à l’ambiance de trafic et au retour d’interface. Utilisez les coups de klaxon pour les alertes véhicule, les signaux d’avertissement ou le trafic en monde ouvert. Notre générateur prend en charge de nombreuses variations de son de klaxon pour garder un style cohérent. Créez des ensembles distincts pour différents véhicules ou situations avec une sortie claire et professionnelle."
+        },
+        {
+          "question": "Quels types de klaxon de camion puis-je créer ?",
+          "answer": "Vous pouvez créer une large gamme de klaxons de camion et de sons de klaxon : bip court, coup long, rafales répétées, simple ou double, lointain ou proche. Utilisez-les pour le cinéma, les jeux, les podcasts ou tout projet nécessitant un audio de klaxon de véhicule. Le générateur gère différents contextes et styles avec une qualité cohérente."
+        },
+        {
+          "question": "Les klaxons de camion générés sont-ils libres de droits ?",
+          "answer": "Oui. Tous les klaxons de camion générés par notre outil sont libres de droits et fournis avec une licence commerciale. Vous pouvez les utiliser dans tout projet sans frais supplémentaires ni attribution. Chaque fichier son de klaxon généré est autorisé pour un usage professionnel et commercial. Téléchargez autant que nécessaire pour vos projets."
+        },
+        {
+          "question": "Quelle est la qualité des klaxons de camion générés ?",
+          "answer": "Notre générateur de klaxon de camion produit un audio de qualité professionnelle conforme aux normes courantes de diffusion et de production. Vous obtenez des fichiers haute résolution, une plage de fréquences complète et une dynamique maîtrisée pour que chaque son de klaxon soit clair et prêt à intégrer à votre projet. Chaque fichier généré convient à un usage professionnel en vidéo, cinéma et contenu."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "loud-yelling": {
+    "meta": {
+      "title": "Grito alto",
+      "description": "Crie grito alto instantaneamente com nossa tecnologia de IA avançada. Gere diversos tipos de sons: clips naturais, instrumentos musicais e mais.",
+      "keywords": "grito alto, pessoas gritando"
+    },
+    "hero": {
+      "title": "Grito alto",
+      "subtitle": "Transforme descrições em texto em grito alto e pessoas gritando de alta qualidade instantaneamente"
+    },
+    "generator_subtitle": "Selecione entre os prompts populares abaixo ou escreva sua própria descrição para gerar grito alto e pessoas gritando",
+    "advantages": {
+      "title": "Por que escolher nosso gerador?",
+      "items": [
+        {
+          "title": "Criação instantânea de grito alto",
+          "description": "Crie clipes vocais profissionais instantaneamente a partir de texto com nosso gerador de IA. A ferramenta transforma suas ideias em grito alto e clipes de personagem de alta qualidade em segundos, sem bibliotecas de amostras ou edição manual. Gere variações ilimitadas de grito alto para jogos, vídeos e apps. Seja gaivota, plateia vaiando, ou pessoas gritando para projetos, o gerador entrega grito alto em qualidade de estúdio.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Possibilidades criativas ilimitadas",
+          "description": "Use nosso gerador para criar qualquer estilo de grito alto que imaginar—de gritos sutis a berros intensos. A ferramenta entende descrições complexas e dá liberdade criativa total. Explore opções para jogos, filmes e mídia. De vocais de personagem a pessoas gritando variadas para cada cenário, obtenha o clipe perfeito para seu projeto.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualidade de áudio profissional",
+          "description": "Todo clipe do nosso gerador atende aos padrões de transmissão com saída de alta fidelidade. Algoritmos de ponta garantem grito alto em qualidade de estúdio. Toda a saída está pronta para produção e otimizada para uso profissional. O gerador oferece cobertura de frequência completa e dinâmica clara para grito alto autêntico. Pessoas gritando que soam consistentes em qualquer projeto.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "FAQ gerador",
+      "items": [
+        {
+          "question": "O que é este gerador?",
+          "answer": "É uma ferramenta de IA que transforma descrições em texto em áudio vocal e de personagem personalizado. O nosso usa processamento de linguagem natural e síntese neural de áudio para produzir clipes de grito alto de qualidade profissional. Você pode criar áudio vocal para terror, jogos ou filmes. É ideal para criadores de conteúdo, desenvolvedores de jogos e cineastas que precisam de saída rápida e autêntica. O gerador também suporta pessoas gritando para estilos e climas variados."
+        },
+        {
+          "question": "Como funciona?",
+          "answer": "Nosso gerador usa um pipeline em várias etapas para transformar texto em áudio de alta qualidade. Primeiro analisa sua descrição para capturar traços como intensidade, personagem e duração. Essas informações passam por redes neurais treinadas para síntese vocal e de grito. Treinado com amostras profissionais, a IA produz grito alto natural e realista. Filtragem e pós-processamento mantêm a qualidade alta e garantem que todo clipe atenda aos padrões de transmissão."
+        },
+        {
+          "question": "O que torna este gerador único?",
+          "answer": "Nosso gerador se destaca pela personalização instantânea e qualidade profissional. Diferente de bibliotecas estáticas, ele cria clipes sob medida sob demanda. O sistema entende descrições complexas e produz grito alto com controle fino de intensidade e estilo. Você obtém variações ilimitadas e liberdade criativa. Pessoas gritando para jogos e filmes são fáceis de adaptar sem trabalho de produção extra."
+        },
+        {
+          "question": "Como escrevo prompts eficazes para ele?",
+          "answer": "Escreva descrições claras e específicas. Tente \"gaivota\" ou \"plateia vaiando\". Para grito alto, diga \"pessoas gritando\" ou \"multidão irritada\". Inclua intensidade, tipo de personagem e contexto. Nosso gerador responde bem a termos como grito, berro e choro. Mais contexto gera melhores resultados para pessoas gritando e outros tons vocais."
+        },
+        {
+          "question": "Como posso usá-lo em conteúdo de vídeo?",
+          "answer": "Coloque clipes de grito alto personalizados onde as cenas precisam de tensão ou reação. O gerador ajuda a criar grito alto e clipes de personagem para intros, transições e momentos-chave. Sobreponha variações de grito alto para design de áudio rico e envolvente. Use para filmes, vlogs e tutoriais. A ferramenta permite construir um estilo vocal único que combina com seu conteúdo."
+        },
+        {
+          "question": "Como posso usá-lo em desenvolvimento de jogos?",
+          "answer": "Nosso gerador suporta áudio procedural para jogos. Crie variações vocais para que os jogadores raramente ouçam o mesmo clipe duas vezes. Construa sistemas que reajam ao estado do jogo, perigos e eventos. Produza opções diferentes para personagens, cutscenes e momentos-chave mantendo um estilo consistente. Pessoas gritando podem ser mixadas dinamicamente a partir dos parâmetros do jogo. O gerador entrega grito alto de qualidade profissional que aumenta imersão e impacto."
+        },
+        {
+          "question": "Que tipos de grito alto posso criar?",
+          "answer": "Você pode criar uma ampla gama: gaivota, plateia vaiando, pessoas gritando, e opções personalizadas. O gerador os trata com qualidade consistente. Seja gritos sutis ou clipes vocais marcantes para qualquer cenário, a ferramenta entrega saída profissional. Pessoas gritando para terror e jogos são suportadas com controle criativo total."
+        },
+        {
+          "question": "Os clipes gerados são livres de royalties?",
+          "answer": "Sim. Todos os clipes de grito alto do nosso gerador são livres de royalties e incluem licença comercial. Você pode usar os clipes gerados em qualquer projeto sem taxas extras ou atribuição. Todo clipe está liberado para uso imediato em trabalho profissional e comercial."
+        },
+        {
+          "question": "Que qualidade ele produz?",
+          "answer": "Nosso gerador produz grito alto de qualidade profissional que atende aos padrões da indústria. Você obtém opções de grito alto de alta resolução, faixa de frequência completa e dinâmica clara. Toda a saída está pronta para transmissão e é adequada para produção profissional e projetos criativos."
+        }
+      ]
+    }
+  }
+}

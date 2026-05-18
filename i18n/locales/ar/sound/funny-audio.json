@@ -1,0 +1,79 @@
+{
+  "funny-audio": {
+    "meta": {
+      "title": "صوت مضحك",
+      "description": "أنشئ صوتًا مضحكًا فريدًا بتقنية ذكاء اصطناعي متقدمة للمؤثرات الصوتية، مع أنواع متعددة تشمل الأصوات الطبيعية والآلات الموسيقية وغيرها.",
+      "keywords": "صوت مضحك, مؤثرات صوتية مضحكة"
+    },
+    "hero": {
+      "title": "صوت مضحك",
+      "subtitle": "حوّل أوصافك النصية إلى صوت مضحك عالي الجودة"
+    },
+    "generator_subtitle": "اختر من المطالبات الشائعة أدناه أو اكتب وصفك الخاص لتوليد صوت مضحك",
+    "advantages": {
+      "title": "لماذا تنشئ صوتًا مضحكًا باستخدام ذكائنا الاصطناعي؟",
+      "items": [
+        {
+          "title": "صوت مضحك from text in seconds",
+          "description": "Turn a short brief—sketch punchline, meme sting, cartoon beat—into downloadable stems without digging through giant libraries. The workflow keeps levels sensible so you stay focused on picture edit and mix balance. Duplicate funny audio for vertical cuts, trim each funny audio tail to frame, and archive spare funny audio for pickups.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Dial in tone, length, and space",
+          "description": "Refine slapstick, deadpan, or absurd energy with adjectives, duration cues, and room size. Layered prompts let you audition alternates for reels, podcasts, streams, or playful UI until the joke lands. When crowded funny audio masks VO, shorten hits; when thin funny audio misses punch, widen verbs; QC every batch of funny audio before the dub stage.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Delivery-ready stems",
+          "description": "Exports target dialogue-friendly headroom and common platform loudness habits. Teams can batch funny audio for a season or campaign while keeping tonal consistency and cutting extra mastering passes. Route promo funny audio on Monday, refresh older funny audio midweek, and print deliverable funny audio after picture lock.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "الصوت المضحك: أسئلة وأجوبة",
+      "items": [
+        {
+          "question": "What is funny audio in this product?",
+          "answer": "Short, intentional comedic clips—cartoon stings, meme hits, silly vocals, exaggerated foley—authored from text instead of a recording session. You receive stems you can place in edits, games, or social posts without rebuilding entire sessions. Buyers comparing sound effects funny bundles online should still confirm stem counts and license pages."
+        },
+        {
+          "question": "How does the generator work?",
+          "answer": "Prompts are parsed for action, character, timing, and acoustic hints. Models synthesize waveforms that fit the brief, then light processing steadies dynamics and noise. Tweak a few words, regenerate, and compare takes against your timeline. Researchers Googling sound effects funny lists still need comedy-first filters that skip horror trailers."
+        },
+        {
+          "question": "Why do editors mention sound effects funny in notes?",
+          "answer": "That phrase signals comedic cues rather than dramatic or horror beds. Libraries still need manual filtering; describing the same intent here steers synthesis toward playful audio instead of serious trailers. Writers echoing sound effects funny on slug lines keep assistants aligned with comedy bins."
+        },
+        {
+          "question": "How should I write prompts?",
+          "answer": "Lead with the joke beat, add setting (dry room vs. hall), and specify length (\"one-second sting\"). Concrete lines beat vague mood boards—compare \"rubber stretch pop\" with \"wobbly spring release\" and refine from listener tests. Mention sound effects funny sting in prompts to bias the model toward comedic transients."
+        },
+        {
+          "question": "Can I use exports on YouTube or client spots?",
+          "answer": "Yes—outputs target typical creator and commercial workflows. Align stems with picture, rotate variations to avoid fatigue, and follow each platform's latest policies. Keep license PDFs for brand reviews. Channel teams testing sound effects funny promos must follow each app's ad audio policy."
+        },
+        {
+          "question": "Useful for games or apps?",
+          "answer": "Teams prototype UI gags, power-ups, and fail lines before locking a master library. Print sibling clips so repeated triggers stay fresh. Standardize winners across builds or stash alternates for rare events. Designers wiring sound effects funny UI hits should A/B takes before shipping builds."
+        },
+        {
+          "question": "Which styles are common?",
+          "answer": "Slapstick impacts, brass flops, record scratches, mouth pops, buzzers, and hybrid musical jokes. Ask for beds and punches separately or generate layers you sweeten in a DAW. Mixers stacking sound effects funny beds under score should notch shared mud with music."
+        },
+        {
+          "question": "Are downloads royalty-free?",
+          "answer": "Files ship under the license shown at download—usually covering ads, apps, streams, and client work without extra sync fees. Archive agreements and re-read updates when terms change. Supervisors reviewing sound effects funny archives before renewals should export license PDFs for finance."
+        },
+        {
+          "question": "What quality should I expect?",
+          "answer": "High-resolution material with controlled dynamics so stems sit beside dialogue and score. Apply your loudness preset like any third-party FX; theatrical delivery still passes through your usual mastering chain. Mastering engineers printing sound effects funny finals still run house loudness targets end to end."
+        },
+        {
+          "question": "Who benefits most?",
+          "answer": "Editors, indie devs, educators, and social teams on tight schedules. Anyone who needs fresh funny audio without booking talent can iterate quickly; larger studios can use clips as scratch material before final recording. Rotate seasonal funny audio whenever marketing swaps hooks. Showrunners storyboarding sound effects funny sequences should label bins so assistants stay aligned."
+        }
+      ]
+    }
+  }
+}

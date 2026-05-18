@@ -1,0 +1,75 @@
+{
+  "beat-sounds": {
+    "meta": {
+      "title": "Sons de beat",
+      "description": "Crie sons de beat instantaneamente com nossa tecnologia de IA avançada. Gere vários tipos de sons, incluindo sons naturais, instrumentos musicais e mais.",
+      "keywords": "sons de beat, efeito de som de batimento cardíaco"
+    },
+    "hero": {
+      "title": "Sons de beat",
+      "subtitle": "Transforme descrições em texto em sons de beat de alta qualidade instantaneamente"
+    },
+    "generator_subtitle": "Escolha entre os prompts populares abaixo ou escreva sua própria descrição para gerar sons de beat",
+    "advantages": {
+      "title": "Por que escolher nosso gerador?",
+      "items": [
+        {
+          "title": "Criação instantânea de sons de beat",
+          "description": "Crie sons de beat profissionais instantaneamente a partir de descrições em texto com nosso gerador de IA. A ferramenta transforma suas ideias em áudio rítmico e percussivo de alta qualidade em segundos, sem bibliotecas de amostras ou edição manual. Gere variações ilimitadas para qualquer projeto com alguns cliques. Seja efeito de som de batimento cardíaco, batidas de bateria ou ritmo em camadas, o gerador entrega saída em qualidade de estúdio para seus projetos criativos.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Possibilidades criativas ilimitadas",
+          "description": "Use nosso gerador para criar qualquer estilo de sons de beat que imaginar—de bateria tribal a grooves eletrônicos e efeito de som de batimento cardíaco. A ferramenta entende descrições complexas e dá total liberdade criativa. Explore opções infinitas adaptadas a música, vídeos e aplicativos. De hits curtos a loops completos, obtenha o clip perfeito para cada cenário, incluindo efeito de som de batimento cardíaco e mais.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualidade de áudio profissional",
+          "description": "Cada clip do nosso gerador atende aos padrões de transmissão com saída de alta fidelidade. Algoritmos de ponta garantem resultados em qualidade de estúdio. Todos os sons de beat estão prontos para produção e otimizados para uso profissional. O gerador oferece cobertura total de frequência e dinâmica tight para saída rítmica autêntica, incluindo efeito de som de batimento cardíaco.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "FAQ Sons de beat",
+      "items": [
+        {
+          "question": "O que é um gerador de sons de beat?",
+          "answer": "Um gerador de sons de beat é uma ferramenta de IA que transforma descrições em texto em áudio rítmico e percussivo personalizado. O nosso usa processamento de linguagem natural e síntese neural de áudio para produzir clipes de qualidade profissional, incluindo efeito de som de batimento cardíaco. Modelos de aprendizado profundo treinados em conjuntos de dados de ritmo e bateria entendem sua descrição e geram variações correspondentes. Atende produtores, criadores de conteúdo e desenvolvedores de jogos que precisam de sons de beat rápidos e autênticos. O gerador usa seu contexto e detalhes para criar áudio nuanceado e em camadas. Para um efeito de som de batimento cardíaco refinado ou outros estilos, entrega saída precisa e de alta fidelidade."
+        },
+        {
+          "question": "Como o gerador funciona?",
+          "answer": "Nosso gerador usa um pipeline em várias etapas para transformar texto em áudio de alta qualidade, incluindo efeito de som de batimento cardíaco. Primeiro analisa sua descrição para capturar traços como tempo, estilo, duração e feel. Essas informações passam por redes neurais treinadas para síntese rítmica, que tratam de frequência, dinâmica e groove. Treinado em amostras profissionais, a IA produz saída natural. Filtragem e pós-processamento mantêm a qualidade e garantem que cada clip atenda aos padrões de transmissão."
+        },
+        {
+          "question": "O que torna este gerador único?",
+          "answer": "Nosso gerador se destaca pela customização instantânea e qualidade profissional. Diferente de bibliotecas estáticas, ele cria ritmo sob medida sob demanda. É treinado em amostras de alta qualidade para resultados realistas, incluindo efeito de som de batimento cardíaco e estilos de beat variados. O sistema entende descrições complexas e produz sons de beat com controle fino de groove e contexto. Você tem variações ilimitadas e liberdade criativa."
+        },
+        {
+          "question": "Como escrevo prompts eficazes para o gerador?",
+          "answer": "Escreva descrições claras e específicas com vários detalhes. Em vez de apenas \"beat\", tente \"efeito de som de batimento cardíaco com pulso estável\" ou \"beats indianos com tabla e percussão.\" Inclua estilo, tempo, duração e quaisquer traços distintivos. O gerador responde bem a termos como batidas de bateria, groove e ritmo. Para cenários complexos, divida em partes e diga como se combinam. Mais contexto traz melhores resultados."
+        },
+        {
+          "question": "Como usar o gerador em conteúdo de vídeo?",
+          "answer": "Mapeie o ritmo do seu vídeo e coloque sons de beat personalizados onde agregam impacto. O gerador ajuda a criar sons de beat rítmicos para cada momento—de fundo sutil a momentos dramáticos. Sobreponha várias variações para áudio rico e envolvente. Use para intros, transições e montagens. Use momentos distintos como efeito de som de batimento cardíaco para destacar cenas-chave. A ferramenta permite construir um estilo de áudio único que combina com seu conteúdo."
+        },
+        {
+          "question": "Como usar o gerador no desenvolvimento de jogos?",
+          "answer": "Nosso gerador suporta áudio procedural para jogos. Crie variações para os jogadores raramente ouvirem o mesmo loop duas vezes. Construa sistemas que reagem ao estado do jogo, ações do jogador e condições. Produza opções diferentes para menus, níveis e eventos mantendo um estilo consistente. Sons de beat em camadas podem ser mixados dinamicamente a partir dos parâmetros do jogo. O gerador entrega áudio de qualidade profissional que aumenta imersão e realismo."
+        },
+        {
+          "question": "Que tipos de sons de beat posso criar?",
+          "answer": "Você pode criar uma ampla gama: batidas de bateria (kick, caixa, chimbal), efeito de som de batimento cardíaco, estilos (beats indianos, eletrônico, tribal), intensidades (sutil a intenso), durações (hits curtos ou loops prolongados) e climas (motor, relaxado, cinematográfico). O gerador trata essas categorias de sons de beat com qualidade consistente. Seja ritmo de fundo leve ou clipes fortes, a ferramenta entrega resultados profissionais para qualquer projeto."
+        },
+        {
+          "question": "Os sons de beat gerados são livres de royalties?",
+          "answer": "Sim. Todos os sons de beat do nosso gerador são livres de royalties e incluem licença comercial. Você pode usar os sons de beat gerados em qualquer projeto sem taxas extras ou atribuição. Cada clip, incluindo saída de efeito de som de batimento cardíaco, está liberado para uso imediato em trabalho profissional e comercial. O efeito de som de batimento cardíaco do nosso gerador está pronto para cinema, jogos e mídia."
+        },
+        {
+          "question": "Que qualidade o gerador produz?",
+          "answer": "Nosso gerador produz sons de beat de nível profissional que atende aos padrões da indústria. Você tem opções de alta resolução até 192 kHz/24 bit, faixa de frequência completa e dinâmica controlada. Toda a saída está pronta para transmissão. Cada clip é adequado para produção profissional e projetos criativos. A qualidade do efeito de som de batimento cardíaco é nível estúdio em todas as variações."
+        }
+      ]
+    }
+  }
+}

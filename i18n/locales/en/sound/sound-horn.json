@@ -1,0 +1,75 @@
+{
+  "sound-horn": {
+    "meta": {
+      "title": "Sound Horn",
+      "description": "Instantly create sound horn with our advanced AI technology. Generate various types of audio including natural tones, musical instruments and more.",
+      "keywords": "sound horn, horn audio"
+    },
+    "hero": {
+      "title": "Sound Horn",
+      "subtitle": "Instantly transform text description into high-quality sound horn"
+    },
+    "generator_subtitle": "Select from popular prompts below or write your own description to generate sound horn",
+    "advantages": {
+      "title": "Why Choose Our Sound Horn Generator?",
+      "items": [
+        {
+          "title": "Instant Sound Horn Creation",
+          "description": "Create professional sound horn and horn audio clips instantly from text. Our AI turns your descriptions into truck signal, DJ signal, and horn audio clips in seconds—no sample libraries or manual editing. Need crisp sound for UI or full signal audio for a scene? Generate unlimited variations with broadcast-ready quality. Get authentic sound for any project.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Unlimited Creative Possibilities",
+          "description": "Create any style you imagine: truck signal, DJ signal, or signal audio ambience. The tool understands detailed descriptions and gives you full creative freedom. Explore endless options for videos, games, and apps. From subtle sound to layered signal audio for film, get the right clip for every scenario.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professional-Grade Audio Quality",
+          "description": "Every clip from our sound horn generator meets broadcast standards with high-fidelity output. Cutting-edge algorithms ensure studio-quality signal audio. All sound clips are production-ready and optimized for professional use, with full frequency coverage and authentic, natural results.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Sound Horn FAQ",
+      "items": [
+        {
+          "question": "What is a sound horn generator?",
+          "answer": "Our generator is an AI tool that turns text into custom sound horn and horn audio. It uses natural language processing and neural synthesis to produce professional clips—from truck signal and DJ signal to signal audio effects. It suits creators, video editors, and game developers who need quick, authentic sound horn with precise, high-fidelity results."
+        },
+        {
+          "question": "How does the generator work?",
+          "answer": "The tool uses a multi-stage pipeline to turn text into high-quality sound horn and horn audio clips. It analyzes your description to capture intensity, style, and context, then runs that through neural networks trained for signal synthesis. You can request short sound clips for UI or longer ambience. Every clip meets broadcast standards."
+        },
+        {
+          "question": "What makes this sound horn generator unique?",
+          "answer": "Our generator stands out through instant customization and professional quality. Unlike static libraries, it creates tailored sound horn and horn audio on demand. Trained on high-quality samples, it delivers realistic results. You get unlimited variations and creative freedom with fine control."
+        },
+        {
+          "question": "How do I write effective prompts for sound horn?",
+          "answer": "Write clear, specific descriptions. Try \"sound horn for truck\" or \"horn audio for DJ.\" Include style (realistic, cinematic), intensity, and context. The generator responds well to terms like truck signal, DJ signal, and signal audio. More context yields better results."
+        },
+        {
+          "question": "How can I use sound horn in video content?",
+          "answer": "Map your video's scenes and place custom sound and horn audio clips where they add impact. Create truck signal and sound clips for every moment—from subtle background to dramatic hits. Layer signal audio for rich, engaging results that underline time or place."
+        },
+        {
+          "question": "How can I use the generator in game development?",
+          "answer": "Our generator supports procedural sound and horn audio clips for games. Create variations so players rarely hear the same clip twice. Produce different options for UI, levels, and events while keeping a consistent style. The tool delivers professional-quality sound that enhance immersion and feedback."
+        },
+        {
+          "question": "What types of sound horn can I create?",
+          "answer": "You can create a wide range: truck signal, DJ signal, horn audio, and signal ambience. Styles from soft to loud (realistic, cinematic, vintage). The tool handles these with consistent quality. Get the right sound and signal audio for any project."
+        },
+        {
+          "question": "Are the generated clips royalty-free?",
+          "answer": "Yes. All clips from our generator are royalty-free and include a commercial license. You can use the generated sound and horn audio in any project without extra fees or attribution. Every clip is cleared for immediate use in professional and commercial work."
+        },
+        {
+          "question": "What quality does the generator produce?",
+          "answer": "Our generator outputs professional-grade sound and horn audio clips that meet industry standards. You get high-resolution options up to 192kHz/24-bit, full frequency range, and controlled dynamics. Every clip is broadcast-ready and suitable for professional production and creative projects."
+        }
+      ]
+    }
+  }
+}

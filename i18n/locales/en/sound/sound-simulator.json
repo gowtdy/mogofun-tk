@@ -1,0 +1,79 @@
+{
+  "sound-simulator": {
+    "meta": {
+      "title": "Sound Simulator",
+      "description": "Create unique sound effects with our advanced sound simulator, generating various types including natural sounds, musical instruments and more.",
+      "keywords": "sound simulator, generator sound"
+    },
+    "hero": {
+      "title": "Sound Simulator",
+      "subtitle": "Transform your text descriptions into high-quality sound effects"
+    },
+    "generator_subtitle": "Select from popular prompts below or write your own description to generate sound effects",
+    "advantages": {
+      "title": "Why Choose Our Sound Simulator?",
+      "items": [
+        {
+          "title": "Instant Sound Generation",
+          "description": "Generate professional generator sound in seconds from text prompts with our audio simulator. This audio simulator turns intent into clean audio fast—no large libraries, no manual slicing—so you can ship projects quicker with consistent results.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Unlimited Creative Possibilities",
+          "description": "Create any type of generator sound you imagine, from nature ambience to futuristic textures. The audio simulator understands detailed prompts and provides controllable variations, so your generator sound stays on-theme across scenes and styles.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professional-Grade Audio Quality",
+          "description": "Every generator sound is produced with high-fidelity output and balanced dynamics. Our audio simulator delivers production-ready audio that fits modern workflows, helping your generator sound sit naturally in a mix with minimal cleanup.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "About Sound Simulator",
+      "items": [
+        {
+          "question": "What is a sound simulator?",
+          "answer": "A sound simulator is a tool that converts text descriptions into custom generator audio using AI. With an audio simulator, creators can prototype generator sound quickly for content, games, and product experiences while keeping outputs consistent and usable."
+        },
+        {
+          "question": "How does the sound simulator work?",
+          "answer": "The sound simulator parses your prompt (source, environment, intensity, duration), maps it to acoustic attributes, then synthesizes generator sound with neural models. It finishes with light processing so the generator sound is clear, stable, and easy to edit."
+        },
+        {
+          "question": "What makes this sound simulator unique?",
+          "answer": "This sound simulator is designed for fast iteration and control. Instead of searching packs, you describe what you need and generate generator audio variations that stay coherent, reducing repetitive work and speeding up production."
+        },
+        {
+          "question": "How to write effective prompts for the sound simulator?",
+          "answer": "Use clear, specific details: source (\"metal hit\"), setting (\"warehouse\"), distance (\"close\"), and timing (\"0.8s tail\"). Add modifiers like \"muffled\" or \"bright\" so the audio simulator can generate generator sound that matches your target mix."
+        },
+        {
+          "question": "How to use sound simulator effectively in video content?",
+          "answer": "Use the sound simulator to generate generator sound for transitions, impacts, and ambience beds. Create a few close variants, then layer and automate levels under dialogue to keep pacing tight and the mix natural."
+        },
+        {
+          "question": "How to utilize sound simulator in game development?",
+          "answer": "In games, use the sound simulator to generate generator audio families (footsteps, UI clicks, abilities) with variations to reduce repetition. You can also prototype ambience for new areas early, then refine later."
+        },
+        {
+          "question": "How to create effective white noise and ambient sounds with sound simulator?",
+          "answer": "Describe texture and motion (\"soft brown noise with gentle air\" or \"room tone with distant traffic\"). The audio simulator can generate generator audio layers you can loop, fade, and stack for long scenes."
+        },
+        {
+          "question": "What types of sounds can I create with the sound simulator?",
+          "answer": "The audio simulator can generate generator audio across many categories: nature ambience, mechanical effects, UI feedback, cinematic hits, sci-fi textures, and musical elements. It supports quick drafts and production-ready results."
+        },
+        {
+          "question": "Are the generated sounds from the sound simulator royalty-free?",
+          "answer": "Yes. Generator sound created with the audio simulator is royalty-free and suitable for commercial use, so you can publish content and ship products without extra licensing steps."
+        },
+        {
+          "question": "What is the quality of audios generated by the audio simulator?",
+          "answer": "The audio simulator targets clean, professional output with stable dynamics and low artifacts. For best results, generate a few variants, pick the most natural generator sound, then do light EQ or level matching in your editor."
+        }
+      ]
+    }
+  }
+}

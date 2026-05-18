@@ -1,0 +1,79 @@
+{
+  "silly-sound": {
+    "meta": {
+      "title": "Alberner Sound",
+      "description": "Erstellen Sie einzigartigen albernen Sound mit fortschrittlicher Soundeffekt-KI – inklusive Naturklängen, Instrumenten und mehr.",
+      "keywords": "alberner Sound, alberne Geräusche"
+    },
+    "hero": {
+      "title": "Alberner Sound",
+      "subtitle": "Verwandeln Sie Textbeschreibungen in hochwertigen albernen Sound"
+    },
+    "generator_subtitle": "Wählen Sie unten beliebte Prompts oder schreiben Sie Ihre eigene Beschreibung, um albernen Sound zu erzeugen",
+    "advantages": {
+      "title": "Warum albernen Sound für verspielte Edits erzeugen?",
+      "items": [
+        {
+          "title": "Alberner Sound aus Text in Sekunden",
+          "description": "Beschreiben Sie Rubber-Chickens, Slide-Whistles, goofy Boings oder Splats und erhalten Sie mixfertige Stems ohne random Clips zu sammeln. Kurz, damit Punchlines in Shorts, Classroom-Videos und kinderfreundlichen Apps sauber sitzen. Duplizieren, Tails trimmen, Varianten archivieren.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Kohärente goofy Palette",
+          "description": "Schwester-Versionen mit gleichem Material/Timing-DNA regenerieren, Intensität/Länge leicht ändern. Gag über Vertikal/Quadrat/Landscape via Prompts duplizieren. Wenn Stacks VO maskieren: kürzen; wenn dünn: Verben erweitern; QC vor Lesson-Cut.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Earbud-freundliche Dynamik",
+          "description": "Peaks kontrolliert für Phones und Klassenraum-Speaker. Batch-Export für Serien, dann Limiter/Loudness-Pass in der DAW. Promo montags, midweek refresh, Deliverables nach Picture-Lock.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Alberner Sound: Fragen & Antworten",
+      "items": [
+        {
+          "question": "Was zählt hier als alberner Sound?",
+          "answer": "Verspielte One-shots und Stings—Cartoon-Boings, Kazoo-Buzz, Splats, Mouth-Pops—aus Text statt dubiosen Rips. Legale Stems für Erklärvideos, Kids-Content und Social."
+        },
+        {
+          "question": "Wie wird ein Prompt zum Sting?",
+          "answer": "Material, Bewegung, Länge (\"squeaky balloon release 0.4s\") beschreiben. Tight Waveforms + leichte Bearbeitung. Regenerieren bis Frame-Sync."
+        },
+        {
+          "question": "Wann unter Musik layern?",
+          "answer": "Weiche Loops unter Beds, scharfe Transients für Punchlines. Shared mud highpassen und Bed ein paar dB ducken."
+        },
+        {
+          "question": "Family-friendly Prompts?",
+          "answer": "Harte/graphische Wörter vermeiden, Toys/Instrumente/Cartoon-Physik. soft/bouncy/whimsical erwähnen."
+        },
+        {
+          "question": "Für Classroom oder App-UI?",
+          "answer": "Ja—kurze, nicht erschreckende Cues. Siblings mit gleichem Timbre exportieren."
+        },
+        {
+          "question": "Unter Narration?",
+          "answer": "Für Ducking gedacht. Bei Masking Decay kürzen oder leicht notchen."
+        },
+        {
+          "question": "Beste Styles?",
+          "answer": "Rubber-Stretches, Spring-Door-Boings, Slide-Whistles, Party-Horns, Bubble-Pops, sanfte Wrong-Answer-Buzzer."
+        },
+        {
+          "question": "Royalty-free?",
+          "answer": "Nach Lizenz beim Download. Agreements archivieren und bei Änderungen prüfen."
+        },
+        {
+          "question": "Qualität?",
+          "answer": "Hochauflösende Stems mit kontrollierter Dynamik, lesbar auf Phone und Classroom-Speakern."
+        },
+        {
+          "question": "Wer profitiert?",
+          "answer": "Pädagogen, Animator:innen, Wholesome-Creator. Schnelle Iteration ohne dubiose Clips."
+        }
+      ]
+    }
+  }
+}

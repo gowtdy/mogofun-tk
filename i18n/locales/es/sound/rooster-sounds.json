@@ -1,0 +1,75 @@
+{
+  "rooster-sounds": {
+    "meta": {
+      "title": "Sonidos de gallo",
+      "description": "Crea sonidos de gallo al instante con nuestra tecnología de IA avanzada. Genera diversos tipos de sonido: naturales, instrumentos musicales y más.",
+      "keywords": "sonidos de gallo, efecto de sonido de gallo"
+    },
+    "hero": {
+      "title": "Sonidos de gallo",
+      "subtitle": "Transforma descripciones de texto en sonidos de gallo y efecto de sonido de gallo de alta calidad al instante"
+    },
+    "generator_subtitle": "Elige entre los prompts populares de abajo o escribe tu propia descripción para generar sonidos de gallo",
+    "advantages": {
+      "title": "¿Por qué elegir nuestro generador de sonidos de gallo?",
+      "items": [
+        {
+          "title": "Creación instantánea de sonidos de gallo",
+          "description": "Crea sonidos profesionales al instante desde texto con nuestro generador de IA. El generador convierte tus ideas en audio de canto y reclamo de gallo de alta calidad en segundos, sin bibliotecas de muestras ni edición manual. Genera variaciones ilimitadas para cualquier proyecto con unos clics. Ya sea efecto de sonido de gallo, canto de gallo o reclamo de gallo, el generador ofrece una salida en calidad de estudio para tus proyectos creativos.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Posibilidades creativas ilimitadas",
+          "description": "Usa nuestro generador para crear cualquier estilo de sonidos que imagines—desde canto al amanecer hasta reclamos lejanos de granja, incluido efecto de sonido de gallo. El generador entiende descripciones complejas y te da libertad creativa total. Explora opciones infinitas de efecto de sonido de gallo para juegos, vídeos y apps. Desde hits cortos hasta ambiente prolongado, obtén el clip perfecto para cada escenario.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Calidad de audio profesional",
+          "description": "Cada clip de nuestro generador cumple estándares de emisión con salida de alta fidelidad. Algoritmos punteros garantizan resultados en calidad de estudio. Toda la salida está lista para producción y optimizada para uso profesional. El generador ofrece cobertura de frecuencia completa y dinámica controlada para salida auténtica de canto y reclamo, incluido efecto de sonido de gallo.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "FAQ generador de sonidos de gallo",
+      "items": [
+        {
+          "question": "¿Qué es un generador de sonidos de gallo?",
+          "answer": "Un generador de sonidos de gallo es una herramienta de IA que convierte descripciones de texto en audio de canto y reclamo personalizado. El nuestro usa procesamiento de lenguaje natural y síntesis neural de audio para producir clips de calidad profesional. Modelos de deep learning entrenados con conjuntos de datos de aves y granja entienden tu descripción y generan variaciones coincidentes. Es adecuado para creadores de contenido, desarrolladores de juegos y profesionales del audio que necesitan sonidos rápidos y auténticos. El generador usa tu contexto y detalles para crear audio matizado y en capas. Para efecto de sonido de gallo pulido u otros estilos, ofrece resultados precisos y de alta fidelidad."
+        },
+        {
+          "question": "¿Cómo funciona el generador de sonidos de gallo?",
+          "answer": "Nuestro generador de sonidos de gallo usa un pipeline en varias etapas para convertir texto en audio de alta calidad. Primero analiza tu descripción para capturar rasgos como tono, intensidad, duración y entorno. Esa información pasa por redes neuronales entrenadas para síntesis vocal de aves, que manejan frecuencia, dinámica y tono. Entrenado con muestras profesionales, la IA produce una salida de efecto de sonido de gallo natural. El filtrado y el postprocesado mantienen la calidad alta y garantizan que cada clip cumpla estándares de emisión."
+        },
+        {
+          "question": "¿Qué hace único este generador de sonidos de gallo?",
+          "answer": "Nuestro generador destaca por la personalización instantánea y la calidad profesional. A diferencia de bibliotecas estáticas, crea clips de canto a medida bajo demanda. Está entrenado con muestras de alta calidad para resultados realistas, incluido efecto de sonido de gallo y estilos de reclamo variados. El sistema entiende descripciones complejas y produce sonidos con control fino del tono y el contexto. Obtienes variaciones ilimitadas y libertad creativa."
+        },
+        {
+          "question": "¿Cómo escribo prompts efectivos para el generador de sonidos de gallo?",
+          "answer": "Escribe descripciones claras y concretas con varios detalles. En lugar de solo \"gallo\", prueba \"canto al amanecer\" o \"reclamo con eco.\" Incluye estilo, intensidad, duración y rasgos distintivos. Nuestro generador responde bien a términos como reclamo de gallo, canto de gallo y efecto de sonido de gallo. Para escenarios complejos, divídelos en partes y explica cómo se combinan. Más contexto da mejores resultados."
+        },
+        {
+          "question": "¿Cómo uso el generador de sonidos de gallo en contenido de vídeo?",
+          "answer": "Mapea las escenas de tu vídeo y coloca sonidos personalizados donde aporten atmósfera. El generador te ayuda a crear audio de canto y reclamo para cada momento—desde fondo sutil hasta amanecer dramático, incluido efecto de sonido de gallo. Superpone varias variaciones para un audio rico y envolvente. Úsalo para granja, naturaleza y escenas clave. Usa momentos distintos como efecto de sonido de gallo para subrayar el escenario. El generador te permite construir un estilo de audio único que encaje con tu contenido."
+        },
+        {
+          "question": "¿Cómo uso el generador de sonidos de gallo en desarrollo de juegos?",
+          "answer": "Nuestro generador soporta audio procedural para juegos. Crea variaciones de efecto de sonido de gallo para que los jugadores rara vez oigan el mismo clip dos veces. Construye sistemas que reaccionen al estado del juego, hora del día y condiciones. Produce opciones distintas para granja, pueblo y entornos exteriores manteniendo un estilo consistente. La salida en capas puede mezclarse dinámicamente a partir de los parámetros del juego. El generador ofrece audio de calidad profesional que mejora la inmersión y el realismo."
+        },
+        {
+          "question": "¿Qué tipos de sonidos puedo crear?",
+          "answer": "Puedes crear una amplia gama: canto de gallo, reclamo de gallo, efecto de sonido de gallo para amanecer o granja, intensidades (sutil a fuerte), longitudes (cantos cortos o prolongados) y estilos (realista, cinematográfico, cartoon). El generador trata estas categorías con calidad consistente. Ya necesites fondo ligero o clips de canto fuertes, el generador ofrece resultados profesionales de efecto de sonido de gallo para cualquier proyecto."
+        },
+        {
+          "question": "¿Los sonidos generados son libres de derechos?",
+          "answer": "Sí. Todo el audio de nuestro generador de sonidos de gallo es libre de derechos e incluye licencia comercial. Puedes usar los clips generados en cualquier proyecto sin cargos adicionales ni atribución. Cada clip, incluida la salida de efecto de sonido de gallo, está autorizado para uso inmediato en trabajo profesional y comercial."
+        },
+        {
+          "question": "¿Qué calidad produce el generador de sonidos de gallo?",
+          "answer": "Nuestro generador produce audio de calidad profesional que cumple estándares de la industria. Obtienes opciones de efecto de sonido de gallo de alta resolución hasta 192 kHz/24-bit, rango de frecuencia completo y dinámica controlada. Toda la salida está lista para emisión. Cada clip es adecuado para producción profesional y proyectos creativos. La calidad del efecto de sonido de gallo es nivel estudio en todas las variaciones."
+        }
+      ]
+    }
+  }
+}

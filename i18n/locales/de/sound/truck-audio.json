@@ -1,0 +1,75 @@
+{
+  "truck-audio": {
+    "meta": {
+      "title": "LKW-Audio",
+      "description": "Erstellen Sie sofort LKW-Audio mit unserer fortschrittlichen KI-Technologie. Erzeugen Sie verschiedene Soundtypen – Naturgeräusche, Instrumente und mehr.",
+      "keywords": "LKW-Audio, lauter LKW"
+    },
+    "hero": {
+      "title": "LKW-Audio",
+      "subtitle": "Verwandeln Sie Textbeschreibungen sofort in hochwertiges LKW-Audio"
+    },
+    "generator_subtitle": "Wählen Sie aus den beliebten Prompts unten oder schreiben Sie Ihre eigene Beschreibung, um LKW-Audio zu erzeugen",
+    "advantages": {
+      "title": "Warum unseren LKW-Audio-Generator wählen?",
+      "items": [
+        {
+          "title": "Sofortige LKW-Audio-Erstellung",
+          "description": "Erzeugen Sie professionelles LKW-Audio sofort aus Text. Unser Tool verwandelt Ihre Beschreibungen in Sekunden in Motorbrummen, Hupe, Bremsen und Straßengeräusche—ohne Feldaufnahme oder große Bibliotheken. Erstellen Sie unbegrenzte Variationen für Video, Spiele oder Werbung. Ob Diesel im Leerlauf, vorbeifahrender Laster oder lauter LKW-Revs und Hupen: Der Generator liefert saubere, sendefähige Ergebnisse.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Unbegrenzte kreative Möglichkeiten",
+          "description": "Erstellen Sie jeden gewünschten LKW-Audio-Stil: Laster-Revs, fernes Autobahnbrummen, Rückfahrpieper oder Kabinenambiente. Der Generator versteht detaillierte Beschreibungen und erzeugt passendes Audio für volle kreative Freiheit. Erkunden Sie Variationen für Film, Podcasts und Content. Von dezentem Hintergrund bis lauten LKW-Vorbeifahrten—finden Sie die passende Variante für jedes Projekt.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professionelle Audioqualität",
+          "description": "Alle generierten LKW-Audios erfüllen Sende-Standards mit High-Fidelity-Ausgabe. Der Generator nutzt moderne Algorithmen, sodass jedes Ergebnis klar und produktionsreif ist. Die Ausgaben sind für Video, Film und Medien optimiert. Erhalten Sie konsistentes lautes LKW- und Motor-Audio in Studiogualität für Ihre Arbeit.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Über den LKW-Audio-Generator",
+      "items": [
+        {
+          "question": "Was ist ein LKW-Audio-Generator?",
+          "answer": "Ein LKW-Audio-Generator ist ein KI-Tool, das Text in individuelles LKW-Audio wie Motor, Hupe und Straßenlärm umwandelt. Er erzeugt professionelles Audio für Video, Spiele und Werbung ohne Aufnahme oder große Bibliotheken. Das System nutzt neuronale Synthese, trainiert mit echtem Fahrzeug-Audio, für natürliche, nutzbare Ergebnisse. Er ist für Creator gedacht, die schnelle, vielfältige LKW-Audio- und lauter-LKW-Effekte für jedes Projekt brauchen."
+        },
+        {
+          "question": "Wie funktioniert der LKW-Audio-Generator?",
+          "answer": "Der Generator liest Ihre Textbeschreibung und erkennt Merkmale wie Fahrzeugtyp, Geschwindigkeit und Umgebung. Anschließend synthetisiert er passendes LKW-Audio—Motor-Revs, Hupen, Bremsen oder Verkehr. Sie können Diesel-Leerlauf, vorbeifahrenden Laster oder lauten LKW-Rev in einer Szene anfordern. Das Ergebnis ist eine saubere, sofort nutzbare Datei zum Download und Einbinden in Ihr Projekt."
+        },
+        {
+          "question": "Was macht diesen LKW-Audio-Generator einzigartig?",
+          "answer": "Anders als feste Bibliotheken erstellt unser LKW-Audio-Generator auf Anfrage neue Variationen aus reinem Text. Sie erhalten individuelles Audio ohne Tausende Dateien zu durchsuchen. Die KI ist mit hochwertigem Fahrzeug- und Straßen-Audio trainiert, jedes Ergebnis ist konsistent und professionell. Erzeugen Sie so viele Variationen wie nötig für jede Szene oder jeden Schnitt."
+        },
+        {
+          "question": "Wie schreibt man wirksame Prompts für LKW-Audio?",
+          "answer": "Nutzen Sie klare, konkrete Beschreibungen. Z. B.: „Diesel-LKW im Leerlauf an der Ampel“ oder „lauter LKW-Horn auf der Autobahn.“ Nennen Sie Fahrzeugtyp (Sattelzug, Pick-up, Kipper), Aktion (beschleunigen, bremsen, rückwärts) und Setting (Autobahn, Stadt, Baustelle). Der Generator reagiert gut auf Begriffe wie Motor, Hupe, Brummen und lauter LKW. Mehr Details helfen der Ausgabe, Ihrer Vorstellung zu entsprechen."
+        },
+        {
+          "question": "Wie setze ich LKW-Audio in Video-Content ein?",
+          "answer": "Setzen Sie LKW-Audio ein, um Fahrszenen, Werbung oder Dokus realistischer zu machen. Legen Sie Motorbrummen unter B-Roll, setzen Sie Hupenschläge für Akzente oder nutzen Sie fernes lautes LKW-Ambiente für Tiefe. Variieren Sie die Lautstärke—lauter für Action, leiser im Hintergrund. Unser Generator ermöglicht genug Variationen, damit jede Szene ein passendes Ergebnis ohne Wiederholung hat."
+        },
+        {
+          "question": "Wie nutze ich LKW-Audio in der Spieleentwicklung?",
+          "answer": "LKW-Audio eignet sich für Rennspiele, Verkehrsambiente und UI-Feedback. Nutzen Sie Motor-Revs für die Fahrzeugauswahl, Hupe für Alarme und lauten LKW-Straßenlärm für Open-World-Atmosphäre. Unser Generator unterstützt viele Variationen für einen konsistenten Stil. Erstellen Sie klare, professionelle Sets für verschiedene Fahrzeuge oder Umgebungen."
+        },
+        {
+          "question": "Welche Arten von LKW-Audio kann ich erstellen?",
+          "answer": "Sie können ein breites Spektrum an LKW-Audio erstellen: Motor-Leerlauf oder Rev, Hupe kurz oder lang, Bremsenquietschen, Rückfahrpieper, Straßenbrummen, Kabinen- oder Außenambiente. Nutzen Sie es für Film, Spiele, Podcasts oder jedes Projekt mit Fahrzeug-Audio. Der Generator behandelt verschiedene Kontexte und Stile mit gleichbleibender Qualität."
+        },
+        {
+          "question": "Sind die generierten LKW-Audios lizenzfrei?",
+          "answer": "Ja. Alle LKW-Audios unseres Generators sind lizenzfrei und mit einer kommerziellen Lizenz nutzbar. Sie können sie in jedem Projekt ohne zusätzliche Gebühren oder Namensnennung verwenden. Jede generierte Datei ist für professionelle und kommerzielle Nutzung freigegeben. Laden Sie so viele herunter, wie Sie für Ihre Projekte benötigen."
+        },
+        {
+          "question": "Wie ist die Qualität des generierten LKW-Audios?",
+          "answer": "Unser LKW-Audio-Generator liefert professionelles Audio, das gängige Sende- und Produktionsstandards erfüllt. Sie erhalten hochauflösende Dateien, vollen Frequenzbereich und kontrollierte Dynamik, sodass jede Datei klar und sofort einsatzbereit ist. Jedes generierte LKW-Audio eignet sich für professionelle Nutzung in Video, Film und Content."
+        }
+      ]
+    }
+  }
+}

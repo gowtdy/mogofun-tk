@@ -1,0 +1,71 @@
+{
+  "vibrator-sound": {
+    "meta": {
+      "title": "Son de vibromasseur",
+      "description": "Creez instantanement des sons de vibromasseur avec notre technologie IA avancee. Generez differents types de sons, y compris des sons naturels, des instruments et plus encore.",
+      "keywords": "son de vibromasseur, voix sexuelle"
+    },
+    "hero": {
+      "title": "Son de vibromasseur",
+      "subtitle": "Transformez instantanement une description texte en son de vibromasseur de haute qualite"
+    },
+    "generator_subtitle": "Choisissez un prompt populaire ci-dessous ou ecrivez votre propre description pour generer un son de vibromasseur",
+    "advantages": {
+      "title": "Pourquoi choisir notre generateur de son de vibromasseur ?",
+      "items": [
+        {
+          "title": "Creation instantanee",
+          "description": "Generez instantanement un son de vibromasseur professionnel a partir de texte.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Styles flexibles pour chaque scene",
+          "description": "Creez des styles adaptes a differents niveaux d'intensite, d'ambiance et de contexte.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualite audio professionnelle",
+          "description": "Tous les fichiers generes sont clairs, stables et directement utilisables en production.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "A propos du generateur de son de vibromasseur",
+      "items": [
+        {
+          "question": "Qu'est-ce qu'un generateur de son de vibromasseur ?",
+          "answer": "C'est un outil IA qui transforme du texte en audio personnalise sans enregistrement manuel."
+        },
+        {
+          "question": "Comment fonctionne ce generateur ?",
+          "answer": "Il analyse votre description (ambiance, intensite, style) puis synthese un resultat correspondant."
+        },
+        {
+          "question": "Qu'est-ce qui le rend unique ?",
+          "answer": "Il cree de nouvelles variations a la demande, au lieu de reutiliser une bibliotheque fixe."
+        },
+        {
+          "question": "Comment ecrire des prompts efficaces ?",
+          "answer": "Utilisez des descriptions claires et detaillees en precisant ambiance, intensite et contexte."
+        },
+        {
+          "question": "Comment utiliser l'audio genere dans un contenu ?",
+          "answer": "Vous pouvez le superposer sous une video, le mixer avec d'autres pistes et ajuster l'intensite selon la scene."
+        },
+        {
+          "question": "Quels types d'audio puis-je creer ?",
+          "answer": "Vous pouvez creer des rendus doux a intenses avec des ambiances variees."
+        },
+        {
+          "question": "L'audio genere est-il libre de droits ?",
+          "answer": "Oui. Tous les fichiers generes sont libres de droits et incluent une licence commerciale."
+        },
+        {
+          "question": "Quelle est la qualite de l'audio genere ?",
+          "answer": "La qualite est de niveau professionnel, avec une clarte elevee et une dynamique controlee."
+        }
+      ]
+    }
+  }
+}

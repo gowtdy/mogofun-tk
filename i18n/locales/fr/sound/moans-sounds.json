@@ -1,0 +1,71 @@
+{
+  "moans-sounds": {
+    "meta": {
+      "title": "Sons de gémissement",
+      "description": "Créez instantanément des sons de gémissement grâce à notre technologie IA avancée. Générez divers types de sons, notamment des sons naturels, des instruments de musique et plus encore.",
+      "keywords": "sons de gémissement, voix de gémissement"
+    },
+    "hero": {
+      "title": "Sons de gémissement",
+      "subtitle": "Transformez instantanément une description textuelle en sons de gémissement de haute qualité"
+    },
+    "generator_subtitle": "Choisissez parmi les invites populaires ci-dessous ou rédigez votre propre description pour générer des sons de gémissement",
+    "advantages": {
+      "title": "Pourquoi choisir notre générateur de sons de gémissement ?",
+      "items": [
+        {
+          "title": "Création instantanée de sons de gémissement",
+          "description": "Générez instantanément des sons de gémissement professionnels et des audios de voix de gémissement à partir du texte. Notre outil transforme vos descriptions en gémissements vocaux et en extraits expressifs en quelques secondes—sans grandes bibliothèques ni édition manuelle. Créez des variations illimitées pour le contenu, les podcasts ou le travail créatif. Que vous ayez besoin de sons de gémissement discrets ou d’une voix de gémissement bien marquée, le générateur fournit des résultats propres et prêts pour la production.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Possibilités créatives illimitées",
+          "description": "Créez le style dont vous avez besoin : intensité variée, différentes ambiances, ou une voix de gémissement pour des scènes distinctes. Le générateur comprend les descriptions détaillées et produit un rendu correspondant pour une liberté créative totale. Explorez des variations pour vos projets audio, votre contenu et votre travail créatif. Des sons doux aux sons de gémissement intenses, trouvez le bon équilibre pour chaque projet.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualité audio professionnelle",
+          "description": "Tous les sons de gémissement générés répondent aux normes de production avec une sortie haute fidélité. Le générateur utilise des algorithmes modernes afin que chaque extrait et chaque voix de gémissement soient clairs et prêts à l’emploi. Les sorties sont optimisées pour le contenu, l’audio et les médias. Obtenez des résultats cohérents de qualité studio pour votre travail.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "À propos du générateur de sons de gémissement",
+      "items": [
+        {
+          "question": "Qu’est-ce qu’un générateur de sons de gémissement ?",
+          "answer": "Un générateur de sons de gémissement est un outil IA qui transforme le texte en gémissements vocaux personnalisés et en audio expressif. Il fournit un rendu professionnel et des options de voix de gémissement pour le contenu et les projets créatifs, sans enregistrement ni grandes bibliothèques. Le système utilise une synthèse neuronale entraînée sur des audios vocaux, ce qui vous donne des résultats naturels et utilisables. Conçu pour les créateurs qui ont besoin de sons de gémissement rapides et variés pour chaque projet."
+        },
+        {
+          "question": "Comment fonctionne le générateur de sons de gémissement ?",
+          "answer": "Notre générateur lit votre description textuelle et repère des caractéristiques comme l’ambiance, l’intensité et le style. Il synthétise ensuite un rendu vocal correspondant : doux, voix de gémissement bien marquée, ou entre les deux. Vous pouvez demander différentes intensités, des scénarios variés ou un audio superposé. Le résultat est un fichier propre, prêt à l’emploi, que vous pouvez télécharger et intégrer à votre projet."
+        },
+        {
+          "question": "Qu’est-ce qui rend ce générateur de sons de gémissement unique ?",
+          "answer": "Contrairement aux bibliothèques fixes, notre générateur crée de nouvelles variations de sons de gémissement à la demande à partir d’un texte simple. Vous obtenez des options vocales personnalisées et des options de voix de gémissement sans chercher dans des milliers de fichiers. L’IA est entraînée sur des audios vocaux de haute qualité, donc chaque résultat reste cohérent et professionnel. Générez autant de variations que nécessaire pour chaque scène ou modification."
+        },
+        {
+          "question": "Comment rédiger des invites efficaces pour des sons de gémissement ?",
+          "answer": "Utilisez des descriptions claires et précises. Par exemple : « vocal doux » ou « voix de gémissement bien marquée pour une scène ». Mentionnez l’ambiance (intense, doux, passionné), l’intensité et le contexte. Le générateur répond bien aux termes descriptifs. Plus vous donnez de détails, plus la sortie correspond à votre vision."
+        },
+        {
+          "question": "Comment utiliser les audios générés dans le contenu ?",
+          "answer": "Utilisez les audios générés pour améliorer le contenu, les podcasts ou le travail créatif. Superposez le vocal sous la vidéo, ajoutez une voix de gémissement pour renforcer l’impact, ou combinez avec d’autres audios. Variez l’intensité pour chaque scène. Notre générateur vous permet de créer suffisamment de variations pour que chaque projet ait un résultat adapté, sans répétition."
+        },
+        {
+          "question": "Quels types d’audios puis-je créer ?",
+          "answer": "Vous pouvez créer une large gamme de sons de gémissement : doux, intenses, différentes intensités et diverses ambiances. Utilisez-les pour le contenu, l’audio ou les projets créatifs. Le générateur gère différents contextes et styles avec une qualité constante pour les gémissements vocaux et les voix de gémissement."
+        },
+        {
+          "question": "Les sons de gémissement générés sont-ils libres de droits ?",
+          "answer": "Oui. Tous les audios provenant de notre générateur sont libres de droits et fournis avec une licence commerciale. Vous pouvez les utiliser dans n’importe quel projet sans frais supplémentaires ni attribution. Chaque fichier généré est autorisé pour un usage professionnel et commercial. Téléchargez autant que nécessaire pour vos projets."
+        },
+        {
+          "question": "Quelle est la qualité des sons de gémissement générés ?",
+          "answer": "Notre générateur produit des audios de qualité professionnelle répondant aux standards de production courants. Vous obtenez des fichiers haute résolution, une plage de fréquences complète et une dynamique contrôlée, pour que chaque résultat soit clair et prêt à être intégré à votre projet. Chaque fichier généré convient à un usage professionnel dans le contenu et les médias."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "haptic-sound": {
+    "meta": {
+      "title": "Sonido háptico",
+      "description": "Crea sonido háptico al instante con nuestra tecnología de IA avanzada. Genera diversos tipos de audio: tonos naturales, instrumentos musicales y más.",
+      "keywords": "sonido háptico, sonidos hápticos"
+    },
+    "hero": {
+      "title": "Sonido háptico",
+      "subtitle": "Transforma descripciones de texto en sonido háptico de alta calidad al instante"
+    },
+    "generator_subtitle": "Elige entre los prompts populares de abajo o escribe tu propia descripción para generar sonido háptico",
+    "advantages": {
+      "title": "¿Por qué elegir nuestro generador?",
+      "items": [
+        {
+          "title": "Creación instantánea de sonido háptico",
+          "description": "Crea clips de sonido háptico profesionales al instante desde texto con nuestro generador de IA. La herramienta convierte tus ideas en audio de feedback táctil de alta calidad en segundos, sin bibliotecas de muestras ni edición manual. Genera variaciones ilimitadas para apps, juegos e interfaz. Ya sea golpe sordo, clic de captura de pantalla o tono de vibración personalizado, el generador ofrece salida en calidad de estudio. Los sonidos hápticos para notificaciones e interacciones son fáciles de producir con unos clics.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Posibilidades creativas ilimitadas",
+          "description": "Usa nuestro generador para crear cualquier estilo de sonido háptico que imagines—de toques suaves a impactos fuertes. La herramienta entiende descripciones complejas y te da libertad creativa total. Explora opciones para apps móviles, juegos e interfaces. Desde feedback sutil hasta sonidos hápticos marcados, obtén el clip perfecto para cada escenario. Crea feedback táctil variado para botones, alertas y gestos.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Calidad de audio profesional",
+          "description": "Cada sonido háptico de nuestro generador cumple estándares de emisión con salida de alta fidelidad. Algoritmos punteros garantizan resultados en calidad de estudio. Toda la salida de sonidos hápticos está lista para producción y optimizada para uso profesional. El generador ofrece cobertura de frecuencia completa y dinámica controlada para feedback táctil auténtico. Sonidos hápticos que suenan naturales en cualquier app o juego.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "FAQ generador",
+      "items": [
+        {
+          "question": "¿Qué es un generador de sonido háptico?",
+          "answer": "Es una herramienta de IA que convierte descripciones de texto en sonido háptico personalizado y audio de feedback táctil. El nuestro usa procesamiento de lenguaje natural y síntesis neural de audio para producir clips de sonidos hápticos de calidad profesional. Puedes crear feedback para notificaciones, toques de interfaz o uso en juegos. Es adecuado para desarrolladores de apps, diseñadores de juegos y creadores de contenido que necesitan sonidos hápticos rápidos y auténticos. El generador ofrece sonido háptico preciso y de alta fidelidad para cualquier proyecto."
+        },
+        {
+          "question": "¿Cómo funciona?",
+          "answer": "Nuestro generador usa un pipeline en varias etapas para convertir texto en audio de alta calidad. Primero analiza tu descripción para capturar rasgos como intensidad, duración y estilo. Esa información pasa por redes neuronales entrenadas para síntesis de impacto y feedback. Entrenado con muestras profesionales, la IA produce feedback háptico natural. El filtrado y el postprocesado mantienen la calidad alta y garantizan que cada clip de sonidos hápticos cumpla estándares de emisión."
+        },
+        {
+          "question": "¿Qué hace único este generador?",
+          "answer": "Nuestro generador destaca por la personalización instantánea y la calidad profesional. A diferencia de bibliotecas estáticas, crea clips de feedback háptico y táctil a medida bajo demanda. El sistema entiende descripciones complejas y produce salida con control fino del punch y el tono. Obtienes variaciones ilimitadas y libertad creativa. Los sonidos hápticos para apps y juegos son fáciles de adaptar sin trabajo de producción extra."
+        },
+        {
+          "question": "¿Cómo escribo prompts efectivos?",
+          "answer": "Escribe descripciones claras y concretas. Prueba \"efecto golpe sordo\" o \"tono captura de pantalla iPhone\". Para sonido háptico, di \"tono medianoche\" o \"toque suave\". Incluye intensidad, duración y contexto. Nuestro generador responde bien a términos como vibración, toque e impacto. Más contexto da mejores resultados para sonido háptico y sonidos hápticos."
+        },
+        {
+          "question": "¿Cómo usar el generador en apps?",
+          "answer": "Coloca clips de feedback háptico personalizados donde los usuarios tocan o reciben alertas. El generador te ayuda a crear sonido háptico y sonidos hápticos para botones, notificaciones y gestos. Superpone variaciones de sonidos hápticos para una UX rica y envolvente. Úsalo para apps móviles, wearables e interfaces. La herramienta te permite construir un estilo de audio único que encaje con tu producto. Los sonidos hápticos mejoran claridad y satisfacción en cualquier app."
+        },
+        {
+          "question": "¿Qué tipos de sonido háptico puedo crear?",
+          "answer": "Puedes crear una amplia gama de sonido háptico: golpe sordo, clic de captura de pantalla, toque suave, impacto fuerte y estilos de vibración personalizados. El generador trata estas categorías de sonido háptico y sonidos hápticos con calidad consistente. Ya necesites feedback sutil o clips marcados para juegos y apps, la herramienta ofrece resultados profesionales. Los sonidos hápticos para notificaciones e interfaz están soportados con control creativo total."
+        },
+        {
+          "question": "¿Los clips generados son libres de derechos?",
+          "answer": "Sí. Todo el audio de nuestro generador es libre de derechos e incluye licencia comercial. Puedes usar los clips de sonido háptico y sonidos hápticos generados en cualquier proyecto sin cargos adicionales ni atribución. Cada clip está autorizado para uso inmediato en trabajo profesional y comercial, incluyendo apps y juegos."
+        },
+        {
+          "question": "¿Qué calidad produce el generador?",
+          "answer": "Produce sonido háptico de calidad profesional que cumple estándares de la industria. Obtienes opciones de alta resolución para sonidos hápticos, rango de frecuencia completo y dinámica controlada. Toda la salida está lista para emisión y es adecuada para producción profesional, apps y proyectos creativos."
+        }
+      ]
+    }
+  }
+}

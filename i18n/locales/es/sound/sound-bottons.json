@@ -1,0 +1,71 @@
+{
+  "sound-bottons": {
+    "meta": {
+      "title": "Sound Bottons",
+      "description": "Crea al instante sound bottons con nuestra IA avanzada. Genera varios tipos de audio, incluidos sonidos naturales e instrumentos.",
+      "keywords": "sound bottons, sounds button"
+    },
+    "hero": {
+      "title": "Sound Bottons",
+      "subtitle": "Convierte al instante una descripción en texto en sound bottons de alta calidad"
+    },
+    "generator_subtitle": "Elige entre los prompts populares de abajo o escribe tu propia descripción para generar sound bottons",
+    "advantages": {
+      "title": "Por qué elegir nuestro generador Sound Bottons",
+      "items": [
+        {
+          "title": "Crea clips Sound Bottons en segundos",
+          "description": "Crea señales cortas y contundentes a partir de prompts sencillos, sin sesiones de grabación ni cadenas de edición complejas. Este flujo ayuda a los creadores a prototipar una colección sound bottons para streams, interacciones en apps y ediciones sociales y exportar activos coherentes con menos revisiones.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Estilos flexibles para cualquier interacción",
+          "description": "Ajusta ataque, decaimiento y carácter para que cada señal encaje en tu UX o estilo de contenido. Puedes producir clics juguetones, stings dramáticos y tonos de confirmación mínimos y organizarlos como una biblioteca sound bottons clara. Las etiquetas opcionales en metadatos pueden reflejar errores comunes de escritura para tráfico de landing sin saturar el texto principal.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Calidad de audio profesional",
+          "description": "Cada exportación es limpia, lista para mezcla y estable en todos los dispositivos. Una dinámica controlada y transientes claros ayudan a que tu línea sound bottons suene bien desde móvil hasta escritorio y streaming.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Sobre nuestro generador Sound Bottons",
+      "items": [
+        {
+          "question": "¿Qué es un generador sound bottons?",
+          "answer": "Es una herramienta de audio con IA que convierte prompts de texto en señales interactivas cortas para UI, vídeo y contenido en directo. Puedes montar rápidamente un conjunto sound bottons para acciones concretas, mantener nombres coherentes y reutilizar activos en páginas y productos."
+        },
+        {
+          "question": "¿Cómo funciona la herramienta sound bottons?",
+          "answer": "El modelo lee descriptores como duración, timbre, impacto y contexto de reproducción y sintetiza el audio correspondiente. Empieza con una base neutra, itera hacia un tono más brillante o suave y finaliza el tiempo para que las señales sound bottons encajen exactamente en la interfaz."
+        },
+        {
+          "question": "¿Por qué es mejor que paquetes estáticos?",
+          "answer": "Los paquetes estáticos pueden resultar repetitivos y suelen necesitar limpieza extra. La generación por prompts ofrece resultados específicos de la escena bajo demanda, lo que facilita mantener un sistema sound bottons distinto en menús, alertas y transiciones."
+        },
+        {
+          "question": "¿Cómo escribo prompts efectivos?",
+          "answer": "Usa instrucciones concisas con intención y timing, como \"clic de confirmación corto y brillante\" o \"bip de interfaz cálido con decaimiento rápido\". Añade contexto como pantalla objetivo, duración y estado de ánimo para reducir revisiones y mejorar la coherencia."
+        },
+        {
+          "question": "¿Puedo captar búsquedas con errores comunes?",
+          "answer": "Sí. Puedes mantener sound bottons como término principal y añadir una variante limitada \"sounds button\" en metadatos o enlaces internos para ayudar a quien busca con errores a encontrar los activos correctos sin perjudicar la legibilidad."
+        },
+        {
+          "question": "¿Dónde puedo usar las señales generadas?",
+          "answer": "En eventos de UI de juegos, flujos de incorporación, clips sociales, overlays de stream, interacciones de cuestionarios y transiciones de edición. Una paleta sound bottons reutilizable ayuda a los equipos a mantener una identidad sonora reconocible sin artefactos de stock repetitivos."
+        },
+        {
+          "question": "¿El sonido generado está libre de royalties?",
+          "answer": "Sí. Las salidas están libres de royalties según nuestros términos estándar para proyectos de creadores y comerciales habituales. Revisa los detalles de licencia antes de grandes campañas de pago o requisitos de distribución especializados."
+        },
+        {
+          "question": "¿Qué calidad puedo esperar de las exportaciones?",
+          "answer": "Archivos listos para producción con transientes claros, picos controlados y reproducción fiable en todos los dispositivos. Aún puedes aplicar EQ final y loudness para alinear cada señal con tu mezcla completa y los objetivos de la plataforma."
+        }
+      ]
+    }
+  }
+}

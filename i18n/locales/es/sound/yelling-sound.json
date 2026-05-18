@@ -1,0 +1,75 @@
+{
+  "yelling-sound": {
+    "meta": {
+      "title": "Sonido de grito",
+      "description": "Crea sonido de grito al instante con nuestra tecnología de IA avanzada. Genera diversos tipos de sonido: clips naturales, instrumentos musicales y más.",
+      "keywords": "sonido de grito, efecto de sonido de grito"
+    },
+    "hero": {
+      "title": "Sonido de grito",
+      "subtitle": "Transforma descripciones de texto en sonido de grito de alta calidad al instante"
+    },
+    "generator_subtitle": "Elige entre los prompts populares de abajo o escribe tu propia descripción para generar sonido de grito",
+    "advantages": {
+      "title": "¿Por qué elegir nuestro generador?",
+      "items": [
+        {
+          "title": "Creación vocal instantánea",
+          "description": "Crea clips vocales profesionales al instante desde texto con nuestro generador de IA. La herramienta convierte tus ideas en sonido de grito y clips de personaje de alta calidad en segundos, sin bibliotecas de muestras ni edición manual. Genera variaciones ilimitadas para juegos, vídeos y apps. Ya sea efecto de sonido de grito para acción, drama o proyectos, el generador ofrece salida de sonido de grito en calidad de estudio.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Posibilidades creativas ilimitadas",
+          "description": "Usa nuestro generador para crear cualquier estilo de sonido de grito que imagines—de gritos sutiles a alaridos intensos. La herramienta entiende descripciones complejas y te da libertad creativa total. Explora opciones para juegos, películas y medios. Desde vocales de personaje hasta efecto de sonido de grito variado para cada escenario, obtén el clip perfecto para tu proyecto.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Calidad de audio profesional",
+          "description": "Cada clip de nuestro generador cumple estándares de emisión con salida de alta fidelidad. Algoritmos punteros garantizan resultados en calidad de estudio. Toda la salida está lista para producción y optimizada para uso profesional. El generador ofrece cobertura de frecuencia completa y dinámica clara para sonido de grito auténtico. Efecto de sonido de grito que suena consistente en cualquier proyecto.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "FAQ generador",
+      "items": [
+        {
+          "question": "¿Qué es este generador?",
+          "answer": "Es una herramienta de IA que convierte descripciones de texto en audio vocal y de personaje personalizado. El nuestro usa procesamiento de lenguaje natural y síntesis neural de audio para producir clips de efecto de sonido de grito de calidad profesional. Puedes crear sonido de grito para terror, juegos o películas. Es adecuado para creadores de contenido, desarrolladores de juegos y cineastas que necesitan salida rápida y auténtica. El generador también soporta efecto de sonido de grito para estilos y atmósferas variados."
+        },
+        {
+          "question": "¿Cómo funciona?",
+          "answer": "Nuestro generador usa un pipeline en varias etapas para convertir texto en sonido de grito de alta calidad. Primero analiza tu descripción para capturar rasgos como intensidad, personaje y duración. Esa información pasa por redes neuronales entrenadas para síntesis vocal y de grito. Entrenado con muestras profesionales, la IA produce salida natural y realista. El filtrado y el postprocesado mantienen la calidad alta y garantizan que cada clip cumpla estándares de emisión."
+        },
+        {
+          "question": "¿Qué hace único este generador?",
+          "answer": "Nuestro generador destaca por la personalización instantánea y la calidad profesional. A diferencia de bibliotecas estáticas, crea clips de efecto de sonido de grito a medida bajo demanda. El sistema entiende descripciones complejas y produce salida con control fino de intensidad y estilo. Obtienes variaciones ilimitadas y libertad creativa. El efecto de sonido de grito para juegos y películas es fácil de adaptar sin trabajo de producción extra."
+        },
+        {
+          "question": "¿Cómo escribo prompts efectivos para él?",
+          "answer": "Escribe descripciones claras y concretas. Prueba \"grito fuerte\" o \"grito de ira\". Para sonido de grito, di \"grito intenso\" o \"grito desesperado\". Incluye intensidad, tipo de personaje y contexto. Nuestro generador responde bien a términos como grito, alarido y llanto. Más contexto da mejores resultados para efecto de sonido de grito y otros tonos vocales."
+        },
+        {
+          "question": "¿Cómo puedo usarlo en contenido de vídeo?",
+          "answer": "Coloca clips vocales personalizados donde las escenas necesiten tensión o reacción. El generador te ayuda a crear sonido de grito y clips de personaje para intros, transiciones y momentos clave. Superpone variaciones para un diseño de audio rico y envolvente. Úsalo para películas, vlogs y tutoriales. La herramienta te permite construir un estilo de audio único que encaje con tu contenido."
+        },
+        {
+          "question": "¿Cómo puedo usarlo en desarrollo de juegos?",
+          "answer": "Nuestro generador soporta audio procedural para juegos. Crea variaciones para que los jugadores rara vez oigan el mismo clip dos veces. Construye sistemas que reaccionen al estado del juego, peligros y eventos. Produce opciones distintas para personajes, cinemáticas y momentos clave manteniendo un estilo consistente. El efecto de sonido de grito puede mezclarse dinámicamente desde los parámetros del juego. El generador ofrece efecto de sonido de grito de calidad profesional que mejora inmersión e impacto."
+        },
+        {
+          "question": "¿Qué tipos de clips vocales puedo crear?",
+          "answer": "Puedes crear una amplia gama: efecto de sonido de grito para acción, drama, terror, y opciones personalizadas. El generador los trata con calidad consistente. Ya necesites gritos sutiles o clips vocales marcados para cualquier escenario, la herramienta ofrece salida profesional. El efecto de sonido de grito para terror y juegos está soportado con control creativo total."
+        },
+        {
+          "question": "¿Los clips generados son libres de derechos?",
+          "answer": "Sí. Todos los clips de nuestro generador son libres de derechos e incluyen licencia comercial. Puedes usar los clips de efecto de sonido de grito generados en cualquier proyecto sin cargos adicionales ni atribución. Cada clip está autorizado para uso inmediato en trabajo profesional y comercial."
+        },
+        {
+          "question": "¿Qué calidad produce?",
+          "answer": "Nuestro generador produce sonido de grito de calidad profesional que cumple estándares de la industria. Obtienes opciones de alta resolución, rango de frecuencia completo y dinámica clara. Toda la salida está lista para emisión y es adecuada para producción profesional y proyectos creativos."
+        }
+      ]
+    }
+  }
+}

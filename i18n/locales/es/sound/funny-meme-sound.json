@@ -1,0 +1,71 @@
+{
+  "funny-meme-sound": {
+    "meta": {
+      "title": "Sonido de meme divertido",
+      "description": "Crea al instante sonido de meme divertido con nuestra IA avanzada: sonidos naturales, instrumentos y más.",
+      "keywords": "sonido de meme divertido, sonido divertido"
+    },
+    "hero": {
+      "title": "Sonido de meme divertido",
+      "subtitle": "Transforma al instante descripciones de texto en sonido de meme divertido de alta calidad"
+    },
+    "generator_subtitle": "Elige entre los prompts populares de abajo o escribe tu propia descripción para generar sonido de meme divertido",
+    "advantages": {
+      "title": "¿Por qué elegir nuestro generador de sonidos de meme divertidos?",
+      "items": [
+        {
+          "title": "Sonidos de meme divertidos desde texto en segundos",
+          "description": "Describe un golpe seco, sting de risa o aplauso sarcástico y obtén un clip listo para compartir sin arrancar audio de subidas aleatorias. El modelo lee timing cómico, impacto y tono para que los resultados encajen en ediciones de reacción, alertas de stream o explicaciones en clase. Itera rápido cuando necesites un beat nuevo en cada ciclo de meme. Cada sonido de meme divertido se calibra para sonar divertido en ediciones de formato corto.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Estilos que encajan con punchlines de formato corto",
+          "description": "Pide energía deadpan, de dibujo o exagerada; adjetivos más claros dan mejores coincidencias. Menciona ritmo, distancia o memes de referencia para que la cue caiga en el corte que haces. Exporta colas cortas que hacen loop limpio bajo subtítulos o superposiciones de stickers. Un sonido de meme divertido bien cronometrado ayuda a que las reacciones suenen divertidas sin tapar el diálogo.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Niveles amigables para mezcla en feeds llenos",
+          "description": "Las descargas buscan transientes inteligibles y loudness predecible para colocar cues junto a la locución sin saltos bruscos. Preescucha en altavoces de móvil para que los stings suenen divertidos cuando la gente hace scroll con auriculares baratos y media atención. Mantén cada sonido de meme divertido nivelado para que las transiciones suenen divertidas en todos los dispositivos.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Sobre sonidos de meme divertidos",
+      "items": [
+        {
+          "question": "¿Qué son los sonidos de meme divertidos generados por IA?",
+          "answer": "Son clips de audio cortos guiados por texto, pensados para beats de meme, vídeos de reacción y humor de chat en lugar de muestrear fuentes desconocidas. Nombras el gag, el humor y el contexto, luego descargas un archivo que puedes insertar legalmente en ediciones o prototipos. Un sonido de meme divertido a medida deja que las punchlines suenen divertidas manteniendo originalidad."
+        },
+        {
+          "question": "¿Cómo convierte el generador los prompts en audio?",
+          "answer": "El sistema interpreta rasgos como impacto slapstick, color vocal y longitud de decay desde tu prompt, luego sintetiza sonidos de meme divertidos alineados con ese brief. Ajusta verbos, referencias de meme o notas de intensidad entre pases hasta que el sting encaje con la punchline. Un sonido de meme divertido refinado por beat suele dejar cortes más divertidos y más limpios."
+        },
+        {
+          "question": "¿Por qué sintetizar stings aquí en lugar de rasgar clips?",
+          "answer": "El audio rasgado trae derechos poco claros y calidad inconsistente. La síntesis nueva sigue tu redacción, útil cuando necesitas una variación que ningún rip viral cubre, y mantiene la loudness más cerca de lo que espera tu línea de tiempo. Generar un sonido de meme divertido nuevo reduce riesgo legal y ayuda a que los remixes suenen divertidos."
+        },
+        {
+          "question": "¿Cómo debo escribir prompts para sonidos de meme divertidos pegadizos?",
+          "answer": "Junta una acción con un tono y pista de era o formato opcional. Ejemplos como \"rimshot seco tras un mal juego de palabras\" o \"bonk de dibujo con cola larga\" superan palabras vagas como \"divertido\". Menciona si el clip debe ir bajo diálogo para que el modelo acorte transientes. Un prompt específico para sonido de meme divertido da resultados divertidos con menos reintentos."
+        },
+        {
+          "question": "¿Cómo mezclo estas cues para que los vídeos cortos sigan divertidos?",
+          "answer": "Baja la música un poco, coloca impactos en los cortes de imagen y preescucha en el móvil. Compresión ligera en el master ayuda a que los momentos suenen divertidos sin enterrar subtítulos, siempre que dejes headroom antes del limitador. Coloca cada sonido de meme divertido ligeramente delante del movimiento para que las revelaciones suenen divertidas."
+        },
+        {
+          "question": "¿Qué tonos funcionan más allá de los sonidos de meme divertidos clásicos?",
+          "answer": "Prueba aplausos irónicos, rasguños diminutos de disco, deslizados gomosos o stingers de sitcom falsos. Añadir escenario—broma de oficina, stream de juegos, TikTok de ciencia—mantiene el humor alineado con tus visuales. Rotar variantes de sonido de meme divertido ayuda a que segmentos recurrentes suenen divertidos en lugar de repetitivos."
+        },
+        {
+          "question": "¿El audio generado es libre de royalties?",
+          "answer": "Sí. Las descargas son libres de royalties para uso típico de creadores y comercial bajo nuestra licencia, sin tasas extra por clip. Revisa los términos más recientes en la página del producto antes de grandes campañas publicitarias o emisiones en broadcast. Puedes reutilizar un mismo sonido de meme divertido en varios recortes y seguir manteniendo ediciones divertidas."
+        },
+        {
+          "question": "¿Qué calidad de audio debo esperar?",
+          "answer": "Espera ancho de banda claro adecuado para suites de edición y reproducción móvil. Si necesitas entrega en loudness de broadcast, ejecuta tu cadena habitual de masterización para que cada sting de meme equilibre con narración mientras las ediciones suenan divertidas en auriculares y altavoces de coche."
+        }
+      ]
+    }
+  }
+}

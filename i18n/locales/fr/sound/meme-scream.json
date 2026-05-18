@@ -1,0 +1,71 @@
+{
+  "meme-scream": {
+    "meta": {
+      "title": "Cri mème",
+      "description": "Créez instantanément un cri mème avec notre IA avancée : sons naturels, instruments et bien plus encore.",
+      "keywords": "cri mème, son cri mème"
+    },
+    "hero": {
+      "title": "Cri mème",
+      "subtitle": "Transformez instantanément une description textuelle en cri mème de haute qualité"
+    },
+    "generator_subtitle": "Choisissez parmi les prompts populaires ci-dessous ou rédigez votre propre description pour générer un cri mème",
+    "advantages": {
+      "title": "Pourquoi choisir notre générateur de cris mème ?",
+      "items": [
+        {
+          "title": "Créez des clips de cri mème en quelques secondes",
+          "description": "Décrivez un moment de punchline, un beat de réaction ou un zoom dramatique et générez un audio propre sans fouiller dans des téléchargements aléatoires. Le modèle saisit timing, ton et intensité pour que chaque rendu convienne aux montages courts, streams et posts sociaux. Itérez vite lorsque vous avez besoin de plusieurs versions pour une même scène. Un prompt de cri mème ciblé peut aussi produire un son de cri mème plus propre pour des tests de coupe rapides.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Styles flexibles pour mèmes et réactions",
+          "description": "Demandez une interprétation absurde, dramatique ou deadpan et affinez longueur, hauteur et texture. Une formulation claire aide la sortie à correspondre à votre point de coupe exact, qu'il vous faille un hit de cri mème ou une pile de sons de cri mème. Cela garde les montages expressifs sans sonner répétitif. Les équipes sauvent souvent une variante de cri mème et une variante de son de cri mème pour des swaps A/B rapides.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualité audio de niveau professionnel",
+          "description": "Les exports sont calibrés pour clarté et dynamique contrôlée afin que les clips restent exploitables après compression sur mobile. Les fichiers s'insèrent dans les workflows courants avec peu de nettoyage, et la loudness reste prévisible en traitant les scènes en lot ou en changeant de version tard dans la prod. Un nivellement cohérent aligne chaque cri mème tandis que chaque son de cri mème reste percutant après encodage.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "À propos de notre générateur de cris mème",
+      "items": [
+        {
+          "question": "Qu'est-ce qu'un générateur de cri mème ?",
+          "answer": "C'est un outil audio IA qui convertit des prompts texte en courts clips de style réaction pour mèmes, montages et contenus sociaux. Au lieu d'enregistrer de nouvelles prises ou de fouiller de vastes bibliothèques, vous décrivez le moment et générez un fichier utilisable en secondes. En pratique, un concept de cri mème peut se ramifier en plusieurs variantes de son de cri mème pour des coupes différentes."
+        },
+        {
+          "question": "Comment fonctionne cet outil de cri mème ?",
+          "answer": "Le système analyse des indices comme humeur, force, cadence et personnage depuis votre prompt, puis synthétise un audio qui correspond. Vous pouvez ajuster la formulation entre passes pour un timing plus serré, une attaque plus nette ou des queues plus douces selon votre timeline. L'itération aide chaque cri mème à tomber sur l'image tout en préservant une texture de son de cri mème cohérente."
+        },
+        {
+          "question": "Pourquoi utiliser ceci plutôt que des packs stock ?",
+          "answer": "Les packs stock répètent souvent les mêmes clips reconnaissables. Ce flux crée des variations fraîches à partir de votre formulation, ce qui facilite l'ajustement à chaque scène et évite les sons surutilisés dans les formats viraux. Vos moments de cri mème restent originaux et chaque son de cri mème semble moins générique."
+        },
+        {
+          "question": "Comment rédiger des prompts pour cri mème ?",
+          "answer": "Utilisez des verbes concrets et le contexte : qui réagit, pourquoi, combien de temps dure le moment. Une phrase comme « court cri de choc après un fail » fonctionne mieux qu'une formulation vague et nécessite en général moins de régénérations. Cela améliore la précision du cri mème et garde le son de cri mème serré dans le mix."
+        },
+        {
+          "question": "Quand utiliser le son de cri mème dans les montages ?",
+          "answer": "Pour les coupes réaction, révélations comiques, transitions et zooms dramatiques où le timing vend la blague. Gardez les niveaux sous dialogue et lits musicaux pour que l'effet soutienne la scène sans masquer la parole importante. Un cri mème équilibré plus une couche contrôlée de son de cri mème se lit souvent le mieux sur mobile."
+        },
+        {
+          "question": "Quelles variantes puis-je générer ?",
+          "answer": "Vous pouvez produire des prises subtiles, exagérées, distordues ou cinématographiques avec des longueurs et courbes d'intensité différentes. Un même concept peut se ramifier en plusieurs options pour tester rythme et impact émotionnel. Construisez un petit set de cris mème et taguez chaque son de cri mème par énergie pour une réutilisation éditoriale plus rapide."
+        },
+        {
+          "question": "L'audio généré est-il libre de droits ?",
+          "answer": "Oui. Les fichiers générés sont libres de droits sous notre licence pour usage créateur et commercial typique. Relisez les dernières conditions avant grosses campagnes publicitaires ou distribution broadcast."
+        },
+        {
+          "question": "Quelle qualité dois-je attendre des exports ?",
+          "answer": "Attendez-vous à une sortie prête prod avec un comportement de loudness stable et des transitoires nets adaptés aux plateformes sociales modernes. Si besoin, appliquez votre chaîne de mastering habituelle pour correspondre au style maison avant publication finale. Le QC final doit confirmer que chaque cri mème reste intelligible et que chaque son de cri mème survit à la compression."
+        }
+      ]
+    }
+  }
+}

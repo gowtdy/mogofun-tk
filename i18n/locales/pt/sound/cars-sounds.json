@@ -1,0 +1,75 @@
+{
+  "cars-sounds": {
+    "meta": {
+      "title": "Sons de carros",
+      "description": "Crie sons de carros instantaneamente com nossa tecnologia de IA avançada. Gere vários tipos de áudio, incluindo tons naturais, instrumentos musicais e mais.",
+      "keywords": "sons carros, som de automóvel"
+    },
+    "hero": {
+      "title": "Sons de carros",
+      "subtitle": "Transforme descrições em texto em sons de carros de alta qualidade na hora"
+    },
+    "generator_subtitle": "Escolha entre os prompts populares abaixo ou escreva sua própria descrição para gerar sons de carros",
+    "advantages": {
+      "title": "Por que escolher nosso gerador de sons de carros?",
+      "items": [
+        {
+          "title": "Criação instantânea de sons de carros",
+          "description": "Crie sons de carros profissionais e clipes de veículo instantaneamente a partir de texto. Nossa IA transforma suas descrições em passagem, motor e colisão em segundos—sem bibliotecas de amostras ou edição manual. Precisa de clipes nítidos para a interface ou áudio de veículo completo para uma cena? Gere variações ilimitadas com qualidade pronta para transmissão. Obtenha som de automóvel autêntico para qualquer projeto.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Possibilidades criativas ilimitadas",
+          "description": "Crie qualquer estilo que imaginar: passagem, ronco do motor, efeito de colisão ou ambiência de veículo. A ferramenta entende descrições detalhadas e dá liberdade criativa total. Explore opções infinitas para vídeos, jogos e aplicativos. De som de automóvel sutil a áudio de veículo em camadas para cinema, obtenha o clipe certo para cada cenário.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualidade de áudio profissional",
+          "description": "Cada clip do nosso gerador de sons de carros atende aos padrões de transmissão com saída de alta fidelidade. Algoritmos de ponta garantem som de automóvel e áudio de veículo de qualidade de estúdio. Todos os clips estão prontos para produção e otimizados para uso profissional, com cobertura total de frequência e resultados autênticos e naturais.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "FAQ Sons de carros",
+      "items": [
+        {
+          "question": "O que é um gerador de sons de carros?",
+          "answer": "Nosso gerador é uma ferramenta de IA que transforma texto em sons de carros personalizados. Usa processamento de linguagem natural e síntese neural para produzir clipes profissionais—de passagem e motor a efeitos de colisão. Atende criadores, editores de vídeo e desenvolvedores de jogos que precisam de som de automóvel rápido e autêntico com resultados precisos e de alta fidelidade."
+        },
+        {
+          "question": "Como o gerador funciona?",
+          "answer": "A ferramenta usa um pipeline em várias etapas para transformar texto em clipes de som de automóvel de alta qualidade. Ela analisa sua descrição para capturar intensidade, estilo e contexto, depois processa isso em redes neurais treinadas para síntese de veículo e motor. Você pode pedir clipes curtos para a interface ou ambiência mais longa. Cada clip atende aos padrões de transmissão."
+        },
+        {
+          "question": "O que torna este gerador de sons de carros único?",
+          "answer": "Nosso gerador se destaca pela personalização instantânea e qualidade profissional. Diferente de bibliotecas estáticas, ele cria sons de carros sob medida sob demanda. Treinado com amostras de alta qualidade, entrega resultados realistas. Você obtém variações ilimitadas e liberdade criativa com controle fino."
+        },
+        {
+          "question": "Como escrevo prompts eficazes para sons de carros?",
+          "answer": "Escreva descrições claras e específicas. Tente \"som de automóvel para passagem\" ou \"sons de carros para colisão\". Inclua estilo (realista, cinematográfico), intensidade e contexto. O gerador responde bem a termos como motor, passagem, colisão e buzina. Mais contexto gera melhores resultados."
+        },
+        {
+          "question": "Como posso usar sons de carros em conteúdo de vídeo?",
+          "answer": "Mapeie as cenas do seu vídeo e coloque clipes personalizados onde agregam impacto. Crie clipes de passagem e motor para cada momento—de fundo sutil a hits dramáticos. Empilhe som de automóvel e áudio de veículo para resultados ricos e envolventes que destacam tempo ou lugar."
+        },
+        {
+          "question": "Como posso usar o gerador no desenvolvimento de jogos?",
+          "answer": "Nosso gerador suporta clipes procedurais para jogos. Crie variações para os jogadores raramente ouvirem o mesmo clip duas vezes. Produza opções diferentes para interface, fases e eventos mantendo um estilo consistente. A ferramenta entrega sons de carros de qualidade profissional que aumentam imersão e feedback."
+        },
+        {
+          "question": "Que tipos de sons de carros posso criar?",
+          "answer": "Você pode criar uma ampla gama: passagem, motor, efeito de colisão, buzina e ambiência de veículo. Estilos de suave a alto (realista, cinematográfico, vintage). A ferramenta trata esses com qualidade consistente. Obtenha o som de automóvel certo para qualquer projeto."
+        },
+        {
+          "question": "Os clips gerados são livres de royalties?",
+          "answer": "Sim. Todos os clips do nosso gerador são livres de royalties e incluem licença comercial. Você pode usar os sons de carros gerados em qualquer projeto sem taxas extras ou atribuição. Cada clip está liberado para uso imediato em trabalho profissional e comercial."
+        },
+        {
+          "question": "Qual qualidade o gerador produz?",
+          "answer": "Nosso gerador produz clipes de nível profissional que atende aos padrões da indústria. Você tem opções em alta resolução até 192 kHz/24-bit, faixa de frequência completa e dinâmica controlada. Cada clip está pronto para transmissão e adequado para produção profissional e projetos criativos."
+        }
+      ]
+    }
+  }
+}

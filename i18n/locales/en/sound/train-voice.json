@@ -1,0 +1,75 @@
+{
+  "train-voice": {
+    "meta": {
+      "title": "Train Voice",
+      "description": "Instantly create train voice with our advanced AI technology. Generate various types of audio including natural tones, musical instruments and more.",
+      "keywords": "train voice, train whistle sound effect"
+    },
+    "hero": {
+      "title": "Train Voice",
+      "subtitle": "Instantly transform text description into high-quality train voice"
+    },
+    "generator_subtitle": "Select from popular prompts below or write your own description to generate train voice",
+    "advantages": {
+      "title": "Why Choose Our Train Voice Generator?",
+      "items": [
+        {
+          "title": "Instant Train Voice Creation",
+          "description": "Create professional train voice and station announcement audio from text in seconds. Our AI turns your descriptions into electronic announcements, metro cues, and platform voice—no sample libraries or manual editing. Need a train whistle sound effect to pair with your clip? Generate unlimited train voice variations with broadcast-ready quality. Add a train whistle sound effect for impact in any project.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Unlimited Creative Possibilities",
+          "description": "Create any style of train voice you imagine: station announcements, electronic platform voice, metro ambience, or a classic train whistle sound effect. The tool gives you full creative freedom. Explore endless options—from subtle platform cues to a train whistle sound effect and layered audio for film.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professional-Grade Audio Quality",
+          "description": "Every clip from our generator meets broadcast standards with high-fidelity output. Cutting-edge algorithms ensure studio-quality train voice and railway audio. All clips are production-ready and optimized for professional use, with full frequency coverage and clear, natural-sounding results.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Train Voice FAQ",
+      "items": [
+        {
+          "question": "What is a train voice generator?",
+          "answer": "Our generator is an AI tool that turns text into custom train voice and station announcement audio. It uses natural language processing and neural synthesis to produce professional railway clips. You can create electronic platform voice, metro cues, or pair your scene with a train whistle sound effect. It suits creators who need quick, authentic train voice—and a train whistle sound effect when you want impact—with precise, high-fidelity results."
+        },
+        {
+          "question": "How does the generator work?",
+          "answer": "The tool uses a multi-stage pipeline to turn text into high-quality train voice and railway audio. It analyzes your description to capture tone, style, and context, then runs that through neural networks trained for station and announcement synthesis. You can request short cues for UI or longer ambience, plus a train whistle sound effect when needed. Every train voice clip meets broadcast standards."
+        },
+        {
+          "question": "What makes this train voice generator unique?",
+          "answer": "Our generator stands out through instant customization and professional quality. Unlike static libraries, it creates tailored train voice on demand. Trained on high-quality samples, it delivers realistic station voice and varied announcement styles. You get unlimited train voice variations and a train whistle sound effect when you need one, with fine control."
+        },
+        {
+          "question": "How do I write effective prompts for train voice?",
+          "answer": "Write clear, specific descriptions with multiple details. Try \"electronic train voice at platform\" or \"train whistle sound effect with reverb.\" Include style, tone, and context. The generator responds well to terms like announcement, station, metro, platform, and whistle. More context yields better results."
+        },
+        {
+          "question": "How can I use train voice in video content?",
+          "answer": "Map your video's scenes and place custom train voice where they add atmosphere. Create announcement and ambient audio for every moment—from subtle platform cues to a dramatic train whistle sound effect. Layer a train whistle sound effect with train voice for rich, engaging audio that underlines time or place."
+        },
+        {
+          "question": "How can I use the generator in game development?",
+          "answer": "Our generator supports procedural train voice for games. Create variations so players rarely hear the same clip twice. Produce different options for UI, levels, and events. Use a train whistle sound effect for key moments. The tool delivers professional-quality clips that enhance immersion and feedback."
+        },
+        {
+          "question": "What types of clips can I create?",
+          "answer": "You can create a wide range of train voice: station announcements, electronic platform voice, metro cues, railway ambience, and a train whistle sound effect for scenes. The tool delivers professional train voice and train whistle sound effect results for any project."
+        },
+        {
+          "question": "Are the generated clips royalty-free?",
+          "answer": "Yes. All clips from our generator are royalty-free and include a commercial license. You can use the generated clips in any project without extra fees or attribution. Every clip is cleared for immediate use in professional and commercial work."
+        },
+        {
+          "question": "What quality does the generator produce?",
+          "answer": "Our generator outputs professional-grade train voice that meets industry standards. You get high-resolution options up to 192kHz/24-bit, full frequency range, and controlled dynamics. Every clip and train whistle sound effect output is broadcast-ready and suitable for professional production and creative projects."
+        }
+      ]
+    }
+  }
+}

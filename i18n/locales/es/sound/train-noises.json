@@ -1,0 +1,75 @@
+{
+  "train-noises": {
+    "meta": {
+      "title": "Ruidos de tren",
+      "description": "Crea ruidos de tren al instante con nuestra tecnología de IA avanzada. Genera distintos tipos de audio: tonos naturales, instrumentos musicales y más.",
+      "keywords": "ruidos tren, ruido ferroviario"
+    },
+    "hero": {
+      "title": "Ruidos de tren",
+      "subtitle": "Transforma descripciones de texto en ruidos de tren de alta calidad al instante"
+    },
+    "generator_subtitle": "Elige entre las sugerencias populares de abajo o escribe tu propia descripción para generar ruidos de tren",
+    "advantages": {
+      "title": "¿Por qué elegir nuestro generador de ruidos de tren?",
+      "items": [
+        {
+          "title": "Creación instantánea de ruidos de tren",
+          "description": "Crea ruidos de tren profesionales y clips de ruido ferroviario al instante a partir de texto. Nuestra IA convierte tus descripciones en ambiente de cabina, clips de marcha y atmósfera de estación en segundos—sin bibliotecas de muestras ni edición manual. ¿Necesitas ruido ferroviario sutil o ruidos de tren completos para una escena? Genera variaciones ilimitadas con calidad lista para emisión para cualquier proyecto.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Posibilidades creativas ilimitadas",
+          "description": "Crea cualquier estilo que imagines: interior cabina, ambiente de estación, ruido ferroviario o clips en capas. La herramienta entiende descripciones detalladas y te da libertad creativa total. Explora opciones infinitas para vídeos, juegos y aplicaciones—desde ruido ferroviario sutil hasta ruidos de tren ricos para cine.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Calidad de audio profesional",
+          "description": "Cada clip de nuestro generador cumple los estándares de emisión con salida de alta fidelidad. Algoritmos punteros garantizan ambiente y ruido ferroviario de calidad de estudio. Todos los clips están listos para producción y optimizados para uso profesional, con cobertura completa de frecuencias y resultados naturales e inmersivos.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "FAQ Ruidos de tren",
+      "items": [
+        {
+          "question": "¿Qué es un generador de ruidos de tren?",
+          "answer": "Nuestro generador es una herramienta de IA que convierte texto en ambiente y ruido ferroviario personalizados. Usa procesamiento de lenguaje natural y síntesis neuronal para producir ruidos de tren profesionales y clips de marcha. Puedes crear atmósfera de cabina, estación o andén—o combinar tu escena con ruido ferroviario sutil. Es adecuado para creadores, editores de vídeo y desarrolladores de juegos que necesitan salida rápida y auténtica con resultados precisos y de alta fidelidad."
+        },
+        {
+          "question": "¿Cómo funciona el generador?",
+          "answer": "La herramienta usa un pipeline en varias etapas para convertir texto en ambiente y clips de alta calidad. Analiza tu descripción para capturar atmósfera, estilo y contexto, y lo procesa en redes neuronales entrenadas para síntesis de cabina y estación. Puedes pedir clips cortos para la interfaz o ruidos de tren más largos para ambiente. Cada clip cumple los estándares de emisión."
+        },
+        {
+          "question": "¿Qué hace único a este generador de ruidos de tren?",
+          "answer": "Nuestro generador destaca por la personalización instantánea y la calidad profesional. A diferencia de bibliotecas estáticas, crea clips a medida bajo demanda. Entrenado con muestras de alta calidad, ofrece ruidos de tren realistas y ruido ferroviario. Obtienes variaciones ilimitadas y libertad creativa con control fino."
+        },
+        {
+          "question": "¿Cómo escribo prompts efectivos para ruidos de tren?",
+          "answer": "Escribe descripciones claras y concretas. Prueba \"ruidos de tren dentro de la cabina\" o \"ruido ferroviario en andén\". Incluye estilo, intensidad y contexto. El generador responde bien a términos como cabina, estación, marcha, ambiente y ruido ferroviario. Más contexto da mejores resultados."
+        },
+        {
+          "question": "¿Cómo puedo usar ruidos de tren en contenido de vídeo?",
+          "answer": "Planifica las escenas de tu vídeo y coloca clips personalizados donde aporten atmósfera. Crea audio de cabina y estación para cada momento—desde fondo sutil hasta hits dramáticos. Superpone ruido ferroviario con ruidos de tren para un audio rico y atractivo que subraya tiempo o lugar."
+        },
+        {
+          "question": "¿Cómo puedo usar el generador en el desarrollo de juegos?",
+          "answer": "Nuestro generador admite ambiente y clips procedurales para juegos. Crea variaciones de cabina y estación para que los jugadores rara vez escuchen el mismo clip dos veces. Produce opciones distintas para interfaz, niveles y eventos manteniendo un estilo coherente. La herramienta ofrece ruidos de tren de calidad profesional que mejoran la inmersión y el feedback."
+        },
+        {
+          "question": "¿Qué tipos de clips puedo crear?",
+          "answer": "Puedes crear una amplia gama: interior cabina, marcha, ambiente de estación, ruido ferroviario y atmósfera de andén. Estilos de suave a fuerte (realista, cinematográfico, vintage). La herramienta maneja estos con calidad consistente y ofrece resultados profesionales para cualquier proyecto."
+        },
+        {
+          "question": "¿Los clips generados están libres de regalías?",
+          "answer": "Sí. Todos los clips de nuestro generador están libres de regalías e incluyen licencia comercial. Puedes usar los clips generados en cualquier proyecto sin costes adicionales ni atribución. Cada clip está autorizado para uso inmediato en trabajo profesional y comercial."
+        },
+        {
+          "question": "¿Qué calidad produce el generador?",
+          "answer": "Nuestro generador produce ambiente de nivel profesional que cumple los estándares de la industria. Tienes opciones en alta resolución hasta 192 kHz/24 bits, rango de frecuencias completo y dinámica controlada. Cada clip está listo para emisión y es adecuado para producción profesional y proyectos creativos."
+        }
+      ]
+    }
+  }
+}

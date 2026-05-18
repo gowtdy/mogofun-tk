@@ -1,0 +1,71 @@
+{
+  "silent-scream": {
+    "meta": {
+      "title": "Cri silencieux",
+      "description": "Créez instantanément un « cri silencieux » grâce à notre IA avancée. Générez divers types de sons : nature, instruments, et plus encore.",
+      "keywords": "cri silencieux, cri extrême"
+    },
+    "hero": {
+      "title": "Cri silencieux",
+      "subtitle": "Transformez instantanément une description textuelle en « cri silencieux » de haute qualité"
+    },
+    "generator_subtitle": "Choisissez parmi les invites populaires ci-dessous ou rédigez votre propre description pour générer un « cri silencieux »",
+    "advantages": {
+      "title": "Pourquoi choisir notre générateur de cri silencieux ?",
+      "items": [
+        {
+          "title": "Générez des cues de cri silencieux en quelques secondes",
+          "description": "Transformez de courtes invites textuelles en indices vocaux tendus et expressifs sans parcourir d’immenses bibliothèques. Le modèle capte le rythme, la forme du souffle et la pression émotionnelle pour que chaque sortie convienne au montage cinématographique, aux moments de jeu ou aux transitions dramatiques. Vous pouvez itérer vite quand une scène nécessite plusieurs niveaux d’intensité. Une cue de cri silencieux ciblée ne passe à un cri extrême que lorsque le plan en a vraiment besoin.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Ton flexible du subtil à l’extrême",
+          "description": "Affinez la lecture de la tension contenue au cri extrême en précisant le contexte, la durée et la texture vocale dans votre invite. Il devient plus facile d’aligner le récit visuel tout en laissant de la place au dialogue. Le flux convient à la fois au drame réaliste et aux accents d’horreur stylisés. Les monteurs associent souvent une prise de cri silencieux et une de cri extrême pour un A/B rapide sur le timing.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualité audio digne du pro",
+          "description": "Les exports sont prêts au mix avec un niveau sonore stable et des transitoires maîtrisés, ce qui facilite les remplacements tardifs en production. Les fichiers restent clairs après la compression courante des plateformes, pour que vos accents émotionnels restent cohérents sur tous les appareils. Un nivellement cohérent garde chaque cri silencieux lisible tandis que chaque couche de cri extrême reste contrôlée.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "À propos de notre générateur de cri silencieux",
+      "items": [
+        {
+          "question": "Qu’est-ce qu’un générateur de cri silencieux ?",
+          "answer": "C’est un outil audio IA qui transforme des invites textuelles en effets vocaux dramatiques axés sur la tension et l’impact. Au lieu d’enregistrer de nombreuses prises, vous générez rapidement une cue façon cri silencieux et la testez directement sur la timeline. Un même concept peut se décliner en plusieurs variantes de cri extrême pour différents montages."
+        },
+        {
+          "question": "Comment fonctionne cet outil de cri silencieux ?",
+          "answer": "Le système lit des attributs d’invite — émotion, pression, rythme, texture — puis synthétise un audio aligné sur ces traits. Vous pouvez affiner la formulation entre les passes jusqu’à ce que le timing et l’intensité correspondent à votre coupe visuelle. L’itération aide chaque cri silencieux à tomber sur l’image tout en gardant chaque montée de cri extrême intentionnelle."
+        },
+        {
+          "question": "Pourquoi l’utiliser plutôt que des bibliothèques de stock ?",
+          "answer": "Les banques peuvent sembler répétitives et ne pas coller au rythme exact de la scène. La génération par invite fournit des variations fraîches à la demande, pour des moments dramatiques plus précis et moins génériques. Chaque cri silencieux reste unique et les moments de cri extrême sonnent moins recyclés."
+        },
+        {
+          "question": "Comment rédiger des invites pour des effets de cri silencieux ?",
+          "answer": "Donnez un contexte concret : qui réagit, ce qui déclenche l’instant, et combien de temps la cue doit tenir. Des invites précises comme « court souffle retenu avant l’impact » donnent en général un meilleur timing que des mots-clés vagues. Plus de détail affine le timing du cri silencieux et garde le cri extrême plus propre dans les mix denses."
+        },
+        {
+          "question": "Quand utiliser le cri extrême dans un mix ?",
+          "answer": "Employez le cri extrême aux moments d’impact clés : révélations, jump cuts, transitions de climax. Gardez-le légèrement sous le dialogue critique et automatisez le gain pour que l’effet ajoute de la tension sans écraser la parole. Enchaîner une entrée en cri silencieux avant un cri extrême améliore souvent le rythme dramatique."
+        },
+        {
+          "question": "Quelles variantes puis-je générer ?",
+          "answer": "Vous pouvez créer des respirations retenues, des pics de panique nets, des swells vocaux en couches ou des textures de détresse longues. Cette plage aide à tester différents arcs émotionnels avant le verrouillage final. Constituez une banque de cris silencieux réutilisable et étiquetez chaque clip de cri extrême par intensité pour des révisions plus rapides."
+        },
+        {
+          "question": "L’audio généré est-il libre de droits ?",
+          "answer": "Oui. Les fichiers générés sont libres de droits sous notre licence pour un usage créateur et commercial standard. Consultez toujours les conditions de licence en vigueur avant de grandes campagnes ou une diffusion broadcast."
+        },
+        {
+          "question": "Quelle qualité puis-je attendre des exports ?",
+          "answer": "Attendez-vous à une sortie propre et prête prod, avec une dynamique cohérente et une lecture fiable sur mobile et bureau. Pour la livraison finale, appliquez votre chaîne de mastering habituelle pour viser le loudness du projet. Le contrôle qualité final doit confirmer que chaque cri silencieux reste clair et que chaque moment de cri extrême survit à la compression des plateformes."
+        }
+      ]
+    }
+  }
+}

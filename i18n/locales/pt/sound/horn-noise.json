@@ -1,0 +1,75 @@
+{
+  "horn-noise": {
+    "meta": {
+      "title": "Ruído de buzina",
+      "description": "Crie ruído de buzina instantaneamente com nossa tecnologia de IA avançada. Gere vários tipos de áudio, incluindo tons naturais, instrumentos musicais e mais.",
+      "keywords": "ruído de buzina, ruídos de buzina"
+    },
+    "hero": {
+      "title": "Ruído de buzina",
+      "subtitle": "Transforme descrições em texto em ruído de buzina de alta qualidade instantaneamente"
+    },
+    "generator_subtitle": "Selecione entre os prompts populares abaixo ou escreva sua própria descrição para gerar ruído de buzina",
+    "advantages": {
+      "title": "Por que escolher nosso gerador de ruído de buzina?",
+      "items": [
+        {
+          "title": "Criação instantânea de ruído de buzina",
+          "description": "Crie ruído de buzina profissional e clipes de sinal instantaneamente a partir do texto. Nossa IA transforma suas descrições em buzina de carro, buzina elétrica e clipes de sinal de caminhão em segundos—sem bibliotecas de amostras ou edição manual. Precisa de clipes nítidos para interface ou áudio de sinal completo para uma cena? Gere variações ilimitadas com qualidade para transmissão. Obtenha ruídos de buzina autênticos para qualquer projeto.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Possibilidades criativas ilimitadas",
+          "description": "Crie qualquer estilo que imaginar: buzina de carro, buzina elétrica ou sinal de caminhão. A ferramenta entende descrições detalhadas e oferece liberdade criativa total. Explore opções infinitas para vídeos, jogos e aplicativos. De ruídos de buzina sutis a efeitos de sinal em camadas para cinema, obtenha o clipe certo para cada cenário.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualidade de áudio profissional",
+          "description": "Cada clipe do nosso gerador de ruído de buzina atende aos padrões de transmissão com saída de alta fidelidade. Algoritmos de ponta garantem ruídos de buzina e áudio de sinal de qualidade de estúdio. Todos os clipes estão prontos para produção e otimizados para uso profissional, com cobertura completa de frequência e resultados autênticos e naturais.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Perguntas frequentes sobre ruído de buzina",
+      "items": [
+        {
+          "question": "O que é um gerador de ruído de buzina?",
+          "answer": "Nosso gerador é uma ferramenta de IA que transforma texto em ruído de buzina personalizado e ruídos de buzina. Usa processamento de linguagem natural e síntese neural para produzir clipes profissionais—de buzina de carro e buzina elétrica a sinal de caminhão. Adequado para criadores, editores de vídeo e desenvolvedores de jogos que precisam de ruídos de buzina rápidos e autênticos com resultados precisos e de alta fidelidade."
+        },
+        {
+          "question": "Como o gerador funciona?",
+          "answer": "A ferramenta usa um pipeline em várias etapas para transformar texto em clipes de ruídos de buzina de alta qualidade. Analisa sua descrição para capturar intensidade, estilo e contexto e processa isso em redes neurais treinadas para síntese de sinal. Você pode solicitar clipes curtos para interface ou ambiência mais longa. Cada clipe atende aos padrões de transmissão."
+        },
+        {
+          "question": "O que torna este gerador de ruído de buzina único?",
+          "answer": "Nosso gerador se destaca pela personalização instantânea e qualidade profissional. Diferente de bibliotecas estáticas, ele cria ruídos de buzina sob medida sob demanda. Treinado com amostras de alta qualidade, entrega resultados realistas. Você obtém variações ilimitadas e liberdade criativa com controle fino."
+        },
+        {
+          "question": "Como escrevo prompts eficazes para ruído de buzina?",
+          "answer": "Escreva descrições claras e específicas. Experimente \"ruído de buzina para carro\" ou \"ruído de buzina para caminhão\". Inclua estilo (realista, cinematográfico), intensidade e contexto. O gerador responde bem a termos como buzina de carro, buzina elétrica, sinal de caminhão e ruído de buzina. Mais contexto gera melhores resultados."
+        },
+        {
+          "question": "Como posso usar ruído de buzina em conteúdo de vídeo?",
+          "answer": "Mapeie as cenas do seu vídeo e coloque clipes de ruídos de buzina personalizados onde eles agregam impacto. Crie clipes de buzina de carro e ruído de buzina para cada momento—de fundo sutil a hits dramáticos. Sobreponha áudio de sinal para resultados de ruídos de buzina ricos e envolventes que reforçam tempo ou lugar."
+        },
+        {
+          "question": "Como posso usar o gerador no desenvolvimento de jogos?",
+          "answer": "Nosso gerador suporta clipes de ruídos de buzina procedural para jogos. Crie variações para que os jogadores raramente ouçam o mesmo clipe duas vezes. Produza opções diferentes para interface, níveis e eventos mantendo um estilo consistente. A ferramenta entrega ruído de buzina de qualidade profissional que aumenta imersão e feedback."
+        },
+        {
+          "question": "Que tipos de ruído de buzina posso criar?",
+          "answer": "Você pode criar uma ampla gama: buzina de carro, buzina elétrica, sinal de caminhão e ambiência de sinal. Estilos do suave ao alto (realista, cinematográfico, vintage). A ferramenta lida com ruídos de buzina com qualidade consistente. Obtenha os ruídos de buzina certos para qualquer projeto. Cada clipe está pronto para produção."
+        },
+        {
+          "question": "Os clipes gerados são livres de royalties?",
+          "answer": "Sim. Todos os clipes do nosso gerador são livres de royalties e incluem licença comercial. Você pode usar o ruído de buzina e os ruídos de buzina gerados em qualquer projeto sem taxas extras ou atribuição. Cada clipe está liberado para uso imediato em trabalho profissional e comercial."
+        },
+        {
+          "question": "Qual qualidade o gerador produz?",
+          "answer": "Nosso gerador produz clipes de ruídos de buzina de nível profissional que atendem aos padrões da indústria. Você obtém opções de ruídos de buzina de alta resolução até 192 kHz/24-bit, faixa de frequência completa e dinâmica controlada. Cada clipe está pronto para transmissão e adequado para produção profissional e projetos criativos."
+        }
+      ]
+    }
+  }
+}

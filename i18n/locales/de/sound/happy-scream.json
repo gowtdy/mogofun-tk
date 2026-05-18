@@ -1,0 +1,71 @@
+{
+  "happy-scream": {
+    "meta": {
+      "title": "Freudenschrei",
+      "description": "Erstellen Sie mit unserer fortschrittlichen KI-Technologie sofort einen Freudenschrei. Erzeugen Sie verschiedene Klangtypen, darunter Naturklaenge, Instrumente und mehr.",
+      "keywords": "Freudenschrei, frohes Schreien"
+    },
+    "hero": {
+      "title": "Freudenschrei",
+      "subtitle": "Verwandeln Sie Textbeschreibungen sofort in hochwertigen Freudenschrei"
+    },
+    "generator_subtitle": "Waehlen Sie unten einen beliebten Prompt oder schreiben Sie Ihre eigene Beschreibung, um einen Freudenschrei zu erzeugen",
+    "advantages": {
+      "title": "Warum unseren Freudenschrei-Generator waehlen?",
+      "items": [
+        {
+          "title": "Sofortige Erstellung von Freudenschrei-Audio",
+          "description": "Erzeugen Sie professionellen Freudenschrei-Sound in Sekunden aus Text.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Flexible Stile fuer jede Szene",
+          "description": "Erstellen Sie Stile mit variabler Tonhoehe, Stimmung und Intensitaet fuer unterschiedliche Kontexte.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professionelle Audioqualitaet",
+          "description": "Alle generierten Clips erfuellen Produktionsstandards mit klarem, stabilem und direkt nutzbarem Klang.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Ueber den Freudenschrei-Generator",
+      "items": [
+        {
+          "question": "Was ist ein Freudenschrei-Generator?",
+          "answer": "Ein KI-Tool, das Text in individuelles, stimmartiges Audio umwandelt, ohne Aufnahme oder riesige Bibliotheken."
+        },
+        {
+          "question": "Wie funktioniert dieser Generator?",
+          "answer": "Er analysiert Ihre Beschreibung nach Stimmung, Intensitaet und Stil und erzeugt dann passendes Audio."
+        },
+        {
+          "question": "Was macht diesen Generator besonders?",
+          "answer": "Statt fixer Bibliotheken erstellt er neue Variationen auf Abruf aus einfachem Text."
+        },
+        {
+          "question": "Wie schreibe ich effektive Prompts fuer Freudenschrei?",
+          "answer": "Nutzen Sie klare, konkrete Beschreibungen, z. B. kurzer Jubelruf oder Konzertmenge, inklusive Energie und Laenge."
+        },
+        {
+          "question": "Wie nutze ich das generierte Audio in Content?",
+          "answer": "Sie koennen es unter Videos legen, fuer Akzente einsetzen oder mit anderen Spuren mischen."
+        },
+        {
+          "question": "Welche Audioarten kann ich erstellen?",
+          "answer": "Moeglich sind kurze Rufe, lange Jubelrufe, unterschiedliche Tonlagen und Stimmungen."
+        },
+        {
+          "question": "Ist das generierte Audio lizenzfrei?",
+          "answer": "Ja. Alle generierten Audios sind lizenzfrei und enthalten eine kommerzielle Nutzungslizenz."
+        },
+        {
+          "question": "Wie ist die Qualitaet des generierten Audios?",
+          "answer": "Die Ausgabe ist professionell, klar und dynamisch kontrolliert fuer direkte Nutzung in Produktionen."
+        }
+      ]
+    }
+  }
+}

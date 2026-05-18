@@ -1,0 +1,71 @@
+{
+  "door-bell-sound-effect": {
+    "meta": {
+      "title": "Effet sonore de sonnette",
+      "description": "Créez instantanément un effet sonore de sonnette grâce à notre IA avancée. Générez divers types de sons : nature, instruments, et plus encore.",
+      "keywords": "effet sonore de sonnette, effet sonore de cloche d’église"
+    },
+    "hero": {
+      "title": "Effet sonore de sonnette",
+      "subtitle": "Transformez instantanément une description textuelle en effet sonore de sonnette de haute qualité"
+    },
+    "generator_subtitle": "Choisissez parmi les invites populaires ci-dessous ou rédigez votre propre description pour générer un effet sonore de sonnette",
+    "advantages": {
+      "title": "Pourquoi choisir notre générateur d’effet sonore de sonnette ?",
+      "items": [
+        {
+          "title": "Création rapide d’effet sonore de sonnette",
+          "description": "Générez un effet sonore de sonnette soigné à partir d’un texte simple en quelques secondes. Vous pouvez prototyper des tonalités d’alerte pour applications, vidéos et démos interactives sans séance d’enregistrement ni superposition manuelle. L’itération rapide aide les équipes à comparer plusieurs styles de sonnerie avant export final.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Styles de cloche flexibles selon les scènes",
+          "description": "Façonnez timing, timbre, résonance et attaque pour correspondre aux interfaces modernes, transitions cinématographiques ou indices rétro. Demandez un effet sonore de sonnette net pour le quotidien, ou orientez-vous vers une ambiance de cloche d’église traditionnelle lorsque l’histoire le demande—vous guidez le modèle avec des mots de contexte et des indications de durée pour des résultats plus authentiques.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualité audio digne du pro",
+          "description": "Chaque sortie est propre, prête au mix et cohérente sur tous les appareils de lecture. Le générateur préserve le détail des transitoires et une dynamique équilibrée pour que chaque coup d’effet sonore de sonnette et chaque déclin d’effet sonore de cloche d’église restent clairs dans les mix denses, facilitant l’intégration en production et post-production.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "À propos de notre générateur d’effet sonore de sonnette",
+      "items": [
+        {
+          "question": "Qu’est-ce qu’un générateur d’effet sonore de sonnette ?",
+          "answer": "C’est un outil audio IA qui transforme des invites textuelles en indices façon cloche personnalisés. Au lieu de parcourir d’immenses bibliothèques, vous créez un effet sonore de sonnette adapté à l’ambiance, au rythme et au contexte de lecture de votre projet."
+        },
+        {
+          "question": "Comment fonctionne le générateur ?",
+          "answer": "Le modèle lit votre description pour des attributs comme brillance, déclin et force de frappe, puis synthétise un audio conforme. Vous pouvez affiner la formulation au fil des itérations pour passer d’un ping serré d’effet sonore de sonnette à une queue large d’effet sonore de cloche d’église aux textures métalliques plus riches."
+        },
+        {
+          "question": "Puis-je créer un style effet sonore de cloche d’église ?",
+          "answer": "Oui. Ajoutez du contexte : espace cathédrale, longue résonance, frappe plus lourde dans votre invite. Ces détails aident le modèle à livrer un caractère d’effet sonore de cloche d’église adapté aux scènes historiques et aux ouvertures dramatiques."
+        },
+        {
+          "question": "Comment rédiger des invites efficaces ?",
+          "answer": "Utilisez des descriptions concises incluant style source, timing et environnement. Par exemple mentionnez « court ring digital d’effet sonore de sonnette » ou « effet sonore de cloche d’église dans une nef de pierre avec longue queue » pour obtenir des résultats plus proches de votre usage final."
+        },
+        {
+          "question": "Où utiliser les sons de cloche générés ?",
+          "answer": "Ils conviennent aux interactions UI, transitions podcast, coupes cinématographiques, marqueurs tutoriels et systèmes de retour jeu. Employez un effet sonore de sonnette de marque pour des démos produit, ou placez un effet sonore de cloche d’église lointain sous des plans d’établissement—chaque sortie étant personnalisable, vous gardez une identité audio cohérente sur plusieurs formats."
+        },
+        {
+          "question": "L’audio généré est-il libre de droits ?",
+          "answer": "Oui. Les fichiers générés sont libres de droits selon nos conditions standard pour projets créateurs et commerciaux typiques. Consultez les détails de licence en vigueur si vous prévoyez de grandes campagnes ou des exigences de distribution particulières."
+        },
+        {
+          "question": "Quelle qualité puis-je attendre des exports ?",
+          "answer": "Vous obtenez des fichiers prêts prod avec transitoires nets, dynamique stable et lecture fiable sur tous les appareils. Cela accélère l’alignement du mix final, que vous livriez pour apps mobiles, médias web ou montages broadcast avec une couche subtile d’effet sonore de cloche d’église sous la musique."
+        },
+        {
+          "question": "Comment équilibrer la clarté de l’effet sonore de sonnette dans un mix ?",
+          "answer": "Placez l’indice avec une courte poche EQ autour des plages vocales, puis appliquez un contrôle modéré des pics pour éviter de masquer le dialogue. L’effet sonore de sonnette reste audible sans écraser la bande-son."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "bell-cartoon": {
+    "meta": {
+      "title": "Campana cartoon",
+      "description": "Crea campana cartoon al instante con nuestra tecnología de IA avanzada. Genera diversos tipos de sonido: sonido de campana, sonidos naturales, instrumentos musicales y más.",
+      "keywords": "campana cartoon, sonido de campana"
+    },
+    "hero": {
+      "title": "Campana cartoon",
+      "subtitle": "Transforma descripciones de texto en campana cartoon y sonido de campana de alta calidad al instante"
+    },
+    "generator_subtitle": "Elige entre los prompts populares de abajo o escribe tu propia descripción para generar campana cartoon",
+    "advantages": {
+      "title": "¿Por qué elegir nuestro generador?",
+      "items": [
+        {
+          "title": "Creación instantánea de campana cartoon",
+          "description": "Crea clips de campana cartoon profesionales al instante desde texto con nuestro generador de IA. La herramienta convierte tus ideas en audio de campanada y repique de alta calidad en segundos, sin bibliotecas de muestras ni edición manual. Genera variaciones ilimitadas para cualquier proyecto con unos clics. Ya sea sonido de campana, ding cartoon o campanada juguetona, ofrece salida de campana cartoon en calidad de estudio para tus proyectos creativos.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Posibilidades creativas ilimitadas",
+          "description": "Usa nuestro generador para crear cualquier estilo de campana cartoon que imagines—desde ding cartoon hasta campanada de puerta. La herramienta entiende descripciones complejas y te da libertad creativa total. Explora opciones infinitas de campana cartoon para vídeos, juegos y apps. Desde golpes únicos hasta sonido de campana en capas, obtén el clip perfecto para cada escenario.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Calidad de audio profesional",
+          "description": "Cada campana cartoon de nuestro generador cumple estándares de emisión con salida de alta fidelidad. Algoritmos punteros garantizan resultados en calidad de estudio para campana cartoon. Todos los clips están listos para producción y optimizados para uso profesional. Ofrece cobertura de frecuencia completa y dinámica controlada para salida auténtica de campanada y repique.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "FAQ del generador",
+      "items": [
+        {
+          "question": "¿Qué es un generador de campana cartoon?",
+          "answer": "Es una herramienta de IA que convierte descripciones de texto en audio personalizado de campanada y repique. La nuestra usa procesamiento de lenguaje natural y síntesis neural de audio para producir clips de calidad profesional. Modelos de deep learning entrenados con conjuntos de datos de campanada y repique entienden tu descripción y generan variaciones coincidentes. Es adecuado para creadores de contenido, editores de vídeo y desarrolladores de juegos que necesitan salida rápida y auténtica de campana cartoon. La herramienta usa tu contexto y detalles para crear audio matizado y en capas. Para sonido de campana pulido u otros estilos, ofrece resultados precisos y de alta fidelidad."
+        },
+        {
+          "question": "¿Cómo funciona?",
+          "answer": "La herramienta usa un pipeline en varias etapas para convertir texto en audio de alta calidad. Primero analiza tu descripción para capturar rasgos como tono, resonancia, duración y estilo. Esa información pasa por redes neuronales entrenadas para síntesis de campanada y repique, que manejan frecuencia, dinámica y decaimiento. Entrenada con muestras profesionales, la IA produce salida de campana cartoon natural. El filtrado y el postprocesado mantienen la calidad alta y garantizan que cada clip cumpla estándares de emisión."
+        },
+        {
+          "question": "¿Qué hace único este generador?",
+          "answer": "Nuestro generador destaca por la personalización instantánea y la calidad profesional. A diferencia de bibliotecas estáticas, crea clips de repique a medida bajo demanda. Está entrenado con muestras de alta calidad para resultados realistas, incluidos sonido de campana y estilos de campanada variados. El sistema entiende descripciones complejas y produce salida de campana cartoon con control fino del tono y el contexto. Obtienes variaciones ilimitadas y libertad creativa."
+        },
+        {
+          "question": "¿Cómo escribo prompts efectivos para el generador?",
+          "answer": "Escribe descripciones claras y concretas con varios detalles. En lugar de solo \"campanada\" o \"campana cartoon\", prueba \"campana cartoon con reverb\" o \"sonido de campana con eco.\" Incluye estilo, tono, duración y rasgos distintivos. Responde bien a términos como ding cartoon, timbre de puerta y resonancia. Para escenarios complejos, divídelos en partes y explica cómo se combinan. Más contexto da mejores resultados para campana cartoon."
+        },
+        {
+          "question": "¿Cómo usarlo en contenido de vídeo?",
+          "answer": "Mapea las escenas de tu vídeo y coloca clips de campana cartoon personalizados donde aporten impacto. Te ayuda a crear audio de campanada y repique para cada momento—desde señales sutiles hasta hits dramáticos. Superpone varias variaciones de campana cartoon para un audio rico y envolvente. Úsalo para transiciones, títulos y escenas clave. Usa momentos distintos como sonido de campana para subrayar tiempo o lugar. La herramienta te permite construir un estilo de audio único que encaje con tu contenido."
+        },
+        {
+          "question": "¿Cómo usarlo en desarrollo de juegos?",
+          "answer": "Soporta audio procedural para juegos. Crea variaciones de campana cartoon para que los jugadores rara vez oigan el mismo clip dos veces. Construye sistemas que reaccionen al estado del juego, acciones del jugador y condiciones. Produce opciones distintas para UI, niveles y eventos manteniendo un estilo consistente. La salida en capas puede mezclarse dinámicamente a partir de los parámetros del juego. La herramienta ofrece sonido de campana de calidad profesional que mejora la inmersión y el feedback."
+        },
+        {
+          "question": "¿Qué tipos de campana cartoon puedo crear?",
+          "answer": "Puedes crear una amplia gama de campana cartoon: campanada de iglesia, ding cartoon, sonido de campana para ambiente o UI, intensidades (suave a fuerte) y estilos (iglesia, puerta, cartoon, cinematográfico). La herramienta trata estas categorías con calidad consistente. Ya necesites campanada ligera o clips de repique fuertes, ofrece resultados profesionales para cualquier proyecto."
+        },
+        {
+          "question": "¿Los clips de campana cartoon generados son libres de derechos?",
+          "answer": "Sí. Todo el audio de nuestro generador es libre de derechos e incluye licencia comercial. Puedes usar los clips generados en cualquier proyecto sin cargos adicionales ni atribución. Cada clip, incluida la salida de sonido de campana, está autorizado para uso inmediato en trabajo profesional y comercial."
+        },
+        {
+          "question": "¿Qué calidad produce?",
+          "answer": "Produce audio de calidad profesional que cumple estándares de la industria. Obtienes opciones de alta resolución hasta 192 kHz/24-bit para campana cartoon, rango de frecuencia completo y dinámica controlada. Toda la salida está lista para emisión. Cada clip es adecuado para producción profesional y proyectos creativos."
+        }
+      ]
+    }
+  }
+}

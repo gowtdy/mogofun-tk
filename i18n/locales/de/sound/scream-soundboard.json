@@ -1,0 +1,75 @@
+{
+  "scream-soundboard": {
+    "meta": {
+      "title": "Schrei-Soundboard",
+      "description": "Erstellen Sie sofort ein Schrei-Soundboard mit unserer fortschrittlichen KI-Technologie. Erzeugen Sie verschiedene Klangtypen inkl. natürlicher Klänge, Musikinstrumente und mehr.",
+      "keywords": "Schrei-Soundboard, Schreie-Soundboard"
+    },
+    "hero": {
+      "title": "Schrei-Soundboard",
+      "subtitle": "Verwandeln Sie Textbeschreibungen sofort in hochwertiges Schrei-Soundboard"
+    },
+    "generator_subtitle": "Wählen Sie aus den beliebten Prompts unten oder schreiben Sie Ihre eigene Beschreibung, um ein Schrei-Soundboard zu erzeugen",
+    "advantages": {
+      "title": "Warum unseren Generator wählen?",
+      "items": [
+        {
+          "title": "Sofortige Schrei-Soundboard-Erstellung",
+          "description": "Erstellen Sie professionelle Schrei-Soundboard-Clips sofort aus Text mit unserem KI-Generator. Das Tool verwandelt Ihre Ideen in Sekunden in hochwertiges Schreie-Soundboard und Charakter-Audio – ohne Sample-Bibliotheken oder manuelle Bearbeitung. Erzeugen Sie unbegrenzte Variationen für Spiele, Videos und Apps. Ob Horror-Schrei-Soundboard, Echo-Effekte oder dramatische Rufe – der Generator liefert Studio-Qualität Schrei-Soundboard-Ausgabe für Ihre Projekte.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Unbegrenzte kreative Möglichkeiten",
+          "description": "Nutzen Sie unseren Generator, um jeden gewünschten Stil von Schrei-Soundboard zu erstellen – von dezenten Rufen bis zu intensivem Schreie-Soundboard. Das Tool versteht komplexe Beschreibungen und gibt Ihnen volle kreative Freiheit. Erkunden Sie Soundboard-Optionen für Spiele, Filme und Medien. Von Charakter-Schreien bis zu vielfältigen Stimmstilen für jedes Szenario – holen Sie sich den perfekten Schrei-Soundboard-Clip für Ihr Projekt.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professionelle Audio-Qualität",
+          "description": "Jedes Schrei-Soundboard aus unserem Generator erfüllt Sendestandards mit High-Fidelity-Ausgabe. Moderne Algorithmen sorgen für Studio-Qualität bei Schreie-Soundboard-Ergebnissen und anderen Stimmeffekten. Alle Soundboard-Effekte sind produktionsreif und für den professionellen Einsatz optimiert. Der Generator bietet vollständige Frequenzabdeckung und klare Dynamik für authentische Schreie. Sie klingen in jedem Projekt konsistent.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Generator-FAQ",
+      "items": [
+        {
+          "question": "Was ist dieser Generator?",
+          "answer": "Es ist ein KI-Tool, das Textbeschreibungen in individuelle Schrei-Soundboard- und Schreie-Soundboard-Soundeffekte umwandelt. Es nutzt natürliche Sprachverarbeitung und neuronale Audiosynthese für professionelle Schrei-Soundboard-Clips. Sie können Stimmclips für Horror, Spiele oder Filme erstellen. Es eignet sich für Content-Ersteller, Spieleentwickler und Filmemacher, die schnelle, authentische Schrei-Soundboard-Ausgabe brauchen. Der Generator unterstützt auch verschiedene Stile und Stimmungen für Schreie-Soundboard."
+        },
+        {
+          "question": "Wie funktioniert er?",
+          "answer": "Unser Generator nutzt eine mehrstufige Pipeline, um Text in hochwertiges Audio zu verwandeln. Zuerst analysiert er Ihre Beschreibung (Intensität, Charakter, Dauer). Diese Informationen laufen durch für Schrei- und Stimm synthese trainierte neuronale Netze. Mit professionellen Samples trainiert, erzeugt die KI natürlich klingendes Schrei-Soundboard und Schreie-Soundboard. Filterung und Nachbearbeitung halten die Qualität hoch und stellen sicher, dass jeder Stimm-Soundeffekt-Clip Sendestandards erfüllt."
+        },
+        {
+          "question": "Was macht diesen Generator einzigartig?",
+          "answer": "Unser Generator zeichnet sich durch sofortige Anpassung und professionelle Qualität aus. Anders als statische Bibliotheken erstellt er auf Anfrage maßgeschneidertes Schrei-Soundboard und Schreie-Soundboard. Das System versteht komplexe Beschreibungen und erzeugt Ausgabe mit feiner Kontrolle über Intensität und Stil. Sie erhalten unbegrenzte Variationen und kreative Freiheit. Soundeffekte für Spiele und Filme lassen sich ohne zusätzliche Produktion anpassen."
+        },
+        {
+          "question": "Wie schreibe ich wirksame Prompts?",
+          "answer": "Schreiben Sie klare, konkrete Beschreibungen. Probieren Sie „männlicher Todesschrei Horror“ oder „Echo-Schrei“ für Schrei-Soundboard. Geben Sie Intensität, Charaktertyp und Kontext an. Unser Generator reagiert gut auf Begriffe wie fallender Mann Schrei, Stöhnen und Ruf. Mehr Kontext liefert bessere Ergebnisse für Schreie-Soundboard und andere Stimmeffekte."
+        },
+        {
+          "question": "Wie nutze ich ihn in Videoinhalten?",
+          "answer": "Platzieren Sie individuelle Schrei-Soundboard- und Schreie-Soundboard-Clips dort, wo Szenen Spannung oder Reaktion brauchen. Der Generator hilft beim Erstellen von Charakter-Audio für Intros, Übergänge und Schlüsselmomente. Schichten Sie Soundboard-Variationen für reiches, fesselndes Sounddesign. Nutzen Sie ihn für Filme, Vlogs und Tutorials. Das Tool ermöglicht einen einzigartigen Audiostil zu Ihrem Content."
+        },
+        {
+          "question": "Wie nutze ich ihn in der Spieleentwicklung?",
+          "answer": "Unser Generator unterstützt prozedurales Audio für Spiele. Erstellen Sie Schrei-Soundboard- und Schreie-Soundboard-Variationen, damit Spieler selten denselben Clip zweimal hören. Bauen Sie Systeme, die auf Spielzustand, Gefahren und Events reagieren. Erzeugen Sie verschiedene Optionen für Charaktere, Jumpscares und Cutscenes bei einheitlichem Stil. Soundeffekte können dynamisch aus Spielparametern gemischt werden. Der Generator liefert professionelles Schreie-Soundboard für mehr Immersion und Wirkung."
+        },
+        {
+          "question": "Welche Arten von Schrei-Soundboard kann ich erstellen?",
+          "answer": "Sie können ein breites Spektrum erstellen: Horror-Schrei-Soundboard, Schrei-Soundboard für Spiele oder Filme, Echo-Schrei, fallender Mann Schrei und eigene Stile. Der Generator bearbeitet diese Kategorien mit gleichbleibender Qualität. Ob dezenten Ruf oder mutiges Schreie-Soundboard für jedes Szenario – das Tool liefert professionelle Ergebnisse."
+        },
+        {
+          "question": "Sind die generierten Schrei-Soundboard-Clips lizenzfrei?",
+          "answer": "Ja. Alle Audios unseres Generators sind lizenzfrei und enthalten eine kommerzielle Lizenz. Sie können die generierten Schrei-Soundboard und Schreie-Soundboard in jedem Projekt ohne zusätzliche Gebühren oder Namensnennung nutzen. Jeder Clip ist für sofortige Nutzung in professioneller und kommerzieller Arbeit freigegeben."
+        },
+        {
+          "question": "Welche Qualität liefert er?",
+          "answer": "Unser Generator liefert professionelles Schrei-Soundboard und Schreie-Soundboard nach Industriestandards. Sie erhalten Optionen in hoher Auflösung, vollen Frequenzbereich und klare Dynamik. Die gesamte Ausgabe ist sendefähig und für professionelle Produktion und kreative Projekte geeignet."
+        }
+      ]
+    }
+  }
+}

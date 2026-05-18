@@ -1,0 +1,75 @@
+{
+  "transition-sounds": {
+    "meta": {
+      "title": "Transition Sounds",
+      "description": "Instantly create transition sounds with our advanced AI technology. Generate various type sounds including natural sounds, musical instruments and more.",
+      "keywords": "transition sounds, sound transition"
+    },
+    "hero": {
+      "title": "Transition Sounds",
+      "subtitle": "Instantly transform text description into high-quality transition sounds"
+    },
+    "generator_subtitle": "Select from popular prompts below or write your own description to generate transition sounds",
+    "advantages": {
+      "title": "Why Choose Our Transition Sounds Generator?",
+      "items": [
+        {
+          "title": "Instant Transition Sounds Creation",
+          "description": "Generate professional transition sounds and sound transition instantly from text. Our tool turns your descriptions into whoosh, riser and scene-change audio in seconds—no large libraries or manual editing. Create unlimited variations for any project. Whether you need a sharp pass for cuts or a soft one for fades, the generator delivers clean, broadcast-ready results.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Unlimited Creative Possibilities",
+          "description": "Create any style of transition sounds you need: fast whooshes, slow sweeps, cinematic risers or subtle passes. The generator understands detailed descriptions and produces matching audio, so you get full creative freedom. Explore endless variations of sound transition for intros, scene changes, and edits. From subtle to dramatic, find the right fit for every project.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professional-Grade Audio Quality",
+          "description": "All transition sounds generated meet broadcast standards with high-fidelity output. The generator uses modern algorithms so each sound transition is clear and production-ready. All outputs are optimized for professional use in video, film, and content. Get consistent, studio-quality output for your work.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "About Transition Sounds Generator",
+      "items": [
+        {
+          "question": "What is a transition sounds generator?",
+          "answer": "A transition sounds generator is an AI tool that turns text into custom whoosh, swoosh and scene-change audio. It produces professional output and sound transition for cuts, fades, and scene changes. The system uses neural audio synthesis trained on real transition and impact sounds, so you get natural, usable results without recording or large libraries. It's built for editors, creators, and filmmakers who need quick, varied transition sounds for any project."
+        },
+        {
+          "question": "How does the transition sounds generator work?",
+          "answer": "Our transition sounds generator first reads your text description and picks out traits like speed, intensity, and style. It then runs this through models trained on whoosh, riser, and scene-change audio to synthesize matching output. You can request a sharp sound transition for hard cuts, a soft one for fades, or something in between. The result is a clean, ready-to-use file you can download and use in your edit."
+        },
+        {
+          "question": "What makes this transition sounds generator unique?",
+          "answer": "Unlike fixed libraries, our transition sounds generator creates new variations on demand from plain text. You get custom output and sound transition without searching through thousands of files. The AI is trained on high-quality scene-change and whoosh audio, so each result is consistent and professional. You can generate as many variations as you need, making it easy to find the right fit for every scene or cut."
+        },
+        {
+          "question": "How to write effective prompts for transition sounds?",
+          "answer": "Use clear, specific descriptions. For example: \"quick transition sounds for a cut\" or \"soft sound transition for a fade.\" Mention speed (fast, slow), weight (light, heavy), and context (film, vlog, promo). The generator responds well to terms like whoosh, swoosh, riser, and cinematic. The more detail you give, the closer the output will match your vision. Include length or style if it matters for your edit."
+        },
+        {
+          "question": "How to use transition sounds in video content?",
+          "answer": "Use transition sounds and sound transition to smooth cuts, highlight scene changes, or add energy. Place a short whoosh on cuts so scenes flow better. Layer a light pass under montages or graphics for a polished feel. Vary the intensity—stronger for action, softer for calm moments. Our generator lets you create enough variations so each cut or scene change has a fitting result without repetition."
+        },
+        {
+          "question": "How to use transition sounds in game development?",
+          "answer": "Transition sounds work well for level loads, menu changes, and UI in games. Use a crisp sound transition for screen changes and stronger whooshes for dramatic moments. Our generator supports many variations so you can keep a consistent style while avoiding repetition. Create distinct sets for different levels or menus. The result is clear, professional output that fits your game's feel."
+        },
+        {
+          "question": "What types of transition sounds can I create?",
+          "answer": "You can create a wide range of transition sounds and sound transition styles: fast or slow, light or heavy, short or long. Use them for video cuts, scene changes, UI, or any whoosh-style need. The generator handles different contexts and styles with consistent quality, from subtle passes to dramatic impacts. Explore various options for any production need."
+        },
+        {
+          "question": "Are the generated transition sounds royalty-free?",
+          "answer": "Yes. All transition sounds and sound transition from our generator are royalty-free and come with a commercial license. You can use them in any project without extra fees or attribution. Every generated file is cleared for professional and commercial use. Download as many as you need for your projects."
+        },
+        {
+          "question": "What is the quality of the generated transition sounds?",
+          "answer": "Our transition sounds generator outputs professional-grade audio that meets common broadcast and production standards. You get high-resolution files, full frequency range, and controlled dynamics so each sound transition is clear and ready to drop into your project. Every generated file is suitable for professional use in video, film, and content."
+        }
+      ]
+    }
+  }
+}

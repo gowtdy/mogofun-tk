@@ -1,0 +1,75 @@
+{
+  "bell-notification": {
+    "meta": {
+      "title": "Notificación de campana",
+      "description": "Crea notificación de campana al instante con nuestra tecnología de IA avanzada. Genera diversos tipos de sonido: naturales, instrumentos musicales y más.",
+      "keywords": "notificación de campana, campana de notificación"
+    },
+    "hero": {
+      "title": "Notificación de campana",
+      "subtitle": "Transforma descripciones de texto en notificación de campana de alta calidad al instante"
+    },
+    "generator_subtitle": "Elige entre los prompts populares de abajo o escribe tu propia descripción para generar notificación de campana",
+    "advantages": {
+      "title": "¿Por qué elegir nuestro generador de notificación de campana?",
+      "items": [
+        {
+          "title": "Creación instantánea de notificación",
+          "description": "Crea clips de notificación de campana profesionales al instante desde texto con nuestro generador de IA. La herramienta convierte tus ideas en audio de campanada y alerta de alta calidad en segundos, sin bibliotecas de muestras ni edición manual. Genera variaciones ilimitadas para cualquier proyecto con unos clics. Ya sea campana de notificación, campanada de app o ping en capas, el generador ofrece salida en calidad de estudio para tus proyectos creativos.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Posibilidades creativas ilimitadas",
+          "description": "Usa nuestro generador para crear cualquier estilo de notificación de campana que imagines—desde ping suave hasta campanada de puerta. La herramienta entiende descripciones complejas y te da libertad creativa total. Explora opciones infinitas para vídeos, juegos y apps. Desde golpes únicos hasta campana de notificación en capas, obtén el clip perfecto para cada escenario.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Calidad de audio profesional",
+          "description": "Cada notificación de campana de nuestro generador cumple estándares de emisión con salida de alta fidelidad. Algoritmos punteros garantizan resultados en calidad de estudio. Toda la salida de campana de notificación está lista para producción y optimizada para uso profesional. El generador ofrece cobertura de frecuencia completa y dinámica controlada para salida auténtica de campanada y alerta.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "FAQ generador de notificación de campana",
+      "items": [
+        {
+          "question": "¿Qué es un generador de notificación de campana?",
+          "answer": "Un generador de notificación de campana es una herramienta de IA que convierte descripciones de texto en audio personalizado de campanada y alerta. El nuestro usa procesamiento de lenguaje natural y síntesis neural de audio para producir clips de calidad profesional. Modelos de deep learning entrenados con conjuntos de datos de campanada entienden tu descripción y generan variaciones coincidentes. Es adecuado para creadores de contenido, editores de vídeo y desarrolladores de apps que necesitan salida rápida y auténtica de notificación de campana. El generador usa tu contexto y detalles para crear audio matizado y en capas. Para campanada de notificación pulida u otros estilos, ofrece resultados precisos y de alta fidelidad."
+        },
+        {
+          "question": "¿Cómo funciona el generador?",
+          "answer": "La herramienta usa un pipeline en varias etapas para convertir texto en audio de alta calidad. Primero analiza tu descripción para capturar rasgos como tono, resonancia, duración y estilo. Esa información pasa por redes neuronales entrenadas para síntesis de campanada y alerta, que manejan frecuencia, dinámica y decaimiento. Entrenado con muestras profesionales, la IA produce notificación de campana natural. El filtrado y el postprocesado mantienen la calidad alta y garantizan que cada clip de campana de notificación cumpla estándares de emisión."
+        },
+        {
+          "question": "¿Qué hace único este generador?",
+          "answer": "Nuestro generador destaca por la personalización instantánea y la calidad profesional. A diferencia de bibliotecas estáticas, crea clips de campanada a medida bajo demanda. Está entrenado con muestras de alta calidad para resultados realistas, incluidos campana de notificación y estilos de campanada variados. El sistema entiende descripciones complejas y produce salida de notificación de campana con control fino del tono y el contexto. Obtienes variaciones ilimitadas y libertad creativa."
+        },
+        {
+          "question": "¿Cómo escribo prompts efectivos para el generador?",
+          "answer": "Escribe descripciones claras y concretas con varios detalles. En lugar de solo \"campanada\", prueba \"notificación de campana con reverb\" o \"campana de notificación con eco.\" Incluye estilo, tono, duración y rasgos distintivos. El generador responde bien a términos como ping de app, campanada de puerta y resonancia. Para escenarios complejos, divídelos en partes y explica cómo se combinan. Más contexto da mejores resultados para notificación de campana y campana de notificación."
+        },
+        {
+          "question": "¿Cómo usar el generador en contenido de vídeo?",
+          "answer": "Mapea las escenas de tu vídeo y coloca clips de notificación de campana personalizados donde aporten impacto. El generador te ayuda a crear audio de campanada y alerta para cada momento—desde señales sutiles hasta hits dramáticos. Superpone varias variaciones de campana de notificación para un audio rico y envolvente. Úsalo para transiciones, títulos y escenas clave. Usa momentos distintos como campana de notificación para subrayar tiempo o lugar. La herramienta te permite construir un estilo de audio único que encaje con tu contenido."
+        },
+        {
+          "question": "¿Cómo usar el generador en desarrollo de juegos?",
+          "answer": "El generador soporta audio procedural para juegos. Crea variaciones de notificación de campana para que los jugadores rara vez oigan el mismo clip dos veces. Construye sistemas que reaccionen al estado del juego, acciones del jugador y condiciones. Produce opciones distintas de campana de notificación para UI, niveles y eventos manteniendo un estilo consistente. La salida en capas puede mezclarse dinámicamente a partir de los parámetros del juego. El generador ofrece audio de calidad profesional que mejora la inmersión y el feedback."
+        },
+        {
+          "question": "¿Qué tipos de notificación puedo crear?",
+          "answer": "Puedes crear una amplia gama de notificación de campana: campanada de app, ping de puerta, campana de notificación para ambiente o UI, intensidades (suave a fuerte) y estilos (app, puerta, cartoon, cinematográfico). La herramienta trata estas categorías de notificación de campana con calidad consistente. Ya necesites campanada ligera o clips de alerta fuertes, el generador ofrece resultados profesionales para cualquier proyecto."
+        },
+        {
+          "question": "¿Los clips de notificación generados son libres de derechos?",
+          "answer": "Sí. Todo el audio de nuestro generador es libre de derechos e incluye licencia comercial. Puedes usar los clips de notificación de campana generados en cualquier proyecto sin cargos adicionales ni atribución. Cada clip, incluida la salida de campana de notificación, está autorizado para uso inmediato en trabajo profesional y comercial."
+        },
+        {
+          "question": "¿Qué calidad produce el generador?",
+          "answer": "El generador produce audio de notificación de campana de calidad profesional que cumple estándares de la industria. Obtienes opciones de alta resolución hasta 192 kHz/24-bit para campana de notificación, rango de frecuencia completo y dinámica controlada. Toda la salida está lista para emisión. Cada clip es adecuado para producción profesional y proyectos creativos."
+        }
+      ]
+    }
+  }
+}

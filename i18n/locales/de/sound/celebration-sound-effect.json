@@ -1,0 +1,75 @@
+{
+  "celebration-sound-effect": {
+    "meta": {
+      "title": "Feier-Soundeffekt",
+      "description": "Erstellen Sie sofort Feier-Soundeffekte mit unserer fortschrittlichen KI-Technologie. Erzeugen Sie verschiedene Klangtypen wie Naturgeräusche, Instrumente und mehr.",
+      "keywords": "Feier-Soundeffekt, Feier-Sound"
+    },
+    "hero": {
+      "title": "Feier-Soundeffekt",
+      "subtitle": "Verwandeln Sie Textbeschreibungen sofort in hochwertige Feier-Soundeffekte"
+    },
+    "generator_subtitle": "Wählen Sie aus den beliebten Prompts unten oder schreiben Sie Ihre eigene Beschreibung, um Feier-Soundeffekte zu erzeugen",
+    "advantages": {
+      "title": "Warum unseren Feier-Soundeffekt-Generator wählen?",
+      "items": [
+        {
+          "title": "Sofortige Erstellung von Feier-Soundeffekten",
+          "description": "Erzeugen Sie professionelle Feier-Soundeffekte sofort aus Text. Unser Tool verwandelt Ihre Beschreibungen in Sekunden in Jubel, Applaus, Partytrompeten und Konfetti-Pops—ohne große Bibliotheken oder manuelle Bearbeitung. Erstellen Sie unbegrenzte Variationen für Video, Werbung oder Events. Ob Feier-Soundeffekt der Menge, Siegesfanfare oder Geburtstags-Party-Effekte, der Generator liefert saubere, sendefähige Ergebnisse.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Unbegrenzte kreative Möglichkeiten",
+          "description": "Erstellen Sie jeden gewünschten Stil von Feier-Soundeffekt: Massenjubel, Sektkorken-Pop, Feuerwerk oder dezente Effekte. Der Generator versteht detaillierte Beschreibungen und erzeugt passende Audiodateien für volle kreative Freiheit. Erkunden Sie Variationen für Film, Podcasts und Content. Von leisem Applaus bis zum großen Party-Feier-Soundeffekt—finden Sie die passende Variante für jedes Projekt.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professionelle Audioqualität",
+          "description": "Alle erzeugten Feier-Soundeffekte erfüllen Sendestandards mit hochauflösender Ausgabe. Der Generator nutzt moderne Algorithmen, sodass jedes Feier-Audio klar und produktionsreif ist. Die Ausgaben sind für Video, Film und Medien optimiert. Erhalten Sie konsistentes, studiogerechtes Feier-Audio für Ihre Arbeit.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Über den Feier-Soundeffekt-Generator",
+      "items": [
+        {
+          "question": "Was ist ein Feier-Soundeffekt-Generator?",
+          "answer": "Ein Feier-Soundeffekt-Generator ist ein KI-Tool, das Text in individuelle Feier-Soundeffekte wie Jubel, Applaus, Partytrompeten und Fanfaren umwandelt. Es erzeugt professionelles Audio für Video, Spiele und Werbung ohne Aufnahme oder große Bibliotheken. Das System nutzt neuronale Synthese, trainiert auf echten Feier- und Massen-Audios, für natürliche, nutzbare Ergebnisse. Es ist für Creator gedacht, die schnelles, vielfältiges Feier-Audio für jedes Projekt brauchen."
+        },
+        {
+          "question": "Wie funktioniert der Feier-Soundeffekt-Generator?",
+          "answer": "Unser Generator liest Ihre Textbeschreibung und erkennt Merkmale wie Stimmung, Intensität und Eventtyp. Anschließend synthetisiert er den passenden Feier-Soundeffekt—Massenjubel, Applaus, Party-Explosionen oder Siegesfanfare. Sie können einen Hochzeits-Toast-Pop, Sportpublikum-Geschrei oder Geburtstags-Party-Lärm anfordern. Das Ergebnis ist eine saubere, einsatzbereite Datei zum Herunterladen und Einbinden in Ihr Projekt."
+        },
+        {
+          "question": "Was macht diesen Feier-Soundeffekt-Generator einzigartig?",
+          "answer": "Anders als feste Bibliotheken erstellt unser Feier-Soundeffekt-Generator auf Anfrage neue Variationen aus reinem Text. Sie erhalten individuelles Feier-Audio ohne Tausende von Dateien zu durchsuchen. Die KI ist mit hochwertigem Party- und Massen-Audio trainiert, sodass jedes Ergebnis konsistent und professionell ist. Erzeugen Sie so viele Variationen wie nötig für jede Szene oder jeden Schnitt."
+        },
+        {
+          "question": "Wie schreibt man wirksame Prompts für Feier-Soundeffekte?",
+          "answer": "Nutzen Sie klare, konkrete Beschreibungen. Zum Beispiel: „Masse jubelt bei Sport-Sieg“ oder „Geburtstags-Party-Feier-Audio mit Konfetti.“ Nennen Sie Event (Hochzeit, Spiel, Party), Intensität (dezent, laut, explosiv) und Elemente (Applaus, Trompeten, Jubel). Der Generator reagiert gut auf Begriffe wie Jubel, Applaus, Party und Feier-Audio. Mehr Details helfen der Ausgabe, Ihrer Vorstellung zu entsprechen."
+        },
+        {
+          "question": "Wie nutzt man Feier-Soundeffekte in Video-Content?",
+          "answer": "Setzen Sie Feier-Soundeffekte ein, um Siege, Enden oder freudige Momente hervorzuheben. Jubel der Menge unter B-Roll legen, Applaus für Enthüllungen hinzufügen oder dezentes Feier-Audio für Übergänge. Variieren Sie die Lautstärke—lauter bei Höhepunkten, leiser bei sanften Momenten. Unser Generator ermöglicht genug Variationen, sodass jede Szene ein passendes Feier-Audio ohne Wiederholung hat."
+        },
+        {
+          "question": "Wie nutzt man Feier-Soundeffekte in der Spieleentwicklung?",
+          "answer": "Feier-Soundeffekte eignen sich für Level-Abschluss, Achievements und Siegesbildschirme. Nutzen Sie Jubel für Siege, Fanfaren für Meilensteine und Feier-Audio für Belohnungen. Unser Generator unterstützt viele Variationen für einen einheitlichen Stil. Erstellen Sie klare Sets für verschiedene Spielmomente mit professioneller Ausgabe."
+        },
+        {
+          "question": "Welche Arten von Feier-Soundeffekten kann ich erstellen?",
+          "answer": "Sie können eine große Bandbreite an Feier-Soundeffekten erstellen: Massenjubel, Applaus, Partytrompeten, Sektkorken-Pop, Feuerwerk, Konfetti, Siegesfanfare und Geburtstags-Effekte. Nutzen Sie sie für Film, Spiele, Podcasts oder jedes Projekt mit Feier-Audio. Der Generator behandelt verschiedene Kontexte und Stile mit gleichbleibender Qualität."
+        },
+        {
+          "question": "Sind die erzeugten Feier-Soundeffekte lizenzfrei?",
+          "answer": "Ja. Alle von unserem Generator erzeugten Feier-Soundeffekte sind lizenzfrei und mit kommerzieller Lizenz. Sie können sie in jedem Projekt ohne zusätzliche Gebühren oder Namensnennung verwenden. Jede erzeugte Feier-Soundeffekt-Datei ist für professionelle und kommerzielle Nutzung freigegeben. Laden Sie so viele herunter, wie Sie für Ihre Projekte benötigen."
+        },
+        {
+          "question": "Wie ist die Qualität der erzeugten Feier-Soundeffekte?",
+          "answer": "Unser Feier-Soundeffekt-Generator liefert professionelles Audio, das gängigen Sendestandards entspricht. Sie erhalten hochauflösende Dateien, vollen Frequenzbereich und kontrollierte Dynamik, sodass jedes Feier-Audio klar und direkt einsetzbar ist. Jede erzeugte Datei eignet sich für professionelle Nutzung in Video, Film und Content."
+        }
+      ]
+    }
+  }
+}

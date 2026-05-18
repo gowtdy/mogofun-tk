@@ -1,0 +1,79 @@
+{
+  "sound-effect-soundboard": {
+    "meta": {
+      "title": "Tablero de Efectos de Sonido",
+      "description": "Crea efectos de sonido únicos con nuestro avanzado tablero de efectos de sonido, genera varios tipos incluyendo sonidos naturales, instrumentos musicales y más.",
+      "keywords": "tablero de efectos de sonido, panel de efectos de sonido"
+    },
+    "hero": {
+      "title": "Tablero de Efectos de Sonido",
+      "subtitle": "Transforma tus descripciones de texto en efectos de sonido de alta calidad"
+    },
+    "generator_subtitle": "Selecciona de los prompts populares a continuación o escribe tu propia descripción para generar efectos de sonido",
+    "advantages": {
+      "title": "¿Por Qué Elegir Nuestro Tablero de Efectos de Sonido?",
+      "items": [
+        {
+          "title": "Clips Instantáneos, Listos para Usar",
+          "description": "Genera clips de audio de calidad profesional en segundos desde prompts de texto. Este tablero de efectos de sonido te ayuda a construir una biblioteca limpia rápidamente—sin buscar en carpetas ni edición manual. Guarda tus favoritos en tu panel de efectos de sonido para reproducción rápida y descargas.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Posibilidades Creativas Ilimitadas",
+          "description": "Crea cualquier cosa desde ambiente natural hasta efectos futuristas. Con el tablero de efectos de sonido, puedes iterar en variaciones, ajustar ambiente e intensidad, y organizar resultados en un panel de efectos de sonido que se adapte a tu flujo de trabajo.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Calidad de Audio de Grado Profesional",
+          "description": "Cada salida es de alta fidelidad y lista para producción. Usa el tablero de efectos de sonido para mantener calidad consistente en todos los proyectos, luego publica tus mejores selecciones en un panel de efectos de sonido para equipos, creadores y editores.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Acerca del Tablero de Efectos de Sonido",
+      "items": [
+        {
+          "question": "¿Qué es un tablero de efectos de sonido?",
+          "answer": "Un tablero de efectos de sonido es una forma rápida de generar, organizar y previsualizar clips de audio en un solo lugar. En lugar de navegar por bibliotecas enormes, describes lo que necesitas y el tablero de efectos de sonido crea resultados reproducibles que puedes guardar, renombrar y reutilizar. Cuando quieras un diseño curado para acceso rápido, puedes organizar favoritos como un panel de efectos de sonido."
+        },
+        {
+          "question": "¿Cómo funciona el tablero de efectos de sonido?",
+          "answer": "El tablero de efectos de sonido convierte tu prompt de texto en audio analizando la intención (fuente, textura, duración y estado de ánimo) y sintetizando clips coincidentes. Luego puedes revisar múltiples variaciones, mantener las mejores tomas y colocarlas en un panel de efectos de sonido para reproducción instantánea durante la edición, transmisión o prototipado."
+        },
+        {
+          "question": "¿Qué hace útil este flujo de trabajo del panel de efectos de sonido?",
+          "answer": "Obtienes velocidad y consistencia: genera variaciones rápidamente, audiciona clips al instante y mantén un conjunto limpio de recursos de referencia. El tablero de efectos de sonido te ayuda a iterar, mientras que un panel de efectos de sonido te ayuda a estandarizar tus mejores clips para uso repetido en videos, juegos y aplicaciones."
+        },
+        {
+          "question": "¿Cómo escribo mejores prompts para el tablero de efectos de sonido?",
+          "answer": "Sé específico sobre la fuente y el contexto (por ejemplo, \"portazo de puerta de metal en un pasillo pequeño\"), luego agrega detalles como distancia, intensidad, textura y duración. Si estás construyendo un conjunto, solicita 3-5 variaciones y mantén las mejores en tu panel de efectos de sonido."
+        },
+        {
+          "question": "¿Cómo uso un panel de efectos de sonido en la edición de video?",
+          "answer": "Mantén un pequeño conjunto de clips reutilizables (golpes, silbidos, camas de ambiente, toques de UI) y actívalos mientras cortas para acelerar la iteración. Con el tablero de efectos de sonido puedes generar clips faltantes bajo demanda, luego agregarlos a un panel de efectos de sonido para mantener un estilo consistente entre episodios."
+        },
+        {
+          "question": "¿Cómo pueden los desarrolladores de juegos usar el tablero de efectos de sonido?",
+          "answer": "Úsalo para generar familias de clips (pasos, UI, impactos) con carácter consistente, luego almacena el conjunto aprobado como un panel de efectos de sonido para exportación rápida e iteración. Esto mantiene la variación alta sin reconstruir recursos desde cero."
+        },
+        {
+          "question": "¿Puede crear ambiente, ruido blanco y fondos?",
+          "answer": "Sí. Describe la escena, densidad, movimiento y espacio (por ejemplo, \"lluvia constante en un techo de metal, trueno distante, reverberación de habitación pequeña\"). El tablero de efectos de sonido generará fondos en capas, y puedes mantener un paquete de ambiente consistente dentro de tu panel de efectos de sonido."
+        },
+        {
+          "question": "¿Qué tipos de clips puedo generar?",
+          "answer": "Puedes generar ambiente, texturas mecánicas y de vehículos, toques de UI, impactos, transiciones y efectos estilizados. El tablero de efectos de sonido es flexible para necesidades tanto realistas como cinematográficas, y un panel de efectos de sonido te ayuda a mantener el mejor conjunto organizado."
+        },
+        {
+          "question": "¿Los clips generados están libres de regalías?",
+          "answer": "Sí. Las salidas del tablero de efectos de sonido están libres de regalías e incluyen una licencia comercial, por lo que puedes usarlas en videos, juegos y aplicaciones. Guarda los recursos aprobados en un panel de efectos de sonido para compartir con tu equipo."
+        },
+        {
+          "question": "¿Qué calidad de audio puedo esperar?",
+          "answer": "El tablero de efectos de sonido produce audio de alta fidelidad diseñado para uso en producción, con dinámicas limpias y cobertura de frecuencia amplia. Puedes previsualizar rápidamente, luego exportar y reutilizar tus mejores clips desde tu panel de efectos de sonido."
+        }
+      ]
+    }
+  }
+}

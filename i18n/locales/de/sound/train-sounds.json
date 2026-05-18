@@ -1,0 +1,75 @@
+{
+  "train-sounds": {
+    "meta": {
+      "title": "Zuggeräusche",
+      "description": "Erstellen Sie sofort Zuggeräusche mit unserer fortschrittlichen KI-Technologie. Erzeugen Sie verschiedene Audiotypen: natürliche Töne, Instrumente und mehr.",
+      "keywords": "Zuggeräusche, Zuggeräusch"
+    },
+    "hero": {
+      "title": "Zuggeräusche",
+      "subtitle": "Verwandeln Sie Textbeschreibungen sofort in hochwertige Zuggeräusche"
+    },
+    "generator_subtitle": "Wählen Sie aus den beliebten Prompts unten oder schreiben Sie Ihre eigene Beschreibung, um Zuggeräusche zu erzeugen",
+    "advantages": {
+      "title": "Warum unseren Zuggeräusche-Generator wählen?",
+      "items": [
+        {
+          "title": "Sofortige Zuggeräusche-Erstellung",
+          "description": "Erzeugen Sie professionelle Zuggeräusche sofort aus Text. Unser Tool verwandelt Ihre Beschreibungen in Sekunden in Pfeife und Vorbeifahr-Clips—ohne große Bibliotheken oder manuelle Bearbeitung. Erstellen Sie unbegrenzte Variationen für jedes Projekt. Ob Sie knackige Zuggeräusche für die UI oder volles Zuggeräusch für eine Szene brauchen, der Generator liefert saubere, sendefähige Ergebnisse.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Unbegrenzte kreative Möglichkeiten",
+          "description": "Erstellen Sie jeden gewünschten Zuggeräusche-Stil: Pfeife, Vorbeifahrt, Innenkabine oder Zuggeräusch-Atmosphäre. Der Generator versteht detaillierte Beschreibungen und erzeugt passendes Audio, für volle kreative Freiheit. Erkunden Sie endlose Variationen von Zuggeräuschen für Spiele, Videos und Apps. Von dezent bis dramatisch—finden Sie die passende Variante für jedes Projekt.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professionelle Audioqualität",
+          "description": "Alle erzeugten Zuggeräusche entsprechen Sendestandards mit hochauflösender Ausgabe. Der Generator nutzt moderne Algorithmen, sodass jeder Clip klar und produktionsreif ist. Alle Ausgaben sind für den professionellen Einsatz in Video, Spielen und Content optimiert. Erhalten Sie konsistente, studiogerechte Zuggeräusche und Zuggeräusch für Ihre Arbeit.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Über den Zuggeräusche-Generator",
+      "items": [
+        {
+          "question": "Was ist ein Zuggeräusche-Generator?",
+          "answer": "Ein Zuggeräusche-Generator ist ein KI-Tool, das Text in individuelles Zuggeräusch und Eisenbahn-Audio umwandelt. Er erzeugt professionelle Ausgabe für Spiele, Videos und Apps. Das System nutzt neuronale Audiosynthese, trainiert auf echten Eisenbahn-Samples, sodass Sie natürliche, nutzbare Ergebnisse ohne Aufnahme oder große Bibliotheken erhalten. Er ist für Creator, Spieleentwickler und Cutter gedacht, die schnelle, vielfältige Clips für jedes Projekt brauchen."
+        },
+        {
+          "question": "Wie funktioniert der Zuggeräusche-Generator?",
+          "answer": "Unser Generator liest zuerst Ihre Textbeschreibung und extrahiert Merkmale wie Intensität, Stil und Kontext. Diese werden durch Modelle geleitet, die auf Pfeife, Eisenbahn und Vorbeifahrt-Audio trainiert sind, um passende Clips zu synthetisieren. Sie können ein kurzes Zuggeräusch für die UI oder längere Atmosphäre anfordern. Das Ergebnis ist eine saubere, einsatzbereite Datei zum Download und Einsatz in Ihrem Projekt."
+        },
+        {
+          "question": "Was macht diesen Zuggeräusche-Generator einzigartig?",
+          "answer": "Anders als feste Bibliotheken erstellt unser Generator auf Anfrage neues Zuggeräusch und Eisenbahn-Audio aus reinem Text. Sie erhalten individuelle Clips ohne Durchsuchen tausender Dateien. Die KI ist auf hochwertige Eisenbahn-Samples trainiert, jede Ausgabe ist konsistent und professionell. Sie können beliebig viele Variationen erzeugen und so die passende für jede Szene oder Interaktion finden."
+        },
+        {
+          "question": "Wie schreibt man wirksame Prompts für Zuggeräusche?",
+          "answer": "Nutzen Sie klare, konkrete Beschreibungen. Zum Beispiel: „Zuggeräusch für eine Pfeife“ oder „Vorbeifahrt“. Nennen Sie Stil (realistisch, filmisch), Kontext (Spiel, Video, Film) und Intensität. Der Generator reagiert gut auf Begriffe wie Pfeife, Eisenbahn, Vorbeifahrt und Hupe. Je detaillierter die Angaben, desto näher am gewünschten Ergebnis. Geben Sie bei Bedarf Länge oder Stil für Ihr Projekt an."
+        },
+        {
+          "question": "Wie setzt man Eisenbahn-Audio in Video-Content ein?",
+          "answer": "Nutzen Sie Zuggeräusch und Eisenbahn-Audio, um Reiseszenen, Dokumentationen oder Werbung realistischer zu machen. Setzen Sie eine kurze Pfeife oder Vorbeifahrt ein, wo es zur Aktion passt. Legen Sie Clips oder Kabinen-Atmosphäre für Schlüsselmomente in Montagen. Variieren Sie die Intensität—dezent im Hintergrund, klarer im Fokus. Unser Generator ermöglicht genug Variationen, sodass jede Szene ein passendes Ergebnis ohne Wiederholung hat."
+        },
+        {
+          "question": "Wie nutzt man Eisenbahn-Audio in der Spieleentwicklung?",
+          "answer": "Zuggeräusch und Eisenbahn-Clips eignen sich für Transportspiele, Open-World-Titel und Level-Atmosphäre. Verwenden Sie ein knackiges Zuggeräusch für UI oder Cutscene und vollere Atmosphäre für In-Game-Szenen. Unser Generator unterstützt viele Variationen, sodass Sie einen einheitlichen Stil beibehalten und Wiederholung vermeiden können. Erstellen Sie eigene Sets für verschiedene Orte oder Epochen. Das Ergebnis ist klares, professionelles Audio, das zum Feeling Ihres Spiels passt."
+        },
+        {
+          "question": "Welche Arten von Zuggeräuschen kann ich erstellen?",
+          "answer": "Sie können ein breites Spektrum an Zuggeräuschen erstellen: Pfeife, Vorbeifahrt, Innenkabine, Atmosphäre und Hupe. Nutzen Sie sie für Spiele, Videos, Film oder jeden eisenbahnbezogenen Bedarf. Der Generator verarbeitet verschiedene Kontexte und Stile mit gleichbleibender Qualität, von Einzelschlägen bis zu mehrschichtigen Clips. Erkunden Sie verschiedene Optionen für jeden Produktionsbedarf."
+        },
+        {
+          "question": "Sind die erzeugten Clips lizenzfrei?",
+          "answer": "Ja. Alle Zuggeräusch-Clips aus unserem Generator sind lizenzfrei und mit einer kommerziellen Lizenz versehen. Sie können das erzeugte Audio in jedem Projekt ohne zusätzliche Gebühren oder Namensnennung verwenden. Jede erzeugte Datei ist für professionelle und kommerzielle Nutzung freigegeben. Laden Sie so viele herunter, wie Sie für Ihre Projekte benötigen."
+        },
+        {
+          "question": "Wie ist die Qualität der erzeugten Zuggeräusche?",
+          "answer": "Unser Generator liefert professionelle Zuggeräusche, die gängigen Sende- und Produktionsstandards entsprechen. Sie erhalten hochauflösende Dateien, vollen Frequenzbereich und kontrollierte Dynamik, sodass jeder Clip klar und direkt einsetzbar ist. Jedes erzeugte Zuggeräusch und alle Zuggeräusche eignen sich für den professionellen Einsatz in Video, Spielen und Apps."
+        }
+      ]
+    }
+  }
+}

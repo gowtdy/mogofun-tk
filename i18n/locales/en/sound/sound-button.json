@@ -1,0 +1,71 @@
+{
+  "sound-button": {
+    "meta": {
+      "title": "Sound Button",
+      "description": "Instantly create sound button cues with our advanced AI technology. Generate various types of audio including natural audio, musical instruments and more.",
+      "keywords": "sound button, ui click sound"
+    },
+    "hero": {
+      "title": "Sound Button",
+      "subtitle": "Instantly transform text description into high-quality sound button audio"
+    },
+    "generator_subtitle": "Select from popular prompts below or write your own description to generate sound button audio",
+    "advantages": {
+      "title": "Why Choose Our Sound Button Generator?",
+      "items": [
+        {
+          "title": "Build Sound Button Clips in Seconds",
+          "description": "Create short, punchy cues from simple prompts without recording sessions or complex editing chains. The generator helps you test timing and tone quickly for streams, meme edits, app interactions, and branded content. Duplicate takes to compare a tight click against a softer variant until your sound button set feels consistent across actions.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Flexible Styles for Any Interaction",
+          "description": "Tune attack, decay, and character so each sound button fits your UX or content style. Generate playful clicks, dramatic stings, retro taps, and minimal confirm tones while keeping a consistent sonic identity. You can note intent and duration in the prompt for clearer, more discoverable results.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professional-Grade Audio Quality",
+          "description": "Every export is clean, mix-ready, and stable across devices. The model preserves transient detail and controlled dynamics so each sound button stays clear in dense mixes. A consistent loudness profile helps your cues translate well from mobile playback to desktop and streaming platforms.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "About Our Sound Button Generator",
+      "items": [
+        {
+          "question": "What is a sound button generator?",
+          "answer": "It is an AI sound tool that turns text prompts into short interactive cues. Instead of browsing long libraries, you can generate a sound button that matches your timing, mood, and platform requirements in a few seconds. You can create one cue per action, bundle a set for a product flow, and keep sounds consistent across screens."
+        },
+        {
+          "question": "How does the sound button tool work?",
+          "answer": "The model reads descriptors such as duration, timbre, punch, and playback context, then synthesizes audio around those cues. Start with a neutral baseline, then iterate to a brighter or softer take until it feels right in your UI. You can tighten timing, soften harshness, or increase energy until the output fits your interface."
+        },
+        {
+          "question": "Why is this better than static packs?",
+          "answer": "Static packs can feel repetitive and often require extra cleanup. Prompt-based generation lets you create cues that match your exact timing and generate variants for edge cases. That makes it easier to keep interactions distinct across menus, alerts, and content segments with a coherent sound system."
+        },
+        {
+          "question": "How should I write effective prompts?",
+          "answer": "Use concise instructions with intent and timing, such as \"short bright confirm click\" or \"warm blip with quick decay.\" Add context like \"for a settings toggle\" or \"for an error state\" to guide tone. Specific wording helps return cleaner results with fewer revisions."
+        },
+        {
+          "question": "Can I improve discoverability for alternate spellings?",
+          "answer": "Yes. If you publish supporting pages or metadata, you can include common misspellings in tags or aliases so searchers still find the right asset, while keeping the in-product experience focused on clear sound button use cases."
+        },
+        {
+          "question": "Where can I use generated cues?",
+          "answer": "Use them in game UI events, onboarding flows, social clips, stream overlays, quiz interactions, and editing transitions. Custom variants help your product keep a recognizable audio identity without repetitive stock artifacts."
+        },
+        {
+          "question": "Is generated sound royalty-free?",
+          "answer": "Yes. Generated outputs are royalty-free under our standard terms for common creator and commercial projects. Review current licensing details before large paid campaigns or specialized distribution requirements."
+        },
+        {
+          "question": "What quality can I expect from exports?",
+          "answer": "Expect production-ready files with clear transients, controlled peaks, and reliable playback across devices. This helps each sound button remain consistent in your pack. You can still apply final EQ and loudness processing to align each cue with your full mix and platform targets."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "truck-sounds": {
+    "meta": {
+      "title": "Sonidos de camión",
+      "description": "Crea sonidos de camión al instante con nuestra tecnología de IA avanzada. Genera distintos tipos de sonidos: naturales, instrumentos musicales y más.",
+      "keywords": "sonidos de camión, sonido camión"
+    },
+    "hero": {
+      "title": "Sonidos de camión",
+      "subtitle": "Transforma la descripción en texto en sonidos de camión de alta calidad al instante"
+    },
+    "generator_subtitle": "Elige entre las sugerencias populares de abajo o escribe tu propia descripción para generar sonidos de camión",
+    "advantages": {
+      "title": "¿Por qué elegir nuestro generador de sonidos de camión?",
+      "items": [
+        {
+          "title": "Creación instantánea de sonidos de camión",
+          "description": "Genera audio profesional al instante a partir de texto. Nuestra herramienta convierte tus descripciones en rugido de motor, bocina, frenado y sonido de carretera en segundos—sin grabación de campo ni grandes bibliotecas. Crea variaciones ilimitadas para vídeo, juegos o anuncios. Ya sea un diesel al ralentí, un camión pesado pasando o sonido de camión en el tráfico, el generador ofrece audio limpio y listo para emisión en cualquier proyecto.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Posibilidades creativas ilimitadas",
+          "description": "Crea el estilo que necesites: aceleraciones de camión, rugido lejano de autopista, pitidos de marcha atrás o ambiente de cabina. El generador entiende descripciones detalladas y produce audio acorde para total libertad creativa. Explora variaciones para cine, podcasts y contenido. Del fondo sutil al paso dramático, encuentra lo que encaje en cada proyecto.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Calidad de audio profesional",
+          "description": "Todo el audio generado cumple estándares de emisión con salida de alta fidelidad. El generador usa algoritmos modernos para que cada resultado sea claro y listo para producción. Las salidas están optimizadas para vídeo, cine y medios. Obtén audio consistente y de calidad de estudio para tu trabajo.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Sobre el generador de sonidos de camión",
+      "items": [
+        {
+          "question": "¿Qué es un generador de sonidos de camión?",
+          "answer": "Un generador de sonidos de camión es una herramienta de IA que convierte texto en audio personalizado (motor, bocina, ruido de carretera). Produce sonido de camión profesional para vídeo, juegos y anuncios sin grabación ni grandes bibliotecas. El sistema usa síntesis neuronal entrenada con audio real de vehículos para resultados naturales y utilizables. Está pensado para creadores que necesitan efectos de sonido de camión rápidos y variados en cualquier proyecto."
+        },
+        {
+          "question": "¿Cómo funciona el generador de sonidos de camión?",
+          "answer": "El generador lee tu descripción en texto y extrae tipo de vehículo, velocidad y entorno. Luego sintetiza audio acorde: aceleraciones, bocinas, frenado o tráfico. Puedes pedir un diesel al ralentí, un camión pasando o sonido de camión en un aparcamiento. El resultado es sonido de camión limpio y listo para usar que puedes descargar e insertar en tu proyecto."
+        },
+        {
+          "question": "¿Qué hace único a este generador de sonidos de camión?",
+          "answer": "A diferencia de bibliotecas fijas, nuestro generador crea nuevas variaciones bajo demanda a partir de texto plano. Obtienes audio personalizado sin buscar en miles de archivos. La IA está entrenada con audio de vehículos y carretera de alta calidad, así que cada resultado es consistente y profesional. Genera tantas variaciones como necesites para cada escena o edición."
+        },
+        {
+          "question": "¿Cómo escribir prompts efectivos para sonidos de camión?",
+          "answer": "Usa descripciones claras y concretas. Por ejemplo: \"camión diesel al ralentí en un semáforo\" o \"sonido de camión tocando la bocina en el tráfico.\" Indica tipo de vehículo (tráiler, pickup, camión volquete), acción (acelerar, frenar, marcha atrás) y escenario (autopista, ciudad, obra). El generador responde bien a términos como motor, bocina, rugido y aceleración. Más detalle ayuda a que la salida se ajuste a tu idea."
+        },
+        {
+          "question": "¿Cómo usar sonidos de camión en contenido de vídeo?",
+          "answer": "Usa sonidos de camión para dar realismo a escenas de conducción, anuncios o documentales. Coloca rugido de motor bajo las imágenes, añade toques de bocina para énfasis o usa ambiente de sonido de camión lejano para profundidad. El sonido de camión sirve para cualquier estilo—más fuerte en acción, más suave en fondo. Nuestro generador permite crear suficientes variaciones para que cada escena tenga un resultado de sonido de camión adecuado sin repetir."
+        },
+        {
+          "question": "¿Cómo usar sonidos de camión en desarrollo de juegos?",
+          "answer": "Los sonidos de camión encajan en juegos de conducción, ambiente de tráfico y feedback de interfaz. Usa sonido de camión para aceleraciones en la selección de vehículo, bocina para alertas y ruido de carretera para atmósfera de mundo abierto. Nuestro generador soporta muchas variaciones para mantener un estilo de sonido de camión consistente. Crea conjuntos distintos para distintos vehículos o entornos con salida clara y profesional."
+        },
+        {
+          "question": "¿Qué tipos de sonidos de camión puedo crear?",
+          "answer": "Puedes crear una amplia variedad de sonidos de camión: motor al ralentí o acelerando, bocina corta o larga, chirrido de frenos, pitido de marcha atrás, rugido de carretera y ambiente de cabina o exterior. Usa sonido de camión en cine, juegos, podcasts o cualquier proyecto que necesite audio de vehículos. El generador maneja distintos contextos y estilos con calidad consistente para todas tus necesidades de sonido de camión."
+        },
+        {
+          "question": "¿Los sonidos de camión generados son libres de derechos?",
+          "answer": "Sí. Todo el audio de nuestro generador es libre de derechos y viene con licencia comercial. Puedes usar sonidos de camión y sonido de camión en cualquier proyecto sin coste extra ni atribución. Cada archivo generado está autorizado para uso profesional y comercial. Descarga los que necesites para tus proyectos."
+        },
+        {
+          "question": "¿Qué calidad tienen los sonidos de camión generados?",
+          "answer": "Nuestro generador produce sonido de camión de calidad profesional que cumple estándares habituales de emisión y producción. Obtienes archivos en alta resolución, rango de frecuencias completo y dinámica controlada para que cada archivo sea claro y listo para usar en tu proyecto. Cada archivo generado es adecuado para uso profesional en vídeo, cine y contenido."
+        }
+      ]
+    }
+  }
+}

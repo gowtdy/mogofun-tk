@@ -1,0 +1,79 @@
+{
+  "funny-sound": {
+    "meta": {
+      "title": "Sonido gracioso",
+      "description": "Crea un sonido gracioso único con IA avanzada de efectos de sonido: naturales, instrumentos y más.",
+      "keywords": "sonido gracioso, efectos graciosos"
+    },
+    "hero": {
+      "title": "Sonido gracioso",
+      "subtitle": "Convierte descripciones de texto en sonido gracioso de alta calidad"
+    },
+    "generator_subtitle": "Elige entre los prompts populares de abajo o escribe tu propia descripción para generar sonido gracioso",
+    "advantages": {
+      "title": "¿Por qué elegir nuestra plataforma de IA para sonido gracioso?",
+      "items": [
+        {
+          "title": "Sonido gracioso en segundos desde texto plano",
+          "description": "Describe un gag, reacción o momento de dibujo animado en lenguaje cotidiano y recibe audio pulido casi al instante. Nuestra IA de efectos evita recorrer bibliotecas enormes o cortar clips a mano para que te centres en el ritmo y la narración. Cada pasada de sonido gracioso afina los chistes: regenera hasta que el sonido gracioso encaje con la imagen, compara dos tomas de sonido gracioso, conserva el sonido gracioso más fuerte y archiva el sonido gracioso de repuesto para otro beat.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Moldea efectos graciosos para cada escena",
+          "description": "Ajusta estado de ánimo, intensidad y textura para que los efectos graciosos sostengan cada remate—no ruido genérico. El modelo acepta prompts en capas y te ayuda a iterar rápido en shorts, streams, podcasts o ediciones de cliente hasta que el tono sea exacto. Coloca efectos graciosos bajo el diálogo con cuidado: cuando el mezcla se llene, simplifica; cuando los efectos graciosos necesiten aire, amplía el estante de EQ. Empareja un acento de sonido gracioso con efectos graciosos escasos para que el sonido gracioso siga destacando.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Salida coherente, lista para emisión",
+          "description": "Las exportaciones están equilibradas para claridad en altavoces y auriculares, adecuadas para redes, juegos o entrega comercial. Cada clip generado mantiene un carácter sonoro estable, reduciendo masterización extra con acabado profesional. Normaliza cada sonido gracioso al mismo objetivo de loudness para que los episodios coincidan; revisa un stem de sonido gracioso tras el picture lock e imprime el sonido gracioso final para entrega.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Sonido gracioso y efectos graciosos: preguntas frecuentes",
+      "items": [
+        {
+          "question": "¿Qué hace esta herramienta de sonido gracioso?",
+          "answer": "Convierte prompts de texto cortos en audio cómico personalizado mediante síntesis con IA. Describes la idea—rebotes de dibujos, silencios incómodos, reacciones exageradas—y el sistema renderiza un clip original en lugar de buscar en bancos de stock. Los creadores lo usan cuando necesitan clips cómicos pulidos sin equipo de grabación ni estudio completo. Los equipos suelen versionar un sonido gracioso para teasers y otro para episodios completos, luego insertan otro sonido gracioso en las etiquetas. Etiqueta cada sonido gracioso con claridad para que el editor acierte a la primera."
+        },
+        {
+          "question": "¿Cómo convierte el generador el texto en audio?",
+          "answer": "Tu prompt se analiza por intención, pistas de tiempo y señales acústicas. Modelos neuronales entrenados en material diverso predicen formas de onda que coinciden con la descripción, y un postprocesado ligero nivela y reduce aspereza. El flujo es iterativo: ajusta palabras, genera de nuevo y compara versiones hasta que encaje en tu edición. Si un sonido gracioso suena delgado, refuerza verbos; si clipea, doma la dinámica. Itera cada sonido gracioso hasta que el sonido gracioso maestro fije la escena."
+        },
+        {
+          "question": "¿Cómo escribir prompts para mejores efectos graciosos?",
+          "answer": "Nombra la acción, el personaje u objeto y el ambiente—seco, slapstick, impasible o caótico. Menciona el espacio (habitación pequeña vs salón) si importa para la reverberación. El motor también responde a pistas técnicas como \"sting corto\" o \"cola suave\". Lo específico vence a lo vago: compara \"chirrido rápido de goma\" con \"efectos graciosos para una caída torpe\" y refina. Cataloga efectos graciosos por humor, duplica familias para secuelas; cuando los efectos graciosos luchen con la música, pasa alto para quitar barro; cuando necesiten peso, añade camas de apoyo bajo la pila."
+        },
+        {
+          "question": "¿Puedo usar la salida en YouTube o TikTok?",
+          "answer": "Sí. Los clips están pensados para flujos de creadores en las principales plataformas de vídeo y formato corto. Empareja cada stem con la acción en pantalla para máximo impacto y varía tomas para que las repeticiones no fatiguen. Sigue siempre las políticas de contenido y derechos de autor más recientes de cada plataforma."
+        },
+        {
+          "question": "¿Ayuda en audio de juegos o apps?",
+          "answer": "Los diseñadores suelen prototipar retroalimentación de UI, potenciadores y beats cómicos antes de una biblioteca completa. Genera variaciones de la misma idea para que los disparadores se sientan frescos en sesiones largas. Cuando la toma queda fija, estandariza entre builds o ramifica alternativas para eventos raros."
+        },
+        {
+          "question": "¿Qué tipos de audio cómico puedo pedir?",
+          "answer": "Solicitudes típicas: impactos de dibujos, voces tontas, foley exagerado, stings cercanos a memes y bromas musicales ligeras. También puedes mezclar categorías—piensa en percusión caprichosa bajo una caída. Si necesitas cama cómica y acentos nítidos, descríbelos como capas separadas en un prompt o ejecuta dos generaciones y mezcla en tu DAW. Apila efectos graciosos complementarios para montajes; silencia efectos graciosos abarrotados durante el diálogo; ilumina stings escasos cuando baje la energía."
+        },
+        {
+          "question": "¿Cómo evitar usar demasiado los mismos efectos graciosos?",
+          "answer": "Pide interpretaciones alternativas: cambia adjetivos, duración o registro. Pequeños ajustes al prompt suelen dar timbres claramente distintos. Rotar efectos graciosos evita que sketches, gameplay y anuncios suenen repetitivos manteniendo un estilo cómico coherente."
+        },
+        {
+          "question": "¿Las descargas son libres de regalías para proyectos comerciales?",
+          "answer": "Las salidas se ofrecen para amplio uso comercial y personal bajo la licencia del producto mostrada al descargar. Normalmente puedes incrustar el audio en anuncios, apps o contenido pago sin tarifas de sincronización extra. Guarda una copia de los términos y revísalos cuando se actualice la política del producto."
+        },
+        {
+          "question": "¿Qué calidad de audio debo esperar?",
+          "answer": "Los archivos se producen en alta resolución adecuada para edición y entrega final tras un mastering ligero si lo deseas. Rango dinámico y piso de ruido controlados para que cada pista se sitúe limpia junto al diálogo y la música. Para broadcast o cine, aplica tus estándares de loudness como con cualquier otra fuente."
+        },
+        {
+          "question": "¿Quién se beneficia más del audio cómico generado por IA?",
+          "answer": "Editores, desarrolladores indie, educadores y equipos sociales ganan velocidad con plazos ajustados. Cualquiera que necesite audio cómico creíble o efectos graciosos a medida sin sesión de grabación puede iterar en minutos. Grandes estudios pueden usar la herramienta como audio de guión antes de grabaciones a medida. Etiqueta bobinas de SFX por separado para que los efectos graciosos de repuesto sean fáciles de audicionar en revisiones de mezcla."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "scream-louder": {
+    "meta": {
+      "title": "Scream Louder",
+      "description": "Instantly create scream louder with our advanced AI technology. Generate various type sounds including natural sounds, musical instruments and more.",
+      "keywords": "scream louder, loud shouting"
+    },
+    "hero": {
+      "title": "Scream Louder",
+      "subtitle": "Instantly transform text description into high-quality scream louder and loud shouting audio"
+    },
+    "generator_subtitle": "Select from popular prompts below or write your own description to generate scream louder",
+    "advantages": {
+      "title": "Why Choose Our Scream Louder Generator?",
+      "items": [
+        {
+          "title": "Create Scream Louder Cues in Seconds",
+          "description": "Convert concise prompt text into high-intensity vocal effects and scream louder moments without digging through large sound libraries. The model interprets urgency, tone, and timing so each clip fits trailers, game cutscenes, and dramatic edits. Fast iteration helps teams compare versions before final lock.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Flexible Intensity from Tense to Explosive",
+          "description": "Refine prompt details to move from controlled tension to loud shouting energy while preserving scene readability. You can tune duration, vocal texture, and emotional color for each use case, then export alternates for A/B timing checks. This workflow keeps your sound design expressive without repetitive stock cues.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Professional-Grade Audio Quality",
+          "description": "Outputs are mix-ready with stable loudness behavior and clean transients, so scream louder takes and loud shouting layers sit cleanly in the mix. Files remain clear after common platform compression, helping emotional peaks translate across mobile, desktop, and broadcast pipelines.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "About Our Scream Louder Generator",
+      "items": [
+        {
+          "question": "What is a scream louder generator?",
+          "answer": "It is an AI audio tool that transforms text prompts into dramatic vocal effects and scream louder bursts for high-impact scenes. Instead of recording many takes, you can generate tailored clips quickly and test them directly in your timeline."
+        },
+        {
+          "question": "How does this scream louder tool work?",
+          "answer": "The system parses emotion, pace, intensity, and context from your prompt, then synthesizes audio aligned with those cues, from soft tension to loud shouting. You can refine wording between passes to tighten attack, sustain, and timing until the effect fits your edit."
+        },
+        {
+          "question": "Why use this instead of stock libraries?",
+          "answer": "Stock libraries can feel repetitive and may not match precise scene rhythm. Prompt-driven generation creates fresh scream louder and loud shouting takes on demand, helping each moment feel specific while reducing manual audio search time."
+        },
+        {
+          "question": "How should I write prompts for scream louder effects?",
+          "answer": "Describe who is reacting, what triggers the vocal burst, and how long the cue should last. Specific prompts like \"short command yell before impact\" or \"loud shouting over collapsing debris\" generally produce cleaner timing than broad one-word requests."
+        },
+        {
+          "question": "When should I use loud shouting in a mix?",
+          "answer": "Use loud shouting for climactic transitions, battle peaks, panic beats, or high-stress reveals. Keep levels below primary dialogue and automate gain so emotional impact increases without masking important speech."
+        },
+        {
+          "question": "What kinds of variants can I generate?",
+          "answer": "You can create short calls, strained shouts, layered crowd reactions, stylized cinematic bursts, and scream louder peaks alongside sustained loud shouting. This range helps editors and developers test emotional pacing before final export."
+        },
+        {
+          "question": "Is generated audio royalty-free?",
+          "answer": "Yes. Generated files are royalty-free under our license for standard creator and commercial usage. Review the latest terms before large ad campaigns or broadcast distribution."
+        },
+        {
+          "question": "What quality should I expect from exports?",
+          "answer": "Expect production-ready output with clear detail, stable dynamics, and predictable playback behavior across devices, even when pushing scream louder levels or stacking loud shouting. For final delivery, apply your normal mastering chain to match platform loudness targets."
+        }
+      ]
+    }
+  }
+}

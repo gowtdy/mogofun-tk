@@ -1,0 +1,75 @@
+{
+  "train-voice": {
+    "meta": {
+      "title": "Voix de train",
+      "description": "Créez instantanément une voix de train avec notre technologie IA avancée. Générez divers types d'audio : tons naturels, instruments de musique et plus.",
+      "keywords": "voix train, effet sonore sifflet train"
+    },
+    "hero": {
+      "title": "Voix de train",
+      "subtitle": "Transformez instantanément une description textuelle en voix de train de haute qualité"
+    },
+    "generator_subtitle": "Choisissez parmi les suggestions populaires ci-dessous ou rédigez votre propre description pour générer une voix de train",
+    "advantages": {
+      "title": "Pourquoi choisir notre générateur de voix de train ?",
+      "items": [
+        {
+          "title": "Création instantanée de voix de train",
+          "description": "Créez une voix de train professionnelle et de l'audio d'annonces de gare à partir du texte en quelques secondes. Notre IA transforme vos descriptions en annonces électroniques, signaux métro et voix de quai—sans bibliothèques d'échantillons ni montage manuel. Besoin d'un effet sonore de sifflet de train pour accompagner votre clip ? Générez des variations illimitées de voix de train avec une qualité prête à la diffusion. Ajoutez un effet sonore de sifflet de train pour l'impact dans tout projet.",
+          "icon": "CpuChipIcon"
+        },
+        {
+          "title": "Possibilités créatives illimitées",
+          "description": "Créez tout style de voix de train que vous imaginez : annonces de gare, voix de quai électronique, ambiance métro ou effet sonore classique de sifflet de train. L'outil vous offre une liberté créative totale. Explorez des options infinies—des signaux de quai discrets à l'effet sonore de sifflet de train et aux extraits superposés pour le cinéma.",
+          "icon": "MusicalNoteI"
+        },
+        {
+          "title": "Qualité audio professionnelle",
+          "description": "Chaque clip de notre générateur respecte les normes de diffusion avec une sortie haute fidélité. Des algorithmes de pointe garantissent une voix de train et un audio ferroviaire de qualité studio. Tous les clips sont prêts pour la production et optimisés pour un usage professionnel, avec couverture complète du spectre et résultats clairs et naturels.",
+          "icon": "ArrowDownTrayIcon"
+        }
+      ]
+    },
+    "faqs": {
+      "title": "FAQ Voix de train",
+      "items": [
+        {
+          "question": "Qu'est-ce qu'un générateur de voix de train ?",
+          "answer": "Notre générateur est un outil IA qui transforme le texte en voix de train personnalisée et en audio d'annonces de gare. Il utilise le traitement du langage naturel et la synthèse neuronale pour produire des extraits ferroviaires professionnels. Vous pouvez créer une voix de quai électronique, des signaux métro ou associer votre scène à un effet sonore de sifflet de train. Il convient aux créateurs qui ont besoin d'une voix de train rapide et authentique—et d'un effet sonore de sifflet de train quand vous voulez de l'impact—avec des résultats précis et haute fidélité."
+        },
+        {
+          "question": "Comment fonctionne le générateur ?",
+          "answer": "L'outil utilise un pipeline en plusieurs étapes pour transformer le texte en voix de train et en audio ferroviaire de haute qualité. Il analyse votre description pour capturer le ton, le style et le contexte, puis fait passer ces données dans des réseaux de neurones entraînés pour la synthèse de gare et d'annonces. Vous pouvez demander des signaux courts pour l'interface ou une ambience plus longue, plus un effet sonore de sifflet de train si besoin. Chaque clip de voix de train respecte les normes de diffusion."
+        },
+        {
+          "question": "Qu'est-ce qui rend ce générateur de voix de train unique ?",
+          "answer": "Notre générateur se distingue par la personnalisation instantanée et la qualité professionnelle. Contrairement aux bibliothèques statiques, il crée une voix de train sur mesure à la demande. Entraîné sur des échantillons de haute qualité, il livre une voix de gare réaliste et des styles d'annonce variés. Vous bénéficiez de variations illimitées de voix de train et d'un effet sonore de sifflet de train quand vous en avez besoin, avec un contrôle fin."
+        },
+        {
+          "question": "Comment rédiger des prompts efficaces pour la voix de train ?",
+          "answer": "Rédigez des descriptions claires et précises avec plusieurs détails. Essayez « voix de train électronique au quai » ou « effet sonore de sifflet de train avec reverb ». Incluez le style, le ton et le contexte. Le générateur répond bien aux termes comme annonce, gare, métro, quai et sifflet. Plus de contexte donne de meilleurs résultats."
+        },
+        {
+          "question": "Comment utiliser la voix de train dans du contenu vidéo ?",
+          "answer": "Cartographiez les scènes de votre vidéo et placez une voix de train personnalisée là où elle ajoute de l'ambiance. Créez de l'audio d'annonce et d'ambiance pour chaque moment—des signaux de quai discrets à un effet sonore dramatique de sifflet de train. Superposez un effet sonore de sifflet de train avec la voix de train pour un audio riche et engageant qui souligne le temps ou le lieu."
+        },
+        {
+          "question": "Comment utiliser le générateur dans le développement de jeux ?",
+          "answer": "Notre générateur prend en charge la voix de train procédurale pour les jeux. Créez des variations pour que les joueurs n'entendent rarement le même clip deux fois. Produisez différentes options pour l'interface, les niveaux et les événements. Utilisez un effet sonore de sifflet de train pour les moments clés. L'outil livre des clips de qualité professionnelle qui renforcent l'immersion et le retour utilisateur."
+        },
+        {
+          "question": "Quels types de clips puis-je créer ?",
+          "answer": "Vous pouvez créer une large gamme de voix de train : annonces de gare, voix de quai électronique, signaux métro, ambiance ferroviaire et effet sonore de sifflet de train pour les scènes. L'outil livre des résultats de voix de train et d'effet sonore de sifflet de train professionnels pour tout projet."
+        },
+        {
+          "question": "Les clips générés sont-ils libres de droits ?",
+          "answer": "Oui. Tous les clips de notre générateur sont libres de droits et incluent une licence commerciale. Vous pouvez utiliser les clips générés dans tout projet sans frais supplémentaires ni attribution. Chaque clip est autorisé pour une utilisation immédiate dans un cadre professionnel et commercial."
+        },
+        {
+          "question": "Quelle qualité le générateur produit-il ?",
+          "answer": "Notre générateur produit une voix de train de niveau professionnel conforme aux normes de l'industrie. Vous disposez d'options haute résolution jusqu'à 192 kHz/24 bits, d'une plage de fréquences complète et d'une dynamique maîtrisée. Chaque clip et sortie d'effet sonore de sifflet de train est prêt à la diffusion et adapté à la production professionnelle et aux projets créatifs."
+        }
+      ]
+    }
+  }
+}

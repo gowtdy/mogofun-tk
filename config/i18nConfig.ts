@@ -33,6 +33,16 @@ export const translationFilesConfig: TranslationFileConfig[] = [
   { file: 'vocal/ai-splitter.json', group: 'vocal', route: 'ai-splitter' },
   { file: 'vocal/ai-stem-splitter.json', group: 'vocal', route: 'ai-stem-splitter' },
   { file: 'vocal/instrumental-remover.json', group: 'vocal', route: 'instrumental-remover' },
+  { file: 'vocal/isolate-vocals.json', group: 'vocal', route: 'isolate-vocals' },
+  { file: 'vocal/music-remover.json', group: 'vocal', route: 'music-remover' },
+  { file: 'vocal/remove-instrument.json', group: 'vocal', route: 'remove-instrument' },
+  { file: 'vocal/separate-vocals.json', group: 'vocal', route: 'separate-vocals' },
+  { file: 'vocal/splitter-ai.json', group: 'vocal', route: 'splitter-ai' },
+  { file: 'vocal/vocal-extractor.json', group: 'vocal', route: 'vocal-extractor' },
+  { file: 'vocal/vocal-separator.json', group: 'vocal', route: 'vocal-separator' },
+  { file: 'vocal/vocal-splitter.json', group: 'vocal', route: 'vocal-splitter' },
+  { file: 'vocal/voice-isolation.json', group: 'vocal', route: 'voice-isolation' },
+  { file: 'vocal/voice-isolator.json', group: 'vocal', route: 'voice-isolator' },
 ];
 
 /** 由 translationFilesConfig 自动生成：normalized route → locale file */

@@ -1,0 +1,50 @@
+{
+  "story-reading": {
+    "meta": {
+      "title": "Lectura de Cuentos: narración de historias en voz alta",
+      "description": "Convierte instantáneamente historias en narración en voz alta con nuestra avanzada tecnología de lectura de cuentos. Crea contenido de alta calidad para videos, podcasts y más.",
+      "keywords": "lectura de cuentos, narración en voz alta, historias con voz"
+    },
+    "hero": {
+      "title": "Lectura de Cuentos",
+      "subtitle": "Convierte instantáneamente historias en narración en voz alta para videos, podcasts y más."
+    },
+    "faq": {
+      "title": "Preguntas Frecuentes sobre Lectura de Cuentos",
+      "items": [
+        {
+          "question": "¿Qué es la tecnología de lectura de cuentos?",
+          "answer": "La lectura de cuentos es una solución avanzada de texto a voz impulsada por IA que transforma narrativas escritas en contenido de audio con sonido natural. Esta tecnología innovadora utiliza algoritmos sofisticados de aprendizaje automático para crear síntesis de voz auténtica que captura patrones de habla humana y matices emocionales. Perfecto para crear historias narradas en voz alta atractivas para videos, podcasts, audiolibros y contenido educativo."
+        },
+        {
+          "question": "¿Cómo funciona la síntesis de lectura de cuentos?",
+          "answer": "Nuestra tecnología de lectura de cuentos emplea redes neuronales de aprendizaje profundo entrenadas en extensos conjuntos de datos de voz. El sistema analiza la entrada de texto y genera habla que captura características vocales naturales, calidez y expresividad. Esta IA avanzada asegura una salida de audio de calidad profesional adecuada para diversas necesidades de creación de contenido, incluyendo proyectos de marketing, educación y entretenimiento."
+        },
+        {
+          "question": "¿Qué hace única nuestra lectura de cuentos?",
+          "answer": "Nuestra plataforma se destaca por su precisión excepcional y calidad de sonido natural. A diferencia de las herramientas básicas de texto a voz, nos enfocamos en crear historias narradas en voz alta auténticas con entonación precisa y expresión emocional. La tecnología ofrece calidad de audio superior, procesamiento rápido y controles fáciles de usar para una creación de contenido eficiente en diferentes industrias y casos de uso."
+        },
+        {
+          "question": "¿Puedo usar la lectura de cuentos para proyectos comerciales?",
+          "answer": "Sí, nuestro servicio de lectura de cuentos está diseñado tanto para uso personal como comercial. Puedes utilizar esta tecnología para presentaciones empresariales, materiales de marketing, contenido educativo y campañas publicitarias. La plataforma proporciona historias narradas en voz alta de calidad profesional adecuadas para comunicaciones corporativas, contenido de redes sociales y mensajes de marca."
+        },
+        {
+          "question": "¿Qué calidad de audio proporciona la lectura de cuentos?",
+          "answer": "Nuestra lectura de cuentos ofrece calidad de audio de nivel de estudio que rivaliza con grabaciones profesionales. La tecnología produce historias narradas en voz alta cristalinas con patrones de habla naturales y expresión emocional auténtica. Ya sea creando clips cortos o contenido más largo, el sistema proporciona una salida consistente y de alta calidad adecuada para aplicaciones de transmisión y streaming."
+        },
+        {
+          "question": "¿Cómo creo contenido con la lectura de cuentos?",
+          "answer": "Crear contenido con nuestra plataforma de lectura de cuentos es simple e intuitivo. Ingresa tu texto en la interfaz, selecciona tu configuración de voz preferida y haz clic en generar. El sistema convertirá tu contenido en audio auténtico. Previsualiza y descarga el archivo de alta calidad para tus proyectos usando nuestra plataforma optimizada y fácil de usar."
+        },
+        {
+          "question": "¿Qué formatos de archivo soporta la lectura de cuentos?",
+          "answer": "Nuestra lectura de cuentos soporta múltiples formatos de audio para diversas necesidades de creación de contenido. La tecnología exporta archivos MP3 de alta calidad compatibles con la mayoría del software de edición de video y plataformas de redes sociales. También proporcionamos diferentes configuraciones de calidad de audio y opciones de formato para satisfacer tus requisitos específicos de historias narradas en voz alta."
+        },
+        {
+          "question": "¿Es gratuito el servicio de lectura de cuentos?",
+          "answer": "Sí, nuestra lectura de cuentos ofrece acceso gratuito a funciones básicas de texto a voz. Puedes generar y previsualizar contenido de historias narradas en voz alta sin costo usando nuestra tecnología. Para funciones avanzadas y límites más altos, ofrecemos opciones premium que mejoran la calidad de voz y proporcionan herramientas de personalización adicionales para uso profesional."
+        }
+      ]
+    }
+  }
+}

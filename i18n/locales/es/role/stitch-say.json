@@ -1,0 +1,58 @@
+{
+  "stitch-say": {
+    "meta": {
+      "title": "Stitch Say",
+      "description": "Genera instantáneamente Stitch say con nuestro generador de voz AI avanzado. Crea frases únicas de Stitch para videos, podcasts y más.",
+      "keywords": "Stitch say, frases de Stitch"
+    },
+    "hero": {
+      "title": "Stitch Say",
+      "subtitle": "Crea instantáneamente frases de Stitch para videos, podcasts y más."
+    },
+    "faq": {
+      "title": "Acerca de Stitch Say",
+      "items": [
+        {
+          "question": "¿Qué es Stitch Say y cómo funciona?",
+          "answer": "Stitch Say es una herramienta avanzada de texto a voz que convierte contenido escrito en audio auténtico. Nuestra tecnología de red neuronal de vanguardia replica características vocales distintivas incluyendo tono, ritmo y patrones de pronunciación. Este generador de Stitch Say crea audio de sonido natural para videos, podcasts, presentaciones y contenido multimedia con precisión y claridad notables."
+        },
+        {
+          "question": "¿Cómo crear frases de Stitch usando nuestro generador de voz?",
+          "answer": "Crear frases atractivas de Stitch con nuestro generador de Stitch Say es sencillo: 1) Ingresa tu texto en el campo de entrada 2) Selecciona tu estilo vocal preferido 3) Haz clic en generar para procesar tu audio 4) Previsualiza el sonido generado 5) Descarga tu archivo de audio. Para obtener resultados óptimos, usa texto claro y conciso y elige el tono apropiado que coincida con el propósito y audiencia de tu contenido."
+        },
+        {
+          "question": "¿Qué hace que nuestro generador de Stitch Say sea la mejor solución de texto a voz?",
+          "answer": "Nuestro generador de Stitch Say se destaca como la solución principal de síntesis de voz con: 1) Tecnología AI avanzada para replicación auténtica de voz 2) Múltiples variaciones vocales y estilos de habla 3) Salida de audio de alta calidad con entonación natural 4) Soporte para más de 20 idiomas con adaptación de acentos regionales 5) Síntesis de sonido de grado profesional para aplicaciones comerciales."
+        },
+        {
+          "question": "¿Qué estilos de frases de Stitch son más populares para la creación de contenido?",
+          "answer": "Los estilos populares de frases de Stitch incluyen: 1) Sonido profesional clásico para anuncios comerciales 2) Tono conversacional para contenido interactivo 3) Sonido autoritativo para presentaciones educativas 4) Estilo de habla casual para redes sociales 5) Tono cálido y amigable para servicio al cliente. Cada estilo de frases de Stitch está optimizado para tipos específicos de contenido y estrategias de participación de audiencia."
+        },
+        {
+          "question": "¿Cuáles son las mejores prácticas para la creación de contenido Stitch Say?",
+          "answer": "Para maximizar el impacto del contenido Stitch Say: 1) Escribe guiones claros y concisos optimizados para entrega de audio 2) Elige estilos vocales apropiados para tu audiencia objetivo 3) Prueba diferentes tonos de habla para engagement 4) Combina audio con música de fondo adecuada 5) Asegura niveles y calidad de audio apropiados 6) Usa puntuación para controlar el ritmo y cadencia del habla."
+        },
+        {
+          "question": "¿Cómo crear contenido multimedia atractivo con síntesis de frases de Stitch?",
+          "answer": "La creación exitosa de contenido de frases de Stitch involucra: 1) Usar estilos vocales apropiados que coincidan con tu identidad de marca 2) Crear guiones atractivos optimizados para consumo de audio 3) Hacer coincidir características de sonido con tipo y propósito del contenido 4) Probar diferentes combinaciones de audio para máximo impacto 5) Monitorear respuesta de audiencia y métricas de engagement 6) Aprovechar la tecnología Stitch Say para accesibilidad y mejora de experiencia de usuario."
+        },
+        {
+          "question": "¿Qué idiomas soporta nuestro generador de Stitch Say?",
+          "answer": "Nuestro generador de Stitch Say soporta más de 20 idiomas incluyendo inglés, español, francés, alemán, italiano, portugués, chino, japonés, coreano y más. Cada idioma cuenta con adaptación de pronunciación auténtica con acentos regionales y patrones de habla natural optimizados para la tecnología de frases de Stitch y contexto cultural."
+        },
+        {
+          "question": "¿Es gratuito usar el generador de Stitch Say?",
+          "answer": "Sí, ofrecemos opciones tanto gratuitas como premium. Los usuarios gratuitos pueden acceder a funciones básicas de frases de Stitch con estilos vocales limitados, mientras que los suscriptores premium desbloquean generación de voz ilimitada, salida de audio de mayor calidad, opciones avanzadas de personalización de sonido y procesamiento prioritario para resultados más rápidos."
+        },
+        {
+          "question": "¿Puedo usar el contenido de frases de Stitch generado para propósitos comerciales?",
+          "answer": "Sí, nuestro generador de Stitch Say permite el uso comercial del contenido de voz generado. Nuestra tecnología de frases de Stitch está diseñada para aplicaciones profesionales incluyendo videos de marketing, contenido educativo, podcasts y presentaciones comerciales. Los usuarios premium reciben opciones de licenciamiento mejoradas para proyectos comerciales de frases de Stitch y derechos de uso extendidos."
+        },
+        {
+          "question": "¿Qué tan precisa es la síntesis de frases de Stitch comparada con el habla natural?",
+          "answer": "Nuestro generador de frases de Stitch logra precisión notable al replicar características de sonido auténticas. La tecnología Stitch Say captura tono distintivo, ritmo y patrones de pronunciación con alta fidelidad. Aunque no es idéntica al habla humana, nuestro generador de frases de Stitch proporciona alternativas convincentes y de sonido natural que mejoran la creación de contenido y participación del usuario."
+        }
+      ]
+    }
+  }
+}

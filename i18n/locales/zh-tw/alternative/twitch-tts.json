@@ -1,0 +1,50 @@
+{
+  "twitch-tts": {
+    "meta": {
+      "title": "Twitch TTS - AI語音生成器",
+      "description": "使用我們先進的AI語音生成器，瞬間生成Twitch TTS。為影片、播客等創建獨特的TTS語音內容。",
+      "keywords": "twitch tts, tts twitch, AI語音, 語音合成, 文字轉語音"
+    },
+    "hero": {
+      "title": "Twitch TTS",
+      "subtitle": "瞬間創建獨特的TTS語音，適用於影片、播客等多種場景。"
+    },
+    "faq": {
+      "title": "Twitch TTS 常見問題",
+      "items": [
+        {
+          "question": "什麼是Twitch TTS？",
+          "answer": "Twitch TTS是一種先進的AI驅動技術，能夠將書面文字轉換為自然流暢的語音。我們的Twitch TTS工具創建真實的AI語音，完美適用於影片編輯、社群媒體內容和專業演示。"
+        },
+        {
+          "question": "TTS Twitch技術是如何工作的？",
+          "answer": "TTS Twitch系統使用尖端的神經網路和機器學習演算法來產生逼真的AI語音。我們的文字轉語音技術分析語言模式、發音規則，並生成具有適當語調和情感表達的自然聲音。"
+        },
+        {
+          "question": "這個Twitch TTS與其他產品有什麼不同？",
+          "answer": "我們的文字轉語音平台提供卓越的音訊品質和真實的AI語音生成。與基礎的TTS Twitch替代品不同，我們的技術提供精確的發音、自然的節奏和情感深度，聽起來真正像人類。"
+        },
+        {
+          "question": "我可以將TTS Twitch用於商業目的嗎？",
+          "answer": "當然可以！我們的Twitch TTS工具支援商業使用，非常適合商業應用。文字轉語音技術提供專業品質的AI語音，適用於行銷影片、企業演示、培訓材料和商業內容創作。"
+        },
+        {
+          "question": "Twitch TTS生成器提供什麼音訊品質？",
+          "answer": "我們的TTS Twitch生成器產生錄音室品質的音訊輸出。文字轉語音技術創建清晰透明的AI語音，具有自然的聲音模式、真實的表達和符合行業標準的專業級音訊。"
+        },
+        {
+          "question": "如何有效使用Twitch TTS？",
+          "answer": "使用我們的TTS Twitch工具非常簡單：只需輸入您的內容，選擇您喜歡的AI語音風格和語言，然後生成。Twitch TTS系統瞬間創建高品質的音訊檔案，隨時可供下載和使用。"
+        },
+        {
+          "question": "TTS Twitch支援什麼音訊格式？",
+          "answer": "我們的Twitch TTS工具匯出高品質的MP3和WAV檔案。TTS Twitch技術確保與影片編輯軟體、社群媒體平台、播客應用程式和專業音訊編輯工具的完全相容性。"
+        },
+        {
+          "question": "Twitch TTS生成器是免費使用的嗎？",
+          "answer": "是的！我們的TTS Twitch平台提供核心功能的免費存取。您可以使用我們先進的Twitch TTS技術免費創建真實的AI語音內容。增強功能的高級版本也可用。"
+        }
+      ]
+    }
+  }
+}

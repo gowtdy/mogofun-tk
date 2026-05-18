@@ -1,0 +1,50 @@
+{
+  "twitch-tts": {
+    "meta": {
+      "title": "Twitch TTS - AI语音生成器",
+      "description": "使用我们先进的AI语音生成器，瞬间生成Twitch TTS。为视频、播客等创建独特的TTS语音内容。",
+      "keywords": "twitch tts, tts twitch, AI语音, 语音合成, 文字转语音"
+    },
+    "hero": {
+      "title": "Twitch TTS",
+      "subtitle": "瞬间创建独特的TTS语音，适用于视频、播客等多种场景。"
+    },
+    "faq": {
+      "title": "Twitch TTS 常见问题",
+      "items": [
+        {
+          "question": "什么是Twitch TTS？",
+          "answer": "Twitch TTS是一种先进的AI驱动技术，能够将书面文字转换为自然流畅的语音。我们的Twitch TTS工具创建真实的AI语音，完美适用于视频编辑、社交媒体内容和专业演示。"
+        },
+        {
+          "question": "TTS Twitch技术是如何工作的？",
+          "answer": "TTS Twitch系统使用尖端的神经网络和机器学习算法来产生逼真的AI语音。我们的文字转语音技术分析语言模式、发音规则，并生成具有适当语调和情感表达的自然声音。"
+        },
+        {
+          "question": "这个Twitch TTS与其他产品有什么不同？",
+          "answer": "我们的文字转语音平台提供卓越的音频质量和真实的AI语音生成。与基础的TTS Twitch替代品不同，我们的技术提供精确的发音、自然的节奏和情感深度，听起来真正像人类。"
+        },
+        {
+          "question": "我可以将TTS Twitch用于商业目的吗？",
+          "answer": "当然可以！我们的Twitch TTS工具支持商业使用，非常适合商业应用。文字转语音技术提供专业品质的AI语音，适用于营销视频、企业演示、培训材料和商业内容创作。"
+        },
+        {
+          "question": "Twitch TTS生成器提供什么音频质量？",
+          "answer": "我们的TTS Twitch生成器产生录音棚品质的音频输出。文字转语音技术创建清晰透明的AI语音，具有自然的声音模式、真实的表达和符合行业标准的专业级音频。"
+        },
+        {
+          "question": "如何有效使用Twitch TTS？",
+          "answer": "使用我们的TTS Twitch工具非常简单：只需输入您的内容，选择您喜欢的AI语音风格和语言，然后生成。Twitch TTS系统瞬间创建高质量的音频文件，随时可供下载和使用。"
+        },
+        {
+          "question": "TTS Twitch支持什么音频格式？",
+          "answer": "我们的Twitch TTS工具导出高质量的MP3和WAV文件。TTS Twitch技术确保与视频编辑软件、社交媒体平台、播客应用程序和专业音频编辑工具的完全兼容性。"
+        },
+        {
+          "question": "Twitch TTS生成器是免费使用的吗？",
+          "answer": "是的！我们的TTS Twitch平台提供核心功能的免费访问。您可以使用我们先进的Twitch TTS技术免费创建真实的AI语音内容。增强功能的高级版本也可用。"
+        }
+      ]
+    }
+  }
+}

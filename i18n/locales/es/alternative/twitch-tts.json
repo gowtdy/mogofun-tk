@@ -1,0 +1,50 @@
+{
+  "twitch-tts": {
+    "meta": {
+      "title": "Twitch TTS",
+      "description": "Genera instantáneamente Twitch TTS con nuestro generador de voz AI avanzado. Crea TTS Twitch únicos para video, podcast y más.",
+      "keywords": "twitch tts, tts twitch"
+    },
+    "hero": {
+      "title": "Twitch TTS",
+      "subtitle": "Crea instantáneamente TTS Twitch únicos para video, podcast y más."
+    },
+    "faq": {
+      "title": "Preguntas Frecuentes sobre Twitch TTS",
+      "items": [
+        {
+          "question": "¿Qué es Twitch TTS?",
+          "answer": "Twitch TTS es una tecnología avanzada impulsada por IA que convierte texto escrito en habla natural. Nuestra herramienta Twitch TTS crea voces AI auténticas perfectas para edición de video, contenido de redes sociales y presentaciones profesionales."
+        },
+        {
+          "question": "¿Cómo funciona la tecnología TTS Twitch?",
+          "answer": "El sistema TTS Twitch utiliza redes neuronales de vanguardia y algoritmos de aprendizaje automático para producir voces AI realistas. Nuestra tecnología de texto a voz analiza patrones de lenguaje, reglas de pronunciación y genera sonidos naturales con entonación adecuada y expresión emocional."
+        },
+        {
+          "question": "¿Qué hace que este Twitch TTS sea diferente de otros?",
+          "answer": "Nuestra plataforma de texto a voz ofrece calidad de audio superior con generación de voz AI auténtica. A diferencia de las alternativas básicas de TTS Twitch, nuestra tecnología proporciona pronunciación precisa, ritmo natural y profundidad emocional que suena verdaderamente humana."
+        },
+        {
+          "question": "¿Puedo usar TTS Twitch para propósitos comerciales?",
+          "answer": "¡Absolutamente! Nuestra herramienta Twitch TTS soporta uso comercial y es perfecta para aplicaciones empresariales. La tecnología de texto a voz proporciona voces AI de calidad profesional adecuadas para videos de marketing, presentaciones corporativas, materiales de entrenamiento y creación de contenido empresarial."
+        },
+        {
+          "question": "¿Qué calidad de audio proporciona el generador Twitch TTS?",
+          "answer": "Nuestro generador TTS Twitch produce salida de audio de calidad de estudio. La tecnología de texto a voz crea voces AI cristalinas con patrones de sonido naturales, expresión auténtica y audio de grado profesional que cumple con los estándares de la industria."
+        },
+        {
+          "question": "¿Cómo uso Twitch TTS efectivamente?",
+          "answer": "Usar nuestra herramienta TTS Twitch es sencillo: simplemente ingresa tu contenido, selecciona tu estilo de voz AI preferido e idioma, y genera. El sistema Twitch TTS crea instantáneamente archivos de audio de alta calidad listos para descargar y usar."
+        },
+        {
+          "question": "¿Qué formatos de audio soporta TTS Twitch?",
+          "answer": "Nuestra herramienta Twitch TTS exporta archivos MP3 y WAV de alta calidad. La tecnología TTS Twitch asegura compatibilidad completa con software de edición de video, plataformas de redes sociales, aplicaciones de podcast y herramientas profesionales de edición de audio."
+        },
+        {
+          "question": "¿Es gratuito usar el generador Twitch TTS?",
+          "answer": "¡Sí! Nuestra plataforma TTS Twitch ofrece acceso gratuito a funciones principales. Puedes crear contenido de voz AI auténtico sin costo alguno usando nuestra tecnología avanzada Twitch TTS. Las funciones premium están disponibles para capacidades mejoradas."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "jessie": {
+    "meta": {
+      "title": "免费Jessie语音生成器 - AI语音生成器",
+      "keywords": "Jessie语音, Jessie ai语音, Jessie文字转语音, Jessie tts",
+      "description": "免费Jessie语音生成器，采用Jessie AI语音技术。为任何内容创建20多种语言的200多种语音的自然AI语音。"
+    },
+    "hero": {
+      "title": "Jessie语音生成器",
+      "subtitle": "将您的文字转换为自然的Jessie AI语音。非常适合内容创作、社交媒体等。"
+    },
+    "faq": {
+      "title": "关于Jessie语音",
+      "items": [
+        {
+          "question": "什么是Jessie语音？",
+          "answer": "Jessie语音是一款流行的文字转语音生成器，为内容创作者创建自然发音的语音。我们的Jessie AI语音技术支持多种语言，为社交媒体、视频和播客提供高质量的声音合成。"
+        },
+        {
+          "question": "如何使用Jessie语音生成器？",
+          "answer": "使用Jessie语音很简单：输入您的文字，从我们的声音库中选择Jessie AI语音，然后点击生成。生成器立即创建您可以预览和下载用于项目的专业音频。"
+        },
+        {
+          "question": "Jessie语音是免费使用的吗？",
+          "answer": "是的，Jessie文字转语音提供免费基本使用。如需无限Jessie AI语音生成和高级功能，请升级到我们的付费计划。立即开始免费使用Jessie语音创作。"
+        },
+        {
+          "question": "Jessie语音有什么特别之处？",
+          "answer": "Jessie语音以其独特、富有表现力的音调脱颖而出，专为社交媒体参与度优化。我们的技术提供适合TikTok、YouTube和其他平台的自然语音模式。"
+        },
+        {
+          "question": "什么内容最适合Jessie语音？",
+          "answer": "Jessie语音在社交媒体内容、教育视频、娱乐和播客方面表现出色。生成器创建适合所有平台短篇和长篇内容的引人入胜音频。"
+        },
+        {
+          "question": "Jessie语音如何处理不同语言？",
+          "answer": "此工具支持20多种语言，具有真实口音。我们的文字转语音技术准确发音每种支持语言中的姓名、地点和技术术语，用于全球内容创作。"
+        },
+        {
+          "question": "我可以将Jessie语音用于商业项目吗？",
+          "answer": "是的，Jessie语音可用于个人和商业项目。我们的Jessie AI语音生成器提供适合商业应用、营销和品牌内容的专业级音频。"
+        },
+        {
+          "question": "Jessie语音提供哪些技术优势？",
+          "answer": "此工具提供快速处理、高稳定性和卓越音频质量。我们的平台针对速度和性能进行了优化，确保为您的所有内容需求提供可靠的声音生成。"
+        }
+      ]
+    }
+  }
+}

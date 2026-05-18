@@ -1,0 +1,50 @@
+{
+  "jessie": {
+    "meta": {
+      "title": "免費Jessie語音生成器 - AI語音生成器",
+      "keywords": "Jessie語音, Jessie ai語音, Jessie文字轉語音, Jessie tts",
+      "description": "免費Jessie語音生成器，採用Jessie AI語音技術。為任何內容創建20多種語言的200多種語音的自然AI語音。"
+    },
+    "hero": {
+      "title": "Jessie語音生成器",
+      "subtitle": "將您的文字轉換為自然的Jessie AI語音。非常適合內容創作、社交媒體等。"
+    },
+    "faq": {
+      "title": "關於Jessie語音",
+      "items": [
+        {
+          "question": "什麼是Jessie語音？",
+          "answer": "Jessie語音是一款流行的文字轉語音生成器，為內容創作者創建自然發音的語音。我們的Jessie AI語音技術支援多種語言，為社交媒體、影片和播客提供高品質的聲音合成。"
+        },
+        {
+          "question": "如何使用Jessie語音生成器？",
+          "answer": "使用Jessie語音很簡單：輸入您的文字，從我們的聲音庫中選擇Jessie AI語音，然後點擊生成。生成器立即創建您可以預覽和下載用於項目的專業音頻。"
+        },
+        {
+          "question": "Jessie語音是免費使用的嗎？",
+          "answer": "是的，Jessie文字轉語音提供免費基本使用。如需無限Jessie AI語音生成和高級功能，請升級到我們的付費計劃。立即開始免費使用Jessie語音創作。"
+        },
+        {
+          "question": "Jessie語音有什麼特別之處？",
+          "answer": "Jessie語音以其獨特、富有表現力的音調脫穎而出，專為社交媒體參與度優化。我們的技術提供適合TikTok、YouTube和其他平台的自然語音模式。"
+        },
+        {
+          "question": "什麼內容最適合Jessie語音？",
+          "answer": "Jessie語音在社交媒體內容、教育影片、娛樂和播客方面表現出色。生成器創建適合所有平台短篇和長篇內容的引人入勝音頻。"
+        },
+        {
+          "question": "Jessie語音如何處理不同語言？",
+          "answer": "此工具支援20多種語言，具有真實口音。我們的文字轉語音技術準確發音每種支援語言中的姓名、地點和技術術語，用於全球內容創作。"
+        },
+        {
+          "question": "我可以將Jessie語音用於商業項目嗎？",
+          "answer": "是的，Jessie語音可用於個人和商業項目。我們的Jessie AI語音生成器提供適合商業應用、行銷和品牌內容的專業級音頻。"
+        },
+        {
+          "question": "Jessie語音提供哪些技術優勢？",
+          "answer": "此工具提供快速處理、高穩定性和卓越音頻品質。我們的平台針對速度和性能進行了優化，確保為您的所有內容需求提供可靠的聲音生成。"
+        }
+      ]
+    }
+  }
+}

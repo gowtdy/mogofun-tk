@@ -151,6 +151,156 @@ const pageConfigs: Record<string, PageConfig> = {
     defaultModel: 'adamm-male',
     hrefPath: 'voice-of-man'
   },
+  "adam-ai-voice": {
+    pageKey: "adam-ai-voice",
+    defaultCategory: 'english',
+    defaultModel: 'adamm-male',
+    hrefPath: 'adam-ai-voice'
+  },
+  "adam-voice": {
+    pageKey: "adam-voice",
+    defaultCategory: 'english',
+    defaultModel: 'adamm-male',
+    hrefPath: 'adam-voice'
+  },
+  "adam-voice-ai": {
+    pageKey: "adam-voice-ai",
+    defaultCategory: 'english',
+    defaultModel: 'adamm-male',
+    hrefPath: 'adam-voice-ai'
+  },
+  "ghostface": {
+    pageKey: "ghostface",
+    defaultCategory: 'english',
+    defaultModel: 'ghostface-male',
+    hrefPath: 'ghostface'
+  },
+  "hey-siri-voice": {
+    pageKey: "hey-siri-voice",
+    defaultCategory: 'english',
+    defaultModel: 'siri-female',
+    hrefPath: 'hey-siri-voice'
+  },
+  "jessie": {
+    pageKey: "jessie",
+    defaultCategory: 'english',
+    defaultModel: 'jessie-female',
+    hrefPath: 'jessie'
+  },
+  "santa-ai": {
+    pageKey: "santa-ai",
+    defaultCategory: 'english',
+    defaultModel: 'us-male-santa-christmas',
+    hrefPath: 'santa-ai'
+  },
+  "santa-ai-voice": {
+    pageKey: "santa-ai-voice",
+    defaultCategory: 'english',
+    defaultModel: 'us-male-santa-christmas',
+    hrefPath: 'santa-ai-voice'
+  },
+  "santa-audio": {
+    pageKey: "santa-audio",
+    defaultCategory: 'english',
+    defaultModel: 'us-male-santa-christmas',
+    hrefPath: 'santa-audio'
+  },
+  "santa-claus": {
+    pageKey: "santa-claus",
+    defaultCategory: 'english',
+    defaultModel: 'us-male-santa-christmas',
+    hrefPath: 'santa-claus'
+  },
+  "santa-claus-ai": {
+    pageKey: "santa-claus-ai",
+    defaultCategory: 'english',
+    defaultModel: 'us-male-santa-christmas',
+    hrefPath: 'santa-claus-ai'
+  },
+  "santa-text-to-speech": {
+    pageKey: "santa-text-to-speech",
+    defaultCategory: 'english',
+    defaultModel: 'us-male-santa-christmas',
+    hrefPath: 'santa-text-to-speech'
+  },
+  "santa-voice": {
+    pageKey: "santa-voice",
+    defaultCategory: 'english',
+    defaultModel: 'us-male-santa-christmas',
+    hrefPath: 'santa-voice'
+  },
+  "santa-voicemail": {
+    pageKey: "santa-voicemail",
+    defaultCategory: 'english',
+    defaultModel: 'us-male-santa-christmas',
+    hrefPath: 'santa-voicemail'
+  },
+  "siri": {
+    pageKey: "siri",
+    defaultCategory: 'english',
+    defaultModel: 'siri-female',
+    hrefPath: 'siri'
+  },
+  "siri-text-to-speech": {
+    pageKey: "siri-text-to-speech",
+    defaultCategory: 'english',
+    defaultModel: 'siri-female',
+    hrefPath: 'siri-text-to-speech'
+  },
+  "siri-voice": {
+    pageKey: "siri-voice",
+    defaultCategory: 'english',
+    defaultModel: 'siri-female',
+    hrefPath: 'siri-voice'
+  },
+  "siri-voices": {
+    pageKey: "siri-voices",
+    defaultCategory: 'english',
+    defaultModel: 'siri-female',
+    hrefPath: 'siri-voices'
+  },
+  "stitch-say": {
+    pageKey: "stitch-say",
+    defaultCategory: 'english',
+    defaultModel: 'stitch-male',
+    hrefPath: 'stitch-say'
+  },
+  "stitch-voice": {
+    pageKey: "stitch-voice",
+    defaultCategory: 'english',
+    defaultModel: 'stitch-male',
+    hrefPath: 'stitch-voice'
+  },
+  "text-to-speech-siri": {
+    pageKey: "text-to-speech-siri",
+    defaultCategory: 'english',
+    defaultModel: 'siri-female',
+    hrefPath: 'text-to-speech-siri'
+  },
+  "voice-of-siri": {
+    pageKey: "voice-of-siri",
+    defaultCategory: 'english',
+    defaultModel: 'siri-female',
+    hrefPath: 'voice-of-siri'
+  },
+  "read-stories": {
+    pageKey: "read-stories",
+    defaultCategory: 'english',
+    defaultModel: 'story-teller-male',
+    hrefPath: 'read-stories'
+  },
+  "story-reader": {
+    pageKey: "story-reader",
+    defaultCategory: 'english',
+    defaultModel: 'story-teller-male',
+    hrefPath: 'story-reader'
+  },
+  "story-reading": {
+    pageKey: "story-reading",
+    defaultCategory: 'english',
+    defaultModel: 'story-teller-male',
+    hrefPath: 'story-reading'
+  }
 }
 
 export function getPageConfig(slug: string): PageConfig {

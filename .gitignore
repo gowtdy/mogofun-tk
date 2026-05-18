@@ -21,6 +21,7 @@ __pycache__
 .DS_Store
 .fleet
 .idea
+.cursor
 
 # Local env files
 .env

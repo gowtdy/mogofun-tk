@@ -1,0 +1,50 @@
+{
+  "japanese-text-to-speech": {
+    "meta": {
+      "title": "Synthèse Vocale Japonaise",
+      "keywords": "synthèse vocale japonaise, texte vers parole japonais, voix IA japonaise",
+      "description": "Notre outil de synthèse vocale japonaise transforme le texte japonais en parole en ligne. Crée une voix IA japonaise authentique pour les vidéos, podcasts et la création de contenu."
+    },
+    "hero": {
+      "title": "Meilleure Synthèse Vocale Japonaise",
+      "subtitle": "Créez une voix IA japonaise authentique pour les vidéos, podcasts et la création de contenu."
+    },
+    "faq": {
+      "title": "FAQ Synthèse Vocale Japonaise",
+      "items": [
+        {
+          "question": "Qu'est-ce que la synthèse vocale japonaise ?",
+          "answer": "La synthèse vocale est une technologie alimentée par l'IA qui convertit le texte écrit en parole naturelle. Notre outil de synthèse vocale japonaise crée une voix IA japonaise authentique parfaite pour les vidéos, podcasts et la création de contenu."
+        },
+        {
+          "question": "Comment fonctionne la technologie de synthèse vocale japonaise ?",
+          "answer": "Notre générateur de synthèse vocale utilise des réseaux neuronaux avancés pour transformer le texte en voix IA japonaise authentique. Le système de synthèse vocale japonaise analyse les modèles linguistiques et génère une parole naturelle avec une prononciation correcte."
+        },
+        {
+          "question": "Qu'est-ce qui rend cette synthèse vocale japonaise différente ?",
+          "answer": "Notre outil de synthèse vocale offre une qualité audio supérieure avec une voix IA japonaise authentique. Contrairement aux solutions de synthèse vocale japonaise de base, notre technologie fournit une prononciation précise et une profondeur émotionnelle."
+        },
+        {
+          "question": "Puis-je utiliser la synthèse vocale japonaise pour les affaires ?",
+          "answer": "Oui, notre outil de synthèse vocale prend en charge l'utilisation commerciale. La technologie de synthèse vocale japonaise fournit une voix IA japonaise de qualité professionnelle adaptée au marketing, aux présentations et au contenu commercial."
+        },
+        {
+          "question": "Quelle qualité audio la synthèse vocale japonaise fournit-elle ?",
+          "answer": "Notre générateur de synthèse vocale produit un audio de qualité studio. La technologie de synthèse vocale crée une voix IA japonaise cristalline avec des modèles de parole naturels et une expression authentique."
+        },
+        {
+          "question": "Comment utiliser la synthèse vocale japonaise ?",
+          "answer": "Utiliser l'outil de synthèse vocale est simple : entrez votre texte, sélectionnez votre style de voix IA préféré et générez. La technologie de synthèse vocale convertit instantanément le texte en audio de haute qualité."
+        },
+        {
+          "question": "Quels formats la synthèse vocale japonaise prend-elle en charge ?",
+          "answer": "Notre outil de synthèse vocale exporte des fichiers MP3 de haute qualité. La technologie TTS assure la compatibilité avec les logiciels de montage vidéo, les plateformes de médias sociaux et les applications audio."
+        },
+        {
+          "question": "La synthèse vocale japonaise est-elle gratuite à utiliser ?",
+          "answer": "Oui, notre générateur TTS offre un accès gratuit aux fonctionnalités de base. Vous pouvez créer du contenu vocal IA japonais authentique sans coût en utilisant notre technologie de synthèse vocale japonaise avancée."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "spanish-tts": {
+    "meta": {
+      "title": "TTS Espanhol Gratuito",
+      "keywords": "TTS Espanhol, TTS Espanhola",
+      "description": "Nossa ferramenta TTS espanhol transforma texto em voz espanhola online. Cria TTS espanhol autêntico para vídeos, podcasts e criação de conteúdo."
+    },
+    "hero": {
+      "title": "Melhor TTS Espanhol",
+      "subtitle": "Crie TTS espanhol autêntico para vídeos, podcasts e criação de conteúdo."
+    },
+    "faq": {
+      "title": "Perguntas Frequentes TTS Espanhol",
+      "items": [
+        {
+          "question": "O que é TTS Espanhol?",
+          "answer": "TTS Espanhol (Texto para Voz) é tecnologia de IA avançada que converte texto escrito em fala natural. Nossa ferramenta cria vozes de IA autênticas perfeitas para vídeos, podcasts e criação de conteúdo com pronúncia de língua nativa."
+        },
+        {
+          "question": "Como funciona a tecnologia TTS Espanhol?",
+          "answer": "O gerador utiliza redes neurais de aprendizado profundo para analisar padrões de linguagem e gerar fala realista. O sistema TTS espanhol processa texto, aplica regras de pronúncia apropriadas e produz áudio natural com entonação linguística autêntica."
+        },
+        {
+          "question": "O que torna este TTS Espanhol diferente?",
+          "answer": "Este gerador oferece qualidade de áudio superior com vozes de IA autênticas. Diferente das soluções TTS espanhol básicas, nossa tecnologia fornece pronúncia precisa, profundidade emocional e padrões de fala natural que soam como falantes nativos."
+        },
+        {
+          "question": "Posso usar TTS Espanhol para negócios?",
+          "answer": "Sim, nosso gerador TTS espanhol suporta uso comercial. A tecnologia de texto para voz entrega vozes de IA de qualidade profissional adequadas para marketing, apresentações, materiais de treinamento e conteúdo comercial em mercados espanhóis."
+        },
+        {
+          "question": "Qual qualidade de áudio o TTS Espanhol fornece?",
+          "answer": "Este gerador produz áudio de qualidade de estúdio com som cristalino. A tecnologia TTS espanhol cria padrões de fala natural, expressões linguísticas autênticas e áudio de alta fidelidade adequado para aplicações profissionais."
+        },
+        {
+          "question": "Como uso TTS Espanhol?",
+          "answer": "Usar este gerador é simples: cole seu texto, escolha seu estilo de voz de IA preferido e clique em gerar. A tecnologia de texto para voz cria instantaneamente arquivos de áudio de alta qualidade prontos para download e uso."
+        },
+        {
+          "question": "Quais formatos o TTS Espanhol suporta?",
+          "answer": "Este gerador exporta arquivos MP3 e WAV de alta qualidade. A tecnologia TTS espanhol garante compatibilidade com software de edição de vídeo, plataformas de redes sociais, ferramentas de podcast e aplicações de áudio."
+        },
+        {
+          "question": "TTS Espanhol é gratuito para usar?",
+          "answer": "Sim, este gerador oferece acesso gratuito a recursos principais. Você pode criar conteúdo de voz de IA autêntico sem custo usando nossa tecnologia TTS espanhol avançada para projetos pessoais e comerciais."
+        }
+      ]
+    }
+  }
+}

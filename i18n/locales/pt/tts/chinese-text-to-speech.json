@@ -1,0 +1,50 @@
+{
+  "chinese-text-to-speech": {
+    "meta": {
+      "title": "Texto para Voz Chinês Gratuito",
+      "keywords": "texto para voz chinês, voz de texto chinês",
+      "description": "Nossa ferramenta de texto para voz chinês transforma texto chinês em voz online. Cria texto para voz chinês realista para vídeos, podcasts e criação de conteúdo."
+    },
+    "hero": {
+      "title": "Melhor Texto para Voz Chinês",
+      "subtitle": "Crie texto para voz chinês realista para vídeos, podcasts e muito mais."
+    },
+    "faq": {
+      "title": "Perguntas Frequentes sobre Texto para Voz Chinês",
+      "items": [
+        {
+          "question": "O que é texto para voz chinês?",
+          "answer": "Texto para voz chinês é uma tecnologia alimentada por IA que gera fala natural. Nossa ferramenta de texto para voz chinês cria voz de IA autêntica perfeita para vídeos, podcasts e criação de conteúdo."
+        },
+        {
+          "question": "Como funciona a tecnologia de texto para voz chinês?",
+          "answer": "Nosso gerador de texto para voz usa redes neurais avançadas para gerar voz de IA realista. O sistema de texto para voz chinês analisa padrões de linguagem e gera sons naturais com pronúncia correta."
+        },
+        {
+          "question": "O que torna este texto para voz chinês diferente?",
+          "answer": "Nossa ferramenta de texto para voz oferece qualidade de áudio superior com voz de IA chinesa autêntica. Diferente das soluções básicas de texto para voz chinês, nossa tecnologia fornece pronúncia precisa e profundidade emocional."
+        },
+        {
+          "question": "Posso usar texto para voz chinês para negócios?",
+          "answer": "Sim, nossa ferramenta de texto para voz suporta uso comercial. A tecnologia de texto para voz chinês fornece voz de IA de qualidade profissional adequada para marketing, apresentações e conteúdo comercial."
+        },
+        {
+          "question": "Qual qualidade de áudio o texto para voz chinês fornece?",
+          "answer": "Nosso gerador de texto para voz produz áudio de qualidade de estúdio. A tecnologia de texto para voz cria voz de IA cristalina com padrões de som naturais e expressão autêntica."
+        },
+        {
+          "question": "Como uso o texto para voz chinês?",
+          "answer": "Usar a ferramenta de texto para voz é simples: digite seu texto, selecione seu estilo de voz de IA preferido e gere. A tecnologia de texto para voz gera instantaneamente áudio de alta qualidade."
+        },
+        {
+          "question": "Quais formatos o texto para voz chinês suporta?",
+          "answer": "Nossa ferramenta de texto para voz exporta arquivos MP3 de alta qualidade. A tecnologia TTS garante compatibilidade com software de edição de vídeo, plataformas de mídia social e aplicações de áudio."
+        },
+        {
+          "question": "O texto para voz chinês é gratuito para usar?",
+          "answer": "Sim, nosso gerador TTS chinês oferece acesso gratuito a recursos principais. Você pode criar conteúdo de voz de IA autêntico sem custo usando nossa tecnologia avançada de texto para voz chinês."
+        }
+      ]
+    }
+  }
+}

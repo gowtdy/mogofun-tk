@@ -1,0 +1,50 @@
+{
+  "voicemail-greeting": {
+    "meta": {
+      "title": "Générateur de Messages Vocaux Gratuit",
+      "keywords": "message vocal, générateur de messages vocaux, générateur de messages vocaux gratuit",
+      "description": "Créez instantanément un message vocal professionnel avec notre générateur de messages vocaux. Générez des messages vocaux de haute qualité pour un usage professionnel et personnel."
+    },
+    "hero": {
+      "title": "Générateur de Messages Vocaux",
+      "subtitle": "Créez instantanément un message vocal pour un usage professionnel et personnel."
+    },
+    "faq": {
+      "title": "FAQ du Générateur de Messages Vocaux",
+      "items": [
+        {
+          "question": "Qu'est-ce qu'un message vocal et pourquoi en ai-je besoin ?",
+          "answer": "Un message vocal est un message audio professionnel qui se joue lorsque les appelants atteignent votre messagerie vocale. Notre générateur de messages vocaux gratuit crée des messages personnalisés qui font une excellente première impression. Que ce soit pour un usage professionnel ou personnel, un message vocal bien conçu aide les appelants à se sentir les bienvenus et informés."
+        },
+        {
+          "question": "Comment fonctionne le générateur de messages vocaux ?",
+          "answer": "Notre générateur de messages vocaux utilise une technologie d'IA avancée pour convertir votre texte en audio naturel. Tapez simplement votre message, sélectionnez votre style de voix préféré, et le générateur crée des messages vocaux professionnels en quelques secondes. Vous pouvez créer des messages vocaux gratuitement ou passer à la version premium pour des fonctionnalités avancées."
+        },
+        {
+          "question": "Puis-je utiliser le générateur de messages vocaux gratuit ?",
+          "answer": "Oui ! Notre générateur de messages vocaux gratuit offre des fonctionnalités de base pour créer des messages vocaux professionnels sans aucun coût. Bien que la version gratuite ait certaines limitations, elle est parfaite pour créer des messages vocaux simples. Passez à la version premium pour une personnalisation avancée et une génération illimitée de messages vocaux."
+        },
+        {
+          "question": "Qu'est-ce qui fait les meilleurs messages vocaux ?",
+          "answer": "Les meilleurs messages vocaux sont clairs, professionnels et accueillants. Notre générateur de messages vocaux gratuit garantit que votre message sonne naturel et engageant. Gardez votre message vocal concis (15-30 secondes), amical et informatif. Le générateur vous aide à créer des messages vocaux qui reflètent votre personnalité tout en maintenant le professionnalisme."
+        },
+        {
+          "question": "Comment télécharger mon message vocal généré ?",
+          "answer": "Après avoir utilisé notre générateur de messages vocaux gratuit, vous pouvez prévisualiser et télécharger votre fichier audio instantanément. Le générateur prend en charge plusieurs formats, facilitant l'utilisation de votre message vocal sur n'importe quel appareil. Cliquez simplement sur télécharger et sauvegardez votre message vocal sur votre téléphone ou ordinateur pour une utilisation immédiate."
+        },
+        {
+          "question": "Les messages vocaux sont-ils adaptés à un usage professionnel ?",
+          "answer": "Absolument ! Les messages vocaux professionnels sont essentiels pour la communication d'entreprise. Notre générateur de messages vocaux gratuit offre divers styles, des tons professionnels décontractés aux formels. Vous pouvez créer des messages vocaux qui améliorent l'image professionnelle de votre entreprise tout en maintenant une atmosphère accueillante pour les clients et collègues."
+        },
+        {
+          "question": "Quelle qualité audio ont les messages vocaux générés ?",
+          "answer": "Notre générateur de messages vocaux produit un audio de haute qualité qui sonne naturel et professionnel. La technologie d'IA garantit que votre message vocal maintient une prononciation claire et des standards professionnels. Que vous créiez des messages courts ou des salutations plus longues, la sortie est nette et adaptée à un usage professionnel."
+        },
+        {
+          "question": "À quelle fréquence dois-je mettre à jour mon message vocal ?",
+          "answer": "Mettez à jour votre message vocal régulièrement pour le garder frais et pertinent. Notre générateur de messages vocaux facilite la création de nouveaux messages chaque fois que nécessaire. Considérez les mises à jour saisonnières, occasions spéciales ou changements d'entreprise. Les mises à jour régulières montrent que vous êtes actif et engagé dans vos communications."
+        }
+      ]
+    }
+  }
+}

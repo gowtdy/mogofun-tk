@@ -86,6 +86,14 @@ export const translationFilesConfig: TranslationFileConfig[] = [
   { file: 'tts/voice-of-male.json', group: 'tts', route: 'voice-of-male' },
   { file: 'tts/voice-of-man.json', group: 'tts', route: 'voice-of-man' },
   { file: 'tts/voiceover-voice-over.json', group: 'tts', route: 'voiceover-voice-over' },
+  { file: 'tts/chinese-text-to-speech.json', group: 'tts', route: 'chinese-text-to-speech' },
+  { file: 'tts/mandarin-text-to-speech.json', group: 'tts', route: 'mandarin-text-to-speech' },
+  { file: 'tts/french-text-to-speech.json', group: 'tts', route: 'french-text-to-speech' },
+  { file: 'tts/japanese-text-to-speech.json', group: 'tts', route: 'japanese-text-to-speech' },
+  { file: 'tts/japanese-text-to-voice.json', group: 'tts', route: 'japanese-text-to-voice' },
+  { file: 'tts/japanese-tts.json', group: 'tts', route: 'japanese-tts' },
+  { file: 'tts/spanish-text-to-speech.json', group: 'tts', route: 'spanish-text-to-speech' },
+  { file: 'tts/spanish-tts.json', group: 'tts', route: 'spanish-tts' },
   // 人工智能语音页面组（aivoice）：人工智能语音工具页面
   { file: 'aivoice/ai-vocal.json', group: 'tts', route: 'ai-vocal' },
   { file: 'aivoice/ai-vocals.json', group: 'tts', route: 'ai-vocals' },
@@ -99,6 +107,7 @@ export const translationFilesConfig: TranslationFileConfig[] = [
   { file: 'alternative/speechma-ai-voice.json', group: 'tts', route: 'speechma-ai-voice' },
   { file: 'alternative/speechma.json', group: 'tts', route: 'speechma' },
   { file: 'alternative/twitch-tts.json', group: 'tts', route: 'twitch-tts' },
+  { file: 'alternative/ttsmaker.json', group: 'tts', route: 'ttsmaker' },
   // 角色页面组（role）：角色工具页面
   { file: 'role/adam-ai-voice.json', group: 'tts', route: 'adam-ai-voice' },
   { file: 'role/adam-voice.json', group: 'tts', route: 'adam-voice' },
@@ -133,6 +142,12 @@ export const translationFilesConfig: TranslationFileConfig[] = [
   { file: 'tiktok/tiktok-voice-over.json', group: 'tts', route: 'tiktok-voice-over' },
   { file: 'tiktok/tiktok-voice-over-alternative.json', group: 'tts', route: 'tiktok-voice-over-alternative' },
   { file: 'tiktok/tiktok-voiceover.json', group: 'tts', route: 'tiktok-voiceover' },
+  // 语音信箱页面组（voicemail）：语音信箱工具页面
+  { file: 'voicemail/business-voicemail-greeting.json', group: 'tts', route: 'business-voicemail-greeting' },
+  { file: 'voicemail/funny-voicemail-greetings.json', group: 'tts', route: 'funny-voicemail-greetings' },
+  { file: 'voicemail/voicemail-greeting.json', group: 'tts', route: 'voicemail-greeting' },
+  { file: 'voicemail/professional-voicemail-greeting.json', group: 'tts', route: 'professional-voicemail-greeting' },
+  { file: 'voicemail/short-funny-voicemail-greetings.json', group: 'tts', route: 'short-funny-voicemail-greetings' },
   // 声音页面组（sound）：声音工具页面
   { file: 'sound/ai-audio-generator.json', group: 'sound', route: 'ai-audio-generator' },
   { file: 'sound/ai-sfx-generator.json', group: 'sound', route: 'ai-sfx-generator' },

@@ -31,6 +31,7 @@ export const translationFilesConfig: TranslationFileConfig[] = [
   { file: 'vocal-remover.json', group: 'tools' },
   { file: 'pricing.json', group: 'tools' },
   { file: 'settings.json', group: 'tools' },
+  { file: 'soundeffect_common.json', group: 'tools' },
   // 语音生成页面组（tts）：语音生成工具页面
   { file: 'tts/ai-character-voice-generator.json', group: 'tts', route: 'ai-character-voice-generator' },
   { file: 'tts/ai-girl-voice.json', group: 'tts', route: 'ai-girl-voice' },
@@ -537,7 +538,7 @@ function normalizeRoutePath(routePath: string): string {
  * 基础语言文件：对所有请求都必须加载
  * 这些文件在服务器端和客户端都需要显式加载
  */
-export const BASE_TRANSLATION_FILES: string[] = ['index.json', 'first-page.json', 'about.json', 'sounds-effect.json', 'vocal-isolator.json', 'audio-extractor.json', 'vocal-remover.json'];
+export const BASE_TRANSLATION_FILES: string[] = ['index.json', 'first-page.json', 'about.json', 'sounds-effect.json', 'vocal-isolator.json', 'audio-extractor.json', 'vocal-remover.json', 'soundeffect_common.json'];
 
 /**
  * 根据路由路径确定需要加载的具体翻译文件列表（不包含基础文件）

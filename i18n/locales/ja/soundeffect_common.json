@@ -1,0 +1,1032 @@
+{
+  "soundeffect_common": {
+    "display_title": "以下でリアルなAI生成効果音をお聞きください",
+    "input_placeholder": "効果音の説明を入力",
+    "generating_button": "生成中...",
+    "generate_button": "生成",
+    "msg_example_load_failed": "サンプル音の読み込みに失敗しました。しばらくしてからもう一度お試しください！",
+    "msg_example_play_failed": "サンプル音の再生に失敗しました。しばらくしてからもう一度お試しください！",
+    "msg_notext": "効果音を生成するには説明を入力してください",
+    "download": {
+      "noAudio": "ダウンロードできる音声がありません",
+      "success": "ダウンロード成功",
+      "failed": "ダウンロードに失敗しました。しばらくしてからもう一度お試しください",
+      "fetchFailed": "効果音のダウンロードに失敗しました。しばらくしてからもう一度お試しください！"
+    },
+    "category_nature": "自然音",
+    "category_special": "特殊効果",
+    "category_instrument": "楽器",
+    "category_human": "人間の音",
+    "category_ambient": "環境音",
+    "sample_rain": "雨",
+    "sample_ocean": "波",
+    "sample_water": "流水",
+    "sample_thunder": "雷",
+    "sample_insect": "虫の音",
+    "sample_fireworks": "花火",
+    "sample_glass": "ガラス割れ",
+    "sample_magic": "魔法",
+    "sample_spaceship": "宇宙船",
+    "sample_action": "アクション",
+    "sample_piano": "ピアノ",
+    "sample_guitar": "エレキギター",
+    "sample_violin": "バイオリン",
+    "sample_keyboard": "電子キーボード",
+    "sample_pipes": "アイリッシュパイプ",
+    "sample_baby": "赤ちゃんの笑い声",
+    "sample_clap": "拍手",
+    "sample_celebrate": "お祝い",
+    "sample_footsteps": "足音",
+    "sample_burp": "げっぷ",
+    "sample_typing": "タイピング",
+    "sample_restaurant": "騒がしいレストラン",
+    "sample_doorbell": "ドアベル",
+    "sample_tv": "テレビの電源",
+    "sample_cooking": "料理",
+    "prompt_combat": {
+      "sword_whoosh": "剣の風切り音",
+      "sword_through_air": "剣が空気を切る音",
+      "shotgun_fire": "ショットガン発砲",
+      "gunshot": "銃声",
+      "pistol_shot": "ピストル発砲",
+      "firearm_shooting": "銃器の発砲",
+      "weapon_fire": "武器の発砲",
+      "rifle_shot": "ライフル発砲",
+      "revolver_shot": "リボルバー発砲",
+      "machine_gun": "マシンガン",
+      "laser_gunshot": "レーザー銃声",
+      "ui_success": "UI成功"
+    },
+    "prompt_button": {
+      "button_pressed": "ボタン押下",
+      "mouse_button_clicked": "マウスボタンクリック",
+      "telephone_button": "電話ボタン",
+      "keyboard_button": "キーボードボタン",
+      "mobile_phone_button": "スマホボタン"
+    },
+    "prompt_typing": {
+      "keyboard_typing": "キーボードタイピング",
+      "typewriter_typing": "タイプライター",
+      "laptop_typing": "ノートPCタイピング"
+    },
+    "prompt_nature": {
+      "name": "自然音",
+      "rain": "雨",
+      "ocean_waves": "波",
+      "flowing_water": "流水",
+      "thunder": "雷",
+      "insect_sounds": "虫の音"
+    },
+    "prompt_special": {
+      "name": "特殊効果",
+      "fireworks": "花火",
+      "glass_shattering": "ガラス粉砕",
+      "magic_spell": "魔法の呪文",
+      "spaceship": "宇宙船",
+      "action": "アクション"
+    },
+    "prompt_instruments": {
+      "name": "楽器音",
+      "piano": "ピアノ",
+      "electric_guitar": "エレキギター",
+      "violin": "バイオリン",
+      "keyboard": "キーボード",
+      "irish_pipes": "アイリッシュパイプ"
+    },
+    "prompt_human": {
+      "name": "人間の音",
+      "baby_laughing": "赤ちゃんの笑い声",
+      "clapping": "拍手",
+      "celebrate": "お祝い",
+      "footsteps": "足音",
+      "burp": "げっぷ"
+    },
+    "prompt_ambient": {
+      "name": "環境音",
+      "typing": "タイピング",
+      "noisy_restaurant": "騒がしいレストラン",
+      "doorbell_ring": "ドアベルの音",
+      "tv_on": "テレビの電源",
+      "cooking": "料理"
+    },
+    "prompt_car": {
+      "car_horn": "クラクション",
+      "car_honk": "クラクション",
+      "vehicle": "車両",
+      "car_door": "車のドア",
+      "automobile": "自動車",
+      "road_sound": "道路の音",
+      "car_engine": "車のエンジン",
+      "car_crash": "車の衝突"
+    },
+    "prompt_car_sound": {
+      "car_pass_by": "車の通過",
+      "car_engine": "車のエンジン",
+      "car_crash_sound_effect": "車の衝突効果音"
+    },
+    "prompt_car_sounds": {
+      "car_honk": "クラクション",
+      "car_engine_roaring": "エンジンの咆哮",
+      "car_door_shut": "車のドア閉め"
+    },
+    "prompt_car_noises": {
+      "car_honk": "クラクション",
+      "car_crash_sound_effect": "車の衝突効果音",
+      "car_pass_by": "車の通過"
+    },
+    "prompt_cars_sounds": {
+      "car_engine": "車のエンジン",
+      "space_sound_effect": "宇宙の効果音",
+      "police_siren": "警察サイレン"
+    },
+    "prompt_carsound": {
+      "car_door_shut": "車のドア閉め",
+      "car_crash": "車の衝突",
+      "car_driving_ambience": "走行中の車内音"
+    },
+    "prompt_car_effect": {
+      "car_chase_sound_effect": "カーチェイス効果音",
+      "car_whizzing_by": "車が疾走する音",
+      "car_engine_roaring": "エンジンの咆哮"
+    },
+    "prompt_car_voice": {
+      "allahabad_traffic": "アラハバードの交通音",
+      "carwash_unsuccessful": "洗車失敗",
+      "city_sounds": "都市の音"
+    },
+    "prompt_car_fx": {
+      "car_passing_city": "都市を通過する車",
+      "heavy_race_car_speeding_reverb": "レースカー高速走行リバーブ",
+      "siren": "サイレン"
+    },
+    "prompt_air_sounds": {
+      "air_whoosh": "空気の風切り音",
+      "air_raid_siren_sound_effect": "空襲警報サイレン",
+      "simple_whoosh": "シンプルな風切り音"
+    },
+    "prompt_air_sound_effect": {
+      "whoosh_cinematic_sound_effect": "シネマティック風切り音",
+      "whoosh_effect": "風切り音効果",
+      "clean_whoosh_effect": "クリーンな風切り音"
+    },
+    "prompt_airhorn": {
+      "air_horn_sound_effect": "エアホーン効果音",
+      "dj_airhorn_sound": "DJエアホーン",
+      "dj_airhorn": "DJエアホーン"
+    },
+    "prompt_air_horn": {
+      "air_horn": "エアホーン",
+      "dj_airhorn_sound": "DJエアホーン",
+      "truck_signal": "トラックの合図"
+    },
+    "prompt_airhorn_sound": {
+      "air_horn_sound_effect": "エアホーン効果音",
+      "dj_airhorn_sound": "DJエアホーン",
+      "airhorn_fx": "エアホーンFX"
+    },
+    "prompt_air_horn_noise": {
+      "air_horn": "エアホーン",
+      "air_horn_sound_effect": "エアホーン効果音",
+      "fire_alarm": "火災警報"
+    },
+    "prompt_sound_horn": {
+      "mega_horn": "メガホーン",
+      "boat_horn": "船の汽笛",
+      "double_car_horn": "二重クラクション"
+    },
+    "prompt_horn_sound": {
+      "automobile_horn": "自動車のクラクション",
+      "car_honk": "クラクション",
+      "car_horn": "クラクション"
+    },
+    "prompt_horn_sounds": {
+      "ship_horn": "船の汽笛",
+      "war_horn": "戦争の角笛",
+      "low_horn": "低音ホーン"
+    },
+    "prompt_horn_noise": {
+      "car_horn_honking": "クラクション",
+      "electric_horn_honking": "電気ホーン",
+      "truck_horn": "トラックのクラクション"
+    },
+    "prompt_death": {
+      "death_sound": "死亡音",
+      "man_dying_sound": "男性の断末魔",
+      "death_scream": "断末魔の叫び"
+    },
+    "prompt_jumpscare": {
+      "jump_scare": "ジャンプスケア"
+    },
+    "prompt_woosh": {
+      "woosh_sound": "ウーシュ音",
+      "swoosh_sound": "スウッシュ音",
+      "whoosh_sound": "風切り音"
+    },
+    "prompt_shock": {
+      "eerie_sudden_shock": "不気味な突然の衝撃",
+      "piano_shock_impact": "ピアノ衝撃音",
+      "crowd_shocked_reaction": "驚く群衆"
+    },
+    "prompt_timer": {
+      "timer_sound": "タイマー音",
+      "timer_beep": "タイマービープ",
+      "clock_sound": "時計の音"
+    },
+    "prompt_thunder": {
+      "thunder_sound": "雷の音",
+      "dry_thunder": "乾雷",
+      "rain_and_thunder": "雨と雷"
+    },
+    "prompt_poop": {
+      "fart_poop": "おなら",
+      "fart_noises": "おならの音",
+      "flush_toilet_sound": "トイレの流水音"
+    },
+    "prompt_air": {
+      "air_noise": "空気の音",
+      "air_horn": "エアホーン",
+      "air_transition": "空気のトランジション",
+      "air_blow": "空気の吹き付け"
+    },
+    "prompt_engine": {
+      "engine_sound": "エンジン音",
+      "car_engine": "車のエンジン",
+      "motorcycle_engine": "バイクエンジン"
+    },
+    "prompt_cut": {
+      "cut_food": "まな板で食材を切る",
+      "cut_using_scissor": "はさみで切る",
+      "cut_using_knife": "ナイフで切る"
+    },
+    "prompt_machine": {
+      "machine_working_sound": "機械作動音",
+      "washing_machine": "洗濯機",
+      "old_machine": "古い機械"
+    },
+    "prompt_spatial": {
+      "spatial_sound": "空間音響",
+      "space_sound": "宇宙の音"
+    },
+    "prompt_baby": {
+      "baby_crying": "赤ちゃんの泣き声",
+      "newborn_baby_crying": "新生児の泣き声",
+      "angry_baby_crying": "怒る赤ちゃんの泣き声"
+    },
+    "prompt_laughing": {
+      "laughing_sound": "笑い声",
+      "laughing_crowd": "笑う群衆",
+      "male_laughing": "男性の笑い声",
+      "child_laughing": "子供の笑い声",
+      "girl_soft_laughing": "少女の柔らかな笑い声"
+    },
+    "prompt_horn": {
+      "car_horn": "クラクション",
+      "war_horn": "戦争の角笛",
+      "mega_horn": "メガホーン",
+      "ship_horn": "船の汽笛"
+    },
+    "prompt_counter": {
+      "counter_sound": "カウンター音",
+      "banknote_counter": "紙幣カウンター",
+      "money_counter": "お金カウンター",
+      "cash_counting_machine": "現金計数機"
+    },
+    "prompt_countdown": {
+      "countdown_sound": "カウントダウン音",
+      "countdown_beep": "カウントダウンビープ",
+      "game_countdown": "ゲームカウントダウン"
+    },
+    "prompt_robot": {
+      "robot_voice": "ロボットの声",
+      "robot_power_off": "ロボット電源オフ",
+      "robot_walk": "ロボットの歩行",
+      "robot_damaged": "ロボット損傷"
+    },
+    "prompt_moan": {
+      "ghost_moan": "幽霊のうめき",
+      "creepy_moan": "不気味なうめき",
+      "female_groaning_creepy": "不気味な女性のうめき",
+      "zombie_moan_sfx": "ゾンビのうめきSFX",
+      "demon_moaning": "悪魔のうめき",
+      "dinosaur_creature_moaning": "恐竜のうめき"
+    },
+    "prompt_male_moaning": {
+      "disapproving_male_grunt": "不満な男性の唸り",
+      "male_groan_of_pain": "苦痛の男性のうめき",
+      "male_hurt_sound": "男性の苦痛音"
+    },
+    "prompt_men_moaning": {
+      "big_old_men_moan": "老人のうめき",
+      "horror_moaning_and_groaning": "ホラーうめき",
+      "demon_moaning": "悪魔のうめき"
+    },
+    "prompt_moaning_audio": {
+      "zombie_sfx": "ゾンビSFX",
+      "zombie_sound": "ゾンビの音",
+      "zombie_groan_sfx": "ゾンビの唸りSFX"
+    },
+    "prompt_guy_moaning": {
+      "moaning_wraith": "うめく亡霊",
+      "womansadmoan": "悲しい女性のうめき",
+      "rumbling": "地鳴り"
+    },
+    "prompt_male_moan": {
+      "injury_scream": "怪我の叫び",
+      "big_punch_short_with_male_moan": "男性のうめき付き大パンチ",
+      "no_quite_human_grunts": "人間らしくない唸り"
+    },
+    "prompt_men_moan": {
+      "male_hurt_sound": "男性の苦痛音",
+      "grunt": "唸り",
+      "ghost_moan": "幽霊のうめき"
+    },
+    "prompt_men_moans": {
+      "lollipopmoans": "ロリポップのうめき",
+      "big_old_men_moan": "老人のうめき",
+      "creepy_ghost_moan_sfx": "不気味な幽霊のうめきSFX"
+    },
+    "prompt_sexy": {
+      "using_a_new_toy_with_my_vibrator": "バイブレーターと新しいおもちゃ",
+      "trans_girl_moaning_and_finishing": "トランス女性のうめきとクライマックス",
+      "feminine_moans": "女性的なうめき"
+    },
+    "prompt_groan_sound": {
+      "male_groan_of_pain": "苦痛の男性のうめき",
+      "zombie_groan_sfx": "ゾンビの唸りSFX",
+      "zombie_call": "ゾンビの呼び声"
+    },
+    "prompt_grunt_sound_effect": {
+      "animal_grunt": "動物の唸り",
+      "zombie_dying_sound": "ゾンビの断末魔",
+      "horse_snort": "馬のいななき"
+    },
+    "prompt_explosion": {
+      "large_underwater_explosion": "大規模水中爆発",
+      "explosion_fx": "爆発FX",
+      "epic_cinematic_explosion": "壮大なシネマ爆発",
+      "loud_explosion": "大きな爆発"
+    },
+    "prompt_sparkle": {
+      "fairy_sparkle": "妖精のきらめき",
+      "sparkle": "きらめき",
+      "sparkle_loop": "きらめきループ",
+      "baby_piano": "ベビーピアノ"
+    },
+    "prompt_rooster": {
+      "rooster_crowing": "雄鶏の鳴き声",
+      "rooster_call": "雄鶏のコックコッ",
+      "rooster": "雄鶏"
+    },
+    "prompt_camera": {
+      "camera_shutter": "カメラシャッター",
+      "film_camera_shutter_with_auto_winder": "フィルムカメラのシャッター",
+      "camera": "カメラ"
+    },
+    "prompt_whisper": {
+      "whispering": "ささやき",
+      "creepy_whispering": "不気味なささやき",
+      "murmullos": "つぶやき",
+      "ghost_whispers": "幽霊のささやき"
+    },
+    "prompt_riser": {
+      "riser_somewhere": "ライザー",
+      "riser_hole": "ライザーホール",
+      "dramatic_riser": "ドラマチックライザー"
+    },
+    "prompt_bell": {
+      "church_bell_sound_effect": "教会の鐘効果音",
+      "bell": "ベル",
+      "ding_small_bell_sfx": "小さなベルSFX",
+      "creepy_bell_fx": "不気味なベルFX",
+      "big_bell": "大きな鐘",
+      "bell_sound": "ベルの音",
+      "phone_ringing": "電話の呼び出し",
+      "christmas_ringing_bells_ringtone": "クリスマスベル着信音",
+      "scary_bells": "怖いベル",
+      "bells_jingling": "ベルのジャラジャラ",
+      "notification_bell_sound": "通知ベル音",
+      "gong_bell": "ゴング",
+      "bicycle_bell": "自転車ベル",
+      "church_bell": "教会の鐘",
+      "ding_cartoon": "カートゥーンディング",
+      "ding_ding_small_bell": "チリンチリン小ベル",
+      "copper_bell_ding": "銅のベル",
+      "bell_ring": "ベルの音",
+      "bells_ringing": "鐘の音",
+      "boxing_bell": "ボクシングベル",
+      "school_bell_longer": "長い学校のチャイム",
+      "japanese_school_bell_sound": "日本の学校チャイム",
+      "hailuoto_school_bell_recording": "ハイルオト学校チャイム",
+      "old_style_door_bell": "昔ながらのドアベル",
+      "bell_transition": "ベルトランジション",
+      "opening_bell": "開始ベル",
+      "evil_bell": "邪悪なベル",
+      "door_bell": "ドアベル",
+      "sound_of_the_bell_free_to_use": "フリー使用ベル音",
+      "servant_bell_ring": "召使いベル",
+      "fork_bell": "フォークベル",
+      "intro_sound_bell": "イントロベル音",
+      "bellding": "ベル音",
+      "trap_bell_loop": "トラップベルループ",
+      "background_bell": "背景ベル",
+      "diamond_bell": "ダイヤモンドベル",
+      "the_bell_sound_free": "フリーベル音",
+      "bells_ring_in_the_soul": "魂に響く鐘"
+    },
+    "prompt_bell_audio": {
+      "notification_sounds": "通知音",
+      "relaxing_bells_melody": "癒しのベルメロディ",
+      "bells_audio": "ベルオーディオ"
+    },
+    "prompt_doorbell": {
+      "doorbell_chiming": "ドアベルのチャイム",
+      "doorbell": "ドアベル",
+      "vintage_doorbell_ring_sound_effect": "ヴィンテージドアベル"
+    },
+    "prompt_dooropen": {
+      "open_car_door": "車のドアを開ける",
+      "door_opening": "ドアを開ける",
+      "opening_door": "ドア開閉"
+    },
+    "prompt_pixel": {
+      "pixel_sound_effect": "ピクセル効果音",
+      "pixel_level_up_sound": "ピクセルレベルアップ音",
+      "static_noise": "雑音"
+    },
+    "prompt_haptic": {
+      "thud_sound_effect": "ドスン効果音",
+      "mid_nights_sound": "真夜中の音",
+      "screenshot_iphone_sound": "iPhoneスクリーンショット音"
+    },
+    "prompt_error": {
+      "bad_machine": "故障した機械",
+      "error_beep_sound": "エラービープ",
+      "sound_of_error_beep": "エラービープ音"
+    },
+    "prompt_fire": {
+      "fire_sound": "炎の音",
+      "plasma_gun_fire": "プラズマ銃発射",
+      "fire_forest": "森林火災"
+    },
+    "prompt_alarm": {
+      "alarm": "アラーム",
+      "alarm_siren_sound_effect": "警報サイレン",
+      "biohazard_alarm": "バイオハザード警報"
+    },
+    "prompt_funny_sound": {
+      "funny_cartoon_sound": "面白いカートゥーン音",
+      "funny_sounds": "面白い音",
+      "funny_alarm": "面白いアラーム"
+    },
+    "prompt_funny_sound_effect": {
+      "funny_boing_flecatone_wobble": "面白いボイング音",
+      "cartoon_slide_sound_effect": "カートゥーンスライド音",
+      "fart": "おなら"
+    },
+    "prompt_funny_sounds": {
+      "funny_sounds": "面白い音",
+      "funny_dramatic_gasp": "面白いドラマチックな息",
+      "funny_laughing_sound": "面白い笑い声"
+    },
+    "prompt_funny_noises": {
+      "funny_grunt_noises": "面白い唸り音",
+      "fah": "ファー",
+      "funny_spring_sound": "面白いバネ音"
+    },
+    "prompt_funny_audio": {
+      "funny_hysteric_scream": "面白いヒステリック叫び",
+      "tatsumaki_senpuu": "竜巻旋風",
+      "funny_cartoon_sound": "面白いカートゥーン音"
+    },
+    "prompt_funny_meme_sounds": {
+      "thud_sound_effect": "ドスン効果音",
+      "isnt_that_amazing_meme_sfx": "すごくない？ミームSFX",
+      "laughing_man": "笑う男性"
+    },
+    "prompt_funny_meme_sound": {
+      "thud_sound_effect": "ドスン効果音",
+      "laughing_man": "笑う男性",
+      "sarcastic_clapping_sound": "皮肉な拍手"
+    },
+    "prompt_noises_funny": {
+      "funny_burp_sound_effect": "面白いげっぷ効果音",
+      "funny_gurgling_noises": "面白いゴロゴロ音",
+      "funny_grunt_noises": "面白い唸り音"
+    },
+    "prompt_soundboard_funny": {
+      "air_horn_sound_effect": "エアホーン効果音",
+      "funny_laughing": "面白い笑い",
+      "funny_african_tabla": "面白いアフリカンタブラ"
+    },
+    "prompt_silly_sound": {
+      "squeakish_sound": "キーキー音",
+      "silly_trumpet": "おどけたトランペット",
+      "fail_trumpet": "失敗トランペット"
+    },
+    "prompt_funny_audios": {
+      "funny_spring": "面白いバネ",
+      "wazzup_man": "ワッツアップ",
+      "laughing_male_mp3_sound": "男性の笑い声MP3"
+    },
+    "prompt_fun_sounds": {
+      "pipe": "パイプ",
+      "fun_comedic_drum": "コメディドラム",
+      "funny_laughing_sound_effect": "面白い笑い声効果音"
+    },
+    "prompt_fun_sound": {
+      "sweet_game_over_sound_effect": "かわいいゲームオーバー音",
+      "funny_cartoon_sound": "面白いカートゥーン音",
+      "another_funny_laughing_sound_effect": "もう一つの面白い笑い声"
+    },
+    "prompt_funny_notification": {
+      "funny_minion_message_notification_sound_effect_sfx": "面白いミニオン通知音SFX",
+      "funny_message_notification_sound_effect_sfx": "面白いメッセージ通知音SFX",
+      "funny_hiphop_party_notification_music_sound": "面白いヒップホップ通知音"
+    },
+    "prompt_funny_scream": {
+      "funny_scream": "面白い叫び",
+      "insane_funny_scream": "狂った面白い叫び",
+      "man_scream": "男性の叫び"
+    },
+    "prompt_meme_scream": {
+      "sus_meme_sound": "サスミーム音",
+      "new_meme": "新しいミーム",
+      "insane_funny_scream": "狂った面白い叫び"
+    },
+    "prompt_soundboard_guy": {
+      "realizations_or_fighting": "気づきまたは戦闘",
+      "dying_guy": "死にゆく男",
+      "shy_guy": "シャイガイ"
+    },
+    "prompt_silent_scream": {
+      "cartoon_scream": "カートゥーン叫び",
+      "smirnoff_scream": "スミノフ叫び",
+      "eagle_scream": "鷲の叫び"
+    },
+    "prompt_scream_and_shout": {
+      "zombie_yell_and_shout_sound_effect": "ゾンビの叫び効果音",
+      "epic_war_combat_scream": "壮大な戦闘叫び",
+      "man_shout_like_a_goat": "ヤギのように叫ぶ男"
+    },
+    "prompt_shouting_sound_effect": {
+      "army_of_soldiers_battle_cry": "軍隊の雄叫び",
+      "male_shouting_fire": "火を叫ぶ男性",
+      "distorted_background_sound": "歪んだ背景音"
+    },
+    "prompt_scream_louder": {
+      "man_scream": "男性の叫び",
+      "scream_horror_sfx": "ホラー叫びSFX",
+      "male_death_scream_horror": "男性の断末魔ホラー叫び"
+    },
+    "prompt_angry_screaming": {
+      "screaming_man": "叫ぶ男性",
+      "muffled_angry_screaming": "くぐもった怒りの叫び",
+      "angry_baby": "怒る赤ちゃん"
+    },
+    "prompt_door_bell_sound_effect": {
+      "door_bell_sound_effect": "ドアベル効果音",
+      "doorbell_sound_effect": "ドアベル効果音",
+      "door_bell": "ドアベル"
+    },
+    "prompt_taco_bell_sound_effect": {
+      "taco_bell_rong": "タコベル",
+      "church_bell_sound_effect": "教会の鐘効果音",
+      "bell_ring": "ベルの音"
+    },
+    "prompt_sound_button": {
+      "button_press": "ボタン押下",
+      "interface_button": "インターフェースボタン",
+      "click_button": "クリックボタン"
+    },
+    "prompt_sound_bottons": {
+      "broken_expending_machine": "壊れた自動販売機",
+      "thud_sound_effect": "ドスン効果音",
+      "mid_nights_sound": "真夜中の音"
+    },
+    "prompt_sounds_buttons": {
+      "button_press": "ボタン押下",
+      "computer_mouse_click": "マウスクリック",
+      "sound_of_mouse_click": "マウスクリック音"
+    },
+    "prompt_button_soundboard": {
+      "air_horn_sound_effect": "エアホーン効果音",
+      "button_press": "ボタン押下",
+      "select_button_ui": "選択ボタンUI"
+    },
+    "prompt_noise_buttons": {
+      "button_press": "ボタン押下",
+      "noisy_switch": "うるさいスイッチ",
+      "microwave_beeps": "電子レンジのビープ"
+    },
+    "prompt_scream": {
+      "boy_character_scream": "少年キャラの叫び",
+      "baby_crying": "赤ちゃんの泣き声",
+      "loud_male_scream": "大きな男性の叫び",
+      "scary_woman_scream_ultra_realistic": "超リアルな怖い女性の叫び",
+      "angry_man_yell_sound": "怒る男性の叫び",
+      "woman_scream_sound": "女性の叫び",
+      "man_scream": "男性の叫び",
+      "scary_scream": "怖い叫び"
+    },
+    "prompt_screaming": {
+      "screaming_man": "叫ぶ男性",
+      "sudden_screaming_sound": "突然の叫び",
+      "pathetic_screaming_sound_effect": "情けない叫び効果音",
+      "funny_scream": "面白い叫び",
+      "screaming_sound_effect": "叫び効果音",
+      "screeching_sound_effect": "金切り声効果音"
+    },
+    "prompt_scream_audio": {
+      "girl_screaming_sound_effect": "少女の叫び効果音",
+      "crow_screaming_bird": "カラスの叫び",
+      "female_screaming_audio": "女性の叫びオーディオ",
+      "male_screaming_audio": "男性の叫びオーディオ"
+    },
+    "prompt_someone_scream": {
+      "man_scream": "男性の叫び",
+      "cartoon_scream": "カートゥーン叫び",
+      "smirnoff_scream": "スミノフ叫び"
+    },
+    "prompt_guy_screaming": {
+      "dying_guy": "死にゆく男",
+      "fireworks_and_screaming": "花火と叫び",
+      "guys_howling_fun": "楽しそうに吠える男たち"
+    },
+    "prompt_scream_noise": {
+      "unsettling_noise": "不安な音",
+      "ghost_horror_sound": "幽霊ホラー音",
+      "cartoon_scream": "カートゥーン叫び"
+    },
+    "prompt_whoosh_sound": {
+      "whoosh_cinematic": "シネマティック風切り音",
+      "whoosh_cinematic_sound_effect": "シネマティック風切り音",
+      "simple_whoosh": "シンプルな風切り音"
+    },
+    "prompt_whoosh_effect": {
+      "cinematic_whoosh_shot": "シネマティック風切りショット",
+      "whoosh_effect": "風切り音効果",
+      "whoosh_sound_effect": "風切り音効果"
+    },
+    "prompt_woosh_sound": {
+      "woosh": "ウーシュ",
+      "short_woosh": "短いウーシュ",
+      "fast_woosh": "速いウーシュ"
+    },
+    "prompt_woosh_sfx": {
+      "swoosh": "スウッシュ",
+      "air_motion": "空気の動き",
+      "creepy_hifreq_woosh": "不気味な高周波ウーシュ"
+    },
+    "prompt_swish_sound": {
+      "swish_sound": "スウィッシュ音",
+      "quick_double_swish_sfx": "素早いダブルスウィッシュ",
+      "fast_swish_transition_noise": "速いスウィッシュトランジション"
+    },
+    "prompt_bicycle_sounds": {
+      "bicycle_bell_sound_effect": "自転車ベル効果音",
+      "bicycle_bell": "自転車ベル",
+      "bicycle": "自転車"
+    },
+    "prompt_bike_horn_sound": {
+      "horn_toy": "ホーンおもちゃ",
+      "mega_horn": "メガホーン",
+      "boat_horn": "船の汽笛"
+    },
+    "prompt_train_sounds": {
+      "train": "電車",
+      "inside_old_train": "古い電車の中",
+      "railway_train": "鉄道の電車"
+    },
+    "prompt_truck_sounds": {
+      "traffic_truck_ambience": "トラック交通の環境音",
+      "truck_chord": "トラックの和音",
+      "loud_machinery": "うるさい機械"
+    },
+    "prompt_truck_sound": {
+      "diesel_truck_passing": "ディーゼルトラック通過",
+      "big_truck_engine": "大型トラックエンジン",
+      "muscle_truck": "マッスルトラック"
+    },
+    "prompt_truck_audio": {
+      "truck_door_open_and_close": "トラックのドア開閉",
+      "city_street_soundscape": "都市の街路音景",
+      "police_siren_emergency_alarm": "緊急警察サイレン"
+    },
+    "prompt_truck_horn": {
+      "truck_horn": "トラックのクラクション",
+      "parisian_fire_truck_siren": "パリの消防車サイレン",
+      "truck_signal": "トラックの合図"
+    },
+    "prompt_truck_honking": {
+      "truck_signal": "トラックの合図",
+      "vintage_car_horn": "ヴィンテージクラクション",
+      "old_car_horn": "古いクラクション"
+    },
+    "prompt_celebration_sound_effect": {
+      "wow": "わあ",
+      "applause_sound": "拍手の音",
+      "crowd_cheering": "歓声"
+    },
+    "prompt_festival_sound": {
+      "applause_sound_effect": "拍手効果音",
+      "crowd_noise_at_event": "イベントの群衆騒音",
+      "crowd_noise_stadium": "スタジアムの群衆騒音"
+    },
+    "prompt_fireworks_sounds": {
+      "fireworks": "花火",
+      "firework_whistle": "花火の笛",
+      "slow_explosion": "ゆっくりした爆発"
+    },
+    "prompt_fireworks_sound": {
+      "crackling_fireworks": "パチパチ花火",
+      "fireworks_sound": "花火の音",
+      "new_year_fireworks": "新年の花火"
+    },
+    "prompt_firework_sounds": {
+      "cake_firework_and_mortars": "ケーキ花火と迫撃砲",
+      "firework_whistle": "花火の笛",
+      "funny_firework_sound": "面白い花火音"
+    },
+    "prompt_happy_celebration": {
+      "happy_loop": "ハッピーループ",
+      "happy_birthday": "お誕生日おめでとう",
+      "kids_happy_background_music": "子供向けハッピーBGM"
+    },
+    "prompt_porn_sounds": {
+      "funny_sounds": "面白い音",
+      "birds_sounds": "鳥のさえずり",
+      "dire_crackling_sounds": "ひどいパチパチ音"
+    },
+    "prompt_porn_sound": {
+      "mid_nights_sound": "真夜中の音",
+      "thud_sound_effect": "ドスン効果音",
+      "heartbeat_sound": "心拍音"
+    },
+    "prompt_porn_noises": {
+      "water_noises": "水の音",
+      "soft_brown_noise": "ソフトブラウンノイズ",
+      "rainy_day_in_town_with_birds_singing": "雨の日の街と鳥のさえずり"
+    },
+    "prompt_audio_porn": {
+      "audio_for_video_editing": "動画編集用オーディオ",
+      "birds_singing_audio_tune": "鳥のさえずりチューン",
+      "retro_audio_logo": "レトロオーディオロゴ"
+    },
+    "prompt_porn_audio": {
+      "audio_for_video_editing": "動画編集用オーディオ",
+      "birds_singing_audio_tune": "鳥のさえずりチューン",
+      "relaxing_guitar_loop": "リラックスギターループ"
+    },
+    "prompt_loud_porn": {
+      "loud_thunder": "大きな雷",
+      "baby_crying_loud": "大きな赤ちゃんの泣き声",
+      "scotland_eas_alarm": "スコットランドEAS警報"
+    },
+    "prompt_porn_moaning": {
+      "rumbling": "地鳴り",
+      "free_zombie_moan_sound": "フリーゾンビうめき音",
+      "demonic_spirit_voice": "悪霊の声"
+    },
+    "prompt_porn_moan": {
+      "creepy_ghost_moan_sfx": "不気味な幽霊のうめきSFX",
+      "ghost_moan": "幽霊のうめき",
+      "creepy_moan": "不気味なうめき"
+    },
+    "prompt_loud_moaning_porn": {
+      "loud_thunder": "大きな雷",
+      "baby_crying_loud": "大きな赤ちゃんの泣き声",
+      "moaning_wraith": "うめく亡霊"
+    },
+    "prompt_women_moaning": {
+      "demon_moaning": "悪魔のうめき",
+      "moaning_wraith": "うめく亡霊",
+      "rumbling": "地鳴り"
+    },
+    "prompt_male_moans": {
+      "disapproving_male_grunt": "不満な男性の唸り",
+      "male_hurt_sound": "男性の苦痛音",
+      "male_groan_of_pain": "苦痛の男性のうめき"
+    },
+    "prompt_men_moaning_porn": {
+      "demonic_moaning": "悪魔的なうめき",
+      "demon_moaning": "悪魔のうめき",
+      "horror_moaning_and_groaning": "ホラーうめき"
+    },
+    "prompt_girls_moan": {
+      "ghost_moan": "幽霊のうめき",
+      "creepy_moan": "不気味なうめき",
+      "big_old_men_moan": "老人のうめき"
+    },
+    "prompt_girl_moan": {
+      "woman_sad_moan": "悲しい女性のうめき",
+      "woman_giving_birth": "出産する女性",
+      "creepy_ghost_moan_sfx": "不気味な幽霊のうめきSFX"
+    },
+    "prompt_moaning_porn": {
+      "horror_moaning_and_groaning": "ホラーうめき",
+      "demon_moaning": "悪魔のうめき",
+      "demonic_moaning": "悪魔的なうめき"
+    },
+    "prompt_moaning_sounds": {
+      "ghostly_moaning": "幽霊のうめき",
+      "zombie_call": "ゾンビの呼び声",
+      "free_zombie_moan_sounds": "フリーゾンビうめき音集"
+    },
+    "prompt_moaning_sound": {
+      "demon_moaning": "悪魔のうめき",
+      "zombie_sound": "ゾンビの音",
+      "tummy_song": "お腹の音"
+    },
+    "prompt_moans_sounds": {
+      "zombie_moan_sfx": "ゾンビのうめきSFX",
+      "zombie_sfx": "ゾンビSFX",
+      "zombiesound": "ゾンビ音"
+    },
+    "prompt_moan_sound": {
+      "creepy_ghost_sound": "不気味な幽霊の音",
+      "dogs_moan_sound": "犬のうめき",
+      "mumie_komt_aus_sarkophag": "ミイラの棺から"
+    },
+    "prompt_moan_sounds": {
+      "zombie_moan_sfx": "ゾンビのうめきSFX",
+      "guttural_snarl": "喉の唸り",
+      "zombie_moan": "ゾンビのうめき"
+    },
+    "prompt_moaning_noises": {
+      "hospital_icu_patient_moaning": "ICU患者のうめき",
+      "sex_noises_dose": "性的な音",
+      "little_dog_moaning": "子犬のうめき"
+    },
+    "prompt_sex_sounds": {
+      "bed_sex_sounds": "ベッドの音",
+      "primal_quickie": "原始的なクイック",
+      "chubby_girl_sex_sound_during_doggystyle": "後背位の音"
+    },
+    "prompt_sex_audio": {
+      "fucking_and_parents_next_door": "隣の部屋の音",
+      "sex_noises_dose": "性的な音",
+      "wife_squirming_in_pleasure": "喜びのうめき"
+    },
+    "prompt_sex_sound": {
+      "jumpling_on_a_small_trampoline_squeaking_sounds": "トランポリンのきしみ",
+      "body_percussion": "ボディパーカッション",
+      "rough_blow_job": "激しいフェラ"
+    },
+    "prompt_sex_moans": {
+      "moans_of_a_woman": "女性のうめき",
+      "catherine": "キャサリン",
+      "oral_sex_sounds": "オーラルセックスの音"
+    },
+    "prompt_sex_noises": {
+      "sex_noises_does": "性的な音",
+      "sex_noises_close": "近くの性的な音",
+      "water_noises": "水の音"
+    },
+    "prompt_sex_noise": {
+      "sex_noise": "性的な音",
+      "primal_quickie": "原始的なクイック",
+      "dubstep_sound": "ダブステップ音"
+    },
+    "prompt_sounds_of_sex": {
+      "synchronized_sex_energy": "同期した性的エネルギー",
+      "slowly_making_love": "ゆっくり愛し合う",
+      "sex_young_couple": "若いカップルの音"
+    },
+    "prompt_sex_sound_effects": {
+      "cute_hentai_girl_voice_orgasm_sound_effect": "かわいいアニメ声オーガズム",
+      "sexy_female_moan_sound_effect": "セクシー女性のうめき",
+      "sexy_vocals": "セクシーボーカル",
+      "moaning": "うめき"
+    },
+    "prompt_erotic_sounds": {
+      "diversity_of_masturbation": "多様な自慰",
+      "raspy_tomboy_voice_female_moan_sound_effect": "ハスキーなボーイッシュ女性のうめき",
+      "sub_breathing_nose_low": "低い鼻呼吸"
+    },
+    "prompt_real_sex_sounds": {
+      "sex_of_japanese_mature_couple": "日本人成熟カップルの音",
+      "sexual_intercourse": "性交",
+      "woman_getting_fucked": "女性の音"
+    },
+    "prompt_sounding_sex": {
+      "chubby_girl_sex_sound_during_doggystyle": "後背位の音",
+      "girl_sex_sounds": "女性の性的な音",
+      "synchronized_sex_energy": "同期した性的エネルギー"
+    },
+    "prompt_sex_sounds_porn": {
+      "funny_sounds": "面白い音",
+      "female_cute": "かわいい女性",
+      "porn_content_creators": "アダルトコンテンツクリエイター"
+    },
+    "prompt_vibrator_sound": {
+      "cell_phone_vibration": "携帯の振動",
+      "sound_of_phone_vibrating": "携帯振動音",
+      "alien_underworld_sound": "異世界の音"
+    },
+    "prompt_fuck_sound_effect": {
+      "fuck": "ファック",
+      "what_a_fuck": "なんてこった",
+      "stupid": "バカ"
+    },
+    "prompt_happy_scream": {
+      "crowd_of_boys_cheering": "少年たちの歓声",
+      "woman_excited_cheers_and_phrases_says_woohoo": "興奮する女性の歓声",
+      "happy_new_year": "あけましておめでとう"
+    },
+    "prompt_train_sound": {
+      "train_running_sound": "電車走行音",
+      "train_passing": "電車通過",
+      "train_whistle": "汽笛"
+    },
+    "prompt_train_sound_effect": {
+      "train_approach_sfx": "電車接近SFX",
+      "train_stopping": "電車停車",
+      "on_the_high_speed_train": "新幹線の中"
+    },
+    "prompt_train_sound_effects": {
+      "hungarian_train_ride": "ハンガリー電車の旅",
+      "incoming_commuter_train": "通勤電車到着",
+      "loud_train_horn": "大きな汽笛"
+    },
+    "prompt_train_horn": {
+      "train_horn": "汽笛",
+      "train_horn_fades": "フェードアウトする汽笛",
+      "loud_train_horn": "大きな汽笛"
+    },
+    "prompt_train_voice": {
+      "train_voice": "電車アナウンス",
+      "electronic_female_voice_at_train_station": "駅の女性電子音声",
+      "metro_train_sound": "地下鉄の音"
+    },
+    "prompt_train_noises": {
+      "inside_the_old_train": "古い電車の中",
+      "train_running_sound": "電車走行音",
+      "train_station_ambience": "駅の環境音"
+    },
+    "prompt_train_noise": {
+      "musical_train_noise": "音楽的な電車ノイズ",
+      "diesel_train_engine_noise": "ディーゼル機関車ノイズ",
+      "train_whistle_and_environment_sounds": "汽笛と環境音"
+    },
+    "prompt_transition_sound_effect": {
+      "riser_swoosh_transition": "ライザースウッシュトランジション",
+      "whoosh_cinematic_sound_effect": "シネマティック風切り音",
+      "scary_transition": "怖いトランジション"
+    },
+    "prompt_transition_sound_effects": {
+      "futuristic_transition": "未来的トランジション",
+      "professional_transition": "プロフェッショナルトランジション",
+      "sweet_transition": "かわいいトランジション"
+    },
+    "prompt_transition_sound": {
+      "transition_base": "トランジションベース",
+      "transition_explosion": "爆発トランジション",
+      "transition_coat": "コートトランジション"
+    },
+    "prompt_transition_sounds": {
+      "high_transition": "ハイトランジション",
+      "transition_fleeting": "一瞬のトランジション",
+      "interface": "インターフェース"
+    },
+    "prompt_transition_sfx": {
+      "bizzard_transition": "ブリザードトランジション",
+      "soft_transition": "ソフトトランジション",
+      "sand_transition": "砂トランジション"
+    },
+    "prompt_scream_soundboard": {
+      "male_death_scream_horror": "男性の断末魔ホラー叫び",
+      "falling_man_scream": "落下する男の叫び",
+      "echo_scream": "エコー叫び"
+    },
+    "prompt_loud": {
+      "corrupt_scream": "腐敗した叫び",
+      "male_death_scream_horror": "男性の断末魔ホラー叫び",
+      "male_voice_screaming_loudly": "大声で叫ぶ男性",
+      "young_girl_screaming": "少女の叫び",
+      "man_angry_loud": "怒る男性の大声",
+      "loud_female_scream": "大きな女性の叫び"
+    },
+    "prompt_cry_sounds": {
+      "crying_and_sobbing": "泣き声とすすり泣き",
+      "boy_crying_free_sound": "少年の泣き声フリー",
+      "baby_crying": "赤ちゃんの泣き声"
+    },
+    "prompt_yelling_sound": {
+      "random_guy_on_street_yelling": "路上で叫ぶ男",
+      "angry_man_yell_sound": "怒る男性の叫び",
+      "woman_enraged_fearful_scream_sound_effect": "激怒恐怖の女性叫び",
+      "army_of_soldiers_battle_cry": "軍隊の雄叫び",
+      "hilarious_yelling": "爆笑叫び",
+      "crowd_booing": "群衆のブーイング"
+    },
+    "prompt_beat": {
+      "indian_beats": "インドビート",
+      "hold_on_beat": "ビートをキープ",
+      "drum_beats": "ドラムビート",
+      "sweet_sound_effects": "かわいい効果音",
+      "beat_effect": "ビート効果",
+      "heartbeat": "心拍",
+      "clock_beat_effect": "時計ビート効果"
+    }
+  }
+}

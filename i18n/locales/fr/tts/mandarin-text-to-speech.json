@@ -1,0 +1,50 @@
+{
+  "mandarin-text-to-speech": {
+    "meta": {
+      "title": "TTS Chinois Gratuit",
+      "keywords": "TTS Chinois, Synthèse vocale mandarine, Texte chinois vers audio",
+      "description": "Transformez le texte mandarin en parole avec notre générateur TTS chinois. Créez un audio réaliste à partir de texte chinois pour les vidéos, podcasts et la création de contenu."
+    },
+    "hero": {
+      "title": "TTS Chinois",
+      "subtitle": "Créez une synthèse vocale mandarine réaliste pour les vidéos, podcasts et plus encore."
+    },
+    "faq": {
+      "title": "FAQ TTS Chinois",
+      "items": [
+        {
+          "question": "Qu'est-ce que le TTS Chinois (synthèse vocale mandarine) ?",
+          "answer": "Le TTS Chinois est une technologie avancée alimentée par l'IA qui convertit le texte mandarin en parole avec une voix naturelle. Notre outil de conversion texte chinois vers audio crée une voix IA authentique parfaite pour les vidéos, podcasts et la création de contenu."
+        },
+        {
+          "question": "Comment fonctionne la technologie TTS Chinois (synthèse vocale mandarine) ?",
+          "answer": "Notre générateur TTS Chinois utilise des réseaux neuronaux de pointe pour transformer le texte en voix IA réaliste. Le système de synthèse vocale mandarine analyse les modèles linguistiques mandarins et génère des sons naturels avec une prononciation et une intonation appropriées."
+        },
+        {
+          "question": "Qu'est-ce qui rend ce TTS Chinois différent des autres outils de synthèse vocale mandarine ?",
+          "answer": "Notre outil TTS Chinois offre une qualité audio supérieure avec une voix IA mandarine authentique. Contrairement aux solutions de base de conversion texte chinois vers audio, notre technologie fournit une prononciation précise, une profondeur émotionnelle et des modèles de parole mandarine naturels."
+        },
+        {
+          "question": "Puis-je utiliser le TTS Chinois à des fins commerciales ?",
+          "answer": "Oui, notre outil prend entièrement en charge l'utilisation commerciale. La technologie de synthèse vocale mandarine fournit une voix IA de qualité professionnelle adaptée au marketing, aux présentations, au contenu commercial et aux applications de conversion texte chinois vers audio."
+        },
+        {
+          "question": "Quelle qualité audio le TTS Chinois (synthèse vocale mandarine) fournit-il ?",
+          "answer": "Notre générateur TTS Chinois produit un audio de qualité studio avec une prononciation mandarine cristalline. La technologie de conversion texte chinois vers audio crée des modèles sonores naturels et une expression authentique qui sonne comme des locuteurs mandarins natifs."
+        },
+        {
+          "question": "Comment utiliser le TTS Chinois (synthèse vocale mandarine) ?",
+          "answer": "Utiliser notre outil TTS Chinois est simple : entrez votre texte mandarin, sélectionnez votre style de voix IA chinoise préféré et générez. La technologie de conversion texte chinois vers audio crée instantanément une sortie de parole mandarine de haute qualité."
+        },
+        {
+          "question": "Quels formats audio le TTS Chinois (synthèse vocale mandarine) prend-il en charge ?",
+          "answer": "Notre outil exporte des fichiers MP3 de haute qualité. La technologie de synthèse vocale mandarine assure la compatibilité avec les logiciels de montage vidéo, les plateformes de médias sociaux et les applications audio pour les projets de conversion texte chinois vers audio."
+        },
+        {
+          "question": "Le TTS Chinois (synthèse vocale mandarine) est-il gratuit à utiliser ?",
+          "answer": "Oui, notre générateur TTS Chinois offre un accès gratuit aux fonctionnalités de base. Vous pouvez créer du contenu vocal IA mandarin authentique sans coût en utilisant notre technologie avancée de conversion texte chinois vers audio et nos capacités de synthèse vocale mandarine."
+        }
+      ]
+    }
+  }
+}

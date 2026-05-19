@@ -300,6 +300,54 @@ const pageConfigs: Record<string, PageConfig> = {
     defaultCategory: 'english',
     defaultModel: 'story-teller-male',
     hrefPath: 'story-reading'
+  },
+  "chinese-text-to-speech": {
+    pageKey: "chinese-text-to-speech",
+    defaultCategory: 'china',
+    defaultModel: 'shangxinyujie-female',
+    hrefPath: 'chinese-text-to-speech'
+  },
+  "french-text-to-speech": {
+    pageKey: "french-text-to-speech",
+    defaultCategory: 'france',
+    defaultModel: 'fr-female-ariane',
+    hrefPath: 'french-text-to-speech'
+  },
+  "japanese-text-to-speech": {
+    pageKey: "japanese-text-to-speech",
+    defaultCategory: 'japan',
+    defaultModel: 'dinggonglihui-female',
+    hrefPath: 'japanese-text-to-speech'
+  },
+  "japanese-text-to-voice": {
+    pageKey: "japanese-text-to-voice",
+    defaultCategory: 'japan',
+    defaultModel: 'dinggonglihui-female',
+    hrefPath: 'japanese-text-to-voice'
+  },
+  "japanese-tts": {
+    pageKey: "japanese-tts",
+    defaultCategory: 'japan',
+    defaultModel: 'dinggonglihui-female',
+    hrefPath: 'japanese-tts'
+  },
+  "mandarin-text-to-speech": {
+    pageKey: "mandarin-text-to-speech",
+    defaultCategory: 'china',
+    defaultModel: 'shangxinyujie-female',
+    hrefPath: 'mandarin-text-to-speech'
+  },
+  "spanish-text-to-speech": {
+    pageKey: "spanish-text-to-speech",
+    defaultCategory: 'spain',
+    defaultModel: 'es-female-alejandra',
+    hrefPath: 'spanish-text-to-speech'
+  },
+  "spanish-tts": {
+    pageKey: "spanish-tts",
+    defaultCategory: 'spain',
+    defaultModel: 'es-female-alejandra',
+    hrefPath: 'spanish-tts'
   }
 }
 

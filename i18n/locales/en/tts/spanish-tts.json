@@ -1,0 +1,50 @@
+{
+  "spanish-tts": {
+    "meta": {
+      "title": "Free Spanish TTS",
+      "keywords": "Spanish TTS, TTS Spanish",
+      "description": "Our Spanish TTS tool transforms text to Spanish voice online. Creates authentic TTS Spanish for videos, podcasts, and content creation."
+    },
+    "hero": {
+      "title": "Best Spanish TTS",
+      "subtitle": "Create authentic TTS Spanish for videos, podcasts and content creation."
+    },
+    "faq": {
+      "title": "Spanish TTS FAQ",
+      "items": [
+        {
+          "question": "What is Spanish TTS?",
+          "answer": "Spanish TTS (Text-to-Speech) is advanced AI technology that converts written text into natural-sounding speech. Our tool creates authentic AI voices perfect for videos, podcasts, and content creation with native language pronunciation."
+        },
+        {
+          "question": "How does Spanish TTS technology work?",
+          "answer": "The generator uses deep learning neural networks to analyze language patterns and generate realistic speech. The TTS Spanish system processes text, applies proper pronunciation rules, and produces natural-sounding audio with authentic language intonation."
+        },
+        {
+          "question": "What makes this Spanish TTS different?",
+          "answer": "This generator offers superior audio quality with authentic AI voices. Unlike basic TTS Spanish solutions, our technology provides precise pronunciation, emotional depth, and natural speech patterns that sound like native language speakers."
+        },
+        {
+          "question": "Can I use Spanish TTS for business?",
+          "answer": "Yes, our Spanish TTS generator supports commercial use. The text-to-speech technology delivers professional-quality AI voices suitable for marketing, presentations, training materials, and business content in Spanish markets."
+        },
+        {
+          "question": "What audio quality does Spanish TTS provide?",
+          "answer": "This generator produces studio-quality audio with crystal-clear sound. The TTS Spanish technology creates natural speech patterns, authentic language expressions, and high-fidelity audio suitable for professional applications."
+        },
+        {
+          "question": "How do I use Spanish TTS?",
+          "answer": "Using this generator is simple: paste your text, choose your preferred AI voice style, and click generate. The text-to-speech technology instantly creates high-quality audio files ready for download and use."
+        },
+        {
+          "question": "What formats does Spanish TTS support?",
+          "answer": "This generator exports high-quality MP3 and WAV files. The TTS Spanish technology ensures compatibility with video editing software, social media platforms, podcast tools, and audio applications."
+        },
+        {
+          "question": "Is Spanish TTS free to use?",
+          "answer": "Yes, this generator offers free access to core features. You can create authentic AI voice content without cost using our advanced TTS Spanish technology for personal and commercial projects."
+        }
+      ]
+    }
+  }
+}

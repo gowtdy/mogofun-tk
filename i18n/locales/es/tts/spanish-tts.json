@@ -1,0 +1,50 @@
+{
+  "spanish-tts": {
+    "meta": {
+      "title": "TTS Español Gratuito",
+      "keywords": "TTS Español, TTS Española",
+      "description": "Nuestra herramienta TTS español convierte texto a voz española en línea. Crea TTS español auténtico para videos, podcasts y creación de contenido."
+    },
+    "hero": {
+      "title": "Mejor TTS Español",
+      "subtitle": "Crea TTS español auténtico para videos, podcasts y creación de contenido."
+    },
+    "faq": {
+      "title": "Preguntas Frecuentes TTS Español",
+      "items": [
+        {
+          "question": "¿Qué es TTS Español?",
+          "answer": "TTS Español (Texto a Voz) es tecnología de IA avanzada que convierte texto escrito en habla natural. Nuestra herramienta crea voces de IA auténticas perfectas para videos, podcasts y creación de contenido con pronunciación de lengua nativa."
+        },
+        {
+          "question": "¿Cómo funciona la tecnología TTS Español?",
+          "answer": "El generador utiliza redes neuronales de aprendizaje profundo para analizar patrones de lenguaje y generar habla realista. El sistema TTS español procesa texto, aplica reglas de pronunciación apropiadas y produce audio natural con entonación lingüística auténtica."
+        },
+        {
+          "question": "¿Qué hace diferente a este TTS Español?",
+          "answer": "Este generador ofrece calidad de audio superior con voces de IA auténticas. A diferencia de las soluciones TTS español básicas, nuestra tecnología proporciona pronunciación precisa, profundidad emocional y patrones de habla natural que suenan como hablantes nativos."
+        },
+        {
+          "question": "¿Puedo usar TTS Español para negocios?",
+          "answer": "Sí, nuestro generador TTS español admite uso comercial. La tecnología de texto a voz entrega voces de IA de calidad profesional adecuadas para marketing, presentaciones, materiales de entrenamiento y contenido comercial en mercados españoles."
+        },
+        {
+          "question": "¿Qué calidad de audio proporciona TTS Español?",
+          "answer": "Este generador produce audio de calidad de estudio con sonido cristalino. La tecnología TTS español crea patrones de habla natural, expresiones lingüísticas auténticas y audio de alta fidelidad adecuado para aplicaciones profesionales."
+        },
+        {
+          "question": "¿Cómo uso TTS Español?",
+          "answer": "Usar este generador es simple: pega tu texto, elige tu estilo de voz de IA preferido y haz clic en generar. La tecnología de texto a voz crea instantáneamente archivos de audio de alta calidad listos para descargar y usar."
+        },
+        {
+          "question": "¿Qué formatos admite TTS Español?",
+          "answer": "Este generador exporta archivos MP3 y WAV de alta calidad. La tecnología TTS español asegura compatibilidad con software de edición de video, plataformas de redes sociales, herramientas de podcast y aplicaciones de audio."
+        },
+        {
+          "question": "¿TTS Español es gratuito para usar?",
+          "answer": "Sí, este generador ofrece acceso gratuito a funciones principales. Puedes crear contenido de voz de IA auténtico sin costo usando nuestra tecnología TTS español avanzada para proyectos personales y comerciales."
+        }
+      ]
+    }
+  }
+}

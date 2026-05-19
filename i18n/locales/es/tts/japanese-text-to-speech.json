@@ -1,0 +1,50 @@
+{
+  "japanese-text-to-speech": {
+    "meta": {
+      "title": "Texto a Voz Japonés",
+      "keywords": "texto a voz japonés, voz japonesa IA, voz artificial japonesa",
+      "description": "Nuestra herramienta de texto a voz japonesa convierte texto japonés en voz en línea. Crea voz IA japonesa auténtica para videos, podcasts y creación de contenido."
+    },
+    "hero": {
+      "title": "Mejor Texto a Voz Japonés",
+      "subtitle": "Crea voz IA japonesa auténtica para videos, podcasts y creación de contenido."
+    },
+    "faq": {
+      "title": "Preguntas Frecuentes sobre Texto a Voz Japonés",
+      "items": [
+        {
+          "question": "¿Qué es el texto a voz japonés?",
+          "answer": "El texto a voz es una tecnología impulsada por IA que convierte texto escrito en voz natural. Nuestra herramienta de texto a voz japonesa crea voz IA japonesa auténtica perfecta para videos, podcasts y creación de contenido."
+        },
+        {
+          "question": "¿Cómo funciona la tecnología de texto a voz japonés?",
+          "answer": "Nuestro generador de texto a voz utiliza redes neuronales avanzadas para transformar texto en voz IA japonesa auténtica. El sistema de texto a voz japonés analiza patrones de lenguaje y genera voz natural con pronunciación correcta."
+        },
+        {
+          "question": "¿Qué hace diferente este texto a voz japonés?",
+          "answer": "Nuestra herramienta de texto a voz ofrece calidad de audio superior con voz IA japonesa auténtica. A diferencia de las soluciones básicas de texto a voz japonés, nuestra tecnología proporciona pronunciación precisa y profundidad emocional."
+        },
+        {
+          "question": "¿Puedo usar texto a voz japonés para negocios?",
+          "answer": "Sí, nuestra herramienta de texto a voz admite uso comercial. La tecnología de texto a voz japonesa proporciona voz IA japonesa de calidad profesional adecuada para marketing, presentaciones y contenido empresarial."
+        },
+        {
+          "question": "¿Qué calidad de audio proporciona el texto a voz japonés?",
+          "answer": "Nuestro generador de texto a voz produce audio de calidad de estudio. La tecnología de texto a voz crea voz IA japonesa cristalina con patrones de habla naturales y expresión auténtica."
+        },
+        {
+          "question": "¿Cómo uso el texto a voz japonés?",
+          "answer": "Usar la herramienta de texto a voz es simple: ingresa tu texto, selecciona tu estilo de voz IA preferido y genera. La tecnología de texto a voz convierte instantáneamente el texto en audio de alta calidad."
+        },
+        {
+          "question": "¿Qué formatos admite el texto a voz japonés?",
+          "answer": "Nuestra herramienta de texto a voz exporta archivos MP3 de alta calidad. La tecnología TTS asegura compatibilidad con software de edición de video, plataformas de redes sociales y aplicaciones de audio."
+        },
+        {
+          "question": "¿El texto a voz japonés es gratuito?",
+          "answer": "Sí, nuestro generador TTS ofrece acceso gratuito a funciones básicas. Puedes crear contenido de voz IA japonesa auténtico sin costo usando nuestra tecnología avanzada de texto a voz japonesa."
+        }
+      ]
+    }
+  }
+}

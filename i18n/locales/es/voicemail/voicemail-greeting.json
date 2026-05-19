@@ -1,0 +1,50 @@
+{
+  "voicemail-greeting": {
+    "meta": {
+      "title": "Generador Gratuito de Saludos de Buzón de Voz",
+      "keywords": "saludo de buzón de voz, generador de saludos de buzón de voz, generador gratuito de saludos de buzón de voz",
+      "description": "Crea instantáneamente saludos profesionales de buzón de voz con nuestro generador de saludos de buzón de voz. Genera saludos de buzón de voz de alta calidad para uso comercial y personal."
+    },
+    "hero": {
+      "title": "Generador de Saludos de Buzón de Voz",
+      "subtitle": "Crea instantáneamente saludos de buzón de voz para uso comercial y personal."
+    },
+    "faq": {
+      "title": "Preguntas Frecuentes del Generador de Saludos de Buzón de Voz",
+      "items": [
+        {
+          "question": "¿Qué es un saludo de buzón de voz y por qué lo necesito?",
+          "answer": "Un saludo de buzón de voz es un mensaje de audio profesional que se reproduce cuando los llamantes llegan a su buzón de voz. Nuestro generador gratuito de saludos de buzón de voz crea mensajes personalizados que dejan una gran primera impresión. Ya sea para uso comercial o personal, un saludo de buzón de voz bien elaborado ayuda a los llamantes a sentirse bienvenidos e informados."
+        },
+        {
+          "question": "¿Cómo funciona el generador de saludos de buzón de voz?",
+          "answer": "Nuestro generador de saludos de buzón de voz utiliza tecnología de IA avanzada para convertir su texto en audio de sonido natural. Simplemente escriba su mensaje, seleccione su estilo de voz preferido, y el generador crea saludos profesionales de buzón de voz en segundos. Puede crear saludos de buzón de voz gratis o actualizar a funciones premium."
+        },
+        {
+          "question": "¿Puedo usar el generador gratuito de saludos de buzón de voz?",
+          "answer": "¡Sí! Nuestro generador gratuito de saludos de buzón de voz ofrece funciones básicas para crear saludos profesionales de buzón de voz sin costo alguno. Aunque la versión gratuita tiene algunas limitaciones, es perfecta para crear saludos simples de buzón de voz. Actualice a premium para personalización avanzada y generación ilimitada de saludos de buzón de voz."
+        },
+        {
+          "question": "¿Qué hace que los mejores saludos de buzón de voz?",
+          "answer": "Los mejores saludos de buzón de voz son claros, profesionales y acogedores. Nuestro generador gratuito de saludos de buzón de voz asegura que su mensaje suene natural y atractivo. Mantenga su saludo de buzón de voz conciso (15-30 segundos), amigable e informativo. El generador le ayuda a crear saludos de buzón de voz que reflejen su personalidad mientras mantienen el profesionalismo."
+        },
+        {
+          "question": "¿Cómo descargo mi saludo de buzón de voz generado?",
+          "answer": "Después de usar nuestro generador gratuito de saludos de buzón de voz, puede previsualizar y descargar su archivo de audio instantáneamente. El generador admite múltiples formatos, facilitando el uso de su saludo de buzón de voz en cualquier dispositivo. Simplemente haga clic en descargar y guarde su saludo de buzón de voz en su teléfono o computadora para uso inmediato."
+        },
+        {
+          "question": "¿Son los saludos de buzón de voz adecuados para uso comercial?",
+          "answer": "¡Absolutamente! Los saludos profesionales de buzón de voz son esenciales para la comunicación comercial. Nuestro generador gratuito de saludos de buzón de voz ofrece varios estilos, desde tonos comerciales casuales hasta formales. Puede crear saludos de buzón de voz que mejoren la imagen profesional de su empresa mientras mantienen una atmósfera acogedora para clientes y colegas."
+        },
+        {
+          "question": "¿Qué calidad de audio tienen los saludos de buzón de voz generados?",
+          "answer": "Nuestro generador de saludos de buzón de voz produce audio de alta calidad que suena natural y profesional. La tecnología de IA asegura que su saludo de buzón de voz mantenga pronunciación clara y estándares profesionales. Ya sea creando mensajes cortos o saludos más largos, la salida es nítida y adecuada para uso profesional."
+        },
+        {
+          "question": "¿Con qué frecuencia debo actualizar mi saludo de buzón de voz?",
+          "answer": "Actualice su saludo de buzón de voz regularmente para mantenerlo fresco y relevante. Nuestro generador de saludos de buzón de voz facilita la creación de nuevos mensajes cuando sea necesario. Considere actualizaciones estacionales, ocasiones especiales o cambios comerciales. Las actualizaciones regulares muestran que está activo y comprometido con sus comunicaciones."
+        }
+      ]
+    }
+  }
+}

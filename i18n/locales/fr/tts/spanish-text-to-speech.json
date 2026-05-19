@@ -1,0 +1,50 @@
+{
+  "spanish-text-to-speech": {
+    "meta": {
+      "title": "Synthèse Vocale Espagnole",
+      "keywords": "synthèse vocale espagnole, texte vers parole espagnol",
+      "description": "Notre outil de synthèse vocale espagnole transforme le texte espagnol en parole en ligne. Crée une synthèse vocale espagnole réaliste pour les vidéos, podcasts et la création de contenu."
+    },
+    "hero": {
+      "title": "Meilleure Synthèse Vocale Espagnole",
+      "subtitle": "Créez une synthèse vocale espagnole réaliste pour les vidéos, podcasts et plus encore."
+    },
+    "faq": {
+      "title": "FAQ Synthèse Vocale Espagnole",
+      "items": [
+        {
+          "question": "Qu'est-ce que la synthèse vocale espagnole ?",
+          "answer": "La synthèse vocale espagnole est une technologie alimentée par l'IA qui génère une parole naturelle. Notre outil de synthèse vocale espagnole crée une voix IA authentique parfaite pour les vidéos, podcasts et la création de contenu."
+        },
+        {
+          "question": "Comment fonctionne la technologie de synthèse vocale espagnole ?",
+          "answer": "Notre générateur de synthèse vocale utilise des réseaux neuronaux avancés pour générer une voix IA réaliste. Le système de synthèse vocale espagnole analyse les modèles linguistiques et génère des sons naturels avec une prononciation correcte."
+        },
+        {
+          "question": "Qu'est-ce qui rend cette synthèse vocale espagnole différente ?",
+          "answer": "Notre outil de synthèse vocale offre une qualité audio supérieure avec une voix IA espagnole authentique. Contrairement aux solutions de synthèse vocale espagnole de base, notre technologie fournit une prononciation précise et une profondeur émotionnelle."
+        },
+        {
+          "question": "Puis-je utiliser la synthèse vocale espagnole pour les affaires ?",
+          "answer": "Oui, notre outil de synthèse vocale prend en charge l'utilisation commerciale. La technologie de synthèse vocale espagnole fournit une voix IA de qualité professionnelle adaptée au marketing, aux présentations et au contenu commercial."
+        },
+        {
+          "question": "Quelle qualité audio la synthèse vocale espagnole fournit-elle ?",
+          "answer": "Notre générateur de synthèse vocale produit un audio de qualité studio. La technologie de synthèse vocale crée une voix IA cristalline avec des modèles sonores naturels et une expression authentique."
+        },
+        {
+          "question": "Comment utiliser la synthèse vocale espagnole ?",
+          "answer": "Utiliser l'outil de synthèse vocale est simple : entrez votre texte, sélectionnez votre style de voix IA préféré et générez. La technologie de synthèse vocale génère instantanément un audio de haute qualité."
+        },
+        {
+          "question": "Quels formats la synthèse vocale espagnole prend-elle en charge ?",
+          "answer": "Notre outil de synthèse vocale exporte des fichiers MP3 de haute qualité. La technologie TTS assure la compatibilité avec les logiciels d'édition vidéo, les plateformes de médias sociaux et les applications audio."
+        },
+        {
+          "question": "La synthèse vocale espagnole est-elle gratuite ?",
+          "answer": "Oui, notre générateur TTS espagnol offre un accès gratuit aux fonctionnalités principales. Vous pouvez créer du contenu vocal IA authentique sans coût en utilisant notre technologie de synthèse vocale espagnole avancée."
+        }
+      ]
+    }
+  }
+}

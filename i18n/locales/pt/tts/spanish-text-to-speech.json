@@ -1,0 +1,50 @@
+{
+  "spanish-text-to-speech": {
+    "meta": {
+      "title": "Texto para Voz em Espanhol",
+      "keywords": "texto para voz espanhol, texto para voz em espanhol",
+      "description": "Nossa ferramenta de texto para voz em espanhol transforma texto espanhol em voz online. Cria texto para voz espanhol realista para vídeos, podcasts e criação de conteúdo."
+    },
+    "hero": {
+      "title": "Melhor Texto para Voz em Espanhol",
+      "subtitle": "Crie texto para voz espanhol realista para vídeos, podcasts e muito mais."
+    },
+    "faq": {
+      "title": "Perguntas Frequentes sobre Texto para Voz em Espanhol",
+      "items": [
+        {
+          "question": "O que é texto para voz em espanhol?",
+          "answer": "Texto para voz em espanhol é uma tecnologia alimentada por IA que gera fala com som natural. Nossa ferramenta de texto para voz espanhol cria voz de IA autêntica perfeita para vídeos, podcasts e criação de conteúdo."
+        },
+        {
+          "question": "Como funciona a tecnologia de texto para voz em espanhol?",
+          "answer": "Nosso gerador de texto para voz usa redes neurais avançadas para gerar voz de IA realista. O sistema de texto para voz espanhol analisa padrões de linguagem e gera sons naturais com pronúncia adequada."
+        },
+        {
+          "question": "O que torna este texto para voz em espanhol diferente?",
+          "answer": "Nossa ferramenta de texto para voz oferece qualidade de áudio superior com voz de IA espanhola autêntica. Diferente das soluções básicas de texto para voz espanhol, nossa tecnologia fornece pronúncia precisa e profundidade emocional."
+        },
+        {
+          "question": "Posso usar texto para voz em espanhol para negócios?",
+          "answer": "Sim, nossa ferramenta de texto para voz suporta uso comercial. A tecnologia de texto para voz espanhol fornece voz de IA de qualidade profissional adequada para marketing, apresentações e conteúdo empresarial."
+        },
+        {
+          "question": "Que qualidade de áudio o texto para voz em espanhol fornece?",
+          "answer": "Nosso gerador de texto para voz produz áudio de qualidade de estúdio. A tecnologia de texto para voz cria voz de IA cristalina com padrões de som naturais e expressão autêntica."
+        },
+        {
+          "question": "Como uso o texto para voz em espanhol?",
+          "answer": "Usar a ferramenta de texto para voz é simples: digite seu texto, selecione seu estilo de voz de IA preferido e gere. A tecnologia de texto para voz gera instantaneamente áudio de alta qualidade."
+        },
+        {
+          "question": "Quais formatos o texto para voz em espanhol suporta?",
+          "answer": "Nossa ferramenta de texto para voz exporta arquivos MP3 de alta qualidade. A tecnologia TTS garante compatibilidade com software de edição de vídeo, plataformas de mídia social e aplicações de áudio."
+        },
+        {
+          "question": "O texto para voz em espanhol é gratuito?",
+          "answer": "Sim, nosso gerador TTS espanhol oferece acesso gratuito aos recursos principais. Você pode criar conteúdo de voz de IA autêntico sem custo usando nossa tecnologia avançada de texto para voz espanhol."
+        }
+      ]
+    }
+  }
+}

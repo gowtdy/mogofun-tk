@@ -312,7 +312,7 @@ const handleLoginSuccess = () => {
 // 用户信息和加载状态
 const userInfo = ref(null)
 const loading = ref(true)
-const stripePortalLink = ref('https://billing.stripe.com/p/login/8wM5lDcXI7uzf4YeUU')
+const stripePortalLink = ref('https://billing.stripe.com/p/login/aFadR93eK5pFeHX6Oo8bS00')
 const customEmail = ref(userEmail.value)
 
 const userSubscript = ref(0)  // 有3个取值, 0 未订阅, 1 已订阅, 2 虽订阅,字符已用完

@@ -117,7 +117,7 @@
 const { t, locale } = useI18n()
 import { config } from '~/config/config'
 const host = config.host
-const cdnhost = config.cdnHost
+const cdnHost = config.cdnHost
 
 // SEO Meta Tags
 useHead({

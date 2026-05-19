@@ -1,9 +1,9 @@
 <template>
   <div class="bg-white rounded-2xl border border-gray-100 shadow-sm p-6 mb-12" :class="$attrs.class">
-    <p class="text-gray-500 text-base mb-4">{{ generatorSubtitle }}</p>
+    <p class="text-gray-500 text-base mb-4 text-center">{{ generatorSubtitle }}</p>
     
     <!-- 标签示例 -->
-    <div class="flex flex-wrap gap-2 mb-6">
+    <div class="flex flex-wrap gap-2 justify-center mb-6">
       <button
         v-for="(prompt, idx) in promptExamples"
         :key="idx"
@@ -101,6 +101,7 @@ import PayModal from '~/components/PayModal.vue'
 import CommonModal from '~/components/CommonModal.vue'
 import { useRoute } from 'vue-router'
 import { useI18n } from 'vue-i18n'
+import { useSoundEffectPrompts } from '~/composables/useSoundEffectPrompts'
 
 // 添加组件定义
 defineOptions({
@@ -119,6 +120,10 @@ const generatorSubtitle = computed(() => {
   void locale.value
   return t(`${props.pageKey}.generator_subtitle`)
 })
+
+const { promptExamples, presetDescription } = useSoundEffectPrompts(
+  () => props.pageKey,
+)
 const { getOrCreateUid, getUserInfo } = useAuth()
 const { reportError } = useErrorReporter()
 const { trackAction, actionCounts } = useActionReporter()
@@ -150,40 +155,6 @@ interface SoundEffectResponse {
   msg?: string
 }
 
-// 修改 promptExamples 数据结构以匹配新的样式需求
-const promptExamples = [
-          // Combat & UI
-        { key: 'sword whoosh', display: 'soundeffect_common.prompt_combat.sword_whoosh' },
-        { key: 'sword whooshing through the air', display: 'soundeffect_common.prompt_combat.sword_through_air' },
-        { key: 'shotgun fire', display: 'soundeffect_common.prompt_combat.shotgun_fire' },
-        { key: 'futuristic laser gunshots', display: 'soundeffect_common.prompt_combat.laser_gunshot' },
-        { key: 'user interface success notifications', display: 'soundeffect_common.prompt_combat.ui_success' },
-
-        // Nature
-        { key: 'Rain', display: 'soundeffect_common.prompt_nature.rain' },
-        { key: 'ocean waves', display: 'soundeffect_common.prompt_nature.ocean_waves' },
-        { key: 'flowing water', display: 'soundeffect_common.prompt_nature.flowing_water' },
-
-        // Special Effects
-        { key: 'Fireworks', display: 'soundeffect_common.prompt_special.fireworks' },
-        { key: 'glass shattering', display: 'soundeffect_common.prompt_special.glass_shattering' },
-        { key: 'magic spell', display: 'soundeffect_common.prompt_special.magic_spell' },
-
-        // Instruments
-        { key: 'Piano', display: 'soundeffect_common.prompt_instruments.piano' },
-        { key: 'electric guitar', display: 'soundeffect_common.prompt_instruments.electric_guitar' },
-        { key: 'Violin', display: 'soundeffect_common.prompt_instruments.violin' },
-
-        // Human Sounds
-        { key: 'baby laughing', display: 'soundeffect_common.prompt_human.baby_laughing' },
-        { key: 'Clapping', display: 'soundeffect_common.prompt_human.clapping' },
-        { key: 'Celebrate', display: 'soundeffect_common.prompt_human.celebrate' },
-
-        // Ambient
-        { key: 'Typing', display: 'soundeffect_common.prompt_ambient.typing' },
-        { key: 'noisy restaurant', display: 'soundeffect_common.prompt_ambient.noisy_restaurant' },
-        { key: 'doorbell ring', display: 'soundeffect_common.prompt_ambient.doorbell_ring' }
-]
 const description = ref('')
 const isGenerating = ref(false)
 const generatedSound = ref('')
@@ -211,6 +182,8 @@ watch(() => locale.value, () => {
 
 // 在组件挂载时初始化
 onMounted(() => {
+  description.value = presetDescription.value
+
   // 初始化用户状态
   if (isLoggedIn.value) {
     fetchUserSubscription()
@@ -605,7 +578,7 @@ async function downloadSound() {
 
 // 标签选择
 function selectPrompt(key: string) {
-  const prompt = promptExamples.find(p => p.key === key)
+  const prompt = promptExamples.value.find(p => p.key === key)
   if (prompt) {
     description.value = prompt.key
   }

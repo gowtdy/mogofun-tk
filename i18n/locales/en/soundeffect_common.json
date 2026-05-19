@@ -1,0 +1,1032 @@
+{
+  "soundeffect_common": {
+    "display_title": "Listen to realistic AI-generated sound effects below",
+    "input_placeholder": "Enter sound effect description",
+    "generating_button": "Generating...",
+    "generate_button": "Generate",
+    "msg_example_load_failed": "Sound sample load failed, please try again later!",
+    "msg_example_play_failed": "Sound sample play failed, please try again later!",
+    "msg_notext": "Please enter a description to generate a sound effect",
+    "download": {
+      "noAudio": "No audio to download",
+      "success": "Download successful",
+      "failed": "Download failed, please try again later",
+      "fetchFailed": "Sounds download failed, please try again later!"
+    },
+    "category_nature": "Natural Sounds",
+    "category_special": "Special Effects",
+    "category_instrument": "Musical Instruments",
+    "category_human": "Human Sounds",
+    "category_ambient": "Ambient Sounds",
+    "sample_rain": "Rain",
+    "sample_ocean": "Ocean waves",
+    "sample_water": "Flowing water",
+    "sample_thunder": "Thunder",
+    "sample_insect": "Insect sounds",
+    "sample_fireworks": "Fireworks",
+    "sample_glass": "Glass breaking",
+    "sample_magic": "Magic",
+    "sample_spaceship": "Spaceship",
+    "sample_action": "Action",
+    "sample_piano": "Piano",
+    "sample_guitar": "Electric guitar",
+    "sample_violin": "Violin",
+    "sample_keyboard": "Electronic keyboard",
+    "sample_pipes": "Irish pipes",
+    "sample_baby": "Baby laughing",
+    "sample_clap": "Clapping",
+    "sample_celebrate": "Celebration",
+    "sample_footsteps": "Footsteps",
+    "sample_burp": "Burp",
+    "sample_typing": "Typing",
+    "sample_restaurant": "Noisy restaurant",
+    "sample_doorbell": "Doorbell",
+    "sample_tv": "TV on",
+    "sample_cooking": "Cooking",
+    "prompt_combat": {
+      "sword_whoosh": "Sword whoosh",
+      "sword_through_air": "Sword through air",
+      "shotgun_fire": "Shotgun fire",
+      "gunshot": "Gunshot",
+      "pistol_shot": "Pistol shot",
+      "firearm_shooting": "Firearm shooting",
+      "weapon_fire": "Weapon fire",
+      "rifle_shot": "Rifle shot",
+      "revolver_shot": "Revolver shot",
+      "machine_gun": "Machine gun",
+      "laser_gunshot": "Laser gunshot",
+      "ui_success": "UI success"
+    },
+    "prompt_button": {
+      "button_pressed": "Button pressed",
+      "mouse_button_clicked": "Mouse button clicked",
+      "telephone_button": "Telephone button",
+      "keyboard_button": "Keyboard button",
+      "mobile_phone_button": "Mobile phone button"
+    },
+    "prompt_typing": {
+      "keyboard_typing": "Keyboard typing",
+      "typewriter_typing": "Typewriter typing",
+      "laptop_typing": "Laptop typing"
+    },
+    "prompt_nature": {
+      "name": "Nature Sounds",
+      "rain": "Rain",
+      "ocean_waves": "Ocean waves",
+      "flowing_water": "Flowing water",
+      "thunder": "Thunder",
+      "insect_sounds": "Insect sounds"
+    },
+    "prompt_special": {
+      "name": "Special Effects",
+      "fireworks": "Fireworks",
+      "glass_shattering": "Glass shattering",
+      "magic_spell": "Magic spell",
+      "spaceship": "Spaceship",
+      "action": "Action"
+    },
+    "prompt_instruments": {
+      "name": "Instruments Sounds",
+      "piano": "Piano",
+      "electric_guitar": "Electric guitar",
+      "violin": "Violin",
+      "keyboard": "Keyboard",
+      "irish_pipes": "Irish pipes"
+    },
+    "prompt_human": {
+      "name": "Human Sounds",
+      "baby_laughing": "Baby laughing",
+      "clapping": "Clapping",
+      "celebrate": "Celebration",
+      "footsteps": "Footsteps",
+      "burp": "Burp"
+    },
+    "prompt_ambient": {
+      "name": "Ambient Sounds",
+      "typing": "Typing",
+      "noisy_restaurant": "Noisy restaurant",
+      "doorbell_ring": "Doorbell ring",
+      "tv_on": "TV on",
+      "cooking": "Cooking"
+    },
+    "prompt_car": {
+      "car_horn": "Car horn",
+      "car_honk": "Car honk",
+      "vehicle": "Vehicle",
+      "car_door": "Car door",
+      "automobile": "Automobile",
+      "road_sound": "Road sound",
+      "car_engine": "Car engine",
+      "car_crash": "Car crash"
+    },
+    "prompt_car_sound": {
+      "car_pass_by": "Car pass by",
+      "car_engine": "Car engine",
+      "car_crash_sound_effect": "Car crash sound effect"
+    },
+    "prompt_car_sounds": {
+      "car_honk": "Car honk",
+      "car_engine_roaring": "Car engine roaring",
+      "car_door_shut": "Car door shut"
+    },
+    "prompt_car_noises": {
+      "car_honk": "Car honk",
+      "car_crash_sound_effect": "Car crash sound effect",
+      "car_pass_by": "Car pass by"
+    },
+    "prompt_cars_sounds": {
+      "car_engine": "Car engine",
+      "space_sound_effect": "Space sound effect",
+      "police_siren": "Police siren"
+    },
+    "prompt_carsound": {
+      "car_door_shut": "Car door shut",
+      "car_crash": "Car crash",
+      "car_driving_ambience": "Car driving ambience"
+    },
+    "prompt_car_effect": {
+      "car_chase_sound_effect": "Car chase sound effect",
+      "car_whizzing_by": "Car whizzing by",
+      "car_engine_roaring": "Car engine roaring"
+    },
+    "prompt_car_voice": {
+      "allahabad_traffic": "Allahabad traffic",
+      "carwash_unsuccessful": "Carwash unsuccessful",
+      "city_sounds": "City sounds"
+    },
+    "prompt_car_fx": {
+      "car_passing_city": "Car passing city",
+      "heavy_race_car_speeding_reverb": "Heavy race car speeding reverb",
+      "siren": "Siren"
+    },
+    "prompt_air_sounds": {
+      "air_whoosh": "Air whoosh",
+      "air_raid_siren_sound_effect": "Air raid siren sound effect",
+      "simple_whoosh": "Simple whoosh"
+    },
+    "prompt_air_sound_effect": {
+      "whoosh_cinematic_sound_effect": "Whoosh cinematic sound effect",
+      "whoosh_effect": "Whoosh effect",
+      "clean_whoosh_effect": "Clean whoosh effect"
+    },
+    "prompt_airhorn": {
+      "air_horn_sound_effect": "Air horn sound effect",
+      "dj_airhorn_sound": "DJ airhorn sound",
+      "dj_airhorn": "DJ airhorn"
+    },
+    "prompt_air_horn": {
+      "air_horn": "Air horn",
+      "dj_airhorn_sound": "DJ airhorn sound",
+      "truck_signal": "Truck signal"
+    },
+    "prompt_airhorn_sound": {
+      "air_horn_sound_effect": "Air horn sound effect",
+      "dj_airhorn_sound": "DJ airhorn sound",
+      "airhorn_fx": "Airhorn fx"
+    },
+    "prompt_air_horn_noise": {
+      "air_horn": "Air horn",
+      "air_horn_sound_effect": "Air horn sound effect",
+      "fire_alarm": "Fire alarm"
+    },
+    "prompt_sound_horn": {
+      "mega_horn": "Mega horn",
+      "boat_horn": "Boat horn",
+      "double_car_horn": "Double car horn"
+    },
+    "prompt_horn_sound": {
+      "automobile_horn": "Automobile horn",
+      "car_honk": "Car honk",
+      "car_horn": "Car horn"
+    },
+    "prompt_horn_sounds": {
+      "ship_horn": "Ship horn",
+      "war_horn": "War horn",
+      "low_horn": "Low horn"
+    },
+    "prompt_horn_noise": {
+      "car_horn_honking": "Car horn honking",
+      "electric_horn_honking": "Electric horn honking",
+      "truck_horn": "Truck horn"
+    },
+    "prompt_death": {
+      "death_sound": "Death sound",
+      "man_dying_sound": "Man dying sound",
+      "death_scream": "Death scream"
+    },
+    "prompt_jumpscare": {
+      "jump_scare": "Jump scare"
+    },
+    "prompt_woosh": {
+      "woosh_sound": "Woosh sound",
+      "swoosh_sound": "Swoosh sound",
+      "whoosh_sound": "Whoosh sound"
+    },
+    "prompt_shock": {
+      "eerie_sudden_shock": "Eerie sudden shock",
+      "piano_shock_impact": "Piano shock impact",
+      "crowd_shocked_reaction": "Crowd shocked reaction"
+    },
+    "prompt_timer": {
+      "timer_sound": "Timer sound",
+      "timer_beep": "Timer beep",
+      "clock_sound": "Clock sound"
+    },
+    "prompt_thunder": {
+      "thunder_sound": "Thunder sound",
+      "dry_thunder": "Dry thunder",
+      "rain_and_thunder": "Rain and thunder"
+    },
+    "prompt_poop": {
+      "fart_poop": "Fart Poop",
+      "fart_noises": "Fart noises",
+      "flush_toilet_sound": "Flush toilet sound"
+    },
+    "prompt_air": {
+      "air_noise": "Air noise",
+      "air_horn": "Air horn",
+      "air_transition": "Air transition",
+      "air_blow": "Air blow"
+    },
+    "prompt_engine": {
+      "engine_sound": "Engine sound",
+      "car_engine": "Car engine",
+      "motorcycle_engine": "Motorcycle engine"
+    },
+    "prompt_cut": {
+      "cut_food": "Cut food on a cutting board",
+      "cut_using_scissor": "Cut using a scissor",
+      "cut_using_knife": "Cut using a knife"
+    },
+    "prompt_machine": {
+      "machine_working_sound": "Machine working sound",
+      "washing_machine": "Washing machine",
+      "old_machine": "Old machine"
+    },
+    "prompt_spatial": {
+      "spatial_sound": "Spatial sound",
+      "space_sound": "Space sound"
+    },
+    "prompt_baby": {
+      "baby_crying": "Baby crying",
+      "newborn_baby_crying": "Newborn baby crying",
+      "angry_baby_crying": "Angry baby crying"
+    },
+    "prompt_laughing": {
+      "laughing_sound": "Laughing sound",
+      "laughing_crowd": "Laughing crowd",
+      "male_laughing": "Male laughing",
+      "child_laughing": "Child laughing",
+      "girl_soft_laughing": "Girl soft laughing"
+    },
+    "prompt_horn": {
+      "car_horn": "Car horn",
+      "war_horn": "War horn",
+      "mega_horn": "Mega horn",
+      "ship_horn": "Ship horn"
+    },
+    "prompt_counter": {
+      "counter_sound": "Counter sound",
+      "banknote_counter": "Banknote counter",
+      "money_counter": "Money counter",
+      "cash_counting_machine": "Cash counting machine"
+    },
+    "prompt_countdown": {
+      "countdown_sound": "Countdown sound",
+      "countdown_beep": "Countdown beep",
+      "game_countdown": "Game countdown"
+    },
+    "prompt_robot": {
+      "robot_voice": "Robot voice",
+      "robot_power_off": "Robot power off",
+      "robot_walk": "Robot walk",
+      "robot_damaged": "Robot damaged"
+    },
+    "prompt_moan": {
+      "ghost_moan": "Ghost moan",
+      "creepy_moan": "Creepy moan",
+      "female_groaning_creepy": "Female groaning creepy",
+      "zombie_moan_sfx": "Zombie moan sfx",
+      "demon_moaning": "Demon moaning",
+      "dinosaur_creature_moaning": "Dinosaur creature moaning"
+    },
+    "prompt_male_moaning": {
+      "disapproving_male_grunt": "Disapproving male grunt",
+      "male_groan_of_pain": "Male groan of pain",
+      "male_hurt_sound": "Male hurt sound"
+    },
+    "prompt_men_moaning": {
+      "big_old_men_moan": "Big old men moan",
+      "horror_moaning_and_groaning": "Horror moaning and groaning",
+      "demon_moaning": "Demon moaning"
+    },
+    "prompt_moaning_audio": {
+      "zombie_sfx": "Zombie sfx",
+      "zombie_sound": "Zombie sound",
+      "zombie_groan_sfx": "Zombie groan sfx"
+    },
+    "prompt_guy_moaning": {
+      "moaning_wraith": "Moaning wraith",
+      "womansadmoan": "Woman sad moan",
+      "rumbling": "Rumbling"
+    },
+    "prompt_male_moan": {
+      "injury_scream": "Injury scream",
+      "big_punch_short_with_male_moan": "Big punch short with male moan",
+      "no_quite_human_grunts": "No quite human grunts"
+    },
+    "prompt_men_moan": {
+      "male_hurt_sound": "Male hurt sound",
+      "grunt": "Grunt",
+      "ghost_moan": "Ghost moan"
+    },
+    "prompt_men_moans": {
+      "lollipopmoans": "Lollipop moans",
+      "big_old_men_moan": "Big old men moan",
+      "creepy_ghost_moan_sfx": "Creepy ghost moan sfx"
+    },
+    "prompt_sexy": {
+      "using_a_new_toy_with_my_vibrator": "Using a new toy with my vibrator",
+      "trans_girl_moaning_and_finishing": "Trans girl moaning and finishing",
+      "feminine_moans": "Feminine moans"
+    },
+    "prompt_groan_sound": {
+      "male_groan_of_pain": "Male groan of pain",
+      "zombie_groan_sfx": "Zombie groan sfx",
+      "zombie_call": "Zombie call"
+    },
+    "prompt_grunt_sound_effect": {
+      "animal_grunt": "Animal grunt",
+      "zombie_dying_sound": "Zombie dying sound",
+      "horse_snort": "Horse snort"
+    },
+    "prompt_explosion": {
+      "large_underwater_explosion": "Large underwater explosion",
+      "explosion_fx": "Explosion fx",
+      "epic_cinematic_explosion": "Epic cinematic explosion",
+      "loud_explosion": "Loud explosion"
+    },
+    "prompt_sparkle": {
+      "fairy_sparkle": "Fairy sparkle",
+      "sparkle": "Sparkle",
+      "sparkle_loop": "Sparkle loop",
+      "baby_piano": "Baby piano"
+    },
+    "prompt_rooster": {
+      "rooster_crowing": "Rooster crowing",
+      "rooster_call": "Rooster call",
+      "rooster": "Rooster"
+    },
+    "prompt_camera": {
+      "camera_shutter": "Camera shutter",
+      "film_camera_shutter_with_auto_winder": "Film camera shutter with auto winder",
+      "camera": "Camera"
+    },
+    "prompt_whisper": {
+      "whispering": "Whispering",
+      "creepy_whispering": "Creepy whispering",
+      "murmullos": "Murmurs",
+      "ghost_whispers": "Ghost whispers"
+    },
+    "prompt_riser": {
+      "riser_somewhere": "Riser somewhere",
+      "riser_hole": "Riser hole",
+      "dramatic_riser": "Dramatic riser"
+    },
+    "prompt_bell": {
+      "church_bell_sound_effect": "Church bell sound effect",
+      "bell": "Bell",
+      "ding_small_bell_sfx": "Ding small bell sfx",
+      "creepy_bell_fx": "Creepy bell fx",
+      "big_bell": "Big bell",
+      "bell_sound": "Bell sound",
+      "phone_ringing": "Phone ringing",
+      "christmas_ringing_bells_ringtone": "Christmas ringing bells ringtone",
+      "scary_bells": "Scary bells",
+      "bells_jingling": "Bells jingling",
+      "notification_bell_sound": "Notification bell sound",
+      "gong_bell": "Gong bell",
+      "bicycle_bell": "Bicycle bell",
+      "church_bell": "Church bell",
+      "ding_cartoon": "Ding cartoon",
+      "ding_ding_small_bell": "Ding ding small bell",
+      "copper_bell_ding": "Copper bell ding",
+      "bell_ring": "Bell ring",
+      "bells_ringing": "Bells ringing",
+      "boxing_bell": "Boxing bell",
+      "school_bell_longer": "School bell longer",
+      "japanese_school_bell_sound": "Japanese school bell sound",
+      "hailuoto_school_bell_recording": "Hailuoto school bell recording",
+      "old_style_door_bell": "Old style door bell",
+      "bell_transition": "Bell transition",
+      "opening_bell": "Opening bell",
+      "evil_bell": "Evil bell",
+      "door_bell": "Door bell",
+      "sound_of_the_bell_free_to_use": "Sound of the bell free to use",
+      "servant_bell_ring": "Servant bell ring",
+      "fork_bell": "Fork bell",
+      "intro_sound_bell": "Intro sound bell",
+      "bellding": "Bellding",
+      "trap_bell_loop": "Trap bell loop",
+      "background_bell": "Background bell",
+      "diamond_bell": "Diamond bell",
+      "the_bell_sound_free": "The bell sound free",
+      "bells_ring_in_the_soul": "Bells ring in the soul"
+    },
+    "prompt_bell_audio": {
+      "notification_sounds": "Notification sounds",
+      "relaxing_bells_melody": "Relaxing bells melody",
+      "bells_audio": "Bells audio"
+    },
+    "prompt_doorbell": {
+      "doorbell_chiming": "Doorbell chhiming",
+      "doorbell": "Doorbell",
+      "vintage_doorbell_ring_sound_effect": "Vintage doorbell ring sound effect"
+    },
+    "prompt_dooropen": {
+      "open_car_door": "Open car door",
+      "door_opening": "Door opening",
+      "opening_door": "Opening door"
+    },
+    "prompt_pixel": {
+      "pixel_sound_effect": "Pixel sound effect",
+      "pixel_level_up_sound": "Pixel level up sound",
+      "static_noise": "Static noise"
+    },
+    "prompt_haptic": {
+      "thud_sound_effect": "Thud sound effect",
+      "mid_nights_sound": "Mid nights sound",
+      "screenshot_iphone_sound": "Screenshot iPhone sound"
+    },
+    "prompt_error": {
+      "bad_machine": "Bad machine",
+      "error_beep_sound": "Error beep sound",
+      "sound_of_error_beep": "Sound of error beep"
+    },
+    "prompt_fire": {
+      "fire_sound": "Fire sound",
+      "plasma_gun_fire": "Plasma gun fire",
+      "fire_forest": "Fire forest"
+    },
+    "prompt_alarm": {
+      "alarm": "Alarm",
+      "alarm_siren_sound_effect": "Alarm siren sound effect",
+      "biohazard_alarm": "Biohazard alarm"
+    },
+    "prompt_funny_sound": {
+      "funny_cartoon_sound": "Funny cartoon sound",
+      "funny_sounds": "Funny sounds",
+      "funny_alarm": "Funny alarm"
+    },
+    "prompt_funny_sound_effect": {
+      "funny_boing_flecatone_wobble": "Funny boing flexatone wobble",
+      "cartoon_slide_sound_effect": "Cartoon slide sound effect",
+      "fart": "Fart"
+    },
+    "prompt_funny_sounds": {
+      "funny_sounds": "Funny sounds",
+      "funny_dramatic_gasp": "Funny dramatic gasp",
+      "funny_laughing_sound": "Funny laughing sound"
+    },
+    "prompt_funny_noises": {
+      "funny_grunt_noises": "Funny grunt noises",
+      "fah": "Fah",
+      "funny_spring_sound": "Funny spring sound"
+    },
+    "prompt_funny_audio": {
+      "funny_hysteric_scream": "Funny hysteric scream",
+      "tatsumaki_senpuu": "Tatsumaki senpuu",
+      "funny_cartoon_sound": "Funny cartoon sound"
+    },
+    "prompt_funny_meme_sounds": {
+      "thud_sound_effect": "Thud sound effect",
+      "isnt_that_amazing_meme_sfx": "Isn't that amazing meme SFX",
+      "laughing_man": "Laughing man"
+    },
+    "prompt_funny_meme_sound": {
+      "thud_sound_effect": "Thud sound effect",
+      "laughing_man": "Laughing man",
+      "sarcastic_clapping_sound": "Sarcastic clapping sound"
+    },
+    "prompt_noises_funny": {
+      "funny_burp_sound_effect": "Funny burp sound effect",
+      "funny_gurgling_noises": "Funny gurgling noises",
+      "funny_grunt_noises": "Funny grunt noises"
+    },
+    "prompt_soundboard_funny": {
+      "air_horn_sound_effect": "Air horn sound effect",
+      "funny_laughing": "Funny laughing",
+      "funny_african_tabla": "Funny African tabla"
+    },
+    "prompt_silly_sound": {
+      "squeakish_sound": "Squeakish sound",
+      "silly_trumpet": "Silly trumpet",
+      "fail_trumpet": "Fail trumpet"
+    },
+    "prompt_funny_audios": {
+      "funny_spring": "Funny spring",
+      "wazzup_man": "Wazzup man",
+      "laughing_male_mp3_sound": "Laughing male MP3 sound"
+    },
+    "prompt_fun_sounds": {
+      "pipe": "Pipe",
+      "fun_comedic_drum": "Fun comedic drum",
+      "funny_laughing_sound_effect": "Funny laughing sound effect"
+    },
+    "prompt_fun_sound": {
+      "sweet_game_over_sound_effect": "Sweet game over sound effect",
+      "funny_cartoon_sound": "Funny cartoon sound",
+      "another_funny_laughing_sound_effect": "Another funny laughing sound effect"
+    },
+    "prompt_funny_notification": {
+      "funny_minion_message_notification_sound_effect_sfx": "Funny minion message notification sound effect SFX",
+      "funny_message_notification_sound_effect_sfx": "Funny message notification sound effect SFX",
+      "funny_hiphop_party_notification_music_sound": "Funny hiphop party notification music sound"
+    },
+    "prompt_funny_scream": {
+      "funny_scream": "Funny scream",
+      "insane_funny_scream": "Insane funny scream",
+      "man_scream": "Man scream"
+    },
+    "prompt_meme_scream": {
+      "sus_meme_sound": "Sus meme sound",
+      "new_meme": "New meme",
+      "insane_funny_scream": "Insane funny scream"
+    },
+    "prompt_soundboard_guy": {
+      "realizations_or_fighting": "Realizations or fighting",
+      "dying_guy": "Dying guy",
+      "shy_guy": "Shy guy"
+    },
+    "prompt_silent_scream": {
+      "cartoon_scream": "Cartoon scream",
+      "smirnoff_scream": "Smirnoff scream",
+      "eagle_scream": "Eagle scream"
+    },
+    "prompt_scream_and_shout": {
+      "zombie_yell_and_shout_sound_effect": "Zombie yell and shout sound effect",
+      "epic_war_combat_scream": "Epic war combat scream",
+      "man_shout_like_a_goat": "Man shout like a goat"
+    },
+    "prompt_shouting_sound_effect": {
+      "army_of_soldiers_battle_cry": "Army of soldiers battle cry",
+      "male_shouting_fire": "Male shouting fire",
+      "distorted_background_sound": "Distorted background sound"
+    },
+    "prompt_scream_louder": {
+      "man_scream": "Man scream",
+      "scream_horror_sfx": "Scream horror SFX",
+      "male_death_scream_horror": "Male death scream horror"
+    },
+    "prompt_angry_screaming": {
+      "screaming_man": "Screaming man",
+      "muffled_angry_screaming": "Muffled angry screaming",
+      "angry_baby": "Angry baby"
+    },
+    "prompt_door_bell_sound_effect": {
+      "door_bell_sound_effect": "Door bell sound effect",
+      "doorbell_sound_effect": "Doorbell sound effect",
+      "door_bell": "Door bell"
+    },
+    "prompt_taco_bell_sound_effect": {
+      "taco_bell_rong": "Taco bell rong",
+      "church_bell_sound_effect": "Church bell sound effect",
+      "bell_ring": "Bell ring"
+    },
+    "prompt_sound_button": {
+      "button_press": "Button press",
+      "interface_button": "Interface button",
+      "click_button": "Click button"
+    },
+    "prompt_sound_bottons": {
+      "broken_expending_machine": "Broken expending machine",
+      "thud_sound_effect": "Thud sound effect",
+      "mid_nights_sound": "Mid nights sound"
+    },
+    "prompt_sounds_buttons": {
+      "button_press": "Button press",
+      "computer_mouse_click": "Computer mouse click",
+      "sound_of_mouse_click": "Sound of mouse click"
+    },
+    "prompt_button_soundboard": {
+      "air_horn_sound_effect": "Air horn sound effect",
+      "button_press": "Button press",
+      "select_button_ui": "Select button UI"
+    },
+    "prompt_noise_buttons": {
+      "button_press": "Button press",
+      "noisy_switch": "Noisy switch",
+      "microwave_beeps": "Microwave beeps"
+    },
+    "prompt_scream": {
+      "boy_character_scream": "Boy character scream",
+      "baby_crying": "Baby crying",
+      "loud_male_scream": "Loud male scream",
+      "scary_woman_scream_ultra_realistic": "Scary woman scream ultra realistic",
+      "angry_man_yell_sound": "Angry man yell sound",
+      "woman_scream_sound": "Woman scream sound",
+      "man_scream": "Man scream",
+      "scary_scream": "Scary scream"
+    },
+    "prompt_screaming": {
+      "screaming_man": "Screaming man",
+      "sudden_screaming_sound": "Sudden screaming sound",
+      "pathetic_screaming_sound_effect": "Pathetic screaming sound effect",
+      "funny_scream": "Funny scream",
+      "screaming_sound_effect": "Screaming sound effect",
+      "screeching_sound_effect": "Screeching sound effect"
+    },
+    "prompt_scream_audio": {
+      "girl_screaming_sound_effect": "Girl screaming sound effect",
+      "crow_screaming_bird": "Crow screaming bird",
+      "female_screaming_audio": "Female screaming audio",
+      "male_screaming_audio": "Male screaming audio"
+    },
+    "prompt_someone_scream": {
+      "man_scream": "Man scream",
+      "cartoon_scream": "Cartoon scream",
+      "smirnoff_scream": "Smirnoff scream"
+    },
+    "prompt_guy_screaming": {
+      "dying_guy": "Dying guy",
+      "fireworks_and_screaming": "Fireworks and screaming",
+      "guys_howling_fun": "Guys howling fun"
+    },
+    "prompt_scream_noise": {
+      "unsettling_noise": "Unsettling noise",
+      "ghost_horror_sound": "Ghost horror sound",
+      "cartoon_scream": "Cartoon scream"
+    },
+    "prompt_whoosh_sound": {
+      "whoosh_cinematic": "Whoosh cinematic",
+      "whoosh_cinematic_sound_effect": "Whoosh cinematic sound effect",
+      "simple_whoosh": "Simple whoosh"
+    },
+    "prompt_whoosh_effect": {
+      "cinematic_whoosh_shot": "Cinematic whoosh shot",
+      "whoosh_effect": "Whoosh effect",
+      "whoosh_sound_effect": "Whoosh sound effect"
+    },
+    "prompt_woosh_sound": {
+      "woosh": "Woosh",
+      "short_woosh": "Short woosh",
+      "fast_woosh": "Fast woosh"
+    },
+    "prompt_woosh_sfx": {
+      "swoosh": "Swoosh",
+      "air_motion": "Air motion",
+      "creepy_hifreq_woosh": "Creepy hifreq woosh"
+    },
+    "prompt_swish_sound": {
+      "swish_sound": "Swish sound",
+      "quick_double_swish_sfx": "Quick double swish sfx",
+      "fast_swish_transition_noise": "Fast swish transition noise"
+    },
+    "prompt_bicycle_sounds": {
+      "bicycle_bell_sound_effect": "Bicycle bell sound effect",
+      "bicycle_bell": "Bicycle bell",
+      "bicycle": "Bicycle"
+    },
+    "prompt_bike_horn_sound": {
+      "horn_toy": "Horn toy",
+      "mega_horn": "Mega horn",
+      "boat_horn": "Boat horn"
+    },
+    "prompt_train_sounds": {
+      "train": "Train",
+      "inside_old_train": "Inside old train",
+      "railway_train": "Railway train"
+    },
+    "prompt_truck_sounds": {
+      "traffic_truck_ambience": "Traffic truck ambience",
+      "truck_chord": "Truck chord",
+      "loud_machinery": "Loud machinery"
+    },
+    "prompt_truck_sound": {
+      "diesel_truck_passing": "Diesel truck passing",
+      "big_truck_engine": "Big truck engine",
+      "muscle_truck": "Muscle truck"
+    },
+    "prompt_truck_audio": {
+      "truck_door_open_and_close": "Truck door open and close",
+      "city_street_soundscape": "City street soundscape",
+      "police_siren_emergency_alarm": "Police siren emergency alarm"
+    },
+    "prompt_truck_horn": {
+      "truck_horn": "Truck horn",
+      "parisian_fire_truck_siren": "Parisian fire truck siren",
+      "truck_signal": "Truck signal"
+    },
+    "prompt_truck_honking": {
+      "truck_signal": "Truck signal",
+      "vintage_car_horn": "Vintage car horn",
+      "old_car_horn": "Old car horn"
+    },
+    "prompt_celebration_sound_effect": {
+      "wow": "Wow",
+      "applause_sound": "Applause sound",
+      "crowd_cheering": "Crowd cheering"
+    },
+    "prompt_festival_sound": {
+      "applause_sound_effect": "Applause sound effect",
+      "crowd_noise_at_event": "Crowd noise at event",
+      "crowd_noise_stadium": "Crowd noise stadium"
+    },
+    "prompt_fireworks_sounds": {
+      "fireworks": "Fireworks",
+      "firework_whistle": "Firework whistle",
+      "slow_explosion": "Slow explosion"
+    },
+    "prompt_fireworks_sound": {
+      "crackling_fireworks": "Crackling fireworks",
+      "fireworks_sound": "Fireworks sound",
+      "new_year_fireworks": "New year fireworks"
+    },
+    "prompt_firework_sounds": {
+      "cake_firework_and_mortars": "Cake firework and mortars",
+      "firework_whistle": "Firework whistle",
+      "funny_firework_sound": "Funny firework sound"
+    },
+    "prompt_happy_celebration": {
+      "happy_loop": "Happy loop",
+      "happy_birthday": "Happy birthday",
+      "kids_happy_background_music": "Kids happy background music"
+    },
+    "prompt_porn_sounds": {
+      "funny_sounds": "Funny sounds",
+      "birds_sounds": "Birds sounds",
+      "dire_crackling_sounds": "Dire crackling sounds"
+    },
+    "prompt_porn_sound": {
+      "mid_nights_sound": "Mid nights sound",
+      "thud_sound_effect": "Thud sound effect",
+      "heartbeat_sound": "Heartbeat sound"
+    },
+    "prompt_porn_noises": {
+      "water_noises": "Water noises",
+      "soft_brown_noise": "Soft brown noise",
+      "rainy_day_in_town_with_birds_singing": "Rainy day in town with birds singing"
+    },
+    "prompt_audio_porn": {
+      "audio_for_video_editing": "Audio for video editing",
+      "birds_singing_audio_tune": "Birds singing audio tune",
+      "retro_audio_logo": "Retro audio logo"
+    },
+    "prompt_porn_audio": {
+      "audio_for_video_editing": "Audio for video editing",
+      "birds_singing_audio_tune": "Birds singing audio tune",
+      "relaxing_guitar_loop": "Relaxing guitar loop"
+    },
+    "prompt_loud_porn": {
+      "loud_thunder": "Loud thunder",
+      "baby_crying_loud": "Baby crying loud",
+      "scotland_eas_alarm": "Scotland EAS alarm"
+    },
+    "prompt_porn_moaning": {
+      "rumbling": "Rumbling",
+      "free_zombie_moan_sound": "Free zombie moan sound",
+      "demonic_spirit_voice": "Demonic spirit voice"
+    },
+    "prompt_porn_moan": {
+      "creepy_ghost_moan_sfx": "Creepy ghost moan sfx",
+      "ghost_moan": "Ghost moan",
+      "creepy_moan": "Creepy moan"
+    },
+    "prompt_loud_moaning_porn": {
+      "loud_thunder": "Loud thunder",
+      "baby_crying_loud": "Baby crying loud",
+      "moaning_wraith": "Moaning wraith"
+    },
+    "prompt_women_moaning": {
+      "demon_moaning": "Demon moaning",
+      "moaning_wraith": "Moaning wraith",
+      "rumbling": "Rumbling"
+    },
+    "prompt_male_moans": {
+      "disapproving_male_grunt": "Disapproving male grunt",
+      "male_hurt_sound": "Male hurt sound",
+      "male_groan_of_pain": "Male groan of pain"
+    },
+    "prompt_men_moaning_porn": {
+      "demonic_moaning": "Demonic moaning",
+      "demon_moaning": "Demon moaning",
+      "horror_moaning_and_groaning": "Horror moaning and groaning"
+    },
+    "prompt_girls_moan": {
+      "ghost_moan": "Ghost moan",
+      "creepy_moan": "Creepy moan",
+      "big_old_men_moan": "Big old men moan"
+    },
+    "prompt_girl_moan": {
+      "woman_sad_moan": "Woman sad moan",
+      "woman_giving_birth": "Woman giving birth",
+      "creepy_ghost_moan_sfx": "Creepy ghost moan sfx"
+    },
+    "prompt_moaning_porn": {
+      "horror_moaning_and_groaning": "Horror moaning and groaning",
+      "demon_moaning": "Demon moaning",
+      "demonic_moaning": "Demonic moaning"
+    },
+    "prompt_moaning_sounds": {
+      "ghostly_moaning": "Ghostly moaning",
+      "zombie_call": "Zombie call",
+      "free_zombie_moan_sounds": "Free zombie moan sounds"
+    },
+    "prompt_moaning_sound": {
+      "demon_moaning": "Demon moaning",
+      "zombie_sound": "Zombie sound",
+      "tummy_song": "Tummy song"
+    },
+    "prompt_moans_sounds": {
+      "zombie_moan_sfx": "Zombie moan sfx",
+      "zombie_sfx": "Zombie sfx",
+      "zombiesound": "Zombiesound"
+    },
+    "prompt_moan_sound": {
+      "creepy_ghost_sound": "Creepy ghost sound",
+      "dogs_moan_sound": "Dogs moan sound",
+      "mumie_komt_aus_sarkophag": "Mumie komt aus sarkophag"
+    },
+    "prompt_moan_sounds": {
+      "zombie_moan_sfx": "Zombie moan sfx",
+      "guttural_snarl": "Guttural snarl",
+      "zombie_moan": "Zombie moan"
+    },
+    "prompt_moaning_noises": {
+      "hospital_icu_patient_moaning": "Hospital ICU patient moaning",
+      "sex_noises_dose": "Sex noises dose",
+      "little_dog_moaning": "Little dog moaning"
+    },
+    "prompt_sex_sounds": {
+      "bed_sex_sounds": "Bed sex sounds",
+      "primal_quickie": "Primal quickie",
+      "chubby_girl_sex_sound_during_doggystyle": "Chubby girl sex sound during doggystyle"
+    },
+    "prompt_sex_audio": {
+      "fucking_and_parents_next_door": "Fucking and parents next door",
+      "sex_noises_dose": "Sex noises dose",
+      "wife_squirming_in_pleasure": "Wife squirming in pleasure"
+    },
+    "prompt_sex_sound": {
+      "jumpling_on_a_small_trampoline_squeaking_sounds": "Jumpling on a small trampoline squeaking sounds",
+      "body_percussion": "Body percussion",
+      "rough_blow_job": "Rough blow job"
+    },
+    "prompt_sex_moans": {
+      "moans_of_a_woman": "Moans of a woman",
+      "catherine": "Catherine",
+      "oral_sex_sounds": "Oral sex sounds"
+    },
+    "prompt_sex_noises": {
+      "sex_noises_does": "Sex noises does",
+      "sex_noises_close": "Sex noises close",
+      "water_noises": "Water noises"
+    },
+    "prompt_sex_noise": {
+      "sex_noise": "Sex noise",
+      "primal_quickie": "Primal quickie",
+      "dubstep_sound": "Dubstep sound"
+    },
+    "prompt_sounds_of_sex": {
+      "synchronized_sex_energy": "Synchronized sex energy",
+      "slowly_making_love": "Slowly making love",
+      "sex_young_couple": "Sex young couple"
+    },
+    "prompt_sex_sound_effects": {
+      "cute_hentai_girl_voice_orgasm_sound_effect": "Cute hentai girl voice orgasm sound effect",
+      "sexy_female_moan_sound_effect": "Sexy female moan sound effect",
+      "sexy_vocals": "Sexy vocals",
+      "moaning": "Moaning"
+    },
+    "prompt_erotic_sounds": {
+      "diversity_of_masturbation": "Diversity of masturbation",
+      "raspy_tomboy_voice_female_moan_sound_effect": "Raspy tomboy voice female moan sound effect",
+      "sub_breathing_nose_low": "Sub breathing nose low"
+    },
+    "prompt_real_sex_sounds": {
+      "sex_of_japanese_mature_couple": "Sex of Japanese mature couple",
+      "sexual_intercourse": "Sexual intercourse",
+      "woman_getting_fucked": "Woman getting fucked"
+    },
+    "prompt_sounding_sex": {
+      "chubby_girl_sex_sound_during_doggystyle": "Chubby girl sex sound during doggystyle",
+      "girl_sex_sounds": "Girl sex sounds",
+      "synchronized_sex_energy": "Synchronized sex energy"
+    },
+    "prompt_sex_sounds_porn": {
+      "funny_sounds": "Funny sounds",
+      "female_cute": "Female cute",
+      "porn_content_creators": "Porn content creators"
+    },
+    "prompt_vibrator_sound": {
+      "cell_phone_vibration": "Cell phone vibration",
+      "sound_of_phone_vibrating": "Sound of phone vibrating",
+      "alien_underworld_sound": "Alien underworld sound"
+    },
+    "prompt_fuck_sound_effect": {
+      "fuck": "Fuck",
+      "what_a_fuck": "What a fuck",
+      "stupid": "Stupid"
+    },
+    "prompt_happy_scream": {
+      "crowd_of_boys_cheering": "Crowd of boys cheering",
+      "woman_excited_cheers_and_phrases_says_woohoo": "Woman excited cheers and phrases says woohoo",
+      "happy_new_year": "Happy new year"
+    },
+    "prompt_train_sound": {
+      "train_running_sound": "Train running sound",
+      "train_passing": "Train passing",
+      "train_whistle": "Train whistle"
+    },
+    "prompt_train_sound_effect": {
+      "train_approach_sfx": "Train approach sfx",
+      "train_stopping": "Train stopping",
+      "on_the_high_speed_train": "On the high speed train"
+    },
+    "prompt_train_sound_effects": {
+      "hungarian_train_ride": "Hungarian train ride",
+      "incoming_commuter_train": "Incoming commuter train",
+      "loud_train_horn": "Loud train horn"
+    },
+    "prompt_train_horn": {
+      "train_horn": "Train horn",
+      "train_horn_fades": "Train horn fades",
+      "loud_train_horn": "Loud train horn"
+    },
+    "prompt_train_voice": {
+      "train_voice": "Train voice",
+      "electronic_female_voice_at_train_station": "Electronic female voice at train station",
+      "metro_train_sound": "Metro train sound"
+    },
+    "prompt_train_noises": {
+      "inside_the_old_train": "Inside the old train",
+      "train_running_sound": "Train running sound",
+      "train_station_ambience": "Train station ambience"
+    },
+    "prompt_train_noise": {
+      "musical_train_noise": "Musical train noise",
+      "diesel_train_engine_noise": "Diesel train engine noise",
+      "train_whistle_and_environment_sounds": "Train whistle and environment sounds"
+    },
+    "prompt_transition_sound_effect": {
+      "riser_swoosh_transition": "Riser swoosh transition",
+      "whoosh_cinematic_sound_effect": "Whoosh cinematic sound effect",
+      "scary_transition": "Scary transition"
+    },
+    "prompt_transition_sound_effects": {
+      "futuristic_transition": "Futuristic transition",
+      "professional_transition": "Professional transition",
+      "sweet_transition": "Sweet transition"
+    },
+    "prompt_transition_sound": {
+      "transition_base": "Transition base",
+      "transition_explosion": "Transition explosion",
+      "transition_coat": "Transition coat"
+    },
+    "prompt_transition_sounds": {
+      "high_transition": "High transition",
+      "transition_fleeting": "Transition fleeting",
+      "interface": "Interface"
+    },
+    "prompt_transition_sfx": {
+      "bizzard_transition": "Bizzard transition",
+      "soft_transition": "Soft transition",
+      "sand_transition": "Sand transition"
+    },
+    "prompt_scream_soundboard": {
+      "male_death_scream_horror": "Male death scream horror",
+      "falling_man_scream": "Falling man scream",
+      "echo_scream": "Echo scream"
+    },
+    "prompt_loud": {
+      "corrupt_scream": "Corrupt scream",
+      "male_death_scream_horror": "Male death scream horror",
+      "male_voice_screaming_loudly": "Male voice screaming loudly",
+      "young_girl_screaming": "Young girl screaming",
+      "man_angry_loud": "Man angry loud",
+      "loud_female_scream": "Loud female scream"
+    },
+    "prompt_cry_sounds": {
+      "crying_and_sobbing": "Crying and sobbing",
+      "boy_crying_free_sound": "Boy crying free sound",
+      "baby_crying": "Baby crying"
+    },
+    "prompt_yelling_sound": {
+      "random_guy_on_street_yelling": "Random guy on street yelling",
+      "angry_man_yell_sound": "Angry man yell sound",
+      "woman_enraged_fearful_scream_sound_effect": "Woman enraged fearful scream sound effect",
+      "army_of_soldiers_battle_cry": "Army of soldiers battle cry",
+      "hilarious_yelling": "Hilarious yelling",
+      "crowd_booing": "Crowd booing"
+    },
+    "prompt_beat": {
+      "indian_beats": "Indian beats",
+      "hold_on_beat": "Hold on beat",
+      "drum_beats": "Drum beats",
+      "sweet_sound_effects": "Sweet sound effects",
+      "beat_effect": "Beat effect",
+      "heartbeat": "Heartbeat",
+      "clock_beat_effect": "Clock beat effect"
+    }
+  }
+}

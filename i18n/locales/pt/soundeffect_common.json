@@ -1,0 +1,1032 @@
+{
+  "soundeffect_common": {
+    "display_title": "Ouça abaixo efeitos sonoros realistas gerados por IA",
+    "input_placeholder": "Digite a descrição do efeito sonoro",
+    "generating_button": "Gerando...",
+    "generate_button": "Gerar",
+    "msg_example_load_failed": "Falha ao carregar a amostra de som, tente novamente mais tarde!",
+    "msg_example_play_failed": "Falha ao reproduzir a amostra de som, tente novamente mais tarde!",
+    "msg_notext": "Digite uma descrição para gerar um efeito sonoro",
+    "download": {
+      "noAudio": "Nenhum áudio para download",
+      "success": "Download concluído",
+      "failed": "Falha no download, tente novamente mais tarde",
+      "fetchFailed": "Falha ao baixar os sons, tente novamente mais tarde!"
+    },
+    "category_nature": "Sons da natureza",
+    "category_special": "Efeitos especiais",
+    "category_instrument": "Instrumentos musicais",
+    "category_human": "Sons humanos",
+    "category_ambient": "Sons ambiente",
+    "sample_rain": "Chuva",
+    "sample_ocean": "Ondas do mar",
+    "sample_water": "Água corrente",
+    "sample_thunder": "Trovão",
+    "sample_insect": "Sons de insetos",
+    "sample_fireworks": "Fogos de artifício",
+    "sample_glass": "Vidro quebrando",
+    "sample_magic": "Magia",
+    "sample_spaceship": "Nave espacial",
+    "sample_action": "Ação",
+    "sample_piano": "Piano",
+    "sample_guitar": "Guitarra elétrica",
+    "sample_violin": "Violino",
+    "sample_keyboard": "Teclado eletrônico",
+    "sample_pipes": "Gaita irlandesa",
+    "sample_baby": "Bebê rindo",
+    "sample_clap": "Aplausos",
+    "sample_celebrate": "Celebração",
+    "sample_footsteps": "Passos",
+    "sample_burp": "Arroto",
+    "sample_typing": "Digitação",
+    "sample_restaurant": "Restaurante barulhento",
+    "sample_doorbell": "Campainha",
+    "sample_tv": "TV ligada",
+    "sample_cooking": "Cozinha",
+    "prompt_combat": {
+      "sword_whoosh": "Espada cortando o ar",
+      "sword_through_air": "Espada passando pelo ar",
+      "shotgun_fire": "Disparo de espingarda",
+      "gunshot": "Tiro",
+      "pistol_shot": "Disparo de pistola",
+      "firearm_shooting": "Disparo de arma de fogo",
+      "weapon_fire": "Disparo de arma",
+      "rifle_shot": "Disparo de rifle",
+      "revolver_shot": "Disparo de revólver",
+      "machine_gun": "Metralhadora",
+      "laser_gunshot": "Disparo a laser",
+      "ui_success": "Sucesso de interface"
+    },
+    "prompt_button": {
+      "button_pressed": "Botão pressionado",
+      "mouse_button_clicked": "Clique do mouse",
+      "telephone_button": "Botão do telefone",
+      "keyboard_button": "Tecla do teclado",
+      "mobile_phone_button": "Botão do celular"
+    },
+    "prompt_typing": {
+      "keyboard_typing": "Digitação no teclado",
+      "typewriter_typing": "Máquina de escrever",
+      "laptop_typing": "Digitação no notebook"
+    },
+    "prompt_nature": {
+      "name": "Sons da natureza",
+      "rain": "Chuva",
+      "ocean_waves": "Ondas do mar",
+      "flowing_water": "Água corrente",
+      "thunder": "Trovão",
+      "insect_sounds": "Sons de insetos"
+    },
+    "prompt_special": {
+      "name": "Efeitos especiais",
+      "fireworks": "Fogos de artifício",
+      "glass_shattering": "Vidro quebrando",
+      "magic_spell": "Feitiço mágico",
+      "spaceship": "Nave espacial",
+      "action": "Ação"
+    },
+    "prompt_instruments": {
+      "name": "Sons de instrumentos",
+      "piano": "Piano",
+      "electric_guitar": "Guitarra elétrica",
+      "violin": "Violino",
+      "keyboard": "Teclado",
+      "irish_pipes": "Gaita irlandesa"
+    },
+    "prompt_human": {
+      "name": "Sons humanos",
+      "baby_laughing": "Bebê rindo",
+      "clapping": "Aplausos",
+      "celebrate": "Celebração",
+      "footsteps": "Passos",
+      "burp": "Arroto"
+    },
+    "prompt_ambient": {
+      "name": "Sons ambiente",
+      "typing": "Digitação",
+      "noisy_restaurant": "Restaurante barulhento",
+      "doorbell_ring": "Campainha",
+      "tv_on": "TV ligada",
+      "cooking": "Cozinha"
+    },
+    "prompt_car": {
+      "car_horn": "Buzina de carro",
+      "car_honk": "Buzinada de carro",
+      "vehicle": "Veículo",
+      "car_door": "Porta de carro",
+      "automobile": "Automóvel",
+      "road_sound": "Som da estrada",
+      "car_engine": "Motor de carro",
+      "car_crash": "Acidente de carro"
+    },
+    "prompt_car_sound": {
+      "car_pass_by": "Carro passando",
+      "car_engine": "Motor de carro",
+      "car_crash_sound_effect": "Efeito sonoro de acidente de carro"
+    },
+    "prompt_car_sounds": {
+      "car_honk": "Buzinada de carro",
+      "car_engine_roaring": "Motor de carro rugindo",
+      "car_door_shut": "Porta de carro fechando"
+    },
+    "prompt_car_noises": {
+      "car_honk": "Buzinada de carro",
+      "car_crash_sound_effect": "Efeito sonoro de acidente de carro",
+      "car_pass_by": "Carro passando"
+    },
+    "prompt_cars_sounds": {
+      "car_engine": "Motor de carro",
+      "space_sound_effect": "Efeito sonoro espacial",
+      "police_siren": "Sirene de polícia"
+    },
+    "prompt_carsound": {
+      "car_door_shut": "Porta de carro fechando",
+      "car_crash": "Acidente de carro",
+      "car_driving_ambience": "Ambiente de direção"
+    },
+    "prompt_car_effect": {
+      "car_chase_sound_effect": "Efeito sonoro de perseguição de carro",
+      "car_whizzing_by": "Carro passando em alta velocidade",
+      "car_engine_roaring": "Motor de carro rugindo"
+    },
+    "prompt_car_voice": {
+      "allahabad_traffic": "Trânsito de Allahabad",
+      "carwash_unsuccessful": "Lavagem de carro malsucedida",
+      "city_sounds": "Sons da cidade"
+    },
+    "prompt_car_fx": {
+      "car_passing_city": "Carro atravessando a cidade",
+      "heavy_race_car_speeding_reverb": "Carro de corrida pesado com reverberação",
+      "siren": "Sirene"
+    },
+    "prompt_air_sounds": {
+      "air_whoosh": "Sopro de ar",
+      "air_raid_siren_sound_effect": "Efeito sonoro de sirene de alerta aéreo",
+      "simple_whoosh": "Sopro simples"
+    },
+    "prompt_air_sound_effect": {
+      "whoosh_cinematic_sound_effect": "Efeito sonoro whoosh cinematográfico",
+      "whoosh_effect": "Efeito whoosh",
+      "clean_whoosh_effect": "Efeito whoosh limpo"
+    },
+    "prompt_airhorn": {
+      "air_horn_sound_effect": "Efeito sonoro de buzina de ar",
+      "dj_airhorn_sound": "Buzina de ar de DJ",
+      "dj_airhorn": "Buzina de ar de DJ"
+    },
+    "prompt_air_horn": {
+      "air_horn": "Buzina de ar",
+      "dj_airhorn_sound": "Buzina de ar de DJ",
+      "truck_signal": "Sinal de caminhão"
+    },
+    "prompt_airhorn_sound": {
+      "air_horn_sound_effect": "Efeito sonoro de buzina de ar",
+      "dj_airhorn_sound": "Buzina de ar de DJ",
+      "airhorn_fx": "FX de buzina de ar"
+    },
+    "prompt_air_horn_noise": {
+      "air_horn": "Buzina de ar",
+      "air_horn_sound_effect": "Efeito sonoro de buzina de ar",
+      "fire_alarm": "Alarme de incêndio"
+    },
+    "prompt_sound_horn": {
+      "mega_horn": "Mega buzina",
+      "boat_horn": "Buzina de barco",
+      "double_car_horn": "Buzina dupla de carro"
+    },
+    "prompt_horn_sound": {
+      "automobile_horn": "Buzina de automóvel",
+      "car_honk": "Buzinada de carro",
+      "car_horn": "Buzina de carro"
+    },
+    "prompt_horn_sounds": {
+      "ship_horn": "Buzina de navio",
+      "war_horn": "Corneta de guerra",
+      "low_horn": "Buzina grave"
+    },
+    "prompt_horn_noise": {
+      "car_horn_honking": "Buzina de carro tocando",
+      "electric_horn_honking": "Buzina elétrica tocando",
+      "truck_horn": "Buzina de caminhão"
+    },
+    "prompt_death": {
+      "death_sound": "Som de morte",
+      "man_dying_sound": "Som de homem morrendo",
+      "death_scream": "Grito de morte"
+    },
+    "prompt_jumpscare": {
+      "jump_scare": "Susto repentino"
+    },
+    "prompt_woosh": {
+      "woosh_sound": "Som woosh",
+      "swoosh_sound": "Som swoosh",
+      "whoosh_sound": "Som whoosh"
+    },
+    "prompt_shock": {
+      "eerie_sudden_shock": "Susto repentino assustador",
+      "piano_shock_impact": "Impacto de choque no piano",
+      "crowd_shocked_reaction": "Reação de multidão surpresa"
+    },
+    "prompt_timer": {
+      "timer_sound": "Som de temporizador",
+      "timer_beep": "Bip de temporizador",
+      "clock_sound": "Som de relógio"
+    },
+    "prompt_thunder": {
+      "thunder_sound": "Som de trovão",
+      "dry_thunder": "Trovão seco",
+      "rain_and_thunder": "Chuva e trovão"
+    },
+    "prompt_poop": {
+      "fart_poop": "Peido",
+      "fart_noises": "Sons de peidos",
+      "flush_toilet_sound": "Som de descarga"
+    },
+    "prompt_air": {
+      "air_noise": "Ruído de ar",
+      "air_horn": "Buzina de ar",
+      "air_transition": "Transição de ar",
+      "air_blow": "Sopro de ar"
+    },
+    "prompt_engine": {
+      "engine_sound": "Som de motor",
+      "car_engine": "Motor de carro",
+      "motorcycle_engine": "Motor de moto"
+    },
+    "prompt_cut": {
+      "cut_food": "Cortar comida em uma tábua de corte",
+      "cut_using_scissor": "Cortar com tesoura",
+      "cut_using_knife": "Cortar com faca"
+    },
+    "prompt_machine": {
+      "machine_working_sound": "Som de máquina em funcionamento",
+      "washing_machine": "Máquina de lavar",
+      "old_machine": "Máquina antiga"
+    },
+    "prompt_spatial": {
+      "spatial_sound": "Som espacial",
+      "space_sound": "Som espacial"
+    },
+    "prompt_baby": {
+      "baby_crying": "Bebê chorando",
+      "newborn_baby_crying": "Recém-nascido chorando",
+      "angry_baby_crying": "Bebê irritado chorando"
+    },
+    "prompt_laughing": {
+      "laughing_sound": "Som de risada",
+      "laughing_crowd": "Multidão rindo",
+      "male_laughing": "Homem rindo",
+      "child_laughing": "Criança rindo",
+      "girl_soft_laughing": "Risada suave de menina"
+    },
+    "prompt_horn": {
+      "car_horn": "Buzina de carro",
+      "war_horn": "Corneta de guerra",
+      "mega_horn": "Mega buzina",
+      "ship_horn": "Buzina de navio"
+    },
+    "prompt_counter": {
+      "counter_sound": "Som de contador",
+      "banknote_counter": "Contador de notas",
+      "money_counter": "Contador de dinheiro",
+      "cash_counting_machine": "Máquina contadora de dinheiro"
+    },
+    "prompt_countdown": {
+      "countdown_sound": "Som de contagem regressiva",
+      "countdown_beep": "Bip de contagem regressiva",
+      "game_countdown": "Contagem regressiva de jogo"
+    },
+    "prompt_robot": {
+      "robot_voice": "Voz de robô",
+      "robot_power_off": "Robô desligando",
+      "robot_walk": "Robô andando",
+      "robot_damaged": "Robô danificado"
+    },
+    "prompt_moan": {
+      "ghost_moan": "Gemido de fantasma",
+      "creepy_moan": "Gemido assustador",
+      "female_groaning_creepy": "Gemido feminino assustador",
+      "zombie_moan_sfx": "Gemido de zumbi SFX",
+      "demon_moaning": "Gemido demoníaco",
+      "dinosaur_creature_moaning": "Gemido de criatura dinossauro"
+    },
+    "prompt_male_moaning": {
+      "disapproving_male_grunt": "Grunhido masculino de desaprovação",
+      "male_groan_of_pain": "Gemido masculino de dor",
+      "male_hurt_sound": "Som de homem ferido"
+    },
+    "prompt_men_moaning": {
+      "big_old_men_moan": "Gemido de homens idosos",
+      "horror_moaning_and_groaning": "Gemidos e queixas de terror",
+      "demon_moaning": "Gemido demoníaco"
+    },
+    "prompt_moaning_audio": {
+      "zombie_sfx": "SFX de zumbi",
+      "zombie_sound": "Som de zumbi",
+      "zombie_groan_sfx": "Gemido de zumbi SFX"
+    },
+    "prompt_guy_moaning": {
+      "moaning_wraith": "Espectro gemendo",
+      "womansadmoan": "Gemido triste de mulher",
+      "rumbling": "Trovejamento"
+    },
+    "prompt_male_moan": {
+      "injury_scream": "Grito de ferimento",
+      "big_punch_short_with_male_moan": "Soco forte curto com gemido masculino",
+      "no_quite_human_grunts": "Grunhidos quase não humanos"
+    },
+    "prompt_men_moan": {
+      "male_hurt_sound": "Som de homem ferido",
+      "grunt": "Grunhido",
+      "ghost_moan": "Gemido de fantasma"
+    },
+    "prompt_men_moans": {
+      "lollipopmoans": "Gemidos de pirulito",
+      "big_old_men_moan": "Gemido de homens idosos",
+      "creepy_ghost_moan_sfx": "Gemido de fantasma assustador SFX"
+    },
+    "prompt_sexy": {
+      "using_a_new_toy_with_my_vibrator": "Usando um brinquedo novo com meu vibrador",
+      "trans_girl_moaning_and_finishing": "Garota trans gemendo e terminando",
+      "feminine_moans": "Gemidos femininos"
+    },
+    "prompt_groan_sound": {
+      "male_groan_of_pain": "Gemido masculino de dor",
+      "zombie_groan_sfx": "Gemido de zumbi SFX",
+      "zombie_call": "Chamado de zumbi"
+    },
+    "prompt_grunt_sound_effect": {
+      "animal_grunt": "Grunhido animal",
+      "zombie_dying_sound": "Som de zumbi morrendo",
+      "horse_snort": "Relincho de cavalo"
+    },
+    "prompt_explosion": {
+      "large_underwater_explosion": "Grande explosão subaquática",
+      "explosion_fx": "FX de explosão",
+      "epic_cinematic_explosion": "Explosão cinematográfica épica",
+      "loud_explosion": "Explosão alta"
+    },
+    "prompt_sparkle": {
+      "fairy_sparkle": "Brilho de fada",
+      "sparkle": "Brilho",
+      "sparkle_loop": "Loop de brilhos",
+      "baby_piano": "Piano de bebê"
+    },
+    "prompt_rooster": {
+      "rooster_crowing": "Galo cantando",
+      "rooster_call": "Canto de galo",
+      "rooster": "Galo"
+    },
+    "prompt_camera": {
+      "camera_shutter": "Obturador de câmera",
+      "film_camera_shutter_with_auto_winder": "Obturador de câmera de filme com enrolador automático",
+      "camera": "Câmera"
+    },
+    "prompt_whisper": {
+      "whispering": "Sussurro",
+      "creepy_whispering": "Sussurro assustador",
+      "murmullos": "Murmúrios",
+      "ghost_whispers": "Sussurros de fantasma"
+    },
+    "prompt_riser": {
+      "riser_somewhere": "Riser em algum lugar",
+      "riser_hole": "Buraco riser",
+      "dramatic_riser": "Riser dramático"
+    },
+    "prompt_bell": {
+      "church_bell_sound_effect": "Efeito sonoro de sino de igreja",
+      "bell": "Sino",
+      "ding_small_bell_sfx": "Ding sino pequeno SFX",
+      "creepy_bell_fx": "Sino assustador FX",
+      "big_bell": "Sino grande",
+      "bell_sound": "Som de sino",
+      "phone_ringing": "Telefone tocando",
+      "christmas_ringing_bells_ringtone": "Toque de sinos de Natal",
+      "scary_bells": "Sinos assustadores",
+      "bells_jingling": "Sinos tilintando",
+      "notification_bell_sound": "Som de sino de notificação",
+      "gong_bell": "Sino gong",
+      "bicycle_bell": "Campainha de bicicleta",
+      "church_bell": "Sino de igreja",
+      "ding_cartoon": "Ding de desenho animado",
+      "ding_ding_small_bell": "Ding ding sino pequeno",
+      "copper_bell_ding": "Ding de sino de cobre",
+      "bell_ring": "Sino tocando",
+      "bells_ringing": "Sinos tocando",
+      "boxing_bell": "Sino de boxe",
+      "school_bell_longer": "Sino escolar longo",
+      "japanese_school_bell_sound": "Som de sino escolar japonês",
+      "hailuoto_school_bell_recording": "Gravação de sino escolar de Hailuoto",
+      "old_style_door_bell": "Campainha antiga",
+      "bell_transition": "Transição de sino",
+      "opening_bell": "Sino de abertura",
+      "evil_bell": "Sino maligno",
+      "door_bell": "Campainha",
+      "sound_of_the_bell_free_to_use": "Som de sino de uso livre",
+      "servant_bell_ring": "Sino de criado",
+      "fork_bell": "Sino de garfo",
+      "intro_sound_bell": "Sino de som de intro",
+      "bellding": "Bellding",
+      "trap_bell_loop": "Loop de sino trap",
+      "background_bell": "Sino de fundo",
+      "diamond_bell": "Sino de diamante",
+      "the_bell_sound_free": "Som de sino grátis",
+      "bells_ring_in_the_soul": "Os sinos tocam na alma"
+    },
+    "prompt_bell_audio": {
+      "notification_sounds": "Sons de notificação",
+      "relaxing_bells_melody": "Melodia relaxante de sinos",
+      "bells_audio": "Áudio de sinos"
+    },
+    "prompt_doorbell": {
+      "doorbell_chiming": "Campainha tocando",
+      "doorbell": "Campainha",
+      "vintage_doorbell_ring_sound_effect": "Efeito sonoro de campainha vintage"
+    },
+    "prompt_dooropen": {
+      "open_car_door": "Abrir porta de carro",
+      "door_opening": "Porta abrindo",
+      "opening_door": "Abrir porta"
+    },
+    "prompt_pixel": {
+      "pixel_sound_effect": "Efeito sonoro pixel",
+      "pixel_level_up_sound": "Som de subir de nível pixel",
+      "static_noise": "Ruído estático"
+    },
+    "prompt_haptic": {
+      "thud_sound_effect": "Efeito sonoro de impacto surdo",
+      "mid_nights_sound": "Som de meia-noite",
+      "screenshot_iphone_sound": "Som de captura de tela do iPhone"
+    },
+    "prompt_error": {
+      "bad_machine": "Máquina defeituosa",
+      "error_beep_sound": "Bip de erro",
+      "sound_of_error_beep": "Som de bip de erro"
+    },
+    "prompt_fire": {
+      "fire_sound": "Som de fogo",
+      "plasma_gun_fire": "Disparo de arma de plasma",
+      "fire_forest": "Incêndio florestal"
+    },
+    "prompt_alarm": {
+      "alarm": "Alarme",
+      "alarm_siren_sound_effect": "Efeito sonoro de sirene de alarme",
+      "biohazard_alarm": "Alarme de risco biológico"
+    },
+    "prompt_funny_sound": {
+      "funny_cartoon_sound": "Som de desenho animado engraçado",
+      "funny_sounds": "Sons engraçados",
+      "funny_alarm": "Alarme engraçado"
+    },
+    "prompt_funny_sound_effect": {
+      "funny_boing_flecatone_wobble": "Boing engraçado flexatone wobble",
+      "cartoon_slide_sound_effect": "Efeito sonoro de deslizamento de desenho animado",
+      "fart": "Peido"
+    },
+    "prompt_funny_sounds": {
+      "funny_sounds": "Sons engraçados",
+      "funny_dramatic_gasp": "Suspiro dramático engraçado",
+      "funny_laughing_sound": "Som de risada engraçada"
+    },
+    "prompt_funny_noises": {
+      "funny_grunt_noises": "Ruídos de grunhidos engraçados",
+      "fah": "Fah",
+      "funny_spring_sound": "Som de mola engraçado"
+    },
+    "prompt_funny_audio": {
+      "funny_hysteric_scream": "Grito histérico engraçado",
+      "tatsumaki_senpuu": "Tatsumaki senpuu",
+      "funny_cartoon_sound": "Som de desenho animado engraçado"
+    },
+    "prompt_funny_meme_sounds": {
+      "thud_sound_effect": "Efeito sonoro de impacto surdo",
+      "isnt_that_amazing_meme_sfx": "Não é incrível? meme SFX",
+      "laughing_man": "Homem rindo"
+    },
+    "prompt_funny_meme_sound": {
+      "thud_sound_effect": "Efeito sonoro de impacto surdo",
+      "laughing_man": "Homem rindo",
+      "sarcastic_clapping_sound": "Som de aplausos sarcásticos"
+    },
+    "prompt_noises_funny": {
+      "funny_burp_sound_effect": "Efeito sonoro de arroto engraçado",
+      "funny_gurgling_noises": "Ruídos de gorgolejo engraçados",
+      "funny_grunt_noises": "Ruídos de grunhidos engraçados"
+    },
+    "prompt_soundboard_funny": {
+      "air_horn_sound_effect": "Efeito sonoro de buzina de ar",
+      "funny_laughing": "Risada engraçada",
+      "funny_african_tabla": "Tabla africana engraçada"
+    },
+    "prompt_silly_sound": {
+      "squeakish_sound": "Som rangendo",
+      "silly_trumpet": "Trompete bobo",
+      "fail_trumpet": "Trompete de fracasso"
+    },
+    "prompt_funny_audios": {
+      "funny_spring": "Mola engraçada",
+      "wazzup_man": "Wazzup man",
+      "laughing_male_mp3_sound": "Som MP3 de homem rindo"
+    },
+    "prompt_fun_sounds": {
+      "pipe": "Tubo",
+      "fun_comedic_drum": "Tambor cômico divertido",
+      "funny_laughing_sound_effect": "Efeito sonoro de risada engraçada"
+    },
+    "prompt_fun_sound": {
+      "sweet_game_over_sound_effect": "Efeito sonoro de game over doce",
+      "funny_cartoon_sound": "Som de desenho animado engraçado",
+      "another_funny_laughing_sound_effect": "Outro efeito sonoro de risada engraçada"
+    },
+    "prompt_funny_notification": {
+      "funny_minion_message_notification_sound_effect_sfx": "Efeito de notificação de mensagem minion engraçado SFX",
+      "funny_message_notification_sound_effect_sfx": "Efeito de notificação de mensagem engraçado SFX",
+      "funny_hiphop_party_notification_music_sound": "Som de notificação de festa hip-hop engraçada"
+    },
+    "prompt_funny_scream": {
+      "funny_scream": "Grito engraçado",
+      "insane_funny_scream": "Grito engraçado insano",
+      "man_scream": "Homem gritando"
+    },
+    "prompt_meme_scream": {
+      "sus_meme_sound": "Som de meme sus",
+      "new_meme": "Novo meme",
+      "insane_funny_scream": "Grito engraçado insano"
+    },
+    "prompt_soundboard_guy": {
+      "realizations_or_fighting": "Revelações ou briga",
+      "dying_guy": "Cara morrendo",
+      "shy_guy": "Cara tímido"
+    },
+    "prompt_silent_scream": {
+      "cartoon_scream": "Grito de desenho animado",
+      "smirnoff_scream": "Grito Smirnoff",
+      "eagle_scream": "Grito de águia"
+    },
+    "prompt_scream_and_shout": {
+      "zombie_yell_and_shout_sound_effect": "Efeito de zumbi gritando e vociferando",
+      "epic_war_combat_scream": "Grito épico de combate de guerra",
+      "man_shout_like_a_goat": "Homem gritando como uma cabra"
+    },
+    "prompt_shouting_sound_effect": {
+      "army_of_soldiers_battle_cry": "Grito de batalha de exército de soldados",
+      "male_shouting_fire": "Homem gritando fogo",
+      "distorted_background_sound": "Som de fundo distorcido"
+    },
+    "prompt_scream_louder": {
+      "man_scream": "Homem gritando",
+      "scream_horror_sfx": "Grito de terror SFX",
+      "male_death_scream_horror": "Grito de morte masculino de terror"
+    },
+    "prompt_angry_screaming": {
+      "screaming_man": "Homem gritando",
+      "muffled_angry_screaming": "Gritos irritados abafados",
+      "angry_baby": "Bebê irritado"
+    },
+    "prompt_door_bell_sound_effect": {
+      "door_bell_sound_effect": "Efeito sonoro de campainha",
+      "doorbell_sound_effect": "Efeito sonoro de campainha",
+      "door_bell": "Campainha"
+    },
+    "prompt_taco_bell_sound_effect": {
+      "taco_bell_rong": "Taco Bell tocando",
+      "church_bell_sound_effect": "Efeito sonoro de sino de igreja",
+      "bell_ring": "Sino tocando"
+    },
+    "prompt_sound_button": {
+      "button_press": "Pressionar botão",
+      "interface_button": "Botão de interface",
+      "click_button": "Clicar no botão"
+    },
+    "prompt_sound_bottons": {
+      "broken_expending_machine": "Máquina de venda automática quebrada",
+      "thud_sound_effect": "Efeito sonoro de impacto surdo",
+      "mid_nights_sound": "Som de meia-noite"
+    },
+    "prompt_sounds_buttons": {
+      "button_press": "Pressionar botão",
+      "computer_mouse_click": "Clique do mouse",
+      "sound_of_mouse_click": "Som de clique do mouse"
+    },
+    "prompt_button_soundboard": {
+      "air_horn_sound_effect": "Efeito sonoro de buzina de ar",
+      "button_press": "Pressionar botão",
+      "select_button_ui": "Botão de seleção UI"
+    },
+    "prompt_noise_buttons": {
+      "button_press": "Pressionar botão",
+      "noisy_switch": "Interruptor barulhento",
+      "microwave_beeps": "Bips de micro-ondas"
+    },
+    "prompt_scream": {
+      "boy_character_scream": "Grito de personagem menino",
+      "baby_crying": "Bebê chorando",
+      "loud_male_scream": "Grito masculino alto",
+      "scary_woman_scream_ultra_realistic": "Grito de mulher assustador ultra realista",
+      "angry_man_yell_sound": "Som de homem irritado gritando",
+      "woman_scream_sound": "Som de grito de mulher",
+      "man_scream": "Homem gritando",
+      "scary_scream": "Grito assustador"
+    },
+    "prompt_screaming": {
+      "screaming_man": "Homem gritando",
+      "sudden_screaming_sound": "Som de grito repentino",
+      "pathetic_screaming_sound_effect": "Efeito sonoro de grito patético",
+      "funny_scream": "Grito engraçado",
+      "screaming_sound_effect": "Efeito sonoro de grito",
+      "screeching_sound_effect": "Efeito sonoro de guincho"
+    },
+    "prompt_scream_audio": {
+      "girl_screaming_sound_effect": "Efeito sonoro de menina gritando",
+      "crow_screaming_bird": "Corvo gritando",
+      "female_screaming_audio": "Áudio de grito feminino",
+      "male_screaming_audio": "Áudio de grito masculino"
+    },
+    "prompt_someone_scream": {
+      "man_scream": "Homem gritando",
+      "cartoon_scream": "Grito de desenho animado",
+      "smirnoff_scream": "Grito Smirnoff"
+    },
+    "prompt_guy_screaming": {
+      "dying_guy": "Cara morrendo",
+      "fireworks_and_screaming": "Fogos de artifício e gritos",
+      "guys_howling_fun": "Homens uivando por diversão"
+    },
+    "prompt_scream_noise": {
+      "unsettling_noise": "Ruído perturbador",
+      "ghost_horror_sound": "Som de terror fantasmagórico",
+      "cartoon_scream": "Grito de desenho animado"
+    },
+    "prompt_whoosh_sound": {
+      "whoosh_cinematic": "Whoosh cinematográfico",
+      "whoosh_cinematic_sound_effect": "Efeito sonoro whoosh cinematográfico",
+      "simple_whoosh": "Whoosh simples"
+    },
+    "prompt_whoosh_effect": {
+      "cinematic_whoosh_shot": "Disparo whoosh cinematográfico",
+      "whoosh_effect": "Efeito whoosh",
+      "whoosh_sound_effect": "Efeito sonoro whoosh"
+    },
+    "prompt_woosh_sound": {
+      "woosh": "Woosh",
+      "short_woosh": "Woosh curto",
+      "fast_woosh": "Woosh rápido"
+    },
+    "prompt_woosh_sfx": {
+      "swoosh": "Swoosh",
+      "air_motion": "Movimento de ar",
+      "creepy_hifreq_woosh": "Woosh de alta frequência assustador"
+    },
+    "prompt_swish_sound": {
+      "swish_sound": "Som swish",
+      "quick_double_swish_sfx": "Duplo swish rápido SFX",
+      "fast_swish_transition_noise": "Ruído de transição swish rápida"
+    },
+    "prompt_bicycle_sounds": {
+      "bicycle_bell_sound_effect": "Efeito sonoro de campainha de bicicleta",
+      "bicycle_bell": "Campainha de bicicleta",
+      "bicycle": "Bicicleta"
+    },
+    "prompt_bike_horn_sound": {
+      "horn_toy": "Buzina de brinquedo",
+      "mega_horn": "Mega buzina",
+      "boat_horn": "Buzina de barco"
+    },
+    "prompt_train_sounds": {
+      "train": "Trem",
+      "inside_old_train": "Dentro de um trem antigo",
+      "railway_train": "Trem ferroviário"
+    },
+    "prompt_truck_sounds": {
+      "traffic_truck_ambience": "Ambiente de tráfego de caminhões",
+      "truck_chord": "Acorde de caminhão",
+      "loud_machinery": "Maquinário barulhento"
+    },
+    "prompt_truck_sound": {
+      "diesel_truck_passing": "Caminhão diesel passando",
+      "big_truck_engine": "Motor de caminhão grande",
+      "muscle_truck": "Caminhão muscle"
+    },
+    "prompt_truck_audio": {
+      "truck_door_open_and_close": "Porta de caminhão abrindo e fechando",
+      "city_street_soundscape": "Paisagem sonora de rua urbana",
+      "police_siren_emergency_alarm": "Sirene de polícia alarme de emergência"
+    },
+    "prompt_truck_horn": {
+      "truck_horn": "Buzina de caminhão",
+      "parisian_fire_truck_siren": "Sirene de caminhão de bombeiros parisiense",
+      "truck_signal": "Sinal de caminhão"
+    },
+    "prompt_truck_honking": {
+      "truck_signal": "Sinal de caminhão",
+      "vintage_car_horn": "Buzina de carro vintage",
+      "old_car_horn": "Buzina de carro antigo"
+    },
+    "prompt_celebration_sound_effect": {
+      "wow": "Uau",
+      "applause_sound": "Som de aplausos",
+      "crowd_cheering": "Multidão vibrando"
+    },
+    "prompt_festival_sound": {
+      "applause_sound_effect": "Efeito sonoro de aplausos",
+      "crowd_noise_at_event": "Ruído de multidão em evento",
+      "crowd_noise_stadium": "Ruído de multidão no estádio"
+    },
+    "prompt_fireworks_sounds": {
+      "fireworks": "Fogos de artifício",
+      "firework_whistle": "Assobio de fogos de artifício",
+      "slow_explosion": "Explosão lenta"
+    },
+    "prompt_fireworks_sound": {
+      "crackling_fireworks": "Fogos de artifício estalando",
+      "fireworks_sound": "Som de fogos de artifício",
+      "new_year_fireworks": "Fogos de artifício de Ano Novo"
+    },
+    "prompt_firework_sounds": {
+      "cake_firework_and_mortars": "Bolo de fogos de artifício e morteiros",
+      "firework_whistle": "Assobio de fogos de artifício",
+      "funny_firework_sound": "Som de fogos de artifício engraçado"
+    },
+    "prompt_happy_celebration": {
+      "happy_loop": "Loop alegre",
+      "happy_birthday": "Feliz aniversário",
+      "kids_happy_background_music": "Música de fundo alegre para crianças"
+    },
+    "prompt_porn_sounds": {
+      "funny_sounds": "Sons engraçados",
+      "birds_sounds": "Sons de pássaros",
+      "dire_crackling_sounds": "Sons estalantes sombrios"
+    },
+    "prompt_porn_sound": {
+      "mid_nights_sound": "Som de meia-noite",
+      "thud_sound_effect": "Efeito sonoro de impacto surdo",
+      "heartbeat_sound": "Som de batimento cardíaco"
+    },
+    "prompt_porn_noises": {
+      "water_noises": "Ruídos de água",
+      "soft_brown_noise": "Ruído marrom suave",
+      "rainy_day_in_town_with_birds_singing": "Dia chuvoso na cidade com pássaros cantando"
+    },
+    "prompt_audio_porn": {
+      "audio_for_video_editing": "Áudio para edição de vídeo",
+      "birds_singing_audio_tune": "Melodia de áudio de pássaros cantando",
+      "retro_audio_logo": "Logo de áudio retrô"
+    },
+    "prompt_porn_audio": {
+      "audio_for_video_editing": "Áudio para edição de vídeo",
+      "birds_singing_audio_tune": "Melodia de áudio de pássaros cantando",
+      "relaxing_guitar_loop": "Loop de guitarra relaxante"
+    },
+    "prompt_loud_porn": {
+      "loud_thunder": "Trovão alto",
+      "baby_crying_loud": "Bebê chorando alto",
+      "scotland_eas_alarm": "Alarme EAS da Escócia"
+    },
+    "prompt_porn_moaning": {
+      "rumbling": "Trovejamento",
+      "free_zombie_moan_sound": "Som gratuito de gemido de zumbi",
+      "demonic_spirit_voice": "Voz de espírito demoníaco"
+    },
+    "prompt_porn_moan": {
+      "creepy_ghost_moan_sfx": "Gemido de fantasma assustador SFX",
+      "ghost_moan": "Gemido de fantasma",
+      "creepy_moan": "Gemido assustador"
+    },
+    "prompt_loud_moaning_porn": {
+      "loud_thunder": "Trovão alto",
+      "baby_crying_loud": "Bebê chorando alto",
+      "moaning_wraith": "Espectro gemendo"
+    },
+    "prompt_women_moaning": {
+      "demon_moaning": "Gemido demoníaco",
+      "moaning_wraith": "Espectro gemendo",
+      "rumbling": "Trovejamento"
+    },
+    "prompt_male_moans": {
+      "disapproving_male_grunt": "Grunhido masculino de desaprovação",
+      "male_hurt_sound": "Som de homem ferido",
+      "male_groan_of_pain": "Gemido masculino de dor"
+    },
+    "prompt_men_moaning_porn": {
+      "demonic_moaning": "Gemido demoníaco",
+      "demon_moaning": "Gemido demoníaco",
+      "horror_moaning_and_groaning": "Gemidos e queixas de terror"
+    },
+    "prompt_girls_moan": {
+      "ghost_moan": "Gemido de fantasma",
+      "creepy_moan": "Gemido assustador",
+      "big_old_men_moan": "Gemido de homens idosos"
+    },
+    "prompt_girl_moan": {
+      "woman_sad_moan": "Gemido triste de mulher",
+      "woman_giving_birth": "Mulher dando à luz",
+      "creepy_ghost_moan_sfx": "Gemido de fantasma assustador SFX"
+    },
+    "prompt_moaning_porn": {
+      "horror_moaning_and_groaning": "Gemidos e queixas de terror",
+      "demon_moaning": "Gemido demoníaco",
+      "demonic_moaning": "Gemido demoníaco"
+    },
+    "prompt_moaning_sounds": {
+      "ghostly_moaning": "Gemido fantasmagórico",
+      "zombie_call": "Chamado de zumbi",
+      "free_zombie_moan_sounds": "Sons gratuitos de gemido de zumbi"
+    },
+    "prompt_moaning_sound": {
+      "demon_moaning": "Gemido demoníaco",
+      "zombie_sound": "Som de zumbi",
+      "tummy_song": "Canção de barriga"
+    },
+    "prompt_moans_sounds": {
+      "zombie_moan_sfx": "Gemido de zumbi SFX",
+      "zombie_sfx": "SFX de zumbi",
+      "zombiesound": "Som de zumbi"
+    },
+    "prompt_moan_sound": {
+      "creepy_ghost_sound": "Som de fantasma assustador",
+      "dogs_moan_sound": "Som de cães gemendo",
+      "mumie_komt_aus_sarkophag": "Múmia saindo do sarcófago"
+    },
+    "prompt_moan_sounds": {
+      "zombie_moan_sfx": "Gemido de zumbi SFX",
+      "guttural_snarl": "Rosnado gutural",
+      "zombie_moan": "Gemido de zumbi"
+    },
+    "prompt_moaning_noises": {
+      "hospital_icu_patient_moaning": "Paciente de UTI gemendo",
+      "sex_noises_dose": "Dose de ruídos sexuais",
+      "little_dog_moaning": "Cachorro pequeno gemendo"
+    },
+    "prompt_sex_sounds": {
+      "bed_sex_sounds": "Sons sexuais na cama",
+      "primal_quickie": "Rápido primal",
+      "chubby_girl_sex_sound_during_doggystyle": "Som sexual de garota rechonchuda em doggy style"
+    },
+    "prompt_sex_audio": {
+      "fucking_and_parents_next_door": "Sexo e pais ao lado",
+      "sex_noises_dose": "Dose de ruídos sexuais",
+      "wife_squirming_in_pleasure": "Esposa se contorcendo de prazer"
+    },
+    "prompt_sex_sound": {
+      "jumpling_on_a_small_trampoline_squeaking_sounds": "Pulando em trampolim pequeno com rangidos",
+      "body_percussion": "Percussão corporal",
+      "rough_blow_job": "Sexo oral brusco"
+    },
+    "prompt_sex_moans": {
+      "moans_of_a_woman": "Gemidos de uma mulher",
+      "catherine": "Catherine",
+      "oral_sex_sounds": "Sons de sexo oral"
+    },
+    "prompt_sex_noises": {
+      "sex_noises_does": "Ruídos sexuais",
+      "sex_noises_close": "Ruídos sexuais próximos",
+      "water_noises": "Ruídos de água"
+    },
+    "prompt_sex_noise": {
+      "sex_noise": "Ruído sexual",
+      "primal_quickie": "Rápido primal",
+      "dubstep_sound": "Som dubstep"
+    },
+    "prompt_sounds_of_sex": {
+      "synchronized_sex_energy": "Energia sexual sincronizada",
+      "slowly_making_love": "Fazendo amor lentamente",
+      "sex_young_couple": "Sexo casal jovem"
+    },
+    "prompt_sex_sound_effects": {
+      "cute_hentai_girl_voice_orgasm_sound_effect": "Efeito sonoro de orgasmo voz garota hentai fofa",
+      "sexy_female_moan_sound_effect": "Efeito sonoro de gemido feminino sexy",
+      "sexy_vocals": "Vocais sexy",
+      "moaning": "Gemidos"
+    },
+    "prompt_erotic_sounds": {
+      "diversity_of_masturbation": "Diversidade de masturbação",
+      "raspy_tomboy_voice_female_moan_sound_effect": "Efeito de gemido feminino voz tomboy rouca",
+      "sub_breathing_nose_low": "Respiração sub nariz baixa"
+    },
+    "prompt_real_sex_sounds": {
+      "sex_of_japanese_mature_couple": "Sexo de casal maduro japonês",
+      "sexual_intercourse": "Relações sexuais",
+      "woman_getting_fucked": "Mulher fazendo sexo"
+    },
+    "prompt_sounding_sex": {
+      "chubby_girl_sex_sound_during_doggystyle": "Som sexual de garota rechonchuda em doggy style",
+      "girl_sex_sounds": "Sons sexuais de garota",
+      "synchronized_sex_energy": "Energia sexual sincronizada"
+    },
+    "prompt_sex_sounds_porn": {
+      "funny_sounds": "Sons engraçados",
+      "female_cute": "Mulher fofa",
+      "porn_content_creators": "Criadores de conteúdo pornô"
+    },
+    "prompt_vibrator_sound": {
+      "cell_phone_vibration": "Vibração de celular",
+      "sound_of_phone_vibrating": "Som de celular vibrando",
+      "alien_underworld_sound": "Som do submundo alienígena"
+    },
+    "prompt_fuck_sound_effect": {
+      "fuck": "Merda",
+      "what_a_fuck": "Que diabos",
+      "stupid": "Estúpido"
+    },
+    "prompt_happy_scream": {
+      "crowd_of_boys_cheering": "Multidão de meninos vibrando",
+      "woman_excited_cheers_and_phrases_says_woohoo": "Mulher animada vibrando e dizendo woohoo",
+      "happy_new_year": "Feliz Ano Novo"
+    },
+    "prompt_train_sound": {
+      "train_running_sound": "Som de trem em movimento",
+      "train_passing": "Trem passando",
+      "train_whistle": "Apito de trem"
+    },
+    "prompt_train_sound_effect": {
+      "train_approach_sfx": "SFX de trem se aproximando",
+      "train_stopping": "Trem parando",
+      "on_the_high_speed_train": "No trem de alta velocidade"
+    },
+    "prompt_train_sound_effects": {
+      "hungarian_train_ride": "Viagem de trem húngaro",
+      "incoming_commuter_train": "Trem de passageiros chegando",
+      "loud_train_horn": "Apito de trem alto"
+    },
+    "prompt_train_horn": {
+      "train_horn": "Apito de trem",
+      "train_horn_fades": "Apito de trem desvanecendo",
+      "loud_train_horn": "Apito de trem alto"
+    },
+    "prompt_train_voice": {
+      "train_voice": "Voz de trem",
+      "electronic_female_voice_at_train_station": "Voz feminina eletrônica na estação de trem",
+      "metro_train_sound": "Som de metrô"
+    },
+    "prompt_train_noises": {
+      "inside_the_old_train": "Dentro do trem antigo",
+      "train_running_sound": "Som de trem em movimento",
+      "train_station_ambience": "Ambiente de estação de trem"
+    },
+    "prompt_train_noise": {
+      "musical_train_noise": "Ruído musical de trem",
+      "diesel_train_engine_noise": "Ruído de motor de trem diesel",
+      "train_whistle_and_environment_sounds": "Apito de trem e sons do ambiente"
+    },
+    "prompt_transition_sound_effect": {
+      "riser_swoosh_transition": "Transição riser swoosh",
+      "whoosh_cinematic_sound_effect": "Efeito sonoro whoosh cinematográfico",
+      "scary_transition": "Transição assustadora"
+    },
+    "prompt_transition_sound_effects": {
+      "futuristic_transition": "Transição futurista",
+      "professional_transition": "Transição profissional",
+      "sweet_transition": "Transição doce"
+    },
+    "prompt_transition_sound": {
+      "transition_base": "Base de transição",
+      "transition_explosion": "Transição explosão",
+      "transition_coat": "Transição casaco"
+    },
+    "prompt_transition_sounds": {
+      "high_transition": "Transição alta",
+      "transition_fleeting": "Transição fugaz",
+      "interface": "Interface"
+    },
+    "prompt_transition_sfx": {
+      "bizzard_transition": "Transição bizarra",
+      "soft_transition": "Transição suave",
+      "sand_transition": "Transição areia"
+    },
+    "prompt_scream_soundboard": {
+      "male_death_scream_horror": "Grito de morte masculino de terror",
+      "falling_man_scream": "Homem caindo gritando",
+      "echo_scream": "Grito com eco"
+    },
+    "prompt_loud": {
+      "corrupt_scream": "Grito corrupto",
+      "male_death_scream_horror": "Grito de morte masculino de terror",
+      "male_voice_screaming_loudly": "Voz masculina gritando alto",
+      "young_girl_screaming": "Menina jovem gritando",
+      "man_angry_loud": "Homem irritado gritando alto",
+      "loud_female_scream": "Grito feminino alto"
+    },
+    "prompt_cry_sounds": {
+      "crying_and_sobbing": "Choro e soluços",
+      "boy_crying_free_sound": "Som gratuito de menino chorando",
+      "baby_crying": "Bebê chorando"
+    },
+    "prompt_yelling_sound": {
+      "random_guy_on_street_yelling": "Cara aleatório gritando na rua",
+      "angry_man_yell_sound": "Som de homem irritado gritando",
+      "woman_enraged_fearful_scream_sound_effect": "Efeito de grito de mulher furiosa e temerosa",
+      "army_of_soldiers_battle_cry": "Grito de batalha de exército de soldados",
+      "hilarious_yelling": "Gritos hilariantes",
+      "crowd_booing": "Multidão vaiando"
+    },
+    "prompt_beat": {
+      "indian_beats": "Batidas indianas",
+      "hold_on_beat": "Hold on beat",
+      "drum_beats": "Batidas de tambor",
+      "sweet_sound_effects": "Efeitos sonoros doces",
+      "beat_effect": "Efeito de batida",
+      "heartbeat": "Batimento cardíaco",
+      "clock_beat_effect": "Efeito de batida de relógio"
+    }
+  }
+}

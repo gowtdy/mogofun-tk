@@ -1,0 +1,1032 @@
+{
+  "soundeffect_common": {
+    "display_title": "استمع إلى مؤثرات صوتية واقعية مُولَّدة بالذكاء الاصطناعي أدناه",
+    "input_placeholder": "أدخل وصف المؤثر الصوتي",
+    "generating_button": "جارٍ التوليد...",
+    "generate_button": "توليد",
+    "msg_example_load_failed": "فشل تحميل العينة الصوتية، يُرجى المحاولة لاحقًا!",
+    "msg_example_play_failed": "فشل تشغيل العينة الصوتية، يُرجى المحاولة لاحقًا!",
+    "msg_notext": "يُرجى إدخال وصف لتوليد مؤثر صوتي",
+    "download": {
+      "noAudio": "لا يوجد صوت للتنزيل",
+      "success": "تم التنزيل بنجاح",
+      "failed": "فشل التنزيل، يُرجى المحاولة لاحقًا",
+      "fetchFailed": "فشل تنزيل الأصوات، يُرجى المحاولة لاحقًا!"
+    },
+    "category_nature": "أصوات طبيعية",
+    "category_special": "مؤثرات خاصة",
+    "category_instrument": "آلات موسيقية",
+    "category_human": "أصوات بشرية",
+    "category_ambient": "أصوات محيطة",
+    "sample_rain": "مطر",
+    "sample_ocean": "أمواج المحيط",
+    "sample_water": "مياه جارية",
+    "sample_thunder": "رعد",
+    "sample_insect": "أصوات الحشرات",
+    "sample_fireworks": "ألعاب نارية",
+    "sample_glass": "كسر زجاج",
+    "sample_magic": "سحر",
+    "sample_spaceship": "سفينة فضاء",
+    "sample_action": "أكشن",
+    "sample_piano": "بيانو",
+    "sample_guitar": "غيتار كهربائي",
+    "sample_violin": "كمان",
+    "sample_keyboard": "لوحة مفاتيح إلكترونية",
+    "sample_pipes": "مزمار إيرلندي",
+    "sample_baby": "ضحك طفل",
+    "sample_clap": "تصفيق",
+    "sample_celebrate": "احتفال",
+    "sample_footsteps": "خطوات أقدام",
+    "sample_burp": "تجشؤ",
+    "sample_typing": "كتابة على لوحة المفاتيح",
+    "sample_restaurant": "مطعم صاخب",
+    "sample_doorbell": "جرس الباب",
+    "sample_tv": "تشغيل التلفزيون",
+    "sample_cooking": "طبخ",
+    "prompt_combat": {
+      "sword_whoosh": "صوت سيف يشق الهواء",
+      "sword_through_air": "سيف يمر عبر الهواء",
+      "shotgun_fire": "إطلاق بندقية صيد",
+      "gunshot": "طلقة نار",
+      "pistol_shot": "إطلاق مسدس",
+      "firearm_shooting": "إطلاق سلاح ناري",
+      "weapon_fire": "إطلاق سلاح",
+      "rifle_shot": "إطلاق بندقية",
+      "revolver_shot": "إطلاق مسدس دوار",
+      "machine_gun": "رشاش",
+      "laser_gunshot": "طلقة ليزر",
+      "ui_success": "نجاح واجهة المستخدم"
+    },
+    "prompt_button": {
+      "button_pressed": "ضغط زر",
+      "mouse_button_clicked": "نقر زر الفأرة",
+      "telephone_button": "زر الهاتف",
+      "keyboard_button": "زر لوحة المفاتيح",
+      "mobile_phone_button": "زر الهاتف المحمول"
+    },
+    "prompt_typing": {
+      "keyboard_typing": "كتابة على لوحة المفاتيح",
+      "typewriter_typing": "كتابة على آلة كاتبة",
+      "laptop_typing": "كتابة على حاسوب محمول"
+    },
+    "prompt_nature": {
+      "name": "أصوات طبيعية",
+      "rain": "مطر",
+      "ocean_waves": "أمواج المحيط",
+      "flowing_water": "مياه جارية",
+      "thunder": "رعد",
+      "insect_sounds": "أصوات الحشرات"
+    },
+    "prompt_special": {
+      "name": "مؤثرات خاصة",
+      "fireworks": "ألعاب نارية",
+      "glass_shattering": "تحطم زجاج",
+      "magic_spell": "تعويذة سحرية",
+      "spaceship": "سفينة فضاء",
+      "action": "أكشن"
+    },
+    "prompt_instruments": {
+      "name": "أصوات الآلات",
+      "piano": "بيانو",
+      "electric_guitar": "غيتار كهربائي",
+      "violin": "كمان",
+      "keyboard": "لوحة مفاتيح",
+      "irish_pipes": "مزمار إيرلندي"
+    },
+    "prompt_human": {
+      "name": "أصوات بشرية",
+      "baby_laughing": "ضحك طفل",
+      "clapping": "تصفيق",
+      "celebrate": "احتفال",
+      "footsteps": "خطوات أقدام",
+      "burp": "تجشؤ"
+    },
+    "prompt_ambient": {
+      "name": "أصوات محيطة",
+      "typing": "كتابة على لوحة المفاتيح",
+      "noisy_restaurant": "مطعم صاخب",
+      "doorbell_ring": "رنين جرس الباب",
+      "tv_on": "تشغيل التلفزيون",
+      "cooking": "طبخ"
+    },
+    "prompt_car": {
+      "car_horn": "بوق سيارة",
+      "car_honk": "صفير بوق السيارة",
+      "vehicle": "مركبة",
+      "car_door": "باب سيارة",
+      "automobile": "سيارة",
+      "road_sound": "صوت الطريق",
+      "car_engine": "محرك سيارة",
+      "car_crash": "حادث سيارة"
+    },
+    "prompt_car_sound": {
+      "car_pass_by": "مرور سيارة",
+      "car_engine": "محرك سيارة",
+      "car_crash_sound_effect": "مؤثر صوتي لحادث سيارة"
+    },
+    "prompt_car_sounds": {
+      "car_honk": "صفير بوق السيارة",
+      "car_engine_roaring": "هدير محرك السيارة",
+      "car_door_shut": "إغلاق باب السيارة"
+    },
+    "prompt_car_noises": {
+      "car_honk": "صفير بوق السيارة",
+      "car_crash_sound_effect": "مؤثر صوتي لحادث سيارة",
+      "car_pass_by": "مرور سيارة"
+    },
+    "prompt_cars_sounds": {
+      "car_engine": "محرك سيارة",
+      "space_sound_effect": "مؤثر صوتي فضائي",
+      "police_siren": "صفارة شرطة"
+    },
+    "prompt_carsound": {
+      "car_door_shut": "إغلاق باب السيارة",
+      "car_crash": "حادث سيارة",
+      "car_driving_ambience": "أجواء قيادة السيارة"
+    },
+    "prompt_car_effect": {
+      "car_chase_sound_effect": "مؤثر صوتي لمطاردة سيارات",
+      "car_whizzing_by": "سيارة تمر بسرعة",
+      "car_engine_roaring": "هدير محرك السيارة"
+    },
+    "prompt_car_voice": {
+      "allahabad_traffic": "حركة مرور علّه آباد",
+      "carwash_unsuccessful": "غسيل سيارة فاشل",
+      "city_sounds": "أصوات المدينة"
+    },
+    "prompt_car_fx": {
+      "car_passing_city": "سيارة تمر في المدينة",
+      "heavy_race_car_speeding_reverb": "صدى سيارة سباق ثقيلة تسرع",
+      "siren": "صفارة إنذار"
+    },
+    "prompt_air_sounds": {
+      "air_whoosh": "صوت هواء يمر",
+      "air_raid_siren_sound_effect": "مؤثر صوتي لصفارة إنذار جوي",
+      "simple_whoosh": "صوت مرور بسيط"
+    },
+    "prompt_air_sound_effect": {
+      "whoosh_cinematic_sound_effect": "مؤثر صوتي سينمائي لمرور الهواء",
+      "whoosh_effect": "مؤثر مرور الهواء",
+      "clean_whoosh_effect": "مؤثر مرور هواء نقي"
+    },
+    "prompt_airhorn": {
+      "air_horn_sound_effect": "مؤثر صوتي لبوق هواء",
+      "dj_airhorn_sound": "صوت بوق هواء دي جي",
+      "dj_airhorn": "بوق هواء دي جي"
+    },
+    "prompt_air_horn": {
+      "air_horn": "بوق هواء",
+      "dj_airhorn_sound": "صوت بوق هواء دي جي",
+      "truck_signal": "إشارة شاحنة"
+    },
+    "prompt_airhorn_sound": {
+      "air_horn_sound_effect": "مؤثر صوتي لبوق هواء",
+      "dj_airhorn_sound": "صوت بوق هواء دي جي",
+      "airhorn_fx": "مؤثر بوق هواء"
+    },
+    "prompt_air_horn_noise": {
+      "air_horn": "بوق هواء",
+      "air_horn_sound_effect": "مؤثر صوتي لبوق هواء",
+      "fire_alarm": "إنذار حريق"
+    },
+    "prompt_sound_horn": {
+      "mega_horn": "بوق ضخم",
+      "boat_horn": "بوق سفينة",
+      "double_car_horn": "بوق سيارة مزدوج"
+    },
+    "prompt_horn_sound": {
+      "automobile_horn": "بوق سيارة",
+      "car_honk": "صفير بوق السيارة",
+      "car_horn": "بوق سيارة"
+    },
+    "prompt_horn_sounds": {
+      "ship_horn": "بوق سفينة",
+      "war_horn": "بوق حرب",
+      "low_horn": "بوق منخفض"
+    },
+    "prompt_horn_noise": {
+      "car_horn_honking": "صفير بوق السيارة",
+      "electric_horn_honking": "صفير بوق كهربائي",
+      "truck_horn": "بوق شاحنة"
+    },
+    "prompt_death": {
+      "death_sound": "صوت موت",
+      "man_dying_sound": "صوت رجل يحتضر",
+      "death_scream": "صرخة موت"
+    },
+    "prompt_jumpscare": {
+      "jump_scare": "فزعة مفاجئة"
+    },
+    "prompt_woosh": {
+      "woosh_sound": "صوت ووش",
+      "swoosh_sound": "صوت سووش",
+      "whoosh_sound": "صوت مرور"
+    },
+    "prompt_shock": {
+      "eerie_sudden_shock": "صدمة مفاجئة مخيفة",
+      "piano_shock_impact": "صدمة بيانو",
+      "crowd_shocked_reaction": "تفاعل حشد مصدوم"
+    },
+    "prompt_timer": {
+      "timer_sound": "صوت مؤقت",
+      "timer_beep": "صفير مؤقت",
+      "clock_sound": "صوت ساعة"
+    },
+    "prompt_thunder": {
+      "thunder_sound": "صوت رعد",
+      "dry_thunder": "رعد جاف",
+      "rain_and_thunder": "مطر ورعد"
+    },
+    "prompt_poop": {
+      "fart_poop": "ضرطة",
+      "fart_noises": "أصوات ضراط",
+      "flush_toilet_sound": "صوت سحب المرحاض"
+    },
+    "prompt_air": {
+      "air_noise": "ضوضاء هواء",
+      "air_horn": "بوق هواء",
+      "air_transition": "انتقال هوائي",
+      "air_blow": "نفخ هواء"
+    },
+    "prompt_engine": {
+      "engine_sound": "صوت محرك",
+      "car_engine": "محرك سيارة",
+      "motorcycle_engine": "محرك دراجة نارية"
+    },
+    "prompt_cut": {
+      "cut_food": "تقطيع طعام على لوح تقطيع",
+      "cut_using_scissor": "قطع بالمقص",
+      "cut_using_knife": "قطع بالسكين"
+    },
+    "prompt_machine": {
+      "machine_working_sound": "صوت آلة تعمل",
+      "washing_machine": "غسالة",
+      "old_machine": "آلة قديمة"
+    },
+    "prompt_spatial": {
+      "spatial_sound": "صوت مكاني",
+      "space_sound": "صوت فضائي"
+    },
+    "prompt_baby": {
+      "baby_crying": "بكاء طفل",
+      "newborn_baby_crying": "بكاء مولود",
+      "angry_baby_crying": "بكاء طفل غاضب"
+    },
+    "prompt_laughing": {
+      "laughing_sound": "صوت ضحك",
+      "laughing_crowd": "حشد يضحك",
+      "male_laughing": "ضحك رجل",
+      "child_laughing": "ضحك طفل",
+      "girl_soft_laughing": "ضحك خفيف لفتاة"
+    },
+    "prompt_horn": {
+      "car_horn": "بوق سيارة",
+      "war_horn": "بوق حرب",
+      "mega_horn": "بوق ضخم",
+      "ship_horn": "بوق سفينة"
+    },
+    "prompt_counter": {
+      "counter_sound": "صوت عداد",
+      "banknote_counter": "عداد أوراق نقدية",
+      "money_counter": "عداد نقود",
+      "cash_counting_machine": "آلة عد النقود"
+    },
+    "prompt_countdown": {
+      "countdown_sound": "صوت العد التنازلي",
+      "countdown_beep": "صفير العد التنازلي",
+      "game_countdown": "عد تنازلي للعبة"
+    },
+    "prompt_robot": {
+      "robot_voice": "صوت روبوت",
+      "robot_power_off": "إيقاف تشغيل الروبوت",
+      "robot_walk": "مشي روبوت",
+      "robot_damaged": "روبوت تالف"
+    },
+    "prompt_moan": {
+      "ghost_moan": "أنين شبح",
+      "creepy_moan": "أنين مخيف",
+      "female_groaning_creepy": "أنين أنثوي مخيف",
+      "zombie_moan_sfx": "مؤثر أنين زومبي",
+      "demon_moaning": "أنين شيطان",
+      "dinosaur_creature_moaning": "أنين مخلوق ديناصور"
+    },
+    "prompt_male_moaning": {
+      "disapproving_male_grunt": "همهمة رجل معارض",
+      "male_groan_of_pain": "أنين رجل من الألم",
+      "male_hurt_sound": "صوت رجل مصاب"
+    },
+    "prompt_men_moaning": {
+      "big_old_men_moan": "أنين رجال عجائز",
+      "horror_moaning_and_groaning": "أنين وتأوه رعب",
+      "demon_moaning": "أنين شيطان"
+    },
+    "prompt_moaning_audio": {
+      "zombie_sfx": "مؤثر زومبي",
+      "zombie_sound": "صوت زومبي",
+      "zombie_groan_sfx": "مؤثر همهمة زومبي"
+    },
+    "prompt_guy_moaning": {
+      "moaning_wraith": "شبح يئن",
+      "womansadmoan": "أنين امرأة حزينة",
+      "rumbling": "هدر"
+    },
+    "prompt_male_moan": {
+      "injury_scream": "صرخة إصابة",
+      "big_punch_short_with_male_moan": "لكمة قوية قصيرة مع أنين رجل",
+      "no_quite_human_grunts": "همهمات غير بشرية"
+    },
+    "prompt_men_moan": {
+      "male_hurt_sound": "صوت رجل مصاب",
+      "grunt": "همهمة",
+      "ghost_moan": "أنين شبح"
+    },
+    "prompt_men_moans": {
+      "lollipopmoans": "أنين مصاصة",
+      "big_old_men_moan": "أنين رجال عجائز",
+      "creepy_ghost_moan_sfx": "مؤثر أنين شبح مخيف"
+    },
+    "prompt_sexy": {
+      "using_a_new_toy_with_my_vibrator": "استخدام لعبة جديدة مع الهزاز",
+      "trans_girl_moaning_and_finishing": "فتاة متحولة تئن وتنهي",
+      "feminine_moans": "أنين أنثوي"
+    },
+    "prompt_groan_sound": {
+      "male_groan_of_pain": "أنين رجل من الألم",
+      "zombie_groan_sfx": "مؤثر همهمة زومبي",
+      "zombie_call": "نداء زومبي"
+    },
+    "prompt_grunt_sound_effect": {
+      "animal_grunt": "همهمة حيوان",
+      "zombie_dying_sound": "صوت زومبي يحتضر",
+      "horse_snort": "شخير حصان"
+    },
+    "prompt_explosion": {
+      "large_underwater_explosion": "انفجار كبير تحت الماء",
+      "explosion_fx": "مؤثر انفجار",
+      "epic_cinematic_explosion": "انفجار سينمائي ملحمي",
+      "loud_explosion": "انفجار عالٍ"
+    },
+    "prompt_sparkle": {
+      "fairy_sparkle": "بريق جنية",
+      "sparkle": "بريق",
+      "sparkle_loop": "حلقة بريق",
+      "baby_piano": "بيانو طفل"
+    },
+    "prompt_rooster": {
+      "rooster_crowing": "صياح ديك",
+      "rooster_call": "نداء ديك",
+      "rooster": "ديك"
+    },
+    "prompt_camera": {
+      "camera_shutter": "غالق كاميرا",
+      "film_camera_shutter_with_auto_winder": "غالق كاميرا فيلم مع لفّاف تلقائي",
+      "camera": "كاميرا"
+    },
+    "prompt_whisper": {
+      "whispering": "همس",
+      "creepy_whispering": "همس مخيف",
+      "murmullos": "تمتمة",
+      "ghost_whispers": "همس أشباح"
+    },
+    "prompt_riser": {
+      "riser_somewhere": "صعود صوتي",
+      "riser_hole": "ثقب صعود صوتي",
+      "dramatic_riser": "صعود صوتي درامي"
+    },
+    "prompt_bell": {
+      "church_bell_sound_effect": "مؤثر صوتي لجرس كنيسة",
+      "bell": "جرس",
+      "ding_small_bell_sfx": "مؤثر جرس صغير",
+      "creepy_bell_fx": "مؤثر جرس مخيف",
+      "big_bell": "جرس كبير",
+      "bell_sound": "صوت جرس",
+      "phone_ringing": "رنين هاتف",
+      "christmas_ringing_bells_ringtone": "نغمة أجراس عيد الميلاد",
+      "scary_bells": "أجراس مخيفة",
+      "bells_jingling": "رنين الأجراس",
+      "notification_bell_sound": "صوت جرس إشعار",
+      "gong_bell": "جرس جونغ",
+      "bicycle_bell": "جرس دراجة",
+      "church_bell": "جرس كنيسة",
+      "ding_cartoon": "رنين كرتوني",
+      "ding_ding_small_bell": "رنين جرس صغير",
+      "copper_bell_ding": "رنين جرس نحاسي",
+      "bell_ring": "رنين جرس",
+      "bells_ringing": "أجراس ترن",
+      "boxing_bell": "جرس ملاكمة",
+      "school_bell_longer": "جرس مدرسة طويل",
+      "japanese_school_bell_sound": "صوت جرس مدرسة يابانية",
+      "hailuoto_school_bell_recording": "تسجيل جرس مدرسة هايلووتو",
+      "old_style_door_bell": "جرس باب قديم",
+      "bell_transition": "انتقال جرس",
+      "opening_bell": "جرس افتتاح",
+      "evil_bell": "جرس شرير",
+      "door_bell": "جرس باب",
+      "sound_of_the_bell_free_to_use": "صوت جرس مجاني للاستخدام",
+      "servant_bell_ring": "رنين جرس خادم",
+      "fork_bell": "جرس شوكة",
+      "intro_sound_bell": "صوت جرس مقدمة",
+      "bellding": "رنين جرس",
+      "trap_bell_loop": "حلقة جرس فخ",
+      "background_bell": "جرس خلفية",
+      "diamond_bell": "جرس ماسي",
+      "the_bell_sound_free": "صوت جرس مجاني",
+      "bells_ring_in_the_soul": "أجراس ترن في الروح"
+    },
+    "prompt_bell_audio": {
+      "notification_sounds": "أصوات إشعار",
+      "relaxing_bells_melody": "لحن أجراس مريح",
+      "bells_audio": "صوت أجراس"
+    },
+    "prompt_doorbell": {
+      "doorbell_chiming": "رنين جرس الباب",
+      "doorbell": "جرس الباب",
+      "vintage_doorbell_ring_sound_effect": "مؤثر صوتي لجرس باب عتيق"
+    },
+    "prompt_dooropen": {
+      "open_car_door": "فتح باب سيارة",
+      "door_opening": "فتح باب",
+      "opening_door": "فتح الباب"
+    },
+    "prompt_pixel": {
+      "pixel_sound_effect": "مؤثر صوتي بكسل",
+      "pixel_level_up_sound": "صوت ترقية مستوى بكسل",
+      "static_noise": "ضوضاء ثابتة"
+    },
+    "prompt_haptic": {
+      "thud_sound_effect": "مؤثر صوتي ارتطام",
+      "mid_nights_sound": "صوت منتصف الليل",
+      "screenshot_iphone_sound": "صوت لقطة شاشة آيفون"
+    },
+    "prompt_error": {
+      "bad_machine": "آلة معطلة",
+      "error_beep_sound": "صوت صفير خطأ",
+      "sound_of_error_beep": "صوت صفير الخطأ"
+    },
+    "prompt_fire": {
+      "fire_sound": "صوت نار",
+      "plasma_gun_fire": "إطلاق بندقية بلازما",
+      "fire_forest": "حرق غابة"
+    },
+    "prompt_alarm": {
+      "alarm": "إنذار",
+      "alarm_siren_sound_effect": "مؤثر صوتي لصفارة إنذار",
+      "biohazard_alarm": "إنذار خطر بيولوجي"
+    },
+    "prompt_funny_sound": {
+      "funny_cartoon_sound": "صوت كرتوني مضحك",
+      "funny_sounds": "أصوات مضحكة",
+      "funny_alarm": "إنذار مضحك"
+    },
+    "prompt_funny_sound_effect": {
+      "funny_boing_flecatone_wobble": "صوت بوينغ مضحك",
+      "cartoon_slide_sound_effect": "مؤثر صوتي انزلاق كرتوني",
+      "fart": "ضرطة"
+    },
+    "prompt_funny_sounds": {
+      "funny_sounds": "أصوات مضحكة",
+      "funny_dramatic_gasp": "لهاث درامي مضحك",
+      "funny_laughing_sound": "صوت ضحك مضحك"
+    },
+    "prompt_funny_noises": {
+      "funny_grunt_noises": "أصوات همهمة مضحكة",
+      "fah": "فاه",
+      "funny_spring_sound": "صوت نابض مضحك"
+    },
+    "prompt_funny_audio": {
+      "funny_hysteric_scream": "صرخة هستيرية مضحكة",
+      "tatsumaki_senpuu": "تاتسوماكي سينبو",
+      "funny_cartoon_sound": "صوت كرتوني مضحك"
+    },
+    "prompt_funny_meme_sounds": {
+      "thud_sound_effect": "مؤثر صوتي ارتطام",
+      "isnt_that_amazing_meme_sfx": "مؤثر ميم «أليس هذا مذهلاً»",
+      "laughing_man": "رجل يضحك"
+    },
+    "prompt_funny_meme_sound": {
+      "thud_sound_effect": "مؤثر صوتي ارتطام",
+      "laughing_man": "رجل يضحك",
+      "sarcastic_clapping_sound": "صوت تصفيق ساخر"
+    },
+    "prompt_noises_funny": {
+      "funny_burp_sound_effect": "مؤثر صوتي تجشؤ مضحك",
+      "funny_gurgling_noises": "أصوات خرخرة مضحكة",
+      "funny_grunt_noises": "أصوات همهمة مضحكة"
+    },
+    "prompt_soundboard_funny": {
+      "air_horn_sound_effect": "مؤثر صوتي لبوق هواء",
+      "funny_laughing": "ضحك مضحك",
+      "funny_african_tabla": "طبلة أفريقية مضحكة"
+    },
+    "prompt_silly_sound": {
+      "squeakish_sound": "صوت صرير",
+      "silly_trumpet": "بوق أحمق",
+      "fail_trumpet": "بوق فشل"
+    },
+    "prompt_funny_audios": {
+      "funny_spring": "نابض مضحك",
+      "wazzup_man": "ما الأخبار يا رجل",
+      "laughing_male_mp3_sound": "صوت ضحك رجل MP3"
+    },
+    "prompt_fun_sounds": {
+      "pipe": "أنبوب",
+      "fun_comedic_drum": "طبلة كوميدية ممتعة",
+      "funny_laughing_sound_effect": "مؤثر صوتي ضحك مضحك"
+    },
+    "prompt_fun_sound": {
+      "sweet_game_over_sound_effect": "مؤثر صوتي نهاية لعبة لطيف",
+      "funny_cartoon_sound": "صوت كرتوني مضحك",
+      "another_funny_laughing_sound_effect": "مؤثر صوتي ضحك مضحك آخر"
+    },
+    "prompt_funny_notification": {
+      "funny_minion_message_notification_sound_effect_sfx": "مؤثر إشعار رسالة مينيون مضحك",
+      "funny_message_notification_sound_effect_sfx": "مؤثر إشعار رسالة مضحك",
+      "funny_hiphop_party_notification_music_sound": "صوت إشعار حفلة هيب هوب مضحكة"
+    },
+    "prompt_funny_scream": {
+      "funny_scream": "صرخة مضحكة",
+      "insane_funny_scream": "صرخة مضحكة مجنونة",
+      "man_scream": "صرخة رجل"
+    },
+    "prompt_meme_scream": {
+      "sus_meme_sound": "صوت ميم مشبوه",
+      "new_meme": "ميم جديد",
+      "insane_funny_scream": "صرخة مضحكة مجنونة"
+    },
+    "prompt_soundboard_guy": {
+      "realizations_or_fighting": "إدراك أو قتال",
+      "dying_guy": "رجل يحتضر",
+      "shy_guy": "رجل خجول"
+    },
+    "prompt_silent_scream": {
+      "cartoon_scream": "صرخة كرتونية",
+      "smirnoff_scream": "صرخة سميرنوف",
+      "eagle_scream": "صرخة نسر"
+    },
+    "prompt_scream_and_shout": {
+      "zombie_yell_and_shout_sound_effect": "مؤثر صوتي صراخ زومبي",
+      "epic_war_combat_scream": "صرخة قتال حربي ملحمي",
+      "man_shout_like_a_goat": "رجل يصرخ كالماعز"
+    },
+    "prompt_shouting_sound_effect": {
+      "army_of_soldiers_battle_cry": "صيحة جيش جنود",
+      "male_shouting_fire": "رجل يصرخ «نار»",
+      "distorted_background_sound": "صوت خلفية مشوّه"
+    },
+    "prompt_scream_louder": {
+      "man_scream": "صرخة رجل",
+      "scream_horror_sfx": "مؤثر صرخة رعب",
+      "male_death_scream_horror": "صرخة موت رجل رعب"
+    },
+    "prompt_angry_screaming": {
+      "screaming_man": "رجل يصرخ",
+      "muffled_angry_screaming": "صراخ غاضب مكتوم",
+      "angry_baby": "طفل غاضب"
+    },
+    "prompt_door_bell_sound_effect": {
+      "door_bell_sound_effect": "مؤثر صوتي لجرس الباب",
+      "doorbell_sound_effect": "مؤثر صوتي لجرس الباب",
+      "door_bell": "جرس الباب"
+    },
+    "prompt_taco_bell_sound_effect": {
+      "taco_bell_rong": "جرس تاكو بيل",
+      "church_bell_sound_effect": "مؤثر صوتي لجرس كنيسة",
+      "bell_ring": "رنين جرس"
+    },
+    "prompt_sound_button": {
+      "button_press": "ضغط زر",
+      "interface_button": "زر واجهة",
+      "click_button": "نقر زر"
+    },
+    "prompt_sound_bottons": {
+      "broken_expending_machine": "آلة بيع معطلة",
+      "thud_sound_effect": "مؤثر صوتي ارتطام",
+      "mid_nights_sound": "صوت منتصف الليل"
+    },
+    "prompt_sounds_buttons": {
+      "button_press": "ضغط زر",
+      "computer_mouse_click": "نقر فأرة الحاسوب",
+      "sound_of_mouse_click": "صوت نقر الفأرة"
+    },
+    "prompt_button_soundboard": {
+      "air_horn_sound_effect": "مؤثر صوتي لبوق هواء",
+      "button_press": "ضغط زر",
+      "select_button_ui": "زر اختيار واجهة"
+    },
+    "prompt_noise_buttons": {
+      "button_press": "ضغط زر",
+      "noisy_switch": "مفتاح صاخب",
+      "microwave_beeps": "صفير ميكروويف"
+    },
+    "prompt_scream": {
+      "boy_character_scream": "صرخة شخصية صبي",
+      "baby_crying": "بكاء طفل",
+      "loud_male_scream": "صرخة رجل عالية",
+      "scary_woman_scream_ultra_realistic": "صرخة امرأة مخيفة فائقة الواقعية",
+      "angry_man_yell_sound": "صوت صراخ رجل غاضب",
+      "woman_scream_sound": "صوت صراخ امرأة",
+      "man_scream": "صرخة رجل",
+      "scary_scream": "صرخة مخيفة"
+    },
+    "prompt_screaming": {
+      "screaming_man": "رجل يصرخ",
+      "sudden_screaming_sound": "صوت صراخ مفاجئ",
+      "pathetic_screaming_sound_effect": "مؤثر صوتي صراخ مثير للشفقة",
+      "funny_scream": "صرخة مضحكة",
+      "screaming_sound_effect": "مؤثر صوتي صراخ",
+      "screeching_sound_effect": "مؤثر صوتي صرير"
+    },
+    "prompt_scream_audio": {
+      "girl_screaming_sound_effect": "مؤثر صوتي صراخ فتاة",
+      "crow_screaming_bird": "غراب يصرخ",
+      "female_screaming_audio": "صوت صراخ أنثوي",
+      "male_screaming_audio": "صوت صراخ ذكوري"
+    },
+    "prompt_someone_scream": {
+      "man_scream": "صرخة رجل",
+      "cartoon_scream": "صرخة كرتونية",
+      "smirnoff_scream": "صرخة سميرنوف"
+    },
+    "prompt_guy_screaming": {
+      "dying_guy": "رجل يحتضر",
+      "fireworks_and_screaming": "ألعاب نارية وصراخ",
+      "guys_howling_fun": "رجال يعوون بمرح"
+    },
+    "prompt_scream_noise": {
+      "unsettling_noise": "ضوضاء مزعجة",
+      "ghost_horror_sound": "صوت رعب شبح",
+      "cartoon_scream": "صرخة كرتونية"
+    },
+    "prompt_whoosh_sound": {
+      "whoosh_cinematic": "صوت مرور سينمائي",
+      "whoosh_cinematic_sound_effect": "مؤثر صوتي مرور سينمائي",
+      "simple_whoosh": "صوت مرور بسيط"
+    },
+    "prompt_whoosh_effect": {
+      "cinematic_whoosh_shot": "لقطة مرور سينمائية",
+      "whoosh_effect": "مؤثر مرور",
+      "whoosh_sound_effect": "مؤثر صوتي مرور"
+    },
+    "prompt_woosh_sound": {
+      "woosh": "ووش",
+      "short_woosh": "ووش قصير",
+      "fast_woosh": "ووش سريع"
+    },
+    "prompt_woosh_sfx": {
+      "swoosh": "سووش",
+      "air_motion": "حركة هواء",
+      "creepy_hifreq_woosh": "ووش عالي التردد مخيف"
+    },
+    "prompt_swish_sound": {
+      "swish_sound": "صوت سويش",
+      "quick_double_swish_sfx": "مؤثر سويش مزدوج سريع",
+      "fast_swish_transition_noise": "ضوضاء انتقال سويش سريع"
+    },
+    "prompt_bicycle_sounds": {
+      "bicycle_bell_sound_effect": "مؤثر صوتي جرس دراجة",
+      "bicycle_bell": "جرس دراجة",
+      "bicycle": "دراجة"
+    },
+    "prompt_bike_horn_sound": {
+      "horn_toy": "بوق لعبة",
+      "mega_horn": "بوق ضخم",
+      "boat_horn": "بوق سفينة"
+    },
+    "prompt_train_sounds": {
+      "train": "قطار",
+      "inside_old_train": "داخل قطار قديم",
+      "railway_train": "قطار سكك حديد"
+    },
+    "prompt_truck_sounds": {
+      "traffic_truck_ambience": "أجواء مرور شاحنات",
+      "truck_chord": "وتر شاحنة",
+      "loud_machinery": "آلات صاخبة"
+    },
+    "prompt_truck_sound": {
+      "diesel_truck_passing": "مرور شاحنة ديزل",
+      "big_truck_engine": "محرك شاحنة كبيرة",
+      "muscle_truck": "شاحنة قوية"
+    },
+    "prompt_truck_audio": {
+      "truck_door_open_and_close": "فتح وإغلاق باب شاحنة",
+      "city_street_soundscape": "منظر صوتي لشارع المدينة",
+      "police_siren_emergency_alarm": "صفارة شرطة طوارئ"
+    },
+    "prompt_truck_horn": {
+      "truck_horn": "بوق شاحنة",
+      "parisian_fire_truck_siren": "صفارة إطفاء باريسية",
+      "truck_signal": "إشارة شاحنة"
+    },
+    "prompt_truck_honking": {
+      "truck_signal": "إشارة شاحنة",
+      "vintage_car_horn": "بوق سيارة عتيق",
+      "old_car_horn": "بوق سيارة قديم"
+    },
+    "prompt_celebration_sound_effect": {
+      "wow": "واو",
+      "applause_sound": "صوت تصفيق",
+      "crowd_cheering": "هتاف الحشد"
+    },
+    "prompt_festival_sound": {
+      "applause_sound_effect": "مؤثر صوتي تصفيق",
+      "crowd_noise_at_event": "ضوضاء حشد في حدث",
+      "crowd_noise_stadium": "ضوضاء حشد في ملعب"
+    },
+    "prompt_fireworks_sounds": {
+      "fireworks": "ألعاب نارية",
+      "firework_whistle": "صفارة ألعاب نارية",
+      "slow_explosion": "انفجار بطيء"
+    },
+    "prompt_fireworks_sound": {
+      "crackling_fireworks": "ألعاب نارية تطقطق",
+      "fireworks_sound": "صوت ألعاب نارية",
+      "new_year_fireworks": "ألعاب نارية رأس السنة"
+    },
+    "prompt_firework_sounds": {
+      "cake_firework_and_mortars": "ألعاب نارية ومدافع",
+      "firework_whistle": "صفارة ألعاب نارية",
+      "funny_firework_sound": "صوت ألعاب نارية مضحك"
+    },
+    "prompt_happy_celebration": {
+      "happy_loop": "حلقة سعيدة",
+      "happy_birthday": "عيد ميلاد سعيد",
+      "kids_happy_background_music": "موسيقى خلفية سعيدة للأطفال"
+    },
+    "prompt_porn_sounds": {
+      "funny_sounds": "أصوات مضحكة",
+      "birds_sounds": "أصوات طيور",
+      "dire_crackling_sounds": "أصوات طقطقة مروعة"
+    },
+    "prompt_porn_sound": {
+      "mid_nights_sound": "صوت منتصف الليل",
+      "thud_sound_effect": "مؤثر صوتي ارتطام",
+      "heartbeat_sound": "صوت نبض القلب"
+    },
+    "prompt_porn_noises": {
+      "water_noises": "أصوات ماء",
+      "soft_brown_noise": "ضوضاء بنية ناعمة",
+      "rainy_day_in_town_with_birds_singing": "يوم ممطر في المدينة مع تغريد الطيور"
+    },
+    "prompt_audio_porn": {
+      "audio_for_video_editing": "صوت لتحرير الفيديو",
+      "birds_singing_audio_tune": "لحن تغريد الطيور",
+      "retro_audio_logo": "شعار صوتي retro"
+    },
+    "prompt_porn_audio": {
+      "audio_for_video_editing": "صوت لتحرير الفيديو",
+      "birds_singing_audio_tune": "لحن تغريد الطيور",
+      "relaxing_guitar_loop": "حلقة غيتار مريحة"
+    },
+    "prompt_loud_porn": {
+      "loud_thunder": "رعد عالٍ",
+      "baby_crying_loud": "بكاء طفل عالٍ",
+      "scotland_eas_alarm": "إنذار EAS اسكتلندي"
+    },
+    "prompt_porn_moaning": {
+      "rumbling": "هدر",
+      "free_zombie_moan_sound": "صوت أنين زومبي مجاني",
+      "demonic_spirit_voice": "صوت روح شيطانية"
+    },
+    "prompt_porn_moan": {
+      "creepy_ghost_moan_sfx": "مؤثر أنين شبح مخيف",
+      "ghost_moan": "أنين شبح",
+      "creepy_moan": "أنين مخيف"
+    },
+    "prompt_loud_moaning_porn": {
+      "loud_thunder": "رعد عالٍ",
+      "baby_crying_loud": "بكاء طفل عالٍ",
+      "moaning_wraith": "شبح يئن"
+    },
+    "prompt_women_moaning": {
+      "demon_moaning": "أنين شيطان",
+      "moaning_wraith": "شبح يئن",
+      "rumbling": "هدر"
+    },
+    "prompt_male_moans": {
+      "disapproving_male_grunt": "همهمة رجل معارض",
+      "male_hurt_sound": "صوت رجل مصاب",
+      "male_groan_of_pain": "أنين رجل من الألم"
+    },
+    "prompt_men_moaning_porn": {
+      "demonic_moaning": "أنين شيطاني",
+      "demon_moaning": "أنين شيطان",
+      "horror_moaning_and_groaning": "أنين وتأوه رعب"
+    },
+    "prompt_girls_moan": {
+      "ghost_moan": "أنين شبح",
+      "creepy_moan": "أنين مخيف",
+      "big_old_men_moan": "أنين رجال عجائز"
+    },
+    "prompt_girl_moan": {
+      "woman_sad_moan": "أنين امرأة حزينة",
+      "woman_giving_birth": "امرأة تلد",
+      "creepy_ghost_moan_sfx": "مؤثر أنين شبح مخيف"
+    },
+    "prompt_moaning_porn": {
+      "horror_moaning_and_groaning": "أنين وتأوه رعب",
+      "demon_moaning": "أنين شيطان",
+      "demonic_moaning": "أنين شيطاني"
+    },
+    "prompt_moaning_sounds": {
+      "ghostly_moaning": "أنين شبحي",
+      "zombie_call": "نداء زومبي",
+      "free_zombie_moan_sounds": "أصوات أنين زومبي مجانية"
+    },
+    "prompt_moaning_sound": {
+      "demon_moaning": "أنين شيطان",
+      "zombie_sound": "صوت زومبي",
+      "tummy_song": "أغنية بطن"
+    },
+    "prompt_moans_sounds": {
+      "zombie_moan_sfx": "مؤثر أنين زومبي",
+      "zombie_sfx": "مؤثر زومبي",
+      "zombiesound": "صوت زومبي"
+    },
+    "prompt_moan_sound": {
+      "creepy_ghost_sound": "صوت شبح مخيف",
+      "dogs_moan_sound": "صوت أنين كلب",
+      "mumie_komt_aus_sarkophag": "مومياء تخرج من التابوت"
+    },
+    "prompt_moan_sounds": {
+      "zombie_moan_sfx": "مؤثر أنين زومبي",
+      "guttural_snarl": "زمجرة حنجرة",
+      "zombie_moan": "أنين زومبي"
+    },
+    "prompt_moaning_noises": {
+      "hospital_icu_patient_moaning": "أنين مريض في العناية المركزة",
+      "sex_noises_dose": "أصوات جنسية",
+      "little_dog_moaning": "أنين كلب صغير"
+    },
+    "prompt_sex_sounds": {
+      "bed_sex_sounds": "أصوات سرير",
+      "primal_quickie": "علاقة سريعة بدائية",
+      "chubby_girl_sex_sound_during_doggystyle": "صوت فتاة ممتلئة أثناء الوضعية الخلفية"
+    },
+    "prompt_sex_audio": {
+      "fucking_and_parents_next_door": "علاقة جنسية والوالدان في الغرفة المجاورة",
+      "sex_noises_dose": "أصوات جنسية",
+      "wife_squirming_in_pleasure": "زوجة تتلوى من المتعة"
+    },
+    "prompt_sex_sound": {
+      "jumpling_on_a_small_trampoline_squeaking_sounds": "قفز على ترامبولين صغير مع أصوات صرير",
+      "body_percussion": "إيقاع جسدي",
+      "rough_blow_job": "فيلاسيون عنيف"
+    },
+    "prompt_sex_moans": {
+      "moans_of_a_woman": "أنين امرأة",
+      "catherine": "كاثرين",
+      "oral_sex_sounds": "أصوات جنس فموي"
+    },
+    "prompt_sex_noises": {
+      "sex_noises_does": "أصوات جنسية",
+      "sex_noises_close": "أصوات جنسية قريبة",
+      "water_noises": "أصوات ماء"
+    },
+    "prompt_sex_noise": {
+      "sex_noise": "ضوضاء جنسية",
+      "primal_quickie": "علاقة سريعة بدائية",
+      "dubstep_sound": "صوت دوبستيب"
+    },
+    "prompt_sounds_of_sex": {
+      "synchronized_sex_energy": "طاقة جنسية متزامنة",
+      "slowly_making_love": "ممارسة الحب ببطء",
+      "sex_young_couple": "زوجان شابان"
+    },
+    "prompt_sex_sound_effects": {
+      "cute_hentai_girl_voice_orgasm_sound_effect": "مؤثر صوتي هزة جماع لصوت فتاة أنمي لطيفة",
+      "sexy_female_moan_sound_effect": "مؤثر صوتي أنين أنثوي مثير",
+      "sexy_vocals": "غناء مثير",
+      "moaning": "أنين"
+    },
+    "prompt_erotic_sounds": {
+      "diversity_of_masturbation": "تنوع الاستمناء",
+      "raspy_tomboy_voice_female_moan_sound_effect": "مؤثر أنين أنثوي بصوت أجش فتى",
+      "sub_breathing_nose_low": "تنفس أنفي منخفض"
+    },
+    "prompt_real_sex_sounds": {
+      "sex_of_japanese_mature_couple": "علاقة زوجين يابانيين ناضجين",
+      "sexual_intercourse": "جماع",
+      "woman_getting_fucked": "امرأة تُمارَس معها"
+    },
+    "prompt_sounding_sex": {
+      "chubby_girl_sex_sound_during_doggystyle": "صوت فتاة ممتلئة أثناء الوضعية الخلفية",
+      "girl_sex_sounds": "أصوات جنسية لفتاة",
+      "synchronized_sex_energy": "طاقة جنسية متزامنة"
+    },
+    "prompt_sex_sounds_porn": {
+      "funny_sounds": "أصوات مضحكة",
+      "female_cute": "أنثى لطيفة",
+      "porn_content_creators": "صانعو محتوى إباحي"
+    },
+    "prompt_vibrator_sound": {
+      "cell_phone_vibration": "اهتزاز هاتف محمول",
+      "sound_of_phone_vibrating": "صوت اهتزاز الهاتف",
+      "alien_underworld_sound": "صوت عالم تحتي فضائي"
+    },
+    "prompt_fuck_sound_effect": {
+      "fuck": "لعنة",
+      "what_a_fuck": "يا إلهي",
+      "stupid": "غبي"
+    },
+    "prompt_happy_scream": {
+      "crowd_of_boys_cheering": "حشد من الأولاد يهتف",
+      "woman_excited_cheers_and_phrases_says_woohoo": "امرأة متحمسة تهتف وتقول ووهو",
+      "happy_new_year": "سنة جديدة سعيدة"
+    },
+    "prompt_train_sound": {
+      "train_running_sound": "صوت قطار يعمل",
+      "train_passing": "مرور قطار",
+      "train_whistle": "صفارة قطار"
+    },
+    "prompt_train_sound_effect": {
+      "train_approach_sfx": "مؤثر اقتراب قطار",
+      "train_stopping": "توقف قطار",
+      "on_the_high_speed_train": "في قطار سريع"
+    },
+    "prompt_train_sound_effects": {
+      "hungarian_train_ride": "رحلة قطار مجري",
+      "incoming_commuter_train": "قطار ركاب قادم",
+      "loud_train_horn": "صفارة قطار عالية"
+    },
+    "prompt_train_horn": {
+      "train_horn": "صفارة قطار",
+      "train_horn_fades": "صفارة قطار تتلاشى",
+      "loud_train_horn": "صفارة قطار عالية"
+    },
+    "prompt_train_voice": {
+      "train_voice": "صوت إعلان قطار",
+      "electronic_female_voice_at_train_station": "صوت إلكتروني أنثوي في محطة قطار",
+      "metro_train_sound": "صوت قطار مترو"
+    },
+    "prompt_train_noises": {
+      "inside_the_old_train": "داخل القطار القديم",
+      "train_running_sound": "صوت قطار يعمل",
+      "train_station_ambience": "أجواء محطة قطار"
+    },
+    "prompt_train_noise": {
+      "musical_train_noise": "ضوضاء قطار موسيقية",
+      "diesel_train_engine_noise": "ضوضاء محرك قطار ديزل",
+      "train_whistle_and_environment_sounds": "صفارة قطار وأصوات البيئة"
+    },
+    "prompt_transition_sound_effect": {
+      "riser_swoosh_transition": "انتقال صعود وسووش",
+      "whoosh_cinematic_sound_effect": "مؤثر صوتي مرور سينمائي",
+      "scary_transition": "انتقال مخيف"
+    },
+    "prompt_transition_sound_effects": {
+      "futuristic_transition": "انتقال مستقبلي",
+      "professional_transition": "انتقال احترافي",
+      "sweet_transition": "انتقال لطيف"
+    },
+    "prompt_transition_sound": {
+      "transition_base": "قاعدة انتقال",
+      "transition_explosion": "انتقال انفجار",
+      "transition_coat": "انتقال معطف"
+    },
+    "prompt_transition_sounds": {
+      "high_transition": "انتقال عالٍ",
+      "transition_fleeting": "انتقال عابر",
+      "interface": "واجهة"
+    },
+    "prompt_transition_sfx": {
+      "bizzard_transition": "انتقال عاصفة ثلج",
+      "soft_transition": "انتقال ناعم",
+      "sand_transition": "انتقال رمل"
+    },
+    "prompt_scream_soundboard": {
+      "male_death_scream_horror": "صرخة موت رجل رعب",
+      "falling_man_scream": "صرخة رجل يسقط",
+      "echo_scream": "صرخة صدى"
+    },
+    "prompt_loud": {
+      "corrupt_scream": "صرخة فاسدة",
+      "male_death_scream_horror": "صرخة موت رجل رعب",
+      "male_voice_screaming_loudly": "صوت رجل يصرخ بصوت عالٍ",
+      "young_girl_screaming": "فتاة صغيرة تصرخ",
+      "man_angry_loud": "رجل غاضب بصوت عالٍ",
+      "loud_female_scream": "صرخة أنثوية عالية"
+    },
+    "prompt_cry_sounds": {
+      "crying_and_sobbing": "بكاء وتأوه",
+      "boy_crying_free_sound": "صوت بكاء صبي مجاني",
+      "baby_crying": "بكاء طفل"
+    },
+    "prompt_yelling_sound": {
+      "random_guy_on_street_yelling": "رجل عشوائي يصرخ في الشارع",
+      "angry_man_yell_sound": "صوت صراخ رجل غاضب",
+      "woman_enraged_fearful_scream_sound_effect": "مؤثر صراخ امرأة غاضبة خائفة",
+      "army_of_soldiers_battle_cry": "صيحة جيش جنود",
+      "hilarious_yelling": "صراخ مضحك",
+      "crowd_booing": "استهجان الحشد"
+    },
+    "prompt_beat": {
+      "indian_beats": "إيقاعات هندية",
+      "hold_on_beat": "الإيقاع المستمر",
+      "drum_beats": "إيقاعات طبول",
+      "sweet_sound_effects": "مؤثرات صوتية لطيفة",
+      "beat_effect": "مؤثر إيقاع",
+      "heartbeat": "نبض القلب",
+      "clock_beat_effect": "مؤثر إيقاع ساعة"
+    }
+  }
+}

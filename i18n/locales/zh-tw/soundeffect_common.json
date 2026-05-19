@@ -1,0 +1,1032 @@
+{
+  "soundeffect_common": {
+    "display_title": "試聽下方逼真的 AI 產生音效",
+    "input_placeholder": "輸入音效描述",
+    "generating_button": "產生中...",
+    "generate_button": "產生",
+    "msg_example_load_failed": "音效範例載入失敗，請稍後再試！",
+    "msg_example_play_failed": "音效範例播放失敗，請稍後再試！",
+    "msg_notext": "請輸入描述以產生音效",
+    "download": {
+      "noAudio": "沒有可下載的音訊",
+      "success": "下載成功",
+      "failed": "下載失敗，請稍後再試",
+      "fetchFailed": "音效下載失敗，請稍後再試！"
+    },
+    "category_nature": "自然音效",
+    "category_special": "特殊音效",
+    "category_instrument": "樂器",
+    "category_human": "人聲",
+    "category_ambient": "環境音",
+    "sample_rain": "雨聲",
+    "sample_ocean": "海浪",
+    "sample_water": "流水",
+    "sample_thunder": "雷聲",
+    "sample_insect": "蟲鳴",
+    "sample_fireworks": "煙火",
+    "sample_glass": "玻璃破碎",
+    "sample_magic": "魔法",
+    "sample_spaceship": "太空船",
+    "sample_action": "動作",
+    "sample_piano": "鋼琴",
+    "sample_guitar": "電吉他",
+    "sample_violin": "小提琴",
+    "sample_keyboard": "電子琴",
+    "sample_pipes": "愛爾蘭風笛",
+    "sample_baby": "嬰兒笑聲",
+    "sample_clap": "鼓掌",
+    "sample_celebrate": "慶祝",
+    "sample_footsteps": "腳步聲",
+    "sample_burp": "打嗝",
+    "sample_typing": "打字",
+    "sample_restaurant": "嘈雜餐廳",
+    "sample_doorbell": "門鈴",
+    "sample_tv": "電視開機",
+    "sample_cooking": "烹飪",
+    "prompt_combat": {
+      "sword_whoosh": "揮劍聲",
+      "sword_through_air": "劍劃破空氣",
+      "shotgun_fire": "散彈槍開火",
+      "gunshot": "槍聲",
+      "pistol_shot": "手槍射擊",
+      "firearm_shooting": "槍械射擊",
+      "weapon_fire": "武器開火",
+      "rifle_shot": "步槍射擊",
+      "revolver_shot": "左輪手槍射擊",
+      "machine_gun": "機槍",
+      "laser_gunshot": "雷射槍聲",
+      "ui_success": "介面成功提示"
+    },
+    "prompt_button": {
+      "button_pressed": "按鈕按下",
+      "mouse_button_clicked": "滑鼠按鈕點擊",
+      "telephone_button": "電話按鈕",
+      "keyboard_button": "鍵盤按鈕",
+      "mobile_phone_button": "手機按鈕"
+    },
+    "prompt_typing": {
+      "keyboard_typing": "鍵盤打字",
+      "typewriter_typing": "打字機打字",
+      "laptop_typing": "筆電打字"
+    },
+    "prompt_nature": {
+      "name": "自然音效",
+      "rain": "雨聲",
+      "ocean_waves": "海浪",
+      "flowing_water": "流水",
+      "thunder": "雷聲",
+      "insect_sounds": "蟲鳴"
+    },
+    "prompt_special": {
+      "name": "特殊音效",
+      "fireworks": "煙火",
+      "glass_shattering": "玻璃破碎",
+      "magic_spell": "魔法咒語",
+      "spaceship": "太空船",
+      "action": "動作"
+    },
+    "prompt_instruments": {
+      "name": "樂器音效",
+      "piano": "鋼琴",
+      "electric_guitar": "電吉他",
+      "violin": "小提琴",
+      "keyboard": "電子琴",
+      "irish_pipes": "愛爾蘭風笛"
+    },
+    "prompt_human": {
+      "name": "人聲音效",
+      "baby_laughing": "嬰兒笑聲",
+      "clapping": "鼓掌",
+      "celebrate": "慶祝",
+      "footsteps": "腳步聲",
+      "burp": "打嗝"
+    },
+    "prompt_ambient": {
+      "name": "環境音效",
+      "typing": "打字",
+      "noisy_restaurant": "嘈雜餐廳",
+      "doorbell_ring": "門鈴",
+      "tv_on": "電視開機",
+      "cooking": "烹飪"
+    },
+    "prompt_car": {
+      "car_horn": "汽車喇叭",
+      "car_honk": "汽車鳴笛",
+      "vehicle": "車輛",
+      "car_door": "車門",
+      "automobile": "汽車",
+      "road_sound": "道路聲",
+      "car_engine": "汽車引擎",
+      "car_crash": "車禍撞擊"
+    },
+    "prompt_car_sound": {
+      "car_pass_by": "汽車駛過",
+      "car_engine": "汽車引擎",
+      "car_crash_sound_effect": "車禍撞擊音效"
+    },
+    "prompt_car_sounds": {
+      "car_honk": "汽車鳴笛",
+      "car_engine_roaring": "汽車引擎轟鳴",
+      "car_door_shut": "車門關閉"
+    },
+    "prompt_car_noises": {
+      "car_honk": "汽車鳴笛",
+      "car_crash_sound_effect": "車禍撞擊音效",
+      "car_pass_by": "汽車駛過"
+    },
+    "prompt_cars_sounds": {
+      "car_engine": "汽車引擎",
+      "space_sound_effect": "太空音效",
+      "police_siren": "警笛"
+    },
+    "prompt_carsound": {
+      "car_door_shut": "車門關閉",
+      "car_crash": "車禍撞擊",
+      "car_driving_ambience": "駕車環境音"
+    },
+    "prompt_car_effect": {
+      "car_chase_sound_effect": "飛車追逐音效",
+      "car_whizzing_by": "汽車呼嘯而過",
+      "car_engine_roaring": "汽車引擎轟鳴"
+    },
+    "prompt_car_voice": {
+      "allahabad_traffic": "阿拉哈巴德交通",
+      "carwash_unsuccessful": "洗車失敗",
+      "city_sounds": "城市聲音"
+    },
+    "prompt_car_fx": {
+      "car_passing_city": "汽車穿越城市",
+      "heavy_race_car_speeding_reverb": "重型賽車加速殘響",
+      "siren": "警報器"
+    },
+    "prompt_air_sounds": {
+      "air_whoosh": "空氣呼嘯",
+      "air_raid_siren_sound_effect": "空襲警報音效",
+      "simple_whoosh": "簡單呼嘯聲"
+    },
+    "prompt_air_sound_effect": {
+      "whoosh_cinematic_sound_effect": "電影感呼嘯音效",
+      "whoosh_effect": "呼嘯效果",
+      "clean_whoosh_effect": "乾淨呼嘯效果"
+    },
+    "prompt_airhorn": {
+      "air_horn_sound_effect": "氣喇叭音效",
+      "dj_airhorn_sound": "DJ 氣喇叭聲",
+      "dj_airhorn": "DJ 氣喇叭"
+    },
+    "prompt_air_horn": {
+      "air_horn": "氣喇叭",
+      "dj_airhorn_sound": "DJ 氣喇叭聲",
+      "truck_signal": "卡車信號"
+    },
+    "prompt_airhorn_sound": {
+      "air_horn_sound_effect": "氣喇叭音效",
+      "dj_airhorn_sound": "DJ 氣喇叭聲",
+      "airhorn_fx": "氣喇叭特效"
+    },
+    "prompt_air_horn_noise": {
+      "air_horn": "氣喇叭",
+      "air_horn_sound_effect": "氣喇叭音效",
+      "fire_alarm": "火災警報"
+    },
+    "prompt_sound_horn": {
+      "mega_horn": "巨型喇叭",
+      "boat_horn": "船笛",
+      "double_car_horn": "雙重汽車喇叭"
+    },
+    "prompt_horn_sound": {
+      "automobile_horn": "汽車喇叭",
+      "car_honk": "汽車鳴笛",
+      "car_horn": "汽車喇叭"
+    },
+    "prompt_horn_sounds": {
+      "ship_horn": "船笛",
+      "war_horn": "戰爭號角",
+      "low_horn": "低沉喇叭"
+    },
+    "prompt_horn_noise": {
+      "car_horn_honking": "汽車喇叭鳴叫",
+      "electric_horn_honking": "電喇叭鳴叫",
+      "truck_horn": "卡車喇叭"
+    },
+    "prompt_death": {
+      "death_sound": "死亡音效",
+      "man_dying_sound": "男人臨死聲",
+      "death_scream": "死亡尖叫"
+    },
+    "prompt_jumpscare": {
+      "jump_scare": "驚嚇跳躍"
+    },
+    "prompt_woosh": {
+      "woosh_sound": "呼嘯聲",
+      "swoosh_sound": "嗖嗖聲",
+      "whoosh_sound": "呼嘯聲"
+    },
+    "prompt_shock": {
+      "eerie_sudden_shock": "詭異突發驚嚇",
+      "piano_shock_impact": "鋼琴驚嚇衝擊",
+      "crowd_shocked_reaction": "人群震驚反應"
+    },
+    "prompt_timer": {
+      "timer_sound": "計時器聲",
+      "timer_beep": "計時器嗶聲",
+      "clock_sound": "時鐘聲"
+    },
+    "prompt_thunder": {
+      "thunder_sound": "雷聲",
+      "dry_thunder": "乾雷",
+      "rain_and_thunder": "雷雨"
+    },
+    "prompt_poop": {
+      "fart_poop": "放屁排便",
+      "fart_noises": "放屁聲",
+      "flush_toilet_sound": "沖馬桶聲"
+    },
+    "prompt_air": {
+      "air_noise": "空氣噪音",
+      "air_horn": "氣喇叭",
+      "air_transition": "空氣轉場",
+      "air_blow": "吹氣聲"
+    },
+    "prompt_engine": {
+      "engine_sound": "引擎聲",
+      "car_engine": "汽車引擎",
+      "motorcycle_engine": "摩托車引擎"
+    },
+    "prompt_cut": {
+      "cut_food": "砧板切菜",
+      "cut_using_scissor": "剪刀裁剪",
+      "cut_using_knife": "用刀切割"
+    },
+    "prompt_machine": {
+      "machine_working_sound": "機器運轉聲",
+      "washing_machine": "洗衣機",
+      "old_machine": "老舊機器"
+    },
+    "prompt_spatial": {
+      "spatial_sound": "空間音效",
+      "space_sound": "太空音效"
+    },
+    "prompt_baby": {
+      "baby_crying": "嬰兒哭聲",
+      "newborn_baby_crying": "新生兒哭聲",
+      "angry_baby_crying": "嬰兒生氣哭聲"
+    },
+    "prompt_laughing": {
+      "laughing_sound": "笑聲",
+      "laughing_crowd": "人群笑聲",
+      "male_laughing": "男性笑聲",
+      "child_laughing": "兒童笑聲",
+      "girl_soft_laughing": "女孩輕笑"
+    },
+    "prompt_horn": {
+      "car_horn": "汽車喇叭",
+      "war_horn": "戰爭號角",
+      "mega_horn": "巨型喇叭",
+      "ship_horn": "船笛"
+    },
+    "prompt_counter": {
+      "counter_sound": "計數器聲",
+      "banknote_counter": "點鈔機",
+      "money_counter": "數錢機",
+      "cash_counting_machine": "現金點算機"
+    },
+    "prompt_countdown": {
+      "countdown_sound": "倒數音效",
+      "countdown_beep": "倒數嗶聲",
+      "game_countdown": "遊戲倒數"
+    },
+    "prompt_robot": {
+      "robot_voice": "機器人語音",
+      "robot_power_off": "機器人關機",
+      "robot_walk": "機器人行走",
+      "robot_damaged": "機器人損壞"
+    },
+    "prompt_moan": {
+      "ghost_moan": "幽靈呻吟",
+      "creepy_moan": "詭異呻吟",
+      "female_groaning_creepy": "女性詭異呻吟",
+      "zombie_moan_sfx": "殭屍呻吟特效",
+      "demon_moaning": "惡魔呻吟",
+      "dinosaur_creature_moaning": "恐龍生物呻吟"
+    },
+    "prompt_male_moaning": {
+      "disapproving_male_grunt": "男性不滿咕噥",
+      "male_groan_of_pain": "男性痛苦呻吟",
+      "male_hurt_sound": "男性受傷聲"
+    },
+    "prompt_men_moaning": {
+      "big_old_men_moan": "高大老人呻吟",
+      "horror_moaning_and_groaning": "恐怖呻吟與咕噥",
+      "demon_moaning": "惡魔呻吟"
+    },
+    "prompt_moaning_audio": {
+      "zombie_sfx": "殭屍特效",
+      "zombie_sound": "殭屍聲",
+      "zombie_groan_sfx": "殭屍呻吟特效"
+    },
+    "prompt_guy_moaning": {
+      "moaning_wraith": "呻吟幽靈",
+      "womansadmoan": "女性悲傷呻吟",
+      "rumbling": "隆隆聲"
+    },
+    "prompt_male_moan": {
+      "injury_scream": "受傷尖叫",
+      "big_punch_short_with_male_moan": "重拳短擊伴男性呻吟",
+      "no_quite_human_grunts": "非人類咕噥"
+    },
+    "prompt_men_moan": {
+      "male_hurt_sound": "男性受傷聲",
+      "grunt": "咕噥",
+      "ghost_moan": "幽靈呻吟"
+    },
+    "prompt_men_moans": {
+      "lollipopmoans": "棒棒糖呻吟",
+      "big_old_men_moan": "高大老人呻吟",
+      "creepy_ghost_moan_sfx": "詭異幽靈呻吟特效"
+    },
+    "prompt_sexy": {
+      "using_a_new_toy_with_my_vibrator": "使用新玩具與震動器",
+      "trans_girl_moaning_and_finishing": "跨性別女孩呻吟與結束",
+      "feminine_moans": "女性呻吟"
+    },
+    "prompt_groan_sound": {
+      "male_groan_of_pain": "男性痛苦呻吟",
+      "zombie_groan_sfx": "殭屍呻吟特效",
+      "zombie_call": "殭屍呼喚"
+    },
+    "prompt_grunt_sound_effect": {
+      "animal_grunt": "動物咕噥",
+      "zombie_dying_sound": "殭屍死亡聲",
+      "horse_snort": "馬鼻息"
+    },
+    "prompt_explosion": {
+      "large_underwater_explosion": "大型水下爆炸",
+      "explosion_fx": "爆炸特效",
+      "epic_cinematic_explosion": "史詩電影爆炸",
+      "loud_explosion": "巨大爆炸"
+    },
+    "prompt_sparkle": {
+      "fairy_sparkle": "仙女閃爍",
+      "sparkle": "閃爍",
+      "sparkle_loop": "閃爍循環",
+      "baby_piano": "嬰兒鋼琴"
+    },
+    "prompt_rooster": {
+      "rooster_crowing": "公雞啼叫",
+      "rooster_call": "公雞叫聲",
+      "rooster": "公雞"
+    },
+    "prompt_camera": {
+      "camera_shutter": "相機快門",
+      "film_camera_shutter_with_auto_winder": "底片相機自動過片快門",
+      "camera": "相機"
+    },
+    "prompt_whisper": {
+      "whispering": "低語",
+      "creepy_whispering": "詭異低語",
+      "murmullos": "喃喃細語",
+      "ghost_whispers": "幽靈低語"
+    },
+    "prompt_riser": {
+      "riser_somewhere": "某處上升音",
+      "riser_hole": "上升音洞",
+      "dramatic_riser": "戲劇性上升音"
+    },
+    "prompt_bell": {
+      "church_bell_sound_effect": "教堂鐘聲音效",
+      "bell": "鈴鐺",
+      "ding_small_bell_sfx": "叮噹小鈴特效",
+      "creepy_bell_fx": "詭異鈴聲特效",
+      "big_bell": "大鐘",
+      "bell_sound": "鈴聲",
+      "phone_ringing": "電話鈴響",
+      "christmas_ringing_bells_ringtone": "聖誕鈴聲鈴聲",
+      "scary_bells": "恐怖鈴聲",
+      "bells_jingling": "鈴鐺叮噹",
+      "notification_bell_sound": "通知鈴聲",
+      "gong_bell": "鑼鐘",
+      "bicycle_bell": "腳踏車鈴",
+      "church_bell": "教堂鐘",
+      "ding_cartoon": "卡通叮聲",
+      "ding_ding_small_bell": "叮叮小鈴",
+      "copper_bell_ding": "銅鈴叮聲",
+      "bell_ring": "鈴響",
+      "bells_ringing": "鈴聲大作",
+      "boxing_bell": "拳擊鈴",
+      "school_bell_longer": "較長學校鈴",
+      "japanese_school_bell_sound": "日本學校鈴聲",
+      "hailuoto_school_bell_recording": "海盧奧托學校鈴錄音",
+      "old_style_door_bell": "復古門鈴",
+      "bell_transition": "鈴聲轉場",
+      "opening_bell": "開場鈴",
+      "evil_bell": "邪惡鈴聲",
+      "door_bell": "門鈴",
+      "sound_of_the_bell_free_to_use": "免費鈴聲",
+      "servant_bell_ring": "僕人鈴響",
+      "fork_bell": "叉子鈴",
+      "intro_sound_bell": "開場鈴聲",
+      "bellding": "鈴叮",
+      "trap_bell_loop": "陷阱鈴循環",
+      "background_bell": "背景鈴聲",
+      "diamond_bell": "鑽石鈴",
+      "the_bell_sound_free": "免費鈴聲",
+      "bells_ring_in_the_soul": "鈴聲響徹心靈"
+    },
+    "prompt_bell_audio": {
+      "notification_sounds": "通知音效",
+      "relaxing_bells_melody": "放鬆鈴聲旋律",
+      "bells_audio": "鈴聲音訊"
+    },
+    "prompt_doorbell": {
+      "doorbell_chiming": "門鈴叮咚",
+      "doorbell": "門鈴",
+      "vintage_doorbell_ring_sound_effect": "復古門鈴音效"
+    },
+    "prompt_dooropen": {
+      "open_car_door": "開車門",
+      "door_opening": "開門",
+      "opening_door": "開門聲"
+    },
+    "prompt_pixel": {
+      "pixel_sound_effect": "像素音效",
+      "pixel_level_up_sound": "像素升級聲",
+      "static_noise": "靜電雜訊"
+    },
+    "prompt_haptic": {
+      "thud_sound_effect": "咚聲音效",
+      "mid_nights_sound": "午夜之聲",
+      "screenshot_iphone_sound": "iPhone 截圖聲"
+    },
+    "prompt_error": {
+      "bad_machine": "故障機器",
+      "error_beep_sound": "錯誤嗶聲",
+      "sound_of_error_beep": "錯誤嗶聲音"
+    },
+    "prompt_fire": {
+      "fire_sound": "火焰聲",
+      "plasma_gun_fire": "電漿槍開火",
+      "fire_forest": "森林大火"
+    },
+    "prompt_alarm": {
+      "alarm": "警報",
+      "alarm_siren_sound_effect": "警報器音效",
+      "biohazard_alarm": "生化危害警報"
+    },
+    "prompt_funny_sound": {
+      "funny_cartoon_sound": "搞笑卡通音效",
+      "funny_sounds": "搞笑音效",
+      "funny_alarm": "搞笑警報"
+    },
+    "prompt_funny_sound_effect": {
+      "funny_boing_flecatone_wobble": "搞笑彈簧音搖晃",
+      "cartoon_slide_sound_effect": "卡通滑行音效",
+      "fart": "放屁"
+    },
+    "prompt_funny_sounds": {
+      "funny_sounds": "搞笑音效",
+      "funny_dramatic_gasp": "搞笑戲劇性倒抽氣",
+      "funny_laughing_sound": "搞笑笑聲"
+    },
+    "prompt_funny_noises": {
+      "funny_grunt_noises": "搞笑咕噥聲",
+      "fah": "發",
+      "funny_spring_sound": "搞笑彈簧聲"
+    },
+    "prompt_funny_audio": {
+      "funny_hysteric_scream": "搞笑歇斯底里尖叫",
+      "tatsumaki_senpuu": "龍捲旋風",
+      "funny_cartoon_sound": "搞笑卡通音效"
+    },
+    "prompt_funny_meme_sounds": {
+      "thud_sound_effect": "咚聲音效",
+      "isnt_that_amazing_meme_sfx": "「是不是很厲害」迷因特效",
+      "laughing_man": "大笑的男人"
+    },
+    "prompt_funny_meme_sound": {
+      "thud_sound_effect": "咚聲音效",
+      "laughing_man": "大笑的男人",
+      "sarcastic_clapping_sound": "諷刺鼓掌聲"
+    },
+    "prompt_noises_funny": {
+      "funny_burp_sound_effect": "搞笑打嗝音效",
+      "funny_gurgling_noises": "搞笑咕嚕聲",
+      "funny_grunt_noises": "搞笑咕噥聲"
+    },
+    "prompt_soundboard_funny": {
+      "air_horn_sound_effect": "氣喇叭音效",
+      "funny_laughing": "搞笑笑聲",
+      "funny_african_tabla": "搞笑非洲塔布拉鼓"
+    },
+    "prompt_silly_sound": {
+      "squeakish_sound": "吱吱聲",
+      "silly_trumpet": "傻氣小號",
+      "fail_trumpet": "失敗小號"
+    },
+    "prompt_funny_audios": {
+      "funny_spring": "搞笑彈簧",
+      "wazzup_man": "怎麼了兄弟",
+      "laughing_male_mp3_sound": "男性笑聲 MP3"
+    },
+    "prompt_fun_sounds": {
+      "pipe": "笛子",
+      "fun_comedic_drum": "趣味喜劇鼓",
+      "funny_laughing_sound_effect": "搞笑笑聲音效"
+    },
+    "prompt_fun_sound": {
+      "sweet_game_over_sound_effect": "甜美遊戲結束音效",
+      "funny_cartoon_sound": "搞笑卡通音效",
+      "another_funny_laughing_sound_effect": "另一段搞笑笑聲音效"
+    },
+    "prompt_funny_notification": {
+      "funny_minion_message_notification_sound_effect_sfx": "搞笑小小兵訊息通知音效",
+      "funny_message_notification_sound_effect_sfx": "搞笑訊息通知音效",
+      "funny_hiphop_party_notification_music_sound": "搞笑嘻哈派對通知音樂"
+    },
+    "prompt_funny_scream": {
+      "funny_scream": "搞笑尖叫",
+      "insane_funny_scream": "瘋狂搞笑尖叫",
+      "man_scream": "男人尖叫"
+    },
+    "prompt_meme_scream": {
+      "sus_meme_sound": "可疑迷因音效",
+      "new_meme": "新迷因",
+      "insane_funny_scream": "瘋狂搞笑尖叫"
+    },
+    "prompt_soundboard_guy": {
+      "realizations_or_fighting": "頓悟或打鬥",
+      "dying_guy": "垂死之人",
+      "shy_guy": "害羞的人"
+    },
+    "prompt_silent_scream": {
+      "cartoon_scream": "卡通尖叫",
+      "smirnoff_scream": "斯米諾夫尖叫",
+      "eagle_scream": "老鷹尖叫"
+    },
+    "prompt_scream_and_shout": {
+      "zombie_yell_and_shout_sound_effect": "殭屍叫喊音效",
+      "epic_war_combat_scream": "史詩戰爭戰鬥尖叫",
+      "man_shout_like_a_goat": "男人像山羊般叫喊"
+    },
+    "prompt_shouting_sound_effect": {
+      "army_of_soldiers_battle_cry": "軍隊戰吼",
+      "male_shouting_fire": "男性喊火",
+      "distorted_background_sound": "失真背景音"
+    },
+    "prompt_scream_louder": {
+      "man_scream": "男人尖叫",
+      "scream_horror_sfx": "恐怖尖叫特效",
+      "male_death_scream_horror": "男性死亡恐怖尖叫"
+    },
+    "prompt_angry_screaming": {
+      "screaming_man": "尖叫的男人",
+      "muffled_angry_screaming": "悶沉憤怒尖叫",
+      "angry_baby": "生氣的嬰兒"
+    },
+    "prompt_door_bell_sound_effect": {
+      "door_bell_sound_effect": "門鈴音效",
+      "doorbell_sound_effect": "門鈴音效",
+      "door_bell": "門鈴"
+    },
+    "prompt_taco_bell_sound_effect": {
+      "taco_bell_rong": "塔可鐘鈴聲",
+      "church_bell_sound_effect": "教堂鐘聲音效",
+      "bell_ring": "鈴響"
+    },
+    "prompt_sound_button": {
+      "button_press": "按鈕按下",
+      "interface_button": "介面按鈕",
+      "click_button": "點擊按鈕"
+    },
+    "prompt_sound_bottons": {
+      "broken_expending_machine": "故障販賣機",
+      "thud_sound_effect": "咚聲音效",
+      "mid_nights_sound": "午夜之聲"
+    },
+    "prompt_sounds_buttons": {
+      "button_press": "按鈕按下",
+      "computer_mouse_click": "電腦滑鼠點擊",
+      "sound_of_mouse_click": "滑鼠點擊聲"
+    },
+    "prompt_button_soundboard": {
+      "air_horn_sound_effect": "氣喇叭音效",
+      "button_press": "按鈕按下",
+      "select_button_ui": "選擇按鈕介面"
+    },
+    "prompt_noise_buttons": {
+      "button_press": "按鈕按下",
+      "noisy_switch": "嘈雜開關",
+      "microwave_beeps": "微波爐嗶聲"
+    },
+    "prompt_scream": {
+      "boy_character_scream": "男孩角色尖叫",
+      "baby_crying": "嬰兒哭聲",
+      "loud_male_scream": "響亮男性尖叫",
+      "scary_woman_scream_ultra_realistic": "恐怖女性超逼真尖叫",
+      "angry_man_yell_sound": "憤怒男人叫喊",
+      "woman_scream_sound": "女性尖叫",
+      "man_scream": "男人尖叫",
+      "scary_scream": "恐怖尖叫"
+    },
+    "prompt_screaming": {
+      "screaming_man": "尖叫的男人",
+      "sudden_screaming_sound": "突然尖叫聲",
+      "pathetic_screaming_sound_effect": "淒慘尖叫音效",
+      "funny_scream": "搞笑尖叫",
+      "screaming_sound_effect": "尖叫音效",
+      "screeching_sound_effect": "尖嘯音效"
+    },
+    "prompt_scream_audio": {
+      "girl_screaming_sound_effect": "女孩尖叫音效",
+      "crow_screaming_bird": "烏鴉尖叫",
+      "female_screaming_audio": "女性尖叫音訊",
+      "male_screaming_audio": "男性尖叫音訊"
+    },
+    "prompt_someone_scream": {
+      "man_scream": "男人尖叫",
+      "cartoon_scream": "卡通尖叫",
+      "smirnoff_scream": "斯米諾夫尖叫"
+    },
+    "prompt_guy_screaming": {
+      "dying_guy": "垂死之人",
+      "fireworks_and_screaming": "煙火與尖叫",
+      "guys_howling_fun": "男人趣味嚎叫"
+    },
+    "prompt_scream_noise": {
+      "unsettling_noise": "令人不安的噪音",
+      "ghost_horror_sound": "幽靈恐怖聲",
+      "cartoon_scream": "卡通尖叫"
+    },
+    "prompt_whoosh_sound": {
+      "whoosh_cinematic": "電影感呼嘯",
+      "whoosh_cinematic_sound_effect": "電影感呼嘯音效",
+      "simple_whoosh": "簡單呼嘯聲"
+    },
+    "prompt_whoosh_effect": {
+      "cinematic_whoosh_shot": "電影感呼嘯鏡頭",
+      "whoosh_effect": "呼嘯效果",
+      "whoosh_sound_effect": "呼嘯音效"
+    },
+    "prompt_woosh_sound": {
+      "woosh": "呼嘯",
+      "short_woosh": "短呼嘯",
+      "fast_woosh": "快速呼嘯"
+    },
+    "prompt_woosh_sfx": {
+      "swoosh": "嗖嗖聲",
+      "air_motion": "空氣流動",
+      "creepy_hifreq_woosh": "詭異高頻呼嘯"
+    },
+    "prompt_swish_sound": {
+      "swish_sound": "嗖嗖聲",
+      "quick_double_swish_sfx": "快速雙重嗖嗖特效",
+      "fast_swish_transition_noise": "快速嗖嗖轉場噪音"
+    },
+    "prompt_bicycle_sounds": {
+      "bicycle_bell_sound_effect": "腳踏車鈴音效",
+      "bicycle_bell": "腳踏車鈴",
+      "bicycle": "腳踏車"
+    },
+    "prompt_bike_horn_sound": {
+      "horn_toy": "喇叭玩具",
+      "mega_horn": "巨型喇叭",
+      "boat_horn": "船笛"
+    },
+    "prompt_train_sounds": {
+      "train": "火車",
+      "inside_old_train": "老式火車內部",
+      "railway_train": "鐵路火車"
+    },
+    "prompt_truck_sounds": {
+      "traffic_truck_ambience": "卡車交通環境音",
+      "truck_chord": "卡車和弦",
+      "loud_machinery": "巨大機械聲"
+    },
+    "prompt_truck_sound": {
+      "diesel_truck_passing": "柴油卡車駛過",
+      "big_truck_engine": "大型卡車引擎",
+      "muscle_truck": "肌肉卡車"
+    },
+    "prompt_truck_audio": {
+      "truck_door_open_and_close": "卡車門開關",
+      "city_street_soundscape": "城市街道音景",
+      "police_siren_emergency_alarm": "警笛緊急警報"
+    },
+    "prompt_truck_horn": {
+      "truck_horn": "卡車喇叭",
+      "parisian_fire_truck_siren": "巴黎消防車警笛",
+      "truck_signal": "卡車信號"
+    },
+    "prompt_truck_honking": {
+      "truck_signal": "卡車信號",
+      "vintage_car_horn": "復古汽車喇叭",
+      "old_car_horn": "老舊汽車喇叭"
+    },
+    "prompt_celebration_sound_effect": {
+      "wow": "哇",
+      "applause_sound": "掌聲",
+      "crowd_cheering": "人群歡呼"
+    },
+    "prompt_festival_sound": {
+      "applause_sound_effect": "掌聲音效",
+      "crowd_noise_at_event": "活動人群噪音",
+      "crowd_noise_stadium": "體育場人群噪音"
+    },
+    "prompt_fireworks_sounds": {
+      "fireworks": "煙火",
+      "firework_whistle": "煙火哨聲",
+      "slow_explosion": "緩慢爆炸"
+    },
+    "prompt_fireworks_sound": {
+      "crackling_fireworks": "噼啪煙火",
+      "fireworks_sound": "煙火聲",
+      "new_year_fireworks": "新年煙火"
+    },
+    "prompt_firework_sounds": {
+      "cake_firework_and_mortars": "蛋糕煙火與迫擊炮",
+      "firework_whistle": "煙火哨聲",
+      "funny_firework_sound": "搞笑煙火聲"
+    },
+    "prompt_happy_celebration": {
+      "happy_loop": "快樂循環",
+      "happy_birthday": "生日快樂",
+      "kids_happy_background_music": "兒童快樂背景音樂"
+    },
+    "prompt_porn_sounds": {
+      "funny_sounds": "搞笑音效",
+      "birds_sounds": "鳥鳴聲",
+      "dire_crackling_sounds": "可怕劈啪聲"
+    },
+    "prompt_porn_sound": {
+      "mid_nights_sound": "午夜之聲",
+      "thud_sound_effect": "咚聲音效",
+      "heartbeat_sound": "心跳聲"
+    },
+    "prompt_porn_noises": {
+      "water_noises": "水聲",
+      "soft_brown_noise": "柔和棕色噪音",
+      "rainy_day_in_town_with_birds_singing": "城鎮雨天鳥鳴"
+    },
+    "prompt_audio_porn": {
+      "audio_for_video_editing": "影片剪輯音訊",
+      "birds_singing_audio_tune": "鳥鳴音訊曲調",
+      "retro_audio_logo": "復古音訊標誌"
+    },
+    "prompt_porn_audio": {
+      "audio_for_video_editing": "影片剪輯音訊",
+      "birds_singing_audio_tune": "鳥鳴音訊曲調",
+      "relaxing_guitar_loop": "放鬆吉他循環"
+    },
+    "prompt_loud_porn": {
+      "loud_thunder": "巨大雷聲",
+      "baby_crying_loud": "嬰兒大聲哭喊",
+      "scotland_eas_alarm": "蘇格蘭緊急警報"
+    },
+    "prompt_porn_moaning": {
+      "rumbling": "隆隆聲",
+      "free_zombie_moan_sound": "免費殭屍呻吟聲",
+      "demonic_spirit_voice": "惡魔靈魂之聲"
+    },
+    "prompt_porn_moan": {
+      "creepy_ghost_moan_sfx": "詭異幽靈呻吟特效",
+      "ghost_moan": "幽靈呻吟",
+      "creepy_moan": "詭異呻吟"
+    },
+    "prompt_loud_moaning_porn": {
+      "loud_thunder": "巨大雷聲",
+      "baby_crying_loud": "嬰兒大聲哭喊",
+      "moaning_wraith": "呻吟幽靈"
+    },
+    "prompt_women_moaning": {
+      "demon_moaning": "惡魔呻吟",
+      "moaning_wraith": "呻吟幽靈",
+      "rumbling": "隆隆聲"
+    },
+    "prompt_male_moans": {
+      "disapproving_male_grunt": "男性不滿咕噥",
+      "male_hurt_sound": "男性受傷聲",
+      "male_groan_of_pain": "男性痛苦呻吟"
+    },
+    "prompt_men_moaning_porn": {
+      "demonic_moaning": "惡魔般呻吟",
+      "demon_moaning": "惡魔呻吟",
+      "horror_moaning_and_groaning": "恐怖呻吟與咕噥"
+    },
+    "prompt_girls_moan": {
+      "ghost_moan": "幽靈呻吟",
+      "creepy_moan": "詭異呻吟",
+      "big_old_men_moan": "高大老人呻吟"
+    },
+    "prompt_girl_moan": {
+      "woman_sad_moan": "女性悲傷呻吟",
+      "woman_giving_birth": "女性分娩",
+      "creepy_ghost_moan_sfx": "詭異幽靈呻吟特效"
+    },
+    "prompt_moaning_porn": {
+      "horror_moaning_and_groaning": "恐怖呻吟與咕噥",
+      "demon_moaning": "惡魔呻吟",
+      "demonic_moaning": "惡魔般呻吟"
+    },
+    "prompt_moaning_sounds": {
+      "ghostly_moaning": "幽靈般呻吟",
+      "zombie_call": "殭屍呼喚",
+      "free_zombie_moan_sounds": "免費殭屍呻吟聲"
+    },
+    "prompt_moaning_sound": {
+      "demon_moaning": "惡魔呻吟",
+      "zombie_sound": "殭屍聲",
+      "tummy_song": "肚子咕嚕聲"
+    },
+    "prompt_moans_sounds": {
+      "zombie_moan_sfx": "殭屍呻吟特效",
+      "zombie_sfx": "殭屍特效",
+      "zombiesound": "殭屍聲"
+    },
+    "prompt_moan_sound": {
+      "creepy_ghost_sound": "詭異幽靈聲",
+      "dogs_moan_sound": "狗呻吟聲",
+      "mumie_komt_aus_sarkophag": "木乃伊從石棺現身"
+    },
+    "prompt_moan_sounds": {
+      "zombie_moan_sfx": "殭屍呻吟特效",
+      "guttural_snarl": "喉音咆哮",
+      "zombie_moan": "殭屍呻吟"
+    },
+    "prompt_moaning_noises": {
+      "hospital_icu_patient_moaning": "醫院加護病房病人呻吟",
+      "sex_noises_dose": "性愛噪音劑量",
+      "little_dog_moaning": "小狗呻吟"
+    },
+    "prompt_sex_sounds": {
+      "bed_sex_sounds": "床上性愛聲",
+      "primal_quickie": "原始速戰",
+      "chubby_girl_sex_sound_during_doggystyle": "豐滿女孩後入式性愛聲"
+    },
+    "prompt_sex_audio": {
+      "fucking_and_parents_next_door": "做愛與隔壁父母",
+      "sex_noises_dose": "性愛噪音劑量",
+      "wife_squirming_in_pleasure": "妻子愉悅扭動"
+    },
+    "prompt_sex_sound": {
+      "jumpling_on_a_small_trampoline_squeaking_sounds": "小型彈跳床吱吱聲",
+      "body_percussion": "身體打擊樂",
+      "rough_blow_job": "粗暴口交"
+    },
+    "prompt_sex_moans": {
+      "moans_of_a_woman": "女性呻吟",
+      "catherine": "凱瑟琳",
+      "oral_sex_sounds": "口交聲"
+    },
+    "prompt_sex_noises": {
+      "sex_noises_does": "性愛噪音",
+      "sex_noises_close": "近距離性愛噪音",
+      "water_noises": "水聲"
+    },
+    "prompt_sex_noise": {
+      "sex_noise": "性愛噪音",
+      "primal_quickie": "原始速戰",
+      "dubstep_sound": "迴響貝斯聲"
+    },
+    "prompt_sounds_of_sex": {
+      "synchronized_sex_energy": "同步性愛能量",
+      "slowly_making_love": "緩慢做愛",
+      "sex_young_couple": "年輕情侶性愛"
+    },
+    "prompt_sex_sound_effects": {
+      "cute_hentai_girl_voice_orgasm_sound_effect": "可愛動漫女孩高潮音效",
+      "sexy_female_moan_sound_effect": "性感女性呻吟音效",
+      "sexy_vocals": "性感人聲",
+      "moaning": "呻吟"
+    },
+    "prompt_erotic_sounds": {
+      "diversity_of_masturbation": "多樣自慰聲",
+      "raspy_tomboy_voice_female_moan_sound_effect": "沙啞假小子女性呻吟音效",
+      "sub_breathing_nose_low": "低沉鼻息呼吸"
+    },
+    "prompt_real_sex_sounds": {
+      "sex_of_japanese_mature_couple": "日本成熟情侶性愛",
+      "sexual_intercourse": "性交",
+      "woman_getting_fucked": "女性被性交"
+    },
+    "prompt_sounding_sex": {
+      "chubby_girl_sex_sound_during_doggystyle": "豐滿女孩後入式性愛聲",
+      "girl_sex_sounds": "女孩性愛聲",
+      "synchronized_sex_energy": "同步性愛能量"
+    },
+    "prompt_sex_sounds_porn": {
+      "funny_sounds": "搞笑音效",
+      "female_cute": "可愛女性",
+      "porn_content_creators": "成人內容創作者"
+    },
+    "prompt_vibrator_sound": {
+      "cell_phone_vibration": "手機震動",
+      "sound_of_phone_vibrating": "手機震動聲",
+      "alien_underworld_sound": "外星地下世界之聲"
+    },
+    "prompt_fuck_sound_effect": {
+      "fuck": "幹",
+      "what_a_fuck": "搞什麼鬼",
+      "stupid": "笨蛋"
+    },
+    "prompt_happy_scream": {
+      "crowd_of_boys_cheering": "男孩們歡呼",
+      "woman_excited_cheers_and_phrases_says_woohoo": "女性興奮歡呼說哇呼",
+      "happy_new_year": "新年快樂"
+    },
+    "prompt_train_sound": {
+      "train_running_sound": "火車行駛聲",
+      "train_passing": "火車駛過",
+      "train_whistle": "火車汽笛"
+    },
+    "prompt_train_sound_effect": {
+      "train_approach_sfx": "火車接近特效",
+      "train_stopping": "火車停站",
+      "on_the_high_speed_train": "高速火車上"
+    },
+    "prompt_train_sound_effects": {
+      "hungarian_train_ride": "匈牙利火車之旅",
+      "incoming_commuter_train": "進站通勤火車",
+      "loud_train_horn": "響亮火車汽笛"
+    },
+    "prompt_train_horn": {
+      "train_horn": "火車汽笛",
+      "train_horn_fades": "火車汽笛漸弱",
+      "loud_train_horn": "響亮火車汽笛"
+    },
+    "prompt_train_voice": {
+      "train_voice": "火車廣播",
+      "electronic_female_voice_at_train_station": "火車站電子女聲",
+      "metro_train_sound": "地鐵火車聲"
+    },
+    "prompt_train_noises": {
+      "inside_the_old_train": "老式火車內部",
+      "train_running_sound": "火車行駛聲",
+      "train_station_ambience": "火車站環境音"
+    },
+    "prompt_train_noise": {
+      "musical_train_noise": "音樂火車噪音",
+      "diesel_train_engine_noise": "柴油火車引擎噪音",
+      "train_whistle_and_environment_sounds": "火車汽笛與環境音"
+    },
+    "prompt_transition_sound_effect": {
+      "riser_swoosh_transition": "上升呼嘯轉場",
+      "whoosh_cinematic_sound_effect": "電影感呼嘯音效",
+      "scary_transition": "恐怖轉場"
+    },
+    "prompt_transition_sound_effects": {
+      "futuristic_transition": "未來感轉場",
+      "professional_transition": "專業轉場",
+      "sweet_transition": "甜美轉場"
+    },
+    "prompt_transition_sound": {
+      "transition_base": "基礎轉場",
+      "transition_explosion": "爆炸轉場",
+      "transition_coat": "外套轉場"
+    },
+    "prompt_transition_sounds": {
+      "high_transition": "高頻轉場",
+      "transition_fleeting": "短暫轉場",
+      "interface": "介面"
+    },
+    "prompt_transition_sfx": {
+      "bizzard_transition": "暴風雪轉場",
+      "soft_transition": "柔和轉場",
+      "sand_transition": "沙粒轉場"
+    },
+    "prompt_scream_soundboard": {
+      "male_death_scream_horror": "男性死亡恐怖尖叫",
+      "falling_man_scream": "墜落男人尖叫",
+      "echo_scream": "回聲尖叫"
+    },
+    "prompt_loud": {
+      "corrupt_scream": "腐化尖叫",
+      "male_death_scream_horror": "男性死亡恐怖尖叫",
+      "male_voice_screaming_loudly": "男性大聲尖叫",
+      "young_girl_screaming": "年輕女孩尖叫",
+      "man_angry_loud": "男人憤怒大叫",
+      "loud_female_scream": "響亮女性尖叫"
+    },
+    "prompt_cry_sounds": {
+      "crying_and_sobbing": "哭泣與抽泣",
+      "boy_crying_free_sound": "男孩哭泣免費音效",
+      "baby_crying": "嬰兒哭聲"
+    },
+    "prompt_yelling_sound": {
+      "random_guy_on_street_yelling": "街上隨機男人叫喊",
+      "angry_man_yell_sound": "憤怒男人叫喊",
+      "woman_enraged_fearful_scream_sound_effect": "女性憤怒恐懼尖叫音效",
+      "army_of_soldiers_battle_cry": "軍隊戰吼",
+      "hilarious_yelling": "滑稽叫喊",
+      "crowd_booing": "人群噓聲"
+    },
+    "prompt_beat": {
+      "indian_beats": "印度節拍",
+      "hold_on_beat": "保持節拍",
+      "drum_beats": "鼓點",
+      "sweet_sound_effects": "甜美音效",
+      "beat_effect": "節拍效果",
+      "heartbeat": "心跳",
+      "clock_beat_effect": "時鐘節拍效果"
+    }
+  }
+}

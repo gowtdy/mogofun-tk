@@ -1,7 +1,7 @@
 {
   "comm": {
     "home": "الرئيسية",
-    "aicover": "غلاف بالذكاء الاصطناعي",
+    "aicover": "مولّد صوت TikTok",
     "voice": "الصوت",
     "characterVoice": "صوت الشخصية",
     "celebrityVoice": "صوت المشاهير",
@@ -21,7 +21,7 @@
     "footerDesc": "أنشئ صوتًا فريدًا فورًا للفيديو والبودكاست والمزيد.",
     "contact": "تواصل: ",
     "aiVoiceGenerator": "مولّد الصوت بالذكاء الاصطناعي",
-    "aiCover": "مولّد صوت TikTok",
+    "aiCover": "MoGoFun: مولّد صوت TikTok",
     "quickLinks": "روابط سريعة",
     "friendsLinks": "روابط الشركاء",
     "more": "المزيد",
@@ -175,68 +175,6 @@
           "limitExceeded": "لقد تجاوزت حد الاستخدام لهذا اليوم."
         }
       }
-    }
-  },
-  "soundeffect_common": {
-    "display_title": "استمع إلى المؤثرات الصوتية الواقعية المُنشأة بالذكاء الاصطناعي أدناه",
-    "input_placeholder": "أدخل وصف المؤثر الصوتي",
-    "generating_button": "جارٍ الإنشاء...",
-    "generate_button": "إنشاء",
-    "msg_example_load_failed": "فشل تحميل عينة الصوت، يرجى المحاولة لاحقًا!",
-    "msg_example_play_failed": "فشل تشغيل عينة الصوت، يرجى المحاولة لاحقًا!",
-    "msg_notext": "يرجى إدخال وصف لإنشاء مؤثر صوتي",
-    "download": {
-      "noAudio": "لا يوجد صوت للتنزيل",
-      "success": "تم التنزيل بنجاح",
-      "failed": "فشل التنزيل، يرجى المحاولة لاحقًا",
-      "fetchFailed": "فشل تنزيل الأصوات، يرجى المحاولة لاحقًا!"
-    },
-    "prompt_combat": {
-            "sword_whoosh": "صوت سيف يمر",
-            "sword_through_air": "سيف يقطع الهواء",
-            "shotgun_fire": "طلقة بندقية صيد",
-            "laser_gunshot": "طلقة ليزر",
-            "ui_success": "نجاح الواجهة"
-    },
-    "prompt_nature": {
-            "name": "أصوات الطبيعة",
-            "rain": "مطر",
-            "ocean_waves": "أمواج المحيط",
-            "flowing_water": "مياه جارية",
-            "thunder": "رعد",
-            "insect_sounds": "أصوات الحشرات"
-    },
-    "prompt_special": {
-            "name": "أصوات خاصة",
-            "fireworks": "ألعاب نارية",
-            "glass_shattering": "تحطم زجاج",
-            "magic_spell": "تعويذة سحرية",
-            "spaceship": "سفينة فضائية",
-            "action": "حركة"
-    },
-    "prompt_instruments": {
-            "name": "أصوات الآلات",
-            "piano": "بيانو",
-            "electric_guitar": "غيتار كهربائي",
-            "violin": "كمان",
-            "keyboard": "لوحة مفاتيح إلكترونية",
-            "irish_pipes": "مزمار إيرلندي"
-    },
-    "prompt_human": {
-            "name": "أصوات بشرية",
-            "baby_laughing": "ضحك طفل",
-            "clapping": "تصفيق",
-            "celebrate": "احتفال",
-            "footsteps": "خطوات",
-            "burp": "تجشؤ"
-    },
-    "prompt_ambient": {
-            "name": "أصوات محيطة",
-            "typing": "كتابة على لوحة المفاتيح",
-            "noisy_restaurant": "مطعم صاخب",
-            "doorbell_ring": "جرس الباب",
-            "tv_on": "تشغيل التلفزيون",
-            "cooking": "طبخ"
     }
   },
   "separation_common": {

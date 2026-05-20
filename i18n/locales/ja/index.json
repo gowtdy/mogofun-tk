@@ -21,7 +21,7 @@
     "footerDesc": "動画、ポッドキャストなどに、独自のボイスをすぐに生成。",
     "contact": "お問い合わせ：",
     "aiVoiceGenerator": "AI音声ジェネレーター",
-    "aiCover": "TikTok音声ジェネレーター",
+    "aiCover": "MoGoFun: TikTok音声ジェネレーター",
     "quickLinks": "クイックリンク",
     "friendsLinks": "リンク集",
     "more": "もっと見る",
@@ -175,68 +175,6 @@
           "limitExceeded": "本日の利用上限を超えました。"
         }
       }
-    }
-  },
-  "soundeffect_common": {
-    "display_title": "以下のリアルなAI生成効果音をお聴きください",
-    "input_placeholder": "効果音の説明を入力",
-    "generating_button": "生成中...",
-    "generate_button": "生成",
-    "msg_example_load_failed": "効果音サンプルの読み込みに失敗しました。しばらくしてから再度お試しください！",
-    "msg_example_play_failed": "効果音サンプルの再生に失敗しました。しばらくしてから再度お試しください！",
-    "msg_notext": "効果音を生成するには説明を入力してください",
-    "download": {
-      "noAudio": "ダウンロードできる音声がありません",
-      "success": "ダウンロードに成功しました",
-      "failed": "ダウンロードに失敗しました。しばらくしてから再度お試しください",
-      "fetchFailed": "効果音のダウンロードに失敗しました。しばらくしてから再度お試しください！"
-    },
-    "prompt_combat": {
-      "sword_whoosh": "剣の振る音",
-      "sword_through_air": "剣が空気を切る音",
-      "shotgun_fire": "ショットガン発砲",
-      "laser_gunshot": "レーザー銃の発砲",
-      "ui_success": "UI成功音"
-    },
-    "prompt_nature": {
-      "name": "自然の音",
-      "rain": "雨",
-      "ocean_waves": "波",
-      "flowing_water": "流水",
-      "thunder": "雷",
-      "insect_sounds": "虫の鳴き声"
-    },
-    "prompt_special": {
-      "name": "特殊効果音",
-      "fireworks": "花火",
-      "glass_shattering": "ガラスが割れる音",
-      "magic_spell": "魔法の呪文",
-      "spaceship": "宇宙船",
-      "action": "アクション"
-    },
-    "prompt_instruments": {
-      "name": "楽器の音",
-      "piano": "ピアノ",
-      "electric_guitar": "エレキギター",
-      "violin": "バイオリン",
-      "keyboard": "電子キーボード",
-      "irish_pipes": "アイリッシュパイプ"
-    },
-    "prompt_human": {
-      "name": "人間の音",
-      "baby_laughing": "赤ちゃんの笑い声",
-      "clapping": "拍手",
-      "celebrate": "お祝い",
-      "footsteps": "足音",
-      "burp": "げっぷ"
-    },
-    "prompt_ambient": {
-      "name": "環境音",
-      "typing": "タイピング",
-      "noisy_restaurant": "騒がしいレストラン",
-      "doorbell_ring": "ドアベル",
-      "tv_on": "テレビの電源",
-      "cooking": "料理"
     }
   },
   "separation_common": {

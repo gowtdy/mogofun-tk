@@ -21,7 +21,7 @@
     "footerDesc": "Générez instantanément une voix unique pour vos vidéos, podcasts et plus encore.",
     "contact": "Contact : ",
     "aiVoiceGenerator": "Générateur de voix IA",
-    "aiCover": "Générateur de voix TikTok",
+    "aiCover": "MoGoFun : Générateur de voix TikTok",
     "quickLinks": "Liens rapides",
     "friendsLinks": "Liens partenaires",
     "more": "Plus",
@@ -175,68 +175,6 @@
           "limitExceeded": "Vous avez dépassé la limite d'utilisation pour aujourd'hui."
         }
       }
-    }
-  },
-  "soundeffect_common": {
-    "display_title": "Écoutez ci-dessous des effets sonores réalistes générés par IA",
-    "input_placeholder": "Saisissez la description de l'effet sonore",
-    "generating_button": "Génération en cours...",
-    "generate_button": "Générer",
-    "msg_example_load_failed": "Échec du chargement de l'échantillon sonore, veuillez réessayer plus tard !",
-    "msg_example_play_failed": "Échec de la lecture de l'échantillon sonore, veuillez réessayer plus tard !",
-    "msg_notext": "Veuillez saisir une description pour générer un effet sonore",
-    "download": {
-      "noAudio": "Aucun audio à télécharger",
-      "success": "Téléchargement réussi",
-      "failed": "Échec du téléchargement, veuillez réessayer plus tard",
-      "fetchFailed": "Échec du téléchargement des sons, veuillez réessayer plus tard !"
-    },
-    "prompt_combat": {
-            "sword_whoosh": "Whoosh d'épée",
-            "sword_through_air": "Épée dans l'air",
-            "shotgun_fire": "Coup de fusil à pompe",
-            "laser_gunshot": "Coup de laser",
-            "ui_success": "Succès UI"
-    },
-    "prompt_nature": {
-            "name": "Sons de la nature",
-            "rain": "Pluie",
-            "ocean_waves": "Vagues de l'océan",
-            "flowing_water": "Eau qui coule",
-            "thunder": "Tonnerre",
-            "insect_sounds": "Sons d'insectes"
-    },
-    "prompt_special": {
-            "name": "Sons spéciaux",
-            "fireworks": "Feux d'artifice",
-            "glass_shattering": "Verre qui se brise",
-            "magic_spell": "Sort magique",
-            "spaceship": "Vaisseau spatial",
-            "action": "Action"
-    },
-    "prompt_instruments": {
-            "name": "Sons d'instruments",
-            "piano": "Piano",
-            "electric_guitar": "Guitare électrique",
-            "violin": "Violon",
-            "keyboard": "Clavier électronique",
-            "irish_pipes": "Cornemuses irlandaises"
-    },
-    "prompt_human": {
-            "name": "Sons humains",
-            "baby_laughing": "Bébé qui rit",
-            "clapping": "Applaudissements",
-            "celebrate": "Célébration",
-            "footsteps": "Pas",
-            "burp": "Rot"
-    },
-    "prompt_ambient": {
-            "name": "Sons d'ambiance",
-            "typing": "Frappe au clavier",
-            "noisy_restaurant": "Restaurant bruyant",
-            "doorbell_ring": "Sonnette",
-            "tv_on": "Télé allumée",
-            "cooking": "Cuisine"
     }
   },
   "separation_common": {

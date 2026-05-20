@@ -222,7 +222,8 @@ export async function getIndexVoiceModels(): Promise<VoiceModelCategory[]> {
           })
         }
 
-        models.sort((a, b) => a.name.localeCompare(b.name))
+        // 去掉排序，保持原始顺序
+        // models.sort((a, b) => a.name.localeCompare(b.name))
         langModels.catname = catName
         langModels.catid = catid
         langModels.options = models

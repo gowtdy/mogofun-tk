@@ -84,12 +84,6 @@
                   <component :is="isPlayingPreview(model.modelid) ? PauseIcon : PlayIcon"
                     class="w-4 h-4 inp-optimized" />
                 </template>
-                <!-- 屏幕阅读器文本 -->
-                <span class="sr-only">
-                  {{ isPlayingPreview(model.modelid) ? $t('ai_cover.converter.buttons.stop') :
-                    $t('ai_cover.converter.buttons.preview')
-                  }}
-                </span>
               </button>
             </div>
           </div>

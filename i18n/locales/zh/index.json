@@ -21,7 +21,7 @@
     "footerDesc": "即时为视频、播客等生成独特语音。",
     "contact": "联系我们：",
     "aiVoiceGenerator": "AI 语音生成器",
-    "aiCover": "TikTok 语音生成器",
+    "aiCover": "MoGoFun: TikTok 语音生成器",
     "quickLinks": "快速链接",
     "friendsLinks": "友情链接",
     "more": "更多",
@@ -175,68 +175,6 @@
           "limitExceeded": "您已超过今日使用限额。"
         }
       }
-    }
-  },
-  "soundeffect_common": {
-    "display_title": "试听下方逼真的 AI 生成音效",
-    "input_placeholder": "输入音效描述",
-    "generating_button": "生成中...",
-    "generate_button": "生成",
-    "msg_example_load_failed": "音效示例加载失败，请稍后重试！",
-    "msg_example_play_failed": "音效示例播放失败，请稍后重试！",
-    "msg_notext": "请输入描述以生成音效",
-    "download": {
-      "noAudio": "没有可下载的音频",
-      "success": "下载成功",
-      "failed": "下载失败，请稍后重试",
-      "fetchFailed": "音效下载失败，请稍后重试！"
-    },
-    "prompt_combat": {
-      "sword_whoosh": "挥剑声",
-      "sword_through_air": "剑划破空气",
-      "shotgun_fire": "霰弹枪开火",
-      "laser_gunshot": "激光枪声",
-      "ui_success": "界面成功提示"
-    },
-    "prompt_nature": {
-      "name": "自然音效",
-      "rain": "雨声",
-      "ocean_waves": "海浪",
-      "flowing_water": "流水",
-      "thunder": "雷声",
-      "insect_sounds": "虫鸣"
-    },
-    "prompt_special": {
-      "name": "特殊音效",
-      "fireworks": "烟花",
-      "glass_shattering": "玻璃破碎",
-      "magic_spell": "魔法咒语",
-      "spaceship": "宇宙飞船",
-      "action": "动作"
-    },
-    "prompt_instruments": {
-      "name": "乐器音效",
-      "piano": "钢琴",
-      "electric_guitar": "电吉他",
-      "violin": "小提琴",
-      "keyboard": "电子琴",
-      "irish_pipes": "爱尔兰风笛"
-    },
-    "prompt_human": {
-      "name": "人声音效",
-      "baby_laughing": "婴儿笑声",
-      "clapping": "鼓掌",
-      "celebrate": "庆祝",
-      "footsteps": "脚步声",
-      "burp": "打嗝"
-    },
-    "prompt_ambient": {
-      "name": "环境音效",
-      "typing": "打字",
-      "noisy_restaurant": "嘈杂餐厅",
-      "doorbell_ring": "门铃",
-      "tv_on": "电视开机",
-      "cooking": "烹饪"
     }
   },
   "separation_common": {

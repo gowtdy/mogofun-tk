@@ -7,11 +7,11 @@
           <NuxtLink 
             :to="localizedPath('/')" 
             class="flex items-center"
-            title="Free AI Cover & AI Voice Over - home"
+            title="TikTok Voice Generator - home"
+            aria-label="TikTok text to speech"
           >
-            <img :src="cdnHost + '/img/mogofun_logo.svg'" alt="Free AI Cover Logo" width="55" height="50" class="h-12 w-auto mr-3" />
-            <img :src="cdnHost + '/img/mogofun_word.svg'" alt="Free AI Voice Over Logo word" width="115" height="30" class="h-8 w-auto" />
-            <span class="sr-only">Free AI Cover & AI Voice Over</span>
+            <img :src="cdnHost + '/img/mogofun_logo.svg'" alt="TikTok AI voice Logo" width="55" height="50" class="h-12 w-auto mr-3" />
+            <img :src="cdnHost + '/img/mogofun_word.svg'" alt="TikTok text to speech" width="115" height="30" class="h-8 w-auto" />
           </NuxtLink>
         </div>
         
@@ -19,7 +19,7 @@
         <div class="hidden md:flex items-center space-x-8">
           <NuxtLink 
             :to="localizedPath('/')" 
-            title="AI Cover" 
+            title="TikTok voice generator" 
             class="text-gray-700 hover:text-primary transition duration-300 font-medium router-link-active:shadow-md px-2"
           >{{ $t('comm.home') }}</NuxtLink>
           <!-- 音频下拉框 -->
@@ -114,11 +114,13 @@
               <NuxtLink 
                 :to="localizedPath('/pricing')" 
                 class="block px-4 py-2 hover:bg-gray-100 text-gray-700"
+                title="TikTok text to speech pricing"
                 @click="showMoreMenu = false"
               >{{ $t('comm.pricing') }}</NuxtLink>
               <NuxtLink 
                 :to="localizedPath('/settings')" 
                 class="block px-4 py-2 hover:bg-gray-100 text-gray-700"
+                title="TikTok tts settings"
                 @click="showMoreMenu = false"
               > {{ $t('comm.settings') }} </NuxtLink>
             </div>
@@ -133,7 +135,7 @@
         
         <!-- 移动端菜单按钮 -->
         <div class="md:hidden">
-          <button @click="isMenuOpen = !isMenuOpen" aria-label="AI Voice Over Menu" class="text-gray-500 hover:text-gray-700 focus:outline-none">
+          <button @click="isMenuOpen = !isMenuOpen" aria-label="TikTok voice generator Menu" class="text-gray-500 hover:text-gray-700 focus:outline-none">
             <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
             </svg>
@@ -148,7 +150,7 @@
           <div class="p-4 space-y-4">
             <NuxtLink 
               :to="localizedPath('/')" 
-              title="AI Voice Generator" 
+              title="TikTok text to speech" 
               class="block text-gray-700 hover:text-primary transition duration-300 font-medium router-link-active:shadow-md" 
               @click="isMenuOpen = false"
             >{{ $t('comm.home') }}</NuxtLink>
@@ -187,11 +189,13 @@
               <NuxtLink 
                 :to="localizedPath('/pricing')" 
                 class="block pl-4 text-gray-700 hover:text-primary transition duration-300"
+                title="TikTok tts pricing"
                 @click="isMenuOpen = false"
               >{{ $t('comm.pricing') }}</NuxtLink>
               <NuxtLink 
                 :to="localizedPath('/settings')" 
                 class="block pl-4 text-gray-700 hover:text-primary transition duration-300"
+                title="TikTok AI voice settings"
                 @click="isMenuOpen = false"
               > {{ $t('comm.settings') }} </NuxtLink>
             </div>

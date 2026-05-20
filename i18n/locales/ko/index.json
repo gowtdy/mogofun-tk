@@ -21,7 +21,7 @@
     "footerDesc": "동영상, 팟캐스트 등을 위한 독특한 음성을 즉시 생성하세요.",
     "contact": "문의: ",
     "aiVoiceGenerator": "AI 음성 생성기",
-    "aiCover": "TikTok 음성 생성기",
+    "aiCover": "MoGoFun: TikTok 음성 생성기",
     "quickLinks": "빠른 링크",
     "friendsLinks": "제휴 링크",
     "more": "더보기",
@@ -175,68 +175,6 @@
           "limitExceeded": "오늘 사용 한도를 초과했습니다."
         }
       }
-    }
-  },
-  "soundeffect_common": {
-    "display_title": "아래의 사실적인 AI 생성 효과음을 들어보세요",
-    "input_placeholder": "효과음 설명 입력",
-    "generating_button": "생성 중...",
-    "generate_button": "생성",
-    "msg_example_load_failed": "효과음 샘플 로드에 실패했습니다. 나중에 다시 시도해 주세요!",
-    "msg_example_play_failed": "효과음 샘플 재생에 실패했습니다. 나중에 다시 시도해 주세요!",
-    "msg_notext": "효과음을 생성하려면 설명을 입력해 주세요",
-    "download": {
-      "noAudio": "다운로드할 오디오가 없습니다",
-      "success": "다운로드 성공",
-      "failed": "다운로드에 실패했습니다. 나중에 다시 시도해 주세요",
-      "fetchFailed": "효과음 다운로드에 실패했습니다. 나중에 다시 시도해 주세요!"
-    },
-    "prompt_combat": {
-      "sword_whoosh": "검 휘두르는 소리",
-      "sword_through_air": "공기를 가르는 검",
-      "shotgun_fire": "산탄총 발사",
-      "laser_gunshot": "레이저 총성",
-      "ui_success": "UI 성공"
-    },
-    "prompt_nature": {
-      "name": "자연 소리",
-      "rain": "비",
-      "ocean_waves": "파도",
-      "flowing_water": "흐르는 물",
-      "thunder": "천둥",
-      "insect_sounds": "곤충 소리"
-    },
-    "prompt_special": {
-      "name": "특수 소리",
-      "fireworks": "불꽃놀이",
-      "glass_shattering": "유리 깨짐",
-      "magic_spell": "마법 주문",
-      "spaceship": "우주선",
-      "action": "액션"
-    },
-    "prompt_instruments": {
-      "name": "악기 소리",
-      "piano": "피아노",
-      "electric_guitar": "일렉트릭 기타",
-      "violin": "바이올린",
-      "keyboard": "전자 키보드",
-      "irish_pipes": "아일랜드 백파이프"
-    },
-    "prompt_human": {
-      "name": "인간 소리",
-      "baby_laughing": "아기 웃음",
-      "clapping": "박수",
-      "celebrate": "축하",
-      "footsteps": "발걸음",
-      "burp": "트림"
-    },
-    "prompt_ambient": {
-      "name": "환경 소리",
-      "typing": "타이핑",
-      "noisy_restaurant": "시끄러운 식당",
-      "doorbell_ring": "초인종",
-      "tv_on": "TV 켜짐",
-      "cooking": "요리"
     }
   },
   "separation_common": {

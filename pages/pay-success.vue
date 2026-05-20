@@ -1,5 +1,5 @@
 <template>
-  <div class="flex items-center justify-center min-h-screen bg-white">
+  <div class="flex justify-center bg-white pt-8 md:pt-10 pb-16">
     <div class="bg-white rounded-xl shadow-lg p-8 md:p-10 text-center max-w-md w-full mx-4 relative overflow-hidden">
       <!-- 装饰元素 -->
       <div class="absolute -right-12 -top-12 w-24 h-24 bg-orange-500 opacity-5 rounded-full"></div>

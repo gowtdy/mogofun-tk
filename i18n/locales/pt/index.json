@@ -21,7 +21,7 @@
     "footerDesc": "Gere vozes únicas instantaneamente para vídeos, podcasts e muito mais.",
     "contact": "Contato: ",
     "aiVoiceGenerator": "Gerador de Voz com IA",
-    "aiCover": "Gerador de Voz para TikTok",
+    "aiCover": "MoGoFun: Gerador de Voz TikTok",
     "quickLinks": "Links Rápidos",
     "friendsLinks": "Links de Parceiros",
     "more": "Mais",
@@ -175,68 +175,6 @@
           "limitExceeded": "Você excedeu o limite de uso de hoje."
         }
       }
-    }
-  },
-  "soundeffect_common": {
-    "display_title": "Ouça abaixo efeitos sonoros realistas gerados por IA",
-    "input_placeholder": "Digite a descrição do efeito sonoro",
-    "generating_button": "Gerando...",
-    "generate_button": "Gerar",
-    "msg_example_load_failed": "Falha ao carregar amostra de som, tente novamente mais tarde!",
-    "msg_example_play_failed": "Falha ao reproduzir amostra de som, tente novamente mais tarde!",
-    "msg_notext": "Digite uma descrição para gerar um efeito sonoro",
-    "download": {
-      "noAudio": "Nenhum áudio para baixar",
-      "success": "Download concluído com sucesso",
-      "failed": "Falha no download, tente novamente mais tarde",
-      "fetchFailed": "Falha ao baixar sons, tente novamente mais tarde!"
-    },
-    "prompt_combat": {
-            "sword_whoosh": "Whoosh de espada",
-            "sword_through_air": "Espada cortando o ar",
-            "shotgun_fire": "Tiro de espingarda",
-            "laser_gunshot": "Tiro de laser",
-            "ui_success": "Sucesso na interface"
-    },
-    "prompt_nature": {
-            "name": "Sons da Natureza",
-            "rain": "Chuva",
-            "ocean_waves": "Ondas do oceano",
-            "flowing_water": "Água corrente",
-            "thunder": "Trovão",
-            "insect_sounds": "Sons de insetos"
-    },
-    "prompt_special": {
-            "name": "Sons Especiais",
-            "fireworks": "Fogos de artifício",
-            "glass_shattering": "Vidro quebrando",
-            "magic_spell": "Feitiço mágico",
-            "spaceship": "Nave espacial",
-            "action": "Ação"
-    },
-    "prompt_instruments": {
-            "name": "Sons de Instrumentos",
-            "piano": "Piano",
-            "electric_guitar": "Guitarra elétrica",
-            "violin": "Violino",
-            "keyboard": "Teclado eletrônico",
-            "irish_pipes": "Gaita de foles irlandesa"
-    },
-    "prompt_human": {
-            "name": "Sons Humanos",
-            "baby_laughing": "Bebê rindo",
-            "clapping": "Palmas",
-            "celebrate": "Celebração",
-            "footsteps": "Passos",
-            "burp": "Arroto"
-    },
-    "prompt_ambient": {
-            "name": "Sons Ambiente",
-            "typing": "Digitação",
-            "noisy_restaurant": "Restaurante barulhento",
-            "doorbell_ring": "Campainha",
-            "tv_on": "TV ligada",
-            "cooking": "Cozinhando"
     }
   },
   "separation_common": {

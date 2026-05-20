@@ -21,7 +21,7 @@
     "footerDesc": "Genera voces únicas al instante para videos, podcasts y más.",
     "contact": "Contacto: ",
     "aiVoiceGenerator": "Generador de voz con IA",
-    "aiCover": "Generador de voz para TikTok",
+    "aiCover": "MoGoFun: Generador de voces TikTok",
     "quickLinks": "Enlaces rápidos",
     "friendsLinks": "Enlaces de socios",
     "more": "Más",
@@ -175,68 +175,6 @@
           "limitExceeded": "Has superado el límite de uso de hoy."
         }
       }
-    }
-  },
-  "soundeffect_common": {
-    "display_title": "Escucha a continuación efectos de sonido realistas generados por IA",
-    "input_placeholder": "Introduce la descripción del efecto de sonido",
-    "generating_button": "Generando...",
-    "generate_button": "Generar",
-    "msg_example_load_failed": "Error al cargar la muestra de sonido, inténtalo de nuevo más tarde.",
-    "msg_example_play_failed": "Error al reproducir la muestra de sonido, inténtalo de nuevo más tarde.",
-    "msg_notext": "Introduce una descripción para generar un efecto de sonido",
-    "download": {
-      "noAudio": "No hay audio para descargar",
-      "success": "Descarga completada con éxito",
-      "failed": "Error al descargar, inténtalo de nuevo más tarde",
-      "fetchFailed": "Error al descargar los sonidos, inténtalo de nuevo más tarde."
-    },
-    "prompt_combat": {
-            "sword_whoosh": "Silbido de espada",
-            "sword_through_air": "Espada cortando el aire",
-            "shotgun_fire": "Disparo de escopeta",
-            "laser_gunshot": "Disparo láser",
-            "ui_success": "Éxito en la interfaz"
-    },
-    "prompt_nature": {
-            "name": "Sonidos de la naturaleza",
-            "rain": "Lluvia",
-            "ocean_waves": "Olas del océano",
-            "flowing_water": "Agua corriente",
-            "thunder": "Trueno",
-            "insect_sounds": "Sonidos de insectos"
-    },
-    "prompt_special": {
-            "name": "Sonidos especiales",
-            "fireworks": "Fuegos artificiales",
-            "glass_shattering": "Cristal rompiéndose",
-            "magic_spell": "Hechizo mágico",
-            "spaceship": "Nave espacial",
-            "action": "Acción"
-    },
-    "prompt_instruments": {
-            "name": "Sonidos de instrumentos",
-            "piano": "Piano",
-            "electric_guitar": "Guitarra eléctrica",
-            "violin": "Violín",
-            "keyboard": "Teclado electrónico",
-            "irish_pipes": "Gaita irlandesa"
-    },
-    "prompt_human": {
-            "name": "Sonidos humanos",
-            "baby_laughing": "Bebé riendo",
-            "clapping": "Aplausos",
-            "celebrate": "Celebración",
-            "footsteps": "Pasos",
-            "burp": "Eructo"
-    },
-    "prompt_ambient": {
-            "name": "Sonidos ambientales",
-            "typing": "Teclado",
-            "noisy_restaurant": "Restaurante ruidoso",
-            "doorbell_ring": "Timbre",
-            "tv_on": "Televisión encendida",
-            "cooking": "Cocinando"
     }
   },
   "separation_common": {

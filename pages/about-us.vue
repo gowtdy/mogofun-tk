@@ -117,7 +117,7 @@
 const { t, locale } = useI18n()
 import { config } from '~/config/config'
 const host = config.host
-const cdnhost = config.cdnHost
+const cdnHost = config.cdnHost
 
 // SEO Meta Tags
 useHead({
@@ -131,12 +131,12 @@ useHead({
     { property: 'og:type', content: 'website' },
     { property: 'og:title', content: t('about.seo.title') },
     { property: 'og:description', content: t('about.seo.description') },
-    { property: 'og:url', content: `${host}/about-us` },
+    { property: 'og:url', content: `${host}/en/about-us` },
     { property: 'og:image', content: `${cdnHost}/img/fb-avl.jpg`},
     { name: 'twitter:card', content: 'summary_large_image' },
     { name: 'twitter:title', content: t('about.seo.title') },
     { name: 'twitter:description', content: t('about.seo.description') },
-    { name: 'twitter:site', content: `${host}/about-us` },
+    { name: 'twitter:site', content: `${host}/en/about-us` },
     { name: 'twitter:image', content: `${cdnHost}/img/tw-avl.jpg` }
   ]
 })

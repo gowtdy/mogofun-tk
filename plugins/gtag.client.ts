@@ -3,7 +3,7 @@ export default defineNuxtPlugin(() => {
         const loadGtag = () => {
             //console.log('准备加载 gtag.js');
             const script = document.createElement('script');
-            script.src = 'https://www.googletagmanager.com/gtag/js?id=G-7WWRDRTRYJ'; // TODO: 替换为你的GA_ID
+            script.src = 'https://www.googletagmanager.com/gtag/js?id=G-PDPNH6YFWM'; // TODO: 替换为你的GA_ID
             script.async = true;
             document.head.appendChild(script);
 
@@ -18,7 +18,7 @@ export default defineNuxtPlugin(() => {
             // @ts-ignore
             window.gtag('js', new Date());
             // @ts-ignore
-            window.gtag('config', 'G-7WWRDRTRYJ'); // TODO: 替换为你的GA_ID
+            window.gtag('config', 'G-PDPNH6YFWM'); // TODO: 替换为你的GA_ID
         };
 
         if ('requestIdleCallback' in window) {

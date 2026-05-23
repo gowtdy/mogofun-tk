@@ -241,7 +241,11 @@ export default defineNuxtConfig({
     typeCheck: false,
     shim: false,
   },
-  css: ['@/assets/css/tailwind.css', '@/assets/css/global.css'],
+  css: [
+    '@/assets/css/tailwind.css',
+    '@/assets/css/global.css',
+    '@/assets/css/vue-audio-player.css',
+  ],
   postcss: {
     plugins: {
       tailwindcss: {},

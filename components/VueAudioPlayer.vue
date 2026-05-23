@@ -674,6 +674,8 @@ onBeforeUnmount(() => {
 .vue-audio-player {
   display: flex;
   flex: 1;
+  align-items: center;
+  gap: 8px;
 }
 
 .vue-audio-player .vue-audio-player__btn-wrap {
@@ -685,19 +687,19 @@ onBeforeUnmount(() => {
 }
 
 .vue-audio-player .vue-audio-player__play-icon {
-  width: 100%;
-  height: 100%;
+  width: 42px;
+  height: 42px;
   fill: currentColor;
   overflow: hidden;
 }
 
 .vue-audio-player .vue-audio-player__play-start {
-  margin: 0 8px;
+  margin: 0;
   cursor: pointer;
   touch-action: none;
   user-select: none;
   -webkit-user-drag: none;
-  flex: 1;
+  flex: 0 0 auto;
 }
 
 .vue-audio-player .vue-audio-player__play-start svg {
@@ -707,12 +709,12 @@ onBeforeUnmount(() => {
 }
 
 .vue-audio-player .vue-audio-player__play-pause {
-  margin: 0 8px;
+  margin: 0;
   cursor: pointer;
   touch-action: none;
   user-select: none;
   -webkit-user-drag: none;
-  flex: 1;
+  flex: 0 0 auto;
 }
 
 .vue-audio-player .vue-audio-player__play-pause svg {

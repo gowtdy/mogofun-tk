@@ -27,7 +27,13 @@
       </div>
 
       <!-- Audio Player -->
-      <VueAudioPlayer v-else :audio-list="uploadedAudioList" />
+      <div v-else class="vue-audio-player__wrapper vue-audio-player__wrapper--bar rounded-lg border border-gray-100">
+        <VueAudioPlayer
+          class="vue-audio-player--bar"
+          :audio-list="uploadedAudioList"
+          theme-color="#D76FF4"
+        />
+      </div>
 
       <!-- Reset Button -->
       <div class="flex items-center justify-end mt-4">

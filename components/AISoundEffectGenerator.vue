@@ -43,9 +43,9 @@
 
     <!-- 音频播放器 -->
     <div v-if="generatedSound" class="mt-6">
-      <div class="vue-audio-player__wrapper rounded-xl bg-white border border-gray-200">
+      <div class="vue-audio-player__wrapper vue-audio-player__wrapper--bar rounded-xl bg-white border border-gray-200">
         <VueAudioPlayer
-          class="vue-audio-player--sound-effect"
+          class="vue-audio-player--bar"
           :audio-list="audioList"
           :is-loop="false"
           theme-color="#D76FF4"
@@ -591,98 +591,3 @@ const handleAudioEnded = () => {
   isPlaying.value = false
 }
 </script>
-
-<style scoped>
-.vue-audio-player__wrapper {
-  display: flex;
-  align-items: flex-start;
-  gap: 0.75rem;
-  min-height: 64px;
-  padding: 0.75rem;
-  background: white;
-}
-
-:deep(.vue-audio-player--sound-effect) {
-  display: flex;
-  flex: 1;
-  align-items: flex-start;
-  gap: 0.75rem;
-  min-width: 0;
-  padding: 0;
-}
-
-:deep(.vue-audio-player--sound-effect .vue-audio-player__btn-wrap) {
-  flex-shrink: 0;
-  flex-direction: row;
-  height: 42px;
-  align-items: center;
-}
-
-:deep(.vue-audio-player--sound-effect .vue-audio-player__play-start),
-:deep(.vue-audio-player--sound-effect .vue-audio-player__play-pause),
-:deep(.vue-audio-player--sound-effect .vue-audio-player__play-loading) {
-  flex: none;
-  margin: 0;
-  width: 42px;
-  height: 42px;
-}
-
-:deep(.vue-audio-player--sound-effect .vue-audio-player__play-start svg),
-:deep(.vue-audio-player--sound-effect .vue-audio-player__play-pause svg),
-:deep(.vue-audio-player--sound-effect .vue-audio-player__play-loading svg) {
-  display: block;
-  width: 42px;
-  height: 42px;
-}
-
-:deep(.vue-audio-player--sound-effect .vue-audio-player__progress-timer-wrap) {
-  flex: 1;
-  min-width: 0;
-  display: grid;
-  grid-template-rows: 42px auto;
-  align-items: center;
-}
-
-:deep(.vue-audio-player--sound-effect .vue-audio-player__progress-wrap) {
-  grid-row: 1;
-  align-self: center;
-  margin-top: 0;
-  height: 6px;
-  background: #e5e7eb;
-  border-radius: 3px;
-}
-
-:deep(.vue-audio-player--sound-effect .vue-audio-player__progress) {
-  background: linear-gradient(to right, #F1AC63, #D76FF4) !important;
-  border-radius: 3px;
-}
-
-:deep(.vue-audio-player--sound-effect .vue-audio-player__time-wrap) {
-  grid-row: 2;
-  margin-top: 4px;
-}
-
-:deep(.vue-audio-player--sound-effect .vue-audio-player__current-time),
-:deep(.vue-audio-player--sound-effect .vue-audio-player__duration) {
-  color: #6B7280;
-  font-size: 0.875rem;
-}
-
-.vue-audio-player__download {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 42px;
-  height: 42px;
-  padding: 0;
-  border: none;
-  background: transparent;
-  flex-shrink: 0;
-}
-
-.vue-audio-player__download svg {
-  display: block;
-  width: 42px;
-  height: 42px;
-}
-</style>

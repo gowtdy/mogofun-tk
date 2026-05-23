@@ -17,14 +17,21 @@
       <h2 class="text-xl font-medium mb-4 bg-gradient-to-r from-[#EC4141] to-[#D76FF4] bg-clip-text text-transparent">{{
         resultTitle }}</h2>
       <div class="space-y-6">
-        <div class="flex items-center gap-4">
-          <div class="flex-1">
-            <VueAudioPlayer :audio-list="[blobUrl]" v-if="blobUrl" />
-          </div>
-          <div class="vue-audio-player__download" @click="downloadAudio" v-if="blobUrl">
-            <!-- Download Icon -->
-            <svg class="w-[42px] h-[42px] cursor-pointer hover:opacity-90 transition-all" xmlns="http://www.w3.org/2000/svg"
-              viewBox="0 0 1080 1080" xml:space="preserve" aria-hidden="true">
+        <div
+          v-if="blobUrl"
+          class="vue-audio-player__wrapper vue-audio-player__wrapper--bar rounded-xl bg-white border border-gray-200"
+        >
+          <VueAudioPlayer
+            class="vue-audio-player--bar"
+            :audio-list="[blobUrl]"
+            theme-color="#D76FF4"
+          />
+          <button
+            type="button"
+            class="vue-audio-player__download shrink-0 hover:opacity-90 transition-all duration-200"
+            @click="downloadAudio"
+          >
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" xml:space="preserve" aria-hidden="true">
               <defs>
                 <linearGradient id="gradient2" x1="0%" y1="0%" x2="100%" y2="100%">
                   <stop offset="0%" stop-color="#F1AC63" />
@@ -37,7 +44,7 @@
               <path style="stroke:#fff;stroke-width:2" transform="translate(277.92 277.92)scale(21.84)"
                 d="M21 21H3m15-10-6 6m0 0-6-6m6 6V3" stroke-linecap="round" />
             </svg>
-          </div>
+          </button>
         </div>
       </div>
     </div>

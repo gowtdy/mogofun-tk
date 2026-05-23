@@ -3,6 +3,7 @@ import { readFileSync, existsSync, statSync } from 'fs'
 import { join, resolve, dirname } from 'path'
 import { fileURLToPath } from 'url'
 import { getRequiredTranslationFiles, BASE_TRANSLATION_FILES, validLanguages } from '../../config/i18nConfig'
+import { shouldSkipLog } from '../utils/shouldSkipLog'
 
 // 已加载的翻译文件缓存（按语言和文件路径）
 // 存储文件内容和修改时间，用于开发环境的热重载
@@ -185,26 +186,6 @@ function loadTranslationFilesSync(
   return { translations, loadedFiles: loadedFileList, projectRoot: root }
 }
 
-/**
- * 仅跳过明确的静态资源请求；Nuxt 的 /_payload.json（及带语言前缀的路径）必须加载翻译，
- * 否则 event.context.i18nTranslations 为空，SSR 与 Nuxt i18n 插件会报 comm.* 缺失。
- */
-function shouldSkipTranslationLoad(pathname: string): boolean {
-  const p = (pathname || '').split('#')[0]
-  if (!p) return false
-
-  if (p.includes('/_payload.')) {
-    return false
-  }
-  if (p.endsWith('.html')) {
-    return false
-  }
-
-  return /\.(?:ico|png|jpe?g|gif|webp|svg|avif|css|js|mjs|map|woff2?|ttf|eot|txt|xml|json|webmanifest|wasm)$/i.test(
-    p
-  )
-}
-
 export default defineNitroPlugin((nitroApp) => {
   // 使用统一的语言配置
   const validLangs = [...validLanguages];
@@ -214,7 +195,7 @@ export default defineNitroPlugin((nitroApp) => {
     const url = event.req.url || ''
     const routePath = url.split('?')[0] // 移除查询参数
     
-    if (shouldSkipTranslationLoad(routePath ?? '')) {
+    if (shouldSkipLog(routePath ?? '')) {
       return
     }
     

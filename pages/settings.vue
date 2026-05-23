@@ -448,6 +448,14 @@ const fetchUserInfo = async () => {
           subType.value = 'Pro'
           subPeriod.value = 'Year'
           break;
+        case 'starter_onepay_month':
+          subType.value = 'Starter'
+          subPeriod.value = 'Month'
+          break; 
+        case 'pro_onepay_month':
+          subType.value = 'Pro'
+          subPeriod.value = 'Month'
+          break;
         default:
           subType.value = 'Free'
           subPeriod.value = 'Free'

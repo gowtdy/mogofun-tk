@@ -25,7 +25,6 @@
         <div class="flex-1 overflow-y-auto border border-gray-200 rounded-xl scrollable-container max-h-[500px]"
           ref="modelListContainer" @click="handleModelListClick" @scroll="handleListScroll">
           <div v-for="model in currentCatModels" :key="model.modelid" :data-model-id="model.modelid"
-            :ref="el => { if (model.modelid === selectedModel) selectedModelRef = el }"
             class="flex items-center p-4 cursor-pointer model-list-item transition-optimized hover:bg-gray-50 border-b border-gray-100 last:border-b-0"
             :class="[
               selectedModel === model.modelid
@@ -398,9 +397,29 @@ const currentCatModels = computed(() => {
 
 const selectedCategory = ref('')
 const selectedModel = ref(null)
+const modelListContainer = ref<HTMLElement | null>(null)
 
 // 添加初始化状态
 const isInitialized = ref(false)
+
+const scrollSelectedModelIntoView = () => {
+  if (!process.client || !selectedModel.value) return
+
+  nextTick(() => {
+    requestAnimationFrame(() => {
+      const container = modelListContainer.value
+      if (!container) return
+
+      const modelId = String(selectedModel.value)
+      const element = container.querySelector(
+        `[data-model-id="${CSS.escape(modelId)}"]`
+      ) as HTMLElement | null
+      if (!element) return
+
+      element.scrollIntoView({ block: 'nearest', behavior: 'auto' })
+    })
+  })
+}
 
 // 同步初始化函数，确保在模板渲染之前执行（服务端和客户端都会执行）
 const initializeFromProps = () => {
@@ -484,14 +503,7 @@ watch(
       // 标记为已初始化，isLoadingModels 计算属性会自动更新
       isInitialized.value = true
 
-      // 直接定位到选中项，不使用滚动动画
-      nextTick(() => {
-        if (selectedModelRef.value && modelListContainer.value) {
-          (selectedModelRef.value as HTMLElement).scrollIntoView({
-            block: 'nearest'
-          })
-        }
-      })
+      scrollSelectedModelIntoView()
     } catch (err) {
       reportError(err, `Models watch failed - pageUrl: ${pageUrl.value}`, uid.value, userEmail.value)
     }
@@ -517,6 +529,13 @@ watch(() => selectedModel.value, () => {
   convertedAudio.value = null
   if (audioPlayer.isPlaying.value) {
     audioPlayer.pauseAudio()
+  }
+  scrollSelectedModelIntoView()
+})
+
+watch(isLoadingModels, (loading, wasLoading) => {
+  if (wasLoading && !loading) {
+    scrollSelectedModelIntoView()
   }
 })
 
@@ -1062,6 +1081,7 @@ onMounted(() => {
     userStore.initUserState()
     isInitialized.value = true
     fetchUserSubscription()
+    scrollSelectedModelIntoView()
   })
 
   getGoogleSearchKeyword(pageUrl.value)
@@ -1074,28 +1094,6 @@ onMounted(() => {
 
 // 注意：服务端数据预取已由同步初始化函数 initializeFromProps() 处理
 // 该函数在 props 定义后立即执行，确保服务端和客户端状态一致
-
-const modelListContainer = ref(null)
-const selectedModelRef = ref(null)
-
-// 添加性能优化相关的变量
-const scrollTimeout = ref(null)
-
-// 模态框相关
-// const showCategoryModal = ref(false)
-
-watch(() => selectedModel.value, (newValue) => {
-  if (newValue) {
-    nextTick(() => {
-      if (selectedModelRef.value && modelListContainer.value) {
-        selectedModelRef.value.scrollIntoView({
-          behavior: 'auto',
-          block: 'nearest'
-        })
-      }
-    })
-  }
-})
 
 // 修改错误处理函数，添加更多上下文信息
 const handleUnhandledRejection = (event) => {
@@ -1222,46 +1220,8 @@ const handleCategorySelectOptimized = (catid) => {
 // 优化的模型选择处理函数
 const handleModelSelectOptimized = (modelId) => {
   const startTime = performance.now()
-  // 立即更新关键状态，不阻塞UI
   selectedModel.value = modelId
-
-  // 优化滚动处理，使用节流而不是防抖
-  if (scrollTimeout.value) {
-    clearTimeout(scrollTimeout.value)
-  }
-
-  // 使用较短的延迟提高响应性
-  scrollTimeout.value = setTimeout(() => {
-    // 分离DOM查询和滚动操作
-    const performScroll = () => {
-      const element = selectedModelRef.value
-      const container = modelListContainer.value
-
-      if (element && container && !isElementInViewport(element, container)) {
-        // 使用passive scrolling避免阻塞
-        element.scrollIntoView({
-          behavior: 'auto', // 移除smooth动画减少计算开销
-          block: 'nearest'
-        })
-      }
-
-      // 记录性能指标
-      performanceMetrics.value.modelSelectTime = performance.now() - startTime
-    }
-
-    // 使用 scheduler 或 requestAnimationFrame 确保在合适的时机执行
-    if (typeof scheduler !== 'undefined' && scheduler.postTask) {
-      scheduler.postTask(() => {
-        nextTick(performScroll)
-      }, { priority: 'background' })
-    } else {
-      requestAnimationFrame(() => {
-        nextTick(performScroll)
-      })
-    }
-
-    scrollTimeout.value = null
-  }, 8) // 减少延迟从10ms到8ms
+  performanceMetrics.value.modelSelectTime = performance.now() - startTime
 }
 
 // 使用事件代理的模型选择处理器
@@ -1287,22 +1247,6 @@ const handleListScroll = (event) => {
   }, 16) // 60fps
 }
 
-// 检查元素是否在容器可视区域内的工具函数
-const isElementInViewport = (element: HTMLElement, container: HTMLElement): boolean => {
-  if (!element || !container) return false
-
-  const elementRect = element.getBoundingClientRect()
-  const containerRect = container.getBoundingClientRect()
-
-  // 检查元素是否在容器的可视区域内
-  return (
-    elementRect.top >= containerRect.top &&
-    elementRect.bottom <= containerRect.bottom &&
-    elementRect.left >= containerRect.left &&
-    elementRect.right <= containerRect.right
-  )
-}
-
 // 处理分类变化的函数
 const handleCategoryChange = () => {
   // 当分类改变时，重置相关状态
@@ -1325,9 +1269,6 @@ const handleCategoryChange = () => {
 
 // 在组件卸载时清理
 onUnmounted(() => {
-  if (scrollTimeout.value) {
-    clearTimeout(scrollTimeout.value)
-  }
   if (scrollThrottleTimeout) {
     clearTimeout(scrollThrottleTimeout)
   }

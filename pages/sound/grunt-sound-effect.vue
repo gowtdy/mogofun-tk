@@ -1,5 +1,5 @@
 <template>
-  <SoundEffectPage page-key="grunt-sound-effct" />
+  <SoundEffectPage page-key="grunt-sound-effect" />
 </template>
 
 <script setup lang="ts">

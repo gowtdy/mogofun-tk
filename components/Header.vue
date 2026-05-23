@@ -62,6 +62,12 @@
                 title="Vocal Remover"
                 @click="showAudioMenu = false"
               >{{ $t('comm.vocalRemover') }}</NuxtLink>
+              <NuxtLink 
+                :to="localizedPath('/text-to-speech')" 
+                class="block px-4 py-2 hover:bg-gray-100 text-gray-700"
+                title="Text to Speech"
+                @click="showAudioMenu = false"
+              >{{ $t('comm.textToSpeech') }}</NuxtLink>
             </div>
           </div>
           <!-- 视频下拉框 -->
@@ -174,6 +180,12 @@
                 title="Vocal Remover"
                 @click="showAudioMenu = false"
               >{{ $t('comm.vocalRemover') }}</NuxtLink>
+              <NuxtLink 
+                :to="localizedPath('/text-to-speech')" 
+                class="block px-4 py-2 hover:bg-gray-100 text-gray-700"
+                title="Text to Speech"
+                @click="showAudioMenu = false"
+              >{{ $t('comm.textToSpeech') }}</NuxtLink>
             </div>
             <div class="space-y-2">
               <div class="font-medium text-gray-700">{{ $t('comm.video') }}</div>

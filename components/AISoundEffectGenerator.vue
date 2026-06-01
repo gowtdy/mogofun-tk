@@ -43,29 +43,30 @@
 
     <!-- 音频播放器 -->
     <div v-if="generatedSound" class="mt-6">
-      <div class="w-full">
-        <div class="vue-audio-player__wrapper rounded-xl overflow-hidden bg-white border border-gray-200 relative">
-          <VueAudioPlayer 
-            :audio-list="audioList" 
-            :is-loop="false"
-            @ended="handleAudioEnded"
-          />
-          <div 
-            class="vue-audio-player__download cursor-pointer hover:opacity-90 transition-all duration-200"
-            @click="downloadSound"
-          >
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="w-10 h-10" aria-hidden="true">
-              <defs>
-                <linearGradient id="downloadGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-                  <stop offset="0%" stop-color="#F1AC63"/>
-                  <stop offset="100%" stop-color="#D76FF4"/>
-                </linearGradient>
-              </defs>
-              <circle cx="12" cy="12" r="11" fill="url(#downloadGradient)"/>
-              <path d="M8 12l4 4 4-4M12 16V8" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
-            </svg>
-          </div>
-        </div>
+      <div class="vue-audio-player__wrapper vue-audio-player__wrapper--bar rounded-xl bg-white border border-gray-200">
+        <VueAudioPlayer
+          class="vue-audio-player--bar"
+          :audio-list="audioList"
+          :is-loop="false"
+          theme-color="#D76FF4"
+          @ended="handleAudioEnded"
+        />
+        <button
+          type="button"
+          class="vue-audio-player__download shrink-0 cursor-pointer hover:opacity-90 transition-all duration-200"
+          @click="downloadSound"
+        >
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true">
+            <defs>
+              <linearGradient id="downloadGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+                <stop offset="0%" stop-color="#F1AC63"/>
+                <stop offset="100%" stop-color="#D76FF4"/>
+              </linearGradient>
+            </defs>
+            <circle cx="12" cy="12" r="11" fill="url(#downloadGradient)"/>
+            <path d="M8 12l4 4 4-4M12 16V8" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+          </svg>
+        </button>
       </div>
     </div>
   </div>
@@ -590,96 +591,3 @@ const handleAudioEnded = () => {
   isPlaying.value = false
 }
 </script>
-
-<style scoped>
-.vue-audio-player__wrapper {
-  position: relative;
-  min-height: 64px;
-  display: flex;
-  align-items: center;
-  padding: 0.75rem;
-  background: white;
-}
-
-:deep(.vue-audio-player) {
-  width: calc(100% - 36px);
-  margin-right: 36px;
-  padding: 0.5rem;
-}
-
-:deep(.vue-audio-player .audio-player) {
-  background: transparent;
-  box-shadow: none;
-  padding: 0;
-}
-
-:deep(.vue-audio-player .audio-player .controls-wrap) {
-  padding: 0;
-  display: flex;
-  align-items: center;
-  gap: 0.25rem;
-}
-
-:deep(.vue-audio-player .audio-player .controls-wrap .play-button) {
-  width: 40px !important;
-  height: 40px !important;
-  min-width: 40px !important;
-  border-radius: 50% !important;
-  background: linear-gradient(to right, #F1AC63, #D76FF4) !important;
-  display: flex !important;
-  align-items: center !important;
-  justify-content: center !important;
-  transition: opacity 0.2s !important;
-  padding: 0 !important;
-  border: none !important;
-  position: relative !important;
-  z-index: 5 !important;
-  margin-right: -1rem !important;
-}
-
-:deep(.vue-audio-player .audio-player .controls-wrap .play-button svg) {
-  width: 24px !important;
-  height: 24px !important;
-  fill: white !important;
-}
-
-:deep(.vue-audio-player .audio-player .controls-wrap .play-button:hover) {
-  opacity: 0.9;
-}
-
-:deep(.vue-audio-player .audio-player .progress-bar-wrap) {
-  margin: 0 0.75rem;
-  flex: 1;
-}
-
-:deep(.vue-audio-player .audio-player .progress-bar-wrap .progress-bar) {
-  background: linear-gradient(to right, #F1AC63, #D76FF4);
-  height: 6px;
-  border-radius: 3px;
-}
-
-:deep(.vue-audio-player .audio-player .progress-bar-wrap .progress-bar .progress) {
-  background: white;
-  box-shadow: 0 0 4px rgba(0, 0, 0, 0.2);
-}
-
-:deep(.vue-audio-player .audio-player .time) {
-  color: #6B7280;
-  font-size: 0.875rem;
-  min-width: 45px;
-  text-align: center;
-}
-
-.vue-audio-player__download {
-  position: absolute;
-  right: 0.25rem;
-  top: 50%;
-  transform: translateY(-50%);
-  z-index: 10;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 40px;
-  height: 40px;
-}
-</style>

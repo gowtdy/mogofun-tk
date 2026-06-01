@@ -163,29 +163,32 @@
         </button>
 
         <!-- 生成成功后的音频控制组件 -->
-        <div v-if="convertedAudio" class="mt-6 flex gap-4">
-          <div class="w-full" style="margin-left: 10px">
-            <div class="vue-audio-player__wrapper">
-              <VueAudioPlayer :audio-list="audioList" />
-              <div class="vue-audio-player__download" @click="handleDownload">
-                <slot name="play-start">
-                  <svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080"
-                    xml:space="preserve" aria-hidden="true">
-                    <defs>
-                      <linearGradient :id="downloadGradientId" x1="0%" y1="0%" x2="100%" y2="100%">
-                        <stop offset="0%" stop-color="#F1AC63" />
-                        <stop offset="100%" stop-color="#D76FF4" />
-                      </linearGradient>
-                    </defs>
-                    <path transform="translate(28 28)"
-                      d="M512 8.98c277.815 0 503.02 225.205 503.02 503.02S789.816 1015.02 512 1015.02 8.98 789.816 8.98 512 234.184 8.98 512 8.98"
-                      :fill="`url(#${downloadGradientId})`" />
-                    <path style="stroke:#fff;stroke-width:2" transform="translate(277.92 277.92)scale(21.84)"
-                      d="M21 21H3m15-10-6 6m0 0-6-6m6 6V3" stroke-linecap="round" />
-                  </svg>
-                </slot>
-              </div>
-            </div>
+        <div v-if="convertedAudio" class="mt-6">
+          <div class="vue-audio-player__wrapper vue-audio-player__wrapper--bar rounded-xl bg-white border border-gray-200">
+            <VueAudioPlayer
+              class="vue-audio-player--bar"
+              :audio-list="audioList"
+              theme-color="#D76FF4"
+            />
+            <button
+              type="button"
+              class="vue-audio-player__download shrink-0 hover:opacity-90 transition-all duration-200"
+              @click="handleDownload"
+            >
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" xml:space="preserve" aria-hidden="true">
+                <defs>
+                  <linearGradient :id="downloadGradientId" x1="0%" y1="0%" x2="100%" y2="100%">
+                    <stop offset="0%" stop-color="#F1AC63" />
+                    <stop offset="100%" stop-color="#D76FF4" />
+                  </linearGradient>
+                </defs>
+                <path transform="translate(28 28)"
+                  d="M512 8.98c277.815 0 503.02 225.205 503.02 503.02S789.816 1015.02 512 1015.02 8.98 789.816 8.98 512 234.184 8.98 512 8.98"
+                  :fill="`url(#${downloadGradientId})`" />
+                <path style="stroke:#fff;stroke-width:2" transform="translate(277.92 277.92)scale(21.84)"
+                  d="M21 21H3m15-10-6 6m0 0-6-6m6 6V3" stroke-linecap="round" />
+              </svg>
+            </button>
           </div>
         </div>
       </div>
@@ -1487,30 +1490,6 @@ if (process.dev) {
 
 .voice-categories-wrapper .flex::-webkit-scrollbar {
   display: none;
-}
-
-.vue-audio-player__wrapper {
-  display: flex;
-}
-
-.vue-audio-player__download {
-  margin: 0 6px;
-  cursor: pointer;
-  touch-action: none;
-  user-select: none;
-  -webkit-user-drag: none;
-  width: 45px;
-  ;
-}
-
-.vue-audio-player__download svg {
-  display: block;
-  width: 45px;
-  height: 45px;
-}
-
-.vue-audio-player__download svg path {
-  /* 不覆盖 SVG 内部的 fill 属性，让渐变填充正常显示 */
 }
 
 .scrollable-container {

@@ -158,7 +158,7 @@ CONFIG = SitemapConfig(
         # 静态信息页
         "static": {
             "paths": [
-                "about-us", "pricing", "privacy-policy", "terms-service", "refund-policy", "dmca-policy",
+                "about", "pricing", "privacy-policy", "terms-service", "refund-policy", "dmca-policy",
             ],
             "priority": PriorityLevel.MEDIUM.value,
             "changefreq": "monthly",

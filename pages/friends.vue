@@ -23,5 +23,9 @@ const friendLinks = ref([
   { title: 'pixnet', url: 'https://keychtouch.pixnet.net/blog/posts/900657311119583110' },
   { title: 'chtouch', url: 'https://chtouch.com/mogofun-tiktok-voice-generator/' },
   { title: 'cal', url: 'https://cal.com/benjamin-carter-mogofun' },
+  { title: 'aitools', url: 'https://aitools.inc/tools/tiktok-voice-generator/go/website' },
+  { title: 'dpdns', url: 'https://xiaoluo3.dpdns.org/wap/deal.php?code=lxBbi&dataID=22054&mudi=download&point=0' },
+  { title: 'notion', url: 'https://goofy-scarf-8ca.notion.site/API-handbook-of-MoGoFun-15154f4a5c9a80d78e79d04d2bbd4f60' },
+  { title: 'w2solo', url: 'https://w2solo.com/topics/4908' },
 ])
 </script>

@@ -35,6 +35,7 @@ export const PAGE_ROUTE_OVERRIDES = [
   { from: '/tts/mans-voice', to: '/mans-voice' },
   { from: '/tts/men-voice', to: '/men-voice' },
   { from: '/tts/natural-reader-tts', to: '/natural-reader-tts' },
+  { from: '/tts/natural-reader-text-to-speech', to: '/natural-reader-text-to-speech' },
   { from: '/tts/natural-reader', to: '/natural-reader' },
   { from: '/tts/natural-readers', to: '/natural-readers' },
   { from: '/tts/naturalreader', to: '/naturalreader' },

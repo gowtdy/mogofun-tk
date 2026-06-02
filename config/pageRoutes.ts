@@ -205,6 +205,7 @@ export const PAGE_ROUTE_OVERRIDES = [
   { from: '/sound/funny-sound-effects', to: '/funny-sound-effects' },
   { from: '/sound/funny-sounds', to: '/funny-sounds' },
   { from: '/sound/funny-sounds-effects', to: '/funny-sounds-effects' },
+  { from: '/sound/funny-sounqds-effects', to: '/funny-sounqds-effects' },
   { from: '/sound/girl-moan', to: '/girl-moan' },
   { from: '/sound/girls-moan', to: '/girls-moan' },
   { from: '/sound/groan-sound', to: '/groan-sound' },

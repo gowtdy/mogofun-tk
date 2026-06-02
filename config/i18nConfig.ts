@@ -243,6 +243,7 @@ export const translationFilesConfig: TranslationFileConfig[] = [
   { file: 'sound/funny-sound-effects.json', group: 'sound', route: 'funny-sound-effects' },
   { file: 'sound/funny-sound.json', group: 'sound', route: 'funny-sound' },
   { file: 'sound/funny-sounds-effects.json', group: 'sound', route: 'funny-sounds-effects' },
+  { file: 'sound/funny-sounqds-effects.json', group: 'sound', route: 'funny-sounqds-effects' },
   { file: 'sound/funny-sounds.json', group: 'sound', route: 'funny-sounds' },
   { file: 'sound/girl-moan.json', group: 'sound', route: 'girl-moan' },
   { file: 'sound/girls-moan.json', group: 'sound', route: 'girls-moan' },

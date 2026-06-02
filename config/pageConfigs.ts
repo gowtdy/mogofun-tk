@@ -348,6 +348,18 @@ const pageConfigs: Record<string, PageConfig> = {
     defaultCategory: 'spain',
     defaultModel: 'es-female-alejandra',
     hrefPath: 'spanish-tts'
+  },
+  "natural-reader-tts": {
+    pageKey: "natural-reader-tts",
+    defaultCategory: 'english',
+    defaultModel: 'adamm-male',
+    hrefPath: 'natural-reader-tts'
+  },
+  "natural-reader-text-to-speech": {
+    pageKey: "natural-reader-text-to-speech",
+    defaultCategory: 'english',
+    defaultModel: 'adamm-male',
+    hrefPath: 'natural-reader-text-to-speech'
   }
 }
 

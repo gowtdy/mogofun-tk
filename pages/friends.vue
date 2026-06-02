@@ -22,5 +22,6 @@ const friendLinks = ref([
   { title: 'thosefree', url: 'https://www.thosefree.com/tiktokvoice' },
   { title: 'pixnet', url: 'https://keychtouch.pixnet.net/blog/posts/900657311119583110' },
   { title: 'chtouch', url: 'https://chtouch.com/mogofun-tiktok-voice-generator/' },
+  { title: 'cal', url: 'https://cal.com/benjamin-carter-mogofun' },
 ])
 </script>

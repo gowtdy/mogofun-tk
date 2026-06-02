@@ -66,6 +66,7 @@ export const translationFilesConfig: TranslationFileConfig[] = [
   { file: 'tts/man-voice.json', group: 'tts', route: 'man-voice' },
   { file: 'tts/man-voices.json', group: 'tts', route: 'man-voices' },
   { file: 'tts/mans-voice.json', group: 'tts', route: 'mans-voice' },
+  { file: 'tts/a-mans-voice.json', group: 'tts', route: 'a-mans-voice' },
   { file: 'tts/men-voice.json', group: 'tts', route: 'men-voice' },
   { file: 'tts/natural-reader-tts.json', group: 'tts', route: 'natural-reader-tts' },
   { file: 'tts/natural-reader-text-to-speech.json', group: 'tts', route: 'natural-reader-text-to-speech' },

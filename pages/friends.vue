@@ -32,7 +32,7 @@ const friendLinks = ref([
   { title: 'zhihu', url: 'https://link.zhihu.com/?target=https%3A%2F%2Fmogofun.com' },
   { title: 'scamadviser', url: 'https://www.scamadviser.com/check-website/mogofun.com' },
   { title: 'scam-detector', url: 'https://www.scam-detector.com/validator/mogofun-com-review/' },
-  { title: 'gridinsoft', url" 'https://gridinsoft.com/online-virus-scanner/url/mogofun-com' },
+  { title: 'gridinsoft', url: 'https://gridinsoft.com/online-virus-scanner/url/mogofun-com' },
   { title: 'reddit', url: 'https://www.reddit.com/r/chtouch_com/comments/1tpxbcs/mogofun_tiktok_%E8%AA%9E%E9%9F%B3%E7%94%9F%E6%88%90%E5%99%A8%E7%94%9F%E6%88%90%E5%90%84%E7%A8%AE_tiktok_%E8%B6%A3%E5%91%B3_ai_%E8%AA%9E%E9%9F%B3%E5%A4%9A%E7%A8%AE%E8%A7%92%E8%89%B2%E5%AE%8C%E5%85%A8%E5%85%8D%E8%B2%BB/' },
   { title: 'magicly', url: 'https://magic.ly/mogofun' },
   { title: 'linktr', url: 'https://linktr.ee/bejamin1995' },

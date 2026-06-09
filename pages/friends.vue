@@ -46,5 +46,9 @@ const friendLinks = ref([
   { title: 'deepseek', url: 'https://chat.deepseek.com/share/98vo8wj4pge8o4eeqk' },
   { title: 'gemini', url: 'https://gemini.google.com/share/8675c3cfe16d' },
   { title: 'kit', url: 'https://mogofun.kit.com/' },
+  { title: 'accio', url: 'https://www.accio.com/share/6d8dde21566546d59b3e6fbd87a2f766?language=zh_CN&langRedirect=1' },
+  { title: 'krisp', url: 'https://voice-ai-newsletter.krisp.ai/p/gpt-voice-vs-human-agents/comments' },
+  { title: 'cokeep', url: 'https://cokeep.me/spaces/FyELfz7Fi' },
+  { title: 'storeboard', url: 'https://www.storeboard.com/benjamincarter2' },
 ])
 </script>

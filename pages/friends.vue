@@ -50,5 +50,8 @@ const friendLinks = ref([
   { title: 'krisp', url: 'https://voice-ai-newsletter.krisp.ai/p/gpt-voice-vs-human-agents/comments' },
   { title: 'cokeep', url: 'https://cokeep.me/spaces/FyELfz7Fi' },
   { title: 'storeboard', url: 'https://www.storeboard.com/benjamincarter2' },
+  { title: 'heylink', url: 'https://heylink.me/mogofun' },
+  { title: 'issuu', url: 'https://issuu.com/mogofun' },
+  { title: 'flickr', url: 'https://www.flickr.com/photos/204668319@N07/55328599030/in/dateposted-public/' },
 ])
 </script>

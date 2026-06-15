@@ -46,5 +46,7 @@ const friendLinks = ref([
   { title: 'heylink', url: 'https://heylink.me/mogofun' },
   { title: 'issuu', url: 'https://issuu.com/mogofun' },
   { title: 'flickr', url: 'https://www.flickr.com/photos/204668319@N07/55328599030/in/dateposted-public/' },
+  { title: 'mozilla', url: 'https://addons.mozilla.org/zh-CN/firefox/user/19985748/' },
+  { title: 'producthunt', url: 'https://www.producthunt.com/products/tiktok-voice' },
 ])
 </script>

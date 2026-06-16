@@ -48,5 +48,7 @@ const friendLinks = ref([
   { title: 'flickr', url: 'https://www.flickr.com/photos/204668319@N07/55328599030/in/dateposted-public/' },
   { title: 'mozilla', url: 'https://addons.mozilla.org/zh-CN/firefox/user/19985748/' },
   { title: 'producthunt', url: 'https://www.producthunt.com/products/tiktok-voice' },
+  { title: 'substack', url: 'https://substack.com/@zackreed' },
+  { title: 'vocus', url: 'https://vocus.cc/article/6a31513efd897800013fa2c4' },
 ])
 </script>

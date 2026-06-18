@@ -17,6 +17,8 @@
 const friendLinks = ref([
   { title: 'medium', url: 'https://medium.com/@tiktokaivoicetool/5%E4%B8%AA%E6%9C%80%E4%BD%B3%E5%85%8D%E8%B4%B9ai%E9%9F%B3%E6%95%88%E7%94%9F%E6%88%90%E5%99%A8%E6%8E%A8%E8%8D%90-ad53838a64c7' },
   { title: 'url tw', url: 'https://myshare.url.com.tw/note/2428720' },
+  { title: 'aivoicelab', url: 'https://aivoicelab.net' },
+  { title: 'tiktokvoice', url: 'https://tiktokvoice.net' },
   { title: 'thosefree', url: 'https://www.thosefree.com/tiktokvoice' },
   { title: 'pixnet', url: 'https://keychtouch.pixnet.net/blog/posts/900657311119583110' },
   { title: 'chtouch', url: 'https://chtouch.com/mogofun-tiktok-voice-generator/' },
@@ -54,5 +56,6 @@ const friendLinks = ref([
   { title: 'promoteproject', url: 'https://www.promoteproject.com/startup/180288/ai-sound-effects-generator' },
   { title: 'smartcustomer', url: 'https://www.smartcustomer.com/reviews/mogofun.com' },
   { title: 'okjike', url: 'https://web.okjike.com/u/8FE4B399-E4C9-4F6D-879E-9B772C5E6B60/post/6a33a036228d9ca1695591f1' },
+  { title: 'mogofun', url: 'https://www.saashub.com/mogofun' },
 ])
 </script>

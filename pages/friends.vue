@@ -50,5 +50,9 @@ const friendLinks = ref([
   { title: 'producthunt', url: 'https://www.producthunt.com/products/tiktok-voice' },
   { title: 'substack', url: 'https://substack.com/@zackreed' },
   { title: 'vocus', url: 'https://vocus.cc/article/6a31513efd897800013fa2c4' },
+  { title: 'castle', url: 'https://castle.xyz/@benjamincarter2000' },
+  { title: 'promoteproject', url: 'https://www.promoteproject.com/startup/180288/ai-sound-effects-generator' },
+  { title: 'smartcustomer', url: 'https://www.smartcustomer.com/reviews/mogofun.com' },
+  { title: 'okjike', url: 'https://web.okjike.com/u/8FE4B399-E4C9-4F6D-879E-9B772C5E6B60/post/6a33a036228d9ca1695591f1' },
 ])
 </script>

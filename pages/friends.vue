@@ -56,6 +56,13 @@ const friendLinks = ref([
   { title: 'promoteproject', url: 'https://www.promoteproject.com/startup/180288/ai-sound-effects-generator' },
   { title: 'smartcustomer', url: 'https://www.smartcustomer.com/reviews/mogofun.com' },
   { title: 'okjike', url: 'https://web.okjike.com/u/8FE4B399-E4C9-4F6D-879E-9B772C5E6B60/post/6a33a036228d9ca1695591f1' },
-  { title: 'mogofun', url: 'https://www.saashub.com/mogofun' },
+  { title: 'saashub', url: 'https://www.saashub.com/mogofun' },
+  { title: 'extensionauditor', url: 'https://extensionauditor.com/scan/soup-soul-jancllhbflebcmlajilcpgombdjookij' },
+  { title: 'skywork', url: 'https://skywork.ai/project/1992544322795425792' },
+  { title: 'velog', url: 'https://velog.io/@mogofun/posts' },
+  { title: 'crxsoso', url: 'https://www.crxsoso.com/webstore/detail/jancllhbflebcmlajilcpgombdjookij' },
+  { title: 'vsw', url: 'http://domain.vsw.jp/mogofun.com/' },
+  { title: 'devpost', url: 'https://devpost.com/tiktokaivoicetool' },
+  { title: 'patreon', url: 'https://www.patreon.com/mogofun/posts/mogofun-tiktok-162702866' },
 ])
 </script>

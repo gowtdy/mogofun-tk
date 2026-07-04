@@ -1,0 +1,18 @@
+# MoGoFun
+> MoGoFun is a TikTok voice generator, Generate funny TikTok AI Voices. It supports TikTok tts and  TikTok text to speech over thousands of styles in 20+ languages funny voice.
+
+Mogofun offers TikTok voice generation, AI sound effects. Instantly generate unique voice and sound for video, podcasts and more.
+## Features
+- [TikTok Voice Generator](https://mogofun.com): Generate funny TikTok AI Voices with our text to speech technology
+- [TikTok Text to Speech](https://mogofun.com/en/text-to-speech): TikTok text to speech Online helps you create TikTok voices for your social media
+- [TikTok AI Voice](https://mogofun.com/en/tiktok-ai-voice): Create funny TikTok AI Voice over thousands of styles in 20+ languages
+- [TikTok Voice Over](https://mogofun.com/en/tiktok-voice-over): TikTok Voice Over Generator, Add Voice Overs to TikTok Videos
+- [Funny TTS](https://mogofun.com/en/funny-tts): Transform any funny text to speech with our funny tts technology
+- [Siri Voice Generator](https://mogofun.com/en/siri): Transform any text to Siri voice with our advance text to speech technology
+- [AI Character Voice Generator](https://mogofun.com/en/ai-character-voice-generator): AI character voice generator includes popular characters like Darth Vader, Elsa, C3PO, and more
+- [CapCut Voice Over](https://mogofun.com/en/capcut-voice-over): Create professional CapCut voice overs with our advance AI voice generator
+- [AI Sound Effect Generator](https://mogofun.com/en/sounds-effect): Create unique sound effects with AI text to SFX technology
+
+## Support
+- [Contact Us](https://mogofun.com/en/about-us): Contact our team for help
+- [Support](mailto:support@mogofun.com): Email support

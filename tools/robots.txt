@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+Disallow: /blog/admin/
+
+Sitemap: https://mogofun.com/sitemap.xml
+
+User-agent: GPTBot
+User-agent: Claude-Web
+User-agent: Anthropic-AI
+User-agent: PerplexityBot
+User-agent: GoogleOther
+User-agent: DuckAssistBot
+
+Allow: /

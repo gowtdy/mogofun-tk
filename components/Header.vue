@@ -10,8 +10,20 @@
             title="TikTok Voice Generator - home"
             aria-label="TikTok text to speech"
           >
-            <img :src="cdnHost + '/img/mogofun_logo.svg'" alt="TikTok AI voice Logo" width="55" height="50" class="h-12 w-auto mr-3" />
-            <img :src="cdnHost + '/img/mogofun_word.svg'" alt="TikTok text to speech" width="115" height="30" class="h-8 w-auto" />
+            <img
+              :src="cdnHost + '/img/mogofun_logo.svg'"
+              alt="TikTok AI voice Logo"
+              width="48"
+              height="48"
+              class="h-12 w-[55px]"
+            />
+            <img
+              :src="cdnHost + '/img/mogofun_word.svg'"
+              alt="TikTok text to speech"
+              width="115"
+              height="48"
+              class="h-12 w-[115px]"
+            />
           </NuxtLink>
         </div>
         
@@ -92,7 +104,10 @@
               @mouseenter="handleVideoMenuEnter"
               @mouseleave="handleVideoMenuLeave"
             >
-              <NuxtLink :to="localizedPath('/audio-extractor')" class="block px-4 py-2 hover:bg-gray-100 text-gray-700">{{ $t('comm.audioExtraction') }}</NuxtLink>
+              <NuxtLink :to="localizedPath('/audio-extractor')" 
+                class="block px-4 py-2 hover:bg-gray-100 text-gray-700"
+                title="audio extractor"
+                >{{ $t('comm.audioExtraction') }}</NuxtLink>
             </div>
           </div>
           <!-- More下拉框 -->

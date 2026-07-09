@@ -34,7 +34,7 @@
           <ul class="space-y-2">
             <li>
               <NuxtLink 
-                :to="localizedPath('/about-us')" 
+                :to="localizedPath('/about')" 
                 title="About Us" 
                 class="hover:text-primary"
               >{{ $t('comm.aboutUs') }}</NuxtLink>

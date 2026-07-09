@@ -1,6 +1,7 @@
 <template>
   <div class="relative inline-block">
     <select v-model="locale" 
+      aria-label="TikTok text to speech select language"
       @change="changeLanguage(locale)"
       class="appearance-none bg-white border border-gray-300 rounded px-3 pr-8 py-2 h-10 focus:ring-2 focus:ring-primary focus:border-primary min-w-[120px]">
       <option v-for="lang in LOCALES" :key="lang.code" :value="lang.code">

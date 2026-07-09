@@ -1,6 +1,8 @@
 <template>
   <div>
-    <slot />
+    <main id="main-content">
+      <slot />
+    </main>
     <FooterForLink v-if="showFooter" />
   </div>
 </template>

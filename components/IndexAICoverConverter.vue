@@ -587,25 +587,28 @@ const ttsText = ref('')
 // 预设文案相关
 const selectedPreset = ref('')
 
+const PRESET_IDS = ['greetings', 'emotions', 'actions', 'stories']
+
+const getDefaultPresets = () =>
+  PRESET_IDS.map((id) => ({
+    id,
+    label: t(`ai_cover.converter.presets.items.${id}.label`),
+    text: t(`ai_cover.converter.presets.items.${id}.text`),
+  }))
+
 // 根据模型 ID 精确匹配获取角色预设
 const getCharacterPresetsForModel = (modelId) => {
   if (!modelId) return []
-  
-  // 直接用模型 ID 查询，精确匹配
+
   const presets = getCharacterPresets(modelId, locale.value)
   if (presets && presets.length > 0) return presets
-  
-  // 兜底：如果找不到对应的预设，返回默认文案
-  return [
-    { id: 'greetings', label: 'TikTok Video', text: "Hey TikTok! Today I'm going to show you something amazing that will blow your mind.Follow along and don't forget to like and share..." },
-    { id: 'emotions', label: 'Game Ad', text: "Enter a world of endless possibilities! Experience epic battles, stunning graphics, and thrilling adventures in this groundbreaking new game..." },
-    { id: 'actions', label: 'AudioBook', text: "Chapter One: The morning sun cast long shadows across the quiet street, as Sarah stepped out of her house, unaware that this ordinary day would change everything..." },
-    { id: 'stories', label: 'Voicemail', text: "Hi, I'm currently unavailable to take your call. Please leave your name, number, and a brief message, and I'll get back to you as soon as possible. Thank you!" }
-  ]
+
+  return getDefaultPresets()
 }
 
 // 根据当前选择的模型生成预设分类
 const presets_categories = computed(() => {
+  void locale.value
   const selectedModelData = currentCatModels.value.find(m => m.modelid === selectedModel.value)
   if (!selectedModelData) return []
 
@@ -618,6 +621,7 @@ const presets_categories = computed(() => {
 
 // 根据当前选择的模型生成预设文本
 const presets_category_texts = computed(() => {
+  void locale.value
   const selectedModelData = currentCatModels.value.find(m => m.modelid === selectedModel.value)
   if (!selectedModelData) return []
 

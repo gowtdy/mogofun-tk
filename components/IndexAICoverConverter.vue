@@ -361,8 +361,6 @@ const audioList = ref([])
 const uploadedAudioList = ref([])
 const selectedGender = ref('') // 移除默认选择
 
-const selectedLanguage = ref('english')
-
 // 生成唯一的渐变 ID，避免多个实例冲突
 const downloadGradientId = ref(`download-gradient-${Math.random().toString(36).substr(2, 9)}`)
 
@@ -594,7 +592,7 @@ const getCharacterPresetsForModel = (modelId) => {
   if (!modelId) return []
   
   // 直接用模型 ID 查询，精确匹配
-  const presets = getCharacterPresets(modelId, selectedLanguage.value)
+  const presets = getCharacterPresets(modelId, locale.value)
   if (presets && presets.length > 0) return presets
   
   // 兜底：如果找不到对应的预设，返回默认文案
@@ -629,7 +627,7 @@ const presets_category_texts = computed(() => {
 
 // 监听模型选择变化，更新预设
 watch(
-  [() => selectedModel.value, () => selectedLanguage.value],
+  [() => selectedModel.value, () => locale.value],
   ([newModel, newLanguage]) => {
     if (newModel && presets_categories.value.length > 0) {
       // 保持当前选中的预设类型，如果不存在则选择第一个

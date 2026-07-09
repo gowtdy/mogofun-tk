@@ -1,23 +1,6 @@
 import { defineNitroPlugin } from 'nitropack/runtime/plugin'
 import { validLanguages } from '../../config/i18nConfig'
-
-// 根据语言选择默认语言的语音模型。
-const lang2SelectLang = {
-  'en': 'english',
-  'ja': 'japan',
-  'zh': 'china',
-  'zh-tw': 'china',
-  'fr': 'france',
-  'de': 'germany',
-  'es': 'spain',
-  'ru': 'russia',
-  'ko': 'korea',
-  'pt': 'portugal',
-  'ar': 'arab', 
-  'it': 'italy',
-  'nl': 'holland',
-  'pl': 'poland'
-}
+import { getVoiceCategoryForLocale } from '../../config/localeToVoiceCategory'
 
 export default defineNitroPlugin((nitroApp) => {
   // 使用统一的语言配置
@@ -52,8 +35,9 @@ export default defineNitroPlugin((nitroApp) => {
     // 将检测到的语言添加到事件上下文中
     event.context.lang = navlang;
 
-    if (navlang in lang2SelectLang) {
-      selectedLanguage = lang2SelectLang[navlang];
+    const mappedCategory = getVoiceCategoryForLocale(navlang)
+    if (mappedCategory) {
+      selectedLanguage = mappedCategory
     }
     
     // Add selectedLanguage to the event context

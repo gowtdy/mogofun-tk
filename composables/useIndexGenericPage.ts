@@ -9,6 +9,7 @@ import { useErrorReporter } from '~/composables/errorReporter'
 import { useFAQs } from '~/composables/useFAQs'
 import { config } from '~/config/config'
 import { useNuxtApp } from '#app'
+import { resolveVoiceCategory, resolveVoiceModel } from '~/config/localeToVoiceCategory'
 
 interface UseIndexGenericPageOptions {
   pageKey: string
@@ -46,9 +47,25 @@ export function useIndexGenericPage(options: UseIndexGenericPageOptions) {
     return locale.value
   })
 
-  // 默认分类和模型
-  const defaultCategory = ref(options.defaultCategory || 'english')
-  const defaultModel = ref(options.defaultModel || 'voice-lady-female')
+  // 默认分类和模型（页面配置原始值）
+  const pageDefaultCategory = options.defaultCategory || 'english'
+  const pageDefaultModel = options.defaultModel || 'voice-lady-female'
+
+  const resolvedDefaultCategory = computed(() => {
+    const models = voiceModels.value
+    if (!Array.isArray(models) || models.length === 0) {
+      return pageDefaultCategory
+    }
+    return resolveVoiceCategory(locale.value, models, pageDefaultCategory)
+  })
+
+  const resolvedDefaultModel = computed(() => {
+    const models = voiceModels.value
+    if (!Array.isArray(models) || models.length === 0) {
+      return pageDefaultModel
+    }
+    return resolveVoiceModel(resolvedDefaultCategory.value, models, pageDefaultModel)
+  })
 
   // 语音模型数据 - 使用 getCachedData 在客户端导航时强制刷新
   const nuxtApp = useNuxtApp()
@@ -108,18 +125,6 @@ export function useIndexGenericPage(options: UseIndexGenericPageOptions) {
       }
     }
   }, { immediate: false })
-
-  // 监听数据变化，设置默认值
-  watch(() => voiceModels.value, (newValue) => {
-    if (newValue && Array.isArray(newValue) && newValue.length > 0) {
-      if (!defaultCategory.value && newValue[0]) {
-        defaultCategory.value = newValue[0].catid
-        if (newValue[0].options?.length > 0) {
-          defaultModel.value = newValue[0].options[0].modelid
-        }
-      }
-    }
-  }, { immediate: true })
 
   // FAQ
   const { faqs } = useFAQs(
@@ -205,8 +210,8 @@ export function useIndexGenericPage(options: UseIndexGenericPageOptions) {
     // 数据
     pageTitle,
     voiceModels,
-    defaultCategory,
-    defaultModel,
+    resolvedDefaultCategory,
+    resolvedDefaultModel,
     faqs,
     isLoggedIn,
     

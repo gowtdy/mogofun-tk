@@ -238,6 +238,8 @@ import AudioUploader from '~/components/AudioUploader.vue'
 import { useGoogleSearchKeyword } from '~/composables/useGoogleSearchKeyword'
 import { useRequestEvent } from '#app'
 import { config } from '~/config/config'
+import { getPresetLocaleForVoiceCategory } from '~/config/localeToVoiceCategory'
+import { loadPresetsForLocale } from '~/composables/usePresetLocaleMessages'
 import { usePageErrorHandler } from '~/composables/usePageErrorHandler';
 import { useRoute, useRouter } from 'vue-router';
 import type { Model, VoiceModel, Category } from '~/types';
@@ -586,29 +588,33 @@ const ttsText = ref('')
 
 // 预设文案相关
 const selectedPreset = ref('')
+const defaultPresets = ref([])
 
-const PRESET_IDS = ['greetings', 'emotions', 'actions', 'stories']
+const presetLocale = computed(() =>
+  getPresetLocaleForVoiceCategory(selectedCategory.value, locale.value)
+)
 
-const getDefaultPresets = () =>
-  PRESET_IDS.map((id) => ({
-    id,
-    label: t(`ai_cover.converter.presets.items.${id}.label`),
-    text: t(`ai_cover.converter.presets.items.${id}.text`),
-  }))
+watch(presetLocale, async (targetLocale) => {
+  const presets = await loadPresetsForLocale(targetLocale, t, locale.value)
+  if (presetLocale.value !== targetLocale) return
+  if (presets.length > 0) {
+    defaultPresets.value = presets
+  }
+}, { immediate: true })
 
 // 根据模型 ID 精确匹配获取角色预设
 const getCharacterPresetsForModel = (modelId) => {
   if (!modelId) return []
 
-  const presets = getCharacterPresets(modelId, locale.value)
+  const presets = getCharacterPresets(modelId, presetLocale.value)
   if (presets && presets.length > 0) return presets
 
-  return getDefaultPresets()
+  return defaultPresets.value
 }
 
 // 根据当前选择的模型生成预设分类
 const presets_categories = computed(() => {
-  void locale.value
+  void defaultPresets.value
   const selectedModelData = currentCatModels.value.find(m => m.modelid === selectedModel.value)
   if (!selectedModelData) return []
 
@@ -621,7 +627,7 @@ const presets_categories = computed(() => {
 
 // 根据当前选择的模型生成预设文本
 const presets_category_texts = computed(() => {
-  void locale.value
+  void defaultPresets.value
   const selectedModelData = currentCatModels.value.find(m => m.modelid === selectedModel.value)
   if (!selectedModelData) return []
 
@@ -629,30 +635,31 @@ const presets_category_texts = computed(() => {
   return presets.map(preset => [preset.id, preset.text])
 })
 
+const refreshPresetText = () => {
+  if (!selectedModel.value || presets_categories.value.length === 0) return
+
+  const currentPresetId = selectedPreset.value
+  const availablePresetIds = presets_categories.value.map(p => p.id)
+
+  if (availablePresetIds.includes(currentPresetId)) {
+    const currentPreset = presets_category_texts.value.find(item => item[0] === currentPresetId)
+    if (currentPreset) {
+      ttsText.value = currentPreset[1] || ''
+    }
+  } else {
+    selectedPreset.value = presets_categories.value[0]?.id || ''
+    const firstPreset = presets_category_texts.value.find(item => item[0] === selectedPreset.value)
+    if (firstPreset) {
+      ttsText.value = firstPreset[1] || ''
+    }
+  }
+}
+
 // 监听模型选择变化，更新预设
 watch(
-  [() => selectedModel.value, () => locale.value],
-  ([newModel, newLanguage]) => {
-    if (newModel && presets_categories.value.length > 0) {
-      // 保持当前选中的预设类型，如果不存在则选择第一个
-      const currentPresetId = selectedPreset.value
-      const availablePresetIds = presets_categories.value.map(p => p.id)
-
-      if (availablePresetIds.includes(currentPresetId)) {
-        // 保持当前预设，只更新文本
-        const currentPreset = presets_category_texts.value.find(item => item[0] === currentPresetId)
-        if (currentPreset) {
-          ttsText.value = currentPreset[1] || ''
-        }
-      } else {
-        // 选择第一个预设
-        selectedPreset.value = presets_categories.value[0]?.id || ''
-        const firstPreset = presets_category_texts.value.find(item => item[0] === selectedPreset.value)
-        if (firstPreset) {
-          ttsText.value = firstPreset[1] || ''
-        }
-      }
-    }
+  [() => selectedModel.value, () => locale.value, () => selectedCategory.value, () => presetLocale.value, () => defaultPresets.value],
+  () => {
+    refreshPresetText()
   },
   { immediate: true }
 )

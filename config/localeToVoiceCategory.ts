@@ -11,13 +11,36 @@ export const LOCALE_TO_VOICE_CATEGORY: Record<string, string> = {
   ko: 'korea',
   pt: 'portugal',
   ar: 'arab',
-  it: 'italy',
-  nl: 'holland',
-  pl: 'poland',
 }
 
 export function getVoiceCategoryForLocale(locale: string): string | undefined {
   return LOCALE_TO_VOICE_CATEGORY[locale]
+}
+
+/** Voice category (catid) → preset文案 locale for i18n lookup. */
+export const VOICE_CATEGORY_TO_PRESET_LOCALE: Record<string, string> = {
+  english: 'en',
+  english_uk: 'en',
+  english_gb: 'en',
+  english_ca: 'en',
+  english_au: 'en',
+  english_nz: 'en',
+  english_ie: 'en',
+  english_in: 'en',
+  english_za: 'en',
+  china: 'zh',
+  china_yueyu: 'zh',
+  japan: 'ja',
+  france: 'fr',
+  germany: 'de',
+  spain: 'es',
+  korea: 'ko',
+  portugal: 'pt',
+  arab: 'ar',
+}
+
+export function getPresetLocaleForVoiceCategory(catid: string, fallback = 'en'): string {
+  return VOICE_CATEGORY_TO_PRESET_LOCALE[catid] ?? fallback
 }
 
 interface VoiceModelCategory {

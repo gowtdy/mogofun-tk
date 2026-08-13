@@ -11,7 +11,7 @@
 </template>
 
 <script setup lang="ts">
-import { onErrorCaptured, onMounted } from 'vue'
+import { onErrorCaptured } from 'vue'
 import IndexGenericPageLayout from '~/components/IndexGenericPageLayout.vue'
 import { useIndexGenericPage } from '~/composables/useIndexGenericPage'
 import { useErrorReporter } from '~/composables/errorReporter'
@@ -40,7 +40,6 @@ const {
   voiceModels,
   faqs,
   isLoggedIn,
-  initPage,
   reportPageError,
   faqTitle,
   resolvedDefaultCategory,
@@ -54,13 +53,5 @@ const {
 
 onErrorCaptured((error, instance) => {
   reportPageError(error, instance?.$el?.tagName || 'unknown')
-})
-
-onMounted(() => {
-  requestAnimationFrame(() => {
-    requestIdleCallback(() => {
-      initPage()
-    }, { timeout: 2000 })
-  })
 })
 </script>

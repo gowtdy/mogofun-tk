@@ -1,5 +1,4 @@
-import { ref, computed, onMounted, onUnmounted, watch } from 'vue'
-import { useHead } from '#imports'
+import { ref, computed, onMounted, watch } from 'vue'
 import { useI18n } from 'vue-i18n'
 import { useRoute } from 'vue-router'
 import { useUserStore } from '~/store/user'
@@ -8,7 +7,7 @@ import { useAdvancedPageErrorHandler } from '~/composables/useAdvancedPageErrorH
 import { useErrorReporter } from '~/composables/errorReporter'
 import { useAdvantages } from '~/composables/useAdvantages'
 import { useFAQs } from '~/composables/useFAQs'
-import { config } from '~/config/config'
+import { usePageSeoMeta } from '~/composables/usePageSeoMeta'
 import { useNuxtApp } from '#app'
 
 interface UseGenericPageOptions {
@@ -23,12 +22,7 @@ interface UseGenericPageOptions {
 export function useGenericPage(options: UseGenericPageOptions) {
   const { t, locale } = useI18n()
   const { reportError } = useErrorReporter()
-  const host = config.host
-  const cdnHost = config.cdnHost
   const route = useRoute()
-
-  const ogImage = config.ogImage
-  const twitterImage = config.twitterImage
 
   const { getOrCreateUid } = useAuth()
   const uid = ref(getOrCreateUid())
@@ -46,6 +40,19 @@ export function useGenericPage(options: UseGenericPageOptions) {
 
   const lang = computed(() => {
     return locale.value
+  })
+
+  // SEO in setup so title/meta are present in SSR HTML for crawlers
+  usePageSeoMeta({
+    locale: lang,
+    pathSlug: options.pageKey,
+    pathPrefix: options.dir || undefined,
+    watchDeps: locale,
+    getContent: () => ({
+      title: t(`${options.pageKey}.meta.title`),
+      description: t(`${options.pageKey}.meta.description`),
+      keywords: t(`${options.pageKey}.meta.keywords`),
+    }),
   })
 
   // 默认分类和模型
@@ -141,47 +148,6 @@ export function useGenericPage(options: UseGenericPageOptions) {
     enableGlobalHandlers: true
   })
 
-  // 构建URL路径的辅助函数
-  const buildUrl = (languageCode: string) => {
-    const basePath = options.dir ? `${languageCode}/${options.dir}/${options.pageKey}` : `${languageCode}/${options.pageKey}`
-    return `${host}/${basePath}`
-  }
-
-  // SEO配置
-  const setupSEO = () => {
-    useHead({
-      htmlAttrs: {
-        lang: locale.value
-      },
-      title: () => t(`${options.pageKey}.meta.title`),
-      meta: [
-        { name: 'description', content: () => t(`${options.pageKey}.meta.description`)},
-        { name: 'keywords', content: () => t(`${options.pageKey}.meta.keywords`)}, 
-        { name: 'robots', content: 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'},
-        { property: 'og:title', content: () => t(`${options.pageKey}.meta.title`)},
-        { property: 'og:description', content: () => t(`${options.pageKey}.meta.description`)},
-        { property: 'og:type', content: 'website'},
-        { property: 'og:url', content: host },
-        { property: 'og:image', content: `${cdnHost}${ogImage}`},
-        { name: 'twitter:card', content: 'summary_large_image'},
-        { name: 'twitter:title', content: () => t(`${options.pageKey}.meta.title`)},
-        { name: 'twitter:description', content: () => t(`${options.pageKey}.meta.description`)},
-        { name: 'twitter:site', content: host },
-        { name: 'twitter:image', content: `${cdnHost}${twitterImage}` },
-      ],
-      link: [
-        { rel: 'canonical', href: buildUrl(lang.value) },
-        { rel: 'alternate', hreflang: 'x-default', href: buildUrl('en')},
-        { rel: 'alternate', hreflang: 'en', href: buildUrl('en')},
-        { rel: 'alternate', hreflang: 'zh', href: buildUrl('zh')},  
-        { rel: 'alternate', hreflang: 'zh-tw', href: buildUrl('zh-tw')},  
-        { rel: 'alternate', hreflang: 'ja', href: buildUrl('ja')},  
-        { rel: 'alternate', hreflang: 'fr', href: buildUrl('fr')},  
-        { rel: 'alternate', hreflang: 'es', href: buildUrl('es')},
-      ]
-    })
-  }
-
   // 在 composable 的顶层注册 onMounted，确保在 setup 阶段执行
   onMounted(() => {
     setTimeout(() => {
@@ -191,11 +157,6 @@ export function useGenericPage(options: UseGenericPageOptions) {
       }
     }, 0)
   })
-
-  // 初始化页面
-  const initPage = () => {
-    setupSEO()
-  }
 
   return {
     // 数据
@@ -208,7 +169,6 @@ export function useGenericPage(options: UseGenericPageOptions) {
     isLoggedIn,
     
     // 方法
-    initPage,
     reportPageError,
     
     // 计算属性

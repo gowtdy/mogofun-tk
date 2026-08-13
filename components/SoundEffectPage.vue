@@ -44,6 +44,7 @@
 import { ref, computed, onMounted, onUnmounted, onErrorCaptured } from 'vue'
 import { useToast } from 'vue-toastification/dist/index.mjs'
 import { usePageSeoMeta } from '~/composables/usePageSeoMeta'
+import { usePageJsonLd } from '~/composables/useJsonLd'
 import AISoundEffectGenerator from '@/components/AISoundEffectGenerator.vue'
 import SoundEffectSamplesSection, { type SoundEffectSampleItem } from '@/components/SoundEffectSamplesSection.vue'
 import AdvantagesSection from '~/components/AdvantagesSection.vue'
@@ -113,6 +114,28 @@ usePageSeoMeta({
   }
 })
 
+const faqs = computed(() => {
+  // 先拿到原始数组，目的是获取长度
+  const raw = tm(`${pageNs.value}.faqs.items`) || []
+  // 确保 raw 是数组
+  const items = Array.isArray(raw) ? raw : []
+  const p = pageNs.value
+  // 用 t 获取每一项的字符串
+  return items.map((_, idx) => ({
+    question: t(`${p}.faqs.items.${idx}.question`),
+    answer: t(`${p}.faqs.items.${idx}.answer`)
+  }))
+})
+
+usePageJsonLd({
+  locale: lang,
+  pathSlug: pageNs,
+  watchDeps: i18nLocale,
+  name: () => t(`${pageNs.value}.meta.title`),
+  description: () => t(`${pageNs.value}.meta.description`),
+  faqs,
+})
+
 const currentPlaying = ref('')
 const audio = ref<HTMLAudioElement | null>(null)
 const isLoadingSample = ref('')
@@ -136,19 +159,6 @@ const advantages = computed(() => {
   return items.map((item, index) => ({
     ...item,
     icon: icons[index] || SparklesIcon // 提供一个默认图标，以防数组越界
-  }))
-})
-
-const faqs = computed(() => {
-  // 先拿到原始数组，目的是获取长度
-  const raw = tm(`${pageNs.value}.faqs.items`) || []
-  // 确保 raw 是数组
-  const items = Array.isArray(raw) ? raw : []
-  const p = pageNs.value
-  // 用 t 获取每一项的字符串
-  return items.map((_, idx) => ({
-    question: t(`${p}.faqs.items.${idx}.question`),
-    answer: t(`${p}.faqs.items.${idx}.answer`)
   }))
 })
 

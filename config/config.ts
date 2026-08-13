@@ -22,4 +22,12 @@ export const config = {
   wordImage: '/img/mogofun_word.svg',
   ogImage: '/img/mogofun-logo-word.webp',
   twitterImage: '/img/mogofun-logo-word.webp',
+  organization: {
+    name: 'MoGoFun',
+    legalName: 'MoGoFun',
+    logo: 'https://cdn.mogofun.com/img/mogofun-logo-word.webp',
+  },
+  seo: {
+    datePublished: '2026-06-01',
+  },
 }

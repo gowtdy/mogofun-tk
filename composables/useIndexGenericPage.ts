@@ -7,6 +7,7 @@ import { useAdvancedPageErrorHandler } from '~/composables/useAdvancedPageErrorH
 import { useErrorReporter } from '~/composables/errorReporter'
 import { useFAQs } from '~/composables/useFAQs'
 import { usePageSeoMeta } from '~/composables/usePageSeoMeta'
+import { usePageJsonLd } from '~/composables/useJsonLd'
 import { useNuxtApp } from '#app'
 import { resolveVoiceCategory, resolveVoiceModel } from '~/config/localeToVoiceCategory'
 
@@ -53,6 +54,21 @@ export function useIndexGenericPage(options: UseIndexGenericPageOptions) {
       description: t(`${options.pageKey}.meta.description`),
       keywords: t(`${options.pageKey}.meta.keywords`),
     }),
+  })
+
+  // FAQ
+  const { faqs } = useFAQs(
+    `${options.pageKey}.faq.items`,
+  )
+
+  usePageJsonLd({
+    locale: lang,
+    pathSlug: () => options.hrefPath?.replace(/^\//, '') || '',
+    isHome: () => options.hrefPath === '/' || options.hrefPath === '' || !options.hrefPath,
+    watchDeps: locale,
+    name: () => t(`${options.pageKey}.meta.title`),
+    description: () => t(`${options.pageKey}.meta.description`),
+    faqs,
   })
 
   // 默认分类和模型（页面配置原始值）
@@ -133,11 +149,6 @@ export function useIndexGenericPage(options: UseIndexGenericPageOptions) {
       }
     }
   }, { immediate: false })
-
-  // FAQ
-  const { faqs } = useFAQs(
-    `${options.pageKey}.faq.items`,
-  )
 
   // 错误处理
   const { reportPageError } = useAdvancedPageErrorHandler({

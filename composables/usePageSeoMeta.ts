@@ -63,12 +63,17 @@ function buildCanonicalPath(
   return parts.join('/')
 }
 
-function buildAbsoluteUrl(host: string, locale: string, pathPrefix: string | undefined, pathSlug: string): string {
+export function buildAbsoluteUrl(
+  host: string,
+  locale: string,
+  pathPrefix: string | undefined,
+  pathSlug: string
+): string {
   return `${host}/${buildCanonicalPath(locale, pathPrefix, pathSlug)}`
 }
 
 /** Home: en → `{host}/`, other → `{host}/{locale}` */
-function buildHomeUrl(host: string, locale: string): string {
+export function buildHomeUrl(host: string, locale: string): string {
   return locale === 'en' ? `${host}/` : `${host}/${locale}`
 }
 

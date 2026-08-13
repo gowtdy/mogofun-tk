@@ -28,6 +28,11 @@ export type UsePageSeoMetaOptions = {
   pathSlug: MaybeRefOrGetter<string>
   /** Optional middle segment: `/{locale}/{pathPrefix}/{pathSlug}` */
   pathPrefix?: MaybeRefOrGetter<string | undefined>
+  /**
+   * Homepage URL rules: en → `/`, other locales → `/{locale}`;
+   * hreflang x-default and en both point at `/`.
+   */
+  isHome?: MaybeRefOrGetter<boolean>
   /** SEO strings; runs inside `computed` so `t()` stays in sync with i18n */
   getContent: () => PageSeoMetaContent
   /** Extra reactive deps (e.g. global i18n locale ref) */
@@ -62,6 +67,11 @@ function buildAbsoluteUrl(host: string, locale: string, pathPrefix: string | und
   return `${host}/${buildCanonicalPath(locale, pathPrefix, pathSlug)}`
 }
 
+/** Home: en → `{host}/`, other → `{host}/{locale}` */
+function buildHomeUrl(host: string, locale: string): string {
+  return locale === 'en' ? `${host}/` : `${host}/${locale}`
+}
+
 /**
  * Shared reactive `useHead` setup aligned with `useIndexGenericPage` setupSEO:
  * robots, OG/Twitter field order, default og:url = site root, hreflang order.
@@ -80,9 +90,10 @@ export function usePageSeoMeta(options: UsePageSeoMetaOptions) {
       const locale = toValue(options.locale)
       const pathSlug = toValue(options.pathSlug)
       const pathPrefix = toValue(options.pathPrefix)
+      const isHome = toValue(options.isHome) === true
 
       if (options.validate) {
-        if (!pathSlug) {
+        if (!isHome && !pathSlug) {
           reportError(new Error('pathSlug cannot be empty'), {
             functionName: 'usePageSeoMeta',
             parameter: 'pathSlug'
@@ -102,7 +113,9 @@ export function usePageSeoMeta(options: UsePageSeoMetaOptions) {
       const twitterTitle = content.twitterTitle ?? ogTitle
       const twitterDescription = content.twitterDescription ?? ogDescription
 
-      const canonicalUrl = buildAbsoluteUrl(host, locale, pathPrefix, pathSlug)
+      const canonicalUrl = isHome
+        ? buildHomeUrl(host, locale)
+        : buildAbsoluteUrl(host, locale, pathPrefix, pathSlug)
       const ogUrl = toValue(options.ogUrl) ?? host
       const ogImage = toValue(options.ogImage) ?? `${cdnHost}${ogImagePath}`
       const twitterImage = toValue(options.twitterImage) ?? `${cdnHost}${twitterImagePath}`
@@ -116,13 +129,15 @@ export function usePageSeoMeta(options: UsePageSeoMetaOptions) {
         link.push({ rel: 'dns-prefetch', href: host })
       }
       link.push({ rel: 'canonical', href: canonicalUrl })
-      const enHref = buildAbsoluteUrl(host, 'en', pathPrefix, pathSlug)
+      const enHref = isHome ? `${host}/` : buildAbsoluteUrl(host, 'en', pathPrefix, pathSlug)
       link.push({ rel: 'alternate', hreflang: 'x-default', href: enHref })
       for (const loc of alternates) {
         link.push({
           rel: 'alternate',
           hreflang: loc,
-          href: buildAbsoluteUrl(host, loc, pathPrefix, pathSlug)
+          href: isHome
+            ? buildHomeUrl(host, loc)
+            : buildAbsoluteUrl(host, loc, pathPrefix, pathSlug)
         })
       }
 

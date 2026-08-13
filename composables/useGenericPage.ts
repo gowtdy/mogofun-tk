@@ -8,6 +8,7 @@ import { useErrorReporter } from '~/composables/errorReporter'
 import { useAdvantages } from '~/composables/useAdvantages'
 import { useFAQs } from '~/composables/useFAQs'
 import { usePageSeoMeta } from '~/composables/usePageSeoMeta'
+import { usePageJsonLd } from '~/composables/useJsonLd'
 import { useNuxtApp } from '#app'
 
 interface UseGenericPageOptions {
@@ -53,6 +54,21 @@ export function useGenericPage(options: UseGenericPageOptions) {
       description: t(`${options.pageKey}.meta.description`),
       keywords: t(`${options.pageKey}.meta.keywords`),
     }),
+  })
+
+  // FAQ
+  const { faqs } = useFAQs(
+    `${options.pageKey}.faqs.items`,
+  )
+
+  usePageJsonLd({
+    locale: lang,
+    pathSlug: options.pageKey,
+    pathPrefix: options.dir || undefined,
+    watchDeps: locale,
+    name: () => t(`${options.pageKey}.meta.title`),
+    description: () => t(`${options.pageKey}.meta.description`),
+    faqs,
   })
 
   // 默认分类和模型
@@ -133,11 +149,6 @@ export function useGenericPage(options: UseGenericPageOptions) {
   // 优势介绍
   const { advantages } = useAdvantages(
     `${options.pageKey}.advantages.items`,
-  )
-
-  // FAQ
-  const { faqs } = useFAQs(
-    `${options.pageKey}.faqs.items`,
   )
 
   // 错误处理

@@ -5,6 +5,9 @@ import { useAuth } from '~/composables/useAuth'
 import { useErrorReporter } from '~/composables/errorReporter'
 import { usePageErrorHandler } from '~/composables/usePageErrorHandler'
 import { useCharacterSeoMeta } from '~/composables/useCharacterSeoMeta'
+import { usePageJsonLd } from '~/composables/useJsonLd'
+import { config } from '~/config/config'
+import { buildAbsoluteUrl } from '~/composables/usePageSeoMeta'
 
 export function useCharacterPage(characterSlug: string, dir='') {
   const { t, tm, locale } = useI18n()
@@ -21,18 +24,29 @@ export function useCharacterPage(characterSlug: string, dir='') {
 
   useCharacterSeoMeta(characterSlug, currentLocale.value, dir)
 
-  // FAQ相关
-  const faqTitle = computed(() => tm(`character.${characterSlug}.faqs.title`) || '')
+  // FAQ相关（keys typed as string to avoid vue-i18n deep ResourcePath instantiation）
+  const faqTitleKey = `character.${characterSlug}.faqs.title` as string
+  const faqItemsKey = `character.${characterSlug}.faqs.items` as string
+  const faqTitle = computed(() => t(faqTitleKey) || '')
   const faqs = computed(() => {
-    // 先拿到原始数组，确保是数组类型
-    const raw = tm(`character.${characterSlug}.faqs.items`)
+    const raw = tm(faqItemsKey) || []
     const items = Array.isArray(raw) ? raw : []
-    // 用 t 获取每一项的字符串
     return items.map((_, idx) => ({
-      question: t(`character.${characterSlug}.faqs.items.${idx}.question`),
-      answer: t(`character.${characterSlug}.faqs.items.${idx}.answer`)
+      question: t(`${faqItemsKey}.${idx}.question`),
+      answer: t(`${faqItemsKey}.${idx}.answer`)
     }))
   })
+
+  usePageJsonLd({
+    locale: currentLocale,
+    pathSlug: characterSlug,
+    pathPrefix: dir || undefined,
+    watchDeps: () => locale.value,
+    name: () => t(`meta.${characterSlug}.title` as string),
+    description: () => t(`meta.${characterSlug}.description` as string),
+    faqs,
+  })
+
   const faqOpenStates = ref(Array(faqs.value.length).fill(false))
   
   const toggleFaq = (index: number) => {
@@ -43,7 +57,7 @@ export function useCharacterPage(characterSlug: string, dir='') {
 
   // 介绍部分
   const introSections = computed(() => {
-    const raw = tm(`character.${characterSlug}.intro_sections`)
+    const raw = tm(`character.${characterSlug}.intro_sections` as string)
     return Array.isArray(raw) ? raw : []
   })
 
@@ -53,13 +67,14 @@ export function useCharacterPage(characterSlug: string, dir='') {
     if (process.client) {
       return window.location.href
     }
-    return ''
+    return buildAbsoluteUrl(config.host, currentLocale.value, dir || undefined, characterSlug)
   })
 
   const { onPageError } = usePageErrorHandler(characterSlug, uid.value, userEmail.value)
 
   // 初始化函数
   const initPage = () => {
+    // @ts-ignore - initUserState exists in store actions
     userStore.initUserState()
   }
 

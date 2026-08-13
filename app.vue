@@ -11,6 +11,9 @@
 import Header from '~/components/Header.vue'
 import { useErrorReporter } from '~/composables/errorReporter'
 import { useAuth } from '~/composables/useAuth'
+import { useSiteJsonLd } from '~/composables/useJsonLd'
+
+useSiteJsonLd()
 
 const { reportError } = useErrorReporter()
 const { getOrCreateUid } = useAuth()

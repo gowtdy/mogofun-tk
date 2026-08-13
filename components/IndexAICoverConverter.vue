@@ -238,6 +238,8 @@ import AudioUploader from '~/components/AudioUploader.vue'
 import { useGoogleSearchKeyword } from '~/composables/useGoogleSearchKeyword'
 import { useRequestEvent } from '#app'
 import { config } from '~/config/config'
+import { getPresetLocaleForVoiceCategory } from '~/config/localeToVoiceCategory'
+import { loadPresetsForLocale } from '~/composables/usePresetLocaleMessages'
 import { usePageErrorHandler } from '~/composables/usePageErrorHandler';
 import { useRoute, useRouter } from 'vue-router';
 import type { Model, VoiceModel, Category } from '~/types';
@@ -360,8 +362,6 @@ const convertedAudio = ref(null)
 const audioList = ref([])
 const uploadedAudioList = ref([])
 const selectedGender = ref('') // 移除默认选择
-
-const selectedLanguage = ref('english')
 
 // 生成唯一的渐变 ID，避免多个实例冲突
 const downloadGradientId = ref(`download-gradient-${Math.random().toString(36).substr(2, 9)}`)
@@ -588,26 +588,33 @@ const ttsText = ref('')
 
 // 预设文案相关
 const selectedPreset = ref('')
+const defaultPresets = ref([])
+
+const presetLocale = computed(() =>
+  getPresetLocaleForVoiceCategory(selectedCategory.value, locale.value)
+)
+
+watch(presetLocale, async (targetLocale) => {
+  const presets = await loadPresetsForLocale(targetLocale, t, locale.value)
+  if (presetLocale.value !== targetLocale) return
+  if (presets.length > 0) {
+    defaultPresets.value = presets
+  }
+}, { immediate: true })
 
 // 根据模型 ID 精确匹配获取角色预设
 const getCharacterPresetsForModel = (modelId) => {
   if (!modelId) return []
-  
-  // 直接用模型 ID 查询，精确匹配
-  const presets = getCharacterPresets(modelId, selectedLanguage.value)
+
+  const presets = getCharacterPresets(modelId, presetLocale.value)
   if (presets && presets.length > 0) return presets
-  
-  // 兜底：如果找不到对应的预设，返回默认文案
-  return [
-    { id: 'greetings', label: 'TikTok Video', text: "Hey TikTok! Today I'm going to show you something amazing that will blow your mind.Follow along and don't forget to like and share..." },
-    { id: 'emotions', label: 'Game Ad', text: "Enter a world of endless possibilities! Experience epic battles, stunning graphics, and thrilling adventures in this groundbreaking new game..." },
-    { id: 'actions', label: 'AudioBook', text: "Chapter One: The morning sun cast long shadows across the quiet street, as Sarah stepped out of her house, unaware that this ordinary day would change everything..." },
-    { id: 'stories', label: 'Voicemail', text: "Hi, I'm currently unavailable to take your call. Please leave your name, number, and a brief message, and I'll get back to you as soon as possible. Thank you!" }
-  ]
+
+  return defaultPresets.value
 }
 
 // 根据当前选择的模型生成预设分类
 const presets_categories = computed(() => {
+  void defaultPresets.value
   const selectedModelData = currentCatModels.value.find(m => m.modelid === selectedModel.value)
   if (!selectedModelData) return []
 
@@ -620,6 +627,7 @@ const presets_categories = computed(() => {
 
 // 根据当前选择的模型生成预设文本
 const presets_category_texts = computed(() => {
+  void defaultPresets.value
   const selectedModelData = currentCatModels.value.find(m => m.modelid === selectedModel.value)
   if (!selectedModelData) return []
 
@@ -627,30 +635,31 @@ const presets_category_texts = computed(() => {
   return presets.map(preset => [preset.id, preset.text])
 })
 
+const refreshPresetText = () => {
+  if (!selectedModel.value || presets_categories.value.length === 0) return
+
+  const currentPresetId = selectedPreset.value
+  const availablePresetIds = presets_categories.value.map(p => p.id)
+
+  if (availablePresetIds.includes(currentPresetId)) {
+    const currentPreset = presets_category_texts.value.find(item => item[0] === currentPresetId)
+    if (currentPreset) {
+      ttsText.value = currentPreset[1] || ''
+    }
+  } else {
+    selectedPreset.value = presets_categories.value[0]?.id || ''
+    const firstPreset = presets_category_texts.value.find(item => item[0] === selectedPreset.value)
+    if (firstPreset) {
+      ttsText.value = firstPreset[1] || ''
+    }
+  }
+}
+
 // 监听模型选择变化，更新预设
 watch(
-  [() => selectedModel.value, () => selectedLanguage.value],
-  ([newModel, newLanguage]) => {
-    if (newModel && presets_categories.value.length > 0) {
-      // 保持当前选中的预设类型，如果不存在则选择第一个
-      const currentPresetId = selectedPreset.value
-      const availablePresetIds = presets_categories.value.map(p => p.id)
-
-      if (availablePresetIds.includes(currentPresetId)) {
-        // 保持当前预设，只更新文本
-        const currentPreset = presets_category_texts.value.find(item => item[0] === currentPresetId)
-        if (currentPreset) {
-          ttsText.value = currentPreset[1] || ''
-        }
-      } else {
-        // 选择第一个预设
-        selectedPreset.value = presets_categories.value[0]?.id || ''
-        const firstPreset = presets_category_texts.value.find(item => item[0] === selectedPreset.value)
-        if (firstPreset) {
-          ttsText.value = firstPreset[1] || ''
-        }
-      }
-    }
+  [() => selectedModel.value, () => locale.value, () => selectedCategory.value, () => presetLocale.value, () => defaultPresets.value],
+  () => {
+    refreshPresetText()
   },
   { immediate: true }
 )

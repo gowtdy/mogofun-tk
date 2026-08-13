@@ -157,6 +157,26 @@
         "success": "¡Descarga completada con éxito!",
         "failed": "Error al descargar, inténtalo de nuevo más tarde."
       },
+      "presets": {
+        "items": {
+          "greetings": {
+            "label": "Video",
+            "text": "¡Hola TikTok! Hoy voy a mostrarte algo increíble que te va a sorprender. Sígueme y no olvides dar like y compartir..."
+          },
+          "emotions": {
+            "label": "Anuncio de juego",
+            "text": "¡Entra en un mundo de posibilidades infinitas! Experimenta batallas épicas, gráficos impresionantes y aventuras emocionantes en este revolucionario nuevo juego..."
+          },
+          "actions": {
+            "label": "Audiolibro",
+            "text": "Capítulo uno: El sol de la mañana proyectaba largas sombras por la calle tranquila, mientras Sarah salía de su casa, sin saber que este día ordinario cambiaría todo..."
+          },
+          "stories": {
+            "label": "Buzón de voz",
+            "text": "Hola, no estoy disponible para atender tu llamada. Por favor deja tu nombre, número y un breve mensaje, y te devolveré la llamada lo antes posible. ¡Gracias!"
+          }
+        }
+      },
       "errors": {
         "serverBusy": "El servidor está ocupado, inténtalo de nuevo más tarde.",
         "convertFailed": "Error al convertir la canción, inténtalo de nuevo más tarde.",

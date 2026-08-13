@@ -5,8 +5,8 @@
     :faqs="faqs"
     :faq-title="faqTitle"
     :voice-models="voiceModels"
-    :default-category="pageConfig.defaultCategory"
-    :default-model="pageConfig.defaultModel"
+    :default-category="resolvedDefaultCategory"
+    :default-model="resolvedDefaultModel"
   />
 </template>
 
@@ -42,7 +42,9 @@ const {
   isLoggedIn,
   initPage,
   reportPageError,
-  faqTitle
+  faqTitle,
+  resolvedDefaultCategory,
+  resolvedDefaultModel,
 } = useIndexGenericPage({
   pageKey: props.pageSlug,
   defaultCategory: pageConfig.defaultCategory,

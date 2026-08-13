@@ -1,0 +1,24 @@
+{ title: 'aivoicelab', url: 'https://aivoicelab.net' },
+{ title: 'google', url: 'https://chromewebstore.google.com/detail/soup-soul/jancllhbflebcmlajilcpgombdjookij' },
+{ title: 'stripe', url: 'https://climate.stripe.com/IUM2MG' },
+{ title: 'viesearch', url: 'https://viesearch.com/26z3r/mogofun' },
+{ title: 'krisp', url: 'https://voice-ai-newsletter.krisp.ai/p/gpt-voice-vs-human-agents/comments' },
+{ title: 'cal', url: 'https://cal.com/benjamin-carter-mogofun' },
+{ title: 'heylink', url: 'https://heylink.me/mogofun' },
+{ title: 'goodfirms', url: 'https://www.goodfirms.co/software/mogofun' },
+{ title: 'fwfly', url: 'https://www.fwfly.com/post/19792.html' },
+{ title: 'scamadviser', url: 'https://www.scamadviser.com/check-website/mogofun.com' },
+{ title: 'extpose', url: 'https://extpose.com/ext/jancllhbflebcmlajilcpgombdjookij' },
+{ title: 'magic', url: 'https://magic.ly/mogofun' },
+{ title: 'scam-detector', url: 'https://www.scam-detector.com/validator/mogofun-com-review/' },
+{ title: 'whatyoumaking', url: 'https://whatyoumaking.com/?page=18&status=&search=&sort=newest&minUpvotes=&maxUpvotes=&launchedAfter=&launchedBefore=&topic=audio&hasRealUrl=False&hasCheckLog=False' },
+{ title: 'xploredomains', url: 'https://www.xploredomains.com/2025-01-28?page=30' },
+{ title: 'w2solo', url: 'https://w2solo.com/topics/4908' },
+{ title: '', url: '' },
+
+
+
+{ title: '', url: '' },
+
+
+{ title: 'reddit', url: 'https://www.reddit.com/r/JujutsuShenanigans/comments/1tpediw/what_is_the_ai_voice_all_the_jjs_youtubers_use/' },

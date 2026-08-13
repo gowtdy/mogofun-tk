@@ -157,6 +157,26 @@
         "success": "Download successed!",
         "failed": "Download failed, please try again later!"
       },
+      "presets": {
+        "items": {
+          "greetings": {
+            "label": "Video",
+            "text": "Hey TikTok! Today I'm going to show you something amazing that will blow your mind. Follow along and don't forget to like and share..."
+          },
+          "emotions": {
+            "label": "Game Ad",
+            "text": "Enter a world of endless possibilities! Experience epic battles, stunning graphics, and thrilling adventures in this groundbreaking new game..."
+          },
+          "actions": {
+            "label": "AudioBook",
+            "text": "Chapter One: The morning sun cast long shadows across the quiet street, as Sarah stepped out of her house, unaware that this ordinary day would change everything..."
+          },
+          "stories": {
+            "label": "Voicemail",
+            "text": "Hi, I'm currently unavailable to take your call. Please leave your name, number, and a brief message, and I'll get back to you as soon as possible. Thank you!"
+          }
+        }
+      },
       "errors": {
         "serverBusy": "The server is busy, please try again later!",
         "convertFailed": "Convert song failed, please try again later!",

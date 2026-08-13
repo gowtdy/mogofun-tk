@@ -157,6 +157,26 @@
         "success": "Download erfolgreich!",
         "failed": "Download fehlgeschlagen, bitte versuche es später erneut!"
       },
+      "presets": {
+        "items": {
+          "greetings": {
+            "label": "Video",
+            "text": "Hey TikTok! Heute zeige ich euch etwas Unglaubliches, das euch umhauen wird. Folgt mir und vergesst nicht zu liken und zu teilen..."
+          },
+          "emotions": {
+            "label": "Spielwerbung",
+            "text": "Betritt eine Welt endloser Möglichkeiten! Erlebe epische Schlachten, atemberaubende Grafiken und spannende Abenteuer in diesem bahnbrechenden neuen Spiel..."
+          },
+          "actions": {
+            "label": "Hörbuch",
+            "text": "Kapitel eins: Die Morgensonne warf lange Schatten auf die ruhige Straße, als Sarah ihr Haus verließ, ohne zu ahnen, dass dieser gewöhnliche Tag alles verändern würde..."
+          },
+          "stories": {
+            "label": "Sprachnachricht",
+            "text": "Hallo, ich bin momentan nicht erreichbar. Bitte hinterlassen Sie Ihren Namen, Ihre Nummer und eine kurze Nachricht. Ich melde mich so schnell wie möglich zurück. Danke!"
+          }
+        }
+      },
       "errors": {
         "serverBusy": "Der Server ist ausgelastet, bitte versuche es später erneut!",
         "convertFailed": "Song-Konvertierung fehlgeschlagen, bitte versuche es später erneut!",

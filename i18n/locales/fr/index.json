@@ -157,6 +157,26 @@
         "success": "Téléchargement réussi !",
         "failed": "Échec du téléchargement, veuillez réessayer plus tard !"
       },
+      "presets": {
+        "items": {
+          "greetings": {
+            "label": "Vidéo",
+            "text": "Salut TikTok ! Aujourd'hui je vais vous montrer quelque chose d'incroyable qui va vous épater. Suivez-moi et n'oubliez pas de liker et partager..."
+          },
+          "emotions": {
+            "label": "Pub de jeu",
+            "text": "Entrez dans un monde de possibilités infinies ! Vivez des batailles épiques, des graphismes époustouflants et des aventures palpitantes dans ce jeu révolutionnaire..."
+          },
+          "actions": {
+            "label": "Livre audio",
+            "text": "Chapitre un : Le soleil du matin projetait de longues ombres sur la rue tranquille, alors que Sarah sortait de chez elle, ignorant que cette journée ordinaire allait tout changer..."
+          },
+          "stories": {
+            "label": "Messagerie vocale",
+            "text": "Bonjour, je ne suis pas disponible pour répondre à votre appel. Veuillez laisser votre nom, numéro et un bref message, je vous rappellerai dès que possible. Merci !"
+          }
+        }
+      },
       "errors": {
         "serverBusy": "Le serveur est occupé, veuillez réessayer plus tard !",
         "convertFailed": "Échec de la conversion de la chanson, veuillez réessayer plus tard !",

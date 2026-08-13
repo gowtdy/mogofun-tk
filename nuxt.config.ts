@@ -234,6 +234,8 @@ export default defineNuxtConfig({
         process.env.NODE_ENV === 'production'
           ? 'https://mogofun.com'
           : 'http://localhost:3000',
+      /** YYYY-MM-DD frozen at build time — used as schema dateModified */
+      buildDate: new Date().toISOString().slice(0, 10),
     },
   },
   devtools: { enabled: process.env.NODE_ENV !== 'production' },

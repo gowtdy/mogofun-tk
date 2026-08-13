@@ -49,7 +49,7 @@ export function useSiteJsonLd() {
       {
         key: 'jsonld-site',
         type: 'application/ld+json',
-        children: JSON.stringify({
+        innerHTML: JSON.stringify({
           '@context': 'https://schema.org',
           '@graph': [
             {
@@ -152,7 +152,7 @@ export function usePageJsonLd(options: UsePageJsonLdOptions) {
           {
             key: 'jsonld-page',
             type: 'application/ld+json',
-            children: JSON.stringify({
+            innerHTML: JSON.stringify({
               '@context': 'https://schema.org',
               '@graph': graph
             })

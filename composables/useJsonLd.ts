@@ -67,7 +67,8 @@ function buildSiteGraph() {
         logo: {
           '@type': 'ImageObject',
           url: config.organization.logo
-        }
+        },
+        sameAs: config.organization.sameAs
       },
       {
         '@type': 'WebSite',

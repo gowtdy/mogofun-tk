@@ -80,5 +80,7 @@ const friendLinks = ref([
   { title: 'theresanaiforthat', url: 'https://theresanaiforthat.com/@benjamincarter-1/' },
   { title: 'cubdomain', url: 'https://www.cubdomain.com/site/mogofun.com' },
   { title: 'dun', url: 'https://s.dun.im/space/latest/post/mogofun-ai-ae-a-e-e-zey-a-ya-i-sae-ae' },
+  { title: 'twitter', url: 'https://x.com/mogofun' },
+  { title: 'sitelike', url: 'https://www.sitelike.org/similar/mogofun.com/' },
 ])
 </script>

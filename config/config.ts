@@ -26,6 +26,7 @@ export const config = {
     name: 'MoGoFun',
     legalName: 'MoGoFun',
     logo: 'https://cdn.mogofun.com/img/mogofun-logo-word.webp',
+    sameAs: ['https://x.com/mogofun'],
   },
   seo: {
     datePublished: '2026-06-01',

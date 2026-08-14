@@ -3,6 +3,9 @@
     <main id="main-content">
       <slot />
     </main>
+    <div class="bg-white pb-4 md:pb-6">
+      <CitationQuoteSection />
+    </div>
     <FooterForLink v-if="showFooter" />
   </div>
 </template>
@@ -10,6 +13,7 @@
 <script setup>
 import { ref, onMounted } from 'vue'
 import FooterForLink from '~/components/FooterForLink.vue'
+import CitationQuoteSection from '~/components/CitationQuoteSection.vue'
 
 const showFooter = ref(false)
 

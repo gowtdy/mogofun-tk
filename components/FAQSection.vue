@@ -1,5 +1,5 @@
 <template>
-  <section class="mb-16">
+  <section class="mb-4 md:mb-6">
     <div class="max-w-[1400px] mx-auto">
       <h2
         class="text-2xl font-bold text-center mb-8 bg-clip-text text-transparent bg-gradient-to-r from-[#F1AC63] to-[#D76FF4]">

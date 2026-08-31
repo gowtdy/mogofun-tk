@@ -1,14 +1,90 @@
+# MoGoFun — robots.txt
+# https://mogofun.com/robots.txt
+#
+# Goal: allow mainstream search engines and AI crawlers for GEO visibility.
+# See also: https://mogofun.com/llms.txt
+
+# -----------------------------------------------------------------------------
+# Default: open site to all polite crawlers
+# -----------------------------------------------------------------------------
 User-agent: *
 Allow: /
-Disallow: /blog/admin/
 
-Sitemap: https://mogofun.com/sitemap.xml
+# -----------------------------------------------------------------------------
+# Major search engines
+# -----------------------------------------------------------------------------
+User-agent: Googlebot
+Allow: /
+
+User-agent: Google-CloudVertexBot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: Baidu
+Allow: /
+
+# -----------------------------------------------------------------------------
+# OpenAI — ChatGPT search citations + browsing + training crawl
+# -----------------------------------------------------------------------------
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
 
 User-agent: GPTBot
-User-agent: Claude-Web
-User-agent: Anthropic-AI
-User-agent: PerplexityBot
-User-agent: GoogleOther
-User-agent: DuckAssistBot
-
 Allow: /
+
+# -----------------------------------------------------------------------------
+# Anthropic — Claude search + crawl
+# -----------------------------------------------------------------------------
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+# -----------------------------------------------------------------------------
+# Perplexity — answer citations + live fetch
+# -----------------------------------------------------------------------------
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+# -----------------------------------------------------------------------------
+# Google Gemini / AI Overviews grounding signal (does not affect Google Search ranking)
+# -----------------------------------------------------------------------------
+User-agent: Google-Extended
+Allow: /
+
+# -----------------------------------------------------------------------------
+# Other AI / discovery crawlers commonly used for citations
+# -----------------------------------------------------------------------------
+User-agent: Bytespider
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: meta-externalagent
+Allow: /
+
+User-agent: DuckAssistBot
+Allow: /
+
+# Crawl maps and AI index
+Sitemap: https://mogofun.com/sitemap.xml
+# See also /llms.txt

@@ -58,6 +58,7 @@ import FAQSection from '~/components/FAQSection.vue'
 import { useAuth } from '~/composables/useAuth'
 import { usePageErrorHandler } from '~/composables/usePageErrorHandler'
 import { usePageSeoMeta } from '~/composables/usePageSeoMeta'
+import { usePageJsonLd } from '~/composables/useJsonLd'
 import { useUserStore } from '~/store/user'
 import type { SeparationUploadConfig } from '~/types/separation'
 
@@ -126,6 +127,15 @@ const faqs = computed(() => {
     question: t(`${p}.faqs.items.${idx}.question`),
     answer: t(`${p}.faqs.items.${idx}.answer`)
   }))
+})
+
+usePageJsonLd({
+  locale: lang,
+  pathSlug: computed(() => props.pageSlug),
+  watchDeps: i18nLocale,
+  name: () => t(`${props.pageSlug}.meta.title`),
+  description: () => t(`${props.pageSlug}.meta.description`),
+  faqs,
 })
 
 const { onPageError } = usePageErrorHandler(props.pageSlug, uid.value, userEmail.value)

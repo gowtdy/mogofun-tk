@@ -13,7 +13,7 @@
 </template>
 
 <script setup lang="ts">
-import { onErrorCaptured, onMounted } from 'vue'
+import { onErrorCaptured } from 'vue'
 import GenericPageLayout from '~/components/GenericPageLayout.vue'
 import { useGenericPage } from '~/composables/useGenericPage'
 import { useErrorReporter } from '~/composables/errorReporter'
@@ -47,7 +47,6 @@ const {
   advantages,
   faqs,
   isLoggedIn,
-  initPage,
   reportPageError,
   advantagesTitle,
   faqTitle
@@ -60,13 +59,5 @@ const {
 
 onErrorCaptured((error, instance) => {
   reportPageError(error, instance?.$el?.tagName || 'unknown')
-})
-
-onMounted(() => {
-  requestAnimationFrame(() => {
-    requestIdleCallback(() => {
-      initPage()
-    }, { timeout: 2000 })
-  })
 })
 </script>

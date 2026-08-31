@@ -82,5 +82,7 @@ const friendLinks = ref([
   { title: 'dun', url: 'https://s.dun.im/space/latest/post/mogofun-ai-ae-a-e-e-zey-a-ya-i-sae-ae' },
   { title: 'twitter', url: 'https://x.com/mogofun' },
   { title: 'sitelike', url: 'https://www.sitelike.org/similar/mogofun.com/' },
+  { title: 'host', url: 'https://host.io/mogofun.com' },
+  { title: 'c99', url: 'https://subdomainfinder.c99.nl/scans/2026-08-14/mogofun.com' },
 ])
 </script>

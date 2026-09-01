@@ -87,5 +87,6 @@ const friendLinks = ref([
   { title: 'scoutforge', url: 'https://scoutforge.net/apps/mogofun' },
   { title: 'theailibrary', url: 'https://www.theailibrary.co/tool/mogofun' },
   { title: 'peerlist', url: 'https://peerlist.io/benjamincarter/resume' },
+  { title: 'updownradar', url: 'https://updownradar.com/status/mogofun.com' },
 ])
 </script>

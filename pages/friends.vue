@@ -88,5 +88,8 @@ const friendLinks = ref([
   { title: 'theailibrary', url: 'https://www.theailibrary.co/tool/mogofun' },
   { title: 'peerlist', url: 'https://peerlist.io/benjamincarter/resume' },
   { title: 'updownradar', url: 'https://updownradar.com/status/mogofun.com' },
+  { title: 'web-note', url: 'https://web-note.cn/article/peiyin/2057.html' },
+  { title: 'marketgenius', url: 'https://marketgenius.ai/products/mogofun-com-mogofun' },
+  { titel: 'aigclist', url: 'https://aigclist.com/item/tiktok-voice' },
 ])
 </script>

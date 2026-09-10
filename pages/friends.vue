@@ -84,5 +84,12 @@ const friendLinks = ref([
   { title: 'sitelike', url: 'https://www.sitelike.org/similar/mogofun.com/' },
   { title: 'host', url: 'https://host.io/mogofun.com' },
   { title: 'c99', url: 'https://subdomainfinder.c99.nl/scans/2026-08-14/mogofun.com' },
+  { title: 'scoutforge', url: 'https://scoutforge.net/apps/mogofun' },
+  { title: 'theailibrary', url: 'https://www.theailibrary.co/tool/mogofun' },
+  { title: 'peerlist', url: 'https://peerlist.io/benjamincarter/resume' },
+  { title: 'updownradar', url: 'https://updownradar.com/status/mogofun.com' },
+  { title: 'web-note', url: 'https://web-note.cn/article/peiyin/2057.html' },
+  { title: 'marketgenius', url: 'https://marketgenius.ai/products/mogofun-com-mogofun' },
+  { titel: 'aigclist', url: 'https://aigclist.com/item/tiktok-voice' },
 ])
 </script>

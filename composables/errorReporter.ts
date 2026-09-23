@@ -26,10 +26,15 @@ function hashFingerprint(input: string, seed = 0): string {
   return combined.toString(36)
 }
 
-function buildCacheKey(err: any, context: any, url: string) {
+function buildCacheKey(err: any, url: string) {
   const error = err?.message || String(err)
-  const ctx = typeof context === 'string' ? context : JSON.stringify(context ?? '')
-  return hashFingerprint(`${error}\0${ctx}\0${url}`)
+  let pathname = ''
+  try {
+    pathname = url ? new URL(url, 'http://localhost').pathname : ''
+  } catch {
+    pathname = url
+  }
+  return hashFingerprint(`${error}\0${pathname}`)
 }
 
 export const useErrorReporter = () => {
@@ -40,7 +45,7 @@ export const useErrorReporter = () => {
       const url = typeof window !== 'undefined' ? (window.location?.href || '') : ''
       const now = Date.now()
       pruneExpired(now)
-      const key = buildCacheKey(err, context, url)
+      const key = buildCacheKey(err, url)
       const last = reportDedupCache.get(key)
       if (last != null && now - last < REPORT_DEDUP_TTL_MS) return
       reportDedupCache.set(key, now)

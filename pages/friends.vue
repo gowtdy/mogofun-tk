@@ -90,6 +90,9 @@ const friendLinks = ref([
   { title: 'updownradar', url: 'https://updownradar.com/status/mogofun.com' },
   { title: 'web-note', url: 'https://web-note.cn/article/peiyin/2057.html' },
   { title: 'marketgenius', url: 'https://marketgenius.ai/products/mogofun-com-mogofun' },
-  { titel: 'aigclist', url: 'https://aigclist.com/item/tiktok-voice' },
+  { title: 'aigclist', url: 'https://aigclist.com/item/tiktok-voice' },
+  { title: 'tools-ai', url: 'https://www.tools-ai.online/tool/mogofun' },
+  { title: 'ramen', url: 'https://ramen.tools/@BenjaminCarter' },
+  { title: 'resource fyi', url: 'https://resource.fyi/@102038999721857122616' },
 ])
 </script>

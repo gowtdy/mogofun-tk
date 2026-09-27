@@ -247,6 +247,7 @@ export default defineNuxtConfig({
     '@/assets/css/tailwind.css',
     '@/assets/css/global.css',
     '@/assets/css/vue-audio-player.css',
+    'vue-toastification/dist/index.css',
   ],
   postcss: {
     plugins: {
@@ -445,6 +446,10 @@ export default defineNuxtConfig({
             // 这些文件需要被单独打包成 chunk，即使没有被直接使用
             if (id.includes('i18n/locales') || id.includes('locales/')) {
               // 返回 true 表示这些文件有副作用，不应该被 tree-shake
+              return true;
+            }
+            // CSS / toast 库样式为纯副作用导入，必须保留，否则图标会撑满页面
+            if (id.endsWith('.css') || id.includes('vue-toastification')) {
               return true;
             }
             // 对于其他模块，返回 false 允许 tree-shaking

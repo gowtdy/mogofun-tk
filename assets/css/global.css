@@ -233,21 +233,31 @@ img[fetchpriority="high"] {
   size-adjust: 100%;
 }
 
-/* 确保弹出层正确定位 */
-.v-toast,
-.v-toast__container,
-.v-toast__item {
+/* vue-toastification：确保容器定位，并兜底图标尺寸（避免 FA SVG 无宽高时撑满页面） */
+.Vue-Toastification__container {
   content-visibility: visible !important;
   contain: none !important;
   position: fixed !important;
   z-index: 9999 !important;
+  pointer-events: none;
 }
 
-/* 优化弹出层性能 */
-.v-toast__item {
+.Vue-Toastification__toast {
   will-change: transform;
   transform: translateZ(0);
   backface-visibility: hidden;
+  pointer-events: auto;
+}
+
+.Vue-Toastification__icon,
+.Vue-Toastification__icon.svg-inline--fa {
+  width: 20px !important;
+  height: 20px !important;
+  max-width: 20px;
+  max-height: 20px;
+  flex-shrink: 0;
+  display: inline-block;
+  overflow: hidden;
 }
 
 /* 添加骨架屏动画 */

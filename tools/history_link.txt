@@ -8,17 +8,27 @@
 { title: 'goodfirms', url: 'https://www.goodfirms.co/software/mogofun' },
 { title: 'fwfly', url: 'https://www.fwfly.com/post/19792.html' },
 { title: 'scamadviser', url: 'https://www.scamadviser.com/check-website/mogofun.com' },
-{ title: 'extpose', url: 'https://extpose.com/ext/jancllhbflebcmlajilcpgombdjookij' },
 { title: 'magic', url: 'https://magic.ly/mogofun' },
 { title: 'scam-detector', url: 'https://www.scam-detector.com/validator/mogofun-com-review/' },
 { title: 'whatyoumaking', url: 'https://whatyoumaking.com/?page=18&status=&search=&sort=newest&minUpvotes=&maxUpvotes=&launchedAfter=&launchedBefore=&topic=audio&hasRealUrl=False&hasCheckLog=False' },
 { title: 'xploredomains', url: 'https://www.xploredomains.com/2025-01-28?page=30' },
 { title: 'w2solo', url: 'https://w2solo.com/topics/4908' },
-
-
+{ title: 'aigclist', url: 'https://aigclist.com/item/tiktok-voice' },
+{ title: 'crxsoso', url: 'https://www.crxsoso.com/webstore/detail/jancllhbflebcmlajilcpgombdjookij' },
+{ title: 'marketgenius', url: 'https://marketgenius.ai/products/mogofun-com-mogofun' },
+{ title: 'medium', url: 'https://medium.com/@tiktokaivoicetool/5%E4%B8%AA%E6%9C%80%E4%BD%B3%E5%85%8D%E8%B4%B9ai%E9%9F%B3%E6%95%88%E7%94%9F%E6%88%90%E5%99%A8%E6%8E%A8%E8%8D%90-ad53838a64c7' },
+{ title: 'okjike', url: 'https://m.okjike.com/users/8FE4B399-E4C9-4F6D-879E-9B772C5E6B60' },
+{ title: 'pinterest', url: 'https://www.pinterest.com/tiktokaivoicetool/?invite_code=305cf583256e4fcea7b3001a9cfd7877&sender=1090926847145252958' },
+{ title: 'promoteproject', url: 'https://www.promoteproject.com/startup/180288/ai-sound-effects-generator' },
+{ title: 'saashub', url: 'https://www.saashub.com/mogofun' },
+{ title: 'scoutforge', url: 'https://scoutforge.net/apps/mogofun' },
+{ title: 'theailibrary', url: 'https://www.theailibrary.co/tool/mogofun' },
+{ title: 'tools-ai', url: 'https://www.tools-ai.online/tool/mogofun' },
 
 
 { title: '', url: '' },
 
 
 { title: 'reddit', url: 'https://www.reddit.com/r/JujutsuShenanigans/comments/1tpediw/what_is_the_ai_voice_all_the_jjs_youtubers_use/' },
+{ title: 'diyai.io', url: 'diyai.io/go/tiktokvoice?locati0n=content' },
+{ title: 'aitoolist', url: 'https://www.aitoolist.com/tool/mogofun' },

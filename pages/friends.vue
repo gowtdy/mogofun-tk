@@ -84,5 +84,6 @@ const friendLinks = ref([
   { title: 'web-note', url: 'https://web-note.cn/article/peiyin/2057.html' },
   { title: 'ramen', url: 'https://ramen.tools/@BenjaminCarter' },
   { title: 'resource fyi', url: 'https://resource.fyi/@102038999721857122616' },
+  { title: 'bestaitools', url: 'www.bestaitools.com/home/tiktok-voice' },
 ])
 </script>
